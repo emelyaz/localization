@@ -220,7 +220,7 @@ RESPAWN_SUBTITLE: '§7You will respawn in §c%s §7%s'
 DEATH_MSG_TITLE: '§cYou died'
 
 ERROR_COMMAND: '§cError, please contact %s'
-ERROR_COMMAND_IN_GAME: '%s§cThis command is not available in the game'
+ERROR_COMMAND_IN_GAME: '§cThis command is not available in the game'
 ERROR_TO_LOBBY: '§cError ocured while you were being teleportated to the lobby'
 CHANNEL_NOT_FOUND: '§cChannel %s not found'
 
@@ -632,15 +632,6 @@ GAMEMENU_EGGWARS_LORE:
 - '§7eggs. The rules are very simple:'
 - '§7fight against other teams,'
 - '§7improve generators and enjoy.'
-- ''
-GAMEMENU_KITWARS_LORE:
-- '§8PVP game'
-- ''
-- '§7The aim of the regime is the battle'
-- '§7with opponents to one, and also'
-- '§7with the team using available'
-- '§7sets. You can choose'
-- '§7and upgrade each on its own discretion.'
 - ''
 GAMEMENU_SG_LORE:
 - '§8The Hunger Games'
