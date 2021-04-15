@@ -10187,6 +10187,9 @@ PROTECTION_REMOVEMEMBER_COMPLETE_TO: '§fИгрок %s §fбыл удален и
 PROTECTION_ADDMEMBER_COMPLETE_ERROR: '§fИгрок %s §fуже добавлен в приват §7%s'
 PROTECTION_ADDMEMBER_COMPLETE: '§fИгрок %s §fбыл добавлен в ваш приват §7%s'
 PROTECTION_ADDMEMBER_COMPLETE_TARGET: '§fИгрок %s §fдобавил вас в приват §7%s'
+PROTECTION_ADDMEMBER_REQUEST: '§fЗапрос на добавление в приват отправлен игроку %s'
+PROTECTION_ADDMEMBER_REQUEST_1: ' %s §fхочет добавить вас в приват %s'
+
 PROTECTION_ADDMEMBER_COMPLETE_TO: '§fИгрок %s §fбыл добавлен в приват §7%s игроком %s'
 PROTECTION_ADDMEMBER_FORMAT: '/rg addmember <ник>'
 PROTECTION_ADDMEMBER_2_FORMAT: '/rg addmember <название региона> <ник>'
