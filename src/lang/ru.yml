@@ -1980,7 +1980,7 @@ TRADE_HELP:
 - '§7/trade accept <ник> §f- принять обмен'
 TRADE_INVITE_1: ' %s §fпредложил вам обмен'
 TRADE: '§fЗапрос на обмен отправлен игроку %s'
-TRADE_ERROR_YOU: '§cВы не можете обмениваться сами с собой'
+TRADE_ERROR_YOU: '§cВы не можете принимать запросы сами от себя :/'
 TRADE_ERROR: '§6Trade §8| §fС вами еще никто не хотел поменяться'
 TRADE_ERROR2: '§6Trade §8| §fУ вас нет ожидающих заявок от игрока %s'
 #skyblock holo
@@ -10133,6 +10133,7 @@ PROTECTION_FLAG_NOT_USED_GUI:
 PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен с помощью §7%s'
 PROTECTION_HELP:
 - '§7/rg list §f- список ваших регионов'
+- '§7/rg accept <ник> §f- принять запрос на добавление в приват'
 - '§7/rg addmember <ник> §f- добавить игрока в приват §c(вы должны стоять в привате)'
 - '§7/rg removemember <ник> §f- удалить игрока из привата §c(вы должны стоять в привате)'
 - '§7/rg addmemberall <ник> §f- добавить игрока во все ваши приваты'
@@ -10189,7 +10190,8 @@ PROTECTION_ADDMEMBER_COMPLETE: '§fИгрок %s §fбыл добавлен в �
 PROTECTION_ADDMEMBER_COMPLETE_TARGET: '§fИгрок %s §fдобавил вас в приват §7%s'
 PROTECTION_ADDMEMBER_REQUEST: '§fЗапрос на добавление в приват отправлен игроку %s'
 PROTECTION_ADDMEMBER_REQUEST_1: ' %s §fхочет добавить вас в приват %s'
-
+PROTECTION_ADDMEMBER_REQUEST_ERROR: '§cУ вас нет ожидающих заявок'
+PROTECTION_ADDMEMBER_REQUEST_ERROR2: '§cУ вас нет ожидающих заявок от игрока %s'
 PROTECTION_ADDMEMBER_COMPLETE_TO: '§fИгрок %s §fбыл добавлен в приват §7%s игроком %s'
 PROTECTION_ADDMEMBER_FORMAT: '/rg addmember <ник>'
 PROTECTION_ADDMEMBER_2_FORMAT: '/rg addmember <название региона> <ник>'
