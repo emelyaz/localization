@@ -8784,6 +8784,7 @@ BW_OTHER_SHOP_LORE:
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
 
+RED_SANDSTONE: 'Красный песчаник'
 SANDSTONE: 'Песчаник'
 WEB: 'Паутина'
 SNOW_BALL: 'Снежок'
@@ -9192,132 +9193,7 @@ EW_SHOP_DIAMOND_ARMOR_LORE:
 - ' §8▪ §7Алмазные ботинки'
 
 HNS_KICK_SPECTATOR: 'Спектаторы в данной игре отключены!'
-HNS_MASK_STONE: 'Камень'
-HNS_MASK_STONE_LORE: []
-HNS_MASK_GRASS: 'Блок травы'
-HNS_MASK_GRASS_LORE: []
-HNS_MASK_DIRT: 'Земля'
-HNS_MASK_DIRT_LORE: []
-HNS_MASK_PODZOL: 'Подзол'
-HNS_MASK_PODZOL_LORE: []
-HNS_MASK_COBBLESTONE: 'Булыжник'
-HNS_MASK_COBBLESTONE_LORE: []
-HNS_MASK_PLANKS: 'Доски'
-HNS_MASK_PLANKS_LORE: []
-HNS_MASK_BEREZA_PLANKS: 'Березовые доски'
-HNS_MASK_BEREZA_PLANKS_LORE: []
-HNS_MASK_EL_PLANKS: 'Еловые доски'
-HNS_MASK_EL_PLANKS_LORE: []
-HNS_MASK_DOOB: 'Дуб'
-HNS_MASK_DOOB_LORE: []
-HNS_MASK_EL: 'Ель'
-HNS_MASK_EL_LORE: []
-HNS_MASK_BEREZA: 'Берёза'
-HNS_MASK_BEREZA_LORE: []
-HNS_MASK_TROPIC: 'Тропическое дерево'
-HNS_MASK_TROPIC_LORE: []
-HNS_MASK_SAND: 'Песок'
-HNS_MASK_SAND_LORE: []
-HNS_MASK_GRAVEL: 'Гравий'
-HNS_MASK_GRAVEL_LORE: []
-HNS_MASK_GLASS: 'Стекло'
-HNS_MASK_GLASS_LORE: []
-HNS_MASK_WOOL: 'Шерсть'
-HNS_MASK_WOOL_LORE: []
-HNS_MASK_BOOKS: 'Книжная полка'
-HNS_MASK_BOOKS_LORE: []
-HNS_MASK_SNOW: 'Снег'
-HNS_MASK_SNOW_LORE: []
-HNS_MASK_PUMPKIN: 'Тыква'
-HNS_MASK_PUMPKIN_LORE: []
-HNS_MASK_JACK_O_LANTERN: 'Светильник джека'
-HNS_MASK_JACK_O_LANTERN_LORE: []
-HNS_MASK_MELON: 'Арбуз'
-HNS_MASK_MELON_LORE: []
-HNS_MASK_WORKBENCH: 'Верстак'
-HNS_MASK_WORKBENCH_LORE: []
-HNS_MASK_FURNACE: 'Печка'
-HNS_MASK_FURNACE_LORE: []
-HNS_MASK_ENCHANTTABLE: 'Стол зачарования'
-HNS_MASK_ENCHANTTABLE_LORE: []
-HNS_MASK_ANVIL: 'Наковальня'
-HNS_MASK_ANVIL_LORE: []
-HNS_MASK_JUKEBOX: 'Проигрыватель'
-HNS_MASK_JUKEBOX_LORE: []
-HNS_MASK_TNT: 'Динамит'
-HNS_MASK_TNT_LORE: []
-HNS_MASK_GLOWSTONE: 'Светокамень'
-HNS_MASK_GLOWSTONE_LORE: []
-HNS_MASK_CAULDRON: 'Котёл'
-HNS_MASK_CAULDRON_LORE: []
-HNS_MASK_HAY: 'Сено'
-HNS_MASK_HAY_LORE: []
-HNS_MASK_GOLD_ORE: 'Золотая руда'
-HNS_MASK_GOLD_ORE_LORE: []
-HNS_MASK_PISTON: 'Поршень'
-HNS_MASK_PISTON_LORE: []
-HNS_MASK_HOPPER: 'Воронка'
-HNS_MASK_HOPPER_LORE: []
-HNS_MASK_SOLAR_PANEL: 'Солнечная панель'
-HNS_MASK_SOLAR_PANEL_LORE: []
-HNS_MASK_DROPPER: 'Выбрасыватель'
-HNS_MASK_DROPPER_LORE: []
-HNS_MASK_BEACON: 'Маяк'
-HNS_MASK_BEACON_LORE: []
-HNS_MASK_NOTEBLOCK: 'Нотный блок'
-HNS_MASK_NOTEBLOCK_LORE: []
-HNS_MASK_LEAVES: 'Листва'
-HNS_MASK_LEAVES_LORE: []
-HNS_MASK_LEAVES_HVOYA: 'Хвоя'
-HNS_MASK_LEAVES_HVOYA_LORE: []
-HNS_MASK_LEAVES_BEREZA: 'Березовые листья'
-HNS_MASK_LEAVES_BEREZA_LORE: []
-HNS_MASK_LEAVES_TROPIC: 'Тропические листья'
-HNS_MASK_LEAVES_TROPIC_LORE: []
-HNS_MASK_FLOWER_POT: 'Горшок'
-HNS_MASK_FLOWER_POT_LORE: []
-HNS_MASK_LAMP: 'Лампа'
-HNS_MASK_LAMP_LORE: []
-HNS_MASK_LAMP_ON: 'Светящая лампа'
-HNS_MASK_LAMP_ON_LORE: []
-HNS_MASK_COAL_ORE: 'Уголь'
-HNS_MASK_COAL_ORE_LORE: []
-HNS_MASK_IRON_ORE: 'Железная руда'
-HNS_MASK_IRON_ORE_LORE: []
-HNS_MASK_ACACIA_PLANKS: 'Доски акации'
-HNS_MASK_ACACIA_PLANKS_LORE: []
-HNS_MASK_TROPIC_PLANKS: 'Тропические доски'
-HNS_MASK_TROPIC_PLANKS_LORE: []
-HNS_MASK_BREWING_STAND: 'Варочная стойка'
-HNS_MASK_BREWING_STAND_LORE: []
-HNS_MASK_CAKE: 'Торт'
-HNS_MASK_CAKE_LORE: []
-HNS_MASK_DEAD_BUSH: 'Мертвый куст'
-HNS_MASK_DEAD_BUSH_LORE: []
-HNS_MASK_GLASS_PANE: 'Стеклопанель'
-HNS_MASK_GLASS_PANE_LORE: []
-HNS_MASK_ANDEZITE: 'Андезит'
-HNS_MASK_ANDEZITE_LORE: []
-HNS_MASK_BLACK_WOOL: 'Черная шерсть'
-HNS_MASK_BLACK_WOOL_LORE: []
-HNS_MASK_STONEBRICK: 'Каменные кирпичи'
-HNS_MASK_STONEBRICK_LORE: []
-HNS_MASK_BRICK: 'Кирпичи'
-HNS_MASK_BRICK_LORE: []
-HNS_MASK_TALLGRASS: 'Трава'
-HNS_MASK_TALLGRASS_LORE: []
-HNS_MASK_IRON_BLOCK: 'Железный блок'
-HNS_MASK_IRON_BLOCK_LORE: []
-HNS_MASK_RED_SANDSTONE: 'Красный песчаник'
-HNS_MASK_RED_SANDSTONE_LORE: []
-HNS_MASK_SOUL_SAND: 'Песок душ'
-HNS_MASK_SOUL_SAND_LORE: []
-HNS_MASK_DARK_OAK_STAIRS: 'Темные ступеньки'
-HNS_MASK_DARK_OAK_STAIRS_LORE: []
-HNS_MASK_EL_STAIRS: 'Еловые ступеньки'
-HNS_MASK_EL_STAIRS_LORE: []
-HNS_MASK_QUARTZ: 'Блок кварца'
-HNS_MASK_QUARTZ_LORE: []
+
 HNS_MASK_DEFAULT: 'Случайная маскировка'
 HNS_MASK_DEFAULT_LORE:
 - ''
@@ -9717,6 +9593,7 @@ CYAN_DYE: 'Бирюзовый краситель'
 PUMPKIM_PIE: 'Тыквенный пирог'
 GLISTERING_MELON_SLICE: 'Сверкающий арбуз'
 COMPASS: 'Компас'
+BREWING_STAND_ITEM: 'Зельеварка'
 OAK_BOAT: 'Дубовая лодка'
 MOSSY_COBBLESTONE: 'Замшелый булыжник'
 WOOL: 'Шерсть'
@@ -9737,7 +9614,9 @@ NETHER_BRICK: 'Адский кирпич'
 MYCEL: 'Мицелий'
 ENDER_STONE: 'Камень Края'
 QUARTZ: 'Кварц'
+QUARTZ_BLOCK: 'Кварцевый блок'
 PRISMARINE: 'Призмарин'
+CAULDRON_ITEM: 'Котел'
 SEA_LANTERN: 'Морской фонарь'
 PURPUR_BLOCK: 'Пурпурный блок'
 MAGMA: 'Магма'
@@ -9752,8 +9631,18 @@ SEEDS: 'Семена'
 PUMPKIN_SEEDS: 'Семена тыквы'
 MELON_SEEDS: 'Семена арбуза'
 NETHER_STALK: 'Адский нарост'
+WORKBENCH: 'Верстак'
+PISTON_BASE: 'Поршень'
+HAY_BLOCK: 'Сноп сена'
+HOPPER: 'Воронка'
+DROPPER: 'Выбрасыватель'
+STAINED_GLASS_PANE: 'Стеклянная панель'
+FLOWER_POT_ITEM: 'Горшок'
+BEACON: 'Маяк'
+FURNACE: 'Печка'
 SUGAR_CANE: 'Тростник'
 WHEAT: 'Пшеница'
+DAYLIGHT_DETECTOR: 'Солнечная панель'
 CACTUS: 'Кактус'
 SAPLING: 'Саженец'
 RED_MUSHROOM: 'Красный гриб'
@@ -10430,19 +10319,48 @@ TOTEM_OF_UNDYING: 'Тотем бессмертия'
 END_STONE: 'Камень края'
 PODZOL: 'Подзол'
 MYCELIUM: 'Мицелий'
-WHITE_WOOL: 'Белая шерсть'
 BRICKS: 'Кирпичи'
 BLUE_ICE: 'Синий лёд'
 SOUL_SOIL: 'Почва душ'
 RED_SAND: 'Красный песок'
 WARPED_STEM: 'Искажённый стебель'
 CRIMSON_STEM: 'Багровый стебель'
-DARK_OAK_LOG: 'Тёмный дуб'
+DARK_OAK_LOG: 'Темный дуб'
 ACACIA_LOG: 'Акация'
 JUNGLE_LOG: 'Тропическое дерево'
-BIRCH_LOG: 'Бёрёза'
+BIRCH_LOG: 'Береза'
 SPRUCE_LOG: 'Ель'
 OAK_LOG: 'Дуб'
+SPRUCE_STAIRS: 'Еловые ступеньки'
+DARK_OAK_STAIRS: 'Ступеньки из темного дуба'
+OAK_WOOD: 'Дубовые доски'
+SPRUCE_WOOD: 'Еловые доски'
+BIRCH_WOOD: 'Березовые доски'
+JUNGLE_WOOD: 'Тропические доски'
+ACACIA_WOOD: 'Акациевые доски'
+DARK_OAK_WOOD: 'Доски из темного дуба'
+OAK_LEAVES: 'Дубовая листва'
+SPRUCE_LEAVES: 'Еловая листва'
+BIRCH_LEAVES: 'Березовая листва'
+JUNGLE_LEAVES: 'Тропическая листва'
+ACACIA_LEAVES: 'Акациевая листва'
+DARK_OAK_LEAVES: 'Листва темного дуба'
+WHITE_WOOL: 'Белая шерсть'
+ORANGE_WOOL: 'Оранжевая шерсть'
+MAGENTA_WOOL: 'Пурпурная шерсть'
+LIGHT_BLUE_WOOL: 'Голубая шерсть'
+YELLOW_WOOL: 'Желтая шерсть'
+LIME_WOOL: 'Лаймовая шерсть'
+PINK_WOOL: 'Розовая шерсть'
+GRAY_WOOL: 'Серая шерсть'
+LIGHT_GRAY_WOOL: 'Светло-серая шерсть'
+CYAN_WOOL: 'Бирюзовая шерсть'
+PURPLE_WOOL: 'Фиолетовая шерсть'
+BLUE_WOOL: 'Синяя шерсть'
+BROWN_WOOL: 'Коричневая шерсть'
+GREEN_WOOL: 'Зеленая шерсть'
+RED_WOOL: 'Красная шерсть'
+BLACK_WOOL: 'Черная шерсть'
 GRASS_BLOCK: 'Дёрн'
 HONEYCOMB_BLOCK: 'Пчелиные соты'
 HONEY_BLOCK: 'Блока мёда'
