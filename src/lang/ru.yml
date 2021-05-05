@@ -10652,3 +10652,12 @@ BOOSTER_BUY_CONFIRMATION_LORE:
 BOOSTER_ACTIVE_MESSAGE: '§6Boosters §8| §fВ данный момент у вас %s'
 BOOSTER_ACTIVED_MESSAGE: 'активирован'
 MULTI_GAME_VALUE: '§f(с учетом всех бонусов §a%s§f)'
+
+
+LIME_CONCRETE: 'Лаймовый бетон'
+RED_CONRETE: 'Красный бетон'
+BEETROOT_SOUP: 'Свекольный суп'
+BLAST_FURNACE: 'Плавильная печь'
+PUMPKIN_PIE: 'Тыквенный пирог'
+BROWN_BED: 'Коричневая кровать'
+LECTERN: 'Кафедра'
