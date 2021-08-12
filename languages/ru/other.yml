@@ -1,0 +1,1095 @@
+LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на: §c%s'
+
+ME_FORMAT: /me <сообщение>
+DO_FORMAT: /do <сообщение>
+DO_NOT_SEND_SIMILAR_MESSAGES: ' §cℹ Не повторяйте одинаковые сообщения'
+DO_NOT_SPAM: ' §cℹ Не флудите'
+TRY_FORMAT: /try <сообщение>
+COMMAND_DISABLE_ON_SPAWN: §cДанная команда не доступна в мире спавна
+WEB_BUY_ITEMS: §6Сервер §8| §fПоздравляем с покупкой %s §8x%s
+RESTART_ARENA_MSG: §cРестарт арены, через 5 секунд вы будете перемещены в лобби
+WAIT_PLS: §cПодождите немножко...
+TEMP_GROUP_EXPIRE_SUB_TITLE: §fВаш статус %s §fбыл сброшен до %s
+TEMP_GROUP_EXPIRE_TITLE: §cВремя истекло!
+SIT_DISABLE: §6Сервер §8| §fВы успешно встали
+SIT_ENABLE: §6Сервер §8| §fВы успешно сели
+SIT_ERROR: §6Сервер §8| §fВы не можете сидеть в воздухе
+PLEASE_SETUP_EMAIL: §c⚠ Внимание! §fВы не привязали §cэл. почту §fк своему аккаунту,
+  сделайте это прямо сейчас - §e/email
+PLEASE_SETUP_EMAIL_HOVER:
+  - §fНажмите сюда,
+  - §fчтобы добавить почту
+PLEASE_SETUP_VK: §c⚠ Внимание! §fВы не привязали §9VK §fбота к своему аккаунту, сделайте
+  это прямо сейчас в нашей группе §dvk.me/lastcraft
+CRASH_ERROR_YOU: §cТы не можешь сам себя крашнуть
+CRASH_FORMAT: /crash <ник игрока>
+CRASH_PLAYER: §fВы крашнули игрока %s
+GAMEINFO_FORMAT: /gameinfo [канал]
+UNKNOWN_SUBCOMMAND: §cЭтой команды не существует О_о
+HELP_FRIENDS:
+  - §7/friends add <ник игрока> §f- добавить игрока в друзья
+  - §7/friends remove <ник игрока> §f- удалить игрока из друзей
+  - §7/friends accept <ник игрока> §f- принять запрос игрока в друзья
+  - §7/friends decline <ник игрока> §f- отклонить запрос игрока в друзья
+  - §7/friends requests §f- список запросов в друзья
+  - §7/friends list §f- список друзей
+  - §7/friends tp <ник игрока> §f- телепортация на сервер друга
+  - §7/friends party §f- отправить всем друзьям онлайн приглашение в Party
+HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
+
+FINAL_KILL: '%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!'
+FINAL_KILLS_STAT: Финальных убийств
+BOSS_BAR_LOBBY:
+  - §fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lLASTCRAFT.NET
+  - §fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §d§lDISCORD.LASTCRAFT.NET
+  - §fСОКРУШИТЕЛЬНЫЙ §cОБВАЛ §fЦЕН! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §610%
+  - '§fНОВЫЕ §cПОХОТЛИВЫЕ§f ТИТУЛЫ! СПЕШИ §aКУПИТЬ§f! '
+  - §fХОЧЕШЬ БЫСТРЕЕ ПОЛУЧИТЬ §aМОНЕТЫ §fИ §6ОПЫТ§f? ПОКУПАЙ §aБУСТЕРЫ§f!
+  - §fУДИВИ СВОИХ §eДРУЗЕЙ §fНЕОБЫЧНЫМ §6ПРЕФИКСОМ §7► §c§l/RGB
+  - §fКРУПНОЕ ИЗМЕНЕНИЕ §eКАРТ §fДЛЯ РЕЖИМОВ §aSkyWars §fИ §6LuckyWars
+  - §bКРУПНЫЕ §fИЗМЕНЕНИЯ §dEggWars §fУЖЕ §aНА СЕРВЕРЕ§f!
+LIMIT_PURCHASE_MESSAGES:
+  - §6Гильдии §8| §fВы приобрели §eулучшение банка %s
+LIMIT_REACHED: §6Сервер §8| §fВы достигли лимита для этого наказания, подождите еще
+  §e%s
+RULES_COMMAND: '§6Сервер §8| §fПолный список правил сервера - '
+RULES_COMMAND_HOVER: §fНажмите сюда, чтобы перейти по ссылке
+
+ACCEPT_LORE_NO:
+  - ''
+  - §7Отменить действие
+
+ANSWER_FORMAT: /ans <ник> <ответ>
+ANSWER_NO: Нет
+ANSWER_YES: Да
+
+
+PAGE_ARROW1: §aСледующая страница
+PAGE_ARROW2: §aПредыдущая страница
+PAGE_ARROW_GUI: страница
+PAGE_ARROW_LORE:
+  - §7Нажмите для перехода
+  - §7на %s страницу
+KEY_BOX: '%sУ вас %s %s'
+KEY_LORE_REWARD_LOCALE: §8 • §f%s §7(§d%s§7)
+
+
+GIFT_ALREADY_ACTIVATED: §cОшибка, купон %s уже был активирован вами ранее
+GIFT_FORMAT: /gift <секретный_код>
+GIFT_NOT_FOUND: §cОшибка, купон %s не найден
+COOLDOWN_2: §cПодождите %s перед следующим использованием
+COOLDOWN_SEND_MESSAGE: §cПодождите %s перед следующим использованием оффлайн сообщений
+  (если вы будете писать друзьям, то лимита не будет)
+
+
+LIST_CMD: '%s§fНа сервере §a%s §f%s: %s'
+LIST_EMPTY: §8Никого нет
+MESSAGE_CHAT_HOVER:
+  - §fНажмите сюда, чтобы еще раз написать
+  - §fигроку %s §fв лс
+MESSAGE_FORMAT: §c/msg <ник> <сообщение>
+MESSAGE_NOT_FOUND: §cСообщение %s не найдено
+REDIRECT_ERROR: §cНевозможно найти подходящий сервер(
+REDIRECT_TO_SERVER: §aТелепортирую на сервер %s
+BOOK_RULES_LORE:
+  - §7Используйте этот предмет,
+  - §7чтобы прочесть краткий свод правил
+  - §7для игры на сервере
+BOOK_RULES_NAME: §eПравила
+CATEGORIES_ITEM_LORE:
+  - §7Кликните, чтобы выбрать предметы
+CATEGORIES_ITEM_NAME: §eПредметы
+SLOT_BUSY: §cПростите, но вы были перемещены в лобби, ваше место занял §r%s
+ONLY_DONATOR: §cОшибка, на арене только донатеры
+ARENA_BUSY: §cАрена заполнена, не хватает слотов? Купите §a§lEMERALD§c или выше
+ARENA_RESTART: §cСервер перезагружается...
+ARENA_START: §cИгра начинается...
+
+QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§a%s§f)'
+GLOBAL_TEAM_GAME_CHAT_FORMAT: ' §8[§cВсем§8] '
+LOCAL_TEAM_GAME_CHAT_FORMAT: ' §8[§aКоманде§8] '
+SOLO_NO_TEAM: §c§lВнимание! §cКомандная игра запрещена на Solo режиме.
+WELCOME_TITLE: §fДобро пожаловать!
+TO_START_TITLE: §fДо старта
+
+ENCHANT_TITLE: Чары
+LOCATOR_ITEM_LORE:
+  - §7Используйте этот предмет, чтобы
+  - §7находить ближайшего игрока
+LOCATOR_ITEM_NAME: §aЛокатор
+RESPAWN_ANCHOR: Якорь возрождения
+RESPAWN_SUBTITLE: §7Вы возродитесь через §c%s §7%s
+RESPAWN_TITLE: §aВы возродились
+DEATH_MSG_TITLE: §cВы погибли
+MOBS_1:
+  - моб
+  - ''
+  - а
+  - ов
+MOBS_TOP_KILLS_HOLO:
+  - §6§lТоп по убийствам
+  - §fТоп игроков по кол-ву
+  - §fубитых мобов
+KILLS_1:
+  - убийств
+  - о
+  - а
+  - ''
+KILLS_STAT: Убийств
+DUST_1:
+  - пыл
+  - ь
+  - и
+  - и
+PLAYERS_1:
+  - игрок
+  - ''
+  - а
+  - ов
+KEYS_1:
+  - ключ
+  - ''
+  - а
+  - ей
+KEYS_LORE_REWARD_LOCALE: §8 • §f%s §7(от §d%s§7 до §d%s§7)
+KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
+MAPS_1:
+  - карт
+  - а
+  - ы
+  - ''
+WINS_1:
+  - побед
+  - а
+  - ы
+  - ''
+WINS_AS_HIDER_STAT: Побед за прячущихся
+WINS_AS_SEEKER_STAT: Побед за искателей
+WINS_STAT: Побед
+RATING_1:
+  - рейтинга
+  - ''
+  - ''
+  - ''
+RATING_STAT: Рейтинг
+REPORTS_1:
+  - жалоб
+  - а
+  - ы
+  - ''
+LVL_UP: §a§l§kX§r §6§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r
+NEW_LVL: §fВы достигли §d%s§f уровня!
+EXP_BOTTLE: Пузырьки опыта
+EXP_LORE_REWARD_LOCALE: §8 • §fОпыт §7(от §a%s §7до §a%s§7)
+EXP_REWARD_LOCALE: ' §7+ §a%s §fопыта'
+EXP_TO_NEW_LVL: §fДо следующего уровня нужно §a%s§f опыта
+GET_REWARD: §7Зайдите в профиль, чтобы получить свою награду
+REGION_NOT_FOUND: Не найден
+LEVELING_LOAD_LORE:
+  - §7Информация о ваших уровнях загружается
+  - §7или награды отсутствуют вовсе...
+LEVELING_LOAD_NAME: §cИнформация загружается...
+LEVELING_WAIT_REWARD: §6Сервер §8| §fУ вас есть §a%s§f наград, которые вы не забрали.
+  Чтобы их забрать, напишите §7/profile§f и перейдите во вкладку §bуровень
+BLACK_SHULKER_BOX: Чёрный шалкер-бокс
+BLACK_WOOL: Черная шерсть
+
+PURPLE_SHULKER_BOX: Фиолетовый шалкер-бокс
+PURPLE_WOOL: Фиолетовая шерсть
+GRAY_WOOL: Серая шерсть
+BLUE_ICE: Синий лёд
+BLUE_ORCHID: Синяя орхидея
+BLUE_WOOL: Синяя шерсть
+GREEN_DYE: Зеленый краситель
+GREEN_WOOL: Зеленая шерсть
+LIGHT_BLUE_WOOL: Голубая шерсть
+LIGHT_GRAY_WOOL: Светло-серая шерсть
+LIGHT_PURPLE: Розовый
+YELLOW_WOOL: Желтая шерсть
+WHITE_SHULKER_BOX: Белый шалкер ящик
+WHITE_TULIP: Белый тюльпан
+WHITE_WOOL: Белая шерсть
+PREFIX_CHANGE_LORE:
+  - '§7Сменить префикс на: %s'
+  - ''
+  - §e▸ Нажмите, чтобы установить префикс
+PREFIX_CHANGE_LORE2:
+  - ''
+  - §aПрефикс выбран
+PREFIX_SET: §6Сервер §8| §fВаш префикс был изменен
+TPTOGGLE_DISABLE: Телепортации - §cотключены
+TPTOGGLE_ENABLE: Телепортации - §aвключены
+TPTOGGLE_ITEM_NAME: §aТелепортации §f- §a%s
+
+
+SYSTEM_DISABLED_LORE:
+  - §cДанная функция отключена
+CONTAINER_GUI_ITEM_LORE:
+  - ''
+  - '§7Можно открыть командой: §f%s'
+  - §7Доступно от %s
+  - ''
+  - §e▸ Нажмите, чтобы открыть
+CONTAINER_GUI_LORE:
+  - ''
+  - §7Получить список
+  - §7всех крафт столов
+  - §7и эндерсундука
+  - ''
+  - §e▸ Нажмите, чтобы открыть меню
+CONTAINER_GUI_NAME: Крафт столы
+CREATE_WARP_FORMAT: /createwarp <название>
+DEL_WARP_FORMAT: /delwarp <название>
+CLEAR_INV: Все предметы удалены
+CLEAR_INV_TO: У игрока %s §fудалены все предметы
+EXT_TO: Вы пошушили игрока %s
+HEAL_TO: Хп и голод восстановлены игроку %s
+TELEPORT_MOVE_ERROR: §cОшибка, вы двинулись, телепортация отменена
+TELEPORT_TO: Игрок %s §fбыл телепортирован к игроку %s
+TELEPORTING_RUNNING: §cПроцесс телепортации уже запущен!
+SPAWN_TO: Игрок %s §fперемещен на спавн
+GOD_DISABLE: Режим бога - §cотключен
+GOD_DISABLE_TO: Для игрока %s §fрежим бога - §cотключен
+GOD_ENABLE: Режим бога - §aвключен
+GOD_ENABLE_TO: Для игрока %s §fрежим бога - §aвключен
+NEAR_NOT_FOUND: Ближайших игроков нет
+FEED_TO: Голод восстановлен игроку %s
+
+REPAIR_ERROR: §cЭтот предмет не может быть отремонтирован
+WRITE_AGAIN_COMMAND: Чтобы подвердить выполнение команды, напишите §7/%s §fповторно
+DISPELL_ERROR: §cЭтот предмет не содержит чары
+GAMEMODE_FORMAT: /gamemode <1|2|0>
+GAMEMODE_TO: Игроку %s §fустановлен режим - §c%s
+SURVIVAL_KEY: §aСкайблочный ключ
+SURVIVAL_KEY_LORE:
+  - ''
+  - §7Используется для получения
+  - §7различных "наборов" и отдельных предметов
+SURVIVAL_MODE: Выживание
+CREATIVE_MODE: Креатив
+ADVENTURE_MODE: Приключенческий
+TP_FORMAT: /tp <ник>
+SETHOME_FORMAT: /sethome <название>
+DELHOME_FORMAT: /delhome <название>
+S_FORMAT: /s <ник игрока>
+TPACCEPT_ERROR: У вас нет ожидающих заявок
+TPACCEPT_ERROR_PLAYER: У вас нет ожидающих заявок от игрока %s
+TPACCEPT_SENDER: Вы приняли запрос от игрока %s
+TPACCEPT_WHO: Игрок %s §fпринял ваш запрос на телепортацию
+TPDENY_YOU: Игрок %s §fотклонил ваш запрос на телепортарацию
+ALTERNATE_GUI_NAME: Меню
+HOMES_1:
+  - дом
+  - а
+  - ов
+  - ов
+HOMES_2:
+  - дом
+  - ''
+  - а
+  - ов
+WARPS_1:
+  - варп
+  - а
+  - ов
+  - ов
+HOVER_MESSAGE_CHAT:
+  - §fНажмите сюда, чтобы написать
+  - §fигроку %s §fв лс
+HAT_ERROR: §cВы должны что-то держать в руке, чтобы одеть это на голову
+HAT_ERROR_ENCHANT: §cОшибка, вы должны снять текущий головной убор
+TPPOS_ERROR: §cАргументы не верны, должны быть цифры
+TPPOS_ERROR_BORDER: §cВы не можете телепортироваться в данную локацию, она находится
+  за пределами границы мира
+TPPOS_FORMAT: /tppos <x> <y> <z>
+CHUNK_FORMAT: /chunk <x> <z>
+WARPINFO_FORMAT: /warpinfo <название варпа>
+
+USER_SETBED: Точка §aдома §fустановлена
+USER_SETHOME_BED: Чтобы установить §aточку дома§f, кликните §7ПКМ §fпо кровати
+
+NAME_IS_INVALID: §cВ нике есть недопустимые символы. Разрешено использовать только
+  цифры и английские буквы!
+
+
+
+
+
+TAB_FOOTER:
+  - ''
+  - '§fВы находитесь на сервере:'
+  - §e%s
+TAB_HEADER:
+  - §6§lLastCraft
+  - ''
+  - '§fОнлайн-магазин:'
+  - §elast-craft.com
+  - ''
+REGISTER_PLEASE: §7Зарегистрируйтесь - §e/reg §f[§eпароль§f] §f[§eповтор пароля§f]
+REGISTER_USAGE: /reg <пароль> <повтор пароля>
+FAIL_AUTH: §cОшибка, неверный пароль!
+SUCCESS_AUTH: §fАвторизация успешна! Приятной игры :)
+SUCCESSFUL_REGISTRATION: §6Ты успешно зарегистрировался! §fТвой текущий пароль
+REGISTERED_PASS_HOVER:
+  - §fПароль - §a%s
+  - ''
+  - §fЗапомни его или сделай
+  - §fскриншот, чтобы не забыть - §cклавиша F2§7
+REJOIN_TO_BE_PREMIUM:
+  - §6Лицензия §8| §fПерезайди на сервер с лицензионного аккаунта, чтобы активировать
+    данную опцию
+  - §6Лицензия §8| §fЕсли спустя §c2 §fминуты, ты не зайдешь с §aлиц. аккаунта§f, то
+    вход будет вновь доступен с пиратского
+PASSWORDS_MISMATCH: §cОшибка, указанные пароли не совпадают!
+PASSWORD_HAS_BEEN_CHANGED: §eВаш пароль был успешно изменен
+LOGIN_USAGE: /login <ваш пароль>
+CHANGEPASS_FORMAT: /changepass <старый пароль> <новый пароль>
+SELECTED_SKIN_IS_INVALID: §cВыбранный вами скин невалиден или произошла какая-то ошибка
+FIND_FORMAT: /find <ник игрока>
+FIND_RESULT: §6Сервер §8| §fИгрок %s §fнаходится на сервере §c%s
+FIND_RESULT_OFFLINE: §6Сервер §8| §fИгрок %s §fоффлайн, последний раз он был на сервере
+  §7%s §fназад
+ALERT_COOLDOWN: §cОшибка, писать сообщения в общий чат можно раз в минуту
+ALERT_FORMAT: /alert <сообщение>
+SEND_FORMAT: /send <ник игрока> <сервер>
+SENDING_PLAYER_TO_SERVER: §6Сервер §8| §fИгрок %s §fуспешно телепортирован на сервер
+  §c%s
+REPLY_FORMAT: §c/reply <сообщение>
+REPLY_PLAYER_OFFLINE: §cВам никто не писал
+SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я §8-> §6%s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §6ЛС §8| §6%s §8-> §6Я §8| §f%s'
+STAFFCHAT_DISABLED: §cМодерация §8| §f%s §7теперь не видит чат персонала
+STAFFCHAT_ENABLED: §cМодерация §8| §f%s §7снова видит чат персонала
+STAFFCHAT_FORMAT: /staffchat <сообщение>
+STAFFCHAT_MSG: §eЧат персонала §8| §f%s §8» §f%s
+DONATECHAT_ENABLED: §aВы снова видите донат-чат
+DONATECHAT_FORMAT: /donatechat <сообщение>
+DONATECHAT_MSG: §6Чат донатеров §8| §f%s §8» §7%s
+DONATECHAT_TOGGLE: §6Чат донатеров §8| %s
+ROLL_BROADCAST: §6Creative §8| §fИгроку %s §fвыпало число §a%s §fиз §e%s
+CANT_MESSAGE_YOURSELF: §cВы не можете написать самому себе
+IGNORELIST_EMPTY: §cВ Вашем списке игнорируемых нет игроков.
+REQUEST_GUI_NAME: Список запросов
+HISTORY_ENTRY: ' §f- §7Администратор: §c%s %s §8| §7Причина: §c%s §8| §7Дата: §c%s'
+TOO_BIG_BANTIME: §cОшибка, Вы не можете наказывать на такой срок
+TOO_BIG_GUILD_MUTE_TIME: §cОшибка, максимальное время блокировки чата в гильдии -
+  1 день
+TOO_MANY_REPORTS: §cЖалобы §8| §fНа игрока %s §fпоступило уже §c%s §fжалоб(ы)
+JUNIORS_GUI_MAIN_LORE:
+  - ' '
+  - '§7Младших хелперов:'
+  - §a%s
+HELPERS_GUI_MAIN_LORE:
+  - ' '
+  - '§7Хелперов:'
+  - §a%s
+MODERATORS_GUI_MAIN_LORE:
+  - ' '
+  - '§7Модераторов:'
+  - §a%s
+ADMINS_GUI_MAIN_LORE:
+  - ' '
+  - '§7Администраторов:'
+  - §a%s
+REDIRECTED_TO_LOBBY: §aВы были телепортированы на %s
+ONLINE_ALL_PLAYERS_ONLINE: §6Онлайн §8| §fОбщий онлайн проекта §a%s §f%s
+ONLINE_PLAYERS_ONLINE: §6Онлайн §8| §fОнлайн указанных режимов §a%s §f%s
+LICENSE_NOT_USED: §cОшибка, у игрока %s не включен вход по лицензии
+ADMIN_LICENSE_OFF: §6Авторизация §8| §fВход по лицензии был отключен у игрока §e%s
+LEADER_LEAVE_PARTY: §6Party §8| §fЧтобы §cпокинуть §fгруппу, сначала передайте права
+  управления ею другому игроку!
+RETRIES_1:
+  - попыт
+  - ка
+  - ки
+  - ок
+CANCEL_NAME: §cОтменить
+CONFIRMED_NAME: Подтвердить
+SETRANK_PERMISSION: Управление должностями
+SETRANK_PERMISSION_LORE:
+  - ' '
+  - §7Все участники ранга %s
+  - §7смогут управлять рангами
+  - §7участников гильдии
+  - §7(доступ к /guild setrank)
+  - ' '
+  - §c[!] §7Дает возможность устанавливать
+  - '   §7ранг не Выше своего, учитывается'
+  - '   §7приоритет ранга'
+  - ' '
+MUTE_FORMAT: /mute <ник> <время/e> <причина>
+MUTE_PERMISSION: Мут игроков
+MUTE_PERMISSION_LORE:
+  - ' '
+  - §7Все участники ранга %s
+  - §7смогут заблокировать чат
+  - §7другим участникам
+  - §7(доступ к /guild mute)
+  - ' '
+  - §c[!] §7Дает возможность выдавать мут
+  - '   §7только рангам игроков ниже,'
+  - '   §7учитывается приоритет ранга'
+  - ' '
+COLOR_PERMISSION: Цветной текст
+COLOR_PERMISSION_LORE:
+  - ' '
+  - §7Все участники ранга %s
+  - §7смогут писать в чат гильдии
+  - §7цветным текстом
+  - ' '
+PERMISSION_NO: §cзапрещено
+PERMISSION_YES: §aразрешено
+CLICK_TO_CHANGE_PRIORITY:
+  - §e▸ ЛКМ, чтобы ⤴ приоритет на 1 ед.
+  - §e▸ ПКМ, чтобы ⤵ приоритет на 1 ед.
+CLICK_TO_DELETE_RANK: §e▸ Нажмите, чтобы удалить ранг
+CLICK_TO_VOTE_THIS: §fКликните, чтобы оценить! Оценку нельзя будет изменить позже
+PERM_CLICK_TO_ADD: §e▸ Нажмите, чтобы разрешить
+PERM_CLICK_TO_REMOVE: §e▸ Нажмите, чтобы запретить
+PERM_YOU_CANT: §c▸ Нельзя изменять права этого ранга
+MOTD_PURCHASE_MESSAGES:
+  - ' '
+  - '                §8-| §6§lГИЛЬДИИ §8|-'
+  - ' §fПоздравляем! Вы приобрели улучшение §eприветствие гильдии'
+  - ' §fДля задания сообщения при входе используйте следующие команды:'
+  - ' §7/guild motd addline <текст> §f- добавить строку'
+  - ' §7/guild motd removeline <номер строки> §f- удалить строку'
+  - ' §7/guild motd §f- просмотреть текущее приветствие гильдии'
+  - ' '
+TAG_PURCHASE_MESSAGES:
+  - ' '
+  - '                §8-| §6§lГИЛЬДИИ §8|-'
+  - ' §fПоздравляем! Вы приобрели улучшение §eтэг гильдии'
+  - ' §fТеперь Вы можете задать §7суффикс§f, который будет отображен'
+  - ' §fпосле ника каждого участника Вашей гильдии'
+  - ' §fДля этого используйте команду §7/guild tag'
+  - ' '
+POINT_PURCHASE_MESSAGES:
+  - ' '
+  - '                §8-| §6§lГИЛЬДИИ §8|-'
+  - ' §fПоздравляем! Вы приобрели улучшение §eдом гильдии'
+  - ' §fТеперь Вы можете устанавливать локацию дома гильдии'
+  - ' §fДля этого используйте команду §7/guild sethome'
+  - ' '
+MEMBER_PURCHASE_MESSAGES:
+  - §6Гильдии §8| §fВы приобрели §eулучшение вместимости %s
+MY_ONLINE_TIME:
+  - §6Время §8| §fПроведено времени на сервере за §7все время§f - §a%s
+  - §6Время §8| §fПроведено времени на сервере за §7%s §f- §a%s
+DAILY_REWARD_KEY: Награда за %s день
+DAILY_REWARD_LORE_KEY:
+  - ' '
+  - §7Ежедневная награда, которая
+  - '§7включает в себя:'
+REWARDS_1:
+  - бонус
+  - ''
+  - а
+  - ов
+AVAILABLE_1:
+  - Доступ
+  - ен
+  - но
+  - но
+AVAILABLE_SERVER_NOT_FOUND: §6Сервер §8| §fНе удалось найти подходящий сервер
+PUBLIC_PARTY_SETTING: публичность
+PUBLIC_PARTY_SETTING_DESCRIPTION: делает группу публичной и разрешает вступать в нее
+  без приглашения
+ALL_INVITE_PARTY_SETTING: приглашения
+ALL_INVITE_PARTY_SETTING_DESCRIPTION: позволяет всем участникам приглашать игроков
+  в группу
+ALL_TIME_STATS_NAME: Статистика за все время
+GOODGAME_FORMAT: /gg <ник>
+BANSTAT_FORMAT: /banstat <ник> <нач. дата> <конеч. дата>
+MODERATOR_STAT:
+  - §6Статистика §8| §fИнформация об %s §fза §e%s -> %s
+  - ' §e• §fВсего банов: §a%s'
+  - ' §e• §fВсего мутов: §a%s'
+TARGET_FRIENDS_LIMIT: §cУказанный Вами игрок не может принимать заявки в друзья, поскольку
+  его лимит превышен
+CORE_NAME: §cСервер
+THIS_PLAYER_IS_TESTER_FIND: §6Сервер §8| §fДанный игрок является тестером анти-чита.
+  Его нельзя отследить в данный момент
+THIS_PLAYER_IS_TESTER_REPORT: §6Античит §8| §fДанный игрок не читер
+CHOSEN_ITEM_IS: '§7Выбрано: §a%s'
+COINS_EARNED_PER_GAME_STAT: Монет заработано
+COINS_PREDICATE_ERROR_MSG: ' §8• §b%s §7%s (ваш баланс §b%s §7%s)'
+GAMES_STAT: Игр сыграно
+BEDS_BREAKED_STAT: Кроватей сломано
+EGGS_STAT: Сломано яиц
+GENERATOR_STAT: Улучшено генераторов
+ENCHANTED_BOOK: Зачарованная книга
+ENCHANTED_BOOK_ERROR: §6Enchanted §8| §fОшибка, вам нужно иметь §a%s §fуровень, чтобы
+  наложить эти чары на предмет
+ENCHANTED_GOLDEN_APPLE: Зачарованное золотое яблоко
+CHESTS_LOOTED_STAT: Облутано сундуков
+PARKOURRACERS_CLASSIC_TYPE: §eКлассический режим
+PARKOURRACERS_DUO_TYPE: §eПарный режим
+PARKOURRACERS_SOLO_TYPE: §eОдиночный режим
+LUCKYWARS_DUO_TYPE: §eПарный режим
+LUCKYWARS_SOLO_TYPE: §eОдиночный режим
+BEDWARS_DUO_TYPE: §eПарный режим
+BEDWARS_RANKED_TYPE: §eРейтинговый режим
+BEDWARS_SOLO_TYPE: §eОдиночный режим
+BEDWARS_TEAM_TYPE: §eКомандный режим
+EGGWARS_DUO_TYPE: §eПарный режим
+EGGWARS_SOLO_TYPE: §eОдиночный режим
+EGGWARS_TEAM_TYPE: §eКомандный режим
+EVENTS_LIVED_STAT: Пережито событий
+SURVIVALGAMES_DUO_TYPE: §eПарный режим
+SURVIVALGAMES_SOLO_TYPE: §eОдиночный режим
+MONTHLY_STATS_NAME: Статистика за месяц
+INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
+INGAME_STATS_MESSAGES:
+  - '§6Статистика §8| §f%s %s §fна §e%s %s§f:'
+INGAME_STATS_MESSAGES_TITLE:
+  - ' '
+  - ' §cВНИМАНИЕ! §fБудет отображена статистика только'
+  - ' §fс текущего режима. Чтобы просматривать статистику'
+  - ' §fсо всех режимов, перейдите в лобби'
+LWS_GAME_DESC:
+  - Ваша задача ломать лакиблоки и убивать игроков
+  - Вас будет преследовать множество ловушек,
+  - так что будьте очень осторожны!
+LWD_GAME_DESC:
+  - Ваша задача ломать лакиблоки и убивать игроков
+  - Вас будет преследовать множество ловушек,
+  - так что будьте очень осторожны!
+SGS_GAME_DESC:
+  - Сражайтесь с другими за право быть лучшим
+  - В этом Вам помогут вещи из сундуков, а также
+  - умения и наборы, которые Вы выбрали в лобби
+  - Победителем станет последний выживший игрок
+SGD_GAME_DESC:
+  - Сражайтесь с другими за право быть лучшим
+  - В этом Вам помогут вещи из сундуков, а также
+  - умения и наборы, которые Вы выбрали в лобби
+  - Победителями станут все выжившие игроки
+  - из победившей игру команды
+PRS_GAME_DESC:
+  - Пройдите как можно больше модулей, для того,
+  - чтобы получить больше очков для покупки оружия.
+  - За пройденный меньше чем за 3 попытки модуль - получаете бонус.
+  - Желаем удачи в прохождении! Победит сильнейший!
+PRD_GAME_DESC:
+  - Пройдите как можно больше модулей, для того,
+  - чтобы получить больше очков для покупки оружия.
+  - За пройденный меньше чем за 3 попытки модуль - получаете бонус.
+  - Желаем удачи в прохождении! Победит сильнейший!
+PRC_GAME_DESC:
+  - Классическая версия паркура без PvP
+  - Ваша задача - пройти паркур как можно быстрее,
+  - и попасть в топ. Победителем становится игрок,
+  - занявший первое место.
+SWS_GAME_DESC:
+  - Ваша задача с помощью предметов в сундуках, навыков PvP,
+  - наборов и умений, а также с помощью нестандартного подхода
+  - остаться последним выжившим на арене
+  - Помогут и помешают вам в этом случайные события в игре!
+BWS_GAME_DESC:
+  - Вам необходимо уничтожить команды противников раньше,
+  - чем они вас! Пока у команды есть кровать — команда возрождается.
+  - Сломайте её у противника и защитите свою!
+BWD_GAME_DESC:
+  - Вам необходимо уничтожить команды противников раньше,
+  - чем они вас! Пока у команды есть кровать — команда возрождается.
+  - Сломайте её у противника и защитите свою!
+BWT_GAME_DESC:
+  - Вам необходимо уничтожить команды противников раньше,
+  - чем они вас! Пока у команды есть кровать — команда возрождается.
+  - Сломайте её у противника и защитите свою!
+BWR_GAME_DESC:
+  - Вам необходимо уничтожить команды противников раньше,
+  - чем они вас! Пока у команды есть кровать — команда возрождается.
+  - Сломайте её у противника и защитите свою!
+EWT_GAME_DESC:
+  - Ваша задача выжить на арене, получая преимущество
+  - при помощи улучшения генераторов. Вы возрождаетесь,
+  - пока яйцо дракона не сломано. Защитите его!
+EWD_GAME_DESC:
+  - Ваша задача выжить на арене, получая преимущество
+  - при помощи улучшения генераторов. Вы возрождаетесь,
+  - пока яйцо дракона не сломано. Защитите его!
+EWS_GAME_DESC:
+  - Ваша задача выжить на арене, получая преимущество
+  - при помощи улучшения генераторов. Вы возрождаетесь,
+  - пока яйцо дракона не сломано. Защитите его!
+SWD_GAME_DESC:
+  - Ваша с союзником задача помощью предметов в сундуках,
+  - навыков PvP, наборов и умений, а также с помощью нестандартного
+  - подхода остаться последней выжившей командой
+  - Помогут и помешают вам в этом случайные события в игре!
+BBD_GAME_DESC:
+  - Ваша задача построить лучшую постройку
+  - на заданную тему за 5 минут. После окончания
+  - отведенного на строительство времени,
+  - начнется голосование, где Вас оценят!
+BBS_GAME_DESC:
+  - Ваша задача построить лучшую постройку
+  - на заданную тему за 7 минут. После окончания
+  - отведенного на строительство времени,
+  - начнется голосование, где Вас оценят!
+DONT_HAVE_BANS_AND_MUTES: §cНе в бане и не в муте
+DONT_TRY_TO_GET_OUT_OF_THE_PLAY_ZONE: §cНе пытайтесь покинуть игровую зону!
+REPLAY_ITEM_LORE:
+  - §7Кликните, чтобы начать новую игру
+  - §7на этом же режиме
+  - null
+REPLAY_ITEM_NAME: §eНачать новую игру
+DEFAULT_BAN_TIME_SET: §cВы ввели некорректное время
+DEFAULT_KEY: §bКосметический ключ
+DEFAULT_KEY_LORE:
+  - ''
+  - §7Используется для получения
+  - §7гаджетов в лобби
+  - ''
+  - §cВнимание! При выбивании уже существующего
+  - §cпредмета вы получите пыль (10% от стоимости)
+DEFAULT_MUTE_TIME_SET: §cВы ввели некорректное время
+UNBAN_FORMAT: /unban <ник/ip>
+BANS_PLAYERIP: IP адрес
+BANS_PLAYERNAME: игрока
+BANINFO_BAN_MESSAGES:
+  - ' '
+  - §cИгрок в бане от %s %s
+  - ' §e• §fПричина: §a%s'
+  - ' §e• §fВремя: §a%s'
+  - ' §e• §fДата бана: §a%s'
+BANINFO_FORMAT: /baninfo <ник>
+BANINFO_MESSAGE: '§cМодерация §8| §fДанные о наказаниях для %s:'
+BANINFO_MUTE_MESSAGES:
+  - ' '
+  - §cИгрок в муте от %s %s
+  - ' §e• §fПричина: §a%s'
+  - ' §e• §fВремя: §a%s'
+  - ' §e• §fДата мута: §a%s'
+
+SERVERS_NOT_FOUND: §cОшибка, указанные сервера не найдены
+CHAT_LOBBY_OFF:
+  - §4§lВнимание! §cЧат отключен!
+  - §cВы можете включить его в личном профиле -> настройки
+SUBTITLE_JOIN_LOBBY: §fРежима §eEggWars
+PROMO_ITEM_NAME: §aСКИДКИ!
+PLAY_FORMAT: /play <игра>
+THANKS_FOR_MARKING_MAP:
+  - §aСпасибо за Ваш голос за карту %s§f!
+ACHIEVEMENT_COMPLETE: §a§l§kX§r §6§lАЧИВКА ВЫПОЛНЕНА §a§l§kX§r
+ACHIEVEMENT_DONE: §eВыполнено
+ACHIEVEMENT_NO_DONE: §cНе выполнено
+ACHIEVEMENT_PERCENT: '§7Выполнено: §c%s'
+INVENTORY_IS_FULL: §cОшибка, ваш инвентарь заполнен
+LIMBO_ITEM_LORE:
+  - §7Используйте этот предмет,
+  - §7чтобы вернуться в главное лобби
+LIMBO_ITEM_NAME: Назад в главное лобби
+LIMBO_NO_CHAT: §6Сервер §8| §fИзвините, но вы не можете писать в §aчат§f. Вернуться
+  в главное лобби §7/hub §fили §7/lobby
+MYSTERY_DUST_DATA: Монеты
+GAMER_NO_BOX_DUST: §6Сервер §8| §fОшибка! У вас недостаточно §bПыли§f для покупки!
+GAMER_NO_GOLD: §6Сервер §8| §fОшибка! У вас недостаточно §6золота§f для покупки! Покупка
+  золота осуществляется только на сайте §dlast-craft.com §7(жми)
+GAMER_NO_KEYS: §6Сервер §8| §fОшибка! У вас недостаточно §aключей§f для открытия кейсов!
+  Купить немного ключей можно на нашем сайте §dlast-craft.com §7(жми)
+GAMER_NO_MYSTERY_DUST: §6Сервер §8| §fОшибка! У вас недостаточно §aмонет§f для покупки!
+  Купить еще монеток можно на нашем сайте §dlast-craft.com §7(жми)
+CONVERT_ERROR: §cОшибка, нужно указывать только положительное целое число!
+CONVERT_FORMAT: /convert <золото>
+VERY_BAD_VOTING_ITEM: §4Отвратительно
+VERY_BAD_VOTING_ITEM_LORE:
+  - §7Нажмите, чтобы поставить оценку
+  - §4отвратительно
+VERY_GOOD_VOTING_ITEM: §2Отлично
+VERY_GOOD_VOTING_ITEM_LORE:
+  - §7Нажмите, чтобы поставить оценку
+  - §2отлично
+BAD_VOTING_ITEM: §cПлохо
+BAD_VOTING_ITEM_LORE:
+  - §7Нажмите, чтобы поставить оценку
+  - §cплохо
+NORMAL_VOTING_ITEM: §eНормально
+NORMAL_VOTING_ITEM_LORE:
+  - §7Нажмите, чтобы поставить оценку
+  - §eнормально
+GOOD_VOTING_ITEM: §aХорошо
+GOOD_VOTING_ITEM_LORE:
+  - §7Нажмите, чтобы поставить оценку
+  - §aхорошо
+
+
+
+
+
+ARCADE_LOBBY_BOARD_STATS: §7[Общая статистика]
+SANDSTONE_STAIRS: Ступеньки из песчаника
+MOSSY_COBBLESTONE: Замшелый булыжник
+MOSSY_STONE_BRICKS: Замшелые каменные кирпичи
+SNOW_BALL: Снежок
+SNOW_BLOCK: Блок снега
+FLINT_AND_STEEL: Огниво
+
+
+MONSTER_EGG: Яйцо спавна мобов
+COAL_BLOCK: Угольный блок
+COAL_ITEM_BOX_KIT: Угольное чудо
+COAL_ORE: Угольная руда
+WATER_BUCKET: Ведро воды
+WATER_ITEM_BOX_KIT: Посейдон
+WATER_LILY: Кувшинка
+
+WOOD_AXE: Деревянный топор
+WOOD_PICKAXE: Деревянная кирка
+WOOD_SWORD: Деревянный меч
+FISHING_ROD: Удочка
+
+
+GRILLED_PORK: Свинина
+JUMP_POTION_2: Зелье прыгучести II
+REGENERATION_POTION: Зелье регенерации
+STRENGTH_POTION: Зелье силы
+
+
+SEEKER_ROLE_SUBTITLE: §7Найдите и убейте всех прячущихся
+SEEKER_ROLE_TITLE: §cВы искатель
+SEEKER_TEAM: Искатели
+SEEKERS_KILLED_STAT: Искателей убито
+HIDERS_FOUND_STAT: Прячущихся найдено
+STACKER_ERROR_ITEM: §cУ вас недостаточно еды для кормления
+STACKER_ERROR_LIMIT: §cЖивотные не голодные, следующие кормление возможно через %s
+TANK_ITEM_BOX_KIT: Танк
+BOW_ITEM_BOX_KIT: Лучник
+WOODCUTTER_ITEM_BOX_KIT: Дровосек
+OBSIDIAN_ITEM_BOX_KIT: Обсидиановое чудо
+EMERALD_BLOCK: Изумрудный блок
+EMERALD_ITEM_BOX_KIT: Изумрудное чудо
+EMERALD_ORE: Изумрудная руда
+LOG_2: Дерево
+LOG_ITEM_BOX_KIT: Древесное чудо
+CALLER_ITEM_BOX_KIT: Призыватель
+WARRIOR_ITEM_BOX_KIT: Воин
+RIDER_ITEM_BOX_KIT: Наездник
+SMITH_ITEM_BOX_KIT: Кузнец
+ROGUE_ITEM_BOX_KIT: Разбойник
+ARCTIC_ITEM_BOX_KIT: Заполярье
+REPEAT_ITEM_BOX_KIT: Повторяй за мной
+TUMBLE_ITEM_BOX_KIT: Кувыркнись
+BEE_ITEM_BOX_KIT: Пчелобав
+BEE_NEST: Пчелиное гнездо
+BEE_SPAWN_EGG: Яйцо пчелы
+RAICING_ITEM_BOX_KIT: Мастер скачек
+HARMONY_ITEM_BOX_KIT: Душевная гармония
+UNDED_ITEM_BOX_KIT: Повелитель нежити
+AVIARIST_ITEM_BOX_KIT: Птицевод
+CHARMER_ITEM_BOX_KIT: Чарователь
+CATTLEMAN_ITEM_BOX_KIT: Молодой скотовод
+PIGLETS_ITEM_BOX_KIT: 2 поросенка и сытый волк
+SHEPHERD_ITEM_BOX_KIT: Начинающий пастух
+VILLAGE_ITEM_BOX_KIT: Поселок городского типа
+NEMOR_ITEM_BOX_KIT: Подводный долгожитель
+END_CRYSTAL: Кристалл энда
+END_ITEM_BOX_KIT: Край
+END_PORTAL_FRAME: Рамка портала
+END_STONE: Камень края
+RAINBOW_ITEM_BOX_KIT: Радужный
+ARCHMAGE_ITEM_BOX_KIT: Архимаг
+ARCHAROLOGIST_ITEM_BOX_KIT: Археолог
+MINER_ITEM_BOX_KIT: Шахтер
+MASON_ITEM_BOX_KIT: Каменщик
+ALCHEMIST_ITEM_BOX_KIT: Алхимик
+FARMER_ITEM_BOX_KIT: Фермер
+REDSTONE_ITEM_BOX_KIT: Редстоунер
+REDSTONE_LAMP: Редстоун фонарь
+REDSTONE_ORE: Редстоуновая руда
+OTHER_ITEM_BOX_KIT: Разное
+GARDENER_ITEM_BOX_KIT: Садовник
+COOK_ITEM_BOX_KIT: Повар
+MUSIC_DISC_PIGSTEP: Пластинка пигмена
+MUSIC_ITEM_BOX_KIT: Музыкант
+
+SPLASH_POTION: Взрывное зелье
+LINGERING_POTION: Туманное зелье
+
+GRASS_BLOCK: Дёрн
+
+BLAST_FURNACE: Плавильная печь
+
+CYAN_DYE: Бирюзовый краситель
+CYAN_WOOL: Бирюзовая шерсть
+PUMPKIM_PIE: Тыквенный пирог
+GLISTERING_MELON_SLICE: Сверкающий арбуз
+BREWING_STAND_ITEM: Зельеварка
+
+PACKED_ICE: Плотный лед
+
+SOUL_SAND: Песок душ
+SOUL_SOIL: Почва душ
+
+TURTLE_EGG: Яйцо черепахи
+TURTLE_HELMET: Черепаший шлем
+TURTLE_SPAWN_EGG: Яйцо черепахи
+
+QUARTZ_BLOCK: Кварцевый блок
+PRISMARINE_BRICKS: Призмариновые кирпичи
+CAULDRON_ITEM: Котел
+SEA_LANTERN: Морской фонарь
+SEA_PICKLE: Морской огурец
+PURPUR_BLOCK: Пурпурный блок
+PURPUR_PILLAR: Пурпурный пилон
+MAGMA_BLOCK: Блок магмы
+MAGMA_CREAM: Сгусток магмы
+MAGMA_CUBE: Адский слизень
+
+CHORUS_FLOWER: Цветок хоруса
+CHORUS_FRUIT: Плод хоруса
+CHORUS_FRUIT_POPPED: Приготовленный плод хоруса
+RAW_BEEF: Сырое мясо
+RAW_CHICKEN: Сырая курица
+RAW_FISH: Сырая рыба
+
+PUMPKIN_PIE: Тыквенный пирог
+PUMPKIN_SEEDS: Семена тыквы
+MELON_BLOCK: Блок арбуза
+MELON_SEEDS: Семена арбуза
+MELON_SLICE: Ломтик арбуза
+
+PISTON_BASE: Поршень
+HAY_BLOCK: Сноп сена
+
+
+STAINED_CLAY: Керамика
+STAINED_GLASS_PANE: Стеклянная панель
+FLOWER_POT_ITEM: Горшок
+
+
+SUGAR_CANE: Тростник
+WHEAT_SEEDS: Семена пшеницы
+DAYLIGHT_DETECTOR: Солнечная панель
+
+
+BROWN_BED: Коричневая кровать
+BROWN_MUSHROOM: Коричневый гриб
+BROWN_MUSHROOM_BLOCK: Блок серого гриба
+BROWN_WOOL: Коричневая шерсть
+CARROT_ITEM: Морковка
+POTATO_ITEM: Картошка
+
+BEETROOT_SEEDS: Семена свеклы
+BEETROOT_SOUP: Свекольный суп
+INK_SAC: Чернильный мешок
+INK_SACK: Краситель
+LAVA_BUCKET: Ведро лавы
+DOUBLE_PLANT: Цветы
+
+
+
+
+DEAD_BUSH: Мертвый куст
+
+MOB_SPAWNER: Спавнер
+TOTEM_OF_UNDYING: Тотем бессмертия
+LONG_GRASS: Растительность
+ROTTEN_FLESH: Гнилая плоть
+SPIDER_EYE: Паучий глаз
+
+
+
+SLIME_BALL: Сгусток слизи
+SLIME_BLOCK: Блок слизи
+EYE_OF_ENDER: Око эндера
+HUGE_MUSHROOM_1: Грибы
+HUGE_MUSHROOM_2: Грибы
+MILK_BUCKET: Ведро с молоком
+BLAZE_POWDER: Порошок ифрита
+BLAZE_ROD: Стержень ифрита
+SKULL_ITEM_WITHER: Череп скелета-иссушителя
+
+BED_BROKEN: §cКровать\якорь отсутствует или был(а) уничтожена
+LAPIS_LAZULI: Лазурит
+LAPIS_ORE: Лазуритовая руда
+GHAST_TEAR: Слеза гаста
+RABBIT_HIDE: Кроличья шкурка
+RABBIT_SPAWN_EGG: Яйцо призыва кролика
+
+
+
+SPECTRAL_ARROW: Спектральная стрела
+TIPPED_ARROW: Стрела
+
+JACK_O_LANTERN: Светильник Джека
+
+BAKED_POTATO: Печеный картофель
+
+
+CHAINMAIL_BOOTS: Кольчужные ботинки
+CHAINMAIL_CHESTPLATE: Кольчуга
+CHAINMAIL_HELMET: Койф
+CHAINMAIL_LEGGINGS: Кольчужные поножи
+
+EXPLOSIVE_MINECART: Вагонетка с ТНТ
+SMOOTH_BRICK: Гладкий кирпич
+SMOOTH_QUARTZ: Гладкий кварц
+SMOOTH_STONE: Гладкий камень
+
+
+POISONOUS_POTATO: Ядовитый картофель
+SET_BED_ERROR: §cОшибка, вы не можете установить точку дома в этом мире
+LW_MIDDLE_TIMER: §eСпавн лаки-блока через
+RANKED_REQUIREMENTS: §cДля игры в рейтинговый режим нужно 4 игрока в группе
+POINTS_1:
+  - очк
+  - о
+  - а
+  - ов
+CREEPER_SPAWN_EGG: Яйцо спавна крипера
+PIG_SPAWN_EGG: Яйцо призыва свиньи
+PIG_ZOMBIE: Свинозомби
+
+ZOMBIE_VILLAGER: Зомби-житель
+HORSE_SPAWN_EGG: Яйцо призыва лошади
+WOLF_SPAWN_EGG: Яйцо призыва волка
+CAVE_SPIDER: Пещерный паук
+COW_SPAWN_EGG: Яйцо призыва коровы
+
+
+
+EXPERIENCE_BOTTLE: Бутылочка с опытом
+CHICKEN_SPAWN_EGG: Яйцо призыва курицы
+VILLAGER_SPAWN_EGG: Яйцо призыва жителя
+BAT_SPAWN_EGG: Яйцо призыва летучей-мыши
+SHEEP_SPAWN_EGG: Яйцо призыва овцы
+MOOSHROOM_SPAWN_EGG: Яйцо призыва грибной-коровы
+LLAMA_SPAWN_EGG: Яйцо призыва ламы
+DONKEY_SPAWN_EGG: Яйцо призыва осла
+MULE_SPAWN_EGG: Яйцо призыва мула
+POLAR_BEAR_SPAWN_EGG: Яйцо призыва медведя
+
+
+
+WARPED_FUNGUS: Искажённый гриб
+WARPED_NYLIUM: Искажённый нилий
+WARPED_STEM: Искажённый стебель
+WARPED_WART_BLOCK: Блок искажённого нароста
+CRIMSON_FUNGUS: Багровый гриб
+CRIMSON_NYLIUM: Багровый нилий
+CRIMSON_STEM: Багровый стебель
+ACACIA_LEAVES: Акациевая листва
+ACACIA_LOG: Акация
+ACACIA_SAPLING: Саженец акации
+ACACIA_WOOD: Акациевые доски
+JUNGLE_LEAVES: Тропическая листва
+JUNGLE_LOG: Тропическое дерево
+JUNGLE_SAPLING: Сажанец тропического дерева
+JUNGLE_WOOD: Тропические доски
+BIRCH_LEAVES: Березовая листва
+BIRCH_LOG: Береза
+BIRCH_SAPLING: Саженец берёзы
+BIRCH_WOOD: Березовые доски
+ORANGE_TULIP: Оранжевый тюльпан
+ORANGE_WOOL: Оранжевая шерсть
+MAGENTA_WOOL: Пурпурная шерсть
+LIME_CONCRETE: Лаймовый бетон
+LIME_WOOL: Лаймовая шерсть
+PINK_TULIP: Розовый тюльпан
+PINK_WOOL: Розовая шерсть
+HONEYCOMB_BLOCK: Пчелиные соты
+HONEY_BLOCK: Блока мёда
+HONEY_BOTTLE: Бутылочка с мёдом
+CRYING_OBSIDIAN: Плачущий обсидиан
+
+ANCIENT_DEBRIS: Древние обломки
+
+HORN_CORAL: Роговой коралл
+HORN_CORAL_BLOCK: Роговой коралл
+HORN_CORAL_FAN: Веерный роговой коралл
+BUBBLE_CORAL: Пузырчатый коралл
+BUBBLE_CORAL_BLOCK: Пузырчатый коралл
+BUBBLE_CORAL_FAN: Веерный пузырчатый коралл
+BRAIN_CORAL: Мозговой коралл
+BRAIN_CORAL_BLOCK: Мозговой коралл
+BRAIN_CORAL_FAN: Веерный коралл-мозговик
+TUBE_CORAL: Трубчатый коралл
+TUBE_CORAL_BLOCK: Трубчатый коралл
+TUBE_CORAL_FAN: Веерный трубчатый коралл
+SWEET_BERRIES: Сладкие ягоды
+
+
+TWISTING_VINES: Вьющаяся лоза
+WEEPING_VINES: Плакучая лоза
+COCOA_BEANS: Какао бобы
+
+DRAGON_BREATH: Дыхание дракона
+
+
+
+
+LILY_PAD: Кувшинка
+HEART_OF_THE_SEA: Сердце моря
+
+
+
+PHANTOM_MEMBRANE: Мембрана фантома
+NAUTILUS_SHELL: Раковина наутилуса
+
+
+DRIED_KELP_BLOCK: Блок сушёной ламинарии
+CRACKED_NETHER_BRICKS: Потрескавшиеся кирпичи ада
+CRACKED_POLISHED_BLACKSTONE_BRICKS: Потрескавшиеся чернитные кирпичи
+CRACKED_STONE_BRICKS: Потрескавшиеся каменные кирпичи
+POLISHED_BASALT: Полированный базальт
+
+
+
+
+ROSE_BUSH: Розы
+
+CHISELED_STONE_BRICKS: Резные каменные кирпичи
+TROPICAL_FISH: Тропическая рыба
+
+POPPED_CHORUS_FRUIT: Прожаренный плод хоруса
+CARVED_PUMPKIN: Вырезанная тыква
+
+
+ENCHANTING_TABLE: Стол зачарований
+
+PIGLIN_SPAWN_EGG: Яйцо пиглина
+ZOMBIFIED_PIGLIN: Зомби Пиглин
+
+
+
+SOULD_SAND_ITEM_BOX_KIT: Набор песка душ
+DOLPHIN_SPAWN_EGG: Яйцо дельфина
+FOX_SPAWN_EGG: Яйцо лисы
+PANDA_SPAWN_EGG: Яйцо панды
+STRIDER_SPAWN_EGG: Яйцо стридера
+WANDERING_TRADER_SPAWN_EGG: Яйцо странствующего торговца
+
+CRAFTING_TABLE: Верстак
+
+CARTOGRAPHY_TABLE: Стол картографа
+
+SMITHING_TABLE: Стол кузнеца
+
+SBS_GAME_DESC:
+  - 'Ваша задача повторить нужную постройку за '
+  - короткий промежуток времени. Игроки с наименьшим
+  - процентом точности постройки будут уничтожены ведущим.
+  - Последний оставшиеся в живых побеждает!
+SPT_GAME_DESC:
+  - Вы должны, копая снег с помощью лопаты, убрать всех врагов
+  - Команда, которая останется последней на платформе - побеждает
+  - Для победы в игре, у команды должно быть 3 победы
+SPLEEF_SOLO_TYPE: §eSpleef
+ACTIVE_BOOSTER_EXPIRE_TIME_LORE:
+  - '§7Истекает через:'
+ACTIVE_BOOSTER_REMOVE: Отключение бустера
+ACTIVE_BOOSTER_REMOVE_CONFIRMATION_LORE:
+  - ' '
+  - §7Вы уверены, что хотите
+  - §7отключить этот бустер ?
+  - ' '
+  - §cЭто действие необратимо
+ACTIVE_BOOSTER_REMOVE_LORE:
+  - ' §e▸ Нажмите, чтобы отключить бустера досрочно'
+  - ' '
+  - §c§lВнимание! §cЕсли Вы отключите бустер,
+  - §cто он будет просто удален
+MULTI_GAME_VALUE: §f(с учетом всех бонусов §a%s§f)

@@ -1,0 +1,13 @@
+MONEY_1:
+- монет
+- а
+- ы
+- ''
+MONEY_2:
+- монет
+- y
+- ы
+- ''
+MONEY_KEY: §dДенежный ключ
+MONEY_LORE_REWARD_LOCALE: §8 • §fМонеты §7(от §6%s §7до §6%s§7)
+MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'

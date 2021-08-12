@@ -1,0 +1,11 @@
+INVITE_ACCEPT_BUTTON: §a§l[ПРИНЯТЬ]
+INVITE_DECLINE_BUTTON: §c§l[ОТКЛОНИТЬ]
+INVITE_PERMISSION: Приглашение игроков
+INVITE_PERMISSION_LORE:
+- ' '
+- §7Все участники ранга %s
+- §7получат возможность приглашать
+- §7новых игроков в гильдию без Вашего
+- §7разрешения (доступ к /guild invite)
+- ' '
+INVITE_TITLE: '              §8-| §6§l%s §8|-'

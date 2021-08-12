@@ -1,0 +1,67 @@
+REPORT_ACCEPT_FORMAT: /report accept <ник> <id причины>
+REPORT_ALLOW_USAGE: /report allow <минимальная группа>
+REPORT_ALREADY_SENT: §cВы уже отправляли жалобу на этого игрока
+REPORT_BROADCAST_PLAYER_GUILTY: §cМодерация §8| §7%s §7посчитал, что §e%s §f- §cвиновен
+REPORT_BROADCAST_PLAYER_INNOCENT: §cМодерация §8| §7%s §7посчитал, что §e%s §f- §aневиновен
+REPORT_GUI_ACTION: Выбор действия
+REPORT_GUI_ACTION_GUILTY: §cИгрок виновен
+REPORT_GUI_ACTION_GUILTY_LORE:
+- ''
+- §7Игрок не получит наказания. Все
+- §7отправители жалоб получат оповещение
+- §7о том, что он виновен.
+- ''
+- §e▸ Нажмите, чтобы одобрить жалобу
+REPORT_GUI_ACTION_INNOCENT: §aИгрок невиновен
+REPORT_GUI_ACTION_INNOCENT_LORE:
+- ''
+- §e▸ Нажмите, чтобы отклонить жалобу
+REPORT_GUI_ITEM_GAME_STATE: '§7Стадия игры: §a%s'
+REPORT_GUI_ITEM_NAME: §eЖалоба на %s
+REPORT_GUI_ITEM_SERVER: '§7Сервер: §a%s'
+REPORT_GUI_ITEM_VERSION: '§7Версия: §a%s'
+REPORT_GUI_LAST_REPORT: §e%s назад
+REPORT_GUI_LAST_REPORT_TITLE: '§7Последняя жалоба:'
+REPORT_GUI_MAIN: Список жалоб
+REPORT_GUI_MAIN_LORE:
+- ''
+- '§fВсего жалоб: §e%s'
+REPORT_GUI_SENDERS_TITLE: '§7Список пожаловавшихся:'
+REPORT_GUI_SPECTATORS_TITLE: '§7Список следящих:'
+REPORT_GUI_TOTAL_REPORTS: '§7Всего жалоб: §c%s'
+REPORT_GUI_TP_TITLE:
+- §e▸ ЛКМ, чтобы начать следить за игроком
+- §e▸ ПКМ, чтобы отклонить жалобу
+REPORT_HELP:
+- §7/report list §f- список жалоб
+- §7/report info <ник> §f- информация о жалобе
+- §7/report accept <ник> <id причины> §f- принятие жалобы и бан игрока
+- §7/report decline <ник> §f- отказ в жалобе
+REPORT_INFO_MESSAGES:
+- '§6Жалобы §8| §fИнформация об игроке §e%s:'
+- ' - §fЖаловались: §a%s'
+- ' - §fСейчас следят: §a%s'
+- ' - §fПоследняя жалоба: §a%s назад'
+REPORT_INVALID_GROUP_TO_USE: §cОшибка, минимальная группа для использования не может
+  быть ниже, чем §2§lJUNIOR
+REPORT_INVALID_REASON: §cНеверный id причины
+REPORT_ITS_YOU: §cВы не можете отправить жалобу на самого себя
+REPORT_MINIMAL_GROUP_CHANGED: §aВы изменили минимальную группу для просмотра жалоб
+  на %s
+REPORT_NO_PERM_FOR_ACTIONS: §cЖалобы §8| §fПринимать решения по жалобам могут только
+  модераторы и выше.
+REPORT_NO_REPORT: §cЖалоб нет
+REPORT_NO_REPORT_PLAYER: §cНа этого игрока не поступало жалоб
+REPORT_PLAYER_GUILTY: §cЖалобы §8| §e%s §fрассмотрел Вашу жалобу на игрока §e%s §fи
+  одобрил её. Спасибо за содействие в поимке!
+REPORT_PLAYER_INNOCENT: §cЖалобы §8| §e%s §fотклонил Вашу жалобу на игрока §e%s
+REPORT_PLAYER_IS_STAFF: §cВы не можете отправить жалобу на персонал проекта
+REPORT_PLAYER_PUNISHED: §cЖалобы §8| §fИгрок %s§f, на которого Вы подавали жалобу
+  был наказан. Спасибо за содействие в поимке!
+REPORT_PLAYER_STARTED_SPECTATE: §cМодерация §8| §7%s §7отправился следить за §7%s
+REPORT_SENT_FIRST: §cЖалобы §8| §fЖалоба отправлена. Чтобы ее рассмотрели модераторы
+  необходимо, чтобы еще один человек подал жалобу на игрока
+REPORT_SENT_NOT_FIRST: §cЖалобы §8| §fЖалоба отправлена. Вы не первый, кто жаловался
+  на этого игрока, наши §9модераторы§f были оповещены
+REPORT_UNKNOWN_REASON: Неизвестная причина
+REPORT_USAGE: /report <ник> <причина>

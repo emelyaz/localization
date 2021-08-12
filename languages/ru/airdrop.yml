@@ -1,0 +1,26 @@
+AIRDROP_1:
+- ящик
+- ''
+- а
+- ов
+AIRDROP_APPLY_KEYS: §fКлючи %s
+AIRDROP_APPLY_LASTCRAFT_BOOK: §fКнига с зачарованием §7%s
+AIRDROP_APPLY_MONEY: §fМонеты
+AIRDROP_APPLY_REGION_EFFECT: §fЭффект для регионов §a%s
+AIRDROP_APPLY_START: '§6AirDrop §8| §fВы нашли следующие предметы:'
+AIRDROP_COLLECTED: §6AirDrop §8| %s §fнашел и забрал §7Ящик с припасами
+AIRDROP_DISABLE_REGION: §6Anarchy §8| §fВы не можете заприватить территорию §7ящика
+  с припасами
+AIRDROP_NEXT_SPAWN: §6AirDrop §8| §fСледующий §7Ящик с припасами §fупадет в обычном
+  мире через §7%s
+AIRDROP_SPAWN: '§6AirDrop §8| §7Ящик с припасами §fупал в обычном мире на координатах
+  X: §a%s §fY: §a%s §fZ: §a%s'
+AIRDROP_SPAWN_TITLE: §eЯщик с припасами появился!
+AIRDROP_TOP_HOLO:
+- §6§lТоп по собранным ящикам
+- §fТоп игроков по кол-ву
+- §fсобранных ящиков
+AIRDROP_WAIT: '§6AirDrop §8| §7Ящик с припасами §fлежит в обычном мире на координатах
+  X: §a%s §fY: §a%s §fZ: §a%s'
+AIRDROP_WAIT_SPAWN: '§6AirDrop §8| §7ящик с припасами §fупадет в обычном мире на координатах
+  X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s'

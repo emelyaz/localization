@@ -1,0 +1,21 @@
+SKYWARS_DUO_TYPE: §eПарный режим
+SKYWARS_END_EFFECTS_EVENT: '§cФинал игры (III) '
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: §7Игра будет завершена через минуту
+SKYWARS_END_EFFECTS_EVENT_TITLE: §cФинал игры
+SKYWARS_GAME_END_EVENT: '§cКонец '
+SKYWARS_GLOWING_EVENT: '§aСвечение игроков '
+SKYWARS_GLOWING_EVENT_STARTED: §eВсе игроки получили эффект свечения
+SKYWARS_INSANE_CHOSEN_EVENTS: §6§lВыбраны случайные игровые события
+SKYWARS_LIGHTNING_EVENT: '§cФинал игры (II) '
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: §7До конца осталось 3 минуты, избегайте молний...
+SKYWARS_LIGHTNING_EVENT_TITLE: §cЯрость зевса
+SKYWARS_LOOT_EVENT: '§aОбновление лута '
+SKYWARS_LOOT_EVENT_STARTED: §aЛут в сундуках на центре карты был обновлен
+SKYWARS_SOLO_TYPE: §eОдиночный режим
+SKYWARS_SPEED_EVENT: '§aУскорение '
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: §6SkyWars §8| §fВы получили эффект скорости
+  §a%s§f, поскольку выбрали умение §aСоник
+SKYWARS_SPEED_EVENT_STARTED: §aВсе игроки получили эффект скорости %s
+SKYWARS_TNTRAIN_EVENT: '§cФинал игры '
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: §7Над головами игроков появляется динамит, остерегайтесь!
+SKYWARS_TNTRAIN_EVENT_TITLE: §cДождь из TNT

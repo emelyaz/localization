@@ -1,0 +1,8 @@
+SELECTOR_ITEM_LORE1:
+- §7Вы находитесь здесь
+SELECTOR_ITEM_LORE2:
+- §7Онлайн %online% §7игроков
+SELECTOR_NAME_GUI: Выбор лобби
+SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
+SELECTOR_TEAM_NO_PLAYERS: §7Нет игроков...
+SELECTOR_TEAM_PLAYERS: '§7Игроки:'

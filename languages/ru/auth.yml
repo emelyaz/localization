@@ -1,0 +1,20 @@
+AUTH_HELP:
+- §7/auth info <ник> §f- Посмотреть информацию об игроке
+- §7/auth unregister <ник> §f- Удалить регистрацию игрока
+- §7/auth register <ник> <пароль> §f- Зарегать игрока(игрок должен быть оффлайн)
+- §7/auth resetlicense <ник> §f - Отключить вход по лицензии
+AUTH_INFO_PLAYER:
+- '§6Авторизация §8| §fИнформация об игроке §e%s:'
+- ' - §fПочта: §a%s'
+- ' - §fЛицензия: §a%s'
+- ' - §fЖдет активацию лицезии: §a%s'
+- ' - §fПоследний ип: §a%s'
+- ' - §fИп при регистрации: §a%s'
+- ' - §fПоследний сервер: §a%s'
+AUTH_NOTIFICATION_TITLE_LOGIN: §7Для продолжения авторизуйтесь
+AUTH_NOTIFICATION_TITLE_REGISTER: §7Для продолжения зарегистрируйтесь
+AUTH_PLEASE: §7Авторизуйтесь - §e/login §f[§eпароль§f]
+AUTH_REGISTER_ADMIN_FORMAT: /auth register <ник> <пароль>
+AUTH_REGISTER_DONE: §6Авторизация §8| §fИгрока §e%s §fзарегистрирован
+AUTH_REMOVED_REG: §6Авторизация §8| §fРегистрация игрока §e%s §fудалена
+AUTH_TIME_EXPIRED: §cВремя авторизации истекло

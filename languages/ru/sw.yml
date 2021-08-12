@@ -1,0 +1,8 @@
+SW_BOARD_KILLS: 'Убийств: §a'
+SW_BOARD_NEXT_EVENT: 'Следующее событие:'
+SW_CHEST_EMPTY: §4Сундук пуст
+SW_GAME_ENDED: Игра будет завершена. Победителем становится случайная команда...
+SW_PLAYERS_ALIVE: 'Игроков: §a'
+SW_TEAMS_ALIVE: 'Команд: §a'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cУ вашего тиммейта %s §cочень мало здоровья!
+SW_YOUR_TEAMMATE_IS_DEAD: §cВаш тиммейт (%s§c) погиб

@@ -1,0 +1,5 @@
+STATS_ENTRY: ' §8▪ §7%s: §a%s'
+STATS_FORMAT: /stats <ник игрока>
+STATS_GUI_TITLE: Профиль ▸ Статистика
+STATS_GUI_TITLE_TARGET: Статистика игрока %s
+STATS_IS_NOT_LOADED: §cОшибка, статистика не загружена

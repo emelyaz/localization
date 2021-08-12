@@ -1,0 +1,14 @@
+BETTER_SURVIVAL_COMPASS: '§fВаш компас указывает на координаты §ax: %s §az: %s'
+BETTER_SURVIVAL_COMPASS_ERROR_FORMAT: §fОшибка в написании координат! §fНастроить
+  компас на координаты §7/compass <x> <z>
+BETTER_SURVIVAL_COMPASS_FORMAT: §fВы можете настроить компасс на любые координаты
+  §7/compass <x> <z>
+BETTER_SURVIVAL_COMPASS_TO: 'Расстояние до цели: §a%s'
+BETTER_SURVIVAL_COMPASS_WITHOUT_BED: §fВаш компас указывает на центр мира, так как
+  у вас нет кровати!
+BETTER_SURVIVAL_PVP_BAR: §fРежим боя %s §f%s %s
+BETTER_SURVIVAL_PVP_COMMAND: §fНельзя использовать эту команду во время PVP!
+BETTER_SURVIVAL_PVP_END: §fВы вышли из боя! Теперь можно спокойно перезайти на сервер!
+BETTER_SURVIVAL_PVP_START: §fВы вступили в бой! Не покидайте игру в течении §c%s §fсекунд
+BETTER_SURVIVAL_PVP_TELEPORT: §fТелепортации во время PVP запрещены!
+BETTER_SURVIVAL_SLEEP: '§fСпят: §a%s§f/§a%s §f- §a%s'

@@ -1,0 +1,9 @@
+TELEPORTER_CLICK_TO_TELEPORT:
+- ' '
+- §e▸ ЛКМ, чтобы телепортироваться
+- §e▸ ПКМ, чтобы следить от 1-ого лица
+TELEPORTER_GUI_TITLE: Телепортер
+TELEPORTER_PLAYER_DISTANCE: '§7Расстояние: §a%s §7блоков'
+TELEPORTER_PLAYER_HEALTH: '§7Здоровье: §a%s§4❤'
+TELEPORTER_PLAYER_KIT: '§7Выбранный набор: §e%s'
+TELEPORTER_PLAYER_PERK: '§7Выбранное умение: §e%s'

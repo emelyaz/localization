@@ -1,0 +1,60 @@
+PR_ALL_MODULES_PASSED: Поздравляем! Вы прошли все модули. Ждите старта закупки
+PR_ALL_MODULES_PASSED_BROADCAST: §a%s прошел все модули
+PR_ATTEMPT_NOT_USED: Попытка прохождения модуля не израсходована
+PR_ATTEMPT_USED: Вы использовали §e3 попытки§f прохождения модуля
+PR_ATTEMPT_USED_1: Вы не получите дополнительные очки за прохождение этого модуля
+PR_CANNOT_SKIP_MODULE: §cВы не можете пропустить этот модуль
+PR_CHECKPOINT_ITEM_LORE:
+- §7Используйте его для телепорта на чекпоинт
+PR_CHECKPOINT_ITEM_NAME: §eВернуться на чекпоинт
+PR_CLASSIC_MODULES_PASSED: Поздравляем! Вы прошли все модули за §a%s §fи заняли §e%s
+  §fместо
+PR_COINS_STATUS: '§eКоличество очков: §a%s'
+PR_COMPASS_MODE_CHANGED: Выбор навигатора изменен на §e%s
+PR_DEATH: Вы использовали все жизни. Теперь Вы можете только наблюдать за игровым
+  процессом
+PR_DM_COUNTDOWN: 'Время до окончания:'
+PR_DM_COUNTDOWN_CHAT: 'Финальная битва начнется через '
+PR_ENCHANT_COST: §eСтоимость зачарования - §a%s
+PR_ENDING_COUNTDOWN: §7До конца игры осталось 3 минуты
+PR_HIDE_ITEM_LORE:
+- §7Используйте этот предмет,
+- §7чтобы для показать/скрыть игроков
+PR_HIDE_ITEM_NAME: §eСкрыть/показать игроков
+PR_ITEM_BOUGHT: Предмет успешно куплен
+PR_ITEM_ENCHANTING: §7Зачарование предметов
+PR_ITEM_NOT_SELECTED: §cПредмет не выбран
+PR_LEVITATE_ITEM_LORE:
+- §7Выдает эффект левитации на 5 секунд
+- §7После использования Вы начнете
+- §7медленно взлетать...
+PR_LEVITATE_ITEM_NAME: §aИспользовать эффект левитации
+PR_MODULES_PASSED: Пройдено модулей
+PR_MODULE_PASS_SUMMARY: §fВы получили §a§l%s §fочков за прохождение модуля!
+PR_MODULE_PASS_TIME_SUMMARY: §fВы прошли модуль §a#%s §fза §a%s
+PR_MODULE_SKIPPED: Модуль был пропущен
+PR_MODULE_SKIP_MESSAGE: Долго проходится §eмодуль§f? Кликните по §aморкови §fдля пропуска
+  §c(награда не зачисляется)
+PR_PASS_TIME: Общее время прохождения
+PR_PLAYER_SHOWN: Игроки показаны - %s
+PR_SHOPPING_COUNTDOWN: §7До старта закупки осталось 10 секунд
+PR_SHOPPING_DESC_HOLO:
+- §6Зачарование предметов
+- §fЧтобы зачаровать предмет, купите его
+- §fВозьмите его в руку и голограмма над
+- §fстолом зачарований рассчитает цену зачарования
+PR_SHOP_ALREADY_ENCHANTED: §cВы уже зачаровали этот предмет
+PR_SHOP_ENCHANTED: §aПредмет успешно зачарован
+PR_SHOP_ITEM_NAME: §aМагазин
+PR_SHOP_NOT_ENOUGH_MONEY: §cУ Вас недостаточно очков для покупки этого предмета
+PR_SHOP_NOT_ENOUGH_MONEY_ENCH: §cУ Вас недостаточно очков для зачарования этого предмета
+PR_SKIP_MODULE_ITEM_LORE:
+- §7Используйте для пропуска любого модуля
+- §cВНИМАНИЕ! пропуск доступен только один раз!
+- §cЗа пропуск награда не выдается!
+PR_SKIP_MODULE_ITEM_NAME: §eПропустить текущий модуль
+PR_VOTE_ACCEPTED: §aГолос принят! (%s/%s)
+PR_VOTE_ALREADY_VOTED: Вы уже проголосовали!
+PR_VOTE_BROADCAST: '%s §fпроголосовал за пропуск этапа закупки (§e%s/%s§f)'
+PR_VOTE_BROADCAST_1: Используйте §e/skip§f, чтобы поддержать его
+PR_VOTE_END: §cГолосование завершено, ожидайте конца отсчета

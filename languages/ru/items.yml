@@ -1,0 +1,42 @@
+ITEMS_GUI_AVAILABLE_ITEMS_PERCENTAGE: '§7Открыто: §a%s%% §8(§e%s§f/§e%s§8)'
+ITEMS_GUI_BACK_LORE:
+- §7Нажмите, чтобы вернуться назад
+ITEMS_GUI_BACK_NAME: §cНазад
+ITEMS_GUI_CONFIRMATION_LORE:
+- ' '
+- §7Вы уверены, что хотите
+- §7приобрести этот предмет?
+- ' '
+- §cЭто действие необратимо
+ITEMS_GUI_CONFIRMATION_TITLE: Подтверждение покупки
+ITEMS_GUI_COST_FORMAT: '§7Цена: %s %s'
+ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Цена (со скидкой): %s %s'
+ITEMS_LOBBY_DISABLE_LORE:
+- §7Нажмите, чтобы включить
+ITEMS_LOBBY_ENABLE_LORE:
+- §7Нажмите, чтобы отключить
+ITEMS_LOBBY_FAST_LORE:
+- §7Удобная навигация по
+- §7картам и аренам данного режима
+ITEMS_LOBBY_FAST_NAME: §eБыстрый старт
+ITEMS_LOBBY_GADGETS_LORE:
+- §7Различные вещи для
+- §7развлечения в лобби
+ITEMS_LOBBY_GADGETS_NAME: §eГаджеты
+ITEMS_LOBBY_PROFILE_LORE:
+- §7Полезная информация
+ITEMS_LOBBY_PROFILE_NAME: §eПрофиль игрока
+ITEMS_LOBBY_SELECTORS_LORE:
+- §7Смени лобби и
+- §7найди своих друзей
+ITEMS_LOBBY_SELECTORS_NAME: §eВыбор лобби
+ITEMS_LOBBY_SELECTOR_LORE:
+- §7Универсальный прибор
+- §7для передвижения по
+- §7всем режимам сервера
+ITEMS_LOBBY_SELECTOR_NAME: §aИгровые режимы
+ITEMS_LOBBY_SHOP_LORE:
+- §7Покупка наборов и апгрейдов,
+- §7а также улучшение уже существующих
+ITEMS_LOBBY_SHOP_NAME: §eМагазин
+ITEMS_SHOP_GUI_TITLE: Магазин предметов

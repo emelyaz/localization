@@ -1,0 +1,23 @@
+PLAYER_ALIVE_GAME: §fНа карте осталось §a%s§f %s
+PLAYER_CHECK_NOT_PASSED: §6Античит §8| §fИгрок %s §fнарушил проверку §c%s§f, его новый
+  VL - §c%s
+PLAYER_GOT_BANNED: §6Античит §8| §fИгрок %s §fбыл заблокирован за использование стороннего
+  ПО
+PLAYER_IGNORED: §eВы добавили игрока %s §eв список игнорируемых. Теперь он не сможет
+  отслеживать и писать Вам
+PLAYER_JOINED_PUBLIC_PARTY: §6Party §8| %s §fприсоединился к публичной группе
+PLAYER_LEFT: §fИгрок %s§f покинул игру
+PLAYER_NOT_IGNORED: §cВы удалили игрока %s §cиз списка игнорируемых
+PLAYER_NOT_REGISTER: §cДанный игрок не зарегистрирован
+PLAYER_ONLINE_TIME:
+- §6Время §8| §e%s §fпровел на сервере §f- §a%s
+- §6Время §8| §e%s §fпровел на сервере за §7%s §f- §a%s
+PLAYER_WARP_FORMAT: /playerwarp <имя игрока>
+PLAYER_WARP_GUI_NAME: Список варпов - %s
+PLAYER_WARP_ITEM_EMPTY_LORE:
+- §7В данный момент у игрока %s
+- §7нет доступных публичных варпов
+- §7или они отсутствуют вовсе
+PLAYER_WARP_ITEM_EMPTY_NAME: §cВарпы игрока не найдены
+PLAYER_WAS_KICKED: §6Античит §8| §fИгрок %s §fбыл кикнут по подозрению в использовании
+  стороннего ПО

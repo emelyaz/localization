@@ -1,0 +1,21 @@
+GUILDS_DONT_HAVE_INVITES_FROM: §cОшибка, этот игрок не отправлял приглашения в гильдию
+  или оно истекло
+GUILDS_GUI_MEMBER_LORE:
+- ' '
+- '§7Ранг: §e%s'
+GUILDS_GUI_NULL_SERVER_LORE:
+- ' '
+- §7Последний раз был в сети
+- §e%s назад
+- ' '
+- ' §c✗ Сейчас оффлайн'
+GUILDS_GUI_SERVER_LORE:
+- '§7Сервер: §a%s'
+GUILDS_INVITE_EXPIRED: §6Гильдии §8| §fПриглашение в гильдию, отправленное игроку
+  %s §fистекло
+GUILDS_INVITE_SENT: §6Гильдии §8| §fПриглашение в гильдию отправлено игроку %s
+GUILDS_JOINED_GUILD: §6Гильдии §8| §fВы вступили в гильдию §e%s
+GUILDS_MEMBER_CONNECTED: §6Гильдии §8| §a%s §fзашел на сервер
+GUILDS_PLAYER_JOINED: §2Гильдия §8| §fИгрок %s §fприсоединился к гильдии
+GUILDS_YOU_REJECTED_REQUEST: §6Гильдии §8| §fВы отклонили приглашение игрока %s §fв
+  гильдию

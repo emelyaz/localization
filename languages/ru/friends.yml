@@ -1,0 +1,37 @@
+FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
+FRIENDS_ADD_FORMAT: /f add <ник игрока>
+FRIENDS_ALREADY_FRIENDS: §cВы уже являетесь друзьями!
+FRIENDS_ALREADY_SENT_REQUEST: §cВы уже отправляли запрос в друзья данному игроку...
+FRIENDS_DECLINE_FORMAT: /f decline <ник игрока>
+FRIENDS_DONT_HAVE_INVITES_FROM: §cУ вас нет запросов в друзья от игрока %s
+FRIENDS_GUI_EQUAL_SERVER: ' §c▸ Вы уже на одном сервере'
+FRIENDS_GUI_LORE:
+- '§7Уровень: §d%s'
+- '§7Общих друзей: §f%s'
+FRIENDS_GUI_NAME: Список друзей
+FRIENDS_GUI_NULL_SERVER_LORE:
+- '§7Последний раз был в сети:'
+- §e%s назад
+FRIENDS_GUI_NULL_TP_LORE: ' §c✗ Сейчас оффлайн'
+FRIENDS_GUI_SERVER_LORE:
+- §7Сейчас на сервере §e%s
+FRIENDS_GUI_TP_LORE: ' §e▸ Кликните для телепорта на сервер друга'
+FRIENDS_INVITE_EVENT_CANCELLED: §cДанный игрок запретил отправлять ему запросы в друзья
+FRIENDS_INVITE_EXPIRED: §cЗапрос, отправленный игроку %s §fбыл автоматически отклонен
+FRIENDS_INVITE_SENT: §6Друзья §8| §fЗапрос в друзья отправлен игроку %s
+FRIENDS_INVITE_TEXT: §6Друзья §8| §fИгрок %s §fотправил Вам запрос в друзья. Он будет
+  автоматически отклонен через 5 минут
+FRIENDS_LIMIT: §cВы превысили лимит на количество друзей, ваш лимит - %s
+FRIENDS_LIMIT_FRIEND: §cВаш друг превысил лимит на количество друзей!
+FRIENDS_NEW_FRIEND: §6Друзья §8| §fПоздравляем! Вы стали друзьями с игроком %s
+FRIENDS_NOT_FRIENDS: §cДанного игрока нет у Вас в друзьях
+FRIENDS_ONLINE: §6Друзья §8| §fВ онлайне §a%d §f%s
+FRIENDS_PLAYER_REMOVED: §6Друзья §8| §fИгрок %s §fбыл удален из вашего списка друзей
+FRIENDS_PLAYER_REMOVED_YOU: §6Друзья §8| §fИгрок %s §fудалил Вас из друзей.
+FRIENDS_REDIRECTING: §6Друзья §8| §fВы были телепортированы на сервер игрока %s §f(§7%s§f)
+FRIENDS_REMOVE_FORMAT: /f remove <ник друга>
+FRIENDS_REQUEST_REJECTED: §6Друзья §8| §fИгрок %s §fотклонил Ваш запрос в друзья
+FRIENDS_TP_FORMAT: /f tp <ник друга>
+FRIENDS_YOURSELF_AS_FRIEND: §cВы не можете отправить заявку в друзья самому себе
+FRIENDS_YOU_REJECTED_REQUEST: §6Друзья §8| §fВы отклонили запрос в друзья от игрока
+  %s

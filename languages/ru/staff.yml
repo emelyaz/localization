@@ -1,0 +1,12 @@
+STAFF_CONNECTED: §cМодерация §8| §7%s §7зашел на сервер из %s
+STAFF_CONNECTED_IP: '[IP: %s]'
+STAFF_GUI_MAIN: Список персонала
+STAFF_MEMBER_OFFLINE_LORE:
+- ' '
+- §7Последний раз был в сети
+- §e%s назад
+- ' '
+- ' §c✗ Сейчас оффлайн'
+STAFF_MEMBER_ONLINE_LORE:
+- ' '
+- '§7Сервер: §a%s'

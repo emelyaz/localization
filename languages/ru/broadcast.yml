@@ -1,0 +1,9 @@
+BROADCAST_BAN: '§cМодерация §8| §7%s §7заблокировал %s §a%s §7на §с%s §7по причине '
+BROADCAST_INFRACTION_ACCEPTED: §cМодерация §8| §7%s §aодобрил §7просьбу на блокировку
+  §e%s
+BROADCAST_INFRACTION_REJECTED: §cМодерация §8| §7%s §cотклонил §7просьбу на блокировку
+  §e%s
+BROADCAST_KICK: '§cМодерация §8| §f%s §7кикнул §a%s §7по причине '
+BROADCAST_MUTE: '§cМодерация §8| §f%s §7заблокировал чат %s §с%s §7на §с%s §7по причине '
+BROADCAST_UNBAN: §cМодерация §8| §f%s §7снял бан с %s
+BROADCAST_UNMUTE: §cМодерация §8| §f%s §7разблокировал чат игрока %s
