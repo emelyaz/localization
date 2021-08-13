@@ -10672,3 +10672,8 @@ RED_CONRETE: 'Красный бетон'
 BEETROOT_SOUP: 'Свекольный суп'
 PUMPKIN_PIE: 'Тыквенный пирог'
 BROWN_BED: 'Коричневая кровать'
+
+COMMAND_HELP_TITLE: '§e▸ Подкоманды для %s:'
+COMMAND_HELP: '§7%s §f- %s'
+COMMAND_ARGUMENT_NAME: 'ник игрока'
+COMMAND_ARGUMENT_SERVER: 'сервер'
