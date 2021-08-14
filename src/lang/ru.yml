@@ -10666,10 +10666,10 @@ PARTY_JOIN_DESCRIPTION: 'присоединиться к публичной гр
 PARTY_REQUESTS_DESCRIPTION: 'список приглашений в группу'
 PARTY_KICK_DESCRIPTION: 'удалить игрока из группы'
 PARTY_KICKOFFLINE_DESCRIPTION: 'удалить оффлайн игроков из группы'
-PARTY_SET_OWNER_DESCRIPTION: 'передать права владения группой'
+PARTY_SETOWNER_DESCRIPTION: 'передать права владения группой'
 PARTY_DISBAND_DESCRIPTION: 'распустить группу'
 PARTY_WARP_DESCRIPTION: 'телепортировать всех участников на текущий сервер'
-PARTY_SETTING_DESCRIPTION: 'настройки группы'
+PARTY_SETTINGS_DESCRIPTION: 'настройки группы'
 PARTY_LEAVE_DESCRIPTION: 'покинуть группу'
 PARTY_MEMBERS_DESCRIPTION: 'список участников группы'
 
@@ -10698,6 +10698,8 @@ COMMAND_ENUM_PARSE_ERROR: '§cОшибка, значение %s недоступ
 COMMAND_UNEXPECTED_ERROR: '§cПроизошла ошибка во время выполнения команды'
 COMMAND_PLAYER_ONLY: '§cДанную команду можно использовать только от имени консоли!'
 COMMAND_CONSOLE_ONLY: '§cДанную команду нельзя использовать из консоли!'
+
+COMMAND_NOT_AVAILABLE_IN_VANISH: '§cОшибка, данная команда недоступна, пока Вы находитесь в режиме невидимости'
 
 JOIN_VANISHED: '§cВы вошли в режиме невидимки и не видны другим игрокам'
 GAME_VANISHED: '§cВы были исключены из игры, поскольку перешли в режим невидимости'
