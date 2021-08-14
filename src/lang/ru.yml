@@ -2162,6 +2162,7 @@ FRIENDS_REMOVE_FORMAT: /f remove <ник друга>
 FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
 FRIENDS_DECLINE_FORMAT: /f decline <ник игрока>
 FRIENDS_TP_FORMAT: /f tp <ник друга>
+# todo remove format & help
 HELP_FRIENDS:
 - '§7/friends add <ник игрока> §f- добавить игрока в друзья'
 - '§7/friends remove <ник игрока> §f- удалить игрока из друзей'
@@ -10679,8 +10680,17 @@ COMMAND_ARGUMENT_SERVER: 'сервер'
 COMMAND_ARGUMENT_MONEY: 'сумма'
 COMMAND_ARGUMENT_MESSAGE: 'сообщение'
 COMMAND_ARGUMENT_ID: 'ID'
+COMMAND_ARGUMENT_FRIEND: 'ник друга'
 COMMAND_ARGUMENT_SETTING: 'настройка'
 COMMAND_ARGUMENT_VALUE: 'значение'
+
+FRIENDS_ADD_DESCRIPTION: 'добавить игрока в друзья'
+FRIENDS_REMOVE_DESCRIPTION: 'удалить игрока из друзей'
+FRIENDS_ACCEPT_DESCRIPTION: 'принять запрос игрока в друзья'
+FRIENDS_DECLINE_DESCRIPTION: 'отклонить запрос игрока в друзья'
+FRIENDS_REQUESTS_DESCRIPTION: 'список запросов в друзья'
+FRIENDS_LIST_DESCRIPTION: 'список друзей'
+FRIENDS_TP_DESCRIPTION: 'телепортация на сервер друга'
 
 COMMAND_FORMAT_ERROR: '§cОшибка, пишите %s'
 COMMAND_NUMBER_PARSE_ERROR: '§cОшибка, %s не является числом'
