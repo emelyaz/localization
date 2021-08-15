@@ -10739,8 +10739,11 @@ COMMAND_FORMAT_ERROR: '§cОшибка, пишите %s'
 COMMAND_NUMBER_PARSE_ERROR: '§cОшибка, %s не является числом'
 COMMAND_ENUM_PARSE_ERROR: '§cОшибка, значение %s недоступно, список доступных значений: %s'
 COMMAND_UNEXPECTED_ERROR: '§cПроизошла ошибка во время выполнения команды'
-COMMAND_PLAYER_ONLY: '§cДанную команду можно использовать только от имени консоли!'
-COMMAND_CONSOLE_ONLY: '§cДанную команду нельзя использовать из консоли!'
+COMMAND_CONSOLE_ONLY: '§cДанную команду можно использовать только от имени консоли!'
+COMMAND_PLAYER_ONLY: '§cДанную команду нельзя использовать из консоли!'
+
+COMMAND_ARGUMENT_OLD_PLAYER: 'старый игрок'
+COMMAND_ARGUMENT_NEW_PLAYER: 'новый игрок'
 
 COMMAND_NOT_AVAILABLE_IN_VANISH: '§cОшибка, данная команда недоступна, пока Вы находитесь в режиме невидимости'
 
