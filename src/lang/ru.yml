@@ -2526,6 +2526,23 @@ PARTY_LIST:
 - '§6Party §8| §fСписок игроков в группе (§a%s§f\§a%s§f):'
 - ' §c• §fЛидер: §a%s §f(§a%s§f)'
 - ' §c• §fУчастники: §a%s'
+PARTY_NULL_HELP:
+- '§7/party invite <ник игрока> §f- создать новую группу'
+- '§7/party requests §f- список приглашений в группу'
+- '§7/party join <ник игрока> §f- присоединиться к публичной группе игрока'
+PARTY_OWNER_HELP:
+- '§7/party kick <ник игрока> §f- удалить игрока из группы'
+- '§7/party kickoffline §f- удалить оффлайн игроков из группы'
+- '§7/party setowner <ник игрока> §f- передать права владения группой'
+- '§7/party disband §f- распустить группу'
+- '§7/party warp §f- телепортировать всех участников на текущий сервер'
+- '§7/party setting <настройка> <true/false> §f- настройки группы'
+PARTY_NOT_OWNER_HELP:
+- '§7/party leave §f- покинуть группу'
+PARTY_ALL_HELP:
+- '§7/pchat <сообщение> §f- чат группы'
+- '§7/party list §f- список участников группы'
+- '§7/party invite <ник игрока> §f- пригласить игрока в группу'
 # TODO REMOVE PARTY_NULL_HELP, PARTY_OWNER_HELP, PARTY_NOT_OWNER_HELP, PARTY_ALL_HELP
 YOU_CANT_SET_SETTINGS: '§cИзменять настройки группы может только её создатель'
 YOU_WERE_KICKED_FROM_THIS_PARTY: '§6Party §8| §fВы были исключены из этой группы, поэтому больше не можете войти в нее'
