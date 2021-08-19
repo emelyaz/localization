@@ -2522,10 +2522,10 @@ PARTY_ALREADY_IN_PARTY: '§6Party §8| §fВы уже в группе'
 PARTY_LIMIT: '§cОшибка, в вашей группе максимальное кол-во участников'
 PARTY_AVAILABLE_SETTING_LIST: '§6Party §8| §fСписок доступных настроек:'
 PARTY_SETTING_ENTRY: ' §c• §e%s §f[§a%s§f] - %s'
-PARTY_LIST:
-- '§6Party §8| §fСписок игроков в группе (§a%s§f\§a%s§f):'
-- ' §c• §fЛидер: §a%s §f(§a%s§f)'
-- ' §c• §fУчастники: §a%s'
+PARTY_LIST: |-
+  §6Party §8| §fСписок игроков в группе (§a%s§f\§a%s§f):
+  §c • §fЛидер: §a%s §f(§a%s§f)
+  §c • §fУчастники: §a%s
 PARTY_NULL_HELP:
 - '§7/party invite <ник игрока> §f- создать новую группу'
 - '§7/party requests §f- список приглашений в группу'
