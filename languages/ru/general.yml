@@ -1,4 +1,5 @@
 SERVER_PREFIX: '§6Сервер §8| §f'
+DEFAULT_PREFIX: '$@DEFAULT_PREFIX$'
 
 LANGUAGE_CHANGE: '$SERVER_PREFIX$Ваш язык изменен на: §c%s'
 LEVEL_ALLREADY_GIVE: §cОшибка, вы уже получили данную награду!
