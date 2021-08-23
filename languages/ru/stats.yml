@@ -3,3 +3,26 @@ STATS_FORMAT: /stats <ник игрока>
 STATS_GUI_TITLE: Профиль ▸ Статистика
 STATS_GUI_TITLE_TARGET: Статистика игрока %s
 STATS_IS_NOT_LOADED: §cОшибка, статистика не загружена
+WIN_RATE_STATS: Винрейт
+FINAL_KILLS_STAT: Финальных убийств
+WINS_AS_HIDER_STAT: Побед за прячущихся
+WINS_AS_SEEKER_STAT: Побед за искателей
+WINS_STAT: Побед
+RATING_STAT: Рейтинг
+INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
+INGAME_STATS_MESSAGES:
+  - '§6Статистика §8| §f%s %s §fна §e%s %s§f:'
+INGAME_STATS_MESSAGES_TITLE:
+  - ' '
+  - ' §cВНИМАНИЕ! §fБудет отображена статистика только'
+  - ' §fс текущего режима. Чтобы просматривать статистику'
+  - ' §fсо всех режимов, перейдите в лобби'
+MONTHLY_STATS_NAME: Статистика за месяц
+CHESTS_LOOTED_STAT: Облутано сундуков
+GAMES_STAT: Игр сыграно
+BEDS_BREAKED_STAT: Кроватей сломано
+EGGS_STAT: Сломано яиц
+GENERATOR_STAT: Улучшено генераторов
+ALL_TIME_STATS_NAME: Статистика за все время
+COINS_EARNED_PER_GAME_STAT: Монет заработано
+BEST_TIME_STAT: Лучшее время

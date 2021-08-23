@@ -1,3 +1,178 @@
+PERK_SW_ARES: Арес
+PERK_SW_ARES_LORE:
+  - ''
+  - §7После смерти убийца получает
+  - §7физический урон равный оружию,
+  - §7которое он держит в руке.
+  - §7На месте убийцы появляется визуальная молния.
+  - §7После убийства игрока вы получаете
+  - §7Эффект регенерации II на 22 сек
+PERK_SW_ARGILLIC: Магический кузнец
+PERK_SW_ARGILLIC_LORE:
+  - ''
+  - §7Каждое второе убийство даёт
+  - §7+1 к остроте на все мечи
+  - §7и +1 к силе на все луки в инвентаре
+PERK_SW_ARROW_RECOVERY: Стрелец
+PERK_SW_ARROW_RECOVERY_LORE:
+  - ''
+  - §7При попадании во врага из лука,
+  - §7стрелы будут возвращаются назад
+PERK_SW_BERSERK: Берсерк
+PERK_SW_BERSERK_LORE:
+  - ''
+  - §7При получении урона больше 2.5 сердец здоровья,
+  - §7вы получаете Силу I на 8 секунд
+PERK_SW_BOMBER: Взрывной парень
+PERK_SW_BOMBER_LORE:
+  - ''
+  - §7На вашем месте смерти появляется 3 TNT,
+  - §7которые взорвутся через 2 секунды
+PERK_SW_CONSPIRED: Псих
+PERK_SW_CONSPIRED_LORE:
+  - ''
+  - §7При нанесении урона больше
+  - §72.5 сердец, противник получает
+  - §7Слепоту на 4 секунды и Слабость на 1 секунду
+PERK_SW_CUPID: Купидон
+PERK_SW_CUPID_LORE:
+  - ''
+  - §7При каждом третьем попадании
+  - §7из лука во врага, в него ударяет молния
+  - '§7и он получает Свечение, '
+  - §7а вы — Поглощение II на 1 минуту
+PERK_SW_CURSED: Окаянный
+PERK_SW_CURSED_LORE:
+  - ''
+  - §7Когда на вас одет только один предмет
+  - '§7с проклятьем несъёмности, '
+  - §7Вы получаете Прилив здоровья I и Регенерацию I
+PERK_SW_DAMN: Проклятый
+PERK_SW_DAMN_LORE:
+  - ''
+  - §7Любой урон даёт противнику Иссушение II
+  - §7на время, равному количеству недостающих
+  - §7сердец здоровья + 2 секунды.
+PERK_SW_DARK_TIME: Час тьмы
+PERK_SW_DARK_TIME_LORE:
+  - ''
+  - §7После вашей смерти противник получит эффект слепоты,
+  - §7Голода XX и иссушения III на 7 секунд
+PERK_SW_ENDERMAN: Эндермен
+PERK_SW_ENDERMAN_LORE:
+  - ''
+  - '§7С шансом 75% при использовании '
+  - §7жемчуга эндера он не потратится
+PERK_SW_GIFTED: Одаренный
+PERK_SW_GIFTED_LORE:
+  - ''
+  - §7Каждое убийство накладывает
+  - §7на вас эффект Золотого яблока
+PERK_SW_GLUTTON: Обжора
+PERK_SW_GLUTTON_LORE:
+  - ''
+  - §7Когда вы съедаете что-либо,
+  - §7на вас накладываются эффекты золотого яблока
+PERK_SW_HARD_SKIN: Твердокожий
+PERK_SW_HARD_SKIN_LORE:
+  - ''
+  - §7Пока на вас нет хотя бы одного
+  - §7элемента брони, вы получаете
+  - §73 дополнительных сердца здоровья,
+  - §7иначе — 2
+PERK_SW_HIDDEN_KILLER: Скрытый убийца
+PERK_SW_HIDDEN_KILLER_LORE:
+  - ''
+  - §7Удары в спину наносят на
+  - §72 чистого урона больше и
+  - §7ослепляют на 4 секунды. Удары в бок
+  - §7наносят на 1 чистого урона больше
+PERK_SW_HOLY: Святой
+PERK_SW_HOLY_LORE:
+  - ''
+  - §7Если на Вашей броне есть любое из проклятий
+  - §7Вы получаете Регенерацию I и Поглощение II
+PERK_SW_MARKSMAN: Меткий стрелок
+PERK_SW_MARKSMAN_LORE:
+  - ''
+  - §7Каждое третье попадание накладывает
+  - '§7на врага случайный эффект: Отравление II,'
+  - §7Слепота I на 5 секунд или Моментальный урон I
+PERK_SW_METAMORPHOSIS: Метаморфоз
+PERK_SW_METAMORPHOSIS_LORE:
+  - ''
+  - §7Эффект поглощения заменяется на эффект
+  - §7прилива здоровья того же уровня на 2 минуты
+PERK_SW_PHARAOH: Дар Фараона
+PERK_SW_PHARAOH_LORE:
+  - ''
+  - §7Каждое 4 убийство накладывает
+  - §7на Вас эффект зачарованного яблока
+PERK_SW_PHOENIX: Феникс
+PERK_SW_PHOENIX_LORE:
+  - ''
+  - '§7С шансом 50% любой урон '
+  - §7по противнику поджигает его на 8 секунд,
+  - §7а так же Вас невозможно поджечь
+PERK_SW_SERVANT_OF_PAIN: Служитель боли
+PERK_SW_SERVANT_OF_PAIN_LORE:
+  - ''
+  - '§7Когда по вам попадают из лука, '
+  - §7вы получаете эту стрелу в инвентарь
+PERK_SW_SMOKE_BOMB: Дымовая шашка
+PERK_SW_SMOKE_BOMB_LORE:
+  - ''
+  - §7При получении урона с шансом 20%
+  - §7Вы получите эффект ночного зрения,
+  - §7а Ваш противник - слепоту (на 2.5 сек)
+PERK_SW_SONIC: Соник
+PERK_SW_SONIC_LORE:
+  - ''
+  - §7Пока на вас надеты ботинки,
+  - §7вы получаете Скорость I
+PERK_SW_UNRUFFLED: Невозмутимый
+PERK_SW_UNRUFFLED_LORE:
+  - ''
+  - §7Если вы разбились, взорвались, сгорели или
+  - §7совершили самоубийство, то на вас
+  - §7накладывается дар тотема бессмертия
+PERK_SW_VAMPIRE: Вампир
+PERK_SW_VAMPIRE_LORE:
+  - ''
+  - '§7При убийстве игрока вы восполняете '
+  - §76 здоровья, получаете Сопротивление урону I
+  - §7и Свечение на 15 секунд
+PERK_SW_VIPER: Гадюка
+PERK_SW_VIPER_LORE:
+  - ''
+  - '§7Любой урон по вам отравляет '
+  - §7атакующего на 3 секунды
+  - §7(только в ближнем бою), а так же
+  - §7Вас невозможно отравить
+
+KIT_SW_ARMADILLO: Броненосец
+KIT_SW_BASEBALL_PLAYER: Бейсболист
+KIT_SW_BOMBER: Подрывник
+KIT_SW_BUILDER: Строитель
+KIT_SW_CHIMERA: Химера
+KIT_SW_CHOSEN_ONE: Избранный
+KIT_SW_ELYTRA: Валь-кира
+KIT_SW_FISHERMAN: Рыбак
+KIT_SW_HEALER: Медик
+KIT_SW_IMMORTAL: Бессмертный
+KIT_SW_KNIGHT: Рыцарь
+KIT_SW_MAGIC: Алхимик
+KIT_SW_MINER: Шахтер
+KIT_SW_POSEIDON: Посейдон
+KIT_SW_RAIDER: Рейдер
+KIT_SW_RUNNER: Бегун
+KIT_SW_SALAMANDRA: Саламандра
+KIT_SW_SNIPER: Снайпер
+KIT_SW_SPIDER: Паук
+KIT_SW_SURFACED: Всплох
+KIT_SW_TELEKINETIC: Теневой убийца
+KIT_SW_VIKING: Викинг
+KIT_SW_YETI: Йети
 SW_BOARD_KILLS: 'Убийств: §a'
 SW_BOARD_NEXT_EVENT: 'Следующее событие:'
 SW_CHEST_EMPTY: §4Сундук пуст
@@ -6,3 +181,115 @@ SW_PLAYERS_ALIVE: 'Игроков: §a'
 SW_TEAMS_ALIVE: 'Команд: §a'
 SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cУ вашего тиммейта %s §cочень мало здоровья!
 SW_YOUR_TEAMMATE_IS_DEAD: §cВаш тиммейт (%s§c) погиб
+INSANE_EVENT_DISARMAMENT: Обезоруживание
+INSANE_EVENT_DISARMAMENT_DESCRIPTION: После смерти все игроки в радиусе 7 блоков получают
+  Слабость III на 4с.
+INSANE_EVENT_EXPLOSIVE_GIFT: Взрывной подарок
+INSANE_EVENT_EXPLOSIVE_GIFT_DESCRIPTION: В месте смерти игрока появляются 2 крипера
+  и 2 оцелота
+INSANE_EVENT_FIRE_PARTY: Огненная вечеринка
+INSANE_EVENT_FIRE_PARTY_DESCRIPTION: Если игрок сгорает, то все игроки поджигаются
+  на 12 секунд
+INSANE_EVENT_GODS_CREATURES: Божьи твари
+INSANE_EVENT_GODS_CREATURES_DESCRIPTION: При ударе любого моба вы получаете слепоту
+  и слабость на 3 секунды
+INSANE_EVENT_HUNTER_MARK: Метка охотника
+INSANE_EVENT_HUNTER_MARK_DESCRIPTION: При попадании из лука вы получаете Регенерацию
+  II и Скорость I на 7с.
+INSANE_EVENT_LIGHTNING: Мощь зевса
+INSANE_EVENT_LIGHTNING_DESCRIPTION: При смерти игрока случайного противника бьёт молния
+INSANE_EVENT_LUCK: Любимец удачи
+INSANE_EVENT_LUCK_DESCRIPTION: Каждые 45 секунд игроки получают случайный эффект на
+  10 секунд
+INSANE_EVENT_NURSERY: Питомник
+INSANE_EVENT_NURSERY_DESCRIPTION: При убийстве игрока вы получаете случайное яйцо
+  призыва
+INSANE_EVENT_RISE_OF_THE_DEAD: Восстание мертвецов
+INSANE_EVENT_RISE_OF_THE_DEAD_DESCRIPTION: После смерти игрока появляется скелет в
+  алмазной броне и с алмазным мечом
+INSANE_EVENT_SIGNS_ABOVE: Знаки свыше
+INSANE_EVENT_SIGNS_ABOVE_DESCRIPTION: Пока игрок держит в руке меч, он светится
+INSANE_EVENT_VEX: Ярость с небес
+INSANE_EVENT_VEX_DESCRIPTION: Каждые 90 секунд над игроками появляются 2 вредины
+INSANE_EVENT_WINGS: Окрыление
+INSANE_EVENT_WINGS_DESCRIPTION: При убийстве игрок получает Левитацию I и Сопротивление
+  урону II на 7с.
+SKYWARS_DUO_TYPE: §eПарный режим
+SKYWARS_END_EFFECTS_EVENT: '§cФинал игры (III) '
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: §7Игра будет завершена через минуту
+SKYWARS_END_EFFECTS_EVENT_TITLE: §cФинал игры
+SKYWARS_GAME_END_EVENT: '§cКонец '
+SKYWARS_GLOWING_EVENT: '§aСвечение игроков '
+SKYWARS_GLOWING_EVENT_STARTED: §eВсе игроки получили эффект свечения
+SKYWARS_INSANE_CHOSEN_EVENTS: §6§lВыбраны случайные игровые события
+SKYWARS_LIGHTNING_EVENT: '§cФинал игры (II) '
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: §7До конца осталось 3 минуты, избегайте молний...
+SKYWARS_LIGHTNING_EVENT_TITLE: §cЯрость зевса
+SKYWARS_LOOT_EVENT: '§aОбновление лута '
+SKYWARS_LOOT_EVENT_STARTED: §aЛут в сундуках на центре карты был обновлен
+SKYWARS_SOLO_TYPE: §eОдиночный режим
+SKYWARS_SPEED_EVENT: '§aУскорение '
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: §6SkyWars §8| §fВы получили эффект скорости
+  §a%s§f, поскольку выбрали умение §aСоник
+SKYWARS_SPEED_EVENT_STARTED: §aВсе игроки получили эффект скорости %s
+SKYWARS_TNTRAIN_EVENT: '§cФинал игры '
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: §7Над головами игроков появляется динамит, остерегайтесь!
+SKYWARS_TNTRAIN_EVENT_TITLE: §cДождь из TNT
+CAGE_PURCHASE_MESSAGE: Вы приобрели клетку §a%s §fза §a%s §f%s
+CAGE_SELECTION_MESSAGE: Вы выбрали клетку §a%s
+CAGE_SW_ACACIA: Акация
+CAGE_SW_ACACIA_LORE: []
+CAGE_SW_BIRCH: Березовая
+CAGE_SW_BIRCH_LORE: []
+CAGE_SW_DARK_OAK: Темная акация
+CAGE_SW_DARK_OAK_LORE: []
+CAGE_SW_GLASS: Стекло
+CAGE_SW_GLASS_LORE: []
+CAGE_SW_ICE: Лёд
+CAGE_SW_ICE_LORE: []
+CAGE_SW_IRON_BARDING: Железная
+CAGE_SW_IRON_BARDING_LORE: []
+CAGE_SW_JUNGLE: Джунгли
+CAGE_SW_JUNGLE_LORE: []
+CAGE_SW_LEAVES: Лиственная
+CAGE_SW_LEAVES_LORE: []
+CAGE_SW_NETHER: Адская
+CAGE_SW_NETHER_LORE: []
+CAGE_SW_SLIME: Слаймовая
+CAGE_SW_SLIME_LORE: []
+CAGE_SW_SPRUCE: Еловая
+CAGE_SW_SPRUCE_LORE: []
+CAGE_SW_STAINED_GLASS_1: Тонкое стекло
+CAGE_SW_STAINED_GLASS_10: Бирюза
+CAGE_SW_STAINED_GLASS_10_LORE: []
+CAGE_SW_STAINED_GLASS_11: Мистическая
+CAGE_SW_STAINED_GLASS_11_LORE: []
+CAGE_SW_STAINED_GLASS_12: Небесная
+CAGE_SW_STAINED_GLASS_12_LORE: []
+CAGE_SW_STAINED_GLASS_13: Кофе
+CAGE_SW_STAINED_GLASS_13_LORE: []
+CAGE_SW_STAINED_GLASS_14: Зеленая
+CAGE_SW_STAINED_GLASS_14_LORE: []
+CAGE_SW_STAINED_GLASS_15: Ярость
+CAGE_SW_STAINED_GLASS_15_LORE: []
+CAGE_SW_STAINED_GLASS_16: Темная
+CAGE_SW_STAINED_GLASS_16_LORE: []
+CAGE_SW_STAINED_GLASS_1_LORE: []
+CAGE_SW_STAINED_GLASS_2: Ангельская
+CAGE_SW_STAINED_GLASS_2_LORE: []
+CAGE_SW_STAINED_GLASS_3: Ириска
+CAGE_SW_STAINED_GLASS_3_LORE: []
+CAGE_SW_STAINED_GLASS_4: Сиреневая
+CAGE_SW_STAINED_GLASS_4_LORE: []
+CAGE_SW_STAINED_GLASS_5: Банан
+CAGE_SW_STAINED_GLASS_5_LORE: []
+CAGE_SW_STAINED_GLASS_6: Лаймовая
+CAGE_SW_STAINED_GLASS_6_LORE: []
+CAGE_SW_STAINED_GLASS_7: Жевательная резинка
+CAGE_SW_STAINED_GLASS_7_LORE: []
+CAGE_SW_STAINED_GLASS_8: Пустота
+CAGE_SW_STAINED_GLASS_8_LORE: []
+CAGE_SW_STAINED_GLASS_9: Облачная
+CAGE_SW_STAINED_GLASS_9_LORE: []
+CAGE_SW_WOOD: Деревянная
+CAGE_SW_WOOD_LORE: []

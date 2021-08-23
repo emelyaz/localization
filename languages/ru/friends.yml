@@ -1,3 +1,38 @@
+YOU_DONT_HAVE_FRIENDS: §cУ Вас нет друзей
+YOU_DONT_HAVE_FRIEND_REQUESTS: §cУ Вас нет запросов в друзья
+YOU_HAVE_NO_ONLINE_FRIENDS: §cОшибка, у Вас нет онлайн друзей
+HELP_FRIENDS:
+  - §7/friends add <ник игрока> §f- добавить игрока в друзья
+  - §7/friends remove <ник игрока> §f- удалить игрока из друзей
+  - §7/friends accept <ник игрока> §f- принять запрос игрока в друзья
+  - §7/friends decline <ник игрока> §f- отклонить запрос игрока в друзья
+  - §7/friends requests §f- список запросов в друзья
+  - §7/friends list §f- список друзей
+  - §7/friends tp <ник игрока> §f- телепортация на сервер друга
+  - §7/friends party §f- отправить всем друзьям онлайн приглашение в Party
+FRIEND_GUI_MAIN_LORE:
+  - ''
+  - '§7Всего друзей: §a%s'
+  - '§7Онлайн друзей: §a%s'
+TARGET_FRIENDS_LIMIT: §cУказанный Вами игрок не может принимать заявки в друзья, поскольку
+  его лимит превышен
+FRIEND_JOINED: §6Друзья §8| §fВаш друг %s §fзашел в игру §7(нажмите сюда)
+FRIEND_JOINED_HOVER: §fНажмите, чтобы написать игроку %s §fсообщение
+FRIEND_LIST_GUILD: '§7Гильдия: %s'
+FRIEND_NEW_INVITE: '%s §fпредлагает вам дружить §7(общих %s)'
+FRIEND_NEW_INVITE_ACCEPT_HOVER: §fНажмите, чтобы начать дружить!
+FRIEND_NEW_INVITE_DECLINE_HOVER: §fНажмите, отклонить заявку
+FRIEND_PVP_DISABLE: §6Anarchy §8| §fВы не можете ударить своего друга
+FRIEND_REQUEST_GUI_LORE:
+  - ''
+  - ' §e▸ ЛКМ, чтобы принять запрос'
+  - ' §e▸ ПКМ, чтобы отклонить запрос'
+FRIEND_REQUEST_GUI_MAIN_LORE:
+  - ''
+  - '§7Всего запросов:'
+  - §a%s
+FRIEND_TITLE: ДРУЗЬЯ
+
 FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
 FRIENDS_ADD_FORMAT: /f add <ник игрока>
 FRIENDS_ALREADY_FRIENDS: §cВы уже являетесь друзьями!

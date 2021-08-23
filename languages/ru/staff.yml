@@ -1,12 +1,59 @@
 STAFF_CONNECTED: §cМодерация §8| §7%s §7зашел на сервер из %s
 STAFF_CONNECTED_IP: '[IP: %s]'
-STAFF_GUI_MAIN: Список персонала
-STAFF_MEMBER_OFFLINE_LORE:
-- ' '
-- §7Последний раз был в сети
-- §e%s назад
-- ' '
-- ' §c✗ Сейчас оффлайн'
-STAFF_MEMBER_ONLINE_LORE:
-- ' '
-- '§7Сервер: §a%s'
+
+WHOIS_FORMAT: /whois <ник>
+WHOIS_LAST_IP: ' §f- Последний IP: §a%s'
+WHOIS_LAST_SERVER: ' §f- Последний сервер: §a%s'
+WHOIS_LINES_1: §eИнформация об игроке %s
+WHOIS_LINES_2: ' §f- ID игрока: §a%s'
+WHOIS_LINES_3: ' §f- Привилегия: §a%s'
+WHOIS_LINES_3_1: ' §f- Заканчивается: §a%s'
+WHOIS_LINES_4: ' §f- Язык: §a%s'
+WHOIS_LINES_5: ' §f- Серверные данные: §a%s'
+WHOIS_LINES_6: ' §f- Версия: §a%s'
+WHOIS_OFFLINE_LINES_1: ' §f- Был в сети §e%s назад'
+WHOIS_ONLINE_ACCOUNT: ' §f- Аккаунты с этого адреса: §a%s'
+WHOIS_ONLINE_LINES_1: ' §f- IP адрес: §a%s'
+WHOIS_ONLINE_LINES_2: ' §f- Прокси: §a%s'
+WHOIS_ONLINE_LINES_3: ' §f- Сервер: §a%s'
+WHOIS_SECTIONS: ' §f- Загруженные секции игрока: §a%s'
+WHOIS_STATUS_OFFLINE: ' §c§lИгрок оффлайн'
+WHOIS_STATUS_ONLINE: ' §a§lСейчас онлайн'
+
+YOU_DISABLED_STAFFCHAT: §cВы отключили чат персонала. Чтобы писать в него, напишите
+  /sc toggle
+YOU_CANT_CHANGE_DONATE: §cВы не можете управлять привилегиями данного игрока
+YOU_CANT_CHANGE_PRIORITY:
+  - §c▸ Нельзя изменять приоритет этого ранга
+BROADCAST_BAN: '§cМодерация §8| §7%s §7заблокировал %s §a%s §7на §с%s §7по причине '
+BROADCAST_INFRACTION_ACCEPTED: §cМодерация §8| §7%s §aодобрил §7просьбу на блокировку
+  §e%s
+BROADCAST_INFRACTION_REJECTED: §cМодерация §8| §7%s §cотклонил §7просьбу на блокировку
+  §e%s
+BROADCAST_KICK: '§cМодерация §8| §f%s §7кикнул §a%s §7по причине '
+BROADCAST_MUTE: '§cМодерация §8| §f%s §7заблокировал чат %s §с%s §7на §с%s §7по причине '
+BROADCAST_UNBAN: §cМодерация §8| §f%s §7снял бан с %s
+BROADCAST_UNMUTE: §cМодерация §8| §f%s §7разблокировал чат игрока %s
+
+CRASH_ERROR_YOU: §cТы не можешь сам себя крашнуть
+CRASH_FORMAT: /crash <ник игрока>
+CRASH_PLAYER: §fВы крашнули игрока %s
+GROUP_CHANGES_BROADCAST: §cМодерация §8| §f%s §7обновил донат-группу игрока %s
+GROUP_COMMAND_HELP:
+  - §7/group clear <ник>§f - снятие привилегии
+  - §7/group migrate <старый ник> <новый ник>§f - перенос привилегии
+  - §7/group set <ник> <донат-группа> §f- обновить привилегию
+GROUP_INVALID: '§cВы указали неверную группу. Доступные группы: §fDEFAULT, GOLD, DIAMOND,
+  EMERALD, MAGMA, SHULKER'
+GROUP_PLAYER_ALREADY_DEFAULT: §cУ данного игрока нет привилегии
+GROUP_PLAYER_GROUP_CHANGED: §eИгроку %s §eбыла установлена привилегия %s
+GROUP_SET_FORMAT: /group set <ник> <донат-группа>
+STAFFCHAT_DISABLED: §cМодерация §8| §f%s §7теперь не видит чат персонала
+STAFFCHAT_ENABLED: §cМодерация §8| §f%s §7снова видит чат персонала
+STAFFCHAT_FORMAT: /staffchat <сообщение>
+STAFFCHAT_MSG: §eЧат персонала §8| §f%s §8» §f%s
+MODERATOR_STAT:
+  - §6Статистика §8| §fИнформация об %s §fза §e%s -> %s
+  - ' §e• §fВсего банов: §a%s'
+  - ' §e• §fВсего мутов: §a%s'
+BANSTAT_FORMAT: /banstat <ник> <нач. дата> <конеч. дата>

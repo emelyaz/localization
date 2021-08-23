@@ -65,3 +65,4 @@ REPORT_SENT_NOT_FIRST: §cЖалобы §8| §fЖалоба отправлена
   на этого игрока, наши §9модераторы§f были оповещены
 REPORT_UNKNOWN_REASON: Неизвестная причина
 REPORT_USAGE: /report <ник> <причина>
+TOO_MANY_REPORTS: §cЖалобы §8| §fНа игрока %s §fпоступило уже §c%s §fжалоб(ы)

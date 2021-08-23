@@ -1,8 +1,0 @@
-HIDE_AND_SEEK_END_NOTIFIER: §fДо победы прячущихся осталась §a1 §fминута. Теперь искатели
-  могут видеть количество игроков, замаскированных под каждый блок
-HIDE_AND_SEEK_GAME: §eHideAndSeek
-HIDE_AND_SEEK_GAME_END: §fВремя вышло. Искатели не успели найти всех прячущихся игроков
-HIDE_AND_SEEK_HIDER_FOUND: §fПрячущийся §b%s §fбыл найден и убит искателем §c%s
-HIDE_AND_SEEK_SEEKER_KILLED: §fИскатель §c%s §fбыл убит прячущимся §b%s
-HIDE_AND_SEEK_SEEKER_KILLED_FINAL: §fИскатель §c%s §fбыл убит прячущимся §b%s §fи
-  выбыл из игры

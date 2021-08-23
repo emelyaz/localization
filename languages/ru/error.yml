@@ -1,9 +1,23 @@
-ERROR_COMMAND: §cОшибка, пишите %s
-ERROR_COMMAND_IN_GAME: §cДанная команда недоступна во время игры
-ERROR_COMMAND_IN_LOBBY: §cДанная команда доступна только во время игры
 ERROR_CONNECT: §cОшибка, вы не смогли подключиться к серверу %s. Вы были перенаправлены
   на %s
 ERROR_START_GAMER_ARENA: §cОшибка, не хватает игроков для старта
+
+SERVER_ERROR: §cВозникла внутренняя ошибка сервера
+NO_LOBBY_FOUND: §cХаб не найден
+
+DO_NOT_SEND_SIMILAR_MESSAGES: ' §cℹ Не повторяйте одинаковые сообщения'
+DO_NOT_SPAM: ' §cℹ Не флудите'
+NO_FOUND_PLAYER: §cИгрок %s§c не найден или он оффлайн
+
+NO_PERMS: §cУ вас нет прав
+NO_PERMS_GROUP: §cУ вас нет прав, купите %s§c или выше
+NO_PERMS_SHULKER_ONLY: §cУ вас нет прав, данная функция только для §7§lSHULKER
+
+NOT_BEST_SERVER: §cНет подходящей арены
+NOT_DOMAIN_PIAR: '; §cℹ У нас запрещено рекламировать сайты и сторонние ресурсы; '
+NOT_PIAR: '; §cℹ Рекламировать каналы могут только игроки с привилегией §f[§6YouTube§f]; '
+
+#fixme ?
 ERROR_TELEPORT: §cОшибка телепортации в лобби
 ERROR_TO_LOBBY: §cОшибка при телепортации в лобби
 ERROR_WITH_YOUR_BUKKIT: §cС Вашим аккаунтом произошла ошибка. Перезайдите на сервер

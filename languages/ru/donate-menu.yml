@@ -1,0 +1,87 @@
+JOIN_MESSAGE_LORE:
+  - §7Установить кастомное оповещение
+  - §7для всех игроков о вашем входе на сервер
+  - ''
+  - '§7Оповещение для игроков:'
+  - '%s'
+JOIN_MESSAGE_LORE_NOT_AVAILABLE: §cДанное сообщение вам не доступно
+JOIN_MESSAGE_LORE_NOT_SELECT: §e▸ Нажмите, чтобы выбрать
+JOIN_MESSAGE_LORE_SELECT: §aСообщение выбрано
+JOIN_MESSAGE_NAME: Сообщение %s
+DONATE_MENU_FAST_MESSAGE_LORE:
+- §7Покажи всем какой ты сегодня,
+- §7используя эти быстрые сообщения.
+- ''
+- §7Доступно для §b§lDIAMOND §7и выше
+- ''
+- §7Для быстрого открытия меню используйте
+- §7команду §c/fm §7или §c/fastmessage
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+DONATE_MENU_FAST_MESSAGE_NAME: Быстрые сообщения
+DONATE_MENU_GUI: Меню донатера
+DONATE_MENU_GUI_LORE:
+- §7Дополнительные возможности
+- §7для донатеров
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+DONATE_MENU_JOIN_MESSAGE_BUY: §6Сообщение при входе §8| §fВы успешно купили §a%s §fсообщение
+DONATE_MENU_JOIN_MESSAGE_ENABLE: §6Сообщение при входе §8| §fСообщение под номером
+  §a%s §fактивировано
+DONATE_MENU_JOIN_MESSAGE_LORE:
+- §7Установить кастомное сообщения
+- §7вашего входа на сервер
+- ''
+- §7Доступно для §e§lGOLD §7и выше!
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+DONATE_MENU_JOIN_MESSAGE_NAME: Сообщения при входе
+DONATE_MENU_PREFIX_LORE:
+- §7Смена цвета префикса
+- ''
+- §7Доступно только для §7§lSHULKER
+- ''
+- '§7Текущий префикс: %s'
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+DONATE_MENU_PREFIX_NAME: Смена префикса
+DONATE_STATS_PERMISSION: Просмотр доната игроков
+DONATE_STATS_PERMISSION_LORE:
+- ' '
+- §7Все участники ранга %s
+- §7смогут просматривать информацию
+- §7о донате игроков в гильдию
+- §7(доступ к /guild donateinfo)
+- ' '
+FAST_MESSAGE_ACCESSIBLY: Ясно
+FAST_MESSAGE_CAPITULATE: Сдаюсь
+FAST_MESSAGE_DANCING: Танцую
+FAST_MESSAGE_DONT_STUPID: Не тупи
+FAST_MESSAGE_EASY: ИЗИ
+FAST_MESSAGE_EATING: Кушаю
+FAST_MESSAGE_ENRAGES: Горит
+FAST_MESSAGE_FUCK: ФАК Ю
+FAST_MESSAGE_GIVE_RESOURCES: Дай ресов
+FAST_MESSAGE_GO: Гоу
+FAST_MESSAGE_GOODBYE: Пока
+FAST_MESSAGE_GO_AWAY: Пошел вон
+FAST_MESSAGE_HELLO: Привет
+FAST_MESSAGE_HUGGING: Обнимаю
+FAST_MESSAGE_JEEZ: Огооо
+FAST_MESSAGE_KILLED: Убит
+FAST_MESSAGE_LAGS: Лагает
+FAST_MESSAGE_LORE1: '§7Сообщение: §a%s'
+FAST_MESSAGE_LORE2:
+  - ''
+  - §e▸ Нажмите, чтобы отправить сообщение
+FAST_MESSAGE_LOVE: Люблю
+FAST_MESSAGE_MAJOR: Мажор
+FAST_MESSAGE_MUSIC: Слушаю музыку
+FAST_MESSAGE_NICELY: Мило
+FAST_MESSAGE_OFFENSIVELY: Обидно
+FAST_MESSAGE_SAD: Грущу
+FAST_MESSAGE_SLEEP: Засыпаю
+FAST_MESSAGE_WHY: Чее?
+FAST_MESSAGE_WOW: Вау, клёво
+FAST_MESSAGE_WTF: ВТФ???
+FAST_MESSAGE_XZ: Хз

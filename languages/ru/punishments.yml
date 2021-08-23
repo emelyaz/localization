@@ -1,0 +1,72 @@
+YOU_WERE_UNMUTED: §6Сервер §8| §fДоступ к чату был восстановлен! Вы снова можете говорить!
+YOU_CANT_UNMUTE_HIM: §cОшибка! Вы не можете снять блокировку чата с данного игрока
+YOU_CANT_PUNISH_HIM: §cОшибка, Вы не можете наказать данного игрока
+YOU_CANT_BANHIM: §cВы не можете наказать данного игрока
+YOU_CANT_BANIP: §cВы не можете банить игроков по IP
+YOU_ARE_MUTED:
+  - §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+  - ' §cДоступ к чату был заблокирован за %s'
+  - ''
+  - ' §7До истечения осталось §c%s'
+  - ' §7Заблокировал: §c%s'
+  - ''
+  - ' §7Обжаловать наказание можно в группе VK:'
+  - ' §b§nvk.com/lastcraft'
+  - §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+KICK_DISCONNECT: '§cВас выкинули с сервера\n\n§fВыкинул: §7%s\n§fПричина: §7%s'
+KICK_FORMAT: /kick <ник> <причина>
+ALREADY_BANNED: §cОшибка, игрок %s §cуже заблокирован
+ALREADY_MUTED: §cЧат игрока %s §cуже заблокирован
+UNMUTE_FORMAT: /unmute <ник>
+BAN_FORMAT: /ban <ник> <время/e> <причина>
+BAN_HISTORY_CAPTION: '§cАдминистрирование §8| §fИстория наказаний загружена: '
+BAN_HISTORY_EMPTY: §cИстория наказаний пуста
+BAN_HISTORY_FORMAT: /history <ник> <BAN/MUTE>
+BAN_HISTORY_QUEUED: §cАдминистрирование §8| §fВаш запрос в очереди. Ожидайте...
+BAN_REQUESTS_EMPTY: §cОжидающих запросов на блокировку нет.
+BAN_REQUEST_ALREADY_SENT: §cПросьба заблокировать данного игрока уже отправлялась,
+  ожидайте решения
+BAN_REQUEST_LIST_GUI_ITEM_LORE:
+  - ' '
+  - '§7Ник нарушителя: §c%s'
+  - '§7Срок: §a%s'
+  - ' '
+  - '§7Причина блокировки:'
+  - §a%s
+  - ' '
+  - §e▸ ЛКМ, чтобы принять запрос
+  - §e▸ ПКМ, чтобы отклонить запрос
+BAN_REQUEST_LIST_GUI_ITEM_NAME: §eЗапрос от %s
+BAN_REQUEST_LIST_GUI_MAIN: Ожидающие запросы на блокировку
+BAN_REQUEST_LIST_GUI_MAIN_LORE:
+  - ' '
+  - '§7Всего запросов: §e%s'
+BAN_REQUEST_NOT_FOUND: §cЗапрос с таким ID не найден или уже закрыт
+BAN_REQUEST_REJECTED: §aЗапрос на блокировку отклонен.
+BAN_REQUEST_SENT: §eВаша просьба заблокировать данного игрока отправлена всем онлайн-модераторам
+NOT_BANNED: '%s §cне заблокирован'
+NOT_MUTED: §cЧат игрока %s §cне заблокирован
+DEFAULT_MUTE_TIME_SET: §cВы ввели некорректное время
+UNBAN_FORMAT: /unban <ник/ip>
+BANS_PLAYERIP: IP адрес
+BANS_PLAYERNAME: игрока
+BANINFO_BAN_MESSAGES:
+  - ' '
+  - §cИгрок в бане от %s %s
+  - ' §e• §fПричина: §a%s'
+  - ' §e• §fВремя: §a%s'
+  - ' §e• §fДата бана: §a%s'
+BANINFO_FORMAT: /baninfo <ник>
+BANINFO_MESSAGE: '§cМодерация §8| §fДанные о наказаниях для %s:'
+BANINFO_MUTE_MESSAGES:
+  - ' '
+  - §cИгрок в муте от %s %s
+  - ' §e• §fПричина: §a%s'
+  - ' §e• §fВремя: §a%s'
+  - ' §e• §fДата мута: §a%s'
+MUTE_FORMAT: /mute <ник> <время/e> <причина>
+HISTORY_ENTRY: ' §f- §7Администратор: §c%s %s §8| §7Причина: §c%s §8| §7Дата: §c%s'
+TOO_BIG_BANTIME: §cОшибка, Вы не можете наказывать на такой срок
+DONT_HAVE_BANS_AND_MUTES: §cНе в бане и не в муте
+DEFAULT_BAN_TIME_SET: §cВы ввели некорректное время
+ы
