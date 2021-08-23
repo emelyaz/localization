@@ -1,4 +1,4 @@
-LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на: §c%s'
+LANGUAGE_CHANGE: '$SERVER_PREFIX$Ваш язык изменен на: §c%s'
 LEVEL_ALLREADY_GIVE: §cОшибка, вы уже получили данную награду!
 LEVEL_COMMAND_1: §6Игровой уровень §8| §fУ вас §d%s§f уровень
 LEVEL_COMMAND_2: §6Игровой уровень §8| §fДо следующего уровня необходимо набрать §a%s§f
@@ -72,10 +72,10 @@ BOARD_UPGRADE: Улучшений
 BOARD_VK: ВКонтакте
 BOARD_WAIT: Ожидание игроков
 
-
-SIT_DISABLE: §6Сервер §8| §fВы успешно встали
-SIT_ENABLE: §6Сервер §8| §fВы успешно сели
-SIT_ERROR: §6Сервер §8| §fВы не можете сидеть в воздухе
+SERVER_PREFIX: '§6Сервер §8| §f'
+SIT_DISABLE: $SERVER_PREFIX$Вы успешно встали
+SIT_ENABLE: $SERVER_PREFIX$Вы успешно сели
+SIT_ERROR: $SERVER_PREFIX$Вы не можете сидеть в воздухе
 
 SENDMONEY_ERROR_MONEY: §cОшибка, вы не можете переводить суммы ниже 300 и выше 5.000
   монет за раз!
@@ -90,9 +90,9 @@ SENDMONEY_NO_LEVEL_YOU: §cОшибка, вы не можете перевест
   10!
 SENDMONEY_NO_MONEY: §cОшибка, на вашем балансе недостаточно средств! Включая комиссию
   %s на вашем счету должно быть %s %s
-SENDMONEY_SEND: §6Сервер §8| §fВы успешно передали §a%s §f%s игроку %s§f. Комиссия
+SENDMONEY_SEND: $SERVER_PREFIX$Вы успешно передали §a%s §f%s игроку %s§f. Комиссия
   при переводе составила §c%s §f%s (§e%s§f)
-SENDMONEY_TO: §6Сервер §8| §fВы успешно получили §a%s §f%s от игрока %s
+SENDMONEY_TO: $SERVER_PREFIX$Вы успешно получили §a%s §f%s от игрока %s
 SENDMONEY_YOU: §cТы что, дурак ?! Зачем ты отправляешь деньги сам себе!
 
 IGNORE_FORMAT: §c/ignore <ник>
@@ -252,12 +252,12 @@ TOP_TIME_HOLO:
   - §fсыгранному времени на сервере
   - §fза §7%s
 SERVER_QUEUE: §aТелепортирую на сервер %s
-SERVER_TELEPORTATION: §6Сервер §8| §fВы были телепортированы на сервер §a%s
-SERVER_TO: §6Сервер §8| §fВы подключены к серверу §a%s
-SERVER_TO_LIMBO: §6Сервер §8| §fВаш сервер был не найден в главном ядре, вы были телепортированы
+SERVER_TELEPORTATION: $SERVER_PREFIX$Вы были телепортированы на сервер §a%s
+SERVER_TO: $SERVER_PREFIX$Вы подключены к серверу §a%s
+SERVER_TO_LIMBO: $SERVER_PREFIX$Ваш сервер был не найден в главном ядре, вы были телепортированы
   в §aLimbo
-SERVER_TO_WAIT: §6Сервер §8| §fЖдем появления вашего сервера...
-SERVER_WAS_DOWN: §6Сервер §8| §fСервер §a%s §fзакрыл Ваше соединение, Вы перенаправлены
+SERVER_TO_WAIT: $SERVER_PREFIX$Ждем появления вашего сервера...
+SERVER_WAS_DOWN: $SERVER_PREFIX$Сервер §a%s §fзакрыл Ваше соединение, Вы перенаправлены
   на §a%s
 PLAYER_IGNORED: §eВы добавили игрока %s §eв список игнорируемых. Теперь он не сможет
   отслеживать и писать Вам
@@ -312,13 +312,13 @@ DONATECHAT_FORMAT: /donatechat <сообщение>
 DONATECHAT_MSG: §6Чат донатеров §8| §f%s §8» §7%s
 DONATECHAT_TOGGLE: §6Чат донатеров §8| %s
 FIND_FORMAT: /find <ник игрока>
-FIND_RESULT: §6Сервер §8| §fИгрок %s §fнаходится на сервере §c%s
-FIND_RESULT_OFFLINE: §6Сервер §8| §fИгрок %s §fоффлайн, последний раз он был на сервере
+FIND_RESULT: $SERVER_PREFIX$Игрок %s §fнаходится на сервере §c%s
+FIND_RESULT_OFFLINE: $SERVER_PREFIX$Игрок %s §fоффлайн, последний раз он был на сервере
   §7%s §fназад
 ALERT_COOLDOWN: §cОшибка, писать сообщения в общий чат можно раз в минуту
 ALERT_FORMAT: /alert <сообщение>
 SEND_FORMAT: /send <ник игрока> <сервер>
-SENDING_PLAYER_TO_SERVER: §6Сервер §8| §fИгрок %s §fуспешно телепортирован на сервер
+SENDING_PLAYER_TO_SERVER: $SERVER_PREFIX$Игрок %s §fуспешно телепортирован на сервер
   §c%s
 REPLY_FORMAT: §c/reply <сообщение>
 REPLY_PLAYER_OFFLINE: §cВам никто не писал
@@ -344,13 +344,13 @@ MESSAGE_NOT_FOUND: §cСообщение %s не найдено
 REDIRECT_ERROR: §cНевозможно найти подходящий сервер(
 REDIRECT_TO_SERVER: §aТелепортирую на сервер %s
 BOOK_RULES_NAME: §eПравила
-RULES_COMMAND: '§6Сервер §8| §fПолный список правил сервера - '
+RULES_COMMAND: '$SERVER_PREFIX$Полный список правил сервера - '
 RULES_COMMAND_HOVER: §fНажмите сюда, чтобы перейти по ссылке
 BOOK_RULES_LORE:
   - §7Используйте этот предмет,
   - §7чтобы прочесть краткий свод правил
   - §7для игры на сервере
-LIMIT_REACHED: §6Сервер §8| §fВы достигли лимита для этого наказания, подождите еще
+LIMIT_REACHED: $SERVER_PREFIX$Вы достигли лимита для этого наказания, подождите еще
   §e%s
 # fixme
 #ANSWER_FORMAT: /ans <ник> <ответ>
@@ -366,7 +366,7 @@ DARK_RED: Темно - красный
 CANT_MESSAGE_YOURSELF: §cВы не можете написать самому себе
 SELECTED_SKIN_IS_INVALID: §cВыбранный вами скин невалиден или произошла какая-то ошибка
 NEAR_NOT_FOUND: Ближайших игроков нет
-AVAILABLE_SERVER_NOT_FOUND: §6Сервер §8| §fНе удалось найти подходящий сервер
+AVAILABLE_SERVER_NOT_FOUND: $SERVER_PREFIX$Не удалось найти подходящий сервер
 DAILY_REWARD_KEY: Награда за %s день
 DAILY_REWARD_LORE_KEY:
   - ' '
@@ -492,14 +492,14 @@ PREFIX_CHANGE_LORE:
 PREFIX_CHANGE_LORE2:
   - ''
   - §aПрефикс выбран
-PREFIX_SET: §6Сервер §8| §fВаш префикс был изменен
+PREFIX_SET: $SERVER_PREFIX$Ваш префикс был изменен
 CONVERT_ERROR: §cОшибка, нужно указывать только положительное целое число!
 CONVERT_FORMAT: /convert <золото>
 LIMBO_ITEM_NAME: Назад в главное лобби
 LIMBO_ITEM_LORE:
   - §7Используйте этот предмет,
   - §7чтобы вернуться в главное лобби
-LIMBO_NO_CHAT: §6Сервер §8| §fИзвините, но вы не можете писать в §aчат§f. Вернуться
+LIMBO_NO_CHAT: $SERVER_PREFIX$Извините, но вы не можете писать в §aчат§f. Вернуться
   в главное лобби §7/hub §fили §7/lobby
 INVENTORY_IS_FULL: §cОшибка, ваш инвентарь заполнен
 PLAY_FORMAT: /play <игра>
@@ -573,7 +573,7 @@ CLICK_TO_VOTE_THIS: §fКликните, чтобы оценить! Оценку
 GOODGAME_FORMAT: /gg <ник>
 
 CORE_NAME: §cСервер
-THIS_PLAYER_IS_TESTER_FIND: §6Сервер §8| §fДанный игрок является тестером анти-чита.
+THIS_PLAYER_IS_TESTER_FIND: $SERVER_PREFIX$Данный игрок является тестером анти-чита.
   Его нельзя отследить в данный момент
 THIS_PLAYER_IS_TESTER_REPORT: §6Античит §8| §fДанный игрок не читер
 CHOSEN_ITEM_IS: '§7Выбрано: §a%s'
