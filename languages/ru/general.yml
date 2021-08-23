@@ -1,3 +1,5 @@
+SERVER_PREFIX: '§6Сервер §8| §f'
+
 LANGUAGE_CHANGE: '$SERVER_PREFIX$Ваш язык изменен на: §c%s'
 LEVEL_ALLREADY_GIVE: §cОшибка, вы уже получили данную награду!
 LEVEL_COMMAND_1: §6Игровой уровень §8| §fУ вас §d%s§f уровень
@@ -72,7 +74,6 @@ BOARD_UPGRADE: Улучшений
 BOARD_VK: ВКонтакте
 BOARD_WAIT: Ожидание игроков
 
-SERVER_PREFIX: '§6Сервер §8| §f'
 SIT_DISABLE: $SERVER_PREFIX$Вы успешно встали
 SIT_ENABLE: $SERVER_PREFIX$Вы успешно сели
 SIT_ERROR: $SERVER_PREFIX$Вы не можете сидеть в воздухе
