@@ -69,4 +69,3 @@ HISTORY_ENTRY: ' §f- §7Администратор: §c%s %s §8| §7Причи
 TOO_BIG_BANTIME: §cОшибка, Вы не можете наказывать на такой срок
 DONT_HAVE_BANS_AND_MUTES: §cНе в бане и не в муте
 DEFAULT_BAN_TIME_SET: §cВы ввели некорректное время
-ы
