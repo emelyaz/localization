@@ -12,7 +12,7 @@ LEVELING_WAIT_REWARD: §6Сервер §8| §fУ вас есть §a%s§f наг
   Чтобы их забрать, напишите §7/profile§f и перейдите во вкладку §bуровень
 EXP_REWARD_LOCALE: ' §7+ §a%s §fопыта'
 EXP_LORE_REWARD_LOCALE: §8 • §fОпыт §7(от §a%s §7до §a%s§7)
-KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'цщк
+KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
 KEYS_LORE_REWARD_LOCALE: §8 • §f%s §7(от §d%s§7 до §d%s§7)
 
 REWARD_CLICK_TO_CLAIM:
