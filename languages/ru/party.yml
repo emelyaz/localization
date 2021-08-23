@@ -64,22 +64,9 @@ PARTY_NEW_INVITE_DECLINE_HOVER: §fНажмите, чтобы отклонить
 PARTY_NEW_PARTY_WITH: §6Party §8| §fВы создали новую группу с игроком %s
 PARTY_NOT_IN_PARTY: §6Party §8| §fОшибка, вы не состоите в группе, видимо вы никому
   не нужны :(
-PARTY_NOT_OWNER_HELP:
-- §7/party leave §f- покинуть группу
 PARTY_NOT_PUBLIC: §cОшибка, группа этого игрока не является публичной
 PARTY_NO_INVITES: §cУ вас нет приглашения в эту группу или оно истекло
 PARTY_NO_REQUESTS: §cОшибка, у вас нет приглашений в группы
-PARTY_NULL_HELP:
-- §7/party invite <ник игрока> §f- создать новую группу
-- §7/party requests §f- список приглашений в группу
-- §7/party join <ник игрока> §f- присоединиться к публичной группе игрока
-PARTY_OWNER_HELP:
-- §7/party kick <ник игрока> §f- удалить игрока из группы
-- §7/party kickoffline §f- удалить оффлайн игроков из группы
-- §7/party setowner <ник игрока> §f- передать права владения группой
-- §7/party disband §f- распустить группу
-- §7/party warp §f- телепортировать всех участников на текущий сервер
-- §7/party setting <настройка> <true/false> §f- настройки группы
 PARTY_OWNER_OFFLINE: §cОшибка, отправитель приглашения сейчас оффлайн
 PARTY_PLAYERS_WARPED: §6Party §8| §fВсе онлайн-участники были телепортированы на Ваш
   сервер
