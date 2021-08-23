@@ -622,7 +622,7 @@ CHANNEL_BEST_SERVER_LORE:
 CHANNEL_BEST_SERVER_NAME: §eЛучший сервер
 CHANNEL_GUI_NAME: Выбор карты %s
 CHANNEL_MAP_LORE1: '§7Всего арен: §c%s'
-CHANNEL_MAP_LORE2: '§7Свободных арен: §c%s'згзг
+CHANNEL_MAP_LORE2: '§7Свободных арен: §c%s'
 CHANNEL_NOT_FOUND: §cКанал %s не найден
 GUI_DONATE_DIAMOND_ANARCHY_LORE:
   - ''
