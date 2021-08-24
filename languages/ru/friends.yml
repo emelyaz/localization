@@ -1,11 +1,8 @@
 FRIENDS_ACCEPT_DESCRIPTION: принять запрос игрока в друзья
-FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
 FRIENDS_ADD_DESCRIPTION: добавить игрока в друзья
-FRIENDS_ADD_FORMAT: /f add <ник игрока>
 FRIENDS_ALREADY_FRIENDS: §cВы уже являетесь друзьями!
 FRIENDS_ALREADY_SENT_REQUEST: §cВы уже отправляли запрос в друзья данному игроку...
 FRIENDS_DECLINE_DESCRIPTION: отклонить запрос игрока в друзья
-FRIENDS_DECLINE_FORMAT: /f decline <ник игрока>
 FRIENDS_DONT_HAVE_INVITES_FROM: §cУ вас нет запросов в друзья от игрока %s
 FRIENDS_GUI_EQUAL_SERVER: ' §c▸ Вы уже на одном сервере'
 FRIENDS_GUI_LORE:
@@ -34,11 +31,9 @@ FRIENDS_PLAYER_REMOVED: §6Друзья §8| §fИгрок %s §fбыл удал
 FRIENDS_PLAYER_REMOVED_YOU: §6Друзья §8| §fИгрок %s §fудалил Вас из друзей.
 FRIENDS_REDIRECTING: §6Друзья §8| §fВы были телепортированы на сервер игрока %s §f(§7%s§f)
 FRIENDS_REMOVE_DESCRIPTION: удалить игрока из друзей
-FRIENDS_REMOVE_FORMAT: /f remove <ник друга>
 FRIENDS_REQUESTS_DESCRIPTION: список запросов в друзья
 FRIENDS_REQUEST_REJECTED: §6Друзья §8| §fИгрок %s §fотклонил Ваш запрос в друзья
 FRIENDS_TP_DESCRIPTION: телепортация на сервер друга
-FRIENDS_TP_FORMAT: /f tp <ник друга>
 FRIENDS_YOURSELF_AS_FRIEND: §cВы не можете отправить заявку в друзья самому себе
 FRIENDS_YOU_REJECTED_REQUEST: §6Друзья §8| §fВы отклонили запрос в друзья от игрока
   %s

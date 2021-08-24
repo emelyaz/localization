@@ -21,15 +21,12 @@ PARTY_INVITE_CANCELLED: §6Party §8| §fYou can sent invite in party to this pl
   because he disable invite in party
 PARTY_INVITE_DECLINED: §6Party §8| §fYou decline invite in group from player %s
 PARTY_INVITE_EXPIRED: §6Party §8| §fInvite requestt, send to the player %s §fexpired
-PARTY_INVITE_FORMAT: /party invite <player name>
 PARTY_INVITE_SENT: §6Party §8| §fInvite in party sent to the player %s
 PARTY_INVITE_TOO_FAST: §6Party §8| §fYou §cto often §fsend §crequests§f in party
 PARTY_JOINED_BROADCAST: §6Party §8| %s §fjoined to the group
 PARTY_JOINED_PARTY: §6Party §8| §fYou joined to the group players %s
-PARTY_JOIN_FORMAT: /party join <player name>
 PARTY_KICKOFFLINE_BROADCAST: §6Party §8| %s §fkick offline players from the party
 PARTY_KICK_BROADCAST: §6Party §8| %s §fwas kick leader party
-PARTY_KICK_FORMAT: /party kick <player name>
 PARTY_KICK_OFFLINE_NO: §cAll party members online...
 PARTY_LEAVE_BROADCAST: §6Party §8| %s §fleave the party
 PARTY_LEFT_PARTY: §6Party §8| §fYou leave party players %s
@@ -64,9 +61,7 @@ PARTY_REQUEST: '  §c• §fRequest from %s§f, §7§nclick to accept'
 PARTY_REQUESTS_FOOTER: ' §fClick to request what you want to accept'
 PARTY_REQUESTS_TITLE: '§6Party §8| §fInvite list in party   (§a%s§f):'
 PARTY_REQUEST_HOVER: §fClick, to join to the group
-PARTY_SETOWNER_FORMAT: /party setowner <nickname>
 PARTY_SETOWNER_YOURSELF: §6Party §8| §fYou already is party owner
-PARTY_SETTINGS_FORMAT: /party setting <setting> <true/false>
 PARTY_SETTING_ALREADY_SET: §cError, value this setting already is set
 PARTY_SETTING_CHANGED: §6Party §8| §a%s §fupdate settings §a%s§f in party
 PARTY_SETTING_ENTRY: ' §c• §e%s §f[§a%s§f] - %s'

@@ -319,23 +319,23 @@ ISLAND_CLICK_TO_SET_BIOME_ERROR:
 - §e▸ Нажмите ПКМ, чтобы купить данный биом
 ISLAND_CLOSED: $SKYBLOCK_PREFIX$Данный остров закрыт и телепортация на него не возможна!
   Попросите владельца отключить флаг §cприватность
-ISLAND_COMMAND_ADD_FORMAT: /island add <ник игрока>
-ISLAND_COMMAND_HELP:
-- §7/is accept <ник игрока> §f- принять заявку на добавление в чей-то остров
-- §7/is cancel <ник игрока> §f- отменить заявку на добавление в чей-то остров
-- §7/is leave §f- покинуть остров §c(если вы не его владелец)
-- §7/is biome §f- выбор биома
-- §7/is tp <ник игрока> §f- телепортироваться на открытый остров
-- §7/is flag §f- настройка флагов
-- §7/is ignore <ник игрока> §f- добавить игрока в черный список острова
-- §7/is add <ник игрока> §f- добавить игрока на остров
-- §7/is delete <ник игрока> §f- удалить игрока с острова
-- §7/is sethome §f- установить новую точку дома
-- §7/is home §f- телепортироваться домой
-- §7/is reset §f- очистить территорию
-- §7/is destroy §f- удалить остров
-ISLAND_COMMAND_REMOVE_FORMAT: /island remove <ник игрока>
-ISLAND_COMMAND_TP_FORMAT: /island tp <ник игрока>
+
+ISLAND_CREATE_DESCRIPTION: 'создать остров'
+ISLAND_DESTROY_DESCRIPTION: 'удалить остров'
+ISLAND_RESET_DESCRIPTION: 'очистить территорию'
+ISLAND_TELEPORT_DESCRIPTION: 'телепортироваться на открытый остров'
+ISLAND_ISLANDS_DESCRIPTION: 'список островов'
+ISLAND_INVITE_DESCRIPTION: 'добавить игрока на остров'
+ISLAND_LEAVE_DESCRIPTION: 'покинуть остров §c(если вы не его владелец)'
+ISLAND_ACCEPT_DESCRIPTION: 'принять заявку на добавление в чей-то остров'
+ISLAND_CANCEL_DESCRIPTION: 'отменить заявку на добавление в чей-то остров'
+ISLAND_BIOME_DESCRIPTION: 'выбор биома'
+ISLAND_FLAG_DESCRIPTION: 'настройка флагов'
+ISLAND_IGNORE_DESCRIPTION: 'добавить игрока в черный список острова'
+ISLAND_HOME_DESCRIPTION: 'телепортироваться домой'
+ISLAND_SETHOME_DESCRIPTION: 'установить новую точку дома'
+ISLAND_DELETE_DESCRIPTION: 'удалить игрока с острова'
+
 ISLAND_CO_OWNER: Совладелец
 ISLAND_CREATE_LORE:
 - ''
