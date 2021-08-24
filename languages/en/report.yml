@@ -1,0 +1,53 @@
+REPORT_ACCEPT_FORMAT: /report accept <player name> <reason id>
+REPORT_ALREADY_SENT: §cYou already sent report against this player
+REPORT_BROADCAST_PLAYER_GUILTY: §cModeration §8| §7%s §7considered that §e%s §f- §cguilty
+REPORT_BROADCAST_PLAYER_INNOCENT: §cModeration §8| §7%s §7considered that §e%s §f-
+  §ainnocent
+REPORT_GUI_ACTION: Choice of action
+REPORT_GUI_ACTION_INNOCENT: §aMark player as innocent
+REPORT_GUI_ACTION_INNOCENT_LORE:
+- ''
+- ' §e▸ Click here, to reject report'
+REPORT_GUI_ITEM_NAME: §eReport against %s
+REPORT_GUI_ITEM_SERVER: '§7Server: §a%s'
+REPORT_GUI_LAST_REPORT: §e%s ago
+REPORT_GUI_LAST_REPORT_TITLE: '§7Last report:'
+REPORT_GUI_MAIN: Reports
+REPORT_GUI_MAIN_LORE:
+- ''
+- '§fTotal reports: §e%s'
+REPORT_GUI_SENDERS_TITLE: '§7Reporters:'
+REPORT_GUI_SPECTATORS_TITLE: '§7Spectators:'
+REPORT_GUI_TOTAL_REPORTS: '§7Total reports: §c%s'
+REPORT_GUI_TP_TITLE:
+- ' §e▸ Left click to spectate'
+- ' §e▸ Right click to skip report'
+REPORT_HELP:
+- §7/report list §f- report list
+- §7/report info <player name> §f- info about report
+- §7/report accept <player name> <reason id> §f- punish player and accept report
+- §7/report decline <player name> §f- decline report
+REPORT_INFO_MESSAGES:
+- '§6Reports §8| §fInfo about player §e%s:'
+- ' - §fReporters: §a%s'
+- ' - §fSpectating: §a%s'
+- ' - §fLast report: §a%s ago'
+REPORT_INVALID_REASON: §cUnknown reason
+REPORT_ITS_YOU: §cYou cannot send report against yourself
+REPORT_NO_PERM_FOR_ACTIONS: §cReports §8| §fYou cannot make decisions for reports.
+REPORT_NO_REPORT: §cThere are no reports.
+REPORT_NO_REPORT_PLAYER: §cThere is no reports against this player.
+REPORT_PLAYER_GUILTY: §f%s §areviewed your report against §e%s §aand punished him.
+  Thank you for help in catching!
+REPORT_PLAYER_INNOCENT: §f%s §cdeclined your report against §e%s
+REPORT_PLAYER_IS_STAFF: §cYou cannot send report against staff member.
+REPORT_PLAYER_PUNISHED: §cComplains §8| §fPlayer %s§f, to who You send a complain
+  has been punished. Thank for assistance in catching!
+REPORT_PLAYER_STARTED_SPECTATE: §cModeration §8| §7%s §7started spectating for §7%s
+REPORT_SENT_FIRST: §eReport created. To confirm it one more player should send report
+  against this player
+REPORT_SENT_NOT_FIRST: §aReport sent. You are not first reporter, so our moderators
+  were notified.
+REPORT_UNKNOWN_REASON: Unknown reason
+REPORT_USAGE: /report <player name> <reason>
+TOO_MANY_REPORTS: §cReports §8| §fPlayer %s §frecieved §c%s §freports!

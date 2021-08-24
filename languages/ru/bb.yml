@@ -1,716 +1,998 @@
-VERY_BAD_VOTING_ITEM: §4Отвратительно
-VERY_BAD_VOTING_ITEM_LORE:
-  - §7Нажмите, чтобы поставить оценку
-  - §4отвратительно
-VERY_GOOD_VOTING_ITEM: §2Отлично
-VERY_GOOD_VOTING_ITEM_LORE:
-  - §7Нажмите, чтобы поставить оценку
-  - §2отлично
 BAD_VOTING_ITEM: §cПлохо
 BAD_VOTING_ITEM_LORE:
-  - §7Нажмите, чтобы поставить оценку
-  - §cплохо
-NORMAL_VOTING_ITEM: §eНормально
-NORMAL_VOTING_ITEM_LORE:
-  - §7Нажмите, чтобы поставить оценку
-  - §eнормально
-GOOD_VOTING_ITEM: §aХорошо
-GOOD_VOTING_ITEM_LORE:
-  - §7Нажмите, чтобы поставить оценку
-  - §aхорошо
-
-
-CATEGORY_BB_EFFECT_LORE:
-  - ' '
-  - §7Хотите, чтобы Ваша постройка
-  - §7выглядела эффектно? Приобретайте
-  - §7эффекты, которые Вы сможете использовать
-  - §7потом в игре!
-CATEGORY_BB_EFFECT_NAME: Эффекты
-CATEGORY_BB_HEAD_LORE:
-  - ' '
-  - §7Широкий выбор различных,
-  - §7голов, которые можно будет
-  - §7использовать при строительстве
-  - §7в игре
-CATEGORY_BB_HEAD_NAME: Головы
-
+- §7Нажмите, чтобы поставить оценку
+- §cплохо
 BB_EFFECT: эффект
 BB_EFFECT_ANGRY_VILLAGER: Злой житель
-BB_EFFECT_ANGRY_VILLAGER_LORE: []
+BB_EFFECT_ANGRY_VILLAGER_LORE: [
+  ]
 BB_EFFECT_CLOUD: Облака
-BB_EFFECT_CLOUD_LORE: []
+BB_EFFECT_CLOUD_LORE: [
+  ]
 BB_EFFECT_CRIT_DEFAULT: Вспышки
-BB_EFFECT_CRIT_DEFAULT_LORE: []
+BB_EFFECT_CRIT_DEFAULT_LORE: [
+  ]
 BB_EFFECT_CRIT_MAGIC: Криты
-BB_EFFECT_CRIT_MAGIC_LORE: []
+BB_EFFECT_CRIT_MAGIC_LORE: [
+  ]
 BB_EFFECT_DAMAGE_INDICATOR: Темные сердечки
-BB_EFFECT_DAMAGE_INDICATOR_LORE: []
+BB_EFFECT_DAMAGE_INDICATOR_LORE: [
+  ]
 BB_EFFECT_EXPLOSION: Взрыв
-BB_EFFECT_EXPLOSION_LORE: []
+BB_EFFECT_EXPLOSION_LORE: [
+  ]
 BB_EFFECT_HAPPY_VILLAGER: Счастливый житель
-BB_EFFECT_HAPPY_VILLAGER_LORE: []
+BB_EFFECT_HAPPY_VILLAGER_LORE: [
+  ]
 BB_EFFECT_HEART: Сердечки
-BB_EFFECT_HEART_LORE: []
+BB_EFFECT_HEART_LORE: [
+  ]
 BB_EFFECT_LAVA: Лава
-BB_EFFECT_LAVA_LORE: []
+BB_EFFECT_LAVA_LORE: [
+  ]
 BB_EFFECT_MAGIC: Заклинание
-BB_EFFECT_MAGIC_LORE: []
+BB_EFFECT_MAGIC_LORE: [
+  ]
 BB_EFFECT_NOTE: Ноты
-BB_EFFECT_NOTE_LORE: []
+BB_EFFECT_NOTE_LORE: [
+  ]
 BB_EFFECT_PURCHASE_MESSAGE: Вы приобрели эффект §a%s §fза §a%s §f%s. Теперь его можно
   будет добавлять на свой участок в игре.
 BB_EFFECT_REDSTONE: Редстоун
-BB_EFFECT_REDSTONE_LORE: []
+BB_EFFECT_REDSTONE_LORE: [
+  ]
 BB_EFFECT_SELECTION_MESSAGE: Вы получили предмет для установки эффекта §a%s §fна участок.
   Нажмите ПКМ на нужный блок, чтобы установить его
 BB_EFFECT_SNOW: Снег
-BB_EFFECT_SNOW_LORE: []
+BB_EFFECT_SNOW_LORE: [
+  ]
 BB_EFFECT_SPELL_MOB: Искры
-BB_EFFECT_SPELL_MOB_LORE: []
+BB_EFFECT_SPELL_MOB_LORE: [
+  ]
 BB_EFFECT_SPELL_WITCH: Магия
-BB_EFFECT_SPELL_WITCH_LORE: []
+BB_EFFECT_SPELL_WITCH_LORE: [
+  ]
 BB_EFFECT_WATER: Вода
 BB_EFFECT_WATER_BUBBLE: Пузыри
-BB_EFFECT_WATER_BUBBLE_LORE: []
-BB_EFFECT_WATER_LORE: []
+BB_EFFECT_WATER_BUBBLE_LORE: [
+  ]
+BB_EFFECT_WATER_LORE: [
+  ]
 BB_HEAD: голова
 BB_HEAD_ANDESITE: Andesite
-BB_HEAD_ANDESITE_LORE: []
+BB_HEAD_ANDESITE_LORE: [
+  ]
 BB_HEAD_ANGEL: Angel
-BB_HEAD_ANGEL_LORE: []
+BB_HEAD_ANGEL_LORE: [
+  ]
 BB_HEAD_ANGRY_WOLF: Angry Wolf
-BB_HEAD_ANGRY_WOLF_LORE: []
+BB_HEAD_ANGRY_WOLF_LORE: [
+  ]
 BB_HEAD_APPLE: Apple
-BB_HEAD_APPLE_LORE: []
+BB_HEAD_APPLE_LORE: [
+  ]
 BB_HEAD_BABY_BLUE: Baby Blue
-BB_HEAD_BABY_BLUE_LORE: []
+BB_HEAD_BABY_BLUE_LORE: [
+  ]
 BB_HEAD_BACON: Bacon
-BB_HEAD_BACON_LORE: []
+BB_HEAD_BACON_LORE: [
+  ]
 BB_HEAD_BASKETBALL: Basketball
-BB_HEAD_BASKETBALL_LORE: []
+BB_HEAD_BASKETBALL_LORE: [
+  ]
 BB_HEAD_BATMAN: Batman
-BB_HEAD_BATMAN_LORE: []
+BB_HEAD_BATMAN_LORE: [
+  ]
 BB_HEAD_BEACHBALL: Beachball
-BB_HEAD_BEACHBALL_LORE: []
+BB_HEAD_BEACHBALL_LORE: [
+  ]
 BB_HEAD_BEACON: Beacon
-BB_HEAD_BEACON_LORE: []
+BB_HEAD_BEACON_LORE: [
+  ]
 BB_HEAD_BEDROCK: Bedrock
-BB_HEAD_BEDROCK_LORE: []
+BB_HEAD_BEDROCK_LORE: [
+  ]
 BB_HEAD_BEE: Bee
-BB_HEAD_BEE_LORE: []
+BB_HEAD_BEE_LORE: [
+  ]
 BB_HEAD_BIG_GRIN: Big Grin
-BB_HEAD_BIG_GRIN_LORE: []
+BB_HEAD_BIG_GRIN_LORE: [
+  ]
 BB_HEAD_BIRD: Bird
-BB_HEAD_BIRD_LORE: []
+BB_HEAD_BIRD_LORE: [
+  ]
 BB_HEAD_BLACK: Black
 BB_HEAD_BLACK_DICE: Black Dice
-BB_HEAD_BLACK_DICE_LORE: []
-BB_HEAD_BLACK_LORE: []
+BB_HEAD_BLACK_DICE_LORE: [
+  ]
+BB_HEAD_BLACK_LORE: [
+  ]
 BB_HEAD_BLACK_WOOL: Black Wool
-BB_HEAD_BLACK_WOOL_LORE: []
+BB_HEAD_BLACK_WOOL_LORE: [
+  ]
 BB_HEAD_BLAZE: Blaze
-BB_HEAD_BLAZE_LORE: []
+BB_HEAD_BLAZE_LORE: [
+  ]
 BB_HEAD_BLUE: Blue
-BB_HEAD_BLUE_LORE: []
+BB_HEAD_BLUE_LORE: [
+  ]
 BB_HEAD_BLUE_WOOL: Blue Wool
-BB_HEAD_BLUE_WOOL_LORE: []
+BB_HEAD_BLUE_WOOL_LORE: [
+  ]
 BB_HEAD_BOWLINGBALL: Bowlingball
-BB_HEAD_BOWLINGBALL_LORE: []
+BB_HEAD_BOWLINGBALL_LORE: [
+  ]
 BB_HEAD_BREAD: Bread
-BB_HEAD_BREAD_LORE: []
+BB_HEAD_BREAD_LORE: [
+  ]
 BB_HEAD_BRICK: Brick
-BB_HEAD_BRICK_LORE: []
+BB_HEAD_BRICK_LORE: [
+  ]
 BB_HEAD_BRIGHT_GREEN: Bright Green
-BB_HEAD_BRIGHT_GREEN_LORE: []
+BB_HEAD_BRIGHT_GREEN_LORE: [
+  ]
 BB_HEAD_BROWN: Brown
-BB_HEAD_BROWN_LORE: []
+BB_HEAD_BROWN_LORE: [
+  ]
 BB_HEAD_BROWN_MUSHROOM: Brown Mushroom
-BB_HEAD_BROWN_MUSHROOM_LORE: []
+BB_HEAD_BROWN_MUSHROOM_LORE: [
+  ]
 BB_HEAD_BROWN_WOOL: Brown Wool
-BB_HEAD_BROWN_WOOL_LORE: []
+BB_HEAD_BROWN_WOOL_LORE: [
+  ]
 BB_HEAD_BUNDLE_OF_BURNT_TORCHES: Bundle of Burnt Torches
-BB_HEAD_BUNDLE_OF_BURNT_TORCHES_LORE: []
+BB_HEAD_BUNDLE_OF_BURNT_TORCHES_LORE: [
+  ]
 BB_HEAD_CACTUS: Cactus
 BB_HEAD_CACTUS_FLOWER: Cactus Flower
-BB_HEAD_CACTUS_FLOWER_LORE: []
-BB_HEAD_CACTUS_LORE: []
+BB_HEAD_CACTUS_FLOWER_LORE: [
+  ]
+BB_HEAD_CACTUS_LORE: [
+  ]
 BB_HEAD_CAKE: Cake
-BB_HEAD_CAKE_LORE: []
+BB_HEAD_CAKE_LORE: [
+  ]
 BB_HEAD_CANDY_CANE: Candy Cane
-BB_HEAD_CANDY_CANE_LORE: []
+BB_HEAD_CANDY_CANE_LORE: [
+  ]
 BB_HEAD_CANNONBALL: Cannonball
-BB_HEAD_CANNONBALL_LORE: []
+BB_HEAD_CANNONBALL_LORE: [
+  ]
 BB_HEAD_CARROT: Carrot
-BB_HEAD_CARROT_LORE: []
+BB_HEAD_CARROT_LORE: [
+  ]
 BB_HEAD_CARVED_PUMPKIN: Carved Pumpkin
-BB_HEAD_CARVED_PUMPKIN_LORE: []
+BB_HEAD_CARVED_PUMPKIN_LORE: [
+  ]
 BB_HEAD_CAT: Cat
-BB_HEAD_CAT_LORE: []
+BB_HEAD_CAT_LORE: [
+  ]
 BB_HEAD_CAVE_SPIDER: Cave Spider
-BB_HEAD_CAVE_SPIDER_LORE: []
+BB_HEAD_CAVE_SPIDER_LORE: [
+  ]
 BB_HEAD_CHECKERBOARD: Checkerboard
-BB_HEAD_CHECKERBOARD_LORE: []
+BB_HEAD_CHECKERBOARD_LORE: [
+  ]
 BB_HEAD_CHEESE: Cheese
-BB_HEAD_CHEESE_LORE: []
+BB_HEAD_CHEESE_LORE: [
+  ]
 BB_HEAD_CHERRY_PIE: Cherry Pie
-BB_HEAD_CHERRY_PIE_LORE: []
+BB_HEAD_CHERRY_PIE_LORE: [
+  ]
 BB_HEAD_CHESS_BOARD: Chess Board
-BB_HEAD_CHESS_BOARD_LORE: []
+BB_HEAD_CHESS_BOARD_LORE: [
+  ]
 BB_HEAD_CHEST_MINECART: Chest Minecart
-BB_HEAD_CHEST_MINECART_LORE: []
+BB_HEAD_CHEST_MINECART_LORE: [
+  ]
 BB_HEAD_CHICKEN: Chicken
-BB_HEAD_CHICKEN_LORE: []
+BB_HEAD_CHICKEN_LORE: [
+  ]
 BB_HEAD_CHIMNEY: Chimney
-BB_HEAD_CHIMNEY_LORE: []
+BB_HEAD_CHIMNEY_LORE: [
+  ]
 BB_HEAD_CHINESE_DRAGON: Chinese Dragon
-BB_HEAD_CHINESE_DRAGON_LORE: []
+BB_HEAD_CHINESE_DRAGON_LORE: [
+  ]
 BB_HEAD_CHISELED_QUARTZ_BLOCK: Chiseled Quartz Block
-BB_HEAD_CHISELED_QUARTZ_BLOCK_LORE: []
+BB_HEAD_CHISELED_QUARTZ_BLOCK_LORE: [
+  ]
 BB_HEAD_CHOCOLATEBAR: Chocolatebar
-BB_HEAD_CHOCOLATEBAR_LORE: []
+BB_HEAD_CHOCOLATEBAR_LORE: [
+  ]
 BB_HEAD_CHOCOLATE_CAKE: Chocolate Cake
-BB_HEAD_CHOCOLATE_CAKE_LORE: []
+BB_HEAD_CHOCOLATE_CAKE_LORE: [
+  ]
 BB_HEAD_CHOCOLATE_FROSTED_DONUT: Chocolate Frosted Donut
-BB_HEAD_CHOCOLATE_FROSTED_DONUT_LORE: []
+BB_HEAD_CHOCOLATE_FROSTED_DONUT_LORE: [
+  ]
 BB_HEAD_CHOCOLATE_MUFFIN: Chocolate Muffin
-BB_HEAD_CHOCOLATE_MUFFIN_LORE: []
+BB_HEAD_CHOCOLATE_MUFFIN_LORE: [
+  ]
 BB_HEAD_CLAY: Clay
-BB_HEAD_CLAY_LORE: []
+BB_HEAD_CLAY_LORE: [
+  ]
 BB_HEAD_CLOWNFISH: Clownfish
-BB_HEAD_CLOWNFISH_LORE: []
+BB_HEAD_CLOWNFISH_LORE: [
+  ]
 BB_HEAD_COAL_BLOCK: Coal Block
-BB_HEAD_COAL_BLOCK_LORE: []
+BB_HEAD_COAL_BLOCK_LORE: [
+  ]
 BB_HEAD_COAL_ORE: Coal Ore
-BB_HEAD_COAL_ORE_LORE: []
+BB_HEAD_COAL_ORE_LORE: [
+  ]
 BB_HEAD_COBBLESTONE: Cobblestone
-BB_HEAD_COBBLESTONE_LORE: []
+BB_HEAD_COBBLESTONE_LORE: [
+  ]
 BB_HEAD_COCA_COLA_CAN: Coca Cola Can
-BB_HEAD_COCA_COLA_CAN_LORE: []
+BB_HEAD_COCA_COLA_CAN_LORE: [
+  ]
 BB_HEAD_COCOA_BEAN: Cocoa Bean
-BB_HEAD_COCOA_BEAN_LORE: []
+BB_HEAD_COCOA_BEAN_LORE: [
+  ]
 BB_HEAD_COCOA_POD: Cocoa Pod
-BB_HEAD_COCOA_POD_LORE: []
+BB_HEAD_COCOA_POD_LORE: [
+  ]
 BB_HEAD_COCONUT: Coconut
-BB_HEAD_COCONUT_LORE: []
+BB_HEAD_COCONUT_LORE: [
+  ]
 BB_HEAD_COMMAND_BLOCK: Command Block
-BB_HEAD_COMMAND_BLOCK_LORE: []
+BB_HEAD_COMMAND_BLOCK_LORE: [
+  ]
 BB_HEAD_COMMAND_BLOCK_MINECART: Command Block Minecart
-BB_HEAD_COMMAND_BLOCK_MINECART_LORE: []
+BB_HEAD_COMMAND_BLOCK_MINECART_LORE: [
+  ]
 BB_HEAD_COMPANION_CUBE: Companion Cube
-BB_HEAD_COMPANION_CUBE_LORE: []
+BB_HEAD_COMPANION_CUBE_LORE: [
+  ]
 BB_HEAD_COOKIE: Cookie
-BB_HEAD_COOKIE_LORE: []
+BB_HEAD_COOKIE_LORE: [
+  ]
 BB_HEAD_COOL: Cool
-BB_HEAD_COOL_LORE: []
+BB_HEAD_COOL_LORE: [
+  ]
 BB_HEAD_COW: Cow
-BB_HEAD_COW_LORE: []
+BB_HEAD_COW_LORE: [
+  ]
 BB_HEAD_CRACKED_STONE_BRICK: Cracked Stone Brick
-BB_HEAD_CRACKED_STONE_BRICK_LORE: []
+BB_HEAD_CRACKED_STONE_BRICK_LORE: [
+  ]
 BB_HEAD_CUP_OF_MILK: Cup of Milk
-BB_HEAD_CUP_OF_MILK_LORE: []
+BB_HEAD_CUP_OF_MILK_LORE: [
+  ]
 BB_HEAD_CUP_OF_TEA: Cup of Tea
-BB_HEAD_CUP_OF_TEA_LORE: []
+BB_HEAD_CUP_OF_TEA_LORE: [
+  ]
 BB_HEAD_CYAN_WOOL: Cyan Wool
-BB_HEAD_CYAN_WOOL_LORE: []
+BB_HEAD_CYAN_WOOL_LORE: [
+  ]
 BB_HEAD_DARK_BLUE: Dark Blue
-BB_HEAD_DARK_BLUE_LORE: []
+BB_HEAD_DARK_BLUE_LORE: [
+  ]
 BB_HEAD_DARK_GREEN: Dark Green
-BB_HEAD_DARK_GREEN_LORE: []
+BB_HEAD_DARK_GREEN_LORE: [
+  ]
 BB_HEAD_DARK_PRISMARINE: Dark Prismarine
-BB_HEAD_DARK_PRISMARINE_LORE: []
+BB_HEAD_DARK_PRISMARINE_LORE: [
+  ]
 BB_HEAD_DARK_RED: Dark Red
-BB_HEAD_DARK_RED_LORE: []
+BB_HEAD_DARK_RED_LORE: [
+  ]
 BB_HEAD_DARK_YELLOW: Dark Yellow
-BB_HEAD_DARK_YELLOW_LORE: []
+BB_HEAD_DARK_YELLOW_LORE: [
+  ]
 BB_HEAD_DEAD: Dead
-BB_HEAD_DEAD_LORE: []
+BB_HEAD_DEAD_LORE: [
+  ]
 BB_HEAD_DERP: Derp
-BB_HEAD_DERP_LORE: []
+BB_HEAD_DERP_LORE: [
+  ]
 BB_HEAD_DIAMOND_BLOCK: Diamond Block
-BB_HEAD_DIAMOND_BLOCK_LORE: []
+BB_HEAD_DIAMOND_BLOCK_LORE: [
+  ]
 BB_HEAD_DIAMOND_ORE: Diamond Ore
-BB_HEAD_DIAMOND_ORE_LORE: []
+BB_HEAD_DIAMOND_ORE_LORE: [
+  ]
 BB_HEAD_DIAMOND_STEVE_HEAD: Diamond Steve Head
-BB_HEAD_DIAMOND_STEVE_HEAD_LORE: []
+BB_HEAD_DIAMOND_STEVE_HEAD_LORE: [
+  ]
 BB_HEAD_DIORITE: Diorite
-BB_HEAD_DIORITE_LORE: []
+BB_HEAD_DIORITE_LORE: [
+  ]
 BB_HEAD_DIRT: Dirt
-BB_HEAD_DIRT_LORE: []
+BB_HEAD_DIRT_LORE: [
+  ]
 BB_HEAD_DISPENSER: Dispenser
-BB_HEAD_DISPENSER_LORE: []
+BB_HEAD_DISPENSER_LORE: [
+  ]
 BB_HEAD_DRAGON_BALL_#1: 'Dragon Ball #1'
-BB_HEAD_DRAGON_BALL_#1_LORE: []
+BB_HEAD_DRAGON_BALL_#1_LORE: [
+  ]
 BB_HEAD_DROPPER: Dropper
-BB_HEAD_DROPPER_LORE: []
+BB_HEAD_DROPPER_LORE: [
+  ]
 BB_HEAD_DRY_FARMLAND: Dry Farmland
-BB_HEAD_DRY_FARMLAND_LORE: []
+BB_HEAD_DRY_FARMLAND_LORE: [
+  ]
 BB_HEAD_EMBARRASED: Embarrased
-BB_HEAD_EMBARRASED_LORE: []
+BB_HEAD_EMBARRASED_LORE: [
+  ]
 BB_HEAD_EMERALD_BLOCK: Emerald Block
-BB_HEAD_EMERALD_BLOCK_LORE: []
+BB_HEAD_EMERALD_BLOCK_LORE: [
+  ]
 BB_HEAD_EMERALD_ORE: Emerald Ore
-BB_HEAD_EMERALD_ORE_LORE: []
+BB_HEAD_EMERALD_ORE_LORE: [
+  ]
 BB_HEAD_EMPTY_BUCKET: Empty Bucket
-BB_HEAD_EMPTY_BUCKET_LORE: []
+BB_HEAD_EMPTY_BUCKET_LORE: [
+  ]
 BB_HEAD_ENCHANTMENT_TABLE: Enchantment Table
-BB_HEAD_ENCHANTMENT_TABLE_LORE: []
+BB_HEAD_ENCHANTMENT_TABLE_LORE: [
+  ]
 BB_HEAD_ENDERDRAGON: Enderdragon
-BB_HEAD_ENDERDRAGON_LORE: []
+BB_HEAD_ENDERDRAGON_LORE: [
+  ]
 BB_HEAD_ENDEREYE: Endereye
-BB_HEAD_ENDEREYE_LORE: []
+BB_HEAD_ENDEREYE_LORE: [
+  ]
 BB_HEAD_ENDERMAN: Enderman
-BB_HEAD_ENDERMAN_LORE: []
+BB_HEAD_ENDERMAN_LORE: [
+  ]
 BB_HEAD_ENDERPEARL: Enderpearl
-BB_HEAD_ENDERPEARL_LORE: []
+BB_HEAD_ENDERPEARL_LORE: [
+  ]
 BB_HEAD_ENDER_PORTAL: Ender Portal
-BB_HEAD_ENDER_PORTAL_LORE: []
+BB_HEAD_ENDER_PORTAL_LORE: [
+  ]
 BB_HEAD_END_STONE: End Stone
-BB_HEAD_END_STONE_LORE: []
+BB_HEAD_END_STONE_LORE: [
+  ]
 BB_HEAD_EYE: Eye
-BB_HEAD_EYE_LORE: []
+BB_HEAD_EYE_LORE: [
+  ]
 BB_HEAD_FACEBOOK: Facebook
-BB_HEAD_FACEBOOK_LORE: []
+BB_HEAD_FACEBOOK_LORE: [
+  ]
 BB_HEAD_FERRET: Ferret
-BB_HEAD_FERRET_LORE: []
+BB_HEAD_FERRET_LORE: [
+  ]
 BB_HEAD_FIRECHARGE: Firecharge
-BB_HEAD_FIRECHARGE_LORE: []
+BB_HEAD_FIRECHARGE_LORE: [
+  ]
 BB_HEAD_FOOTBALL_HELMET: Football Helmet
-BB_HEAD_FOOTBALL_HELMET_LORE: []
+BB_HEAD_FOOTBALL_HELMET_LORE: [
+  ]
 BB_HEAD_FOREVER_CRYING: Forever Crying
-BB_HEAD_FOREVER_CRYING_LORE: []
+BB_HEAD_FOREVER_CRYING_LORE: [
+  ]
 BB_HEAD_FURNACE_MINECART: Furnace Minecart
-BB_HEAD_FURNACE_MINECART_LORE: []
+BB_HEAD_FURNACE_MINECART_LORE: [
+  ]
 BB_HEAD_GHAST: Ghast
-BB_HEAD_GHAST_LORE: []
+BB_HEAD_GHAST_LORE: [
+  ]
 BB_HEAD_GLADOS: Glados
-BB_HEAD_GLADOS_LORE: []
+BB_HEAD_GLADOS_LORE: [
+  ]
 BB_HEAD_GLOWSTONE: Glowstone
-BB_HEAD_GLOWSTONE_LORE: []
+BB_HEAD_GLOWSTONE_LORE: [
+  ]
 BB_HEAD_GOLD_BLOCK: Gold Block
-BB_HEAD_GOLD_BLOCK_LORE: []
+BB_HEAD_GOLD_BLOCK_LORE: [
+  ]
 BB_HEAD_GOLD_ORE: Gold Ore
-BB_HEAD_GOLD_ORE_LORE: []
+BB_HEAD_GOLD_ORE_LORE: [
+  ]
 BB_HEAD_GOLD_POT: Gold Pot
-BB_HEAD_GOLD_POT_LORE: []
+BB_HEAD_GOLD_POT_LORE: [
+  ]
 BB_HEAD_GOLD_STEVE_HEAD: Gold Steve Head
-BB_HEAD_GOLD_STEVE_HEAD_LORE: []
+BB_HEAD_GOLD_STEVE_HEAD_LORE: [
+  ]
 BB_HEAD_GOLEM: Golem
-BB_HEAD_GOLEM_LORE: []
+BB_HEAD_GOLEM_LORE: [
+  ]
 BB_HEAD_GOOMBA: Goomba
-BB_HEAD_GOOMBA_LORE: []
+BB_HEAD_GOOMBA_LORE: [
+  ]
 BB_HEAD_GRANITE: Granite
-BB_HEAD_GRANITE_LORE: []
+BB_HEAD_GRANITE_LORE: [
+  ]
 BB_HEAD_GRAPE: Grape
-BB_HEAD_GRAPE_LORE: []
+BB_HEAD_GRAPE_LORE: [
+  ]
 BB_HEAD_GRASS: Grass
 BB_HEAD_GRASS_GREEN: Grass Green
-BB_HEAD_GRASS_GREEN_LORE: []
-BB_HEAD_GRASS_LORE: []
+BB_HEAD_GRASS_GREEN_LORE: [
+  ]
+BB_HEAD_GRASS_LORE: [
+  ]
 BB_HEAD_GRAVEL: Gravel
-BB_HEAD_GRAVEL_LORE: []
+BB_HEAD_GRAVEL_LORE: [
+  ]
 BB_HEAD_GRAY_WOOL: Gray Wool
-BB_HEAD_GRAY_WOOL_LORE: []
+BB_HEAD_GRAY_WOOL_LORE: [
+  ]
 BB_HEAD_GREAT_BALL: Great Ball
-BB_HEAD_GREAT_BALL_LORE: []
+BB_HEAD_GREAT_BALL_LORE: [
+  ]
 BB_HEAD_GREEN: Green
 BB_HEAD_GREEN_APPLE: Green Apple
-BB_HEAD_GREEN_APPLE_LORE: []
+BB_HEAD_GREEN_APPLE_LORE: [
+  ]
 BB_HEAD_GREEN_CORE: Green Core
-BB_HEAD_GREEN_CORE_LORE: []
+BB_HEAD_GREEN_CORE_LORE: [
+  ]
 BB_HEAD_GREEN_GRAPES: Green Grapes
-BB_HEAD_GREEN_GRAPES_LORE: []
-BB_HEAD_GREEN_LORE: []
+BB_HEAD_GREEN_GRAPES_LORE: [
+  ]
+BB_HEAD_GREEN_LORE: [
+  ]
 BB_HEAD_GREEN_ORE: Green Ore
-BB_HEAD_GREEN_ORE_LORE: []
+BB_HEAD_GREEN_ORE_LORE: [
+  ]
 BB_HEAD_GREEN_WOOL: Green Wool
-BB_HEAD_GREEN_WOOL_LORE: []
+BB_HEAD_GREEN_WOOL_LORE: [
+  ]
 BB_HEAD_GREY: Grey
-BB_HEAD_GREY_LORE: []
+BB_HEAD_GREY_LORE: [
+  ]
 BB_HEAD_GUARDIAN: Guardian
-BB_HEAD_GUARDIAN_LORE: []
+BB_HEAD_GUARDIAN_LORE: [
+  ]
 BB_HEAD_HALF_PISTON: Half Piston
-BB_HEAD_HALF_PISTON_LORE: []
+BB_HEAD_HALF_PISTON_LORE: [
+  ]
 BB_HEAD_HAM: Ham
 BB_HEAD_HAMBURGER: Hamburger
-BB_HEAD_HAMBURGER_LORE: []
-BB_HEAD_HAM_LORE: []
+BB_HEAD_HAMBURGER_LORE: [
+  ]
+BB_HEAD_HAM_LORE: [
+  ]
 BB_HEAD_HAY_BALE: Hay Bale
-BB_HEAD_HAY_BALE_LORE: []
+BB_HEAD_HAY_BALE_LORE: [
+  ]
 BB_HEAD_HERMIT_CRAB: Hermit Crab
-BB_HEAD_HERMIT_CRAB_LORE: []
+BB_HEAD_HERMIT_CRAB_LORE: [
+  ]
 BB_HEAD_HEROBRINE: Herobrine
-BB_HEAD_HEROBRINE_LORE: []
+BB_HEAD_HEROBRINE_LORE: [
+  ]
 BB_HEAD_HORSE: Horse
-BB_HEAD_HORSE_LORE: []
+BB_HEAD_HORSE_LORE: [
+  ]
 BB_HEAD_HOT_CHOCOLATE: Hot Chocolate
-BB_HEAD_HOT_CHOCOLATE_LORE: []
+BB_HEAD_HOT_CHOCOLATE_LORE: [
+  ]
 BB_HEAD_HYDRATED_FARMLAND: Hydrated Farmland
-BB_HEAD_HYDRATED_FARMLAND_LORE: []
+BB_HEAD_HYDRATED_FARMLAND_LORE: [
+  ]
 BB_HEAD_ICE_BLOCK: Ice Block
-BB_HEAD_ICE_BLOCK_LORE: []
+BB_HEAD_ICE_BLOCK_LORE: [
+  ]
 BB_HEAD_ILLUSION_BLOCK: Illusion Block
-BB_HEAD_ILLUSION_BLOCK_LORE: []
+BB_HEAD_ILLUSION_BLOCK_LORE: [
+  ]
 BB_HEAD_IRON_BLOCK: Iron Block
-BB_HEAD_IRON_BLOCK_LORE: []
+BB_HEAD_IRON_BLOCK_LORE: [
+  ]
 BB_HEAD_IRON_ORE: Iron Ore
-BB_HEAD_IRON_ORE_LORE: []
+BB_HEAD_IRON_ORE_LORE: [
+  ]
 BB_HEAD_JUKEBOX: Jukebox
-BB_HEAD_JUKEBOX_LORE: []
+BB_HEAD_JUKEBOX_LORE: [
+  ]
 BB_HEAD_KISSY: Kissy
-BB_HEAD_KISSY_LORE: []
+BB_HEAD_KISSY_LORE: [
+  ]
 BB_HEAD_KOALA: Koala
-BB_HEAD_KOALA_LORE: []
+BB_HEAD_KOALA_LORE: [
+  ]
 BB_HEAD_LAPIS_LAZULI_BLOCK: Lapis Lazuli Block
-BB_HEAD_LAPIS_LAZULI_BLOCK_LORE: []
+BB_HEAD_LAPIS_LAZULI_BLOCK_LORE: [
+  ]
 BB_HEAD_LAPIS_LAZULI_ORE: Lapis Lazuli Ore
-BB_HEAD_LAPIS_LAZULI_ORE_LORE: []
+BB_HEAD_LAPIS_LAZULI_ORE_LORE: [
+  ]
 BB_HEAD_LAVA: Lava
 BB_HEAD_LAVA_BUCKET: Lava Bucket
-BB_HEAD_LAVA_BUCKET_LORE: []
-BB_HEAD_LAVA_LORE: []
+BB_HEAD_LAVA_BUCKET_LORE: [
+  ]
+BB_HEAD_LAVA_LORE: [
+  ]
 BB_HEAD_LAVA_SLIME: Lava Slime
-BB_HEAD_LAVA_SLIME_LORE: []
+BB_HEAD_LAVA_SLIME_LORE: [
+  ]
 BB_HEAD_LEMON: Lemon
-BB_HEAD_LEMON_LORE: []
+BB_HEAD_LEMON_LORE: [
+  ]
 BB_HEAD_LETTUCE: Lettuce
-BB_HEAD_LETTUCE_LORE: []
+BB_HEAD_LETTUCE_LORE: [
+  ]
 BB_HEAD_LIGHT_BLUE_STAINED_CLAY: Light Blue Stained Clay
-BB_HEAD_LIGHT_BLUE_STAINED_CLAY_LORE: []
+BB_HEAD_LIGHT_BLUE_STAINED_CLAY_LORE: [
+  ]
 BB_HEAD_LIGHT_BLUE_WOOL: Light Blue Wool
-BB_HEAD_LIGHT_BLUE_WOOL_LORE: []
+BB_HEAD_LIGHT_BLUE_WOOL_LORE: [
+  ]
 BB_HEAD_LIGHT_BROWN_MUSHROOM: Light Brown Mushroom
-BB_HEAD_LIGHT_BROWN_MUSHROOM_LORE: []
+BB_HEAD_LIGHT_BROWN_MUSHROOM_LORE: [
+  ]
 BB_HEAD_LIGHT_GRAY_WOOL: Light Gray Wool
-BB_HEAD_LIGHT_GRAY_WOOL_LORE: []
+BB_HEAD_LIGHT_GRAY_WOOL_LORE: [
+  ]
 BB_HEAD_LIGHT_GREY: Light Grey
-BB_HEAD_LIGHT_GREY_LORE: []
+BB_HEAD_LIGHT_GREY_LORE: [
+  ]
 BB_HEAD_LIGHT_ORANGE: Light Orange
-BB_HEAD_LIGHT_ORANGE_LORE: []
+BB_HEAD_LIGHT_ORANGE_LORE: [
+  ]
 BB_HEAD_LIGHT_RED: Light Red
-BB_HEAD_LIGHT_RED_LORE: []
+BB_HEAD_LIGHT_RED_LORE: [
+  ]
 BB_HEAD_LIME_WOOL: Lime Wool
-BB_HEAD_LIME_WOOL_LORE: []
+BB_HEAD_LIME_WOOL_LORE: [
+  ]
 BB_HEAD_LUIGI: Luigi
-BB_HEAD_LUIGI_LORE: []
+BB_HEAD_LUIGI_LORE: [
+  ]
 BB_HEAD_MAGENTA_WOOL: Magenta Wool
-BB_HEAD_MAGENTA_WOOL_LORE: []
+BB_HEAD_MAGENTA_WOOL_LORE: [
+  ]
 BB_HEAD_MAILBOX: Mailbox
-BB_HEAD_MAILBOX_LORE: []
+BB_HEAD_MAILBOX_LORE: [
+  ]
 BB_HEAD_MARIO: Mario
-BB_HEAD_MARIO_LORE: []
+BB_HEAD_MARIO_LORE: [
+  ]
 BB_HEAD_MASTERCHIEF_-_HALO: Masterchief - Halo
-BB_HEAD_MASTERCHIEF_-_HALO_LORE: []
+BB_HEAD_MASTERCHIEF_-_HALO_LORE: [
+  ]
 BB_HEAD_MASTER_BALL: Master Ball
-BB_HEAD_MASTER_BALL_LORE: []
+BB_HEAD_MASTER_BALL_LORE: [
+  ]
 BB_HEAD_MEDIUM_GREEN: Medium Green
-BB_HEAD_MEDIUM_GREEN_LORE: []
+BB_HEAD_MEDIUM_GREEN_LORE: [
+  ]
 BB_HEAD_MELON: Melon
-BB_HEAD_MELON_LORE: []
+BB_HEAD_MELON_LORE: [
+  ]
 BB_HEAD_MILK_BUCKET: Milk Bucket
-BB_HEAD_MILK_BUCKET_LORE: []
+BB_HEAD_MILK_BUCKET_LORE: [
+  ]
 BB_HEAD_MISSING_TEXTURE: Missing Texture
-BB_HEAD_MISSING_TEXTURE_LORE: []
+BB_HEAD_MISSING_TEXTURE_LORE: [
+  ]
 BB_HEAD_MOB_SPAWNER: Mob Spawner
-BB_HEAD_MOB_SPAWNER_LORE: []
+BB_HEAD_MOB_SPAWNER_LORE: [
+  ]
 BB_HEAD_MOLTEN_CORE: Molten Core
-BB_HEAD_MOLTEN_CORE_LORE: []
+BB_HEAD_MOLTEN_CORE_LORE: [
+  ]
 BB_HEAD_MONKEY: Monkey
-BB_HEAD_MONKEY_LORE: []
+BB_HEAD_MONKEY_LORE: [
+  ]
 BB_HEAD_MOSSY_COBBLESTONE: Mossy Cobblestone
-BB_HEAD_MOSSY_COBBLESTONE_LORE: []
+BB_HEAD_MOSSY_COBBLESTONE_LORE: [
+  ]
 BB_HEAD_MOSSY_STONE_BRICK: Mossy Stone Brick
-BB_HEAD_MOSSY_STONE_BRICK_LORE: []
+BB_HEAD_MOSSY_STONE_BRICK_LORE: [
+  ]
 BB_HEAD_MUSHROOM_COW: Mushroom Cow
-BB_HEAD_MUSHROOM_COW_LORE: []
+BB_HEAD_MUSHROOM_COW_LORE: [
+  ]
 BB_HEAD_MUSHROOM_STEM: Mushroom Stem
-BB_HEAD_MUSHROOM_STEM_LORE: []
+BB_HEAD_MUSHROOM_STEM_LORE: [
+  ]
 BB_HEAD_MUSTACHE: Mustache
-BB_HEAD_MUSTACHE_LORE: []
+BB_HEAD_MUSTACHE_LORE: [
+  ]
 BB_HEAD_MYCELLIUM: Mycellium
-BB_HEAD_MYCELLIUM_LORE: []
+BB_HEAD_MYCELLIUM_LORE: [
+  ]
 BB_HEAD_NETHERBRICK: Netherbrick
-BB_HEAD_NETHERBRICK_LORE: []
+BB_HEAD_NETHERBRICK_LORE: [
+  ]
 BB_HEAD_NETHERRACK: Netherrack
-BB_HEAD_NETHERRACK_LORE: []
+BB_HEAD_NETHERRACK_LORE: [
+  ]
 BB_HEAD_NETHER_PORTAL: Nether Portal
-BB_HEAD_NETHER_PORTAL_LORE: []
+BB_HEAD_NETHER_PORTAL_LORE: [
+  ]
 BB_HEAD_NOTE_BLOCK: Note Block
-BB_HEAD_NOTE_BLOCK_LORE: []
+BB_HEAD_NOTE_BLOCK_LORE: [
+  ]
 BB_HEAD_NUTELLA: Nutella
-BB_HEAD_NUTELLA_LORE: []
+BB_HEAD_NUTELLA_LORE: [
+  ]
 BB_HEAD_OBSIDIAN: Obsidian
-BB_HEAD_OBSIDIAN_LORE: []
+BB_HEAD_OBSIDIAN_LORE: [
+  ]
 BB_HEAD_OCELOT: Ocelot
-BB_HEAD_OCELOT_LORE: []
+BB_HEAD_OCELOT_LORE: [
+  ]
 BB_HEAD_ORANGE: Orange
 BB_HEAD_ORANGE_CORE: Orange Core
-BB_HEAD_ORANGE_CORE_LORE: []
-BB_HEAD_ORANGE_LORE: []
+BB_HEAD_ORANGE_CORE_LORE: [
+  ]
+BB_HEAD_ORANGE_LORE: [
+  ]
 BB_HEAD_ORANGE_WOOL: Orange Wool
-BB_HEAD_ORANGE_WOOL_LORE: []
+BB_HEAD_ORANGE_WOOL_LORE: [
+  ]
 BB_HEAD_PACKED_ICE_BLOCK: Packed Ice Block
-BB_HEAD_PACKED_ICE_BLOCK_LORE: []
+BB_HEAD_PACKED_ICE_BLOCK_LORE: [
+  ]
 BB_HEAD_PANCAKES: Pancakes
-BB_HEAD_PANCAKES_LORE: []
+BB_HEAD_PANCAKES_LORE: [
+  ]
 BB_HEAD_PANDA: Panda
-BB_HEAD_PANDA_LORE: []
+BB_HEAD_PANDA_LORE: [
+  ]
 BB_HEAD_PENGUIN: Penguin
-BB_HEAD_PENGUIN_LORE: []
+BB_HEAD_PENGUIN_LORE: [
+  ]
 BB_HEAD_PIE: Pie
-BB_HEAD_PIE_LORE: []
+BB_HEAD_PIE_LORE: [
+  ]
 BB_HEAD_PIG: Pig
 BB_HEAD_PIGZOMBIE: Pigzombie
-BB_HEAD_PIGZOMBIE_LORE: []
-BB_HEAD_PIG_LORE: []
+BB_HEAD_PIGZOMBIE_LORE: [
+  ]
+BB_HEAD_PIG_LORE: [
+  ]
 BB_HEAD_PILLAR_QUARTZ_BLOCK: Pillar Quartz Block
-BB_HEAD_PILLAR_QUARTZ_BLOCK_LORE: []
+BB_HEAD_PILLAR_QUARTZ_BLOCK_LORE: [
+  ]
 BB_HEAD_PINE_CONE: Pine Cone
-BB_HEAD_PINE_CONE_LORE: []
+BB_HEAD_PINE_CONE_LORE: [
+  ]
 BB_HEAD_PINK: Pink
-BB_HEAD_PINK_LORE: []
+BB_HEAD_PINK_LORE: [
+  ]
 BB_HEAD_PINK_WOOL: Pink Wool
-BB_HEAD_PINK_WOOL_LORE: []
+BB_HEAD_PINK_WOOL_LORE: [
+  ]
 BB_HEAD_PISTON: Piston
-BB_HEAD_PISTON_LORE: []
+BB_HEAD_PISTON_LORE: [
+  ]
 BB_HEAD_PODZOL: Podzol
-BB_HEAD_PODZOL_LORE: []
+BB_HEAD_PODZOL_LORE: [
+  ]
 BB_HEAD_POKE_BALL: Poke Ball
-BB_HEAD_POKE_BALL_LORE: []
+BB_HEAD_POKE_BALL_LORE: [
+  ]
 BB_HEAD_POLAR_BEAR: Polar Bear
-BB_HEAD_POLAR_BEAR_LORE: []
+BB_HEAD_POLAR_BEAR_LORE: [
+  ]
 BB_HEAD_POLISHED_ANDESITE: Polished Andesite
-BB_HEAD_POLISHED_ANDESITE_LORE: []
+BB_HEAD_POLISHED_ANDESITE_LORE: [
+  ]
 BB_HEAD_POLISHED_DIORITE: Polished Diorite
-BB_HEAD_POLISHED_DIORITE_LORE: []
+BB_HEAD_POLISHED_DIORITE_LORE: [
+  ]
 BB_HEAD_POLISHED_GRANITE: Polished Granite
-BB_HEAD_POLISHED_GRANITE_LORE: []
+BB_HEAD_POLISHED_GRANITE_LORE: [
+  ]
 BB_HEAD_POPCORN: Popcorn
-BB_HEAD_POPCORN_LORE: []
+BB_HEAD_POPCORN_LORE: [
+  ]
 BB_HEAD_PORTABLE_GRILL: Portable Grill
-BB_HEAD_PORTABLE_GRILL_LORE: []
+BB_HEAD_PORTABLE_GRILL_LORE: [
+  ]
 BB_HEAD_PORTAL_CORE: Portal Core
-BB_HEAD_PORTAL_CORE_LORE: []
+BB_HEAD_PORTAL_CORE_LORE: [
+  ]
 BB_HEAD_PREMIER_BALL: Premier Ball
-BB_HEAD_PREMIER_BALL_LORE: []
+BB_HEAD_PREMIER_BALL_LORE: [
+  ]
 BB_HEAD_PRISMARINE: Prismarine
 BB_HEAD_PRISMARINE_BRICK: Prismarine Brick
-BB_HEAD_PRISMARINE_BRICK_LORE: []
-BB_HEAD_PRISMARINE_LORE: []
+BB_HEAD_PRISMARINE_BRICK_LORE: [
+  ]
+BB_HEAD_PRISMARINE_LORE: [
+  ]
 BB_HEAD_PUFFERFUSH: Pufferfush
-BB_HEAD_PUFFERFUSH_LORE: []
+BB_HEAD_PUFFERFUSH_LORE: [
+  ]
 BB_HEAD_PUMPKIN: Pumpkin
-BB_HEAD_PUMPKIN_LORE: []
+BB_HEAD_PUMPKIN_LORE: [
+  ]
 BB_HEAD_PURCHASE_MESSAGE: Вы приобрели голову §a%s §fза §a%s §f%s. Теперь её можно
   будет использовать в игре на своем участке.
 BB_HEAD_PURPLE_GRAPES: Purple Grapes
-BB_HEAD_PURPLE_GRAPES_LORE: []
+BB_HEAD_PURPLE_GRAPES_LORE: [
+  ]
 BB_HEAD_PURPLE_WOOL: Purple Wool
-BB_HEAD_PURPLE_WOOL_LORE: []
+BB_HEAD_PURPLE_WOOL_LORE: [
+  ]
 BB_HEAD_QUARTZ_BLOCK: Quartz Block
-BB_HEAD_QUARTZ_BLOCK_LORE: []
+BB_HEAD_QUARTZ_BLOCK_LORE: [
+  ]
 BB_HEAD_QUARTZ_ORE: Quartz Ore
-BB_HEAD_QUARTZ_ORE_LORE: []
+BB_HEAD_QUARTZ_ORE_LORE: [
+  ]
 BB_HEAD_RABBIT: Rabbit
-BB_HEAD_RABBIT_LORE: []
+BB_HEAD_RABBIT_LORE: [
+  ]
 BB_HEAD_RED: Red
 BB_HEAD_REDDIT: Reddit
-BB_HEAD_REDDIT_LORE: []
+BB_HEAD_REDDIT_LORE: [
+  ]
 BB_HEAD_REDSTONE_BLOCK: Redstone Block
-BB_HEAD_REDSTONE_BLOCK_LORE: []
+BB_HEAD_REDSTONE_BLOCK_LORE: [
+  ]
 BB_HEAD_REDSTONE_LAMP: Redstone Lamp
-BB_HEAD_REDSTONE_LAMP_LORE: []
+BB_HEAD_REDSTONE_LAMP_LORE: [
+  ]
 BB_HEAD_REDSTONE_ORE: Redstone Ore
-BB_HEAD_REDSTONE_ORE_LORE: []
+BB_HEAD_REDSTONE_ORE_LORE: [
+  ]
 BB_HEAD_REDSTONE_TORCH: Redstone Torch
-BB_HEAD_REDSTONE_TORCH_LORE: []
+BB_HEAD_REDSTONE_TORCH_LORE: [
+  ]
 BB_HEAD_RED_DICE: Red Dice
-BB_HEAD_RED_DICE_LORE: []
+BB_HEAD_RED_DICE_LORE: [
+  ]
 BB_HEAD_RED_GRAPES: Red Grapes
-BB_HEAD_RED_GRAPES_LORE: []
-BB_HEAD_RED_LORE: []
+BB_HEAD_RED_GRAPES_LORE: [
+  ]
+BB_HEAD_RED_LORE: [
+  ]
 BB_HEAD_RED_MUSHROOM: Red Mushroom
-BB_HEAD_RED_MUSHROOM_LORE: []
+BB_HEAD_RED_MUSHROOM_LORE: [
+  ]
 BB_HEAD_RED_SAND: Red Sand
 BB_HEAD_RED_SANDSTONE: Red Sandstone
-BB_HEAD_RED_SANDSTONE_LORE: []
-BB_HEAD_RED_SAND_LORE: []
+BB_HEAD_RED_SANDSTONE_LORE: [
+  ]
+BB_HEAD_RED_SAND_LORE: [
+  ]
 BB_HEAD_RED_WOOL: Red Wool
-BB_HEAD_RED_WOOL_LORE: []
+BB_HEAD_RED_WOOL_LORE: [
+  ]
 BB_HEAD_REGULAR_FISH: Regular Fish
-BB_HEAD_REGULAR_FISH_LORE: []
+BB_HEAD_REGULAR_FISH_LORE: [
+  ]
 BB_HEAD_SAD: Sad
-BB_HEAD_SAD_LORE: []
+BB_HEAD_SAD_LORE: [
+  ]
 BB_HEAD_SAFARI_BALL: Safari Ball
-BB_HEAD_SAFARI_BALL_LORE: []
+BB_HEAD_SAFARI_BALL_LORE: [
+  ]
 BB_HEAD_SALAD: Salad
-BB_HEAD_SALAD_LORE: []
+BB_HEAD_SALAD_LORE: [
+  ]
 BB_HEAD_SALMON_FISH: Salmon Fish
-BB_HEAD_SALMON_FISH_LORE: []
+BB_HEAD_SALMON_FISH_LORE: [
+  ]
 BB_HEAD_SAND: Sand
 BB_HEAD_SANDSTONE: Sandstone
-BB_HEAD_SANDSTONE_LORE: []
+BB_HEAD_SANDSTONE_LORE: [
+  ]
 BB_HEAD_SANDWICH: Sandwich
-BB_HEAD_SANDWICH_LORE: []
-BB_HEAD_SAND_LORE: []
+BB_HEAD_SANDWICH_LORE: [
+  ]
+BB_HEAD_SAND_LORE: [
+  ]
 BB_HEAD_SCARED: Scared
-BB_HEAD_SCARED_LORE: []
+BB_HEAD_SCARED_LORE: [
+  ]
 BB_HEAD_SCRAMBLED_RUBIK'S_CUBE: Scrambled Rubiks Cube
-BB_HEAD_SCRAMBLED_RUBIK'S_CUBE_LORE: []
+BB_HEAD_SCRAMBLED_RUBIK'S_CUBE_LORE: [
+  ]
 BB_HEAD_SEAGULL: Seagull
-BB_HEAD_SEAGULL_LORE: []
+BB_HEAD_SEAGULL_LORE: [
+  ]
 BB_HEAD_SEA_LANTERN: Sea Lantern
-BB_HEAD_SEA_LANTERN_LORE: []
+BB_HEAD_SEA_LANTERN_LORE: [
+  ]
 BB_HEAD_SELECTION_MESSAGE: Вы получили голову §a%s
 BB_HEAD_SHEEP: Sheep
-BB_HEAD_SHEEP_LORE: []
+BB_HEAD_SHEEP_LORE: [
+  ]
 BB_HEAD_SKULL: Skull
-BB_HEAD_SKULL_LORE: []
+BB_HEAD_SKULL_LORE: [
+  ]
 BB_HEAD_SKYPE: Skype
-BB_HEAD_SKYPE_LORE: []
+BB_HEAD_SKYPE_LORE: [
+  ]
 BB_HEAD_SLIME: Slime
 BB_HEAD_SLIME_BALL: Slime Ball
-BB_HEAD_SLIME_BALL_LORE: []
+BB_HEAD_SLIME_BALL_LORE: [
+  ]
 BB_HEAD_SLIME_BLOCK: Slime Block
-BB_HEAD_SLIME_BLOCK_LORE: []
-BB_HEAD_SLIME_LORE: []
+BB_HEAD_SLIME_BLOCK_LORE: [
+  ]
+BB_HEAD_SLIME_LORE: [
+  ]
 BB_HEAD_SLIME_PISTON: Slime Piston
-BB_HEAD_SLIME_PISTON_LORE: []
+BB_HEAD_SLIME_PISTON_LORE: [
+  ]
 BB_HEAD_SMILE: Smile
-BB_HEAD_SMILE_LORE: []
+BB_HEAD_SMILE_LORE: [
+  ]
 BB_HEAD_SMOOTH_SANDSTONE: Smooth Sandstone
-BB_HEAD_SMOOTH_SANDSTONE_LORE: []
+BB_HEAD_SMOOTH_SANDSTONE_LORE: [
+  ]
 BB_HEAD_SNOWHEAD: Snowhead
-BB_HEAD_SNOWHEAD_LORE: []
+BB_HEAD_SNOWHEAD_LORE: [
+  ]
 BB_HEAD_SNOW_BLOCK: Snow Block
-BB_HEAD_SNOW_BLOCK_LORE: []
+BB_HEAD_SNOW_BLOCK_LORE: [
+  ]
 BB_HEAD_SNOW_GRASS: Snow Grass
-BB_HEAD_SNOW_GRASS_LORE: []
+BB_HEAD_SNOW_GRASS_LORE: [
+  ]
 BB_HEAD_SOCCERBALL: Soccerball
-BB_HEAD_SOCCERBALL_LORE: []
+BB_HEAD_SOCCERBALL_LORE: [
+  ]
 BB_HEAD_SOLVED_RUBIK'S_CUBE: Solved Rubiks Cube
-BB_HEAD_SOLVED_RUBIK'S_CUBE_LORE: []
+BB_HEAD_SOLVED_RUBIK'S_CUBE_LORE: [
+  ]
 BB_HEAD_SOULSAND: Soulsand
-BB_HEAD_SOULSAND_LORE: []
+BB_HEAD_SOULSAND_LORE: [
+  ]
 BB_HEAD_SPACE_HELMET: Space Helmet
-BB_HEAD_SPACE_HELMET_LORE: []
+BB_HEAD_SPACE_HELMET_LORE: [
+  ]
 BB_HEAD_SPIDER: Spider
-BB_HEAD_SPIDER_LORE: []
+BB_HEAD_SPIDER_LORE: [
+  ]
 BB_HEAD_SPONGE: Sponge
-BB_HEAD_SPONGE_LORE: []
+BB_HEAD_SPONGE_LORE: [
+  ]
 BB_HEAD_SQUID: Squid
-BB_HEAD_SQUID_LORE: []
+BB_HEAD_SQUID_LORE: [
+  ]
 BB_HEAD_STICKY_PISTON: Sticky Piston
-BB_HEAD_STICKY_PISTON_LORE: []
+BB_HEAD_STICKY_PISTON_LORE: [
+  ]
 BB_HEAD_STONE: Stone
 BB_HEAD_STONE_BRICK: Stone Brick
-BB_HEAD_STONE_BRICK_LORE: []
-BB_HEAD_STONE_LORE: []
+BB_HEAD_STONE_BRICK_LORE: [
+  ]
+BB_HEAD_STONE_LORE: [
+  ]
 BB_HEAD_STONE_SLAB: Stone Slab
-BB_HEAD_STONE_SLAB_LORE: []
+BB_HEAD_STONE_SLAB_LORE: [
+  ]
 BB_HEAD_STRAWBERRY: Strawberry
-BB_HEAD_STRAWBERRY_LORE: []
+BB_HEAD_STRAWBERRY_LORE: [
+  ]
 BB_HEAD_SUGARCANE: Sugarcane
-BB_HEAD_SUGARCANE_LORE: []
+BB_HEAD_SUGARCANE_LORE: [
+  ]
 BB_HEAD_SUPRISED: Suprised
-BB_HEAD_SUPRISED_LORE: []
+BB_HEAD_SUPRISED_LORE: [
+  ]
 BB_HEAD_SUSHI_ROLL: Sushi Roll
-BB_HEAD_SUSHI_ROLL_LORE: []
+BB_HEAD_SUSHI_ROLL_LORE: [
+  ]
 BB_HEAD_TACO: Taco
-BB_HEAD_TACO_LORE: []
+BB_HEAD_TACO_LORE: [
+  ]
 BB_HEAD_TARGET: Target
-BB_HEAD_TARGET_LORE: []
+BB_HEAD_TARGET_LORE: [
+  ]
 BB_HEAD_TIGER: Tiger
-BB_HEAD_TIGER_LORE: []
+BB_HEAD_TIGER_LORE: [
+  ]
 BB_HEAD_TNT: TNT
-BB_HEAD_TNT_LORE: []
+BB_HEAD_TNT_LORE: [
+  ]
 BB_HEAD_TNT_MINECART: TNT Minecart
-BB_HEAD_TNT_MINECART_LORE: []
+BB_HEAD_TNT_MINECART_LORE: [
+  ]
 BB_HEAD_TOMATO: Tomato
-BB_HEAD_TOMATO_LORE: []
+BB_HEAD_TOMATO_LORE: [
+  ]
 BB_HEAD_TORTOISE: Tortoise
-BB_HEAD_TORTOISE_LORE: []
+BB_HEAD_TORTOISE_LORE: [
+  ]
 BB_HEAD_TURRET: Turret
-BB_HEAD_TURRET_LORE: []
+BB_HEAD_TURRET_LORE: [
+  ]
 BB_HEAD_TWITTER: Twitter
-BB_HEAD_TWITTER_LORE: []
+BB_HEAD_TWITTER_LORE: [
+  ]
 BB_HEAD_ULTRA_BALL: Ultra Ball
-BB_HEAD_ULTRA_BALL_LORE: []
+BB_HEAD_ULTRA_BALL_LORE: [
+  ]
 BB_HEAD_VILLAGER: Villager
 BB_HEAD_VILLAGER_HEAD: Villager head
-BB_HEAD_VILLAGER_HEAD_LORE: []
-BB_HEAD_VILLAGER_LORE: []
+BB_HEAD_VILLAGER_HEAD_LORE: [
+  ]
+BB_HEAD_VILLAGER_LORE: [
+  ]
 BB_HEAD_WALRUS: Walrus
-BB_HEAD_WALRUS_LORE: []
+BB_HEAD_WALRUS_LORE: [
+  ]
 BB_HEAD_WARP_PIPE: Warp Pipe
-BB_HEAD_WARP_PIPE_LORE: []
+BB_HEAD_WARP_PIPE_LORE: [
+  ]
 BB_HEAD_WATER: Water
 BB_HEAD_WATER_BUCKET: Water Bucket
-BB_HEAD_WATER_BUCKET_LORE: []
-BB_HEAD_WATER_LORE: []
+BB_HEAD_WATER_BUCKET_LORE: [
+  ]
+BB_HEAD_WATER_LORE: [
+  ]
 BB_HEAD_WEIGHTED_CUBE: Weighted Cube
-BB_HEAD_WEIGHTED_CUBE_LORE: []
+BB_HEAD_WEIGHTED_CUBE_LORE: [
+  ]
 BB_HEAD_WET_SPONGE: Wet Sponge
-BB_HEAD_WET_SPONGE_LORE: []
+BB_HEAD_WET_SPONGE_LORE: [
+  ]
 BB_HEAD_WHITE_BLOCK: White Block
-BB_HEAD_WHITE_BLOCK_LORE: []
+BB_HEAD_WHITE_BLOCK_LORE: [
+  ]
 BB_HEAD_WHITE_DICE: White Dice
-BB_HEAD_WHITE_DICE_LORE: []
+BB_HEAD_WHITE_DICE_LORE: [
+  ]
 BB_HEAD_WHITE_WOOL: White Wool
-BB_HEAD_WHITE_WOOL_LORE: []
+BB_HEAD_WHITE_WOOL_LORE: [
+  ]
 BB_HEAD_WILSON_-_CASTAWAY: Wilson - Castaway
-BB_HEAD_WILSON_-_CASTAWAY_LORE: []
+BB_HEAD_WILSON_-_CASTAWAY_LORE: [
+  ]
 BB_HEAD_WINK: Wink
-BB_HEAD_WINK_LORE: []
+BB_HEAD_WINK_LORE: [
+  ]
 BB_HEAD_WITHER_BOSS: Wither Boss
-BB_HEAD_WITHER_BOSS_LORE: []
+BB_HEAD_WITHER_BOSS_LORE: [
+  ]
 BB_HEAD_WOOD_PLANK: Wood Plank
-BB_HEAD_WOOD_PLANK_LORE: []
+BB_HEAD_WOOD_PLANK_LORE: [
+  ]
 BB_HEAD_YELLOW: Yellow
-BB_HEAD_YELLOW_LORE: []
+BB_HEAD_YELLOW_LORE: [
+  ]
 BB_HEAD_YELLOW_WOOL: Yellow Wool
-BB_HEAD_YELLOW_WOOL_LORE: []
+BB_HEAD_YELLOW_WOOL_LORE: [
+  ]
 BB_HEAD_YOSHI: Yoshi
-BB_HEAD_YOSHI_LORE: []
+BB_HEAD_YOSHI_LORE: [
+  ]
 BB_HEAD_YOUTUBE: Youtube
-BB_HEAD_YOUTUBE_LORE: []
+BB_HEAD_YOUTUBE_LORE: [
+  ]
 BUILDBATTLE_ADD_FLOOR_BLOCK_LORE:
-  - ' '
-  - §7Нажмите сюда предметом,
-  - §7который Вы хотите добавить
-  - §7как материал пола
+- ' '
+- §7Нажмите сюда предметом,
+- §7который Вы хотите добавить
+- §7как материал пола
 BUILDBATTLE_ADD_FLOOR_BLOCK_NAME: §eДобавить материал
 BUILDBATTLE_ADD_PARTICLES_LORE:
-  - §e► Нажмите, чтобы добавить эффект
+- §e► Нажмите, чтобы добавить эффект
 BUILDBATTLE_ANIMAL_THEME_LORE:
-  - §7Включается в себя множество
-  - §7зверей, насекомых и птиц ⇩
+- §7Включается в себя множество
+- §7зверей, насекомых и птиц ⇩
 BUILDBATTLE_ANIMAL_THEME_NAME: Животные
 BUILDBATTLE_BANNER_FINISH_LORE:
-  - §7Кликните сюда, чтобы завершить
-  - §7создание баннера и получить его
-  - §7к себе в инвентарь
+- §7Кликните сюда, чтобы завершить
+- §7создание баннера и получить его
+- §7к себе в инвентарь
 BUILDBATTLE_BANNER_FINISH_NAME: §bЗавершить создание
 BUILDBATTLE_BANNER_MENU_LORE:
-  - ' '
-  - §7Создание собственного баннера
-  - ' '
-  - §e► Нажмите, чтобы начать
+- ' '
+- §7Создание собственного баннера
+- ' '
+- §e► Нажмите, чтобы начать
 BUILDBATTLE_BANNER_MENU_TITLE: Создание баннера
 BUILDBATTLE_BANNER_PATTERN: Узор №%s
 BUILDBATTLE_BIOME_CHANGED: §fБиом изменен
 BUILDBATTLE_BIOME_MENU_LORE:
-  - ' '
-  - §7Выбор биома на Вашем участке
-  - ' '
-  - §e► Нажмите, чтобы выбрать
+- ' '
+- §7Выбор биома на Вашем участке
+- ' '
+- §e► Нажмите, чтобы выбрать
 BUILDBATTLE_BIOME_MENU_TITLE: Смена биома
 BUILDBATTLE_BIOME_SELECTED_LORE:
-  - ' '
-  - §c► Биом уже выбран
+- ' '
+- §c► Биом уже выбран
 BUILDBATTLE_BIOME_SELECTION_LORE:
-  - ' '
-  - §e► Нажмите, чтобы выбрать биом
+- ' '
+- §e► Нажмите, чтобы выбрать биом
 BUILDBATTLE_BLOCKS_HEADS: Блоки
 BUILDBATTLE_BOARD_PLAYERS_PLOT: 'Участок игроков:'
 BUILDBATTLE_BOARD_PLAYER_PLOT: 'Участок игрока:'
@@ -719,8 +1001,8 @@ BUILDBATTLE_BOARD_VOTING: Идет голосование
 BUILDBATTLE_BOARD_VOTING_1: за тему постройки
 BUILDBATTLE_BOARD_WORD: 'Задание:'
 BUILDBATTLE_BUILDINGS_THEME_LORE:
-  - §7Множество зданий и построек!
-  - §7Рекомендуется всем начинающим архитекторам ⇩
+- §7Множество зданий и построек!
+- §7Рекомендуется всем начинающим архитекторам ⇩
 BUILDBATTLE_BUILDINGS_THEME_NAME: Постройки
 BUILDBATTLE_BUILDING_COUNTDOWN: §cОсталось %s %s
 BUILDBATTLE_BUILDING_COUNTDOWN_CHAT: Голосование начнется через §a%s §f%s
@@ -728,106 +1010,106 @@ BUILDBATTLE_BUILDING_END_PLACE: §fВы заняли §a%s §fместо §7(%s 
 BUILDBATTLE_BUILDING_END_POINTS: §fВаша постройка набрала §a%s §fочков
 BUILDBATTLE_BUILD_TIME_END: Время вышло. Начинается голосование за лучшую постройку!
 BUILDBATTLE_CANT_CLEAR:
-  - ' '
-  - §c► Все участники должны подтвердить
-  - '  §cпредыдущий запрос на очистку'
+- ' '
+- §c► Все участники должны подтвердить
+- '  §cпредыдущий запрос на очистку'
 BUILDBATTLE_CHARACTER_THEME_LORE:
-  - §7Человек-Паук, Супермен, Волшебник?
-  - §7а может быть.. пожарный и ковбой? ⇩
+- §7Человек-Паук, Супермен, Волшебник?
+- §7а может быть.. пожарный и ковбой? ⇩
 BUILDBATTLE_CHARACTER_THEME_NAME: Персонажи
 BUILDBATTLE_CLEAR_PLOT_CANCELLED: §fНикто не запрашивал очистку участка
 BUILDBATTLE_CLEAR_PLOT_CLICK_TO_CONFIRM: §7Нажмите, чтобы подтвердить очистку участка
 BUILDBATTLE_CLEAR_PLOT_CLICK_TO_DECLINE: §7Нажмите, чтобы отказаться
 BUILDBATTLE_CLEAR_PLOT_LORE:
-  - ' '
-  - §7Полная очистка участка
-  - §cВнимание! Вернуть удаленные
-  - §cпостройки будет невозможно
+- ' '
+- §7Полная очистка участка
+- §cВнимание! Вернуть удаленные
+- §cпостройки будет невозможно
 BUILDBATTLE_CLEAR_PLOT_NOT_CONFIRMED: §fВы отказались от очистки Вашего участка
 BUILDBATTLE_CLEAR_PLOT_TITLE: §cОчистить участок
 BUILDBATTLE_CLEAR_PLOT_WAITING: §fПожалуйста, подождите, пока Ваш тиммейт ответит
   на запрос об очистке участка
 BUILDBATTLE_CLICK_TO_CLEAR:
-  - ' '
-  - §e► Нажмите, чтобы очистить участок
+- ' '
+- §e► Нажмите, чтобы очистить участок
 BUILDBATTLE_CLOTHES_THEME_LORE:
-  - §7Содержит модные, и не очень,
-  - §7вещи всех разновидностей ⇩
+- §7Содержит модные, и не очень,
+- §7вещи всех разновидностей ⇩
 BUILDBATTLE_CLOTHES_THEME_NAME: Одежда
 BUILDBATTLE_COLOR_HEADS: Цвета
 BUILDBATTLE_DUO_TYPE: §eBuildBattle Doubles
 BUILDBATTLE_EFFECT_ADDED: §fВы добавили эффект §e%s §fна участок
 BUILDBATTLE_ELECTRONIC_THEME_LORE:
-  - §7Электирические и цифровые приборы
-  - §7Строго 6+! ⇩
+- §7Электирические и цифровые приборы
+- §7Строго 6+! ⇩
 BUILDBATTLE_ELECTRONIC_THEME_NAME: Техника
 BUILDBATTLE_FLOOR_LIMIT_REACHED:
-  - ' '
-  - §c► Достигнут лимит блоков (21)
+- ' '
+- §c► Достигнут лимит блоков (21)
 BUILDBATTLE_FLOOR_MENU_LORE:
-  - ' '
-  - §7Выбор материалов, которыми будет
-  - §7заменен весь пол на Вашем участке
-  - ' '
-  - §e► Нажмите, чтобы изменить материалы
+- ' '
+- §7Выбор материалов, которыми будет
+- §7заменен весь пол на Вашем участке
+- ' '
+- §e► Нажмите, чтобы изменить материалы
 BUILDBATTLE_FLOOR_MENU_TITLE: Изменение материалов пола
 BUILDBATTLE_FOOD_HEADS: Еда
 BUILDBATTLE_FOOD_THEME_LORE:
-  - §7Любите поесть, или же вы кулинар?
-  - §7Тогда вам лучше обойти эту тему стороной.. ⇩
+- §7Любите поесть, или же вы кулинар?
+- §7Тогда вам лучше обойти эту тему стороной.. ⇩
 BUILDBATTLE_FOOD_THEME_NAME: Еда
 BUILDBATTLE_FURNITURE_THEME_LORE:
-  - '§7То, что есть почти у каждого в комнате:'
-  - §7кровать, диван и многое другое ⇩
+- '§7То, что есть почти у каждого в комнате:'
+- §7кровать, диван и многое другое ⇩
 BUILDBATTLE_FURNITURE_THEME_NAME: Мебель
 BUILDBATTLE_GAMES_HEADS: Игры
 BUILDBATTLE_GET_HEAD_LORE:
-  - ' '
-  - §e► Нажмите, чтобы получить голову
+- ' '
+- §e► Нажмите, чтобы получить голову
 BUILDBATTLE_HEADS_MENU_LORE:
-  - ' '
-  - §7Широкий выбор самых разных голов
-  - §7для украшения вашего участка
-  - ' '
-  - §e► Нажмите, чтобы открыть меню голов
+- ' '
+- §7Широкий выбор самых разных голов
+- §7для украшения вашего участка
+- ' '
+- §e► Нажмите, чтобы открыть меню голов
 BUILDBATTLE_HEADS_MENU_TITLE: Головы
 BUILDBATTLE_ITEMS_THEME_LORE:
-  - §7То, что окружает нас в повседневности
-  - §7Или что не окружает..
+- §7То, что окружает нас в повседневности
+- §7Или что не окружает..
 BUILDBATTLE_ITEMS_THEME_NAME: Предметы
 BUILDBATTLE_MAX_PLOT_EFFECTS: §cВы превысили максимальное число эффектов на Вашем
   участке
 BUILDBATTLE_MENU_ITEM_LORE:
-  - §7Нажмите, чтобы открыть меню
-  - §7управления Вашим участком
-  - §7Там Вы сможете изменить материалы
-  - §7пола, время, погоду, добавить эффекты
-  - §7а также найти различные головы
+- §7Нажмите, чтобы открыть меню
+- §7управления Вашим участком
+- §7Там Вы сможете изменить материалы
+- §7пола, время, погоду, добавить эффекты
+- §7а также найти различные головы
 BUILDBATTLE_MENU_TITLE: Управление участком
 BUILDBATTLE_MOB_HEADS: Мобы
 BUILDBATTLE_NATURE_THEME_LORE:
-  - §7То, что создано, разрушено природой,
-  - §7а также её различные проявления ⇩
+- §7То, что создано, разрушено природой,
+- §7а также её различные проявления ⇩
 BUILDBATTLE_NATURE_THEME_NAME: Природа
 BUILDBATTLE_OTHER_HEADS: Прочее
 BUILDBATTLE_PARTICLES_MENU_LORE:
-  - ' '
-  - §7Управление различными эффектами
-  - §7на Вашем участке
-  - ' '
-  - §e► ЛКМ, чтобы открыть меню эффектов
-  - §e► ПКМ, чтобы управлять активными эффектами
+- ' '
+- §7Управление различными эффектами
+- §7на Вашем участке
+- ' '
+- §e► ЛКМ, чтобы открыть меню эффектов
+- §e► ПКМ, чтобы управлять активными эффектами
 BUILDBATTLE_PARTICLES_MENU_TITLE: Эффекты
 BUILDBATTLE_PLOT_CLEARED: §fВаш участок очищен!
 BUILDBATTLE_REJOIN_TITLE: §aВы повторно вошли в игру на арене %s
 BUILDBATTLE_REMOVE_FLOOR_BLOCK_LORE:
-  - ' '
-  - §e► ПКМ, чтобы удалить материал
+- ' '
+- §e► ПКМ, чтобы удалить материал
 BUILDBATTLE_REMOVE_PARTICLES_LORE:
-  - §e► Нажмите, чтобы удалить эффект
+- §e► Нажмите, чтобы удалить эффект
 BUILDBATTLE_SHOW_HEADS_LORE:
-  - ' '
-  - §e► Нажмите, чтобы посмотреть головы
+- ' '
+- §e► Нажмите, чтобы посмотреть головы
 BUILDBATTLE_SOLO_CLEAR_PLOT_CONFIRMATION: '§fВы действительно хотите очистить участок?
   Отменить это действие будет невозможно. '
 BUILDBATTLE_SOLO_TYPE: §eBuildBattle Solo
@@ -839,47 +1121,77 @@ BUILDBATTLE_THEME_VOTING_TITLE: Голосование за тему постр�
 BUILDBATTLE_TIME_CHANGED: §fВремя изменено
 BUILDBATTLE_TIME_DAY: День
 BUILDBATTLE_TIME_MENU_LORE:
-  - ' '
-  - §7Выбор времени, которое будет
-  - §7закреплено на Вашем участке
-  - ' '
-  - §e► Нажмите, чтобы выбрать
+- ' '
+- §7Выбор времени, которое будет
+- §7закреплено на Вашем участке
+- ' '
+- §e► Нажмите, чтобы выбрать
 BUILDBATTLE_TIME_MENU_TITLE: Изменение времени
 BUILDBATTLE_TIME_NIGHT: Ночь
 BUILDBATTLE_TIME_SELECTED_LORE:
-  - §c► Время уже выбрано
+- §c► Время уже выбрано
 BUILDBATTLE_TIME_SELECTION_LORE:
-  - §e► Нажмите, чтобы выбрать время
+- §e► Нажмите, чтобы выбрать время
 BUILDBATTLE_TIME_SUNRISE: Восход
 BUILDBATTLE_TIME_SUNSET: Закат
 BUILDBATTLE_TIME_WORLD_TIME: Сбросить настройки времени
 BUILDBATTLE_TOYS_THEME_LORE:
-  - §7Игрушечные машинки, мишки и
-  - §7другие детские мечты ⇩
+- §7Игрушечные машинки, мишки и
+- §7другие детские мечты ⇩
 BUILDBATTLE_TOYS_THEME_NAME: Игрушки
 BUILDBATTLE_TRANSPORT_THEME_LORE:
-  - §7Автомобили, мотоциклы, вертолёты, а также
-  - §7прочие прелести современности и не только ⇩
+- §7Автомобили, мотоциклы, вертолёты, а также
+- §7прочие прелести современности и не только ⇩
 BUILDBATTLE_TRANSPORT_THEME_NAME: Транспорт
 BUILDBATTLE_VOTING_END_BAR: §eДо окончания голосования за этот участок осталось §c%sс
 BUILDBATTLE_VOTING_PLAYERS: §7Участок %s
 BUILDBATTLE_VOTING_STARTED: §aГолосование началось
 BUILDBATTLE_WEATHER_CHANGED: §fПогода изменена
 BUILDBATTLE_WEATHER_MENU_LORE:
-  - ' '
-  - §7Выбор погоды, которая будет
-  - §7на Вашем участке
-  - ' '
-  - §e► Нажмите, чтобы выбрать
+- ' '
+- §7Выбор погоды, которая будет
+- §7на Вашем участке
+- ' '
+- §e► Нажмите, чтобы выбрать
 BUILDBATTLE_WEATHER_MENU_TITLE: Смена погоды
 BUILDBATTLE_WEATHER_RAINY: Дождь
 BUILDBATTLE_WEATHER_SELECTED_LORE:
-  - §c► Погода уже выбрана
+- §c► Погода уже выбрана
 BUILDBATTLE_WEATHER_SELECTION_LORE:
-  - §e► Нажмите, чтобы выбрать погоду
+- §e► Нажмите, чтобы выбрать погоду
 BUILDBATTLE_WEATHER_SNOWY: Снег
 BUILDBATTLE_WEATHER_SUNNY: Солнечно
 BUILDBATTLE_WORLDS_THEME_LORE:
-  - §7Предметы, постройки и существа
-  - '§7из других миров: ада, рая и края ⇩'
+- §7Предметы, постройки и существа
+- '§7из других миров: ада, рая и края ⇩'
 BUILDBATTLE_WORLDS_THEME_NAME: Иные миры
+CATEGORY_BB_EFFECT_LORE:
+- ' '
+- §7Хотите, чтобы Ваша постройка
+- §7выглядела эффектно? Приобретайте
+- §7эффекты, которые Вы сможете использовать
+- §7потом в игре!
+CATEGORY_BB_EFFECT_NAME: Эффекты
+CATEGORY_BB_HEAD_LORE:
+- ' '
+- §7Широкий выбор различных,
+- §7голов, которые можно будет
+- §7использовать при строительстве
+- §7в игре
+CATEGORY_BB_HEAD_NAME: Головы
+GOOD_VOTING_ITEM: §aХорошо
+GOOD_VOTING_ITEM_LORE:
+- §7Нажмите, чтобы поставить оценку
+- §aхорошо
+NORMAL_VOTING_ITEM: §eНормально
+NORMAL_VOTING_ITEM_LORE:
+- §7Нажмите, чтобы поставить оценку
+- §eнормально
+VERY_BAD_VOTING_ITEM: §4Отвратительно
+VERY_BAD_VOTING_ITEM_LORE:
+- §7Нажмите, чтобы поставить оценку
+- §4отвратительно
+VERY_GOOD_VOTING_ITEM: §2Отлично
+VERY_GOOD_VOTING_ITEM_LORE:
+- §7Нажмите, чтобы поставить оценку
+- §2отлично

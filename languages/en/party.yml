@@ -1,0 +1,93 @@
+ALL_INVITE_PARTY_SETTING: invites
+ALL_INVITE_PARTY_SETTING_DESCRIPTION: allow all members invite players in party
+LEADER_LEAVE_PARTY: §6Party §8| §fTo §cleave §fparty, at first give ownership it someone!
+NO_SLOTS_FOR_PARTY: §c§lWARNING! §cOn this server not enough space for your party!
+PARTY_ALL_HELP:
+- §7/pchat <message> §f- group chat
+- §7/party list §f- group list of members
+- §7/party invite <player name> §f- invite player in the group
+PARTY_ALL_MEMBERS_LEFT: §cYour party has been delete, because all member left
+PARTY_ALREADY_IN_PARTY: §6Party §8| §fYou already in the party
+PARTY_AVAILABLE_SETTING_LIST: '§6Party §8| §fList available settings:'
+PARTY_BROADCAST_OWNER: §6Party §8| %s §fbecome new owner party
+PARTY_CANT_INVITE_YOURSELF: §cError, you cannot invite in group yourself
+PARTY_CANT_KICK_YOURSELF: §cYou idiot or yes?!
+PARTY_CHAT: §dParty chat §8| §f%s §8» §f%s
+PARTY_CHAT_FORMAT: /pchat <message>
+PARTY_DISBANDED: §6Party §8| §fYour group has been disbanded
+PARTY_HE_IS_NOT_IN_PARTY: §cError, this player is not in group
+PARTY_INVITE_ALREADY_SENT: §cYou already sent request to this player
+PARTY_INVITE_CANCELLED: §6Party §8| §fYou can sent invite in party to this player,
+  because he disable invite in party
+PARTY_INVITE_DECLINED: §6Party §8| §fYou decline invite in group from player %s
+PARTY_INVITE_EXPIRED: §6Party §8| §fInvite requestt, send to the player %s §fexpired
+PARTY_INVITE_FORMAT: /party invite <player name>
+PARTY_INVITE_SENT: §6Party §8| §fInvite in party sent to the player %s
+PARTY_INVITE_TOO_FAST: §6Party §8| §fYou §cto often §fsend §crequests§f in party
+PARTY_JOINED_BROADCAST: §6Party §8| %s §fjoined to the group
+PARTY_JOINED_PARTY: §6Party §8| §fYou joined to the group players %s
+PARTY_JOIN_FORMAT: /party join <player name>
+PARTY_KICKOFFLINE_BROADCAST: §6Party §8| %s §fkick offline players from the party
+PARTY_KICK_BROADCAST: §6Party §8| %s §fwas kick leader party
+PARTY_KICK_FORMAT: /party kick <player name>
+PARTY_KICK_OFFLINE_NO: §cAll party members online...
+PARTY_LEAVE_BROADCAST: §6Party §8| %s §fleave the party
+PARTY_LEFT_PARTY: §6Party §8| §fYou leave party players %s
+PARTY_LIMIT: §cError, in your group max quantity members
+PARTY_LIST:
+- '§6Party §8| §fGroup player list (§a%s§f\§a%s§f):'
+- ' §c• §fLeader: §a%s §f(§a%s§f)'
+- ' §c• §fMembers: §a%s'
+PARTY_NEW_GUILD_INVITE: ' %s §finvite you in guild'
+PARTY_NEW_INVITE: '   %s §fInvite you in group'
+PARTY_NEW_INVITE_ACCEPT_HOVER: §fClick, to accept invite
+PARTY_NEW_INVITE_DECLINE_HOVER: §fClick, to decline invite
+PARTY_NEW_PARTY_WITH: §6Party §8| §fYou create new party with player %s
+PARTY_NOT_IN_PARTY: §6Party §8| §fError, you do not consist in group, apparently nobody
+  needs you :(
+PARTY_NOT_PUBLIC: §cError, party this player is not public
+PARTY_NO_INVITES: §cYou have not invite in this party or it expired
+PARTY_NO_REQUESTS: §cError, you have not invites in party
+PARTY_OWNER_OFFLINE: §cError, sender a invite now is offline
+PARTY_PLAYERS_WARPED: §6Party §8| §fAll online-members were teleported on your server
+PARTY_PLAYER_KICKED: §6Party §8| §fYou kicked player %s §ffrom the party
+PARTY_PLAYER_NOT_IN_YOUR_PARTY: §cError, this player is not in your party
+PARTY_PLAYER_SET_OWNER: §6Party §8| §fYou transfer leadership to a player %s
+PARTY_PURCHASE_MESSAGES:
+- ' '
+- '                §8-| §6§lGUILD §8|-'
+- ' §fCongratulations! You purchased upgrade §eparty game'
+- ' §fNow you can create §6Party §6of members your guild'
+- ' §fFor this use command §7/guild party'
+- ' '
+PARTY_REQUEST: '  §c• §fRequest from %s§f, §7§nclick to accept'
+PARTY_REQUESTS_FOOTER: ' §fClick to request what you want to accept'
+PARTY_REQUESTS_TITLE: '§6Party §8| §fInvite list in party   (§a%s§f):'
+PARTY_REQUEST_HOVER: §fClick, to join to the group
+PARTY_SETOWNER_FORMAT: /party setowner <nickname>
+PARTY_SETOWNER_YOURSELF: §6Party §8| §fYou already is party owner
+PARTY_SETTINGS_FORMAT: /party setting <setting> <true/false>
+PARTY_SETTING_ALREADY_SET: §cError, value this setting already is set
+PARTY_SETTING_CHANGED: §6Party §8| §a%s §fupdate settings §a%s§f in party
+PARTY_SETTING_ENTRY: ' §c• §e%s §f[§a%s§f] - %s'
+PARTY_SETTING_SET: §6Party §8| §fSetting value is §a%s§f update
+PARTY_TARGET_IN_PARTY: §cError, player %s §calready on the group
+PARTY_WARP_NO_MEMBERS: §6Party §8| §fParty has not online-members for teleportation
+PARTY_YOUR_INVITE_DECLINED: §6Party §8| §f%s §fdesline your invite in the party :(
+  (he just do not know, what lost)
+PARTY_YOU_CANT_SENT_INVITES: §6Party §8| §fSend invite to party can only it owner!
+PARTY_YOU_KICKED: §6Party §8| %s §fkick You from the group
+PARTY_YOU_NOW_OWNER: §6Party §8| %s §fTransfer you leadership
+PARTY_YOU_WARPED: §6Party §8| §fParty owner %s §fteleport you on his server
+PLAYER_JOINED_PUBLIC_PARTY: '§6Party §8| %s §fjoined to public party '
+PUBLIC_PARTY_SETTING: public
+PUBLIC_PARTY_SETTING_DESCRIPTION: make party is public and allow join to it without
+  invite
+YOU_CANT_DISBAND_PARTY: §cDisband party can only it creator
+YOU_CANT_KICK_PARTY: §cKick player into the party can only it creator
+YOU_CANT_SET_OWNER_PARTY: §cError, transfer owner ship can only it owner
+YOU_CANT_SET_SETTINGS: §cChange party setting can only it member
+YOU_CANT_WARP_PARTY: §6Party §8| §fTeleport members in your server can only leader
+  group
+YOU_WERE_KICKED_FROM_THIS_PARTY: §6Party §8| §fYou has been kicked from this party,
+  and now you can join in it

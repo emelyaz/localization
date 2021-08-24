@@ -1,0 +1,122 @@
+HOLO_ANARCHY_START:
+- §cRandom teleport
+- §fTeleport you in random point in the world
+- §7Click, to activate
+HOLO_CHEST_EMPTY: Empty
+HOLO_CREATIVE_WORLD200:
+- §fWorld with areas §a200x200
+- §fAreas from §c§lMAGMA §for higher
+- §7Click, to teleport!
+HOLO_CREATIVE_WORLD55:
+- §fWorld with areas §a55x55
+- §fAllows to everyone
+- §7Click, to teleport!
+HOLO_CREATIVE_WORLD95:
+- §fWorld with areas §a95x95
+- §fAreas from §b§lDIAMOND §for higher
+- §7Click, to teleport!
+HOLO_DONATE:
+- Price collapse! All prices have been reduced on §a10%
+- §e§lGOLD §f- §7§m120§f §6100 §fRubbles
+- §b§lDIAMOND §f- §7§m350§f §6300 §fRubbles
+- §a§lEMERALD §f- §7§m620§f §6590 §fRubbles
+- §c§lMAGMA §f- §7§m1000§f §6900 §fRubbles
+- §%animation%§lSHULKER §f- §7§m2250§f §62100 §fRubbles
+- '§fBuy on our site:'
+- §clast-craft.com
+HOLO_INFO_LOBBY:
+- §fClick on §6NPC§f,
+- §fto start the game
+HOLO_ONLINE_UPDATER: §fThere are §a%s §f%s playing on this mode
+HOLO_REPLACER_CHANNEL: §a%s §f%s is playing now
+HOLO_REPLACER_CHANNEL_ERROR: §cServers not found!
+HOLO_REWARD_MONEY: Money earned
+HOLO_REWARD_MULTIPLAY: Coin multiplier
+HOLO_REWARD_STATS: Stats
+HOLO_SELECTOR_GAME_CHANNEL: §7Click to connect
+HOLO_SHOP_NPC:
+- §a§lShop
+- §fAllows you to buy or to improve
+- §fkits on this mode
+HOLO_SITESHOP:
+- §eItems from Online Store
+- §7Click to open
+HOLO_SKYBLOCK_AH:
+- §6Actioneer
+- §fAllows sell/expose items on auction
+- '§fMore details can be found, write: §a/ah help'
+- §7Click, to open
+HOLO_SKYBLOCK_BATYT:
+- §fYou can create §6trampolines, §fputting
+- §fon one on these blocks §epressure plate!
+HOLO_SKYBLOCK_GENERATOR:
+- §fOne of the variants of the cobblestone generator
+- §fThe most important thing is that §9water §fwas in contact
+- §fcFlowing §clava §f(NOT SOURCE)
+HOLO_SKYBLOCK_INFO:
+- §fOn the island further you can
+- §fFind all information, which
+- §fwill help start the game on §bSkyBlock
+HOLO_SKYBLOCK_JOBS:
+- §6You can get a job to one of the
+- §6proposed, to earn money!
+- §aGet a job - /jobs browse
+- §cLeave - /jobs leave <job name>
+HOLO_SKYBLOCK_MRL:
+- §fGo to forward, to get to §eautomine
+- §fin it you can get §auseful resources
+HOLO_SKYBLOCK_MRL2:
+- §fMine is updated every §a5 §fminutes
+HOLO_SKYBLOCK_PVP:
+- §fEntering the red line
+- §fYou enter the §cPvP zone!
+HOLO_SKYBLOCK_SHOP:
+- §fHere you can §abuy §for §csell
+- Necessary in everyday life things!
+HOLO_SKYBLOCK_SHOP_BLOCKS:
+- §eBlocks
+- §7Click, to open
+HOLO_SKYBLOCK_SHOP_FARMING:
+- §eFarming
+- §7Click, to open
+HOLO_SKYBLOCK_SHOP_FOOD:
+- §eFood
+- §7Click, to open
+HOLO_SKYBLOCK_SHOP_LOOT:
+- §eDifferent loot
+- §7Click, to open
+HOLO_SKYBLOCK_SHOP_ORES:
+- §eOres
+- §7Click, to open
+HOLO_SKYBLOCK_SHOP_OTHER:
+- §eMiscellaneous
+- §7Click, to open
+HOLO_SKYBLOCK_START:
+- §fTo start the game on mode "§3СSkyblock§f"
+- §frun straight in §dportal§f, after the entrance in it
+- §fYou will have your own island!
+HOLO_SKYBLOCK_START2:
+- §fTo start the game on mode "§3SkyBlock§f"
+- §fclick straight on §dNPC§f, after then
+- §fDo you have §ayour own island!
+HOLO_SKYBLOCK_WARP:
+- §fYou can create warp for your shop
+- §fCommand §a/setwarp <name>
+- §fYou can delete warp command §c/delwarp <name>
+- §fPrice of creation warp depends on your privilege
+- §fFor example, a player §a$2500§f, a §b§lDIAMOND §a$1500
+HOLO_SPECTATOR_NPC:
+- §e§lSpectator
+- §fLets watch the game
+- §fon the arenas that have already started
+HOLO_STATS_TITLE: §eStatistics for the game
+HOLO_TOP_ALL:
+- §6§l%s
+- §fPlayer top (for victories)
+- §fFor §eALL TIMES
+HOLO_TOP_MAIN: §7Click to view another
+HOLO_TOP_MONTHLY:
+- §6§l%s
+- §fPlayer top (for victories)
+- §fFor §e%s
+HOLO_TOP_UPDATE: '§cUpdates in: §c%s'

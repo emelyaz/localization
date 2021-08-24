@@ -1,0 +1,102 @@
+ALL_INVITE_PARTY_SETTING: Запрошення
+ALL_INVITE_PARTY_SETTING_DESCRIPTION: дозволяє всім учасникам запрошувати гравців
+  в групу
+LEADER_LEAVE_PARTY: §6Party §8| §fщоб §cпокинути §fгрупу, спочатку передайте права
+  управління нею іншому гравцю!
+NO_SLOTS_FOR_PARTY: §c§lУВАГА! §cНа даному сервері недостатньо місця для Вашої групи!
+PARTY_ALL_HELP:
+- §7/pchat <повідомлення> §f- чат групи
+- §7/party list §f- список учасників групи
+- §7/party invite <нік игрока> §f- запросити гравця в групу
+PARTY_ALL_MEMBERS_LEFT: §cВаша группа була видалена, поскільки всі учасники покинули
+  її
+PARTY_ALREADY_IN_PARTY: §6Party §8| §fВи вже в групі
+PARTY_AVAILABLE_SETTING_LIST: '§6Party §8| §fСписок доступних налаштувань:'
+PARTY_BROADCAST_OWNER: §6Party §8| %s §fстав новим власником групи
+PARTY_CANT_INVITE_YOURSELF: §cПомилка, Ви не можете запросити в групу самого себе
+PARTY_CANT_KICK_YOURSELF: §cТи дурочок або так?!
+PARTY_CHAT: §dЧат групи §8| §f%s §8» §f%s
+PARTY_CHAT_FORMAT: /pchat <повідомлення>
+PARTY_DISBANDED: §6Party §8| §fВаша група була розформована
+PARTY_HE_IS_NOT_IN_PARTY: §cПомилка, даний гравець не перебуває в групі
+PARTY_INVITE_ALREADY_SENT: §cВи вже відправили запит цьому гравцю
+PARTY_INVITE_CANCELLED: §6Party §8| §fВи не можете відправити запрошення в групу цьому
+  гравцю, так як він вимкнув запрошення в групи
+PARTY_INVITE_DECLINED: §6Party §8| §fВи відхилили запрошення в групу від гравця %s
+PARTY_INVITE_EXPIRED: §6Party §8| §fЗапрошення в групу, відправлене гравцю %s §fминуло
+PARTY_INVITE_FORMAT: /party invite <нік>
+PARTY_INVITE_SENT: §6Party §8| §fЗапрошення в групу відправлено гравцю %s
+PARTY_INVITE_TOO_FAST: §6Party §8| §fВи §cдуже часто §fвідправляєте §cзапити§f в групу
+PARTY_JOINED_BROADCAST: §6Party §8| %s §fприєднався до групи
+PARTY_JOINED_PARTY: §6Party §8| §fВи приєдналися до групи гравця %s
+PARTY_JOIN_FORMAT: /party join <нік гравця>
+PARTY_KICKOFFLINE_BROADCAST: §6Party §8| %s §fвидалив всіх офлайн гравців з групи
+PARTY_KICK_BROADCAST: §6Party §8| %s §fбув видалений лідером групи
+PARTY_KICK_FORMAT: /party kick <нік>
+PARTY_KICK_OFFLINE_NO: §cВсі учасники групи онлайн...
+PARTY_LEAVE_BROADCAST: §6Party §8| %s §fпокинув групу
+PARTY_LEFT_PARTY: §6Party §8| §fВи покинули групу гравця %s
+PARTY_LIMIT: §cПомилка, в вашій групі максимальна кільк. учасників
+PARTY_LIST:
+- '§6Party §8| §fСписок гравців в групі (§a%s§f\§a%s§f):'
+- ' §c• §fЛідер: §a%s §f(§a%s§f)'
+- ' §c• §fУчасники: §a%s'
+PARTY_NEW_GUILD_INVITE: ' %s §fзапросив вас в групу гільдії'
+PARTY_NEW_INVITE: '   %s §fзапросив вас в групу'
+PARTY_NEW_INVITE_ACCEPT_HOVER: §fНатисніть, щоб прийняти запрошення
+PARTY_NEW_INVITE_DECLINE_HOVER: §fНатисніть, щоб відхилити запрошення
+PARTY_NEW_PARTY_WITH: §6Party §8| §fВи створили нову групу з гравцем %s
+PARTY_NOT_IN_PARTY: §6Party §8| §fПомилка, ви не перебуваєте в групі, мабуть ви нікому
+  не потрібні :(
+PARTY_NOT_PUBLIC: §cПомилка, група цього гравця не є публічною
+PARTY_NO_INVITES: §cУ вас немає запрошення в цю групу або воно минуло
+PARTY_NO_REQUESTS: §cПомилка, у вас немає запрошень в групи
+PARTY_OWNER_OFFLINE: §cПомилка, відправник запрошення зараз офлайн
+PARTY_PLAYERS_WARPED: §6Party §8| §fВсі онлайн-учасники були телепортовані на Ваш
+  сервер
+PARTY_PLAYER_KICKED: §6Party §8| §fВи видалили гравця %s §fз групи
+PARTY_PLAYER_NOT_IN_YOUR_PARTY: §cПомилка, даний гравець не перебуває в Вашій групі
+PARTY_PLAYER_SET_OWNER: §6Party §8| §fВи передали права лідера гравцю %s
+PARTY_PURCHASE_MESSAGES:
+- ' '
+- '                §8-| §6§lГІЛЬДІЇ §8|-'
+- ' §fВітаємо! Ви придбали покращення §eгрупова гра'
+- ' §fТепер Ви можете створювати §6Party §6з учасників вашої гільдії'
+- ' §fДля цього використовуйте команду §7/guild party'
+- ' '
+PARTY_REQUEST: '  §c• §fЗапит від %s§f, §7§nНатисніть щоб прийняти'
+PARTY_REQUESTS_FOOTER: ' §fНатисніть на запит який Ви хочите прийняти'
+PARTY_REQUESTS_TITLE: '§6Party §8| §fСписок запрошень в групи (§a%s§f):'
+PARTY_REQUEST_HOVER: §fНатисніть, щоб приєднатися до групи
+PARTY_REQUEST_SENT_TO_FRIENDS: §6Друзі §8| §fЗапит в группу відправлений усім друзям
+  онлайн
+PARTY_SETOWNER_FORMAT: /party setowner <нік>
+PARTY_SETOWNER_YOURSELF: §6Party §8| §fВи вже є власником групи
+PARTY_SETTINGS_FORMAT: /party setting <налаштування> <true/false>
+PARTY_SETTING_ALREADY_SET: §cПомилка, значення даного налаштування вже є вказаним
+PARTY_SETTING_CHANGED: §6Party §8| §a%s §fоновив значення налаштування §a%s§f в групі
+PARTY_SETTING_ENTRY: ' §c• §e%s §f[§a%s§f] - %s'
+PARTY_SETTING_SET: §6Party §8| §fЗначення налаштування §a%s§f оновлено
+PARTY_TARGET_IN_PARTY: §cПомилка, гравець %s §cвже в групі
+PARTY_WARP_NO_MEMBERS: §6Party §8| §fВ групі немає онлайн-учасників для телепортації
+PARTY_YOUR_INVITE_DECLINED: §6Party §8| §f%s §fвідхилив Ваше запрошення в групу (він
+  просто не знає, що втрачає)
+PARTY_YOU_CANT_SENT_INVITES: §6Party §8| §fВідравляти запрошення в групу може тільки
+  її творець!
+PARTY_YOU_KICKED: §6Party §8| %s §fвидалили Вас з групи
+PARTY_YOU_NOW_OWNER: §6Party §8| %s §fпередав Вам права на управління групою
+PARTY_YOU_WARPED: §6Party §8| §fЛідер групи %s §fтелепортував Вас на його сервер
+PLAYER_JOINED_PUBLIC_PARTY: §6Party §8| %s §fприєднався до публічної групи
+PUBLIC_PARTY_SETTING: публічність
+PUBLIC_PARTY_SETTING_DESCRIPTION: робить групу публічною і дозволяє вступати в неї
+  без запрошення
+YOU_CANT_DISBAND_PARTY: §cРозпустити групу може тільки її творець
+YOU_CANT_KICK_PARTY: §cВидаляти гравців з групи може тільки її творець
+YOU_CANT_SET_OWNER_PARTY: §cПомилка, передати управління групою може тільки її власник
+YOU_CANT_SET_SETTINGS: §cЗмінювати налаштування групи може тільки її творець
+YOU_CANT_WARP_PARTY: §6Party §8| §fТелепортувати учасників на свій сервер може тільки
+  лідер групи
+YOU_SHOULD_LEAVE_YOUR_PARTY: §cПомилка, Ви маєте бути творцем групи в якій перебуваєте.
+  Для використання команди покиньте поточну группу - /party leave
+YOU_WERE_KICKED_FROM_THIS_PARTY: §6Party §8| §fВи були виключені з цієї групи, тому
+  більше не можете увійти в неї

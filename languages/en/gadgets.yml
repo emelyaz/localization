@@ -1,0 +1,657 @@
+GADGETS_0_LORE:
+- §7It must be free for Iron
+- §7if we use logic :/
+GADGETS_0_NAME: Iron Helmet
+GADGETS_100_LORE:
+- §7Do you want to ask someting?
+GADGETS_100_NAME: Symbol ?
+GADGETS_101_LORE:
+- §7.!.
+GADGETS_101_NAME: Symbol !
+GADGETS_102_LORE:
+- §7Be careful until someone made
+- §7a brewing stand of you.
+GADGETS_102_NAME: Blaze
+GADGETS_103_LORE:
+- '§7Why is so cheap? No, '
+- §7this is not because he is black
+GADGETS_103_NAME: Enderman
+GADGETS_104_LORE:
+- '§7Step 1: wear it'
+- '§7Step 2: hold you breath'
+- '§7Step 3: you are IBROI now'
+GADGETS_104_NAME: Slime
+GADGETS_105_LORE:
+- §7Meoooow
+GADGETS_105_NAME: Ocelot
+GADGETS_106_LORE:
+- '"§7You have a lot of experience. You suit us"'
+GADGETS_106_NAME: Ender Dragon
+GADGETS_107_LORE:
+- §7Dont be poisoned while you put it on
+GADGETS_107_NAME: Cave Spider
+GADGETS_108_LORE:
+- §7I ordered porkchop,
+- §7not alive pig-humans!
+GADGETS_108_NAME: Pig Zombie
+GADGETS_109_LORE:
+- §7- Well, how is the chicken?
+- §7- Quit, do not smoke more
+GADGETS_109_NAME: Chicken
+GADGETS_10_LORE:
+- '§7Whooooo.... '
+- §7Who lives at the bottom of the ocean?!
+GADGETS_10_NAME: Pirate
+GADGETS_110_LORE:
+- §7Just dont cry while looking at the price
+GADGETS_110_NAME: Ghast
+GADGETS_111_LORE:
+- §7One grunt and its GG for you
+GADGETS_111_NAME: Pig
+GADGETS_112_LORE:
+- §7У коровы нет других забот (c)
+GADGETS_112_NAME: Cow
+GADGETS_113_LORE:
+- §7bloop-bloop
+GADGETS_113_NAME: Squid
+GADGETS_114_LORE:
+- §7I-th and I-h-th
+- §7and go bw
+GADGETS_114_NAME: Horse
+GADGETS_115_LORE:
+- §7You are angry with pigs,
+- §7because they stole your eggs
+GADGETS_115_NAME: Bird
+GADGETS_116_LORE:
+- §7"Pikachu, I choose you!"
+GADGETS_116_NAME: Pokeball
+GADGETS_117_LORE:
+- §7All professions are needed,
+- §7all professions are important!
+GADGETS_117_NAME: Mario
+GADGETS_118_LORE:
+- §7Plush music lover
+GADGETS_118_NAME: Freddy
+GADGETS_119_LORE:
+- §7Ну, заяц, ну погоди! (c)
+GADGETS_119_NAME: Bonnie
+GADGETS_11_LORE:
+- §7It is RIOT police`s.
+- §7Now unsee it.
+GADGETS_11_NAME: Gorilla
+GADGETS_120_LORE:
+- §7Пусть мама услышит,
+- §7пусть мама придёт (c)
+GADGETS_121_LORE:
+- §7Dont use eucalyptus as toilet paper.
+GADGETS_121_NAME: Koala
+GADGETS_122_LORE:
+- §7Zzzzzzzzzzzz
+GADGETS_122_NAME: Bee
+GADGETS_123_LORE:
+- §7Well, at least some clowns
+- §7can not be afraid of
+GADGETS_123_NAME: Clownfish
+GADGETS_124_LORE:
+- §7...and that is it
+GADGETS_124_NAME: Ferret
+GADGETS_125_LORE:
+- §7"Look, your lace is loose!"
+GADGETS_125_NAME: Walrus
+GADGETS_126_LORE:
+- §7"Photo with monkey - 5 dollars"
+GADGETS_126_NAME: Monkey
+GADGETS_127_LORE:
+- §7DuckTales Power!
+GADGETS_127_NAME: Duck
+GADGETS_128_LORE:
+- §7"I said DO NOT jump into snow!"
+GADGETS_128_NAME: Snowball
+GADGETS_129_LORE:
+- §7Do not jump into water
+GADGETS_129_NAME: Toster
+GADGETS_12_LORE:
+- §7We built you a monitor in the monitor,
+- '§7so you can look at the monitor, '
+- §7while you are loonking at the monitor.
+GADGETS_12_NAME: Monitor
+GADGETS_130_LORE:
+- §7Roshan looks sad
+GADGETS_130_NAME: Cheeze
+GADGETS_131_LORE:
+- §7..have you knees?
+GADGETS_131_NAME: Penguin
+GADGETS_132_LORE:
+- §7Just do not drink with your nose
+GADGETS_132_NAME: Elephant
+GADGETS_133_LORE:
+- §7Cool helmet!
+GADGETS_133_NAME: Austronaut
+GADGETS_134_LORE:
+- §7Someone seen Otter
+- §7who smoking tube? I seen.
+GADGETS_134_NAME: Otter
+GADGETS_135_LORE:
+- §7In real, it is a toilet paper.
+- §7But this fact do not care anyone
+GADGETS_135_NAME: Mummy
+GADGETS_136_LORE:
+- §7Do not think its you
+GADGETS_136_NAME: Orc
+GADGETS_137_LORE:
+- §7How do you get out of labyrinth?
+GADGETS_137_NAME: Minotaur
+GADGETS_138_LORE:
+- §7Im sorry, but Knights saves princess
+- §7usually
+GADGETS_138_NAME: Chaos Knight
+GADGETS_139_LORE:
+- §7Нет, он не новый.
+- §7Его стирали Лаской (c)
+GADGETS_139_NAME: White wizard
+GADGETS_13_LORE:
+- §7It is filled by half.
+- §7Or empty?
+GADGETS_13_NAME: Bucket
+GADGETS_140_LORE:
+- §7..no pickaxe alongside
+GADGETS_140_NAME: Miner
+GADGETS_141_LORE:
+- §7Monks are not popular
+- §7with hairdressers
+GADGETS_141_NAME: Monk
+GADGETS_142_LORE:
+- §7I hope you dont meet a woodcutter
+GADGETS_142_NAME: Forest Elf
+GADGETS_143_LORE:
+- §7Tors Father :/
+GADGETS_143_NAME: Odin
+GADGETS_144_LORE:
+- §7Booo! Scared? Im scared too
+GADGETS_144_NAME: Ghost
+GADGETS_145_LORE:
+- §7No, no, you are not scary!
+- §7And you have rich straw world
+GADGETS_145_NAME: Pole
+GADGETS_14_LORE:
+- §7Like dejavu but twice!
+GADGETS_14_NAME: Skeleton
+GADGETS_15_LORE:
+- §7"Oooh, its pupmkin! I love pupmki...
+- §7Aaaa, what is this, help!"
+GADGETS_15_NAME: Pumpkin
+GADGETS_16_LORE:
+- §7Find hacker using his IP
+GADGETS_16_NAME: Anonimous
+GADGETS_17_LORE:
+- §7"Why you looking me that!
+- §7Is there video playing on my face!?"
+GADGETS_17_NAME: Youtube
+GADGETS_18_LORE:
+- §7Imma rich!
+GADGETS_18_NAME: Golden Steve
+GADGETS_19_LORE:
+- §7Imma richer!
+GADGETS_19_NAME: Diamond Steve
+GADGETS_1_LORE:
+- §7Golden Helmet from Gold
+- §7Is logical? Of course!
+GADGETS_1_NAME: Golden Helmet
+GADGETS_20_LORE:
+- §7Calm down, I am richest here)
+GADGETS_20_NAME: Emerald Steve
+GADGETS_21_LORE:
+- §7For those,
+- §7who has an EXPLOSIVE character!
+GADGETS_21_NAME: Creeper
+GADGETS_22_LORE:
+- §7"Did you sleep today?!"
+GADGETS_22_NAME: Zombie
+GADGETS_23_LORE:
+- §7Like dejavu but twice!
+GADGETS_23_NAME: Skeleton
+GADGETS_24_LORE:
+- §7Did you eat today?
+GADGETS_24_NAME: Wither
+GADGETS_25_LORE:
+- §7Karl stole the coral helmet from Clara.
+- §7Now it yours.
+GADGETS_25_NAME: Coral Helmet
+GADGETS_26_LORE:
+- §7Well... you got it)
+GADGETS_26_NAME: Light-blue Helmet
+GADGETS_27_LORE:
+- §7Just green helmet,
+- §7scroll to next.
+GADGETS_27_NAME: Lime helmet
+GADGETS_28_LORE:
+- §7Just a some glass
+GADGETS_28_NAME: White Glass
+GADGETS_29_LORE:
+- §7Just a some glass (again)
+GADGETS_29_NAME: Orange Glass
+GADGETS_2_LORE:
+- §7As logical as others
+GADGETS_2_NAME: Diamond Hemlet
+GADGETS_30_LORE:
+- §7And new one glass
+GADGETS_30_NAME: Purple Glass
+GADGETS_31_LORE:
+- §7I am still here btw
+GADGETS_31_NAME: Light-blue Glass
+GADGETS_32_LORE:
+- §7Well... You got it...
+GADGETS_32_NAME: Yellow Glass
+GADGETS_33_LORE:
+- §7Glass!!!!
+GADGETS_33_NAME: Green Glass
+GADGETS_34_LORE:
+- §7Pss, guy, do not need some glass?
+GADGETS_34_NAME: Pink Glass
+GADGETS_35_LORE:
+- §7Color of Lord (who knows that understand)
+GADGETS_35_NAME: Purpur Glass
+GADGETS_36_LORE:
+- §7"Yes, my friend, we both in space..."
+GADGETS_36_NAME: Blue Glass
+GADGETS_37_LORE:
+- §7Well... This is a last glass... i swear...
+GADGETS_37_NAME: Red Glass
+GADGETS_38_LORE:
+- §7- Where is football field?
+- §7- Football? What is this? We have only Spleef!
+GADGETS_38_NAME: Soccer Player
+GADGETS_39_LORE:
+- §7"That must be in museum!"
+GADGETS_39_NAME: Indiana Johnes
+GADGETS_3_LORE:
+- §7No! This is not a pimple on the face, this
+- §7is a volcano, and you almost awakened it
+GADGETS_3_NAME: Earth
+GADGETS_40_LORE:
+- §7"Wait, where is scythe? Is this hoe?
+- §7Okay, that will do"
+GADGETS_40_NAME: Death
+GADGETS_41_LORE:
+- §7SOMEBODY...
+GADGETS_41_NAME: Shrek
+GADGETS_42_LORE:
+- §7...although as you know it has boots
+GADGETS_42_NAME: Puss in Boots
+GADGETS_43_LORE:
+- §7"Stop eating melons!
+- §7Now wear off it your head!"
+GADGETS_43_NAME: Melon
+GADGETS_44_LORE:
+- '§7Want to be a friend? '
+- §7Now you are best humans friend!
+GADGETS_44_NAME: Dog
+GADGETS_45_LORE:
+- §7..this is crabsburger in real, but who cares?
+GADGETS_45_NAME: Hamburger
+GADGETS_46_LORE:
+- §7It is a donut.
+- §7That is all.
+GADGETS_46_NAME: Donut
+GADGETS_47_LORE:
+- §7Who will wear a sandwich on his head?
+- §7Oh, it is you...
+GADGETS_47_NAME: Sandwich
+GADGETS_48_LORE:
+- §7Welcome to Netherlands,
+- §7wanna have some drugs?
+GADGETS_48_NAME: Netherlands
+GADGETS_49_LORE:
+- §7Not a country, but the kingdom!
+GADGETS_49_NAME: Norway
+GADGETS_4_LORE:
+- §7No, you are not chocolate bar
+GADGETS_4_NAME: Mars
+GADGETS_50_LORE:
+- §7Vikings is here
+GADGETS_50_NAME: Sweden
+GADGETS_51_LORE:
+- §7Who said "chili sauce"
+GADGETS_51_NAME: Chili
+GADGETS_52_LORE:
+- §7Exhibitions, competitions?
+- §7Welcome!
+GADGETS_52_NAME: Monako
+GADGETS_53_LORE:
+- §7We are best country playing hockey
+- §7And more...
+GADGETS_53_NAME: Canada
+GADGETS_54_LORE:
+- §7Putin, vodka, balalaika
+GADGETS_54_NAME: Russia
+GADGETS_55_LORE:
+- §7Preparing a package of sanctions
+GADGETS_55_NAME: USA
+GADGETS_56_LORE:
+- §7Mmmm... I love pizza...
+GADGETS_56_NAME: Italy
+GADGETS_57_LORE:
+- §7London is the capital of Great Britain
+GADGETS_57_NAME: UK
+GADGETS_58_LORE:
+- §7Hitler kaput!
+GADGETS_58_NAME: Germany
+GADGETS_59_LORE:
+- §7Just a city, but what city...
+GADGETS_59_NAME: Singapore
+GADGETS_5_LORE:
+- §7- Can you tell me what time it is?
+- §7- It is adventure time, dude!
+GADGETS_5_NAME: Jake
+GADGETS_60_LORE:
+- '§7Lampshade, croissant and playpen:'
+- §7all these is here!
+GADGETS_60_NAME: France
+GADGETS_61_LORE:
+- §7Best wines is here
+GADGETS_61_NAME: Spain
+GADGETS_62_LORE:
+- §7Just a letter A
+GADGETS_62_NAME: Letter A
+GADGETS_63_LORE:
+- §7Just a letter B
+GADGETS_63_NAME: Letter B
+GADGETS_64_LORE:
+- §7Just a letter C
+GADGETS_64_NAME: Letter C
+GADGETS_65_LORE:
+- §7Just a letter D
+GADGETS_65_NAME: Letter D
+GADGETS_66_LORE:
+- §7Just a letter E
+GADGETS_66_NAME: Letter E
+GADGETS_67_LORE:
+- §7Just a letter F
+GADGETS_67_NAME: Letter F
+GADGETS_68_LORE:
+- §7Just a letter G
+GADGETS_68_NAME: Letter G
+GADGETS_69_LORE:
+- §7Just a letter H
+GADGETS_69_NAME: Letter H
+GADGETS_6_LORE:
+- §7Looks like you need to shave ._.
+GADGETS_6_NAME: Cactus
+GADGETS_70_LORE:
+- §7Just a letter I
+GADGETS_70_NAME: Letter I
+GADGETS_71_LORE:
+- §7Just a letter J
+GADGETS_71_NAME: Letter J
+GADGETS_72_LORE:
+- §7Just a letter K
+GADGETS_72_NAME: Letter K
+GADGETS_73_LORE:
+- §7Just a letter L
+GADGETS_73_NAME: Letter L
+GADGETS_74_LORE:
+- §7Just a letter M
+GADGETS_74_NAME: Letter M
+GADGETS_75_LORE:
+- §7Just a letter N
+GADGETS_75_NAME: Letter N
+GADGETS_76_LORE:
+- §7Just a letter O
+GADGETS_76_NAME: Letter O
+GADGETS_77_LORE:
+- §7Just a letter P
+GADGETS_77_NAME: Letter P
+GADGETS_78_LORE:
+- §7Just a letter Q
+GADGETS_78_NAME: Letter Q
+GADGETS_79_LORE:
+- §7Just a letter R
+GADGETS_79_NAME: Letter R
+GADGETS_7_LORE:
+- §7The last spoonful of pea soup
+- §7definitely was superfluous
+GADGETS_7_NAME: Gas mask
+GADGETS_80_LORE:
+- §7Just a letter S
+GADGETS_80_NAME: Letter S
+GADGETS_81_LORE:
+- §7Just a letter T
+GADGETS_81_NAME: Letter T
+GADGETS_82_LORE:
+- §7Just a letter U
+GADGETS_82_NAME: Letter U
+GADGETS_83_LORE:
+- §7Just a letter V
+GADGETS_83_NAME: Letter V
+GADGETS_84_LORE:
+- §7Just a letter W
+GADGETS_84_NAME: Letter W
+GADGETS_85_LORE:
+- §7Just a letter X
+GADGETS_85_NAME: Letter X
+GADGETS_86_LORE:
+- §7Just a letter Y
+GADGETS_86_NAME: Letter Y
+GADGETS_87_LORE:
+- §7Just a letter Z
+GADGETS_87_NAME: Letter Z
+GADGETS_88_LORE:
+- §7Just a number 0
+GADGETS_88_NAME: Number 0
+GADGETS_89_LORE:
+- §7Just a number 1
+GADGETS_89_NAME: Number 1
+GADGETS_8_LORE:
+- §715 years has gone,
+- §7but not the fear
+GADGETS_8_NAME: Clown
+GADGETS_90_LORE:
+- §7Just a number 2
+GADGETS_90_NAME: Number 2
+GADGETS_91_LORE:
+- §7Just a number 3
+GADGETS_91_NAME: Number 3
+GADGETS_92_LORE:
+- §7Just a number 4
+GADGETS_92_NAME: Number 4
+GADGETS_93_LORE:
+- §7Just a number 5
+GADGETS_93_NAME: Number 5
+GADGETS_94_LORE:
+- §7Just a number 6
+GADGETS_94_NAME: Number 6
+GADGETS_95_LORE:
+- §7Just a number 7
+GADGETS_95_NAME: Number 7
+GADGETS_96_LORE:
+- §7Just a number 8
+GADGETS_96_NAME: Number 8
+GADGETS_97_LORE:
+- §7Just a number 9
+GADGETS_97_NAME: Number 9
+GADGETS_98_LORE:
+- §7Just a plus, scroll to next
+GADGETS_98_NAME: Symbol +
+GADGETS_99_LORE:
+- §7Use to make a phone call...
+GADGETS_99_NAME: 'Symbol #'
+GADGETS_9_LORE:
+- §7It`s alive!
+GADGETS_9_NAME: Frankenstein
+GADGETS_CAN_AVAILABLE: 'Free if:'
+GADGETS_DISABLE_LORE: §c► Click to deactivate a gadget
+GADGETS_ENABLE_LORE: §e► Click to activate a gadget
+GADGETS_FAVORITE_ADD: §aRMB to add to Favorites
+GADGETS_FAVORITE_REMOVE: §cRMB to remove from Favorites
+GADGETS_GIVE_BOX: §7you found it in §bLucky Chest §7(%s§7)
+GADGETS_GIVE_DONATE: §7you have %s §7or higher
+GADGETS_GIVE_DONATE_ONLY: §7Free for %s
+GADGETS_GIVE_GOLD: '§7Price: §e%s §7gold'
+GADGETS_GIVE_LEVEL: §7your level is §d%s §7or higher
+GADGETS_GIVE_MONEY: '§7Price: §6%s coins'
+GADGETS_GIVE_SITE: §7you buy it at §blast-craft.com
+GADGETS_GUI_BANNERS_LORE:
+- ''
+- §7Different flags and pictures
+- §7that you can wear as a hatgear
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated banner:'
+- '%s'
+- ''
+- §e▸ Click to open menu
+GADGETS_GUI_BANNERS_NAME: Banners
+GADGETS_GUI_COMPANION_LORE:
+- ''
+- §7This section has little and cute
+- §7creatures what you will like!
+- §7But do not hold them in cages.
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated companion:'
+- '%s'
+- ''
+- §e▸ click to open menu
+GADGETS_GUI_COMPANION_NAME: Companoins
+GADGETS_GUI_EFFECT_LORE:
+- ''
+- §7Want to be spectacular? You are
+- §7welcome right here!
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated gadget:'
+- '%s'
+- ''
+- §e▸ Click to open menu
+GADGETS_GUI_EFFECT_NAME: Effects
+GADGETS_GUI_EMOTES_LORE:
+- ''
+- §7Want to describe your emotions, but
+- §7words is not enough? You are not need it,
+- §7you have our emotions!
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated emotions:'
+- '%s'
+- ''
+- §e▸ Click to open menu
+GADGETS_GUI_EMOTES_NAME: Emotions
+GADGETS_GUI_GADGETS_LORE:
+- ''
+- §7Interesting items for entertainment
+- §7in lobby or to joke on your friends.
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated mechanism:'
+- '%s'
+- ''
+- §e▸ Click to open menu
+GADGETS_GUI_GADGETS_NAME: Mechanisms
+GADGETS_GUI_HAT_LORE:
+- ''
+- §7Here you can find best hats
+- §7from Lastic Shop! No-no,
+- §7you cant get the rabbit
+- §7out of the hat
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated hat:'
+- '%s'
+- ''
+- §e▸ Click to open a menu
+GADGETS_GUI_HAT_NAME: Hats
+GADGETS_GUI_INFO_LORE1: '§7Gadget types:'
+GADGETS_GUI_INFO_LORE2:
+- '§7Gadgets opened: §a%s'
+- §8• %s §6%s
+GADGETS_GUI_INFO_NAME: §aGeneral statistics
+GADGETS_GUI_MORPH_LORE:
+- ''
+- §7Be other creatures! Kittie, or creeper,
+- §7kittie, or zombie. No, kittie is better.
+- §7He is so cute :3
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated morph:'
+- '%s'
+- ''
+- §e▸ Click to open menu
+GADGETS_GUI_MORPH_NAME: Morphs
+GADGETS_GUI_PETS_LORE:
+- ''
+- §7I have long wanted a tame pet?
+- §7So you are welcome here! Just
+- §7take a look on this crepper :3
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated pet:'
+- '%s'
+- ''
+- §e▸ Click to open menu
+GADGETS_GUI_PETS_NAME: Pets
+GADGETS_GUI_SPIRITS_LORE:
+- ''
+- §7Your faithful comrade who will
+- §7walking with you while you are alive.
+- §7Feel yourself the King of Shamans!
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated spirit:'
+- '%s'
+- ''
+- §e▸ Click to open menu
+GADGETS_GUI_SPIRITS_NAME: Spirits
+GADGETS_HOLIDAY_AVAILABLE: §7Available at %s §7holidays
+GADGETS_HOLIDAY_DEFAULT: §7Common
+GADGETS_HOLIDAY_HALLOWEEN: §6Halloween
+GADGETS_HOLIDAY_NEW_YEARS: §cNew Year
+GADGETS_HOLIDAY_SUMMER: §eSummer
+GADGETS_NOT_ACTIVATED: §cNot selected
+GADGETS_NO_USE: §cThis gadget isnt available for you
+GADGET_BANNERS_TYPE: Banner
+GADGET_BANNER_ON_PLAYER: Banner
+GADGET_CLICK_TO_USE_LORE:
+- §7Click RMB to activate a gadget
+GADGET_COMPANION_TYPE: Companion
+GADGET_DELETED_ALL: Disable all gadgets
+GADGET_DELETED_GUI_LORE:
+- ''
+- §7List of activated gagdets
+- ''
+- §e▸ Click to open menu
+GADGET_DELETED_GUI_NAME: Disable gadgets
+GADGET_DELETED_NOT_FOUND: No gadget activated
+GADGET_EFFECT_TYPE: Effect
+GADGET_EMOTES_TYPE: Emotion
+GADGET_EMOTE_ON_PLAYER: Emotion
+GADGET_FAVORITE_CLEAR_LORE:
+- §7Click to remove all gadgets
+- §7from Favorites
+GADGET_FAVORITE_CLEAR_NAME: §cClear all Favorites
+GADGET_FAVORITE_LORE:
+- §7Favorites menu is menu for quick
+- §7use of any gadget, which every
+- §7of them you will be able to setting for yourslef.
+- §7
+- §7To add gadget to favorites
+- §7click §cRMB §7to any gadget
+GADGET_FAVORITE_NAME: §aFavorites
+GADGET_GADGETS_TYPE: Mechanism
+GADGET_HAT_ON_PLAYER: Hat
+GADGET_HAT_TYPE: Hat
+GADGET_MAIN_GUI_NAME: Gadgets
+GADGET_MORPH_TYPE: Morph
+GADGET_PETS_TYPE: Pet
+GADGET_SEARCH_GUI_NAME: Search
+GADGET_SETTINGS_GUI_LORE:
+- §7Personal settings for customization
+- §7of gadgets for every player
+- ''
+- §e▸ Click to open menu
+GADGET_SETTINGS_GUI_NAME: Settings
+GADGET_SETTING_SHOW_MORPH_LORE:
+- §7Activate this setting if
+- §7you want to see yourself
+- §7as a mob
+GADGET_SETTING_SHOW_MORPH_NAME: §eMorph
+GADGET_SPIRITS_TYPE: Spirit

@@ -1,20 +1,32 @@
+EXP_LORE_REWARD_LOCALE: §8 • §fОпыт §7(от §a%s §7до §a%s§7)
+EXP_REWARD_LOCALE: ' §7+ §a%s §fопыта'
+GET_REWARD: §7Зайдите в профиль, чтобы получить свою награду
 GOLD_LORE_REWARD_LOCALE: §8 • §fЗолото §7(§e%s §7%s)
 GOLD_REWARD_LOCALE: ' §7+ §e%s §f%s'
-MONEY_LORE_REWARD_LOCALE: §8 • §fМонеты §7(от §6%s §7до §6%s§7)
-MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
+KEYS_LORE_REWARD_LOCALE: §8 • §f%s §7(от §d%s§7 до §d%s§7)
+KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
 KEY_LORE_REWARD_LOCALE: §8 • §f%s §7(§d%s§7)
-GET_REWARD: §7Зайдите в профиль, чтобы получить свою награду
 LEVELING_LOAD_LORE:
-  - §7Информация о ваших уровнях загружается
-  - §7или награды отсутствуют вовсе...
+- §7Информация о ваших уровнях загружается
+- §7или награды отсутствуют вовсе...
 LEVELING_LOAD_NAME: §cИнформация загружается...
 LEVELING_WAIT_REWARD: §6Сервер §8| §fУ вас есть §a%s§f наград, которые вы не забрали.
   Чтобы их забрать, напишите §7/profile§f и перейдите во вкладку §bуровень
-EXP_REWARD_LOCALE: ' §7+ §a%s §fопыта'
-EXP_LORE_REWARD_LOCALE: §8 • §fОпыт §7(от §a%s §7до §a%s§7)
-KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
-KEYS_LORE_REWARD_LOCALE: §8 • §f%s §7(от §d%s§7 до §d%s§7)
-
+LEVEL_REWARD_ANTICHEAT: §8+ §7Иммунитет к некоторым проверкам античита!
+LEVEL_REWARD_CASINO: §8+ §7Доступ к казино в группе §9VK §fvk.com/lastcraft
+LEVEL_REWARD_COSMETIC: §8+ %s §7игровая косметика
+LEVEL_REWARD_GADGET: §8+ %s §7гаджет
+LEVEL_REWARD_HOLO: Доступна награда за %s день
+LEVEL_REWARD_LORE1:
+- '§7За достижение §f%s §7уровня вы получите:'
+LEVEL_REWARD_LORE2:
+- ' '
+- §e▸ Получить награду
+LEVEL_REWARD_NAME: Награда за %s уровень
+LEVEL_REWARD_SENDMONEY: §8+ §7Принимать и отправлять деньги через §f/sendmoney
+LEVEL_REWARD_VK: §8+ §7Писать оффлайн игроку у которого привязан §9VK
+MONEY_LORE_REWARD_LOCALE: §8 • §fМонеты §7(от §6%s §7до §6%s§7)
+MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
 REWARD_CLICK_TO_CLAIM:
 - ''
 - ' §e▸ Нажмите, чтобы получить награду'
@@ -44,16 +56,3 @@ REWARD_YOU_CAN_CLAIM_IN_TIME:
 - '§7Можно будет получить через:'
 - §e%s
 REWARD_YOU_GOT_REWARDS: '§fВы успешно получили следующие награды:'
-LEVEL_REWARD_ANTICHEAT: §8+ §7Иммунитет к некоторым проверкам античита!
-LEVEL_REWARD_CASINO: §8+ §7Доступ к казино в группе §9VK §fvk.com/lastcraft
-LEVEL_REWARD_COSMETIC: §8+ %s §7игровая косметика
-LEVEL_REWARD_GADGET: §8+ %s §7гаджет
-LEVEL_REWARD_HOLO: Доступна награда за %s день
-LEVEL_REWARD_LORE1:
-  - '§7За достижение §f%s §7уровня вы получите:'
-LEVEL_REWARD_LORE2:
-  - ' '
-  - §e▸ Получить награду
-LEVEL_REWARD_NAME: Награда за %s уровень
-LEVEL_REWARD_SENDMONEY: §8+ §7Принимать и отправлять деньги через §f/sendmoney
-LEVEL_REWARD_VK: §8+ §7Писать оффлайн игроку у которого привязан §9VK

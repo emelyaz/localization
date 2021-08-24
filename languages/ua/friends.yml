@@ -1,0 +1,56 @@
+FRIENDS_ACCEPT_FORMAT: /f accept <нік гравця>
+FRIENDS_ADD_FORMAT: /f add <нік гравця>
+FRIENDS_ALREADY_FRIENDS: §cВи вже є друзями!
+FRIENDS_ALREADY_SENT_REQUEST: §cВи вже відправляли запит в друзі даному гравцю...
+FRIENDS_DECLINE_FORMAT: /f decline <нік гравця>
+FRIENDS_DONT_HAVE_INVITES_FROM: §cУ вас немає запитів в друзі від гравця %s
+FRIENDS_GUI_EQUAL_SERVER: ' §c▸ Ви вже на одному сервері'
+FRIENDS_GUI_NAME: Список друзів
+FRIENDS_GUI_NULL_SERVER_LORE:
+- §7Останній раз був в мережі
+- §e%s назад
+FRIENDS_GUI_NULL_TP_LORE: ' §c✗ Зараз оффлайн'
+FRIENDS_GUI_SERVER_LORE:
+- §7Зараз на сервері §e%s
+FRIENDS_GUI_TP_LORE: ' §e▸ Клікніть для телепорта на сервер друга'
+FRIENDS_INVITE_EVENT_CANCELLED: §cДаний гравець заборонив відправляти йому запити
+  в друзі
+FRIENDS_INVITE_EXPIRED: §cЗапит, відправлений гравцю %s був автоматично відхилений
+FRIENDS_INVITE_SENT: §6Друзі §8| §fЗапит в друзі відправлений гравцю %s
+FRIENDS_INVITE_TEXT: §6Друзі §8| §fГравець %s §fвідправив Вам запит в друзі. Він буде
+  автоматично відхилений через 5 хвилин
+FRIENDS_LIMIT: §cВи перевищили ліміт на кількість друзів, ваш ліміт - %s
+FRIENDS_NEW_FRIEND: §6Друзі §8| §fВітаємо! Ви стали друзями з гравцем %s
+FRIENDS_NOT_FRIENDS: §cДаного гравця немає у Вас в друзях
+FRIENDS_ONLINE: §6Друзі §8| §fВ онлайні §a%d §f%s
+FRIENDS_PLAYER_REMOVED: §6Друзі §8| §fГравець %s §fбув видалений з вашого списку друзів
+FRIENDS_PLAYER_REMOVED_YOU: §6Друзі §8| §fГравець %s §fвидалив Вас з друзів.
+FRIENDS_REDIRECTING: §6Друзі §8| §fВи були телепортовані на сервер гравця %s §f(§7%s§f)
+FRIENDS_REMOVE_FORMAT: /f remove <нік друга>
+FRIENDS_REQUEST_REJECTED: §6Друзі §8| §fГравець %s §fвідхилив Ваш запит в друзі
+FRIENDS_TP_FORMAT: /f tp <нік друга>
+FRIENDS_YOURSELF_AS_FRIEND: §cВи не можете відправити заявку в друзі самому собі
+FRIENDS_YOU_REJECTED_REQUEST: §6Друзі §8| §fВи відхилили запит в друзі від гравця
+  %s
+FRIEND_GUI_MAIN_LORE:
+- ''
+- '§7Всього друзів: §a%s'
+- '§7Онлайн друзів: §a%s'
+FRIEND_JOINED: §6Друзі §8| §fВаш друг %s §fзайшов в гру §7(Натисніть сюди)
+FRIEND_JOINED_HOVER: §fНатисніть, щоб написати гравцю %s §fповідомлення
+FRIEND_NEW_INVITE_ACCEPT_HOVER: §fНатисніть, щоб почати дружити!
+FRIEND_NEW_INVITE_DECLINE_HOVER: §fНатисніть, щоб відхилити запит
+FRIEND_REQUEST_GUI_LORE:
+- ''
+- ' §e▸ ЛКМ, щоб прийняти запит'
+- ' §e▸ ПКМ, щоб відхилити запит'
+FRIEND_REQUEST_GUI_MAIN_LORE:
+- ''
+- '§7Всього запитів:'
+- §a%s
+FRIEND_TITLE: ДРУЗІ
+TARGET_FRIENDS_LIMIT: §cЗазначений Вами гравець не може приймати заявки в друзі, поскільки
+  його ліміт перевищений
+YOU_DONT_HAVE_FRIENDS: §cУ Вас немає друзів :(
+YOU_DONT_HAVE_FRIEND_REQUESTS: §cУ Вас немає запитів в друзі
+YOU_HAVE_NO_ONLINE_FRIENDS: §cПомилка, у Вас немає онлайн друзів

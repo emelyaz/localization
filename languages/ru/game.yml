@@ -1,40 +1,243 @@
-TEAM_SELECTOR_EMPTY: §7Игроков нет
-TEAM_SELECTOR_ENTRY: '%s [%s/%s]'
-TEAM_SELECTOR_FULL:
-  - ' '
-  - §c▸ В команде нет мест
-TEAM_SELECTOR_GUI_TITLE: Выбор команды
-TEAM_SELECTOR_PLAYERS: '§7Игроки в команде:'
-TEAM_SELECTOR_SELECT:
-  - ' '
-  - §e▸ Нажмите, чтобы выбрать
-TEAM_SELECTOR_ALREADYIN:
-  - ' '
-  - §c▸ Вы уже в этой команде
-TEAM_GAME_GLOBAL_CHAT_FORMAT: ' §8[%sВсем§8] '
-TEAM_GAME_LOCAL_CHAT_FORMAT: ' §8[%sКоманде§8] '
-TEAM_AQUA: Голубые
-TEAM_BLUE: Синие
-TEAM_DARK_AQUA: Бирюзовые
-TEAM_GRAY: Серые
-TEAM_GREEN: Зелёные
-TEAM_IS_BANABLE: §cКомандная игра запрещена у нас. Вы были исключены из игры
-TEAM_ITEM_LORE:
-  - §7Используйте этот предмет,
-  - §7чтобы выбрать свою команду
-TEAM_ITEM_NAME: §eВыбор команды
-TEAM_LIGHT_GREEN: Салатовые
-TEAM_LOSE: §fКоманда %s §fпроиграла (последний игрок погиб или покинул игру)
-TEAM_NAME: Команда
-TEAM_NO_TEAM: §c§lВнимание! §cОбразование союзов из нескольких команд запрещено.
-TEAM_ORANGE: Оранжевые
-TEAM_PINK: Розовые
-TEAM_PURPLE: Фиолетовые
-TEAM_RED: Красные
-TEAM_SELECTED: §fВы выбрали команду %s
-TEAM_WHITE: Белые
-TEAM_YELLOW: Жёлтые
-
+ARENA_BUSY: §cАрена заполнена, не хватает слотов? Купите §a§lEMERALD§c или выше
+ARENA_RESTART: §cСервер перезагружается...
+ARENA_START: §cИгра начинается...
+BREAK_BLOCK_UNDER_TEAM: §cВы не можете ломать блоки под своими тиммейтами
+BREAK_EFFECT: эффект сломанной кровати\яйца
+BREAK_EFFECT_SELECTION_MESSAGE: Вы выбрали эффект §a%s
+COMPASS_ITEM_LORE:
+- §7Используй его для телепортации к игрокам
+COMPASS_ITEM_NAME: §eТелепортер
+COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '
+COMPASS_MESSAGE_SPECTATOR: '§fБлижайший игрок: %s      §fРасстояние: §a%s'
+COMPASS_MODE_CHANGED: Режим локатора изменен на §e%s
+COMPASS_MODE_NEAREST_PLAYER: поиск ближайшего игрока
+COMPASS_MODE_TEAMMATE: поиск ближайшего тиммейта
+DEATH_MSG_TITLE: §cВы погибли
+FINAL_KILL: '%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!'
+GAMEINFO_FORMAT: /gameinfo [канал]
+GAME_COSMETIC_0_LORE:
+- §7Сыграй мелодию на нотах тетивы
+GAME_COSMETIC_0_NAME: Ноты
+GAME_COSMETIC_100_LORE:
+- §7Начало игры сопровождается праздничным
+- §7взрывом фейерверков!
+GAME_COSMETIC_100_NAME: Фейерверк
+GAME_COSMETIC_101_LORE:
+- §7Специально для заядлых кузнецов
+- §7подготовлен комплект любимого звучания
+- §7молотка об наковальню
+GAME_COSMETIC_101_NAME: Кузнечный мастер
+GAME_COSMETIC_102_LORE:
+- §7Мир Края завораживает своими
+- §7звуками прямо перед матчем.
+- §7Стоит попробовать!
+GAME_COSMETIC_102_NAME: Эндермир
+GAME_COSMETIC_103_LORE:
+- §7Раскидайте своих врагов их же оружием
+GAME_COSMETIC_103_NAME: Яйцемёт
+GAME_COSMETIC_10_LORE:
+- §7Эффект бессмертия дарует стреле...
+- §7бессмертие. Будто она была смертна!
+GAME_COSMETIC_10_NAME: Бессмертие
+GAME_COSMETIC_110_LORE:
+- §7Такой же красный, как кровь твоих врагов
+GAME_COSMETIC_110_NAME: Красный
+GAME_COSMETIC_111_LORE:
+- §7Отлично подходит для маскировки зимой!
+GAME_COSMETIC_111_NAME: Белый
+GAME_COSMETIC_112_LORE:
+- §7Апельсиновый окрас придаст вам
+- §7кислинки в PvP
+GAME_COSMETIC_112_NAME: Оранжевый
+GAME_COSMETIC_113_LORE:
+- §7Великолепно сделанный пурпурный щит
+GAME_COSMETIC_113_NAME: Пурпурный
+GAME_COSMETIC_114_LORE:
+- §7В железной броне вы превращаетесь
+- §7в голубой вагон.
+GAME_COSMETIC_114_NAME: Голубой
+GAME_COSMETIC_115_LORE:
+- §7Солнечный щит ослепит своей красотой!
+GAME_COSMETIC_115_NAME: Желтый
+GAME_COSMETIC_116_LORE:
+- §7Не перепутайте с плодом лайма
+- §7Да, было и такое
+GAME_COSMETIC_116_NAME: Светло-зеленый
+GAME_COSMETIC_117_LORE:
+- §7Самый гламурный щит
+GAME_COSMETIC_117_NAME: Розовый
+GAME_COSMETIC_118_LORE:
+- §7Щит серый, словно мышь
+- §7Крадитесь также незаметно!
+GAME_COSMETIC_118_NAME: Серый
+GAME_COSMETIC_119_LORE:
+- §7Этот оттенок получился из пепла
+- §7Пироманта на SkyWars.
+GAME_COSMETIC_119_NAME: Серебрянный
+GAME_COSMETIC_11_LORE:
+- §7Волны магических сил всех существ
+- §7игры будут следовать за вашей стрелой.
+- §7Не злите их
+GAME_COSMETIC_11_NAME: Зелья
+GAME_COSMETIC_120_LORE:
+- §7Если вы не можете выбрать между
+- §7зелёным и синим, то это для вас!
+GAME_COSMETIC_120_NAME: Бирюзовый
+GAME_COSMETIC_121_LORE:
+- §7Роскошный щит для настоящих королей!
+GAME_COSMETIC_121_NAME: Фиолетовый
+GAME_COSMETIC_122_LORE:
+- §7Теперь щит — море! Даже стрелы впитывает также
+GAME_COSMETIC_122_NAME: Синий
+GAME_COSMETIC_123_LORE:
+- §7Надеюсь это не то, о чем мы подумали.
+GAME_COSMETIC_123_NAME: Коричневый
+GAME_COSMETIC_124_LORE:
+- §7Говорят, зелёный цвет успокаивает
+- §7Проверьте на противниках
+GAME_COSMETIC_124_NAME: Зеленый
+GAME_COSMETIC_125_LORE:
+- §7Измажьте щит своей душой!
+GAME_COSMETIC_125_NAME: Черный
+GAME_COSMETIC_126_LORE:
+- §7Путин, водка, балалайка
+GAME_COSMETIC_126_NAME: Россия
+GAME_COSMETIC_127_LORE:
+- §7Це Европа
+GAME_COSMETIC_127_NAME: Украина
+GAME_COSMETIC_128_LORE:
+- §7Опасный и общительный дракончик
+GAME_COSMETIC_128_NAME: Дракончик
+GAME_COSMETIC_129_LORE:
+- §7Портрет последнего Лорда!
+GAME_COSMETIC_129_NAME: Скелет
+GAME_COSMETIC_130_LORE:
+- §7Но вы не бессмертны, нет
+GAME_COSMETIC_130_NAME: Деад Пул
+GAME_COSMETIC_131_LORE:
+- §7Для музыкальных ценителей
+GAME_COSMETIC_131_NAME: Гитара
+GAME_COSMETIC_132_LORE:
+- §7Покажите всем, как вы их любите!
+GAME_COSMETIC_132_NAME: Сердце
+GAME_COSMETIC_133_LORE:
+- §7Тот самый олень Санты!
+GAME_COSMETIC_133_NAME: Олень
+GAME_COSMETIC_134_LORE:
+- §7Из него выскочит Пикачу!
+GAME_COSMETIC_134_NAME: Покебол
+GAME_COSMETIC_135_LORE:
+- §7Всякий раз, когда вы убиваете игрока,
+- §7вы делаете это, под эффект музыкальных нот!
+GAME_COSMETIC_135_NAME: Убийственная симфония
+GAME_COSMETIC_136_LORE:
+- §7Всякий раз, когда вы убиваете игрока,
+- §7вы даете ему понять, что любите его!
+GAME_COSMETIC_136_NAME: Ромео
+GAME_COSMETIC_137_LORE:
+- §7Всякий раз, когда вы убиваете игрока,
+- §7на его труп снисходит гнев небес!
+GAME_COSMETIC_137_NAME: Повелитель молний
+GAME_COSMETIC_138_LORE:
+- §7Всякий раз, когда вы убиваете игрока,
+- §7на его могиле появляется прощальный фейерверк!
+GAME_COSMETIC_138_NAME: Прощальный фейерверк
+GAME_COSMETIC_1_LORE:
+- §7Отлично дополнит эффект горящей стрелы!
+GAME_COSMETIC_1_NAME: Дым
+GAME_COSMETIC_2_LORE:
+- §7..и этот тоже отличное дополнение
+GAME_COSMETIC_2_NAME: Огонь
+GAME_COSMETIC_3_LORE:
+- §7Представьте, что вы Амур. Стреляйте.
+GAME_COSMETIC_3_NAME: Сердечки
+GAME_COSMETIC_4_LORE:
+- §7Потоки радости мудрейшего жителя
+- §7подарят ваши стрелы и
+- §7приведут их точно в цель!
+GAME_COSMETIC_4_NAME: Изумрудный
+GAME_COSMETIC_5_LORE:
+- §7Отныне ваши стрелы и есть фейерверк
+GAME_COSMETIC_5_NAME: Фейерверк
+GAME_COSMETIC_6_LORE:
+- §7Создай новогоднее настроение
+- §7в любое время года!
+GAME_COSMETIC_6_NAME: Гирлянда
+GAME_COSMETIC_7_LORE:
+- §7Магический поток великой ведьмы
+- §7сопровождают каждый ваш выстрел
+GAME_COSMETIC_7_NAME: Ведьма
+GAME_COSMETIC_8_LORE:
+- §7На самом деле, житель не злой, а сердитый
+GAME_COSMETIC_8_NAME: Злой житель
+GAME_COSMETIC_9_LORE:
+- §7Если вы не знаете как появляются облака,
+- §7то купите этот эффект
+GAME_COSMETIC_9_NAME: Облако
+GAME_COSMETIC_ALREADY_HAVE: §fУ вас уже есть данный предмет, вы получили §b+%s %s
+GAME_COSMETIC_GUI_ARROW_LORE:
+- ''
+- §7Покупка и активация эффектов
+- §7полета стрел, которые действуют
+- §7на аренах всех мини-игр.
+- ''
+- '§7Открыто: §a%s/%s §6%s'
+- '§7Активированный эффект:'
+- '%s'
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+GAME_COSMETIC_GUI_ARROW_NAME: Эффекты стрел
+GAME_COSMETIC_GUI_COLORABLE_LORE:
+- ''
+- §7Покупка и активация цветов
+- §7в которые будут окращены ваши
+- §7щиты и коженная броня.
+- ''
+- '§7Открыто: §a%s/%s §6%s'
+- '§7Активированный цвет:'
+- '%s'
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+GAME_COSMETIC_GUI_COLORABLE_NAME: Цветные щиты и броня
+GAME_COSMETIC_GUI_KILL_EFFECT_LORE:
+- ''
+- §7Покупка и активация эффектов
+- §7которые будут воспроизводиться
+- §7около убитого вами игрока.
+- ''
+- '§7Открыто: §a%s/%s §6%s'
+- '§7Активированный эффект:'
+- '%s'
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+GAME_COSMETIC_GUI_KILL_EFFECT_NAME: Эффекты убийств
+GAME_COSMETIC_GUI_START_SOUND_LORE:
+- ''
+- §7Покупка и активация звуков
+- §7которые вы услышите при
+- §7старте игры.
+- ''
+- '§7Открыто: §a%s/%s §6%s'
+- '§7Активированный звук:'
+- '%s'
+- ''
+- §e▸ Нажмите, чтобы открыть меню
+GAME_COSMETIC_GUI_START_SOUND_NAME: Звук старта
+GAME_COSMETIC_KEY: §aКосметико-игровой ключ
+GAME_COSMETIC_KEY_LORE:
+- ''
+- §7Используется для получения
+- §7эффектов стрел, предсмертных хрипов и другой
+- §7визуальной "фигни" на аренах
+- ''
+- §cВнимание! При выбивании уже существующего
+- §cпредмета вы получите пыль (10% от стоимости)
+GAME_COSMETIC_LEVEL_ERROR:
+- §cВНИМАНИЕ! Для использования этой вещи
+- §cвам нужно иметь %s уровень или любой
+- §cиз доступных донат-статусов!
+GAME_COSMETIC_MAIN_GUI_NAME: Косметика
+GAME_COSMETIC_NO_LEVEL: §cОшибка, у вас нет %s уровня для активации (
 GAME_END_BOARD_DESC: Игра окончена!
 GAME_END_BOARD_NO_WINNER: §cНичья
 GAME_END_BOARD_TITLE: §fИгра окончена
@@ -42,7 +245,6 @@ GAME_END_BOARD_TITLE_WINNER: '§fПобедитель:'
 GAME_END_BOARD_TITLE_WINNERS: '§fПобедители:'
 GAME_END_BOARD_WINNER: 'Победитель:'
 GAME_END_BOARD_WINNERS: 'Победители:'
-
 GAME_NO_WINNER: §cИгра закончилась в ничью
 GAME_PLACE: '%s%s место §8- §e%s'
 GAME_REJOIN: §fВы перезашли в игру
@@ -84,265 +286,34 @@ GAME_UPGRADE_NPC_HOLO:
 - §fНажмите, чтобы открыть!
 GAME_WINNER: Победитель - %s
 GAME_WINNERS: Победители - %s
-TYPE_DOUBLES: Парный режим
-TYPE_ERROR: §cError!
-TYPE_MEGA: Командный режим
-TYPE_SOLO: Одиночный режим
-TYPE_TEAM: Командный режим
-BREAK_BLOCK_UNDER_TEAM: §cВы не можете ломать блоки под своими тиммейтами
-BREAK_EFFECT: эффект сломанной кровати\яйца
-BREAK_EFFECT_SELECTION_MESSAGE: Вы выбрали эффект §a%s
+GLOBAL_TEAM_GAME_CHAT_FORMAT: ' §8[§cВсем§8] '
+JOIN_GAMER_ARENA: '%s§f зашел в игру (§a%s§f/§a%s§f)'
+JOIN_SPEC_MSG_SUBTITLE: §7Вы можете только следить за игровым процессом
+JOIN_SPEC_MSG_TITLE: §cИгра уже началась
+KIT_PURCHASE_MESSAGE: Вы приобрели набор §a%s §fза §a%s §f%s
+KIT_SELECTION_MESSAGE: Вы выбрали набор §a%s
+LOCAL_TEAM_GAME_CHAT_FORMAT: ' §8[§aКоманде§8] '
+LOCATOR_ITEM_NAME: §aЛокатор
+NO_PREFIX_SET: §6Сервер §8| §cВы не можете сменить префикс во время игры
+ONLY_DONATOR: §cОшибка, на арене только донатеры
+PERK_ITEM_LORE:
+- §7Используйте этот предмет,
+- §7чтобы выбрать один из всевозможных
+- §7умений на эту игру
+PERK_ITEM_NAME: §eУмения
+PERK_PURCHASE_MESSAGE: Вы приобрели умение §a%s §fза §a%s §f%s
+PERK_SELECTION_MESSAGE: Вы выбрали умение §a%s
+PLAYER_ALIVE_GAME: §fНа карте осталось §a%s§f %s
+PLAYER_LEFT: §fИгрок %s§f покинул игру
+QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§a%s§f)'
+RESPAWN_SUBTITLE: §7Вы возродитесь через §c%s §7%s
+RESPAWN_TITLE: §aВы возродились
+RESTART_ARENA_MSG: §cРестарт арены, через 5 секунд вы будете перемещены в лобби
 SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
 SELECTOR_TEAM_NO_PLAYERS: §7Нет игроков...
 SELECTOR_TEAM_PLAYERS: '§7Игроки:'
-PLAYER_ALIVE_GAME: §fНа карте осталось §a%s§f %s
-PLAYER_LEFT: §fИгрок %s§f покинул игру
-COMPASS_ITEM_LORE:
-  - §7Используй его для телепортации к игрокам
-COMPASS_ITEM_NAME: §eТелепортер
-COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '
-COMPASS_MESSAGE_SPECTATOR: '§fБлижайший игрок: %s      §fРасстояние: §a%s'
-COMPASS_MODE_CHANGED: Режим локатора изменен на §e%s
-COMPASS_MODE_NEAREST_PLAYER: поиск ближайшего игрока
-COMPASS_MODE_TEAMMATE: поиск ближайшего тиммейта
-TELEPORTER_CLICK_TO_TELEPORT:
-  - ' '
-  - §e▸ ЛКМ, чтобы телепортироваться
-  - §e▸ ПКМ, чтобы следить от 1-ого лица
-TELEPORTER_GUI_TITLE: Телепортер
-TELEPORTER_PLAYER_DISTANCE: '§7Расстояние: §a%s §7блоков'
-TELEPORTER_PLAYER_HEALTH: '§7Здоровье: §a%s§4❤'
-TELEPORTER_PLAYER_KIT: '§7Выбранный набор: §e%s'
-TELEPORTER_PLAYER_PERK: '§7Выбранное умение: §e%s'
-KIT_PURCHASE_MESSAGE: Вы приобрели набор §a%s §fза §a%s §f%s
-KIT_SELECTION_MESSAGE: Вы выбрали набор §a%s
-JOIN_SPEC_MSG_SUBTITLE: §7Вы можете только следить за игровым процессом
-JOIN_SPEC_MSG_TITLE: §cИгра уже началась
-JOIN_GAMER_ARENA: '%s§f зашел в игру (§a%s§f/§a%s§f)'
-
-GAME_COSMETIC_0_LORE:
-  - §7Сыграй мелодию на нотах тетивы
-GAME_COSMETIC_0_NAME: Ноты
-GAME_COSMETIC_100_LORE:
-  - §7Начало игры сопровождается праздничным
-  - §7взрывом фейерверков!
-GAME_COSMETIC_100_NAME: Фейерверк
-GAME_COSMETIC_101_LORE:
-  - §7Специально для заядлых кузнецов
-  - §7подготовлен комплект любимого звучания
-  - §7молотка об наковальню
-GAME_COSMETIC_101_NAME: Кузнечный мастер
-GAME_COSMETIC_102_LORE:
-  - §7Мир Края завораживает своими
-  - §7звуками прямо перед матчем.
-  - §7Стоит попробовать!
-GAME_COSMETIC_102_NAME: Эндермир
-GAME_COSMETIC_103_LORE:
-  - §7Раскидайте своих врагов их же оружием
-GAME_COSMETIC_103_NAME: Яйцемёт
-GAME_COSMETIC_10_LORE:
-  - §7Эффект бессмертия дарует стреле...
-  - §7бессмертие. Будто она была смертна!
-GAME_COSMETIC_10_NAME: Бессмертие
-GAME_COSMETIC_110_LORE:
-  - §7Такой же красный, как кровь твоих врагов
-GAME_COSMETIC_110_NAME: Красный
-GAME_COSMETIC_111_LORE:
-  - §7Отлично подходит для маскировки зимой!
-GAME_COSMETIC_111_NAME: Белый
-GAME_COSMETIC_112_LORE:
-  - §7Апельсиновый окрас придаст вам
-  - §7кислинки в PvP
-GAME_COSMETIC_112_NAME: Оранжевый
-GAME_COSMETIC_113_LORE:
-  - §7Великолепно сделанный пурпурный щит
-GAME_COSMETIC_113_NAME: Пурпурный
-GAME_COSMETIC_114_LORE:
-  - §7В железной броне вы превращаетесь
-  - §7в голубой вагон.
-GAME_COSMETIC_114_NAME: Голубой
-GAME_COSMETIC_115_LORE:
-  - §7Солнечный щит ослепит своей красотой!
-GAME_COSMETIC_115_NAME: Желтый
-GAME_COSMETIC_116_LORE:
-  - §7Не перепутайте с плодом лайма
-  - §7Да, было и такое
-GAME_COSMETIC_116_NAME: Светло-зеленый
-GAME_COSMETIC_117_LORE:
-  - §7Самый гламурный щит
-GAME_COSMETIC_117_NAME: Розовый
-GAME_COSMETIC_118_LORE:
-  - §7Щит серый, словно мышь
-  - §7Крадитесь также незаметно!
-GAME_COSMETIC_118_NAME: Серый
-GAME_COSMETIC_119_LORE:
-  - §7Этот оттенок получился из пепла
-  - §7Пироманта на SkyWars.
-GAME_COSMETIC_119_NAME: Серебрянный
-GAME_COSMETIC_11_LORE:
-  - §7Волны магических сил всех существ
-  - §7игры будут следовать за вашей стрелой.
-  - §7Не злите их
-GAME_COSMETIC_11_NAME: Зелья
-GAME_COSMETIC_120_LORE:
-  - §7Если вы не можете выбрать между
-  - §7зелёным и синим, то это для вас!
-GAME_COSMETIC_120_NAME: Бирюзовый
-GAME_COSMETIC_121_LORE:
-  - §7Роскошный щит для настоящих королей!
-GAME_COSMETIC_121_NAME: Фиолетовый
-GAME_COSMETIC_122_LORE:
-  - §7Теперь щит — море! Даже стрелы впитывает также
-GAME_COSMETIC_122_NAME: Синий
-GAME_COSMETIC_123_LORE:
-  - §7Надеюсь это не то, о чем мы подумали.
-GAME_COSMETIC_123_NAME: Коричневый
-GAME_COSMETIC_124_LORE:
-  - §7Говорят, зелёный цвет успокаивает
-  - §7Проверьте на противниках
-GAME_COSMETIC_124_NAME: Зеленый
-GAME_COSMETIC_125_LORE:
-  - §7Измажьте щит своей душой!
-GAME_COSMETIC_125_NAME: Черный
-GAME_COSMETIC_126_LORE:
-  - §7Путин, водка, балалайка
-GAME_COSMETIC_126_NAME: Россия
-GAME_COSMETIC_127_LORE:
-  - §7Це Европа
-GAME_COSMETIC_127_NAME: Украина
-GAME_COSMETIC_128_LORE:
-  - §7Опасный и общительный дракончик
-GAME_COSMETIC_128_NAME: Дракончик
-GAME_COSMETIC_129_LORE:
-  - §7Портрет последнего Лорда!
-GAME_COSMETIC_129_NAME: Скелет
-GAME_COSMETIC_130_LORE:
-  - §7Но вы не бессмертны, нет
-GAME_COSMETIC_130_NAME: Деад Пул
-GAME_COSMETIC_131_LORE:
-  - §7Для музыкальных ценителей
-GAME_COSMETIC_131_NAME: Гитара
-GAME_COSMETIC_132_LORE:
-  - §7Покажите всем, как вы их любите!
-GAME_COSMETIC_132_NAME: Сердце
-GAME_COSMETIC_133_LORE:
-  - §7Тот самый олень Санты!
-GAME_COSMETIC_133_NAME: Олень
-GAME_COSMETIC_134_LORE:
-  - §7Из него выскочит Пикачу!
-GAME_COSMETIC_134_NAME: Покебол
-GAME_COSMETIC_135_LORE:
-  - §7Всякий раз, когда вы убиваете игрока,
-  - §7вы делаете это, под эффект музыкальных нот!
-GAME_COSMETIC_135_NAME: Убийственная симфония
-GAME_COSMETIC_136_LORE:
-  - §7Всякий раз, когда вы убиваете игрока,
-  - §7вы даете ему понять, что любите его!
-GAME_COSMETIC_136_NAME: Ромео
-GAME_COSMETIC_137_LORE:
-  - §7Всякий раз, когда вы убиваете игрока,
-  - §7на его труп снисходит гнев небес!
-GAME_COSMETIC_137_NAME: Повелитель молний
-GAME_COSMETIC_138_LORE:
-  - §7Всякий раз, когда вы убиваете игрока,
-  - §7на его могиле появляется прощальный фейерверк!
-GAME_COSMETIC_138_NAME: Прощальный фейерверк
-GAME_COSMETIC_1_LORE:
-  - §7Отлично дополнит эффект горящей стрелы!
-GAME_COSMETIC_1_NAME: Дым
-GAME_COSMETIC_2_LORE:
-  - §7..и этот тоже отличное дополнение
-GAME_COSMETIC_2_NAME: Огонь
-GAME_COSMETIC_3_LORE:
-  - §7Представьте, что вы Амур. Стреляйте.
-GAME_COSMETIC_3_NAME: Сердечки
-GAME_COSMETIC_4_LORE:
-  - §7Потоки радости мудрейшего жителя
-  - §7подарят ваши стрелы и
-  - §7приведут их точно в цель!
-GAME_COSMETIC_4_NAME: Изумрудный
-GAME_COSMETIC_5_LORE:
-  - §7Отныне ваши стрелы и есть фейерверк
-GAME_COSMETIC_5_NAME: Фейерверк
-GAME_COSMETIC_6_LORE:
-  - §7Создай новогоднее настроение
-  - §7в любое время года!
-GAME_COSMETIC_6_NAME: Гирлянда
-GAME_COSMETIC_7_LORE:
-  - §7Магический поток великой ведьмы
-  - §7сопровождают каждый ваш выстрел
-GAME_COSMETIC_7_NAME: Ведьма
-GAME_COSMETIC_8_LORE:
-  - §7На самом деле, житель не злой, а сердитый
-GAME_COSMETIC_8_NAME: Злой житель
-GAME_COSMETIC_9_LORE:
-  - §7Если вы не знаете как появляются облака,
-  - §7то купите этот эффект
-GAME_COSMETIC_9_NAME: Облако
-GAME_COSMETIC_ALREADY_HAVE: §fУ вас уже есть данный предмет, вы получили §b+%s %s
-GAME_COSMETIC_GUI_ARROW_LORE:
-  - ''
-  - §7Покупка и активация эффектов
-  - §7полета стрел, которые действуют
-  - §7на аренах всех мини-игр.
-  - ''
-  - '§7Открыто: §a%s/%s §6%s'
-  - '§7Активированный эффект:'
-  - '%s'
-  - ''
-  - §e▸ Нажмите, чтобы открыть меню
-GAME_COSMETIC_GUI_ARROW_NAME: Эффекты стрел
-GAME_COSMETIC_GUI_COLORABLE_LORE:
-  - ''
-  - §7Покупка и активация цветов
-  - §7в которые будут окращены ваши
-  - §7щиты и коженная броня.
-  - ''
-  - '§7Открыто: §a%s/%s §6%s'
-  - '§7Активированный цвет:'
-  - '%s'
-  - ''
-  - §e▸ Нажмите, чтобы открыть меню
-GAME_COSMETIC_GUI_COLORABLE_NAME: Цветные щиты и броня
-GAME_COSMETIC_GUI_KILL_EFFECT_LORE:
-  - ''
-  - §7Покупка и активация эффектов
-  - §7которые будут воспроизводиться
-  - §7около убитого вами игрока.
-  - ''
-  - '§7Открыто: §a%s/%s §6%s'
-  - '§7Активированный эффект:'
-  - '%s'
-  - ''
-  - §e▸ Нажмите, чтобы открыть меню
-GAME_COSMETIC_GUI_KILL_EFFECT_NAME: Эффекты убийств
-GAME_COSMETIC_GUI_START_SOUND_LORE:
-  - ''
-  - §7Покупка и активация звуков
-  - §7которые вы услышите при
-  - §7старте игры.
-  - ''
-  - '§7Открыто: §a%s/%s §6%s'
-  - '§7Активированный звук:'
-  - '%s'
-  - ''
-  - §e▸ Нажмите, чтобы открыть меню
-GAME_COSMETIC_GUI_START_SOUND_NAME: Звук старта
-GAME_COSMETIC_KEY: §aКосметико-игровой ключ
-GAME_COSMETIC_KEY_LORE:
-  - ''
-  - §7Используется для получения
-  - §7эффектов стрел, предсмертных хрипов и другой
-  - §7визуальной "фигни" на аренах
-  - ''
-  - §cВнимание! При выбивании уже существующего
-  - §cпредмета вы получите пыль (10% от стоимости)
-GAME_COSMETIC_LEVEL_ERROR:
-  - §cВНИМАНИЕ! Для использования этой вещи
-  - §cвам нужно иметь %s уровень или любой
-  - §cиз доступных донат-статусов!
-GAME_COSMETIC_MAIN_GUI_NAME: Косметика
-GAME_COSMETIC_NO_LEVEL: §cОшибка, у вас нет %s уровня для активации (
+SLOT_BUSY: §cПростите, но вы были перемещены в лобби, ваше место занял §r%s
+SOLO_NO_TEAM: §c§lВнимание! §cКомандная игра запрещена на Solo режиме.
 SPECTATOR_CAMERA_ACTIONBAR: §fНажмите §aSHIFT §fчтобы покинуть режим наблюдателя
 SPECTATOR_CAMERA_OFF: §cВы покинули режим наблюдателя
 SPECTATOR_CAMERA_SUBTITLE: 'Наблюдаем за игроком: %s'
@@ -350,14 +321,14 @@ SPECTATOR_CAMERA_TITLE: §eРежим наблюдения
 SPECTATOR_INVENTORY_SEE_GUI_TITLE: Инвентарь ► %s
 SPECTATOR_KILLS_LORE: '§7Убийств: §c%s'
 SPECTATOR_MAIN_LORE:
-  - '§7Здоровье: §e%s'
-  - '§7Голод: §e%s'
-  - ''
-  - §e▸ ЛКМ, чтобы телепортироваться
-  - §e▸ ПКМ, чтобы наблюдать от 1-ого лица
+- '§7Здоровье: §e%s'
+- '§7Голод: §e%s'
+- ''
+- §e▸ ЛКМ, чтобы телепортироваться
+- §e▸ ПКМ, чтобы наблюдать от 1-ого лица
 SPECTATOR_MENU_ITEM_LORE:
-  - §7Используйте этот предмет,
-  - §7чтобы наблюдать за игроками
+- §7Используйте этот предмет,
+- §7чтобы наблюдать за игроками
 SPECTATOR_MENU_ITEM_NAME: §eТелепортер
 SPECTATOR_MENU_NAME: Телепортер
 SPECTATOR_MODE: Спектатор
@@ -368,9 +339,9 @@ SPECTATOR_SETTINGS_FLY_ON: §aВключить постоянный полет
 SPECTATOR_SETTINGS_GUI_NAME: Настройки наблюдателя
 SPECTATOR_SETTINGS_HIDE: §cСкрыть наблюдателей
 SPECTATOR_SETTINGS_ITEM_LORE:
-  - §7Используйте этот предмет,
-  - §7чтобы изменить настройки
-  - §7наблюдателя
+- §7Используйте этот предмет,
+- §7чтобы изменить настройки
+- §7наблюдателя
 SPECTATOR_SETTINGS_ITEM_NAME: §eНастройки наблюдателя
 SPECTATOR_SETTINGS_NO_SPEED: Без скорости
 SPECTATOR_SETTINGS_SHOW: §aПоказать наблюдателей
@@ -379,123 +350,147 @@ SPECTATOR_SETTINGS_VISION_OFF: §cВыключить ночное видение
 SPECTATOR_SETTINGS_VISION_ON: §aВключить ночное видение
 SPECTATOR_SETTING_CHANGED: §6Наблюдение §8| §fСкорость передвижения изменена
 SPECTATOR_SETTING_FLY_LORE:
-  - ' '
-  - §e▸ Нажмите, чтобы выключить
+- ' '
+- §e▸ Нажмите, чтобы выключить
 SPECTATOR_SETTING_FLY_NAME: §cВыключить постоянный полет
 SPECTATOR_SETTING_FLY_OFF: §6Наблюдение §8| §fВы выключили постоянный полет
 SPECTATOR_SETTING_FLY_ON: §6Наблюдение §8| §fВы включили постоянный полет
 SPECTATOR_SETTING_GLOWING_LORE:
-  - ' '
-  - §7Данная настройка отключит подсветку
-  - §7всех игроков на арене
-  - ' '
-  - §e▸ Нажмите, чтобы выключить
+- ' '
+- §7Данная настройка отключит подсветку
+- §7всех игроков на арене
+- ' '
+- §e▸ Нажмите, чтобы выключить
 SPECTATOR_SETTING_GLOWING_NAME: §cОтключить подсвечивание игроков
 SPECTATOR_SETTING_GLOW_HIDE: §6Наблюдение §8| §fВы подсветили всех игроков
 SPECTATOR_SETTING_GLOW_SHOW: §6Наблюдение §8| §fВы перестали подсвечивать всех игроков
 SPECTATOR_SETTING_GUI_TITLE: Настройки наблюдателя
 SPECTATOR_SETTING_HIDE_LORE:
-  - ' '
-  - §7Сейчас Вы видите других
-  - §7наблюдателей. После изменения
-  - §7этой настройки они будут скрыты
-  - §7для Вас.
-  - ' '
-  - §e▸ Нажмите, чтобы скрыть
+- ' '
+- §7Сейчас Вы видите других
+- §7наблюдателей. После изменения
+- §7этой настройки они будут скрыты
+- §7для Вас.
+- ' '
+- §e▸ Нажмите, чтобы скрыть
 SPECTATOR_SETTING_HIDE_NAME: §cСкрыть наблюдателей
 SPECTATOR_SETTING_HIDING: §6Наблюдение §8| §fВы не видите других наблюдателей
 SPECTATOR_SETTING_NOFLY_LORE:
-  - ' '
-  - §e▸ Нажмите, чтобы включить
+- ' '
+- §e▸ Нажмите, чтобы включить
 SPECTATOR_SETTING_NOFLY_NAME: §aВключить постоянный полет
 SPECTATOR_SETTING_NOSPEED_LORE:
-  - ' '
-  - §7Убирает скорость передвижения
+- ' '
+- §7Убирает скорость передвижения
 SPECTATOR_SETTING_NOSPEED_NAME: §cБез скорости
 SPECTATOR_SETTING_NO_GLOWING_LORE:
-  - ' '
-  - §7Данная настройка включит подсветку
-  - §7всех игроков на арене
-  - ' '
-  - §e▸ Нажмите, чтобы включить
+- ' '
+- §7Данная настройка включит подсветку
+- §7всех игроков на арене
+- ' '
+- §e▸ Нажмите, чтобы включить
 SPECTATOR_SETTING_NO_GLOWING_NAME: §aВключить подсвечивание игроков
 SPECTATOR_SETTING_NO_VISION_LORE:
-  - ' '
-  - §e▸ Нажмите, чтобы включить
+- ' '
+- §e▸ Нажмите, чтобы включить
 SPECTATOR_SETTING_NO_VISION_NAME: §aВключить ночное видение
 SPECTATOR_SETTING_SHOWN: §6Наблюдение §8| §fВы снова видите других наблюдателей
 SPECTATOR_SETTING_SHOW_LORE:
-  - ' '
-  - §7Сейчас Вы не видите других
-  - §7наблюдателей. После изменения
-  - §7этой настройки Вы снова сможете
-  - §7их видеть
-  - ' '
-  - §e▸ Нажмите, чтобы показать
+- ' '
+- §7Сейчас Вы не видите других
+- §7наблюдателей. После изменения
+- §7этой настройки Вы снова сможете
+- §7их видеть
+- ' '
+- §e▸ Нажмите, чтобы показать
 SPECTATOR_SETTING_SHOW_NAME: §aПоказать наблюдателей
 SPECTATOR_SETTING_SPEED_ALREADY:
-  - ' '
-  - §c▸ Вы уже выбрали эту скорость
+- ' '
+- §c▸ Вы уже выбрали эту скорость
 SPECTATOR_SETTING_SPEED_CLICK:
-  - ' '
-  - §e▸ Нажмите, чтобы изменить скорость
+- ' '
+- §e▸ Нажмите, чтобы изменить скорость
 SPECTATOR_SETTING_SPEED_LORE:
-  - ' '
-  - §7Изменяет скорость передвижения
-  - §7в зависимости от выбранного
-  - §7уровня
+- ' '
+- §7Изменяет скорость передвижения
+- §7в зависимости от выбранного
+- §7уровня
 SPECTATOR_SETTING_SPEED_NAME: §eСкорость %s
 SPECTATOR_SETTING_VISION_LORE:
-  - ' '
-  - §e▸ Нажмите, чтобы выключить
+- ' '
+- §e▸ Нажмите, чтобы выключить
 SPECTATOR_SETTING_VISION_NAME: §cВыключить ночное видение
 SPECTATOR_SETTING_VISION_OFF: §6Наблюдение §8| §fНочное видение выключено
 SPECTATOR_SETTING_VISION_ON: §6Наблюдение §8| §fНочное видение включено
 SPECTATOR_TEAM_LORE: '§7Команда: %s'
-NO_PREFIX_SET: §6Сервер §8| §cВы не можете сменить префикс во время игры
-YOU_DEAD: §cВы погибли
-YOU_DEAD_SPECTATOR: §7Теперь вы наблюдатель
-YOU_DIED_CLICK_TO_VOTE: '%s§fОцените карту, на которой Вы играли: '
-
-YOU_CAN_REJOIN: §fЕсли Вы были §cкикнуты§f, напишите §7/rejoin§f для повторного входа
-  в игру
-YOU_WERE_REJOINED: §aВы повторно вошли в игру на сервере %s
-YOU_CANNOT_RESUME: §cОшибка, Вы нигде не играли или сервер был перезагружен
 START_CHANNEL_GUI_NAME: Выбор карты
 START_GAME_ARENA: §fИгра начнется через §a%s §f%s
 START_GAME_SKYWARS_SOLO:
-  - §eВаша задача скинуть всех игроков
-  - §eи остаться на острове. Упал? Ну все, ты проиграл!
+- §eВаша задача скинуть всех игроков
+- §eи остаться на острове. Упал? Ну все, ты проиграл!
 START_GAME_TITLE: Останьтесь последним выжившим
 START_GUI_NAME: Выберите тип игры
 START_GUI_NO_SERVER1: §cОшибка, не могу найти
 START_GUI_NO_SERVER2: §cподходящие сервера
 START_SPECTATE_GUI_NAME: Наблюдение за игрой
 START_TITLE_MSG: СТАРТ
+TEAM_AQUA: Голубые
+TEAM_BLUE: Синие
+TEAM_DARK_AQUA: Бирюзовые
+TEAM_GAME_GLOBAL_CHAT_FORMAT: ' §8[%sВсем§8] '
+TEAM_GAME_LOCAL_CHAT_FORMAT: ' §8[%sКоманде§8] '
+TEAM_GRAY: Серые
+TEAM_GREEN: Зелёные
+TEAM_IS_BANABLE: §cКомандная игра запрещена у нас. Вы были исключены из игры
+TEAM_ITEM_LORE:
+- §7Используйте этот предмет,
+- §7чтобы выбрать свою команду
+TEAM_ITEM_NAME: §eВыбор команды
+TEAM_LIGHT_GREEN: Салатовые
+TEAM_LOSE: §fКоманда %s §fпроиграла (последний игрок погиб или покинул игру)
+TEAM_NAME: Команда
+TEAM_NO_TEAM: §c§lВнимание! §cОбразование союзов из нескольких команд запрещено.
+TEAM_ORANGE: Оранжевые
+TEAM_PINK: Розовые
+TEAM_PURPLE: Фиолетовые
+TEAM_RED: Красные
+TEAM_SELECTED: §fВы выбрали команду %s
+TEAM_SELECTOR_ALREADYIN:
+- ' '
+- §c▸ Вы уже в этой команде
+TEAM_SELECTOR_EMPTY: §7Игроков нет
+TEAM_SELECTOR_ENTRY: '%s [%s/%s]'
+TEAM_SELECTOR_FULL:
+- ' '
+- §c▸ В команде нет мест
+TEAM_SELECTOR_GUI_TITLE: Выбор команды
+TEAM_SELECTOR_PLAYERS: '§7Игроки в команде:'
+TEAM_SELECTOR_SELECT:
+- ' '
+- §e▸ Нажмите, чтобы выбрать
+TEAM_WHITE: Белые
+TEAM_YELLOW: Жёлтые
+TELEPORTER_CLICK_TO_TELEPORT:
+- ' '
+- §e▸ ЛКМ, чтобы телепортироваться
+- §e▸ ПКМ, чтобы следить от 1-ого лица
+TELEPORTER_GUI_TITLE: Телепортер
+TELEPORTER_PLAYER_DISTANCE: '§7Расстояние: §a%s §7блоков'
+TELEPORTER_PLAYER_HEALTH: '§7Здоровье: §a%s§4❤'
+TELEPORTER_PLAYER_KIT: '§7Выбранный набор: §e%s'
+TELEPORTER_PLAYER_PERK: '§7Выбранное умение: §e%s'
+TO_START_TITLE: §fДо старта
+TYPE_DOUBLES: Парный режим
+TYPE_ERROR: §cError!
+TYPE_MEGA: Командный режим
+TYPE_SOLO: Одиночный режим
+TYPE_TEAM: Командный режим
 WIN_PLAYER_BOARD: Победил игрок
 WIN_TEAM_BOARD: Победила команда
-RESTART_ARENA_MSG: §cРестарт арены, через 5 секунд вы будете перемещены в лобби
-FINAL_KILL: '%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!'
-QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§a%s§f)'
-GLOBAL_TEAM_GAME_CHAT_FORMAT: ' §8[§cВсем§8] '
-LOCAL_TEAM_GAME_CHAT_FORMAT: ' §8[§aКоманде§8] '
-SOLO_NO_TEAM: §c§lВнимание! §cКомандная игра запрещена на Solo режиме.
-SLOT_BUSY: §cПростите, но вы были перемещены в лобби, ваше место занял §r%s
-ONLY_DONATOR: §cОшибка, на арене только донатеры
-ARENA_BUSY: §cАрена заполнена, не хватает слотов? Купите §a§lEMERALD§c или выше
-ARENA_RESTART: §cСервер перезагружается...
-ARENA_START: §cИгра начинается...
-TO_START_TITLE: §fДо старта
-RESPAWN_SUBTITLE: §7Вы возродитесь через §c%s §7%s
-RESPAWN_TITLE: §aВы возродились
-DEATH_MSG_TITLE: §cВы погибли
-LOCATOR_ITEM_NAME: §aЛокатор
-PERK_ITEM_LORE:
-  - §7Используйте этот предмет,
-  - §7чтобы выбрать один из всевозможных
-  - §7умений на эту игру
-PERK_ITEM_NAME: §eУмения
-GAMEINFO_FORMAT: /gameinfo [канал]
-
-PERK_PURCHASE_MESSAGE: Вы приобрели умение §a%s §fза §a%s §f%s
-PERK_SELECTION_MESSAGE: Вы выбрали умение §a%s
+YOU_CANNOT_RESUME: §cОшибка, Вы нигде не играли или сервер был перезагружен
+YOU_CAN_REJOIN: §fЕсли Вы были §cкикнуты§f, напишите §7/rejoin§f для повторного входа
+  в игру
+YOU_DEAD: §cВы погибли
+YOU_DEAD_SPECTATOR: §7Теперь вы наблюдатель
+YOU_DIED_CLICK_TO_VOTE: '%s§fОцените карту, на которой Вы играли: '
+YOU_WERE_REJOINED: §aВы повторно вошли в игру на сервере %s

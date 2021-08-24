@@ -1,0 +1,56 @@
+ALREADY_BANNED: '%s §cis already banned'
+ALREADY_MUTED: '%s §cis already muted'
+BANINFO_FORMAT: /baninfo <nickname>
+BANINFO_MESSAGE: '§cModeration §8| §fData about punishment for %s:'
+BANS_PLAYERIP: IP address
+BANS_PLAYERNAME: player
+BAN_FORMAT: /ban <player name> <time/e> <reason>
+BAN_HISTORY_CAPTION: '§cAdministration §8| §fPunishment history: (§a%s pieces§f)'
+BAN_HISTORY_EMPTY: §cPunishment history is empty.
+BAN_HISTORY_FORMAT: /history <player name> <BAN/MUTE>
+BAN_REQUESTS_EMPTY: §cWaiting request on block not have.
+BAN_REQUEST_ALREADY_SENT: §cLock request this player already sent, waiting solutions
+BAN_REQUEST_LIST_GUI_ITEM_LORE:
+- ' '
+- '§7Nickname breaker-rules: §c%s'
+- '§7Time: §a%s'
+- ' '
+- '§7Reason block:'
+- §a%s
+- ' '
+- §e▸ LMB, to accept request
+- §e▸ RMB, to reject request
+BAN_REQUEST_LIST_GUI_ITEM_NAME: §eRequest from %s
+BAN_REQUEST_LIST_GUI_MAIN: Waiting request on blocked
+BAN_REQUEST_LIST_GUI_MAIN_LORE:
+- ' '
+- '§7Total requests: §e%s'
+BAN_REQUEST_NOT_FOUND: §cRequest with this ID not found or already closed
+BAN_REQUEST_REJECTED: §aRequest on block reject.
+BAN_REQUEST_SENT: §eYour lock request on this player sent to all online-moderators
+DEFAULT_BAN_TIME_SET: §cYou enter not valid time
+DEFAULT_MUTE_TIME_SET: §cYou enter not valid time
+DONT_HAVE_BANS_AND_MUTES: §cHas no ban or mute
+HISTORY_ENTRY: ' §f- §7Admin: §c%s §8| §7Reason: §c%s §8| §7Date: §c%s'
+KICK_DISCONNECT: '§cYou were thrown from the server\n\n§fThrew: §7%s\n§freason: §7%s'
+KICK_FORMAT: /kick <player name> <reason>
+MUTE_FORMAT: /mute <player name> <time/e> <reason>
+NOT_BANNED: '%s §cis not banned'
+NOT_MUTED: '%s §cis not muted'
+UNBAN_FORMAT: /unban <player name/ip>
+UNMUTE_FORMAT: /unmute <player name>
+YOU_ARE_MUTED:
+- §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- ' §cAccess to the chat has been blocked for %s'
+- ''
+- ' §7Before the expiration left §c%s'
+- ' §7Blocked: §c%s'
+- ''
+- ' §7Appeal a punishment can on forum:'
+- ' §b§nwww.lastcraft.net'
+- §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+YOU_CANT_BANHIM: §cYou cannot punish this player
+YOU_CANT_BANIP: §cYou cannot ban players by IP
+YOU_CANT_PUNISH_HIM: §cError, You cannot punish this player
+YOU_CANT_UNMUTE_HIM: §cError! You cannot unmute this player
+YOU_WERE_UNMUTED: §6Server §8| §fAccess to the chat was restored! You again can speak!

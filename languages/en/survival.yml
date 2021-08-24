@@ -1,0 +1,14 @@
+PROTECTION_FLAGS_GUI_NAME: Flags
+PROTECTION_FLAG_DISABLED: §6Anarchy §8| §fThis region has a §a%s flag
+PROTECTION_MEMBERS_GUI_NAME: Участники
+PROTECTION_PROFILE_FLAGS_LORE:
+- ' '
+- §7Buy new flags
+- §7to upgrade your private
+- ' '
+- §e▶ Click, to open menu
+PROTECTION_PROFILE_FLAGS_NAME: Custom Flags
+PROTECTION_UPGRADE_SIDE_SUCCES: §6Anarchy §8| §fPrivate §7%s §fsuccesfully extended
+  to §a%s §fblocks by coordinates §7X §fи §7Z
+PROTECTION_UPGRADE_SIDE_SUCCES_TO: §6Anarchy §8| §fPrivate §7%s §fextended to §a%s
+  §fblocks by coordinates §7X §fи §7Z §fby %s

@@ -1,0 +1,462 @@
+BOSS_BAR_LOBBY:
+- §fAMAZING §cDOWN §fOF PRICES! ALL PRICES WAS §aREDUCED §fBY §610%
+- §fBUY§e RANK §fAT §7► §6§lLAST-CRAFT.COM
+BOX_BUY_LORE:
+- §7Buy %s %s using %s %s
+- ''
+- §7Discount is §f%s
+- ''
+- §e▸ Click to buy
+BOX_EXP: §eexperience §f(§a+%s§f)
+BOX_GUI_HELP2_LORE:
+- '§7By playing in any minigame:'
+- §7 - For every §f5§7 wins - §bCosmetic Key
+- §7 - For every §f10§7 wins - §cGame Key
+- §7 - For every §f30§7 wins - §aGame (Cosmetic) Key
+- ''
+- §7If you have not enough keys whatever,
+- §7you always can buy them by currency.
+- §7Click §cRMB §7by key you need or
+- §7buy it at §flast-craft.com
+BOX_GUI_HELP2_NAME: §bHow to get the keys?
+BOX_GUI_HELP_LORE:
+- §7Use keys to find different items
+- §7from Loot Boxes.
+- ' '
+- §cThe more you open means the greater the chance
+- §cof finding something valuable!
+- ' '
+- '§7Approximate(§7§nstarting§7) chances for '
+- '§7finding items from Chest:'
+- ' §8• §eCommot§f(§e☆§f) §8- §763.5%'
+- ' §8• §bRare§f(§b☆☆§f) §8- §727%'
+- ' §8• §5Epic§f(§5☆☆☆§f) §8- §77%'
+- ' §8• §6Legendary§f(§6☆☆☆☆§f) §8- §72.5%'
+- ' '
+- §cMORE YOU OPEN MEAN GREATER CHANCES!
+BOX_GUI_HELP_NAME: §bHelp with keys
+BOX_GUI_LORE:
+- ''
+- '§7Keys availiable: §a%s'
+- ''
+- §e▸ LMB to open Chest
+- §e▸ RMB to buy keys
+BOX_GUI_NAME: Open Loot Box
+BOX_KEYS: §dKeys §f(§6+%s§f)
+BOX_KEY_NOT_BUY: §cThis key is not selling!
+BOX_MONEY: §aCoins §f(§6+%s§f)
+BOX_NAME: Lucky Chest
+BOX_NO_KEY: §cYou do not have keys
+BOX_OPEN_YOU: §fYou started opening a chest...
+BOX_SHOP_GUI_NAME: Buy keys
+BOX_SHOP_SELECT_LORE:
+- §7Buy keys using %s
+- ''
+- §e▸ Click to buy keys
+BOX_SUB_NAME: §7Click to open
+BOX_WINNER: §fYou have won %s§f item %s
+BOX_WINNER_OTHER: '%s §fhas won %s§f item %s'
+BOX_WORK: §cWait... Someone is opening the chest!
+CHANNEL_BEST_SERVER_LORE:
+- §7The choice of the most optimal
+- §7server for game.
+- ''
+- '§7Now this is:'
+- '§7 Server: §b%s'
+- '§7 Online: §a%s§7/§c%s'
+- '§7 Map: §e%s'
+- ''
+- §e▸ Click to connect to %s
+CHANNEL_BEST_SERVER_NAME: §eBest server
+CHANNEL_GUI_NAME: Select map %s
+CHANNEL_MAP_LORE1: '§7Total servers: §c%s'
+CHANNEL_MAP_LORE2: '§7Free servers: §c%s'
+CHANNEL_NOT_FOUND: §cChannel %s not found
+CHAT_LOBBY_OFF:
+- §4§lATTENTION! §cChat disabled!
+- §cYou can enable it in personal profile -> settings
+GAMEMENU_ANARCHY_LORE:
+- §8Survival
+- ''
+- §7Tired living by the rules?
+- §7Want show others,
+- §7that you are the most expirienced player
+- §7in Minecraft? On this mode
+- §7you can use your
+- §7cunning for personal gain!
+- §7Not given diamonds? Set fire to a house!
+- §7Killed? Explode their bunker!
+- §7This mode do not have rules
+- §7Well or almost..
+- ''
+- §cРаботают все блоки из 1.16
+GAMEMENU_ARCADE_LORE:
+- §8Arcade games
+- ''
+- '§7Mixed minigame:'
+- §f ▪ BuildBattle
+- §f ▪ HideAndSeek
+- §f ▪ SpeedBuilders §cIn development
+- §f ▪ ???
+- ''
+GAMEMENU_BEDWARS_LORE:
+- §8Battles on the islands
+- ''
+- §7There are 4 teams and 16 players on the map.
+- §7Each team has its own island and
+- §7own bed. Your task is to break
+- §7the enemy’s bed and defend his own.
+- §7The game continues until
+- §7On the map there will be only
+- §7One team.
+- ''
+GAMEMENU_CLICKCONNECT_LORE: Click to connect
+GAMEMENU_CREATIVE_LORE:
+- §8Plot world
+- ''
+- §7One of several gaming
+- §7modes in Minecraft, in which
+- §7players receive flight and
+- §7infinite amount of resources
+- §7for construction without regard for
+- §7health or hunger.
+- ''
+- §cРаботают все блоки из 1.16
+GAMEMENU_EGGWARS_LORE:
+- §8Battles on the islands
+- ''
+- §7Protect your egg and
+- §7try to destroy the opponents’
+- '§7eggs. The rules are very simple:'
+- §7fight against other teams,
+- §7improve generators and enjoy.
+- ''
+GAMEMENU_ITEM_NEW_NAME: §lNEW!
+GAMEMENU_ITEM_UPDATE_NAME: §lUPDATE!
+GAMEMENU_LOBBY_LORE:
+- §7Back to main lobby
+GAMEMENU_LOBBY_NAME: §bMain lobby
+GAMEMENU_LUCKYWARS_LORE:
+- §8Battles on the islands
+- ''
+- §7Try your luck with random
+- §7loot from Lucky-Blocks.
+- '§7You can get both expensive '
+- §7clothes, and get caught in
+- '§7a stupid trap. Way to success '
+- §7is one - survival!
+- ''
+GAMEMENU_NAME_GUI: Game selection
+GAMEMENU_ONLINE_LORE: §8%s %s is playing here
+GAMEMENU_PARKOUR_LORE:
+- §8Parkour
+- ''
+- §7The quietest of all games.
+- §7Perfect to pass away
+- §7time and compete with friends
+- §7on the passing maps.
+- ''
+GAMEMENU_SB_LORE:
+- §8Survival on the sky island
+- ''
+- §7SkyBlock - this is unusual
+- §7survival on flying
+- §7islands with a minimum
+- §7set of starting resources.
+- ''
+- §cРаботают все блоки из 1.16
+GAMEMENU_SKYWARS_LORE:
+- §8Battles on the islands
+- ''
+- §7You appear on the island,
+- §7and your goal is to throw off everyone
+- §7player on this map.
+- §7You do not have the right to make a mistake,
+- §71 step and you fly down.
+- ''
+GAMER_NO_GOLD: §6Server §8| §fError! You have not enough §6gold§f to open a Box! You
+  can buy some gold at §dlast-craft.com §7(click)
+GAMER_NO_KEYS: §6Server §8| §fError! You have not enough §akeys§f to open a Box! You
+  can buy some keys at §dlast-craft.com §7(click)
+GAMER_NO_MYSTERY_DUST: §6Server §8| §fError! You have not enough §acoins§f to open
+  a Box! You can buy some coins at §dlast-craft.com §7(click)
+GROUP_ALREADY_HAVE: §fYou already have it, you received §e+%s %s
+GUI_DONATE_GUI_ITEM_NAME: §bGeneral bonuses
+GUI_DONATE_GUI_NAME: Capabilities
+GUI_DONATE_ITEM_1_LORE:
+- ''
+- '§7Cost: §6%s Rubles'
+- ''
+- §e▸ Open the options menu
+GUI_DONATE_ITEM_1_NAME: Rank
+GUI_DONATE_ITEM_2_LORE:
+- '§7Purchase of status can be made through:'
+- ' §8▪ §fWebMoney, Qiwi, Yandex.Money'
+- ' §8▪ §fLIQPAY, MTS, Tele2, Beeline, MegaFon'
+- ' §8▪ §fSvyaznoy, Euroset, Alfa-bank'
+- ' §8▪ §fVisa, MasterCard and Maestro'
+- ''
+- §7Choose the status that interests you
+- §7and pay it in a way convenient for you
+GUI_DONATE_ITEM_2_NAME: §bPayment options
+GUI_DONATE_ITEM_3_LORE:
+- §7If it so happened that you want
+- §7buy a status status higher,
+- §7then we have good news for you,
+- §7in server work system of surcharge.
+- '§7The price of the new status will be '
+- '§7compiled by the formula: '
+- ' §f<The price of the new status> - '
+- ' §f<The price of your existing status> '
+- ''
+- §7For example, if you want to buy a status
+- §a§lEMERALD§7, and you already have §e§lGOLD§7,
+- §7then you have to pay ~ §c9 dollars§7.
+GUI_DONATE_ITEM_3_NAME: §bAdditional Information
+GUI_DONATE_MAIN_NAME: Privileges
+HIDER_COOLDOWN: §cClock overheated, left %s before chilling...
+HIDER_DISABLE_LORE:
+- §7Use this item,
+- §7to hide players
+HIDER_DISABLE_NAME: §cHide players
+HIDER_ENABLE_LORE:
+- §7Use this item,
+- §7to show players
+HIDER_ENABLE_NAME: §aShow players
+HUB_DISCORD_HOLO:
+- §fVoice server chat §7§lDiscord
+- §d§ldiscord.lastcraft.net
+HUB_HORSE_HOLO:
+- §eSled rental animals
+- Click, to get horse
+HUB_ITEM_LORE:
+- §7Use this item
+- §7to teleport back to main lobby
+HUB_ITEM_NAME: §eExit
+HUB_VK_HOLO:
+- §fCome in our group §7§lVK
+- §d§lvk.com/lastcraft
+ITEMS_LOBBY_DISABLE_LORE:
+- §7Click to enable
+ITEMS_LOBBY_ENABLE_LORE:
+- §7Click to disable
+ITEMS_LOBBY_FAST_LORE:
+- §7Convenient navigation on
+- §7maps and arenas of this mode
+ITEMS_LOBBY_FAST_NAME: §eFast start
+ITEMS_LOBBY_GADGETS_LORE:
+- §7Different things for
+- §7entertainment while in the lobby
+ITEMS_LOBBY_GADGETS_NAME: §eCosmetics
+ITEMS_LOBBY_PROFILE_LORE:
+- §7Helpful information
+ITEMS_LOBBY_PROFILE_NAME: §eProfile of
+ITEMS_LOBBY_SELECTORS_LORE:
+- §7Change lobby and
+- §7find your friends
+ITEMS_LOBBY_SELECTORS_NAME: §eLobby selector
+ITEMS_LOBBY_SELECTOR_LORE:
+- §7An universal device
+- §7for movement through
+- §7all server modes
+ITEMS_LOBBY_SELECTOR_NAME: §aGame menu
+ITEMS_LOBBY_SHOP_LORE:
+- §7Purchase of kits and upgrades
+- §7as well as an improvement of existing ones
+ITEMS_LOBBY_SHOP_NAME: §eShop
+JOIN_PLAYER_LO_LOBBY: '%s §fhas joined to the server'
+LOBBY_CHANNEL_BEST_SERVER_LORE:
+- §7Connect to most optimal
+- §7server to play
+- ''
+- §e§e▸ Click to find a server
+LOBBY_CHANNEL_BEST_SERVER_NAME: §eBest server
+LOBBY_CHANNEL_GUI_NAME: Select %s mode map
+LOBBY_CHANNEL_GUI_NO_SERVERS:
+- '§cError: no available'
+- §cserver was found
+LOBBY_CHANNEL_MAP_LORE:
+- '§7Total arenas: §c%s'
+- '§7Empty arenas: §c%s'
+LOBBY_DISABLED_MESSAGE_TO_CHAT: '§cError: you have disabled chat, you can not use
+  it!'
+LOBBY_SERVER_NOT_FOUND_LORE:
+- §7No one server with started
+- §7game was found
+LOBBY_SERVER_NOT_FOUND_NAME: §cStarted server not found
+LOBBY_SERVER_SPECTATE_LORE:
+- '§7Map: §b%s'
+- '§7Players: §a%s§7/§c%s'
+- ''
+- §e§e▸ Click to spectate a game
+LOBBY_SETTINGS_BLOOD_LORE:
+- §7Enable or disable
+- §7blood effects during the games
+LOBBY_SETTINGS_BLOOD_NAME: Blood
+LOBBY_SETTINGS_BOARD_LORE:
+- §7Enable or disable
+- §7scoreboard showing in
+- §7all lobbies
+LOBBY_SETTINGS_BOARD_NAME: Scoreboard
+LOBBY_SETTINGS_CHAT_LORE:
+- §7Enable or disable
+- §7reading and using chat feature
+LOBBY_SETTINGS_CHAT_NAME: Chat
+LOBBY_SETTINGS_DONATE_CHAT_LORE:
+- §7Enable or disable
+- §7chat of donaters (§8/dc§7)
+- §7through server
+LOBBY_SETTINGS_DONATE_CHAT_NAME: Chat of Dontaters
+LOBBY_SETTINGS_FLY_LORE:
+- §7Enable or disable
+- §7flying in main lobby
+LOBBY_SETTINGS_FLY_NAME: Fly
+LOBBY_SETTINGS_FRIENDS_REQUEST_LORE:
+- §7Enable or disable
+- §7seeing freindship requests feature
+LOBBY_SETTINGS_FRIENDS_REQUEST_NAME: Friend invites
+LOBBY_SETTINGS_GUILD_REQUEST_LORE:
+- §7Enable or disable
+- §7seeing join to guild invite feature
+LOBBY_SETTINGS_GUILD_REQUEST_NAME: Guild invites
+LOBBY_SETTINGS_HIDER_LORE:
+- §7Enable or disable
+- §7showing players in lobby feature
+LOBBY_SETTINGS_HIDER_NAME: Hide players
+LOBBY_SETTINGS_HUB_GLOWING_LORE:
+- §7Enable or disable
+- §7glowing of your character in lobby
+LOBBY_SETTINGS_HUB_GLOWING_NAME: Glowing
+LOBBY_SETTINGS_PARTY_REQUEST_LORE:
+- §7Enable or disable
+- §7seeing invites to party feature
+- ''
+- §cATTENTION! §7Your friends will be able
+- §7to invite you to party regardless of this setting
+LOBBY_SETTINGS_PARTY_REQUEST_NAME: Party invites
+LOBBY_SETTINGS_PRIVATE_MESSAGE_LORE:
+- §7Enable or disable
+- §7direct messages to you
+- ''
+- §cATTENTION! §7Your friends will be able
+- §7to text you regardless of this setting
+LOBBY_SETTINGS_PRIVATE_MESSAGE_NAME: Direct Messages
+LOBBY_SETTINGS_UNAVAILABLE:
+- ''
+- §cUnavailiable!
+- §7Availiable at %s §7or higher
+LOBBY_SETTINGS_VK_LEAK_LORE:
+- §7Enable or disable
+- §7showing of your VK profile feature
+- §7using /vk <nickname>
+LOBBY_SETTINGS_VK_LEAK_NAME: VKontakte
+LOBBY_SHOP_ITEM_LORE:
+- §7Click, to open shop
+LOBBY_SHOP_ITEM_NAME: §eShop
+LOBBY_SPECTATE_GUI_NAME: Spectate a game
+PARKOUR_ACTION_BAR: You are beating parkour §a%s §f%s
+PARKOUR_DISABLE_DISABLE: §6Parkour §8| §fYou left Parkour Challenge
+PARKOUR_DISABLE_FLY: §6Parkour §8| §cFlight mode is disabled while you beating Parkour
+  Challenge!
+PARKOUR_DISABLE_JUMP: §6Parkour §8| §cDouble Jumps is disabled while you beating Parkour
+  Challenge!
+PARKOUR_DISABLE_SIT: §6Parkour §8| §cYou can not use /sit while beating Parkour Challenge!
+PARKOUR_END_HOLO:
+- §6§lParkour
+- §fFinish Parkour Challenge
+- '§fReward: §6%s coins'
+PARKOUR_FINISH: §6Parkour §8| §fParkour Challenge complete in §a%s §f%s, and your
+  reward is §6%s coins
+PARKOUR_ITEM_LORE:
+- §7Use this item to teleport
+- §7to checkpoint §8(LMB)§7 or quit parkour §8(RMB)
+PARKOUR_ITEM_NAME: Parkour control
+PARKOUR_MISS_POINT: §6Parkour §8| §cYou have missed a checkpoint!
+PARKOUR_POINT_HOLO:
+- '§6§lCheckpoint #%s'
+- §fBe sure to step on the plate!
+PARKOUR_START: §6Parkour §8| §fParkour Challenge started. You will find §a%s§f checkpoint(s)
+  and your reward for completion is §6%s coins
+PARKOUR_START_HOLO:
+- §6§lParkour
+- §fStart Parkour Challenge
+- '§fReward: §6%s coins'
+PARKOUR_START_TITLE: §eParkour Challenge started
+PARKOUR_TO_POINT: §6Parkour §8| §fTelepoting to previous checkpoint...
+PROFILE_BACK_ITEM_LORE:
+- §7Click to return to main menu
+PROFILE_BACK_ITEM_LORE2:
+- §7Click to return
+PROFILE_BACK_ITEM_NAME: §cBack
+PROFILE_DONATE_MENU_LORE:
+- §7Customization of the player on the gaming
+- §7arenas. You can choose the color prefix,
+- §7arrow effects, death rattle
+- §7and much more.
+- ''
+- §e▸ Open the donate menu
+PROFILE_DONATE_MENU_NAME: Donators menu
+PROFILE_LANG_ITEM_LORE1: §7Change language to %s
+PROFILE_LANG_ITEM_LORE2: §e▸ Click to change language
+PROFILE_LANG_ITEM_LORE3: §aSelected
+PROFILE_MAIN_GUI_NAME: Profile
+PROFILE_MAIN_ITEM_COSMETIC_LORE:
+- '§7Buy and activate different cosmetical improvements:'
+- §fDeath rattle§7, §fArrow effects§7,
+- §fKill effects§7, §fWinner effect§7 etc.
+- §7
+- §cATTENTION! All effects will work
+- §cin all arenas and games!
+- ''
+- §e▸ Open improvements menu
+PROFILE_MAIN_ITEM_COSMETIC_NAME: Effects shop
+PROFILE_MAIN_ITEM_DONATE_LORE:
+- §7Detailed information about the features
+- §7privileges and their purchase
+- ''
+- §e▸ Open the donation menu
+PROFILE_MAIN_ITEM_DONATE_NAME: Donate
+PROFILE_MAIN_ITEM_INFO_LORE:
+- §7Useful information for
+- §7games on the server
+- ''
+- §e▸ Open the information menu
+PROFILE_MAIN_ITEM_INFO_NAME: Help
+PROFILE_MAIN_ITEM_LANG_LORE1:
+- §7Change default server language
+- §7Translation and language will be added if the future!
+- ''
+- '§7Availiable at this moment:'
+PROFILE_MAIN_ITEM_LANG_LORE2:
+- ''
+- §cTranslation and languages will be supplemented!
+- ''
+- §e▸ Open the language menu
+PROFILE_MAIN_ITEM_LANG_NAME: Switch language
+PROFILE_MAIN_ITEM_LEVEL_LORE:
+- §7While playing on the server you get
+- §7XP which is necessary
+- §7to raise your level
+- §7and receive special awards.
+- ''
+- '§7Level: §d%s %s §6%s'
+- ''
+- '§7To the next level: §a%s XP'
+- ''
+- §e▸ Open leveling rewards menu
+PROFILE_MAIN_ITEM_LEVEL_NAME: Leveling
+PROFILE_MAIN_ITEM_PLAYER_NAME: §bGeneral information
+PROFILE_MAIN_ITEM_SETTINGS_LORE:
+- §7Personal settings
+- ''
+- §e▸ Open the settings menu
+PROFILE_MAIN_ITEM_SETTINGS_NAME: Settings
+PROFILE_STATS_GUI_NAME: Stats
+PROFILE_STATS_GUI_NAME2: Stats player
+SELECTOR_ITEM_LORE1:
+- §7You are here
+SELECTOR_ITEM_LORE2:
+- §7Online %online% §7players
+SELECTOR_NAME_GUI: Selector lobby
+TITLE_JOIN_LOBBY: §fLastCraft §9Discord §fserver
+WELCOME_TITLE: §fWelcome!

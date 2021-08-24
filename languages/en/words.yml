@@ -1,0 +1,96 @@
+AVAILABLE_1:
+- Available
+- ''
+- ''
+- ''
+GOLD_1:
+- gold
+- s
+- s
+- s
+HOMES_1:
+- house
+- а
+- ов
+- ов
+HOMES_2:
+- House
+- ''
+- а
+- ов
+KEYS_1:
+- key
+- s
+- s
+- s
+KILLS_STAT: Kills
+MAPS_1:
+- map
+- s
+- s
+- s
+MONEY_1:
+- coin
+- s
+- s
+- s
+MONEY_2:
+- coin
+- s
+- s
+- s
+PLAYERS_1:
+- player
+- s
+- s
+- s
+REPORTS_1:
+- reports
+- s
+- s
+- ''
+RETRIES_1:
+- attemp
+- ''
+- s
+- s
+REWARDS_1:
+- reward
+- ''
+- s
+- s
+TIME_DAY_1:
+- d
+- ay
+- ays
+- ays
+TIME_HOURS_1:
+- hour
+- ''
+- s
+- s
+TIME_MINUTES_1:
+- minute
+- ''
+- s
+- s
+TIME_SECOND_1:
+- second
+- s
+- s
+- s
+TIME_SECOND_2:
+- second
+- ''
+- s
+- s
+WARPS_1:
+- warp
+- ''
+- s
+- s
+WINS_1:
+- win
+- ''
+- s
+- s

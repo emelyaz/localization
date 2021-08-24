@@ -1,13 +1,3 @@
-JOIN_MESSAGE_LORE:
-  - §7Установить кастомное оповещение
-  - §7для всех игроков о вашем входе на сервер
-  - ''
-  - '§7Оповещение для игроков:'
-  - '%s'
-JOIN_MESSAGE_LORE_NOT_AVAILABLE: §cДанное сообщение вам не доступно
-JOIN_MESSAGE_LORE_NOT_SELECT: §e▸ Нажмите, чтобы выбрать
-JOIN_MESSAGE_LORE_SELECT: §aСообщение выбрано
-JOIN_MESSAGE_NAME: Сообщение %s
 DONATE_MENU_FAST_MESSAGE_LORE:
 - §7Покажи всем какой ты сегодня,
 - §7используя эти быстрые сообщения.
@@ -72,8 +62,8 @@ FAST_MESSAGE_KILLED: Убит
 FAST_MESSAGE_LAGS: Лагает
 FAST_MESSAGE_LORE1: '§7Сообщение: §a%s'
 FAST_MESSAGE_LORE2:
-  - ''
-  - §e▸ Нажмите, чтобы отправить сообщение
+- ''
+- §e▸ Нажмите, чтобы отправить сообщение
 FAST_MESSAGE_LOVE: Люблю
 FAST_MESSAGE_MAJOR: Мажор
 FAST_MESSAGE_MUSIC: Слушаю музыку
@@ -85,3 +75,13 @@ FAST_MESSAGE_WHY: Чее?
 FAST_MESSAGE_WOW: Вау, клёво
 FAST_MESSAGE_WTF: ВТФ???
 FAST_MESSAGE_XZ: Хз
+JOIN_MESSAGE_LORE:
+- §7Установить кастомное оповещение
+- §7для всех игроков о вашем входе на сервер
+- ''
+- '§7Оповещение для игроков:'
+- '%s'
+JOIN_MESSAGE_LORE_NOT_AVAILABLE: §cДанное сообщение вам не доступно
+JOIN_MESSAGE_LORE_NOT_SELECT: §e▸ Нажмите, чтобы выбрать
+JOIN_MESSAGE_LORE_SELECT: §aСообщение выбрано
+JOIN_MESSAGE_NAME: Сообщение %s

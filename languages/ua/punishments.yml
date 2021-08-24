@@ -1,0 +1,57 @@
+ALREADY_BANNED: §cПомилка, гравець %s §cвже заблокований
+ALREADY_MUTED: §cЧат гравця %s §cвже заблокований
+BANINFO_FORMAT: /baninfo <нік>
+BANINFO_MESSAGE: '§cМодерація §8| §fДані про покарання для %s:'
+BANS_PLAYERIP: IP адреса
+BANS_PLAYERNAME: гравця
+BAN_FORMAT: /ban <нік> <час/e> <причина>
+BAN_HISTORY_CAPTION: '§cАдміністрування §8| §fІсторія покарань: (§a%s шт.§f)'
+BAN_HISTORY_EMPTY: §cІсторія покарань порожня
+BAN_HISTORY_FORMAT: /history <нік> <BAN/MUTE>
+BAN_REQUESTS_EMPTY: §cОчікующіх запитів на блокування немає.
+BAN_REQUEST_ALREADY_SENT: §cПрохання заблокувати даного гравця вже відправлялось,
+  чекайте рішення
+BAN_REQUEST_LIST_GUI_ITEM_LORE:
+- ' '
+- '§7Нік порушника: §c%s'
+- '§7Термін: §a%s'
+- ' '
+- '§7Причина блокування:'
+- §a%s
+- ' '
+- §e▸ ЛКМ, щоб прийняти запит
+- §e▸ ПКМ, щоб відхилити запит
+BAN_REQUEST_LIST_GUI_ITEM_NAME: §eЗапит від %s
+BAN_REQUEST_LIST_GUI_MAIN: Очікующих запитів на блокування
+BAN_REQUEST_LIST_GUI_MAIN_LORE:
+- ' '
+- '§7Всього запитів: §e%s'
+BAN_REQUEST_NOT_FOUND: §cЗапит з таким ID не знайдений або вже зачиненний
+BAN_REQUEST_REJECTED: §aЗапит на блокування відхилений.
+BAN_REQUEST_SENT: §eВаше прохання заблокувати даного гравця відправлена всім онлайн-модераторам
+DEFAULT_BAN_TIME_SET: §cВи ввели некоректний час
+DEFAULT_MUTE_TIME_SET: §cВи ввели некоректний час
+DONT_HAVE_BANS_AND_MUTES: §cНе в бані та не в муті
+HISTORY_ENTRY: ' §f- §7Адміністратор: §c%s %s §8| §7Причина: §c%s §8| §7Дата: §c%s'
+KICK_DISCONNECT: '§cВас викинули з сервера\n\n§fВикинув: §7%s\n§fПричина: §7%s'
+KICK_FORMAT: /kick <нік> <причина>
+MUTE_FORMAT: /mute <нік> <час/e> <причина>
+NOT_BANNED: '%s §cне заблокований'
+NOT_MUTED: §cЧат гравця %s §cне заблокований
+UNBAN_FORMAT: /unban <нік/ip>
+UNMUTE_FORMAT: /unmute <нік>
+YOU_ARE_MUTED:
+- §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- ' §cДоступ до чату був заблокований за %s'
+- ''
+- ' §7До закінчення залишилось §c%s'
+- ' §7Заблокував: §c%s'
+- ''
+- ' §7Оскаржити покарання можно на форумі:'
+- ' §b§nwww.lastcraft.net'
+- §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+YOU_CANT_BANHIM: §cВи не можете покарати даного гравця
+YOU_CANT_BANIP: §cВи не можете банити гравців по IP
+YOU_CANT_PUNISH_HIM: §cПомилка, Ви не можете покарати даного гравця
+YOU_CANT_UNMUTE_HIM: §cПомилка! Ви не можете зняти блокування чату з даного гравця
+YOU_WERE_UNMUTED: §6Сервер §8| §fДоступ до чату був відновлений! Ви знову можете говорити!

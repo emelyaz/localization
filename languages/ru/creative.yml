@@ -1,4 +1,4 @@
-ROLL_BROADCAST: §6Creative §8| §fИгроку %s §fвыпало число §a%s §fиз §e%s
-ME_FORMAT: /me <сообщение>
 DO_FORMAT: /do <сообщение>
+ME_FORMAT: /me <сообщение>
+ROLL_BROADCAST: §6Creative §8| §fИгроку %s §fвыпало число §a%s §fиз §e%s
 TRY_FORMAT: /try <сообщение>

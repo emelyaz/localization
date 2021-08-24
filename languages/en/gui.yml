@@ -1,0 +1,154 @@
+GUI_ANOTHER_LOBBY:
+- ''
+- '§7Online: §a%s'
+- ''
+- ' §e▸ Click here to connect'
+GUI_ANOTHER_LOBBY_FRIENDS:
+- ''
+- '§7Online: §a%s'
+- ''
+- '§7Friends in lobby:'
+- ' §e▸ Click here to connect'
+GUI_HELP_ITEM_10_LORE:
+- §7Unite in group with other
+- §7players and play together.
+- ''
+- §7You can to enter general bank with money,
+- §7instant create group(§cparty§7),
+- §7customize permissions
+- §7for every member
+- §7
+- §7Write §e/guild §7and create your guild!
+- §7
+- §cATTENTION! Guild creation cost
+- §c20.000 coins and available only for §c§lMAGMA
+- §cYou need level 10+ to join the guild!
+GUI_HELP_ITEM_10_NAME: §bGuilds
+GUI_HELP_ITEM_1_LORE:
+- '§7Useful commands for playing on the server:'
+- ''
+- §e/hub §7or §e/lobby §7- Return to main lobby
+- §e/online §7- Online from all servers
+- §e/find <Nickname> §7- Find a player
+GUI_HELP_ITEM_1_NAME: §bNavigation
+GUI_HELP_ITEM_2_LORE:
+- '§7List of paid statuses:'
+- ' §8▪ §e§lGOLD §7~ §f1.7 Dollars'
+- ' §8▪ §b§lDIAMOND §7~ §f4.7 Dollars'
+- ' §8▪ §a§lEMERALD §7~ §f9 Dollars'
+- ' §8▪ §c§lMAGMA §7~ §f14 Dollars'
+- ' §8▪ §7§lSHULKER §7~ §f32.5 Dollars'
+- ''
+- §7A detailed description of the donate you can
+- §7find in section named §fProfile ? Donate
+- ''
+- §7You can buy status
+- §7Online §dwww.last-craft.net
+GUI_HELP_ITEM_2_NAME: §bPrivileges
+GUI_HELP_ITEM_3_LORE:
+- §7For a comfortable game with friends
+- §7use the commands below
+- ''
+- §e/f add <Nickname> §7- Add a friend
+- §e/f remove <Nickname> §7- Delete a player from friends list
+- §e/f list §7- Friend list
+- ''
+- §7Also you can create party to teleport
+- §7to the same server together
+- §7You can use the commands below
+- ''
+- §e/party <nickname> §7- Invite player to a party
+- §e/party kick <nickname> §7- Kick player from a party
+- §e/party list §7- List of players in a party
+- ''
+- §7More info about friends or party system
+- §7can be found by typing §e/friends §7or §e/party
+- ''
+- §7A regular player has a maximum of §c20§7 friends!
+GUI_HELP_ITEM_3_NAME: §bPlaying with friends
+GUI_HELP_ITEM_4_LORE:
+- §7After registration we recommend
+- '§7to link your email to your account:'
+- §e/email add <email> <confirm email>
+- ''
+- '§7To change the password, use:'
+- §e/changepassword <Old password> <New password>
+- ''
+- '§7If you lose your password, type the command:'
+- §e/email <Email>
+- §7A new password will be sent to your mail
+- ''
+- §7Also we recommend to use Google Authenticator
+- §7to maximize your account security
+- §7Type §e/gauth §7and scan QR Code in your
+- §7Google Authenticator application.
+- ''
+- §7GAuth will ask you a code after
+- §7every login (except session login)
+GUI_HELP_ITEM_4_NAME: §bAccount Security
+GUI_HELP_ITEM_5_LORE:
+- §7We have a skin system
+- §7that allows you to install
+- §7any skin of any player if you have a premium account
+- ''
+- §e/skin <player> §7- Set the skin of a player
+- §e/skin reset §7- Reset your skin
+- ''
+- §7Skin changes immediately. You do not
+- §7need to relog
+- ''
+- §cATTENTION! We are using
+- §cely.by skin system
+GUI_HELP_ITEM_5_NAME: §bSkin set
+GUI_HELP_ITEM_6_LORE:
+- §7If you want to write a specific
+- §7message to a specific player, then
+- §7use the command
+- §e/msg <players> <message>
+- §7For a quick response to the received message
+- §7you can use the command
+- §e/reply <message>
+- ''
+- §7If you do not want to receive
+- §7personal messages from a certain
+- §7player, then disable it
+- '§7By writing a command in chat: §e/ignore <player>'
+- ''
+- §e/ignorelist §7- List of all
+- §7blocked players
+GUI_HELP_ITEM_6_NAME: §bCommunication
+GUI_HELP_ITEM_7_LORE:
+- '§7Server Address: §eplay.lastcraft.net'
+- ''
+- '§7VK community: §fvk.com/lastcraft'
+- ''
+- '§7Website: §flast-craft.com'
+- '§7Forum: §flastcraft.net'
+- ''
+- '§7E-mail: §dsupport@lastcraft.net'
+GUI_HELP_ITEM_7_NAME: §bLinks
+GUI_HELP_ITEM_8_NAME: §bAwards for victory
+GUI_HELP_ITEM_9_LORE:
+- §7If you want to play with friends,
+- §7this option (§cparty§7) special for you.
+- §7When party leader go to some
+- §7arena, everyone party members automatically
+- §7teleport to him.
+- ''
+- '§7To create your party '
+- §7You can write §e/party <nickname>
+- §7After you can invite
+- §7into party others players.
+- ''
+- §7If you want to leave party,
+- §7write §e/party leave
+- ''
+- §cATTENTION! Maximum amount party
+- §cmembers no more 10 people!
+GUI_HELP_ITEM_9_NAME: §bCollective game
+GUI_HELP_NAME: Information
+GUI_LOBBY_FRIEND_MAX: §7and  others...
+GUI_LOBBY_ON:
+- ''
+- §7You are here
+GUI_LOBBY_SELECTOR: Lobby selection
