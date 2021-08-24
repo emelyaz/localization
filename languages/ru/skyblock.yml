@@ -1,6 +1,6 @@
 SKYBLOCK_PREFIX: '§6SkyBlock §8| §f'
-ISLAND_ACCEPT: Вы приняли запрос от игрока %s §fи стали участником острова %s
-ISLAND_ACCEPT_WHO: Игрок %s §fпринял ваш запрос и стал участником вашего острова
+ISLAND_ACCEPT: $SKYBLOCK_PREFIX$Вы приняли запрос от игрока %s §fи стали участником острова %s
+ISLAND_ACCEPT_WHO: $SKYBLOCK_PREFIX$Игрок %s §fпринял ваш запрос и стал участником вашего острова
 ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
 - §8 • §7Стоек для брони §fх10
 ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
@@ -145,7 +145,7 @@ ISLAND_ADD_PLAYER_REQUEST_1: ' %s §fпредлагает вам играть в
 ISLAND_ADD_PLAYER_REQUEST_2: ' §fДля принятия запроса пишите '
 ISLAND_ADD_PLAYER_REQUEST_3: ' §fДля отмены запроса пиши '
 ISLAND_ADD_PLAYER_REQUEST_4: ' §fУ вас есть §a120 §fсекунд, чтобы его принять'
-ISLAND_ADD_REQUEST: §fПриглашение отправлено игроку %s
+ISLAND_ADD_REQUEST: $SKYBLOCK_PREFIX$Приглашение отправлено игроку %s
 ISLAND_ALREADY_CREATE: $SKYBLOCK_PREFIX$Ошибка, у вас уже есть остров. Чтобы попасть
   на свой остров напишите §7/island home
 ISLAND_BASALT_GENERATOR_UPGRADE: Улучшение генератора базальта
@@ -278,8 +278,8 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - §e▸ Нажмите ПКМ, чтобы купить за золото
 ISLAND_BUY_UPGRADE_TERRITORY: $SKYBLOCK_PREFIX$Игрок %s §fкупил расширение территории
   острова
-ISLAND_CANCEL: Вы отклонили запрос на совместное сожительство от игрока %s
-ISLAND_CANCEL_YOU: Игрок %s §fотклонил ваш запрос
+ISLAND_CANCEL: $SKYBLOCK_PREFIX$Вы отклонили запрос на совместное сожительство от игрока %s
+ISLAND_CANCEL_YOU: $SKYBLOCK_PREFIX$Игрок %s §fотклонил ваш запрос
 ISLAND_CLASSIC_LORE:
 - ' '
 - §7Самый обычный остров.

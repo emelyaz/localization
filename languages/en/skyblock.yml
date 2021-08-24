@@ -1,7 +1,7 @@
 SKYBLOCK_PREFIX: '§6SkyBlock §8| §f'
-ISLAND_ACCEPT: You have accepted a request from player %s §fand have become a member
+ISLAND_ACCEPT: $SKYBLOCK_PREFIX$You have accepted a request from player %s §fand have become a member
   of an island %s
-ISLAND_ACCEPT_WHO: Player %s §fhas accepted your request and has become a member of
+ISLAND_ACCEPT_WHO: $SKYBLOCK_PREFIX$Player %s §fhas accepted your request and has become a member of
   your island
 ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
 - §8 • §7Armor racks §fх10
@@ -202,8 +202,8 @@ ISLAND_BUY_UPGRADE:
 - §7this upgrade ?
 - ' '
 ISLAND_BUY_UPGRADE_GUI_NAME: Buy upgrade ?
-ISLAND_CANCEL: You have declined a request to live together sent by %s
-ISLAND_CANCEL_YOU: Player %s §fhas declined your request
+ISLAND_CANCEL: $SKYBLOCK_PREFIX$You have declined a request to live together sent by %s
+ISLAND_CANCEL_YOU: $SKYBLOCK_PREFIX$Player %s §fhas declined your request
 ISLAND_CLICK_TO_SET_BIOME: §e▸ Click, to select biome
 ISLAND_CLOSED: $SKYBLOCK_PREFIX$This island is close and teleport to it impossible!
   Ask for owner disable flag §cprivacy

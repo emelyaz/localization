@@ -1,6 +1,6 @@
 SKYBLOCK_PREFIX: '§6SkyBlock §8| §f'
-ISLAND_ACCEPT: Ви прийняли запит від гравця %s §fта стали участником острова %s
-ISLAND_ACCEPT_WHO: Гравець %s §fприйняв ваш запит і став участником вашого острова
+ISLAND_ACCEPT: $SKYBLOCK_PREFIX$Ви прийняли запит від гравця %s §fта стали участником острова %s
+ISLAND_ACCEPT_WHO: $SKYBLOCK_PREFIX$Гравець %s §fприйняв ваш запит і став участником вашого острова
 ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
 - §8 • §7Стійок для броні §fх10
 ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
@@ -203,8 +203,8 @@ ISLAND_BUY_UPGRADE:
 - §7дане поліпшення ?
 - ' '
 ISLAND_BUY_UPGRADE_GUI_NAME: Купити поліпшення ?
-ISLAND_CANCEL: Ви відхилили запит на спільне співжиття від гравця %s
-ISLAND_CANCEL_YOU: Гравець %s §fвідхилив ваш запит
+ISLAND_CANCEL: $SKYBLOCK_PREFIX$Ви відхилили запит на спільне співжиття від гравця %s
+ISLAND_CANCEL_YOU: $SKYBLOCK_PREFIX$Гравець %s §fвідхилив ваш запит
 ISLAND_CLICK_TO_SET_BIOME: §e▸ Натисніть, щоб обрати біом
 ISLAND_CLOSED: $SKYBLOCK_PREFIX$Даний острів закритий та телепортація на нього неможлива!
   Попросіть власника відключити прапор §cприватність

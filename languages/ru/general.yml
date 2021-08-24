@@ -666,3 +666,113 @@ YOU_DISABLED_DONATECHAT: §cВы отключили чат донатеров. �
 YOU_HAVE_BEEN_SENT: §6Сервер §8| %s §fтелепортировал вас на сервер §c%s
 YOU_HAVE_DONATECHAT_COOLDOWN: §cПисать в чат донатеров можно раз в 30 секунд
 YOU_REWARD_MSG: Вы заработали
+DAMAGE_CAUSE_BOW: '%s§f застрелен'
+DAMAGE_CAUSE_BOW_TO: '%s§f застрелен игроком %s'
+DAMAGE_CAUSE_BURN: '%s§f сгорел заживо'
+DAMAGE_CAUSE_BURN_TO: '%s§f был сожжён дотла, пока боролся с %s'
+DAMAGE_CAUSE_CACTUS: '%s§f исколот до смерти'
+DAMAGE_CAUSE_CACTUS_TO: '%s§f наткнулся на кактус, спасаясь от %s'
+DAMAGE_CAUSE_CONTACT: '%s§f исколот до смерти'
+DAMAGE_CAUSE_CONTACT_TO: '%s§f наткнулся на кактус, спасаясь от %s'
+DAMAGE_CAUSE_DROP: '%s§f разбился насмерть'
+DAMAGE_CAUSE_DROP_TO: '%s§f был скинут игроком %s'
+DAMAGE_CAUSE_DROWNING: '%s§f утонул'
+DAMAGE_CAUSE_DROWNING_TO: '%s§f утонул, спасаясь от %s'
+DAMAGE_CAUSE_ENTITY_EXPLOSION: '%s§f взорвался'
+DAMAGE_CAUSE_ENTITY_EXPLOSION_TO: '%s§f был взорван игроком %s'
+DAMAGE_CAUSE_EXPLOSION: '%s§f взорвался'
+DAMAGE_CAUSE_EXPLOSION_TO: '%s§f был взорван игроком %s'
+DAMAGE_CAUSE_FALL: '%s§f разбился насмерть'
+DAMAGE_CAUSE_FALL_TO: '%s§f был скинут игроком %s'
+DAMAGE_CAUSE_FIRE: '%s§f сгорел заживо'
+DAMAGE_CAUSE_FIRE_TICK: '%s§f сгорел заживо'
+DAMAGE_CAUSE_FIRE_TICK_TO: '%s§f был сожжён дотла, пока боролся с %s'
+DAMAGE_CAUSE_FIRE_TO: '%s§f был сожжён дотла, пока боролся с %s'
+DAMAGE_CAUSE_KILLED: '%s§f решил покинуть наш мир'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f был убит туманным зельем'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f был убит туманным зельем игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_ARROW: '%s§f был застрелен'
+DAMAGE_CAUSE_KILLED_BY_ARROW_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_BLAZE: '%s§f был испепелён ифритом'
+DAMAGE_CAUSE_KILLED_BY_BLAZE_OF: '%s§f был испепелён ифритом игрока %s'
+DAMAGE_CAUSE_KILLED_BY_CREEPER: '%s§f был убит взрывом крипера'
+DAMAGE_CAUSE_KILLED_BY_CREEPER_OF: '%s§f был убит взрывом крипера игрока %s'
+DAMAGE_CAUSE_KILLED_BY_EGG_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_ENDER_PEARL: '%s§f был убит об удар о жемчуг эндера'
+DAMAGE_CAUSE_KILLED_BY_ENDER_PEARL_OF: '%s§f был убит об удар о жемчуг эндера игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN: '%s §fопробовал на себе лазер стража'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN_OF: '%s §fопробовал на себе лазер стража игрока %s'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f испытал на себе фокусы иллюзиониста'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f испытал на себе фокусы иллюзиониста игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM: '%s§f погиб в объятиях железного голема'
+DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM_OF: '%s§f погиб в объятиях железного голема игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f был убит разъярённым зевсом'
+DAMAGE_CAUSE_KILLED_BY_LIGHTNING_OF: '%s§f был убит молнией игрока %s'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f был убит туманным зельем'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f был убит туманным зельем игрока
+  %s'
+DAMAGE_CAUSE_KILLED_BY_PIG_ZOMBIE: '%s§f был убит свинозомби'
+DAMAGE_CAUSE_KILLED_BY_PIG_ZOMBIE_OF: '%s§f был убит свинозомби игрока %s'
+DAMAGE_CAUSE_KILLED_BY_PRIMED_TNT: '%s§f взорвался'
+DAMAGE_CAUSE_KILLED_BY_PRIMED_TNT_OF: '%s§f был взорван игроком %s'
+DAMAGE_CAUSE_KILLED_BY_SHULKER: '%s§f отправился на небеса шалкером'
+DAMAGE_CAUSE_KILLED_BY_SHULKER_OF: '%s§f отправился на небеса шалкером игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SILVERFISH: '%s§f был убит глупой чешуйницей'
+DAMAGE_CAUSE_KILLED_BY_SILVERFISH_OF: '%s§f был убит глупой чешуйницей игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SKELETON: '%s§f был убит, пытаясь увернуться от стрел скелета'
+DAMAGE_CAUSE_KILLED_BY_SKELETON_OF: '%s§f был убит, пытаясь увернуться от стрел скелета
+  игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SLIME: '%s§f был раздавлен злым слаймом'
+DAMAGE_CAUSE_KILLED_BY_SLIME_OF: '%s§f был раздавлен злым слаймом игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SNOWBALL_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW: '%s§f был застрелен'
+DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_SPIDER: '%s§f погиб от укуса паука'
+DAMAGE_CAUSE_KILLED_BY_SPIDER_OF: '%s§f был убит пауками игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SPLASH_POTION: '%s§f погиб от магии'
+DAMAGE_CAUSE_KILLED_BY_SPLASH_POTION_OF: '%s§f погиб от магии игрока %s'
+DAMAGE_CAUSE_KILLED_BY_TIPPED_ARROW_OF: '%s§f был застрелен игроком %s'
+DAMAGE_CAUSE_KILLED_BY_VEX: '%s§f был растерзан стаей вредин'
+DAMAGE_CAUSE_KILLED_BY_VEX_OF: '%s§f был растерзан стаей вредин игрока %s'
+DAMAGE_CAUSE_KILLED_BY_WOLF: '%s§f был растерзан волками'
+DAMAGE_CAUSE_KILLED_BY_WOLF_OF: '%s§f был растерзан волками игрока %s'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE: '%s§f был убит, спасаясь от зомби'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF: '%s§f был убит, спасаясь от зомби игрока %s'
+DAMAGE_CAUSE_KILLED_OF: '%s§f был убит игроком %s'
+DAMAGE_CAUSE_KILLED_OF_PLAYER: '%s§f был убит игроком %s'
+DAMAGE_CAUSE_KILLED_OF_PLAYERS: '%s§f был убит игроками %s'
+DAMAGE_CAUSE_KILLED_TO: '%s§f был убит игроком %s'
+DAMAGE_CAUSE_LAVA: '%s§f решил поплавать в лаве'
+DAMAGE_CAUSE_LAVA_TO: '%s§f упал в лаву, убегая от %s'
+DAMAGE_CAUSE_MAGIC: '%s§f был убит с помощью магии'
+DAMAGE_CAUSE_MAGIC_TO: '%s§f был убит с помощью магии игроком %s'
+DAMAGE_CAUSE_OUT: '%s§f выпал из мира'
+DAMAGE_CAUSE_OUT_TO: '%s§f выпал из мира, пока боролся с %s'
+DAMAGE_CAUSE_PROJECTILE: '%s§f застрелен'
+DAMAGE_CAUSE_PROJECTILE_TO: '%s§f застрелен игроком %s'
+DAMAGE_CAUSE_SUCIDE: '%s§f решил покончить жизнь самоубийством'
+DAMAGE_CAUSE_SUICIDE: '%s§f решил покончить жизнь самоубийством'
+DAMAGE_CAUSE_SWIM: '%s§f утонул'
+DAMAGE_CAUSE_SWIM2: '%s§f решил поплавать в лаве'
+DAMAGE_CAUSE_SWIM2_TO: '%s§f упал в лаву, убегая от %s'
+DAMAGE_CAUSE_SWIM_TO: '%s§f утонул, спасаясь от %s'
+DAMAGE_CAUSE_VOID: '%s§f выпал из мира'
+DAMAGE_CAUSE_VOID_TO: '%s§f выпал из мира, пока боролся с %s'
+DENCHANTMENT_AUTO_MELTING: Переплавка
+DENCHANTMENT_BLACK_ARROW: Чумная стрела
+DENCHANTMENT_BREATH: Дыхание
+DENCHANTMENT_CONNECTION: Душевная связь
+DENCHANTMENT_ENDURANCE: Выносливость
+DENCHANTMENT_EXILE: Изгнание
+DENCHANTMENT_EXPERIENCE: Опыт
+DENCHANTMENT_HARD_SKIN: Твердокожий
+DENCHANTMENT_NIGHT_VISION: Ночное зрение
+DENCHANTMENT_OXYGEN: Кислород
+DENCHANTMENT_POISON_BLADE: Ядовитый клинок
+DENCHANTMENT_SPRING: Пружина
+DENCHANTMENT_STEEL: Сталь
+DENCHANTMENT_TELEPATHY: Телепатия
