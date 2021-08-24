@@ -1,15 +1,15 @@
+
+FRIENDS_ADD_DESCRIPTION: 'добавить игрока в друзья'
+FRIENDS_REMOVE_DESCRIPTION: 'удалить игрока из друзей'
+FRIENDS_ACCEPT_DESCRIPTION: 'принять запрос игрока в друзья'
+FRIENDS_DECLINE_DESCRIPTION: 'отклонить запрос игрока в друзья'
+FRIENDS_REQUESTS_DESCRIPTION: 'список запросов в друзья'
+FRIENDS_LIST_DESCRIPTION: 'список друзей'
+FRIENDS_TP_DESCRIPTION: 'телепортация на сервер друга'
+
 YOU_DONT_HAVE_FRIENDS: §cУ Вас нет друзей
 YOU_DONT_HAVE_FRIEND_REQUESTS: §cУ Вас нет запросов в друзья
 YOU_HAVE_NO_ONLINE_FRIENDS: §cОшибка, у Вас нет онлайн друзей
-HELP_FRIENDS:
-  - §7/friends add <ник игрока> §f- добавить игрока в друзья
-  - §7/friends remove <ник игрока> §f- удалить игрока из друзей
-  - §7/friends accept <ник игрока> §f- принять запрос игрока в друзья
-  - §7/friends decline <ник игрока> §f- отклонить запрос игрока в друзья
-  - §7/friends requests §f- список запросов в друзья
-  - §7/friends list §f- список друзей
-  - §7/friends tp <ник игрока> §f- телепортация на сервер друга
-  - §7/friends party §f- отправить всем друзьям онлайн приглашение в Party
 FRIEND_GUI_MAIN_LORE:
   - ''
   - '§7Всего друзей: §a%s'
