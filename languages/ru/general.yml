@@ -1,5 +1,16 @@
 SERVER_PREFIX: '§6Сервер §8| §f'
 
+COMMAND_HELP_TITLE: '§e▸ Подкоманды для %s:'
+COMMAND_HELP: '§7%s §f- %s'
+COMMAND_ARGUMENT_PLAYER: 'ник игрока'
+COMMAND_ARGUMENT_SERVER: 'сервер'
+COMMAND_ARGUMENT_MONEY: 'сумма'
+COMMAND_ARGUMENT_MESSAGE: 'сообщение'
+COMMAND_ARGUMENT_ID: 'ID'
+COMMAND_ARGUMENT_FRIEND: 'ник друга'
+COMMAND_ARGUMENT_SETTING: 'настройка'
+COMMAND_ARGUMENT_VALUE: 'значение'
+
 COMMAND_FORMAT_ERROR: '§cОшибка, пишите %s'
 COMMAND_NUMBER_PARSE_ERROR: '§cОшибка, %s не является числом'
 COMMAND_ENUM_PARSE_ERROR: '§cОшибка, значение %s недоступно, список доступных значений: %s'
