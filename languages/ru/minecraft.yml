@@ -10,6 +10,8 @@ SPIDER: 'Паук'
 COW: 'Корова'
 SILVERFISH: 'Чешуйница'
 GUARDIAN: 'Страж'
+SALMON: 'Лосось'
+HOGLIN: 'Хоглин'
 EFFECT_ABSORPTION: Поглощение
 EFFECT_BLINDNESS: Слепота
 EFFECT_CONDUIT_POWER: Морская сила
