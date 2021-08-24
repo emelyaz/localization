@@ -1,3 +1,4 @@
+SKYBLOCK_PREFIX: '§6SkyBlock §8| §f'
 ISLAND_ACCEPT: You have accepted a request from player %s §fand have become a member
   of an island %s
 ISLAND_ACCEPT_WHO: Player %s §fhas accepted your request and has become a member of
@@ -118,19 +119,19 @@ ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE:
 ISLAND_ACHIEVEMENT_WOOD_STEP_LORE:
 - §8 • §7Wooden plates §fх20
 ISLAND_ADDLEVEL_GUI_NAME: Island Level
-ISLAND_ADDMEMBER_ERROR: §6SkyBlock §8| §cError, current player already is member or
+ISLAND_ADDMEMBER_ERROR: $SKYBLOCK_PREFIX$§cError, current player already is member or
   owner some island
-ISLAND_ADDMEMBER_LIMIT: §6SkyBlock §8| §cError, you exceeded limit on amount members
+ISLAND_ADDMEMBER_LIMIT: $SKYBLOCK_PREFIX$§cError, you exceeded limit on amount members
   your island, amount members not must be long than %s
-ISLAND_ADDMEMBER_YOU: §6SkyBlock §8| §cError, you cannot sent invite yourself
+ISLAND_ADDMEMBER_YOU: $SKYBLOCK_PREFIX$§cError, you cannot sent invite yourself
 ISLAND_ADD_PLAYER_REQUEST_1: ' %s §foffers you to play together on your island'
 ISLAND_ADD_PLAYER_REQUEST_2: ' §fFor accepting a request write '
 ISLAND_ADD_PLAYER_REQUEST_3: ' §fFor declining a request write '
 ISLAND_ADD_PLAYER_REQUEST_4: ' §fYou have §a120 §fseconds to accept it!'
-ISLAND_ALREADY_CREATE: §6SkyBlock §8| §fError, you already have a island. To come
+ISLAND_ALREADY_CREATE: $SKYBLOCK_PREFIX$Error, you already have a island. To come
   back on your island write §7/island home
-ISLAND_BIOME_BUY: §6SkyBlock §8| §fYou successfully puechase biome §c%s
-ISLAND_BIOME_BUY_ALREADY: §6SkyBlock §8| §fYou already are owner this biome
+ISLAND_BIOME_BUY: $SKYBLOCK_PREFIX$You successfully puechase biome §c%s
+ISLAND_BIOME_BUY_ALREADY: $SKYBLOCK_PREFIX$You already are owner this biome
 ISLAND_BIOME_DESERT_LORE:
 - §7Infertile biome. only
 - §7friendly entity — golden
@@ -159,7 +160,7 @@ ISLAND_BIOME_MUSHROOM_ISLAND_LORE:
 - §7cows here cannot spawn noone entity,
 - §7but you can to propagate them from the already available!
 ISLAND_BIOME_MUSHROOM_ISLAND_NAME: Mushroom island
-ISLAND_BIOME_NOT_OPEN: §6SkyBlock §8| §fThis biome you not are available, buy it!
+ISLAND_BIOME_NOT_OPEN: $SKYBLOCK_PREFIX$This biome you not are available, buy it!
 ISLAND_BIOME_OCEAN_LORE:
 - §7Usually ocean spread out in all directions,
 - §7and be 60% area In all from everything world.
@@ -178,8 +179,8 @@ ISLAND_BIOME_ROOFED_FOREST_LORE:
 - §7dark, to enemy entity spawn
 - §7in day!
 ISLAND_BIOME_ROOFED_FOREST_NAME: Dark forest
-ISLAND_BIOME_SET: §6SkyBlock §8| §fSetting biome §a%s
-ISLAND_BIOME_SET_ERROR: §6SkyBlock §8| §fThis biome already set on your island
+ISLAND_BIOME_SET: $SKYBLOCK_PREFIX$Setting biome §a%s
+ISLAND_BIOME_SET_ERROR: $SKYBLOCK_PREFIX$This biome already set on your island
 ISLAND_BIOME_SWAMPLAND_LORE:
 - §7Dark grass, dark-green vines on trees,
 - §7it was here at night spawned Slimes.
@@ -204,7 +205,7 @@ ISLAND_BUY_UPGRADE_GUI_NAME: Buy upgrade ?
 ISLAND_CANCEL: You have declined a request to live together sent by %s
 ISLAND_CANCEL_YOU: Player %s §fhas declined your request
 ISLAND_CLICK_TO_SET_BIOME: §e▸ Click, to select biome
-ISLAND_CLOSED: §6SkyBlock §8| §fThis island is close and teleport to it impossible!
+ISLAND_CLOSED: $SKYBLOCK_PREFIX$This island is close and teleport to it impossible!
   Ask for owner disable flag §cprivacy
 ISLAND_COMMAND_ADD_FORMAT: /island add <player name>
 ISLAND_COMMAND_HELP:
@@ -230,7 +231,7 @@ ISLAND_DEFAULT_LORE:
 - ' '
 - §e▸ Click, to select this island
 ISLAND_DEFAULT_NAME: Default island
-ISLAND_DELETE: §6SkyBlock §8| §fPlayer %s §fwas successfully removed from your island
+ISLAND_DELETE: $SKYBLOCK_PREFIX$Player %s §fwas successfully removed from your island
 ISLAND_DELETE_GUI_NAME: Delete island ?
 ISLAND_DELETE_LORE:
 - ''
@@ -241,13 +242,13 @@ ISLAND_DELETE_LORE:
 - '§7PS: Repeat create island - §f/is create'
 - ''
 - §cWARNING! The action is not reversible!
-ISLAND_DELETE_MEMBER_ERROR: §6SkyBlock §8| §cError, this player is not member your
+ISLAND_DELETE_MEMBER_ERROR: $SKYBLOCK_PREFIX$§cError, this player is not member your
   island
-ISLAND_DELETE_MEMBER_OWNER: §6SkyBlock §8| §cError, you cannot delete yourself from
+ISLAND_DELETE_MEMBER_OWNER: $SKYBLOCK_PREFIX$§cError, you cannot delete yourself from
   your island
-ISLAND_DELETE_TO: §6SkyBlock §8| §fPlayer %s §fremove you from island %s §fand you
+ISLAND_DELETE_TO: $SKYBLOCK_PREFIX$Player %s §fremove you from island %s §fand you
   were teleport to the spawn
-ISLAND_DESTROY_COOLDOWN: §6SkyBlock §8| §cYou cannot too many do island restarts,
+ISLAND_DESTROY_COOLDOWN: $SKYBLOCK_PREFIX$§cYou cannot too many do island restarts,
   you need to wait %s
 ISLAND_END_LORE:
 - ' '
@@ -353,7 +354,7 @@ ISLAND_HOUSE_LORE:
 - ' '
 - §e▸ Click, to select this island
 ISLAND_HOUSE_NAME: Island with house
-ISLAND_LEAVE: §6SkyBlock §8| §fYou leave island player %s
+ISLAND_LEAVE: $SKYBLOCK_PREFIX$You leave island player %s
 ISLAND_LEAVE_GUI_NAME: Leave island ?
 ISLAND_LEAVE_LORE:
 - ''
@@ -361,8 +362,8 @@ ISLAND_LEAVE_LORE:
 - §7an island you are playing on
 - §7at this moment ?
 - ''
-ISLAND_LEAVE_OWNER: §6SkyBlock §8| §cError, you cannot leave your island
-ISLAND_MAX_UPGRADE: §6SkyBlock §8| §cError! you already have maximum level this upgrade
+ISLAND_LEAVE_OWNER: $SKYBLOCK_PREFIX$§cError, you cannot leave your island
+ISLAND_MAX_UPGRADE: $SKYBLOCK_PREFIX$§cError! you already have maximum level this upgrade
 ISLAND_MEMBER: Member
 ISLAND_MEMBER_LORE:
 - ''
@@ -372,7 +373,7 @@ ISLAND_MEMBER_LORE:
 - ''
 - §e▸ Click, to manage player
 ISLAND_MEMBER_OFFLINE: §coffline
-ISLAND_MEMBER_REMOVED: §6SkyBlcok §8| %s §fwas delete from island of players %s
+ISLAND_MEMBER_REMOVED: $SKYBLOCK_PREFIX$%s §fwas delete from island of players %s
 ISLAND_MEMBER_REMOVE_LORE:
 - ' '
 - '§7Remove island member '
@@ -381,9 +382,9 @@ ISLAND_MEMBER_REMOVE_LORE:
 - ' '
 - §e▸ Click, to remove member
 ISLAND_MEMBER_REMOVE_NAME: Remove island member
-ISLAND_MEMBER_SETTINGS_OWNER: §6SkyBlock §8| §cError, you cannot customize permissions
+ISLAND_MEMBER_SETTINGS_OWNER: $SKYBLOCK_PREFIX$§cError, you cannot customize permissions
   island owner!
-ISLAND_MEMBER_SET_RANK_ALERT: §6SkyBlcok §8| §fPlayer %s §fwas assigned new permissions
+ISLAND_MEMBER_SET_RANK_ALERT: $SKYBLOCK_PREFIX$§fPlayer %s §fwas assigned new permissions
   manage island
 ISLAND_MEMBER_SET_RANK_LORE_OFF:
 - §7Click, to set new permissions
@@ -398,13 +399,13 @@ ISLAND_MOB_COMMAND:
 - ' §c▪ §fPlayers: §a%s'
 - ' §c▪ §fDroped items: §a%s'
 - You entity limit §a%s§f/§c%s
-ISLAND_MOB_COMMAND_ERROR: §6SkyBlock §8| §fYou must be on territory your island
+ISLAND_MOB_COMMAND_ERROR: $SKYBLOCK_PREFIX$You must be on territory your island
 ISLAND_NOT_CREATE_WARP: §cYou cannot create warp on this island
 ISLAND_NOT_OWNER: §cError, you are not an owner or a co-owner of this island!
 ISLAND_NOT_USED: §cError, an owner of this island has disabled the use of these items
 ISLAND_NOT_YOU: §cError, you cannot do this, you are not a member of this island!
 ISLAND_NOT_YOU_COMMAND: §cError, you cannot use this command on a foreign island!
-ISLAND_NO_ISLAND: §6SkyBlock §8| §fError, it seems you do not have an island... To
+ISLAND_NO_ISLAND: $SKYBLOCK_PREFIX$Error, it seems you do not have an island... To
   create your own island write §7/island create
 ISLAND_NO_PVP: §cError, PVP in this island is disabled
 ISLAND_OWNER: Owner
@@ -481,9 +482,9 @@ ISLAND_RANK_MEMBER:
 - §8• §7Teleport to the island
 - §8• §7Interaction with territory island
 - ' '
-ISLAND_REMOVED: §6SkyBlock §8| §fIsland successfully delete, you were teleporot to
+ISLAND_REMOVED: $SKYBLOCK_PREFIX$Island successfully delete, you were teleporot to
   the spawn
-ISLAND_REMOVED_MEMBER: §6SkyBlock §8| §fIsland owner delete your island, you were
+ISLAND_REMOVED_MEMBER: $SKYBLOCK_PREFIX$Island owner delete your island, you were
   teleport to the spawn
 ISLAND_REMOVE_MEMBER_GUI_NAME: Remove member ?
 ISLAND_REMOVE_MEMBER_LORE:
@@ -492,9 +493,9 @@ ISLAND_REMOVE_MEMBER_LORE:
 - §7this specified member
 - §7from your island ?
 - ''
-ISLAND_REQUESTS_ERROR: §6SkyBlock §8| §cError, you already have island, you need not
+ISLAND_REQUESTS_ERROR: $SKYBLOCK_PREFIX$§cError, you already have island, you need not
   invites
-ISLAND_RESET: §6SkyBlock §8| §fYour island has been reset and recreated
+ISLAND_RESET: $SKYBLOCK_PREFIX$Your island has been reset and recreated
 ISLAND_RESET_GUI_NAME: Reset island ?
 ISLAND_RESET_LORE:
 - ''
@@ -519,8 +520,8 @@ ISLAND_RUINES_LORE:
 - ' '
 - §e▸ Click, to select this island
 ISLAND_RUINES_NAME: Island with ruines
-ISLAND_SETHOME: §6SkyBlock §8| §fPoint of the home is set
-ISLAND_SETHOME_ERROR: §6SkyBlock §8| §cYou cannot set point of the house in this location
+ISLAND_SETHOME: $SKYBLOCK_PREFIX$Point of the home is set
+ISLAND_SETHOME_ERROR: $SKYBLOCK_PREFIX$§cYou cannot set point of the house in this location
 ISLAND_TAIGA_LORE:
 - ' '
 - §7Yo ho ho, like snow and frost?
@@ -530,7 +531,7 @@ ISLAND_TAIGA_LORE:
 - ' '
 - §e▸ Click, to select this island
 ISLAND_TAIGA_NAME: Snowly island
-ISLAND_TELEPORT_HOME: §6SkyBlock §8| §fYou have been teleported to the island of %s§f
+ISLAND_TELEPORT_HOME: $SKYBLOCK_PREFIX$You have been teleported to the island of %s§f
 ISLAND_TOP_KILLS_HOLO:
 - §6§lTop for killing
 - §fTop player by amount

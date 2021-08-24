@@ -6,7 +6,7 @@ AUCTION_ACCEPT_WAIT_LORE:
 - ''
 - §7Вложите предметы в верхние слоты
 - §7чтобы выставить их на продажу
-AUCTION_ADD_TO_SELL: $AUCTION_PREFIX$Предмет §7%s §fбыл выложен на продажу за §a%s
+AUCTION_ADD_TO_SELL: Предмет §7%s §fбыл выложен на продажу за §a%s
 AUCTION_ADD_TO_SELL_ERROR: $AUCTION_PREFIX$Ошибка, в вашей руке недостаточное кол-во
   предметов
 AUCTION_BUY: $AUCTION_PREFIX$Вы успешно купили §7%s §fx §7%s §fза §a%s$

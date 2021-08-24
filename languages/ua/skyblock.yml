@@ -1,3 +1,4 @@
+SKYBLOCK_PREFIX: '§6SkyBlock §8| §f'
 ISLAND_ACCEPT: Ви прийняли запит від гравця %s §fта стали участником острова %s
 ISLAND_ACCEPT_WHO: Гравець %s §fприйняв ваш запит і став участником вашого острова
 ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
@@ -115,22 +116,22 @@ ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE:
 - §8 • §7Дубових драбин §fх20
 ISLAND_ACHIEVEMENT_WOOD_STEP_LORE:
 - §8 • §7Дерев`янних плит §fх20
-ISLAND_ADDMEMBER_ERROR: §6SkyBlock §8| §cПомилка, даний гравець вже є участником або
+ISLAND_ADDMEMBER_ERROR: $SKYBLOCK_PREFIX$§cПомилка, даний гравець вже є участником або
   власником якогось острова
-ISLAND_ADDMEMBER_LIMIT: §6SkyBlock §8| §cПомилка, ви перевищили ліміт на кільк. участників
+ISLAND_ADDMEMBER_LIMIT: $SKYBLOCK_PREFIX$§cПомилка, ви перевищили ліміт на кільк. участників
   вашого острова, кільк. участників не повинно перевищувати %s
-ISLAND_ADDMEMBER_YOU: §6SkyBlock §8| §cПомилка, ви не можете кинути запрошення самі
+ISLAND_ADDMEMBER_YOU: $SKYBLOCK_PREFIX$§cПомилка, ви не можете кинути запрошення самі
   собі
-ISLAND_ADD_IGNORE_PLAYER: §6SkyBlock §8| %s §fбув доданий участником %s§f в список
+ISLAND_ADD_IGNORE_PLAYER: $SKYBLOCK_PREFIX$%s §fбув доданий участником %s§f в список
   небажаних гравців острова
 ISLAND_ADD_PLAYER_REQUEST_1: ' %s §fпропонує вам грати разом на своєму острові'
 ISLAND_ADD_PLAYER_REQUEST_2: ' §fДля прийняття запиту пишіть '
 ISLAND_ADD_PLAYER_REQUEST_3: ' §fДля скасування запиту пиши '
 ISLAND_ADD_PLAYER_REQUEST_4: ' §fУ вас є §a120 §fсекунд, щоб його прийняти'
-ISLAND_ALREADY_CREATE: §6SkyBlock §8| §fПомилка, у вас вже є острів. щоб потрапити
+ISLAND_ALREADY_CREATE: $SKYBLOCK_PREFIX$Помилка, у вас вже є острів. щоб потрапити
   на свій острів напишіть §7/island home
-ISLAND_BIOME_BUY: §6SkyBlock §8| §fВи успішно купили біом §c%s
-ISLAND_BIOME_BUY_ALREADY: §6SkyBlock §8| §fВи вже володієте даним біомом
+ISLAND_BIOME_BUY: $SKYBLOCK_PREFIX$Ви успішно купили біом §c%s
+ISLAND_BIOME_BUY_ALREADY: $SKYBLOCK_PREFIX$Ви вже володієте даним біомом
 ISLAND_BIOME_DESERT_LORE:
 - §7Неродючий біом. Єдині
 - §7доброзичливі істоти — золотисті
@@ -160,7 +161,7 @@ ISLAND_BIOME_MUSHROOM_ISLAND_LORE:
 - §7корів тут не може зявитися жодна істота,
 - §7але ви можете розмножувати їх з вже наявних!
 ISLAND_BIOME_MUSHROOM_ISLAND_NAME: Грибний острів
-ISLAND_BIOME_NOT_OPEN: §6SkyBlock §8| §fДаний біом вам недоступний, купіть його!
+ISLAND_BIOME_NOT_OPEN: $SKYBLOCK_PREFIX$Даний біом вам недоступний, купіть його!
 ISLAND_BIOME_OCEAN_LORE:
 - §7Зазвичай океани стеляться во всі сторони,
 - §7та скаладють 60% площі від всього світу.
@@ -179,8 +180,8 @@ ISLAND_BIOME_ROOFED_FOREST_LORE:
 - §7темно, щоб ворожі істоти зявилися
 - §7навіть днем!
 ISLAND_BIOME_ROOFED_FOREST_NAME: Темний ліс
-ISLAND_BIOME_SET: §6SkyBlock §8| §fВстановлено біом §a%s
-ISLAND_BIOME_SET_ERROR: §6SkyBlock §8| §fЦей біом вже встановлено на вашому острові
+ISLAND_BIOME_SET: $SKYBLOCK_PREFIX$Встановлено біом §a%s
+ISLAND_BIOME_SET_ERROR: $SKYBLOCK_PREFIX$Цей біом вже встановлено на вашому острові
 ISLAND_BIOME_SWAMPLAND_LORE:
 - §7Темна трава, темно-зелені лози на деревах,
 - §7саме тут ночами з’являються Слимаки.
@@ -205,7 +206,7 @@ ISLAND_BUY_UPGRADE_GUI_NAME: Купити поліпшення ?
 ISLAND_CANCEL: Ви відхилили запит на спільне співжиття від гравця %s
 ISLAND_CANCEL_YOU: Гравець %s §fвідхилив ваш запит
 ISLAND_CLICK_TO_SET_BIOME: §e▸ Натисніть, щоб обрати біом
-ISLAND_CLOSED: §6SkyBlock §8| §fДаний острів закритий та телепортація на нього неможлива!
+ISLAND_CLOSED: $SKYBLOCK_PREFIX$Даний острів закритий та телепортація на нього неможлива!
   Попросіть власника відключити прапор §cприватність
 ISLAND_COMMAND_ADD_FORMAT: /island add <нік гравця>
 ISLAND_COMMAND_HELP:
@@ -240,7 +241,7 @@ ISLAND_DEFAULT_LORE:
 - ' '
 - §e▸ Натисніть, щоб обрати цей острів
 ISLAND_DEFAULT_NAME: Стандартний острів
-ISLAND_DELETE: §6SkyBlock §8| §fГравець %s §fбув успішно видалений з вашого острова
+ISLAND_DELETE: $SKYBLOCK_PREFIX$Гравець %s §fбув успішно видалений з вашого острова
 ISLAND_DELETE_GUI_NAME: Видалити острів ?
 ISLAND_DELETE_LORE:
 - ''
@@ -251,14 +252,14 @@ ISLAND_DELETE_LORE:
 - '§7PS: Повторне створення острова - §f/is create'
 - ''
 - §cУВАГА! Дія незворотна!
-ISLAND_DELETE_MEMBER_ERROR: §6SkyBlock §8| §cПомилка, даний гравець не є участником
+ISLAND_DELETE_MEMBER_ERROR: $SKYBLOCK_PREFIX$§cПомилка, даний гравець не є участником
   вашого острова
-ISLAND_DELETE_MEMBER_ERROR2: §6SkyBlock §8| §cПомилка, даний гравець володар острову
-ISLAND_DELETE_MEMBER_OWNER: §6SkyBlock §8| §cПомилка, ви не можете видалити самі себе
+ISLAND_DELETE_MEMBER_ERROR2: $SKYBLOCK_PREFIX$§cПомилка, даний гравець володар острову
+ISLAND_DELETE_MEMBER_OWNER: $SKYBLOCK_PREFIX$§cПомилка, ви не можете видалити самі себе
   з свого острова
-ISLAND_DELETE_TO: §6SkyBlock §8| §fГравець %s §fвидалив вас з острова %s §fта ви були
+ISLAND_DELETE_TO: $SKYBLOCK_PREFIX$Гравець %s §fвидалив вас з острова %s §fта ви були
   відправлені на спавн
-ISLAND_DESTROY_COOLDOWN: §6SkyBlock §8| §cВи не можете так часто робити рестарт острова,
+ISLAND_DESTROY_COOLDOWN: $SKYBLOCK_PREFIX$§cВи не можете так часто робити рестарт острова,
   вам доведеться почекати %s
 ISLAND_END_LORE:
 - ' '
@@ -379,7 +380,7 @@ ISLAND_IGNORED_NOTHING_LORE:
 - §7заблокованих гравців
 - ''
 ISLAND_IGNORE_ALREADY: §cПомилка, даний гравець вже у списку!
-ISLAND_LEAVE: §6SkyBlock §8| §fВи покинули острів гравця %s
+ISLAND_LEAVE: $SKYBLOCK_PREFIX$Ви покинули острів гравця %s
 ISLAND_LEAVE_GUI_NAME: Покинути острів ?
 ISLAND_LEAVE_LORE:
 - ''
@@ -387,12 +388,12 @@ ISLAND_LEAVE_LORE:
 - §7острів на якому граєте в
 - §7даний момент ?
 - ''
-ISLAND_LEAVE_OWNER: §6SkyBlock §8| §cПомилка, ви не можете покинути свій же острів
-ISLAND_MAX_UPGRADE: §6SkyBlock §8| §cПомилка! У вас вже максимальний рівень даного
+ISLAND_LEAVE_OWNER: $SKYBLOCK_PREFIX$§cПомилка, ви не можете покинути свій же острів
+ISLAND_MAX_UPGRADE: $SKYBLOCK_PREFIX$§cПомилка! У вас вже максимальний рівень даного
   апгрейда
 ISLAND_MEMBER: Участник
 ISLAND_MEMBERS_GUI_NAME: Участники острова
-ISLAND_MEMBER_BLOCKED: §6SkyBlock §8| §fПробачте, але ви були внесені в §cсписок небажаних
+ISLAND_MEMBER_BLOCKED: $SKYBLOCK_PREFIX$Пробачте, але ви були внесені в §cсписок небажаних
   гравців §fцього острову (власник - %s§f)
 ISLAND_MEMBER_LORE:
 - ''
@@ -402,7 +403,7 @@ ISLAND_MEMBER_LORE:
 - ''
 - §e▸ Натисніть ПКМ, щоб керувати гравцем
 ISLAND_MEMBER_OFFLINE: §cофлайн
-ISLAND_MEMBER_REMOVED: §6SkyBlcok §8| %s §fбув видалений з острова гравцем %s
+ISLAND_MEMBER_REMOVED: $SKYBLOCK_PREFIX$%s §fбув видалений з острова гравцем %s
 ISLAND_MEMBER_REMOVE_LORE:
 - ' '
 - '§7Видалити участника остріва '
@@ -411,9 +412,9 @@ ISLAND_MEMBER_REMOVE_LORE:
 - ' '
 - §e▸ Натисніть, щоб видалити участника
 ISLAND_MEMBER_REMOVE_NAME: Видалити участника острова
-ISLAND_MEMBER_SETTINGS_OWNER: §6SkyBlock §8| §cПомилка, ви не можете налаштовувати
+ISLAND_MEMBER_SETTINGS_OWNER: $SKYBLOCK_PREFIX$§cПомилка, ви не можете налаштовувати
   права власника остріва!
-ISLAND_MEMBER_SET_RANK_ALERT: §6SkyBlcok §8| §fГравцю %s §fбули назначени нові права
+ISLAND_MEMBER_SET_RANK_ALERT: $SKYBLOCK_PREFIX$Гравцю %s §fбули назначени нові права
   управління островом
 ISLAND_MEMBER_SET_RANK_LORE_OFF:
 - §7Натисніть, щоб видати нові права
@@ -428,16 +429,16 @@ ISLAND_MOB_COMMAND:
 - ' §c▪ §fГравців: §a%s'
 - ' §c▪ §fДропнутих айтемів: §a%s'
 - Ваш ліміт мобів §a%s§f/§c%s
-ISLAND_MOB_COMMAND_ERROR: §6SkyBlock §8| §fВи повинні знаходитися на території свого
+ISLAND_MOB_COMMAND_ERROR: $SKYBLOCK_PREFIX$Ви повинні знаходитися на території свого
   острова
 ISLAND_NOT_CREATE_WARP: §cВи не можете створити варп на цьому острові
-ISLAND_NOT_FOUND: §6SkyBlock §8| §fОстрів гравця %s §fне знайдений
+ISLAND_NOT_FOUND: $SKYBLOCK_PREFIX$Острів гравця %s §fне знайдений
 ISLAND_NOT_OWNER: §cПомилка, ви не власник або со-власник острова!
 ISLAND_NOT_USED: §cПомилка, власник острова заборонив взаімодію з подобними предметами
 ISLAND_NOT_YOU: §cПомилка, ви не можете це зробити, ви не учасник острова!
 ISLAND_NOT_YOU_COMMAND: §cПомилка, ви не можете використовувати цю команду на чужому
   острові!
-ISLAND_NO_ISLAND: §6SkyBlock §8| §fПомилка, здається у вас немає острова... щоб створити
+ISLAND_NO_ISLAND: $SKYBLOCK_PREFIX$Помилка, здається у вас немає острова... щоб створити
   свій острів напишіть §7/island create
 ISLAND_NO_PVP: §cПомилка, ПВП на цьому острові відключено
 ISLAND_OPENED_GUI_LORE:
@@ -537,10 +538,10 @@ ISLAND_RANK_MEMBER:
 - §8• §7Взаємодія з територією острова
 - ' '
 ISLAND_REGUEST_GUI_NAME: Активнi запрошення
-ISLAND_REMOVED: §6SkyBlock §8| §fОстрів успішно видалений, ви були переміщені на спавн
-ISLAND_REMOVED_MEMBER: §6SkyBlock §8| §fВласник острова видалив свій острів, ви були
+ISLAND_REMOVED: $SKYBLOCK_PREFIX$Острів успішно видалений, ви були переміщені на спавн
+ISLAND_REMOVED_MEMBER: $SKYBLOCK_PREFIX$Власник острова видалив свій острів, ви були
   переміщені на спавн
-ISLAND_REMOVE_IGNORE_PLAYER: §6SkyBlock §8| %s §fбув видалений участником %s§f зі
+ISLAND_REMOVE_IGNORE_PLAYER: $SKYBLOCK_PREFIX$%s §fбув видалений участником %s§f зі
   списку небажаних гравців острова
 ISLAND_REMOVE_MEMBER_GUI_NAME: Видалити участника ?
 ISLAND_REMOVE_MEMBER_LORE:
@@ -549,7 +550,7 @@ ISLAND_REMOVE_MEMBER_LORE:
 - §7з вашого острова даного
 - §7участника ?
 - ''
-ISLAND_REQUESTS_ERROR: §6SkyBlock §8| §cПомилка, у вас вже є острів, запрошення вам
+ISLAND_REQUESTS_ERROR: $SKYBLOCK_PREFIX$§cПомилка, у вас вже є острів, запрошення вам
   не потрібні
 ISLAND_REQUESTS_ITEM_HEAD_LORE:
 - ''
@@ -561,7 +562,7 @@ ISLAND_REQUESTS_ITEM_HEAD_LORE:
 - ''
 - §e▸ ЛКМ, щоб приняти запит
 - §e▸ ПКМ, щоб відхилити
-ISLAND_RESET: §6SkyBlock §8| §fВаш острів був очищений та перебудований
+ISLAND_RESET: $SKYBLOCK_PREFIX$Ваш острів був очищений та перебудований
 ISLAND_RESET_GUI_NAME: Перестворити острів ?
 ISLAND_RESET_LORE:
 - ''
@@ -586,8 +587,8 @@ ISLAND_RUINES_LORE:
 - ' '
 - §e▸ Натисніть, щоб обрати цей острів
 ISLAND_RUINES_NAME: Острів в руїнах
-ISLAND_SETHOME: §6SkyBlock §8| §fТочка будинку встановлена
-ISLAND_SETHOME_ERROR: §6SkyBlock §8| §cВи не можете встановити точку будинку в цій
+ISLAND_SETHOME: $SKYBLOCK_PREFIX$Точка будинку встановлена
+ISLAND_SETHOME_ERROR: $SKYBLOCK_PREFIX$§cВи не можете встановити точку будинку в цій
   локації
 ISLAND_TAIGA_LORE:
 - ' '
@@ -598,7 +599,7 @@ ISLAND_TAIGA_LORE:
 - ' '
 - §e▸ Натисніть, щоб обрати цей острів
 ISLAND_TAIGA_NAME: Сніжний острів
-ISLAND_TELEPORT_HOME: §6SkyBlock §8| §fВи були телепортовані на острів (власник -
+ISLAND_TELEPORT_HOME: $SKYBLOCK_PREFIX$Ви були телепортовані на острів (власник -
   %s§f)
 ISLAND_TOP_KILLS_HOLO:
 - §6§lТоп по вбивствам
