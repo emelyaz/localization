@@ -322,7 +322,7 @@ ISLAND_CLOSED: $SKYBLOCK_PREFIX$Данный остров закрыт и тел
 
 ISLAND_CREATE_DESCRIPTION: 'создать остров'
 ISLAND_DESTROY_DESCRIPTION: 'удалить остров'
-ISLAND_RESET_DESCRIPTION: 'очистить территорию'
+ISLAND_RESTART_DESCRIPTION: 'очистить территорию'
 ISLAND_TELEPORT_DESCRIPTION: 'телепортироваться на открытый остров'
 ISLAND_ISLANDS_DESCRIPTION: 'список островов'
 ISLAND_INVITE_DESCRIPTION: 'добавить игрока на остров'
@@ -335,6 +335,7 @@ ISLAND_IGNORE_DESCRIPTION: 'добавить игрока в черный спи
 ISLAND_HOME_DESCRIPTION: 'телепортироваться домой'
 ISLAND_SETHOME_DESCRIPTION: 'установить новую точку дома'
 ISLAND_DELETE_DESCRIPTION: 'удалить игрока с острова'
+ISLAND_LEVEL_DESCRIPTION: 'уровень острова'
 
 ISLAND_CO_OWNER: Совладелец
 ISLAND_CREATE_LORE:
