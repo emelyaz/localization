@@ -374,7 +374,7 @@ KIT_LORE_ENABLE:
 - ''
 - §e▸ Нажмите, чтобы выбрать набор
 KIT_NOT_FOUND: §cНабор %s не найден
-KIT_SELECT: Вам был выдан набор §a%s
+KIT_SELECT: $@MODE_PREFIX$Вам был выдан набор §a%s
 MYWARP_ITEM_CHANGER_LORE:
 - ''
 - §7Показать список личных варпов
@@ -653,7 +653,7 @@ TRADE_FORMAT: /trade <ник игрока>
 TRADE_HELP:
 - §7/trade <ник> §f- предложить обмен
 - §7/trade accept <ник> §f- принять обмен
-TRADE_INVITE_1: ' %s §fпредложил вам обмен'
+TRADE_INVITE_1: '$@MODE_PREFIX$%s §fпредложил вам обмен'
 TRADE_PREFIX: §6Trade §8| §f
 USER_SETBED: $@MODE_PREFIX$Точка §aдома §fустановлена
 USER_SETHOME_BED: $@MODE_PREFIX$Чтобы установить §aточку дома§f, кликните §7ПКМ §fпо кровати

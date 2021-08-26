@@ -121,8 +121,8 @@ CALL_ITEM_HEAD_LORE:
 - §e▸ Right click to decline
 CALL_YOU: §cError, you cannot sent request to myself
 CHUNK_FORMAT: /chunk <x> <z>
-CLEAR_INV: All items were removed
-CLEAR_INV_TO: Removed falled items for %s
+CLEAR_INV: $@MODE_PREFIX$All items were removed
+CLEAR_INV_TO: $@MODE_PREFIX$Removed falled items for %s
 CREATE_WARP_FORMAT: /createwarp <name>
 DELHOME_FORMAT: /delhome <name>
 DEL_WARP_FORMAT: /delwarp <name>
@@ -235,7 +235,7 @@ KIT_LORE_ENABLE:
 - ''
 - §e▸ Click, to select a kit
 KIT_NOT_FOUND: §cKit %s not found
-KIT_SELECT: You were given a kit §a%s
+KIT_SELECT: $@MODE_PREFIX$You were given a kit §a%s
 MYWARP_ITEM_CHANGER_LORE:
 - ''
 - §7View personal warp list

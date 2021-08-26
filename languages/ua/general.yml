@@ -118,7 +118,7 @@ FAVORITE_LORE_REMOVE: §cПКМ, щоб прибрати з обраного
 FIND_FORMAT: /find <нік гравця>
 FIND_RESULT: §6Сервер §8| §fГравець %s §fзнаходиться на сервері §c%s
 GAMEMODE_FORMAT: /gamemode <1|2|0>
-GAMEMODE_TO: Гравцю %s §fвстановлений режим - §c%s
+GAMEMODE_TO: $@MODE_PREFIX$Гравцю %s §fвстановлений режим - §c%s
 GOODGAME_FORMAT: /gg <нік>
 GROUP_PREDICATE_ABOVE_GROUPS_ERROR_MSG: ' §8• §7привілегія %s §7або вище §7(Ви %s§7)'
 GROUP_PREDICATE_BELOW_GROUPS_ERROR_MSG: ' §8• §7привілегія не вище %s §7(Ви %s§7)'
@@ -188,7 +188,7 @@ MODERATORS_GUI_MAIN_LORE:
 - ' '
 - '§7Модераторів:'
 - §a%s
-NEAR_NOT_FOUND: Найближчих гравців немає
+NEAR_NOT_FOUND: $@MODE_PREFIX$Найближчих гравців немає
 NEW_LVL: §fВи досягли §d%s§f рівня!
 NO_NEVER_PLAYER: §cПомилка, гравець %s ніколи раніше не грав на нашому проекті
 ONLINE_ALL_PLAYERS_ONLINE: §6Онлайн §8| §fЗагальний онлайн проекту §a%s §f%s

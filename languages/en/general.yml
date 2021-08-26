@@ -179,7 +179,7 @@ FIND_RESULT: §6Server §8| §fPlayer %s §fnow at the server §c%s
 FIND_RESULT_OFFLINE: §6Server §8| §f%s §fis offline, last time it was online is §7%s
   §fago
 GAMEMODE_FORMAT: /gamemode <1|2|0>
-GAMEMODE_TO: Changed gamemode for %s §fto §c%s
+GAMEMODE_TO: $@MODE_PREFIX$Changed gamemode for %s §fto §c%s
 GROUP_PREDICATE_ABOVE_GROUPS_ERROR_MSG: ' §8• §7rank %s §7or higher §7(your rank is
   %s§7)'
 GROUP_PREDICATE_BELOW_GROUPS_ERROR_MSG: ' §8• §7rank %s §7or less §7(your rank is
@@ -257,7 +257,7 @@ MODERATORS_GUI_MAIN_LORE:
 - '§7Total moderators:'
 - §a%s
 MYSTERY_DUST_DATA: Coins
-NEAR_NOT_FOUND: Players not found
+NEAR_NOT_FOUND: $@MODE_PREFIX$Players not found
 NEW_LVL: §fYou received §d%s§f level!
 NO_NEVER_PLAYER: §cError, player %s has never played at server
 NO_RARITY: Without rarity

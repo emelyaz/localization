@@ -232,7 +232,7 @@ KIT_LORE_ENABLE:
 - ''
 - §e▸ Натисніть, щоб обрати набір
 KIT_NOT_FOUND: §cНабір %s не знайдений
-KIT_SELECT: Вам був виданий набір §a%s
+KIT_SELECT: $@MODE_PREFIX$Вам був виданий набір §a%s
 MYWARP_ITEM_CHANGER_LORE:
 - ''
 - §7Показати список особистих варпів
