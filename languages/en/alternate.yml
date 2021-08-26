@@ -130,19 +130,19 @@ ENCHANTED_BOOK_ERROR: §6Enchanted §8| §fError, you need §a%s §flevel, to en
   this enchantments on item
 EXT_TO: You extinguished %s
 FEED_TO: Player hunger %s restored
-FLY_DISABLE: Fly was §cdisabled
-FLY_DISABLE_TO: §fFly for %s was §cdisable
-FLY_ENABLE: Fly was §aenabled
-FLY_ENABLE_TO: §fFly for %s was §adisabled
-GOD_DISABLE: God mode was §cdisabled
-GOD_DISABLE_TO: God mode §cdisabled §ffor %s
-GOD_ENABLE: God mode was §aenabled
-GOD_ENABLE_TO: God mode §aenabled for %s
-HAT_ERROR: §cYou must keep something in you hand, to wear this on the head
-HEAL_TO: Xp and hunger was restored to %s
-HOME_CREATE: Point of the house §a%s §fis set
-HOME_EMPTY: §cError, you don`t have point set to this house
-HOME_ERROR: §cError, you have point of the house with name %s
+FLY_DISABLE: $@MODE_PREFIX$Fly was §cdisabled
+FLY_DISABLE_TO: $@MODE_PREFIX$Fly for %s was §cdisable
+FLY_ENABLE: $@MODE_PREFIX$Fly was §aenabled
+FLY_ENABLE_TO: $@MODE_PREFIX$Fly for %s was §adisabled
+GOD_DISABLE: $@MODE_PREFIX$God mode was §cdisabled
+GOD_DISABLE_TO: $@MODE_PREFIX$God mode §cdisabled §ffor %s
+GOD_ENABLE: $@MODE_PREFIX$God mode was §aenabled
+GOD_ENABLE_TO: $@MODE_PREFIX$God mode §aenabled for %s
+HAT_ERROR: $@MODE_PREFIX$§cYou must keep something in you hand, to wear this on the head
+HEAL_TO: $@MODE_PREFIX$Xp and hunger was restored to %s
+HOME_CREATE: $@MODE_PREFIX$Point of the house §a%s §fis set
+HOME_EMPTY: $@MODE_PREFIX$§cError, you don`t have point set to this house
+HOME_ERROR: $@MODE_PREFIX$§cError, you have point of the house with name %s
 HOME_GUI_LORE:
 - ''
 - §7Get list of
@@ -304,10 +304,10 @@ PTIME_ITEM_WEATHER_LORE:
 - §7Only for %s §7and higher
 - ''
 - §e▸ Click, to change
-PTIME_ITEM_WEATHER_NAME: §aChange the weather
-PTIME_RESET: Time and weather reset
-PTIME_WEATHER_CHANGED: Weather was changed
-REPAIR_ERROR: §cThis item cannot be repaired
+PTIME_ITEM_WEATHER_NAME: $@MODE_PREFIX$§aChange the weather
+PTIME_RESET: $@MODE_PREFIX$Time and weather reset
+PTIME_WEATHER_CHANGED: $@MODE_PREFIX$Weather was changed
+REPAIR_ERROR: $@MODE_PREFIX$§cThis item cannot be repaired
 SETHOME_FORMAT: /sethome <name>
 SHOP_ALL_ITEMS_BUY: §6Store §8| §fYou successfully purchase §7%s §fx §7%s §fof §a%s$
 SHOP_ALL_ITEMS_SELLED: §6Store §8| §fYou successfully sell §7%s §fx §7%s §ffor §a%s$
@@ -387,21 +387,21 @@ SITE_SHOP_ITEM_LORE_2:
 - §cfree slot(s) in your inventory
 - ' '
 - §e▸ Click, to get
-SPAWN_TO: Player %s §fwas teleported to spawn
-SPEED_TO: §fSpeed set to §a%s §ffor player %s
+SPAWN_TO: $@MODE_PREFIX$Player %s §fwas teleported to spawn
+SPEED_TO: $@MODE_PREFIX$§fSpeed set to §a%s §ffor player %s
 S_FORMAT: /s <player name>
-TELEPORTING_RUNNING: §cThe process of teleportation is already running!
-TELEPORT_MOVE_ERROR: §cError, you moved. Teleportation cancelled!
-TELEPORT_TO: Player %s §fwas teleported to player %s
-TPACCEPT_ERROR: You don`t have waiting requests
-TPACCEPT_ERROR_PLAYER: You don`t have waiting requests from %s
-TPACCEPT_SENDER: You accepted request from player %s
-TPACCEPT_WHO: Player %s §faccepted your request for teleportation
+TELEPORTING_RUNNING: $@MODE_PREFIX$§cThe process of teleportation is already running!
+TELEPORT_MOVE_ERROR: $@MODE_PREFIX$§cError, you moved. Teleportation cancelled!
+TELEPORT_TO: $@MODE_PREFIX$Player %s §fwas teleported to player %s
+TPACCEPT_ERROR: $@MODE_PREFIX$You don`t have waiting requests
+TPACCEPT_ERROR_PLAYER: $@MODE_PREFIX$You don`t have waiting requests from %s
+TPACCEPT_SENDER: $@MODE_PREFIX$You accepted request from player %s
+TPACCEPT_WHO: $@MODE_PREFIX$Player %s §faccepted your request for teleportation
 TPDENY_YOU: '%s §fdeclined your request for teleportation'
 TPPOS_ERROR: §cArguments are incorrect, must be numbers
 TPPOS_FORMAT: /tppos <x> <y> <z>
-TPTOGGLE_DISABLE: Teleportation - §cdisabled
-TPTOGGLE_ENABLE: Teleportation - §aenabled
+TPTOGGLE_DISABLE: $@MODE_PREFIX$Teleportation - §cdisabled
+TPTOGGLE_ENABLE: $@MODE_PREFIX$Teleportation - §aenabled
 TPTOGGLE_ITEM_NAME: §aTeleportation §f- §a%s
 TRADE_ERROR: §6Trade §8| §fNo one wanted to trade with you yet
 TRADE_ERROR2: §6Trade §8| §fYou do not have any active requests from player %s
@@ -411,10 +411,10 @@ TRADE_HELP:
 - §7/trade <nickname> §f- offer trade
 - §7/trade accept <nickname> §f- accept trade
 WARPINFO_FORMAT: /warpinfo <warp name>
-WARP_CLOSE: §cWarp %s is closed as it is private!
-WARP_CREATE: The warp was §a%s §fsuccessufully created
-WARP_CREATE_ERROR: §cWarp %s already existing
-WARP_CREATE_NAME_ERROR: §cError, length of warp cannot exceeded 32 characters
+WARP_CLOSE: $@MODE_PREFIX$§cWarp %s is closed as it is private!
+WARP_CREATE: $@MODE_PREFIX$The warp was §a%s §fsuccessufully created
+WARP_CREATE_ERROR: $@MODE_PREFIX$§cWarp %s already existing
+WARP_CREATE_NAME_ERROR: $@MODE_PREFIX$§cError, length of warp cannot exceeded 32 characters
 WARP_GUI_LORE:
 - ''
 - §7Manage your
@@ -446,8 +446,8 @@ WARP_ITEM_LORE:
 - ' §7Z: §c%s'
 - ''
 - §e▸ Click, to teleport
-WARP_NOT_FOUND: §cWarp %s not found
-WARP_NOT_YOUR: §cThis warp is not your
-WARP_REMOVED: §fWarp §a%s §fdeleted
-WARP_TO: You were telepoted to warp §a%s
+WARP_NOT_FOUND: $@MODE_PREFIX$§cWarp %s not found
+WARP_NOT_YOUR: $@MODE_PREFIX$§cThis warp is not your
+WARP_REMOVED: $@MODE_PREFIX$Warp §a%s §fdeleted
+WARP_TO: $@MODE_PREFIX$You were telepoted to warp §a%s
 WEB_BUY_ITEMS: §6Server §8| §fCongratulations! %s §8x%s was added to your account

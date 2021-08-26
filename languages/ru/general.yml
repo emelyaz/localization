@@ -18,6 +18,9 @@ AFK: §cНе стой на месте!
 BALANCE: §6Баланс §8| §fНа вашем аккаунте %s
 CAGE: клетка
 
+ANARCHY_PREFIX: '§6Anarchy §8| §f'
+SB_PREFIX: '§6SkyBlock §8| §f'
+
 COMMON: Обычный
 
 CONVERT: §6Магазин §8| §fВы успешно обменяли §e%s §fзолота на §a%s §fмонет

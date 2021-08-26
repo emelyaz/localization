@@ -123,21 +123,21 @@ CALL_ITEM_HEAD_LORE:
 - §e▸ ПКМ, щоб відхилити
 CALL_YOU: §cПомилка, ви не можете відправити запит самому собі
 CHUNK_FORMAT: /chunk <x> <z>
-CLEAR_INV: Всі предмети видалені
-CLEAR_INV_TO: У гравця %s §fвидалені всі предмети
+CLEAR_INV: $@MODE_PREFIX$Всі предмети видалені
+CLEAR_INV_TO: $@MODE_PREFIX$У гравця %s §fвидалені всі предмети
 CREATE_WARP_FORMAT: /createwarp <назва>
 DELHOME_FORMAT: /delhome <назва>
 DEL_WARP_FORMAT: /delwarp <назва>
-EXT_TO: Ви погасили гравця  %s
-FEED_TO: Голод гравця %s відновлений
-FLY_DISABLE: Режим польоту - §cвимкнений
-FLY_DISABLE_TO: Для гравця %s §fрежим польоту - §cвимкнений
-FLY_ENABLE: Режим польоту - §aувімкнений
-FLY_ENABLE_TO: Для гравця %s §fрежим польоту - §aувімкнений
-GOD_DISABLE: Режим бога - §cвимкнений
-GOD_DISABLE_TO: Для гравця %s §fрежим бога - §cвимкнений
-GOD_ENABLE: Режим бога - §aувімкнений
-GOD_ENABLE_TO: Для гравця %s §fрежим бога - §aувімкнений
+EXT_TO: $@MODE_PREFIX$Ви погасили гравця  %s
+FEED_TO: $@MODE_PREFIX$Голод гравця %s відновлений
+FLY_DISABLE: $@MODE_PREFIX$Режим польоту - §cвимкнений
+FLY_DISABLE_TO: $@MODE_PREFIX$Для гравця %s §fрежим польоту - §cвимкнений
+FLY_ENABLE: $@MODE_PREFIX$Режим польоту - §aувімкнений
+FLY_ENABLE_TO: $@MODE_PREFIX$Для гравця %s §fрежим польоту - §aувімкнений
+GOD_DISABLE: $@MODE_PREFIX$Режим бога - §cвимкнений
+GOD_DISABLE_TO: $@MODE_PREFIX$Для гравця %s §fрежим бога - §cвимкнений
+GOD_ENABLE: $@MODE_PREFIX$Режим бога - §aувімкнений
+GOD_ENABLE_TO: $@MODE_PREFIX$Для гравця %s §fрежим бога - §aувімкнений
 HAT_ERROR: §cВи повинні щось тримати в руці, щоб вдягнути це на голову
 HEAL_TO: Хп і голод відновлені гравцю %s
 HOME_CREATE: Точка будинку §a%s §fвстановлена
@@ -394,22 +394,22 @@ SITE_SHOP_ITEM_LORE_4:
 - '§7Ціна: §e%s §7золота'
 - ''
 - §e▸ Натисніть, щоб купити
-SPAWN_TO: Гравець %s §fпереміщений на спавн
-SPEED_TO: §fВстановлена швидкість §a%s §fдля гравця %s
+SPAWN_TO: $@MODE_PREFIX$Гравець %s §fпереміщений на спавн
+SPEED_TO: $@MODE_PREFIX$§fВстановлена швидкість §a%s §fдля гравця %s
 S_FORMAT: /s <нік гравця>
-TELEPORTING_RUNNING: §cПроцес телепортації вже запущений!
-TELEPORT_MOVE_ERROR: §cПомилка, ви рушили з місця, телепортація скасована
-TELEPORT_TO: Гравець %s §fбув телепортован к гравцю %s
-TPACCEPT_ERROR: У вас немає очікующих заявок
-TPACCEPT_ERROR_PLAYER: У вас немає очікующих заявок від гравця %s
-TPACCEPT_SENDER: Ви прийняли заявку від гравця %s
-TPACCEPT_WHO: Гравець %s §fприйняв вашу заявку на телепортацію
-TPDENY_YOU: Гравець %s §fвідхилив ваш запит на телепортирацію
+TELEPORTING_RUNNING: $@MODE_PREFIX$§cПроцес телепортації вже запущений!
+TELEPORT_MOVE_ERROR: $@MODE_PREFIX$§cПомилка, ви рушили з місця, телепортація скасована
+TELEPORT_TO: $@MODE_PREFIX$Гравець %s §fбув телепортован к гравцю %s
+TPACCEPT_ERROR: $@MODE_PREFIX$У вас немає очікующих заявок
+TPACCEPT_ERROR_PLAYER: $@MODE_PREFIX$У вас немає очікующих заявок від гравця %s
+TPACCEPT_SENDER: $@MODE_PREFIX$Ви прийняли заявку від гравця %s
+TPACCEPT_WHO: $@MODE_PREFIX$Гравець %s §fприйняв вашу заявку на телепортацію
+TPDENY_YOU: $@MODE_PREFIX$Гравець %s §fвідхилив ваш запит на телепортирацію
 TPPOS_ERROR: §cАргументи не вірні, повинні бути цифри
 TPPOS_FORMAT: /tppos <x> <y> <z>
-TPTOGGLE_DISABLE: Телепортації - §cвимкнені
-TPTOGGLE_ENABLE: Телепортації - §aувімкнені
-TPTOGGLE_ITEM_NAME: §aТелепортації §f- §a%s
+TPTOGGLE_DISABLE: $@MODE_PREFIX$Телепортації - §cвимкнені
+TPTOGGLE_ENABLE: $@MODE_PREFIX$Телепортації - §aувімкнені
+TPTOGGLE_ITEM_NAME: $@MODE_PREFIX$§aТелепортації §f- §a%s
 TRADE_ERROR: §6Trade §8| §fЗ вами ще ніхто не хотів помінятися
 TRADE_ERROR2: §6Trade §8| §fУ вас немає чекающих заявок від гравця %s
 TRADE_ERROR_YOU: §cВи не можете обмінюватися сам з собою
@@ -453,7 +453,7 @@ WARP_ITEM_LORE:
 - ' §7Z: §c%s'
 - ''
 - §e▸ Натисніть, щоб телепортуватися
-WARP_NOT_FOUND: §cВарп %s не знайдений
-WARP_NOT_YOUR: §cДаний варп вам не належить
-WARP_REMOVED: §fВарп §a%s §fвидалений
-WARP_TO: Ви були телепортованi на варп §a%s
+WARP_NOT_FOUND: $@MODE_PREFIX$§cВарп %s не знайдений
+WARP_NOT_YOUR: $@MODE_PREFIX$§cДаний варп вам не належить
+WARP_REMOVED: $@MODE_PREFIX$§fВарп §a%s §fвидалений
+WARP_TO: $@MODE_PREFIX$Ви були телепортованi на варп §a%s
