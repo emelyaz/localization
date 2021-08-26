@@ -653,7 +653,7 @@ TRADE_FORMAT: /trade <ник игрока>
 TRADE_HELP:
 - §7/trade <ник> §f- предложить обмен
 - §7/trade accept <ник> §f- принять обмен
-TRADE_INVITE_1: '$@MODE_PREFIX$%s §fпредложил вам обмен'
+TRADE_INVITE_1: '%s §fпредложил вам обмен'
 TRADE_PREFIX: §6Trade §8| §f
 USER_SETBED: $@MODE_PREFIX$Точка §aдома §fустановлена
 USER_SETHOME_BED: $@MODE_PREFIX$Чтобы установить §aточку дома§f, кликните §7ПКМ §fпо кровати
@@ -703,7 +703,7 @@ TPPOS: '$@MODE_PREFIX$Телепортируем на координаты: %s'
 TPTOGGLE: $@MODE_PREFIX$§cИгрок %s §cотключил все запросы на телепортации
 TRADE: $@MODE_PREFIX$§fЗапрос на обмен отправлен игроку %s
 BACK: $@MODE_PREFIX$Телепортируем на предыдущую локацию
-CALL: $@MODE_PREFIX$§fЗапрос на телепортацию отправлен игроку %s
+CALL: $@MODE_PREFIX$Запрос на телепортацию отправлен игроку %s
 TELEPORT: $@MODE_PREFIX$Вы были телепортированы к игроку %s
 TELEPORTING: $@MODE_PREFIX$Телепортируем, не двигайтесь §a%s §f%s
 SPEED: $@MODE_PREFIX$Установлена скорость §a%s
