@@ -1,6 +1,5 @@
-SKYBLOCK_PREFIX: '§6SkyBlock §8| §f'
-ISLAND_ACCEPT: $SKYBLOCK_PREFIX$Вы приняли запрос от игрока %s §fи стали участником острова %s
-ISLAND_ACCEPT_WHO: $SKYBLOCK_PREFIX$Игрок %s §fпринял ваш запрос и стал участником вашего острова
+ISLAND_ACCEPT: $SB_PREFIX$Вы приняли запрос от игрока %s §fи стали участником острова %s
+ISLAND_ACCEPT_WHO: $SB_PREFIX$Игрок %s §fпринял ваш запрос и стал участником вашего острова
 ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
 - §8 • §7Стоек для брони §fх10
 ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
@@ -133,36 +132,36 @@ ISLAND_ADDLEVEL_LORE:
 - '§7PS: Можно класть сразу стак блоков §8(х64)'
 ISLAND_ADDLEVEL_NAME: Перетащите блоки в этот слот
 ISLAND_ADDLEVEL_SUCCES: Игрок %s§f поднял очки опыта вашего острова на §a%s §fпунктов
-ISLAND_ADDMEMBER_ERROR: $SKYBLOCK_PREFIX$§cОшибка, данный игрок уже является участником
+ISLAND_ADDMEMBER_ERROR: $SB_PREFIX$§cОшибка, данный игрок уже является участником
   или владельцем какого-то острова
-ISLAND_ADDMEMBER_LIMIT: $SKYBLOCK_PREFIX$§cОшибка, вы привысили лимит на кол-во участников
+ISLAND_ADDMEMBER_LIMIT: $SB_PREFIX$§cОшибка, вы привысили лимит на кол-во участников
   вашего острова, кол-во участников не должно превышать %s
-ISLAND_ADDMEMBER_YOU: $SKYBLOCK_PREFIX$§cОшибка, вы не можете кинуть приглашение сами
+ISLAND_ADDMEMBER_YOU: $SB_PREFIX$§cОшибка, вы не можете кинуть приглашение сами
   себе
-ISLAND_ADD_IGNORE_PLAYER: $SKYBLOCK_PREFIX$%s §fбыл добавлен участником %s§f в список
+ISLAND_ADD_IGNORE_PLAYER: $SB_PREFIX$%s §fбыл добавлен участником %s§f в список
   нежелательных игроков острова
 ISLAND_ADD_PLAYER_REQUEST_1: ' %s §fпредлагает вам играть вместе на своем острове'
 ISLAND_ADD_PLAYER_REQUEST_2: ' §fДля принятия запроса пишите '
 ISLAND_ADD_PLAYER_REQUEST_3: ' §fДля отмены запроса пиши '
 ISLAND_ADD_PLAYER_REQUEST_4: ' §fУ вас есть §a120 §fсекунд, чтобы его принять'
-ISLAND_ADD_REQUEST: $SKYBLOCK_PREFIX$Приглашение отправлено игроку %s
-ISLAND_ALREADY_CREATE: $SKYBLOCK_PREFIX$Ошибка, у вас уже есть остров. Чтобы попасть
+ISLAND_ADD_REQUEST: $SB_PREFIX$Приглашение отправлено игроку %s
+ISLAND_ALREADY_CREATE: $SB_PREFIX$Ошибка, у вас уже есть остров. Чтобы попасть
   на свой остров напишите §7/island home
 ISLAND_BASALT_GENERATOR_UPGRADE: Улучшение генератора базальта
 ISLAND_BASALT_GENERATOR_UPGRADE_MAX:
 - '§7У вас максимальный уровень генератора: §a%s'
 - '§7В данный момент он дает:'
-ISLAND_BEACON_BUY_ALREADY: $SKYBLOCK_PREFIX$Вы уже владеете данным эффектом
-ISLAND_BEACON_ENABLE_ERROR: $SKYBLOCK_PREFIX$Простите, но вы не можете активировать
+ISLAND_BEACON_BUY_ALREADY: $SB_PREFIX$Вы уже владеете данным эффектом
+ISLAND_BEACON_ENABLE_ERROR: $SB_PREFIX$Простите, но вы не можете активировать
   данный эффект, лимит вашего острова на кол-во эффектов §7%s
 ISLAND_BEACON_GUI_NAME: Эффекты
-ISLAND_BEACON_NOT_OPEN: $SKYBLOCK_PREFIX$Данный эффект вам недоступен, купите его!
+ISLAND_BEACON_NOT_OPEN: $SB_PREFIX$Данный эффект вам недоступен, купите его!
 ISLAND_BIOME_BASALT_DELTAS_LORE:
 - ' '
 ISLAND_BIOME_BASALT_DELTAS_NAME: Базальтовые дельты
-ISLAND_BIOME_BUY: $SKYBLOCK_PREFIX$Вы успешно купили биом §c%s
-ISLAND_BIOME_BUY_ALREADY: $SKYBLOCK_PREFIX$Вы уже владеете данным биомом
-ISLAND_BIOME_BUY_TO: $SKYBLOCK_PREFIX$Игрок %s §fкупил биом §c%s §fза §a%s изумрудных
+ISLAND_BIOME_BUY: $SB_PREFIX$Вы успешно купили биом §c%s
+ISLAND_BIOME_BUY_ALREADY: $SB_PREFIX$Вы уже владеете данным биомом
+ISLAND_BIOME_BUY_TO: $SB_PREFIX$Игрок %s §fкупил биом §c%s §fза §a%s изумрудных
   блока
 ISLAND_BIOME_CRIMSON_FOREST_LORE:
 - ' '
@@ -199,7 +198,7 @@ ISLAND_BIOME_MUSHROOM_ISLAND_NAME: Грибной остров
 ISLAND_BIOME_NETHER_WASTES_LORE:
 - ' '
 ISLAND_BIOME_NETHER_WASTES_NAME: Незерские пустоши
-ISLAND_BIOME_NOT_OPEN: $SKYBLOCK_PREFIX$Данный биом вам недоступен, купите его!
+ISLAND_BIOME_NOT_OPEN: $SB_PREFIX$Данный биом вам недоступен, купите его!
 ISLAND_BIOME_OCEAN_LORE:
 - §7Обычно океаны расстилаются во все стороны,
 - §7и составляют 60% площади от всего мира.
@@ -218,8 +217,8 @@ ISLAND_BIOME_ROOFED_FOREST_LORE:
 - §7темно, чтобы враждебные существа появились
 - §7даже днем!
 ISLAND_BIOME_ROOFED_FOREST_NAME: Тёмный лес
-ISLAND_BIOME_SET: $SKYBLOCK_PREFIX$Установлен биом §a%s
-ISLAND_BIOME_SET_ERROR: $SKYBLOCK_PREFIX$Этот биом уже установлен на вашем острове
+ISLAND_BIOME_SET: $SB_PREFIX$Установлен биом §a%s
+ISLAND_BIOME_SET_ERROR: $SB_PREFIX$Этот биом уже установлен на вашем острове
 ISLAND_BIOME_SOUL_SAND_VALLEY_LORE:
 - ' '
 ISLAND_BIOME_SOUL_SAND_VALLEY_NAME: Долина песка душ
@@ -240,9 +239,9 @@ ISLAND_BOX_SHOP_SELECT_LORE:
 - ''
 - §e▸ Нажмите, чтобы купить ключи
 ISLAND_BOX_SHOP_SELECT_NAME: §eПокупка на /warp shop
-ISLAND_BUY_BASALT_GENERATOR: $SKYBLOCK_PREFIX$Игрок %s §fулучшил базальтовый генератор
+ISLAND_BUY_BASALT_GENERATOR: $SB_PREFIX$Игрок %s §fулучшил базальтовый генератор
   для вашего острова до §a%s §fуровня
-ISLAND_BUY_BEACON_ALERT: $SKYBLOCK_PREFIX$Игрок %s §fкупил эффект маяка §7%s §fза
+ISLAND_BUY_BEACON_ALERT: $SB_PREFIX$Игрок %s §fкупил эффект маяка §7%s §fза
   §e%s §f%s
 ISLAND_BUY_BEACON_GUI_LORE:
 - ''
@@ -256,9 +255,9 @@ ISLAND_BUY_BIOME:
 - §7данный биом ?
 - ' '
 ISLAND_BUY_BIOME_GUI_NAME: Купить биом ?
-ISLAND_BUY_GENERATOR: $SKYBLOCK_PREFIX$Игрок %s §fулучшил генератор для вашего острова
+ISLAND_BUY_GENERATOR: $SB_PREFIX$Игрок %s §fулучшил генератор для вашего острова
   до §a%s §fуровня
-ISLAND_BUY_UPGRADE: $SKYBLOCK_PREFIX$Игрок %s §fкупил улучшение §a%s
+ISLAND_BUY_UPGRADE: $SB_PREFIX$Игрок %s §fкупил улучшение §a%s
 ISLAND_BUY_UPGRADE_GOLD_LORE:
 - ' '
 - §7Вы уверены, что хотите купить
@@ -276,18 +275,18 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - ' '
 - §e▸ Нажмите ЛКМ, чтобы купить за блоки
 - §e▸ Нажмите ПКМ, чтобы купить за золото
-ISLAND_BUY_UPGRADE_TERRITORY: $SKYBLOCK_PREFIX$Игрок %s §fкупил расширение территории
+ISLAND_BUY_UPGRADE_TERRITORY: $SB_PREFIX$Игрок %s §fкупил расширение территории
   острова
-ISLAND_CANCEL: $SKYBLOCK_PREFIX$Вы отклонили запрос на совместное сожительство от игрока %s
-ISLAND_CANCEL_YOU: $SKYBLOCK_PREFIX$Игрок %s §fотклонил ваш запрос
+ISLAND_CANCEL: $SB_PREFIX$Вы отклонили запрос на совместное сожительство от игрока %s
+ISLAND_CANCEL_YOU: $SB_PREFIX$Игрок %s §fотклонил ваш запрос
 ISLAND_CLASSIC_LORE:
 - ' '
 - §7Самый обычный остров.
 - ' '
 - §e▸ Нажмите, чтобы выбрать этот остров
 ISLAND_CLASSIC_NAME: Классический остров
-ISLAND_CLEAR_STATS_APPLY: $SKYBLOCK_PREFIX$Статистика очищена
-ISLAND_CLEAR_STATS_ERROR: $SKYBLOCK_PREFIX$Вы не можете очистить пустую статистику
+ISLAND_CLEAR_STATS_APPLY: $SB_PREFIX$Статистика очищена
+ISLAND_CLEAR_STATS_ERROR: $SB_PREFIX$Вы не можете очистить пустую статистику
   :/
 ISLAND_CLEAR_STATS_LORE:
 - ''
@@ -317,7 +316,7 @@ ISLAND_CLICK_TO_SET_BIOME_ERROR:
 - §cДанный биом вам недоступен!
 - ' '
 - §e▸ Нажмите ПКМ, чтобы купить данный биом
-ISLAND_CLOSED: $SKYBLOCK_PREFIX$Данный остров закрыт и телепортация на него не возможна!
+ISLAND_CLOSED: $SB_PREFIX$Данный остров закрыт и телепортация на него не возможна!
   Попросите владельца отключить флаг §cприватность
 
 ISLAND_CREATE_DESCRIPTION: 'создать остров'
@@ -355,7 +354,7 @@ ISLAND_DEFAULT_LORE:
 - ' '
 - §e▸ Нажмите, чтобы выбрать этот остров
 ISLAND_DEFAULT_NAME: Стандартный остров
-ISLAND_DELETE: $SKYBLOCK_PREFIX$Игрок %s §fбыл успешно удален с вашего острова
+ISLAND_DELETE: $SB_PREFIX$Игрок %s §fбыл успешно удален с вашего острова
 ISLAND_DELETE_GUI_NAME: Удалить остров ?
 ISLAND_DELETE_LORE:
 - ''
@@ -366,14 +365,14 @@ ISLAND_DELETE_LORE:
 - '§7PS: Повтороное создание острова - §f/is create'
 - ''
 - §cВНИМАНИЕ! Действие не обратимо!
-ISLAND_DELETE_MEMBER_ERROR: $SKYBLOCK_PREFIX$§cОшибка, данный игрок не является участником
+ISLAND_DELETE_MEMBER_ERROR: $SB_PREFIX$§cОшибка, данный игрок не является участником
   вашего острова
-ISLAND_DELETE_MEMBER_ERROR2: $SKYBLOCK_PREFIX$§cОшибка, данный игрок владелец острова
-ISLAND_DELETE_MEMBER_OWNER: $SKYBLOCK_PREFIX$§cОшибка, вы не можете удалить сами себя
+ISLAND_DELETE_MEMBER_ERROR2: $SB_PREFIX$§cОшибка, данный игрок владелец острова
+ISLAND_DELETE_MEMBER_OWNER: $SB_PREFIX$§cОшибка, вы не можете удалить сами себя
   со своего острова
-ISLAND_DELETE_TO: $SKYBLOCK_PREFIX$Игрок %s §fудалил вас с острова %s §fи вы были
+ISLAND_DELETE_TO: $SB_PREFIX$Игрок %s §fудалил вас с острова %s §fи вы были
   отправлены на спавн
-ISLAND_DESTROY_COOLDOWN: $SKYBLOCK_PREFIX$§cВы не можете так часто делать рестарт острова,
+ISLAND_DESTROY_COOLDOWN: $SB_PREFIX$§cВы не можете так часто делать рестарт острова,
   вам придется подождать %s
 ISLAND_END_LORE:
 - ' '
@@ -529,7 +528,7 @@ ISLAND_IGNORED_NOTHING_LORE:
 - ''
 ISLAND_IGNORE_ALREADY: §cОшибка, данный игрок уже в списке!
 ISLAND_IGNORE_MEMBER: §cОшибка, данный игрок является участником острова!
-ISLAND_LEAVE: $SKYBLOCK_PREFIX$Вы покинули остров игрока %s
+ISLAND_LEAVE: $SB_PREFIX$Вы покинули остров игрока %s
 ISLAND_LEAVE_GUI_NAME: Покинуть остров ?
 ISLAND_LEAVE_LORE:
 - ''
@@ -537,12 +536,12 @@ ISLAND_LEAVE_LORE:
 - §7остров на котором играете в
 - §7данный момент ?
 - ''
-ISLAND_LEAVE_OWNER: $SKYBLOCK_PREFIX$§cОшибка, вы не можете покинуть свой же остров
-ISLAND_MAX_UPGRADE: $SKYBLOCK_PREFIX$§cОшибка! У вас уже максимальный уровень данного
+ISLAND_LEAVE_OWNER: $SB_PREFIX$§cОшибка, вы не можете покинуть свой же остров
+ISLAND_MAX_UPGRADE: $SB_PREFIX$§cОшибка! У вас уже максимальный уровень данного
   апгрейда
 ISLAND_MEMBER: Участник
 ISLAND_MEMBERS_GUI_NAME: Участники острова
-ISLAND_MEMBER_BLOCKED: $SKYBLOCK_PREFIX$Простите, но вы были внесеты в §cсписок нежелательных
+ISLAND_MEMBER_BLOCKED: $SB_PREFIX$Простите, но вы были внесеты в §cсписок нежелательных
   игроков §fэтого острова (владелец - %s§f)
 ISLAND_MEMBER_LORE:
 - ''
@@ -552,7 +551,7 @@ ISLAND_MEMBER_LORE:
 - ''
 - §e▸ Нажмите ПКМ, чтобы управлять игроком
 ISLAND_MEMBER_OFFLINE: §cоффлайн
-ISLAND_MEMBER_REMOVED: $SKYBLOCK_PREFIX$%s §fбыл удален с острова игроком %s
+ISLAND_MEMBER_REMOVED: $SB_PREFIX$%s §fбыл удален с острова игроком %s
 ISLAND_MEMBER_REMOVE_LORE:
 - ' '
 - '§7Удалить участника острова '
@@ -561,9 +560,9 @@ ISLAND_MEMBER_REMOVE_LORE:
 - ' '
 - §e▸ Нажмите, чтобы удалить участника
 ISLAND_MEMBER_REMOVE_NAME: Удалить участника острова
-ISLAND_MEMBER_SETTINGS_OWNER: $SKYBLOCK_PREFIX$§cОшибка, вы не можете настраивать права
+ISLAND_MEMBER_SETTINGS_OWNER: $SB_PREFIX$§cОшибка, вы не можете настраивать права
   владельца острова!
-ISLAND_MEMBER_SET_RANK_ALERT: $SKYBLOCK_PREFIX$§fИгроку %s §fбыли назначены новые права
+ISLAND_MEMBER_SET_RANK_ALERT: $SB_PREFIX$§fИгроку %s §fбыли назначены новые права
   управления островом
 ISLAND_MEMBER_SET_RANK_LORE_OFF:
 - §7Нажмите, чтобы выдать новые права
@@ -582,17 +581,17 @@ ISLAND_MOB_COMMAND:
 - ' §c▪ §fИгроков: §a%s'
 - ' §c▪ §fДропнутых айтемов: §a%s'
 - Ваш лимит мобов §a%s§f/§c%s
-ISLAND_MOB_COMMAND_ERROR: $SKYBLOCK_PREFIX$Вы должны находится на территории своего
+ISLAND_MOB_COMMAND_ERROR: $SB_PREFIX$Вы должны находится на территории своего
   острова
 ISLAND_NETHER_MINE_ERROR: §cВы не можете рыть блоки в адской шахте, пока не приобретете
   улучшение "АД"
 ISLAND_NOT_CREATE_WARP: §cВы не можете создавать варп на этом острове
-ISLAND_NOT_FOUND: $SKYBLOCK_PREFIX$Остров игрока %s §fне найден
+ISLAND_NOT_FOUND: $SB_PREFIX$Остров игрока %s §fне найден
 ISLAND_NOT_OWNER: §cОшибка, вы не владелец или со-владелец острова!
 ISLAND_NOT_USED: §cОшибка, владелец острова запретил взаимодейстие с подобными предметами
 ISLAND_NOT_YOU: §cОшибка, вы не можете это сделать, вы не участник острова!
 ISLAND_NOT_YOU_COMMAND: §cОшибка, вы не можете использовать эту команду на чужом острове!
-ISLAND_NO_ISLAND: $SKYBLOCK_PREFIX$Ошибка, кажется у вас нет острова... Чтобы создать
+ISLAND_NO_ISLAND: $SB_PREFIX$Ошибка, кажется у вас нет острова... Чтобы создать
   свой остров напишите §7/island create
 ISLAND_NO_PVP: §cОшибка, ПВП на этом острове отключено
 ISLAND_OPENED_GUI_LORE:
@@ -725,10 +724,10 @@ ISLAND_RANK_MEMBER:
 - §8• §7Взаимодействие с территорией острова
 - ' '
 ISLAND_REGUEST_GUI_NAME: Активные приглашения
-ISLAND_REMOVED: $SKYBLOCK_PREFIX$Остров успешно удален, вы были перемещены на спавн
-ISLAND_REMOVED_MEMBER: $SKYBLOCK_PREFIX$Владелец острова удалил свой остров, вы были
+ISLAND_REMOVED: $SB_PREFIX$Остров успешно удален, вы были перемещены на спавн
+ISLAND_REMOVED_MEMBER: $SB_PREFIX$Владелец острова удалил свой остров, вы были
   перемещены на спавн
-ISLAND_REMOVE_IGNORE_PLAYER: $SKYBLOCK_PREFIX$%s §fбыл удален участником %s§f из списка
+ISLAND_REMOVE_IGNORE_PLAYER: $SB_PREFIX$%s §fбыл удален участником %s§f из списка
   нежелательных игроков острова
 ISLAND_REMOVE_MEMBER_GUI_NAME: Удалить участника ?
 ISLAND_REMOVE_MEMBER_LORE:
@@ -737,7 +736,7 @@ ISLAND_REMOVE_MEMBER_LORE:
 - §7с вашего привата данного
 - §7участника ?
 - ''
-ISLAND_REQUESTS_ERROR: $SKYBLOCK_PREFIX$§cОшибка, у вас уже есть остров, приглашения
+ISLAND_REQUESTS_ERROR: $SB_PREFIX$§cОшибка, у вас уже есть остров, приглашения
   вам не нужны
 ISLAND_REQUESTS_ITEM_HEAD_LORE:
 - ''
@@ -749,7 +748,7 @@ ISLAND_REQUESTS_ITEM_HEAD_LORE:
 - ''
 - §e▸ ЛКМ, чтобы принять запрос
 - §e▸ ПКМ, чтобы отклонить
-ISLAND_RESET: $SKYBLOCK_PREFIX$Ваш остров был очищен и пересоздан
+ISLAND_RESET: $SB_PREFIX$Ваш остров был очищен и пересоздан
 ISLAND_RESET_GUI_NAME: Пересоздать остров ?
 ISLAND_RESET_LORE:
 - ''
@@ -774,8 +773,8 @@ ISLAND_RUINES_LORE:
 - ' '
 - §e▸ Нажмите, чтобы выбрать этот остров
 ISLAND_RUINES_NAME: Остров в руинах
-ISLAND_SETHOME: $SKYBLOCK_PREFIX$Точка дома установлена (§7%s§f)
-ISLAND_SETHOME_ERROR: $SKYBLOCK_PREFIX$§cВы не можете установить точку дома в этой локации
+ISLAND_SETHOME: $SB_PREFIX$Точка дома установлена (§7%s§f)
+ISLAND_SETHOME_ERROR: $SB_PREFIX$§cВы не можете установить точку дома в этой локации
 ISLAND_TAIGA_LORE:
 - ' '
 - §7Йо-хо-хо, любите снег и мороз?
@@ -785,7 +784,7 @@ ISLAND_TAIGA_LORE:
 - ' '
 - §e▸ Нажмите, чтобы выбрать этот остров
 ISLAND_TAIGA_NAME: Снежный остров
-ISLAND_TELEPORT_HOME: $SKYBLOCK_PREFIX$Вы были телепортированы на остров (владелец
+ISLAND_TELEPORT_HOME: $SB_PREFIX$Вы были телепортированы на остров (владелец
   - %s§f)
 ISLAND_TOP_KILLS_HOLO:
 - §6§lТоп по убийствам
@@ -803,9 +802,9 @@ ISLAND_UPGRADED_TERRITORY_LORE:
 - '§7Текущий уровень улучшения: §a%s'
 - '§7Максимальный уровень: §c5'
 - ' '
-ISLAND_UPGRADE_BUY_ERROR: $SKYBLOCK_PREFIX$У вас недостаточно §aизумрудных блоков§f
+ISLAND_UPGRADE_BUY_ERROR: $SB_PREFIX$У вас недостаточно §aизумрудных блоков§f
   для этой покупки (необходимо §7x%s§f)
-ISLAND_UPGRADE_BUY_GOLD_ERROR: $SKYBLOCK_PREFIX$У вас недостаточно §eзолота §f для
+ISLAND_UPGRADE_BUY_GOLD_ERROR: $SB_PREFIX$У вас недостаточно §eзолота §f для
   этой покупки (необходимо §e%s§f)
 ISLAND_UPGRADE_EFFICIENCY_FURNACE_LORE:
 - ''
