@@ -178,19 +178,19 @@ AUCTION_TYPE_RESOURCES_NAME: Ресурсы
 AUCTION_TYPE_TOOLS_NAME: Инструменты
 AUCTION_TYPE_WEAPON_NAME: Оружие
 BED_BROKEN: §cКровать\якорь отсутствует или был(а) уничтожена
-BETTER_SURVIVAL_COMPASS: '§fВаш компас указывает на координаты §ax: %s §az: %s'
-BETTER_SURVIVAL_COMPASS_ERROR_FORMAT: §fОшибка в написании координат! §fНастроить
+BETTER_SURVIVAL_COMPASS: '$@MODE_PREFIX$§fВаш компас указывает на координаты §ax: %s §az: %s'
+BETTER_SURVIVAL_COMPASS_ERROR_FORMAT: $@MODE_PREFIX$§cОшибка в написании координат! §fНастроить
   компас на координаты §7/compass <x> <z>
-BETTER_SURVIVAL_COMPASS_FORMAT: §fВы можете настроить компасс на любые координаты
+BETTER_SURVIVAL_COMPASS_FORMAT: $@MODE_PREFIX$Вы можете настроить компасс на любые координаты
   §7/compass <x> <z>
 BETTER_SURVIVAL_COMPASS_TO: 'Расстояние до цели: §a%s'
-BETTER_SURVIVAL_COMPASS_WITHOUT_BED: §fВаш компас указывает на центр мира, так как
+BETTER_SURVIVAL_COMPASS_WITHOUT_BED: $@MODE_PREFIX$Ваш компас указывает на центр мира, так как
   у вас нет кровати!
 BETTER_SURVIVAL_PVP_BAR: §fРежим боя %s §f%s %s
-BETTER_SURVIVAL_PVP_COMMAND: §fНельзя использовать эту команду во время PVP!
-BETTER_SURVIVAL_PVP_END: §fВы вышли из боя! Теперь можно спокойно перезайти на сервер!
-BETTER_SURVIVAL_PVP_START: §fВы вступили в бой! Не покидайте игру в течении §c%s §fсекунд
-BETTER_SURVIVAL_PVP_TELEPORT: §fТелепортации во время PVP запрещены!
+BETTER_SURVIVAL_PVP_COMMAND: $@MODE_PREFIX$Нельзя использовать эту команду во время PVP!
+BETTER_SURVIVAL_PVP_END: $@MODE_PREFIX$Вы вышли из боя! Теперь можно спокойно перезайти на сервер!
+BETTER_SURVIVAL_PVP_START: $@MODE_PREFIX$Вы вступили в бой! Не покидайте игру в течении §c%s §fсекунд
+BETTER_SURVIVAL_PVP_TELEPORT: $@MODE_PREFIX$Телепортации во время PVP запрещены!
 BETTER_SURVIVAL_SLEEP: '§fСпят: §a%s§f/§a%s §f- §a%s'
 CLEARLAG_PREFIX: '§6Очистка §8| §f'
 CLEARLAG_TIMER: '$CLEARLAG_PREFIX$Весь мусор будет удалён через §c%s§f!'
@@ -232,31 +232,31 @@ CALL_ITEM_HEAD_LORE:
 - §e▸ ПКМ, чтобы отклонить
 CALL_YOU: §cОшибка, вы не можете отправить запрос самому себе
 CHUNK_FORMAT: /chunk <x> <z>
-CLEAR_INV: Все предметы удалены
-CLEAR_INV_TO: У игрока %s §fудалены все предметы
+CLEAR_INV: $@MODE_PREFIX$Все предметы удалены
+CLEAR_INV_TO: $@MODE_PREFIX$У игрока %s §fудалены все предметы
 CREATE_WARP_FORMAT: /createwarp <название>
 DELHOME_FORMAT: /delhome <название>
 DEL_WARP_FORMAT: /delwarp <название>
-DISPELL_ERROR: §cЭтот предмет не содержит чары
-ENCHANTED_BOOK_ERROR: §6Enchanted §8| §fОшибка, вам нужно иметь §a%s §fуровень, чтобы
+DISPELL_ERROR: $@MODE_PREFIX$§cЭтот предмет не содержит чары
+ENCHANTED_BOOK_ERROR: $@MODE_PREFIX$§cОшибка, вам нужно иметь §a%s §fуровень, чтобы
   наложить эти чары на предмет
-EXT_TO: Вы пошушили игрока %s
-FEED_TO: Голод восстановлен игроку %s
-FLY_DISABLE: Режим полета - §cотключен
-FLY_DISABLE_TO: Для игрока %s §fрежим полета - §cотключен
-FLY_ENABLE: Режим полета - §aвключен
-FLY_ENABLE_TO: Для игрока %s §fрежим полета - §aвключен
-FLY_GOD_PVP_DISABLE: §cОшибка, вы не можете атаковать игроков в режиме бога или полета
-GOD_DISABLE: Режим бога - §cотключен
-GOD_DISABLE_TO: Для игрока %s §fрежим бога - §cотключен
-GOD_ENABLE: Режим бога - §aвключен
-GOD_ENABLE_TO: Для игрока %s §fрежим бога - §aвключен
-HAT_ERROR: §cВы должны что-то держать в руке, чтобы одеть это на голову
-HAT_ERROR_ENCHANT: §cОшибка, вы должны снять текущий головной убор
-HEAL_TO: Хп и голод восстановлены игроку %s
-HOME_CREATE: Точка дома §a%s §fустановлена
-HOME_EMPTY: §cОшибка, у вас нет установленных точек дома
-HOME_ERROR: §cОшибка, у вас уже есть точка дома с именем %s
+EXT_TO: $@MODE_PREFIX$Вы пошушили игрока %s
+FEED_TO: $@MODE_PREFIX$Голод восстановлен игроку %s
+FLY_DISABLE: $@MODE_PREFIX$Режим полета - §cотключен
+FLY_DISABLE_TO: $@MODE_PREFIX$Для игрока %s §fрежим полета - §cотключен
+FLY_ENABLE: $@MODE_PREFIX$Режим полета - §aвключен
+FLY_ENABLE_TO: $@MODE_PREFIX$Для игрока %s §fрежим полета - §aвключен
+FLY_GOD_PVP_DISABLE: $@MODE_PREFIX$§cОшибка, вы не можете атаковать игроков в режиме бога или полета
+GOD_DISABLE: $@MODE_PREFIX$Режим бога - §cотключен
+GOD_DISABLE_TO: $@MODE_PREFIX$Для игрока %s §fрежим бога - §cотключен
+GOD_ENABLE: $@MODE_PREFIX$Режим бога - §aвключен
+GOD_ENABLE_TO: $@MODE_PREFIX$Для игрока %s §fрежим бога - §aвключен
+HAT_ERROR: $@MODE_PREFIX$§cВы должны что-то держать в руке, чтобы одеть это на голову
+HAT_ERROR_ENCHANT: $@MODE_PREFIX$§cОшибка, вы должны снять текущий головной убор
+HEAL_TO: $@MODE_PREFIX$Хп и голод восстановлены игроку %s
+HOME_CREATE: $@MODE_PREFIX$Точка дома §a%s §fустановлена
+HOME_EMPTY: $@MODE_PREFIX$§cОшибка, у вас нет установленных точек дома
+HOME_ERROR: $@MODE_PREFIX$§cОшибка, у вас уже есть точка дома с именем %s
 HOME_GUI_LORE:
 - ''
 - §7Получить список
@@ -377,7 +377,7 @@ KIT_LORE_ENABLE:
 - ''
 - §e▸ Нажмите, чтобы выбрать набор
 KIT_NOT_FOUND: §cНабор %s не найден
-KIT_SELECT: Вам был выдан набор §a%s
+KIT_SELECT: $@MODE_PREFIX$Вам был выдан набор §a%s
 MYWARP_ITEM_CHANGER_LORE:
 - ''
 - §7Показать список личных варпов
@@ -631,23 +631,23 @@ SPAWNER_FLAG_TOO_MANY_MOBS_NAME: Дополнительная сущность
 SPAWNER_IS_ALREADY_SELECT: '%s §cЭтот спавнер уже спавнит данный тип энтити'
 SPAWNER_IS_BROKEN: '%s §cВы не можете поменять сущность в сломанном спавнере, почините
   его'
-SPAWN_TO: Игрок %s §fперемещен на спавн
-SPEED_TO: §fУстановлена скорость §a%s §fдля игрока %s
+SPAWN_TO: $@MODE_PREFIX$Игрок %s §fперемещен на спавн
+SPEED_TO: $@MODE_PREFIX$§fУстановлена скорость §a%s §fдля игрока %s
 S_FORMAT: /s <ник игрока>
-TELEPORTING_RUNNING: §cПроцесс телепортации уже запущен!
-TELEPORT_MOVE_ERROR: §cОшибка, вы двинулись, телепортация отменена
-TELEPORT_TO: Игрок %s §fбыл телепортирован к игроку %s
-TPACCEPT_ERROR: У вас нет ожидающих заявок
-TPACCEPT_ERROR_PLAYER: У вас нет ожидающих заявок от игрока %s
-TPACCEPT_SENDER: Вы приняли запрос от игрока %s
-TPACCEPT_WHO: Игрок %s §fпринял ваш запрос на телепортацию
-TPDENY_YOU: Игрок %s §fотклонил ваш запрос на телепортарацию
+TELEPORTING_RUNNING: $@MODE_PREFIX$§cПроцесс телепортации уже запущен!
+TELEPORT_MOVE_ERROR: $@MODE_PREFIX$§cОшибка, вы двинулись, телепортация отменена
+TELEPORT_TO: $@MODE_PREFIX$Игрок %s §fбыл телепортирован к игроку %s
+TPACCEPT_ERROR: $@MODE_PREFIX$У вас нет ожидающих заявок
+TPACCEPT_ERROR_PLAYER: $@MODE_PREFIX$У вас нет ожидающих заявок от игрока %s
+TPACCEPT_SENDER: $@MODE_PREFIX$Вы приняли запрос от игрока %s
+TPACCEPT_WHO: $@MODE_PREFIX$Игрок %s §fпринял ваш запрос на телепортацию
+TPDENY_YOU: $@MODE_PREFIX$Игрок %s §fотклонил ваш запрос на телепортарацию
 TPPOS_ERROR: §cАргументы не верны, должны быть цифры
-TPPOS_ERROR_BORDER: §cВы не можете телепортироваться в данную локацию, она находится
+TPPOS_ERROR_BORDER: $@MODE_PREFIX$§cВы не можете телепортироваться в данную локацию, она находится
   за пределами границы мира
 TPPOS_FORMAT: /tppos <x> <y> <z>
-TPTOGGLE_DISABLE: Телепортации - §cотключены
-TPTOGGLE_ENABLE: Телепортации - §aвключены
+TPTOGGLE_DISABLE: $@MODE_PREFIX$Телепортации - §cотключены
+TPTOGGLE_ENABLE: $@MODE_PREFIX$Телепортации - §aвключены
 TPTOGGLE_ITEM_NAME: §aТелепортации §f- §a%s
 TRADE_ERROR: $TRADE_PREFIX$С вами еще никто не хотел поменяться
 TRADE_ERROR2: $TRADE_PREFIX$У вас нет ожидающих заявок от игрока %s
@@ -656,15 +656,15 @@ TRADE_FORMAT: /trade <ник игрока>
 TRADE_HELP:
 - §7/trade <ник> §f- предложить обмен
 - §7/trade accept <ник> §f- принять обмен
-TRADE_INVITE_1: ' %s §fпредложил вам обмен'
+TRADE_INVITE_1: '%s §fпредложил вам обмен'
 TRADE_PREFIX: §6Trade §8| §f
-USER_SETBED: Точка §aдома §fустановлена
-USER_SETHOME_BED: Чтобы установить §aточку дома§f, кликните §7ПКМ §fпо кровати
+USER_SETBED: $@MODE_PREFIX$Точка §aдома §fустановлена
+USER_SETHOME_BED: $@MODE_PREFIX$Чтобы установить §aточку дома§f, кликните §7ПКМ §fпо кровати
 WARPINFO_FORMAT: /warpinfo <название варпа>
-WARP_CLOSE: §cВарп %s закрыт, т.к. он является приватным!
-WARP_CREATE: Варп §a%s §fуспешно создан
-WARP_CREATE_ERROR: §cВарп %s уже существует
-WARP_CREATE_NAME_ERROR: §cОшибка, длина варпа не может превышать 32 символа
+WARP_CLOSE: $@MODE_PREFIX$§cВарп %s закрыт, т.к. он является приватным!
+WARP_CREATE: $@MODE_PREFIX$Варп §a%s §fуспешно создан
+WARP_CREATE_ERROR: $@MODE_PREFIX$§cВарп %s уже существует
+WARP_CREATE_NAME_ERROR: $@MODE_PREFIX$§cОшибка, длина варпа не может превышать 32 символа
 WARP_GUI_LORE:
 - ''
 - §7управление своими
@@ -696,24 +696,24 @@ WARP_ITEM_LORE:
 - ' §7Z: §c%s'
 - ''
 - §e▸ Нажмите, чтобы телепортироваться
-WARP_NOT_FOUND: §cВарп %s не найден
-WARP_NOT_YOUR: §cДанный варп вам не принадлежит
-WARP_REMOVED: §fВарп §a%s §fудален
-WARP_TO: Вы были телепортированы на варп §a%s
+WARP_NOT_FOUND: $@MODE_PREFIX$§cВарп %s не найден
+WARP_NOT_YOUR: $@MODE_PREFIX$§cДанный варп вам не принадлежит
+WARP_REMOVED: $@MODE_PREFIX$Варп §a%s §fудален
+WARP_TO: $@MODE_PREFIX$Вы были телепортированы на варп §a%s
 WEB_BUY_ITEMS: §6Сервер §8| §fПоздравляем с покупкой %s §8x%s
-TPDENY: Вы отклонили запрос на телепортацию от игрока %s
-TPPOS: 'Телепортируем на координаты: %s'
-TPTOGGLE: §cИгрок %s §cотключил все запросы на телепортации
-TRADE: §fЗапрос на обмен отправлен игроку %s
-BACK: Телепортируем на предыдущую локацию
-CALL: §fЗапрос на телепортацию отправлен игроку %s
-TELEPORT: Вы были телепортированы к игроку %s
-TELEPORTING: Телепортируем, не двигайтесь §a%s §f%s
-SPEED: §fУстановлена скорость §a%s
-SPAWN: Телепортируем на спавн...
-REPAIR: Предмет отремонтирован
-PTIME: Время установлено на §a%s
-HAT: Наслаждайтесь своим головным убором!
-HEAL: Хп и голод восстановлены
-FEED: Голод восстановлен
-EXT: Вы были потушены
+TPDENY: $@MODE_PREFIX$Вы отклонили запрос на телепортацию от игрока %s
+TPPOS: '$@MODE_PREFIX$Телепортируем на координаты: %s'
+TPTOGGLE: $@MODE_PREFIX$§cИгрок %s §cотключил все запросы на телепортации
+TRADE: $@MODE_PREFIX$§fЗапрос на обмен отправлен игроку %s
+BACK: $@MODE_PREFIX$Телепортируем на предыдущую локацию
+CALL: $@MODE_PREFIX$Запрос на телепортацию отправлен игроку %s
+TELEPORT: $@MODE_PREFIX$Вы были телепортированы к игроку %s
+TELEPORTING: $@MODE_PREFIX$Телепортируем, не двигайтесь §a%s §f%s
+SPEED: $@MODE_PREFIX$Установлена скорость §a%s
+SPAWN: $@MODE_PREFIX$Телепортируем на спавн...
+REPAIR: $@MODE_PREFIX$Предмет отремонтирован
+PTIME: $@MODE_PREFIX$Время установлено на §a%s
+HAT: $@MODE_PREFIX$Наслаждайтесь своим головным убором!
+HEAL: $@MODE_PREFIX$Хп и голод восстановлены
+FEED: $@MODE_PREFIX$Голод восстановлен
+EXT: $@MODE_PREFIX$Вы были потушены
