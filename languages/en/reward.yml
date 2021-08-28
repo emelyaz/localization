@@ -1,0 +1,34 @@
+EXP_REWARD_LOCALE: ' §7+ §a%s §fexperience'
+GET_REWARD: §7Go to the profile to get your reward
+LEVEL_REWARD_ANTICHEAT: §8+ §7Immune to some anti-cheat tests
+LEVEL_REWARD_COSMETIC: §8+ %s §7game cosmetics
+LEVEL_REWARD_GADGET: §8+ %s §7gadget
+LEVEL_REWARD_LORE1:
+- '§7When you reach level §f%s §7, you recieve:'
+LEVEL_REWARD_LORE2:
+- ' '
+- §e▸ Claim reward
+LEVEL_REWARD_NAME: Reward while reaching level %s
+LEVEL_REWARD_SENDMONEY: §8+ §7Send and recieve coins using §f/sendmoney
+REWARD_CLICK_TO_CLAIM:
+- ' '
+- ' §e▸ Click, to claim reward'
+REWARD_DONATE_ITEM: §eOnline-purchase
+REWARD_DONATE_ITEM_LORE:
+- ' '
+- §7If available rewards no,
+- §7a coins or keys very
+- §7need, You can visit our
+- §7online-store and purchase it there
+- §dlast-craft.net
+REWARD_GUI_NAME: Reward
+REWARD_HOLOGRAM:
+- §bReward
+- §7Click, to open
+REWARD_YOU_CAN_CLAIM_IN:
+- ' '
+- '§7Can be get in:'
+- §e%s
+- ' '
+- ' §c▸ Reward already claim'
+REWARD_YOU_GOT_REWARDS: '§fYou succesfuly got this rewards:'

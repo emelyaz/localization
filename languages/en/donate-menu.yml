@@ -1,0 +1,84 @@
+DONATE_MENU_FAST_MESSAGE_LORE:
+- §7Show everyone what you are today,
+- §7using these fast messages.
+- ''
+- §7Only available for §b§lDIAMOND §7or higher
+- ''
+- §7To quickly open the menu, use
+- §7command §c/fm §7or §c/fastmessage
+- ''
+- §e▸ Tap to open the menu
+DONATE_MENU_FAST_MESSAGE_NAME: Fast message
+DONATE_MENU_GUI: Donate menu
+DONATE_MENU_GUI_LORE:
+- §7Additional features
+- §7for doantors
+- ''
+- §e▸ Click to open menu
+DONATE_MENU_JOIN_MESSAGE_LORE:
+- §7Custom message when you
+- §7joining to server
+- ''
+- §7Availiable for §e§lGOLD §7or higher!
+- ''
+- §e▸ Click to open menu
+DONATE_MENU_JOIN_MESSAGE_NAME: Join messages
+DONATE_MENU_PREFIX_LORE:
+- §7Changing color of the prefix
+- ''
+- §7Only available for §7§lSHULKER
+- ''
+- '§7Current prefix: %s'
+- ''
+- §e▸ Tap to open the menu
+DONATE_MENU_PREFIX_NAME: Change the prefix
+DONATE_STATS_PERMISSION: View player donate
+DONATE_STATS_PERMISSION_LORE:
+- ' '
+- §7All members rank %s
+- §7can view information
+- §7about player donate in guild
+- §7(available to /guild donateinfo)
+- ' '
+FAST_MESSAGE_ACCESSIBLY: Got it
+FAST_MESSAGE_CAPITULATE: Give up
+FAST_MESSAGE_DANCING: Dancing
+FAST_MESSAGE_DONT_STUPID: Dont be snail-like
+FAST_MESSAGE_EASY: EZ
+FAST_MESSAGE_EATING: Eating
+FAST_MESSAGE_ENRAGES: Im burning
+FAST_MESSAGE_FUCK: FAK U
+FAST_MESSAGE_GIVE_RESOURCES: Give res
+FAST_MESSAGE_GO: Go
+FAST_MESSAGE_GOODBYE: Goodbye
+FAST_MESSAGE_GO_AWAY: Scat!
+FAST_MESSAGE_HELLO: Hello
+FAST_MESSAGE_HUGGING: Hugging
+FAST_MESSAGE_JEEZ: Wooow
+FAST_MESSAGE_KILLED: Killed
+FAST_MESSAGE_LAGS: Lagging
+FAST_MESSAGE_LORE1: '§7Message: §a%s'
+FAST_MESSAGE_LORE2:
+- ''
+- §e▸ Click to send message
+FAST_MESSAGE_LOVE: Love you
+FAST_MESSAGE_MAJOR: Major
+FAST_MESSAGE_MUSIC: Listening music
+FAST_MESSAGE_NICELY: Cute
+FAST_MESSAGE_OFFENSIVELY: Its a shame
+FAST_MESSAGE_SAD: Sad
+FAST_MESSAGE_SLEEP: Sleeping
+FAST_MESSAGE_WHY: Whaaa~?
+FAST_MESSAGE_WOW: Wow, cool
+FAST_MESSAGE_WTF: What the... ~?
+FAST_MESSAGE_XZ: Idk
+JOIN_MESSAGE_LORE:
+- §7Custom public message when
+- §7you joining to server
+- ''
+- '§7Notification for players:'
+- '%s'
+JOIN_MESSAGE_LORE_NOT_AVAILABLE: §cThis message is not available for you
+JOIN_MESSAGE_LORE_NOT_SELECT: §e▸ Click to select
+JOIN_MESSAGE_LORE_SELECT: §aMessage selected
+JOIN_MESSAGE_NAME: Message %s

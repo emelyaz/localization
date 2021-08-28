@@ -1,0 +1,239 @@
+ARENA_BUSY: §cThe arena is full. Not enough slots? Purchase §a§lEMERALD§c or higher
+ARENA_RESTART: §cServer is restarting...
+ARENA_START: §cThe game has already started
+BREAK_BLOCK_UNDER_TEAM: §cYou cannot break blocks under your teammates
+COMPASS_ITEM_LORE:
+- §7Use it to teleport to the players
+COMPASS_ITEM_NAME: §eTeleporter
+COMPASS_MESSAGE: '§fPlayer: %s      §fDistance: '
+COMPASS_MESSAGE_SPECTATOR: '§fNearest player: %s      §fDistance: §a%s'
+DEATH_MSG_TITLE: §cYou died
+FINAL_KILL: '%s §fwas killed by %s §bFINAL KILL!'
+GAMEINFO_FORMAT: /gameinfo [channel]
+GAME_COSMETIC_0_LORE:
+- §7Play a melody on strings of nerves
+GAME_COSMETIC_0_NAME: Notes
+GAME_COSMETIC_1_LORE:
+- §7Great choice with Fire Arrow effect!
+GAME_COSMETIC_1_NAME: Smoke
+GAME_COSMETIC_2_LORE:
+- §7..also great choice
+GAME_COSMETIC_2_NAME: Fire
+GAME_COSMETIC_3_LORE:
+- §7Now imagine you are Amur. Shot.
+GAME_COSMETIC_3_NAME: Hearts
+GAME_COSMETIC_GUI_ARROW_LORE:
+- ''
+- §7Buy and activate
+- §7arrow effects
+- §7for all minigames.
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated effect:'
+- '%s'
+- ''
+- §e▸ Click to open a menu
+GAME_COSMETIC_GUI_ARROW_NAME: Arrow effects
+GAME_COSMETIC_GUI_COLORABLE_LORE:
+- ''
+- §7Buy and activate
+- §7colors that appears
+- §7on your shield and leather armor.
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated color:'
+- '%s'
+- ''
+- §e▸ Click to open a menu
+GAME_COSMETIC_GUI_COLORABLE_NAME: Color of shields and armor
+GAME_COSMETIC_GUI_KILL_EFFECT_LORE:
+- ''
+- §7Buy and activate
+- §7effects that will appear
+- §7when you kill someone.
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated effect:'
+- '%s'
+- ''
+- §e▸ Click to open a menu
+GAME_COSMETIC_GUI_KILL_EFFECT_NAME: Kill effect
+GAME_COSMETIC_GUI_START_SOUND_LORE:
+- ''
+- §7Buy and activate
+- §7sounds that you
+- §7hear when game starts.
+- ''
+- '§7Opened: §a%s/%s §6%s'
+- '§7Activated sound:'
+- '%s'
+- ''
+- §e▸ Click to open a menu
+GAME_COSMETIC_GUI_START_SOUND_NAME: Start sound
+GAME_COSMETIC_KEY: §aGame (Cosmetic) Key
+GAME_END_BOARD_DESC: Game over!
+GAME_END_BOARD_TITLE: §fGame over
+GAME_END_BOARD_TITLE_WINNER: '§fWinner:'
+GAME_END_BOARD_TITLE_WINNERS: '§fWinners:'
+GAME_END_BOARD_WINNER: 'Winner:'
+GAME_END_BOARD_WINNERS: 'Winners:'
+GAME_REJOIN: §fYou have rejoined to your previous game
+GAME_SHOP_GUI_ADD_FAVOURITE: §aRMB to add to Favorites
+GAME_SHOP_GUI_FAVOURITE: Empty Favorites slot
+GAME_SHOP_GUI_FAVOURITE_LOER:
+- ''
+- §cThis slot is locked
+- §cBuy %s §crank or higher to unlock
+GAME_SHOP_GUI_ITEMS_BUY: §e▸ LMB to buy
+GAME_SHOP_GUI_ITEMS_FIRST_LORE:
+- ''
+- '§8Contains:'
+GAME_SHOP_GUI_ITEMS_NO_ITEMS: §cYou have not enough resources!
+GAME_SHOP_GUI_ITEMS_SECOND_LORE:
+- ''
+- '§7Price: %s %s'
+- ''
+- §8Hold SHIFT to buy
+- §85 times more
+- ' '
+GAME_SHOP_GUI_NAME: Shop
+GAME_SHOP_GUI_NO_SLOTS_FAVOURITE: §cFavorites is full!
+GAME_SHOP_GUI_REMOVE_FAVOURITE: §cRMB to remove from Favorites
+GAME_SHOP_NO_SLOTS: §cYour inventory is full!
+GAME_SHOP_NPC_HOLO:
+- §eShop
+- §fClick to open!
+GAME_SPECTATOR_MESSAGE: You died and can spectate only now.
+GAME_TITLE_NOT_WINNER: §7You has failed!
+GAME_TITLE_OVER: §c§lGAME OVER
+GAME_TITLE_SOLO_WIN: §7You are the last player who survived!
+GAME_TITLE_TEAM_WIN: §7Your team has won!
+GAME_TITLE_WIN: §6§lVICTORY
+GAME_WINNER: Winner is %s
+GAME_WINNERS: Winners are %s
+JOIN_GAMER_ARENA: '%s§f joined the game (§a%s§f/§a%s§f)'
+KIT_PURCHASE_MESSAGE: Kit §a%s §fpurchased for §a%s §f%s
+KIT_SELECTION_MESSAGE: Kit §a%s §fchosen
+NO_PREFIX_SET: §6Server §8| §cYou cannot change your prefix during the game
+ONLY_DONATOR: §cError, this arena is only for donators
+PERK_ITEM_LORE:
+- §7Use this item to
+- §7choose one perk for
+- §7this game
+PERK_ITEM_NAME: §ePerks
+PERK_PURCHASE_MESSAGE: Kit §a%s §fpurchased for §a%s §f%s
+PERK_SELECTION_MESSAGE: Kit §a%s §fchosen
+PLAYER_ALIVE_GAME: §fThere are §a%s§f %s alive
+PLAYER_LEFT: §fPlayer %s§f has left the game
+QUIT_GAMER_ARENA: '%s§f left the game (§c%s§f/§a%s§f)'
+RESPAWN_SUBTITLE: §7You will respawn in §c%s §7%s
+RESPAWN_TITLE: §aRespawn
+RESTART_ARENA_MSG: §cGame is restarting in 5 seconds, you will sent to lobby in that
+  time.
+SELECTOR_TEAM_NAME_INV: 'Selected team: %s'
+SELECTOR_TEAM_NO_PLAYERS: §7There are no players...
+SELECTOR_TEAM_PLAYERS: '§7Players:'
+SLOT_BUSY: §cSorry, but you were teleported to the lobby, your place was taken by
+  §r%s
+SOLO_NO_TEAM: §c§lAttention! §cAttention! Teaming is not allowed! Report about violators
+  to official VK community.
+SPECTATOR_CAMERA_ACTIONBAR: §fClick §aSHIFT §fto leave spectator mode
+SPECTATOR_CAMERA_OFF: §cYou left spectator mode
+SPECTATOR_CAMERA_SUBTITLE: 'Spectating the player: %s'
+SPECTATOR_CAMERA_TITLE: §eSpectator mode
+SPECTATOR_KILLS_LORE: '§7Kills: §c%s'
+SPECTATOR_MAIN_LORE:
+- '§7Health: §e%s'
+- '§7Hunger: §e%s'
+- ''
+- §e▸ Left click to teleport
+- §e▸ Right click to specate from 1st person
+SPECTATOR_MENU_ITEM_LORE:
+- §7Use this item
+- §7to spectate
+- §7the game of players that are still alive
+SPECTATOR_MENU_ITEM_NAME: §eTeleporter
+SPECTATOR_MENU_NAME: Teleporter
+SPECTATOR_NO_PERK_LORE: §cN/A
+SPECTATOR_PERK_LORE: '§7Selected perk: §a%s'
+SPECTATOR_SETTINGS_FLY_OFF: §cDisable constant fly
+SPECTATOR_SETTINGS_FLY_ON: §aEnable constant fly
+SPECTATOR_SETTINGS_GUI_NAME: Spectator settings
+SPECTATOR_SETTINGS_HIDE: §cHide spectators
+SPECTATOR_SETTINGS_ITEM_LORE:
+- §7Use this item
+- §7to change spectator
+- §7settings
+SPECTATOR_SETTINGS_ITEM_NAME: §eSpectator settings
+SPECTATOR_SETTINGS_NO_SPEED: No speed
+SPECTATOR_SETTINGS_SHOW: §aShow spectators
+SPECTATOR_SETTINGS_SPEED: Speed
+SPECTATOR_SETTINGS_VISION_OFF: §6Spectating §8| §fNight vision disabled
+SPECTATOR_SETTINGS_VISION_ON: §6Spectating §8| §fNight vision enabled
+SPECTATOR_TEAM_LORE: '§7Team: %s'
+START_CHANNEL_GUI_NAME: Choose a map
+START_GAME_ARENA: §fGame starting in §a%s §f%s
+START_GAME_SKYWARS_SOLO:
+- §eYour task is to throw down all the players
+- §eand stay on the island. You fell down? Well, that is all, you have lost
+START_GAME_TITLE: Stay the last survivor
+START_GUI_NAME: Choose the type of game
+START_GUI_NO_SERVER1: §cError, cannot find
+START_GUI_NO_SERVER2: §cplayable servers
+START_SPECTATE_GUI_NAME: Spectate the game
+START_TITLE_MSG: START
+TEAM_AQUA: Light blue
+TEAM_BLUE: Blue
+TEAM_DARK_AQUA: Turquoise
+TEAM_GRAY: Gray
+TEAM_GREEN: Green
+TEAM_ITEM_LORE:
+- §7Use this item
+- §7to select your team
+TEAM_ITEM_NAME: §eTeam selector
+TEAM_LIGHT_GREEN: Lime
+TEAM_LOSE: §f%s §fhad fail! (this team not contains any player more)
+TEAM_NO_TEAM: §c§lAttention! Teaming is not allowed! Report about violators to official
+  VK community.
+TEAM_ORANGE: Orange
+TEAM_PINK: Pink
+TEAM_PURPLE: Purple
+TEAM_RED: Red
+TEAM_SELECTED: §fYou select team %s
+TEAM_SELECTOR_ALREADYIN:
+- ' '
+- §c▸ You already in this team
+TEAM_SELECTOR_EMPTY: §7No players
+TEAM_SELECTOR_ENTRY: '%s [%s/%s]'
+TEAM_SELECTOR_FULL:
+- ' '
+- §c▸ Team is full
+TEAM_SELECTOR_GUI_TITLE: Team selection
+TEAM_SELECTOR_PLAYERS: '§7Players in team:'
+TEAM_SELECTOR_SELECT:
+- ' '
+- §e▸ Click, to select
+TEAM_WHITE: White
+TEAM_YELLOW: Yellow
+TELEPORTER_CLICK_TO_TELEPORT:
+- ' '
+- §e▸ Left click to teleport
+- §e▸ Right click to spectate from the 1st person
+TELEPORTER_GUI_TITLE: Teleporter
+TELEPORTER_PLAYER_DISTANCE: '§7Distance: §a%s §7blocks'
+TELEPORTER_PLAYER_HEALTH: '§7Health: §a%s§4❤'
+TELEPORTER_PLAYER_KIT: '§7Selected kit: §e%s'
+TELEPORTER_PLAYER_PERK: '§7Selected perk: §e%s'
+TO_START_TITLE: §fTo start
+TYPE_DOUBLES: Doubles mode
+TYPE_ERROR: §cError!
+TYPE_MEGA: Mega mode
+TYPE_SOLO: Solo mode
+TYPE_TEAM: Team mode
+WIN_PLAYER_BOARD: The winner is the player
+WIN_TEAM_BOARD: The team has won
+YOU_CAN_REJOIN: §fIf you be §ckicked§f, write §7/rejoin§f for re-enter the game
+YOU_DEAD: §cYou died
+YOU_DEAD_SPECTATOR: §7You are spectator now
+YOU_DIED_CLICK_TO_VOTE: '%s§fVote for the map, at with you played: '
+YOU_WERE_REJOINED: §aYou again enter in the game on the server %s

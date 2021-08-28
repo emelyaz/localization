@@ -1,0 +1,298 @@
+ARENA_BUSY: §cАрена заповнена, не вистачає слотів? Купіть §a§lEMERALD§c або вище
+ARENA_RESTART: §cСервер перезавантажується...
+ARENA_START: §cГра розпочалася
+BREAK_BLOCK_UNDER_TEAM: §cВи не можете ламати блоки під своїми товаришами
+COMPASS_ITEM_LORE:
+- §7Використовуй його для телепортації до гравців
+COMPASS_ITEM_NAME: §eТелепортер
+COMPASS_MESSAGE: '§fГравець: %s §fВідстань: '
+COMPASS_MESSAGE_SPECTATOR: '§fНайближчий гравець: %s §fВідстань: §a%s'
+COMPASS_MODE_CHANGED: Режим локатору змінено на §e%s
+COMPASS_MODE_NEAREST_PLAYER: пошук найближчого гравця
+COMPASS_MODE_TEAMMATE: пошук найближчого тіммейта
+DEATH_MSG_TITLE: §cВи загинули
+GAMEINFO_FORMAT: /gameinfo [канал]
+GAME_COSMETIC_0_LORE:
+- §7Сиграй мелодию на нотах тетеви
+GAME_COSMETIC_0_NAME: Ноти
+GAME_COSMETIC_10_LORE:
+- §7Ефект безсмертя дарує стрілі...
+- §7безсмертя. Ніби вона була смертна!
+GAME_COSMETIC_10_NAME: Безсмертя
+GAME_COSMETIC_11_LORE:
+- §7Хвилі магічних сил усіх істот
+- §7гри будуть прямувати за вашою стрілою.
+- §7Не зліть їх
+GAME_COSMETIC_11_NAME: Зілля
+GAME_COSMETIC_1_LORE:
+- §7Відмінно доповнить ефект палаючої стріли!
+GAME_COSMETIC_1_NAME: Дим
+GAME_COSMETIC_2_LORE:
+- §7..і цей теж відмінне доповнення
+GAME_COSMETIC_2_NAME: Вогонь
+GAME_COSMETIC_3_LORE:
+- §7Уявіть, що ви Амур. Стріляйте.
+GAME_COSMETIC_3_NAME: Сердечка
+GAME_COSMETIC_4_LORE:
+- §7Потоки радості наймудрішого жителя
+- §7подарують ваші стріли та
+- §7приведуть їх точно в ціль!
+GAME_COSMETIC_4_NAME: Смарагдовий
+GAME_COSMETIC_5_LORE:
+- §7Відтепер ваші стріли і є феєрверк
+GAME_COSMETIC_5_NAME: Феєрверк
+GAME_COSMETIC_6_LORE:
+- §7Створи новорічний настрій
+- §7в будь-яку пору року!
+GAME_COSMETIC_6_NAME: гірлянда
+GAME_COSMETIC_7_LORE:
+- §7Магічний поток великої відьми
+- §7супроводжують кожен ваш постріл
+GAME_COSMETIC_7_NAME: Відьма
+GAME_COSMETIC_8_LORE:
+- §7Насправді, житель не злий, а сердитий
+GAME_COSMETIC_8_NAME: Злий житель
+GAME_COSMETIC_9_LORE:
+- §7Якщо ви не знаєте як з`являються хмари,
+- §7то придбайте цей ефект
+GAME_COSMETIC_9_NAME: Хмара
+GAME_COSMETIC_GUI_ARROW_LORE:
+- ''
+- §7Купівля та активація ефектів
+- §7польоту стріл, які діють
+- §7на аренах усіх міні-ігор.
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований ефект:'
+- '%s'
+- ''
+- §e▸ Натисніть, щоб відкрити меню
+GAME_COSMETIC_GUI_ARROW_NAME: Ефекти стріл
+GAME_COSMETIC_GUI_START_SOUND_LORE:
+- ''
+- §7Купівля та активація звуків
+- §7які ви почуєте при
+- §7старті гри.
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований звук:'
+- '%s'
+- ''
+- §e▸ Натисніть, щоб відкрити меню
+GAME_COSMETIC_GUI_START_SOUND_NAME: Звук старту
+GAME_COSMETIC_LEVEL_ERROR:
+- §cУВАГА! Для використання цієї речі
+- §cвам потрібні мати %s рівень або будь-який
+- §cз доступних донат-статусів!
+GAME_COSMETIC_MAIN_GUI_NAME: Косметика
+GAME_COSMETIC_NO_LEVEL: §cПомилка, у вас немає %s рівня для активації (
+GAME_END_BOARD_DESC: Гра закінчена!
+GAME_END_BOARD_NO_WINNER: §cНічия
+GAME_END_BOARD_TITLE: §fГра закінчена
+GAME_END_BOARD_TITLE_WINNER: '§fПереможець:'
+GAME_END_BOARD_TITLE_WINNERS: '§fПереможці:'
+GAME_END_BOARD_WINNER: 'Переможець:'
+GAME_END_BOARD_WINNERS: 'Переможці:'
+GAME_NO_WINNER: §cГра закінчилася в нічию
+GAME_PLACE: '%s%s місце §8- §e%s'
+GAME_SPECTATOR_MESSAGE: Ви загинули і тепер можете тільки спостерігати за ігровим
+  процесом.
+GAME_TITLE_NOT_WINNER: §7Ви програли в цій грі
+GAME_TITLE_OVER: §c§lГРА ЗАКІНЧЕНА
+GAME_TITLE_SOLO_WIN: §7Ви залишилися останнім хто вижив з гравців
+GAME_TITLE_TEAM_WIN: §7Ваша команда перемогла в цій грі
+GAME_TITLE_WIN: §6§lПЕРЕМОГА
+GAME_TITLE_WIN_PLACE: §7Ви заняли %s місце у цій грі
+GAME_WINNER: Переможець - %s
+GAME_WINNERS: Переможці - %s
+GLOBAL_TEAM_GAME_CHAT_FORMAT: ' §8[§cВсім§8] '
+JOIN_GAMER_ARENA: '%s§f зайшов у гру (§a%s§f/§a%s§f)'
+JOIN_SPEC_MSG_SUBTITLE: §7Ви можете тільки слідкувати за ігровим процесом
+JOIN_SPEC_MSG_TITLE: §cГра вже почалась
+KIT_PURCHASE_MESSAGE: Ви придбали набір §a%s §fза §a%s §f%s
+KIT_SELECTION_MESSAGE: Ви обрали набір §a%s
+LOCAL_TEAM_GAME_CHAT_FORMAT: ' §8[§aКоманді§8] '
+LOCATOR_ITEM_NAME: §aЛокатор
+NO_PREFIX_SET: §6Сервер §8| §cВи не можете змінити префікс під час гри
+ONLY_DONATOR: §cПомилка, на арені тільки донатери
+PERK_ITEM_LORE:
+- §7Використовуйте цей предмет,
+- §7щоб вибрати один із всіляких
+- §7вмінь на цю гру
+PERK_ITEM_NAME: §eВміння
+PERK_PURCHASE_MESSAGE: Ви придбали перк §a%s §fза §a%s §f%s
+PERK_SELECTION_MESSAGE: Ви обрали перк §a%s
+PLAYER_ALIVE_GAME: §fНа карті залишилось §a%s§f %s
+PLAYER_LEFT: §fГравець %s§f покинув гру
+QUIT_GAMER_ARENA: '%s§f покинув гру (§c%s§f/§a%s§f)'
+RESPAWN_SUBTITLE: §7Ви відродитесь через §c%s §7%s
+RESPAWN_TITLE: §aВи відродилися
+RESTART_ARENA_MSG: §cРестарт арени, через 5 секунд ви будете переміщені в лоббі
+SELECTOR_TEAM_NAME_INV: 'Вибір команди: %s'
+SELECTOR_TEAM_NO_PLAYERS: §7Немає гравців...
+SELECTOR_TEAM_PLAYERS: '§7Гравці:'
+SLOT_BUSY: §cВибачте, але ви були переміщені в лоббі, ваше місце зайняв §r%s
+SOLO_NO_TEAM: §c§lУвага! §cКомандна гра заборонена на Solo режимi. Доповідайте о таких
+  гравцях на форум.
+SPECTATOR_CAMERA_ACTIONBAR: §fНатисніть §aSHIFT §fщоб покинути режим спостерігача
+SPECTATOR_CAMERA_OFF: §cВи покинули режим спостерігача
+SPECTATOR_CAMERA_SUBTITLE: 'Спостерігаємо за гравцем: %s'
+SPECTATOR_CAMERA_TITLE: §eРежим спостереження
+SPECTATOR_INVENTORY_SEE_GUI_TITLE: Інвентар ► %s
+SPECTATOR_KILLS_LORE: '§7Вбивств: §c%s'
+SPECTATOR_MAIN_LORE:
+- '§7Здоров''я: §e%s'
+- '§7Голод: §e%s'
+- ''
+- §e▸ ЛКМ, щоб телепортуватися
+- §e▸ ПКМ, щоб спостерігати від 1-го лиця
+SPECTATOR_MENU_ITEM_LORE:
+- §7Використовуйте цей предмет,
+- §7щоб спостерігати за гравцями
+SPECTATOR_MENU_ITEM_NAME: §eТелепортер
+SPECTATOR_MENU_NAME: Телепортер
+SPECTATOR_NO_PERK_LORE: §cНе встановлено
+SPECTATOR_PERK_LORE: '§7Обране вміння: §a%s'
+SPECTATOR_SETTINGS_FLY_OFF: §cВимкнути постійний політ
+SPECTATOR_SETTINGS_FLY_ON: §aУвімкнути постійний політ
+SPECTATOR_SETTINGS_GUI_NAME: Налаштування спостерігача
+SPECTATOR_SETTINGS_HIDE: §cПриховати спостерігачів
+SPECTATOR_SETTINGS_ITEM_LORE:
+- §7Використовуйте цей предмет,
+- §7щоб змінити налаштування
+- §7спостерігача
+SPECTATOR_SETTINGS_ITEM_NAME: §eНалаштування спостерігача
+SPECTATOR_SETTINGS_NO_SPEED: Без швидкісті
+SPECTATOR_SETTINGS_SHOW: §aПоказати спостерігачів
+SPECTATOR_SETTINGS_SPEED: Швидкість
+SPECTATOR_SETTINGS_VISION_OFF: §6Спостереження §8| §fНічне бачення вимкнено
+SPECTATOR_SETTINGS_VISION_ON: §6Спостереження §8| §fНічне бачення увімкнено
+SPECTATOR_SETTING_CHANGED: §6Спостереження §8| §fШвидкіть пересування змінена
+SPECTATOR_SETTING_FLY_LORE:
+- ' '
+- §e▸ Натисніть, щоб вимкнути
+SPECTATOR_SETTING_FLY_NAME: §cВимкнуті постійний політ
+SPECTATOR_SETTING_FLY_OFF: §6Спостереження §8| §fВи вимкнули постійний політ
+SPECTATOR_SETTING_FLY_ON: §6Спостереження §8| §fВи увімкнули постійний політ
+SPECTATOR_SETTING_GUI_TITLE: Налаштування спостерігача
+SPECTATOR_SETTING_HIDE_LORE:
+- ' '
+- §7Зараз Ви бачите інших
+- §7спостерігачів. Після зміни
+- §7цієї настройки вони будуть приховані
+- §7для Вас.
+- ' '
+- §cПовідомлення спостерігачів в чаті
+- §cбудуть видні незалежно від налаштувань
+- ' '
+- §e▸ Натисніть, щоб приховати
+SPECTATOR_SETTING_HIDE_NAME: §cПриховати спостерігачів
+SPECTATOR_SETTING_HIDING: §6Спостереження §8| §fТепер Ви на бачите інших спостерігачів
+SPECTATOR_SETTING_NOFLY_LORE:
+- ' '
+- §e▸ Натисніть, щоб увімкнути
+SPECTATOR_SETTING_NOFLY_NAME: §aУвімкнути постійний політ
+SPECTATOR_SETTING_NOSPEED_LORE:
+- ' '
+- §7Прибирає швидкість пересування
+SPECTATOR_SETTING_NOSPEED_NAME: §cБез швидкості
+SPECTATOR_SETTING_NO_VISION_LORE:
+- ' '
+- §e▸ Натисніть, щоб увімкнути
+SPECTATOR_SETTING_NO_VISION_NAME: §aУвімкнути нічне бачення
+SPECTATOR_SETTING_SHOWN: §6Спостереження §8| §fВи знову бачите інших спостерігачів
+SPECTATOR_SETTING_SHOW_LORE:
+- ' '
+- §7Зараз ви не бачите других
+- §7спостерігачів. Після зміни
+- §7цієї настройки Ви знову зможете
+- §7їх бачити
+- ' '
+- §e▸ Натисніть, щоб показати
+SPECTATOR_SETTING_SHOW_NAME: §aПоказати спостерігачів
+SPECTATOR_SETTING_SPEED_ALREADY:
+- ' '
+- §c▸ Ви вже обрали цю швидкість
+SPECTATOR_SETTING_SPEED_CLICK:
+- ' '
+- §e▸ Натисніть, щоб змінити швидкість
+SPECTATOR_SETTING_SPEED_LORE:
+- ' '
+- §7Змінює швидкість пересування
+- §7в залежності від обраного
+- §7рівня
+SPECTATOR_SETTING_SPEED_NAME: §eШвидкість %s
+SPECTATOR_SETTING_VISION_LORE:
+- ' '
+- §e▸ Натисніть, щоб вимкнути
+SPECTATOR_SETTING_VISION_NAME: §cВимкнути нічне бачення
+SPECTATOR_SETTING_VISION_OFF: §6Спостереження §8| §fНічне баченні вимкнено
+SPECTATOR_SETTING_VISION_ON: §6Спостереження §8| §fНічне бачення увімкнено
+SPECTATOR_TEAM_LORE: '§7Команда: %s'
+START_CHANNEL_GUI_NAME: Вибір карти
+START_GAME_ARENA: §fГра розпочнеться через §a%s §f%s
+START_GAME_SKYWARS_SOLO:
+- §eВаше завдання скинути всіх гравців
+- §eі залишитись на острові. Впав? Ну все, ти програв!
+START_GAME_TITLE: Залишіться останнім вижившим
+START_GUI_NAME: Оберіть тип гри
+START_GUI_NO_SERVER1: §cПомилка, не можу знайти
+START_GUI_NO_SERVER2: §cвідповідні сервера
+START_SPECTATE_GUI_NAME: Спостереження за грою
+START_TITLE_MSG: СТАРТ
+TEAM_AQUA: Блакитні
+TEAM_BLUE: Сині
+TEAM_DARK_AQUA: Бірюзові
+TEAM_GRAY: Сірі
+TEAM_GREEN: Зелені
+TEAM_ITEM_LORE:
+- §7Використовуйте цей предмет,
+- §7щоб вибрати свою команду
+TEAM_ITEM_NAME: §eВибір команди
+TEAM_LIGHT_GREEN: Салатові
+TEAM_NO_TEAM: §c§lУвага! §cСоюзи різних команд не допускаються! Повідомляйте про таких
+  гравців на форум.
+TEAM_ORANGE: Помаранчеві
+TEAM_PINK: Рожеві
+TEAM_PURPLE: Фіолетові
+TEAM_RED: Червоні
+TEAM_SELECTED: §fВи вибрали команду %s
+TEAM_SELECTOR_ALREADYIN:
+- ' '
+- §c▸ Ви вже в цій команді
+TEAM_SELECTOR_EMPTY: §7Гравців немає
+TEAM_SELECTOR_ENTRY: '%s [%s/%s]'
+TEAM_SELECTOR_FULL:
+- ' '
+- §c▸ В команді немає місць
+TEAM_SELECTOR_GUI_TITLE: Вибір команди
+TEAM_SELECTOR_PLAYERS: '§7Гравці в команді:'
+TEAM_SELECTOR_SELECT:
+- ' '
+- §e▸ Натисніть, щоб вибрати
+TEAM_WHITE: Білі
+TEAM_YELLOW: Жовті
+TELEPORTER_CLICK_TO_TELEPORT:
+- ' '
+- §e▸ ЛКМ, щоб телепортуватися
+- §e▸ ПКМ, щоб стежити від 1-ого обличчя
+TELEPORTER_GUI_TITLE: Телепортер
+TELEPORTER_PLAYER_DISTANCE: '§7Відстань: §a%s §7блоків'
+TELEPORTER_PLAYER_HEALTH: '§7HP: §a%s§4❤'
+TELEPORTER_PLAYER_KIT: '§7Обраний набор: §e%s'
+TELEPORTER_PLAYER_PERK: '§7Обраний перк: §e%s'
+TO_START_TITLE: §fДо старту
+TYPE_DOUBLES: Парний режим
+TYPE_ERROR: §cПомилка!
+TYPE_MEGA: Командний режим
+TYPE_SOLO: Одиночний режим
+TYPE_TEAM: Командний режим
+WIN_PLAYER_BOARD: Переміг гравець
+WIN_TEAM_BOARD: Перемогла команда
+YOU_CANNOT_RESUME: §cПомилка, Ви ніде не грали або сервер був перезавантажений
+YOU_CAN_REJOIN: §fЯкщо Ви були §cкикнуті§f, напишіть §7/rejoin§f для повторного входу
+  в гру
+YOU_DEAD: §cВи загинули
+YOU_DEAD_SPECTATOR: §7Тепер ви спостерігач
+YOU_DIED_CLICK_TO_VOTE: '%s§fОцініть мапу, на якій Ви грали: '
+YOU_WERE_REJOINED: §aВи повторно вішли в гру на сервері %s

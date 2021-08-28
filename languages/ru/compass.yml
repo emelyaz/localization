@@ -1,8 +1,0 @@
-COMPASS_ITEM_LORE:
-- §7Используй его для телепортации к игрокам
-COMPASS_ITEM_NAME: §eТелепортер
-COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '
-COMPASS_MESSAGE_SPECTATOR: '§fБлижайший игрок: %s      §fРасстояние: §a%s'
-COMPASS_MODE_CHANGED: Режим локатора изменен на §e%s
-COMPASS_MODE_NEAREST_PLAYER: поиск ближайшего игрока
-COMPASS_MODE_TEAMMATE: поиск ближайшего тиммейта

@@ -1,0 +1,21 @@
+ALL_TIME_STATS_NAME: Statistics via all time
+BEDS_BREAKED_STAT: Beds broken
+CHESTS_LOOTED_STAT: Chests looted
+COINS_EARNED_PER_GAME_STAT: 'Coins earned:'
+GAMES_STAT: Games played
+INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
+INGAME_STATS_MESSAGES:
+- ' '
+- ' §cATTENTION! §fWill be displayed statistics only'
+- ' §fcurrent mode. To view statistics'
+- ' §fall modes, teleport to lobby'
+- ' '
+- §6Statistics §8| §fStatistics %s §fon §e%s %s
+MONTHLY_STATS_NAME: Statistics via month
+STATS_ENTRY: ' §8▪ §7%s: §a%s'
+STATS_FORMAT: /stats <nickname>
+STATS_GUI_TITLE: Profile ▸ Statistics
+STATS_GUI_TITLE_TARGET: Statistics of %s
+STATS_IS_NOT_LOADED: §cError, statistic not loaded
+WINS_STAT: Victories
+WIN_RATE_STATS: Winrate

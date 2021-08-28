@@ -1,0 +1,550 @@
+SB_PREFIX: '§6SkyBlock §8| §f'
+ISLAND_ACCEPT: $SB_PREFIX$You have accepted a request from player %s §fand have become a member
+  of an island %s
+ISLAND_ACCEPT_WHO: $SB_PREFIX$Player %s §fhas accepted your request and has become a member of
+  your island
+ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
+- §8 • §7Armor racks §fх10
+ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
+- §8 • §7Potatoes §fх32
+ISLAND_ACHIEVEMENT_BEACON_LORE:
+- §8 • §7Beacon §fх1
+ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE:
+- §8 • §7Beet soups §fх10
+ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
+- §8 • §7Bone blocks §fх20
+ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
+- §8 • §7Book shelves §fх32
+ISLAND_ACHIEVEMENT_BREAD_LORE:
+- §8 • §7Bread §fх10
+ISLAND_ACHIEVEMENT_BREAK_NAME: Breake block
+ISLAND_ACHIEVEMENT_BREED_NAME: Multiply
+ISLAND_ACHIEVEMENT_BRICK_LORE:
+- §8 • §7Red nether block §fх64
+ISLAND_ACHIEVEMENT_CARROT_STICK_LORE:
+- §8 • §7Rod with carrot §fх1
+ISLAND_ACHIEVEMENT_CHICKEN_LORE:
+- §8 • §7Chickens §fх2
+ISLAND_ACHIEVEMENT_COBBLE_WALL_LORE:
+- §8 • §7Wall of cobblestone §fх24
+ISLAND_ACHIEVEMENT_COMPASS_LORE:
+- §8 • §7Compass §fх5
+ISLAND_ACHIEVEMENT_CONCRETE_POWDER_LORE:
+- §8 • §7Concrete §fх8
+ISLAND_ACHIEVEMENT_COW_LORE:
+- §8 • §7Cows §fх2
+ISLAND_ACHIEVEMENT_CRAFT_NAME: Craft items
+ISLAND_ACHIEVEMENT_DIODE_LORE:
+- §8 • §7Repeaters §fх32
+ISLAND_ACHIEVEMENT_EMPTY_MAP_LORE:
+- §8 • §7Empty maps §fх10
+ISLAND_ACHIEVEMENT_ENCHANTMENT_TABLE_LORE:
+- §8 • §7Enchantment table §fх1
+ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE:
+- §8 • §7Fermented spider eyes §fх10
+ISLAND_ACHIEVEMENT_FURNACE_LORE:
+- §8 • §7Furnace §fх1
+ISLAND_ACHIEVEMENT_FURNACE_NAME: Melt
+ISLAND_ACHIEVEMENT_GENERATOR_LORE:
+- §7Create cobblestone generator
+- §7and mine cobblestone
+ISLAND_ACHIEVEMENT_GENERATOR_NAME: Create generator
+ISLAND_ACHIEVEMENT_GLASS_LORE:
+- §8 • §7Glass §fх32
+ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
+- §8 • §7Golden apple §fх1
+ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE:
+- §8 • §7Golden ingots §fх64
+ISLAND_ACHIEVEMENT_GUI_NAME: Island settings ▸ achievements
+ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE:
+- §8 • §7Hay blocks §fх30
+ISLAND_ACHIEVEMENT_IRON_INGOT_LORE:
+- §8 • §7Iron ingots §fх64
+ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE:
+- §8 • §7Lapis blocks §fх64
+ISLAND_ACHIEVEMENT_LEVER_LORE:
+- §8 • §7Levers §fх10
+ISLAND_ACHIEVEMENT_LORE:
+- §7List of all achievements
+- §7on this mode
+- ' '
+- '§7Completed: §f%s§7/§c%s'
+- ' '
+- ' §e▸ Click, to open list'
+ISLAND_ACHIEVEMENT_NAME: Achievements
+ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
+- §8 • §7Obsidian §fх32
+ISLAND_ACHIEVEMENT_PAINTING_LORE:
+- §8 • §7Pictures §fх10
+ISLAND_ACHIEVEMENT_PIG_LORE:
+- §8 • §7Pigs §fх2
+ISLAND_ACHIEVEMENT_PISTON_BASE_LORE:
+- §8 • §7Piston §fх10
+ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE:
+- §8 • §7Pumpkin pie §fх8
+ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE:
+- §8 • §7Quartz blocks §fх64
+ISLAND_ACHIEVEMENT_REDSTONE_COMPARATOR_LORE:
+- §8 • §7Comparators §fх24
+ISLAND_ACHIEVEMENT_REDSTONE_LAMP_OFF_LORE:
+- §8 • §7Redstone §fх10
+ISLAND_ACHIEVEMENT_RESTART_LORE:
+- §7ReCreate your island
+ISLAND_ACHIEVEMENT_RESTART_NAME: ReCreate
+ISLAND_ACHIEVEMENT_SHEEP_LORE:
+- §8 • §7Sheeps §fх2
+ISLAND_ACHIEVEMENT_SIGN_LORE:
+- §8 • §7Signs §fх10
+ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
+- §8 • §7Slime block §fх1
+ISLAND_ACHIEVEMENT_SMOOTH_BRICK_LORE:
+- §8 • §7Stone bricks §fх64
+ISLAND_ACHIEVEMENT_START_LORE:
+- §7Create island 1st time
+ISLAND_ACHIEVEMENT_START_NAME: Start
+ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE:
+- §8 • §7Stone buttons §fх10
+ISLAND_ACHIEVEMENT_STONE_PLATE_LORE:
+- §8 • §7Stone pressure plates §fх10
+ISLAND_ACHIEVEMENT_TNT_LORE:
+- §8 • §7TNT §fх10
+ISLAND_ACHIEVEMENT_TORCH_LORE:
+- §8 • §7Torches §fх30
+ISLAND_ACHIEVEMENT_WOOD_BUTTON_LORE:
+- §8 • §7Wooden buttons §fх10
+ISLAND_ACHIEVEMENT_WOOD_PLATE_LORE:
+- §8 • §7Wooden pressure plates §fх10
+ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE:
+- §8 • §7Stairs §fх20
+ISLAND_ACHIEVEMENT_WOOD_STEP_LORE:
+- §8 • §7Wooden plates §fх20
+ISLAND_ADDLEVEL_GUI_NAME: Island Level
+ISLAND_ADDMEMBER_ERROR: $SB_PREFIX$§cError, current player already is member or
+  owner some island
+ISLAND_ADDMEMBER_LIMIT: $SB_PREFIX$§cError, you exceeded limit on amount members
+  your island, amount members not must be long than %s
+ISLAND_ADDMEMBER_YOU: $SB_PREFIX$§cError, you cannot sent invite yourself
+ISLAND_ADD_PLAYER_REQUEST_1: ' %s §foffers you to play together on your island'
+ISLAND_ADD_PLAYER_REQUEST_2: ' §fFor accepting a request write '
+ISLAND_ADD_PLAYER_REQUEST_3: ' §fFor declining a request write '
+ISLAND_ADD_PLAYER_REQUEST_4: ' §fYou have §a120 §fseconds to accept it!'
+ISLAND_ALREADY_CREATE: $SB_PREFIX$Error, you already have a island. To come
+  back on your island write §7/island home
+ISLAND_BIOME_BUY: $SB_PREFIX$You successfully puechase biome §c%s
+ISLAND_BIOME_BUY_ALREADY: $SB_PREFIX$You already are owner this biome
+ISLAND_BIOME_DESERT_LORE:
+- §7Infertile biome. only
+- §7friendly entity — golden
+- §7rabbits, who colored
+- §7with sand. Never is does not rain,
+- §7because take care about your farm!
+ISLAND_BIOME_DESERT_NAME: Desert
+ISLAND_BIOME_FOREST_LORE:
+- §7Biome, in which grow best
+- §7trees, and rare
+- §7and even mushrooms!
+ISLAND_BIOME_FOREST_NAME: Forest
+ISLAND_BIOME_JUNGLE_LORE:
+- §7Ocelots, cacao fruits and parrots meets
+- §7only this biome, and as well,
+- §7in it very green grass.
+ISLAND_BIOME_JUNGLE_NAME: Jungle
+ISLAND_BIOME_MESA_LORE:
+- §7Rare biome, that like desert,
+- §7with very dark color grass.
+ISLAND_BIOME_MESA_NAME: Mesa plains
+ISLAND_BIOME_MUSHROOM_ISLAND_LORE:
+- §7Very rare biome in game, usually composed
+- §7from mycelium, but if place default grass,
+- §7it was light green color. but mushrooms
+- §7cows here cannot spawn noone entity,
+- §7but you can to propagate them from the already available!
+ISLAND_BIOME_MUSHROOM_ISLAND_NAME: Mushroom island
+ISLAND_BIOME_NOT_OPEN: $SB_PREFIX$This biome you not are available, buy it!
+ISLAND_BIOME_OCEAN_LORE:
+- §7Usually ocean spread out in all directions,
+- §7and be 60% area In all from everything world.
+- '§7In it is not spawn friendly entity, '
+- §7but enemy entity can atack you.
+ISLAND_BIOME_OCEAN_NAME: Ocean
+ISLAND_BIOME_PLAINS_LORE:
+- §7Plains. What i can say?
+- §7On it spawn horse and some
+- §7others friendly entity.
+ISLAND_BIOME_PLAINS_NAME: Plains
+ISLAND_BIOME_ROOFED_FOREST_LORE:
+- §7Dark forest created for growing mushrooms,
+- §7and yet it is so numerous trees,
+- §7what in some places may become very
+- §7dark, to enemy entity spawn
+- §7in day!
+ISLAND_BIOME_ROOFED_FOREST_NAME: Dark forest
+ISLAND_BIOME_SET: $SB_PREFIX$Setting biome §a%s
+ISLAND_BIOME_SET_ERROR: $SB_PREFIX$This biome already set on your island
+ISLAND_BIOME_SWAMPLAND_LORE:
+- §7Dark grass, dark-green vines on trees,
+- §7it was here at night spawned Slimes.
+ISLAND_BIOME_SWAMPLAND_NAME: Swapland
+ISLAND_BIOME_TAIGA_LORE:
+- §7The only place for spawned wolf,
+- §7biome saturated coniferous trees, colors
+- §7and ferns.
+ISLAND_BIOME_TAIGA_NAME: Taiga
+ISLAND_BUY_BIOME:
+- ' '
+- §7You sure, to want buy
+- §7this biome ?
+- ' '
+ISLAND_BUY_BIOME_GUI_NAME: Buy biome ?
+ISLAND_BUY_UPGRADE:
+- ' '
+- §7You sure, to want buy
+- §7this upgrade ?
+- ' '
+ISLAND_BUY_UPGRADE_GUI_NAME: Buy upgrade ?
+ISLAND_CANCEL: $SB_PREFIX$You have declined a request to live together sent by %s
+ISLAND_CANCEL_YOU: $SB_PREFIX$Player %s §fhas declined your request
+ISLAND_CLICK_TO_SET_BIOME: §e▸ Click, to select biome
+ISLAND_CLOSED: $SB_PREFIX$This island is close and teleport to it impossible!
+  Ask for owner disable flag §cprivacy
+ISLAND_COMMAND_ADD_FORMAT: /island add <player name>
+ISLAND_COMMAND_HELP:
+- §7/is accept <nickname> §f- accept request for add in someones island
+- §7/is cancel <nickname> §f- desline request for add in someones island
+- §7/is leave §f- leave island §c(if you are not owner)
+- §7/is biome §f- Select biome
+- §7/is flag §f- setting flags
+- §7/is add <nickname> §f- add player on the island
+- §7/is delete <nickname> §f- delete player from island
+- §7/is sethome §f- set new point of the home
+- §7/is home §f- teleport to the home
+- §7/is reset §f- clear territory
+- §7/is destroy §f- delete island
+ISLAND_COMMAND_REMOVE_FORMAT: /island remove <player name>
+ISLAND_CO_OWNER: CoOwner
+ISLAND_CREATE_SUBTITLE: §7Detailed information §f/is
+ISLAND_CREATE_TITLE: §eIsland successfully created!
+ISLAND_DEFAULT_LORE:
+- ' '
+- §7Default island, performed by
+- §7our server, nothing extra.
+- ' '
+- §e▸ Click, to select this island
+ISLAND_DEFAULT_NAME: Default island
+ISLAND_DELETE: $SB_PREFIX$Player %s §fwas successfully removed from your island
+ISLAND_DELETE_GUI_NAME: Delete island ?
+ISLAND_DELETE_LORE:
+- ''
+- §7Are you sure that you want to delete
+- §7your island ? All your upgrades, a level of an island
+- §7and everything will be reset and deleted
+- ''
+- '§7PS: Repeat create island - §f/is create'
+- ''
+- §cWARNING! The action is not reversible!
+ISLAND_DELETE_MEMBER_ERROR: $SB_PREFIX$§cError, this player is not member your
+  island
+ISLAND_DELETE_MEMBER_OWNER: $SB_PREFIX$§cError, you cannot delete yourself from
+  your island
+ISLAND_DELETE_TO: $SB_PREFIX$Player %s §fremove you from island %s §fand you
+  were teleport to the spawn
+ISLAND_DESTROY_COOLDOWN: $SB_PREFIX$§cYou cannot too many do island restarts,
+  you need to wait %s
+ISLAND_END_LORE:
+- ' '
+- §7Little amount end stone
+- §7and blooming chorus brighten
+- §7a little your gameplay.
+- ' '
+- §e▸ Click, to select this island
+ISLAND_END_NAME: End island
+ISLAND_FLAG_DROP_LEAVES_LORE:
+- ''
+- §7Allows enable or
+- §7disable drop
+- §7leaves on the island
+ISLAND_FLAG_DROP_LEAVES_NAME: Drop leaves
+ISLAND_FLAG_DROP_LORE:
+- ''
+- §7Allows enable or
+- §7disable drop items
+- §7guest island
+ISLAND_FLAG_DROP_NAME: Drop
+ISLAND_FLAG_ENTITY_DAMAGE_LORE:
+- ''
+- §7Allows enable or
+- §7disable entity damage
+- §7friendly mobs
+- §7guest island
+ISLAND_FLAG_ENTITY_DAMAGE_NAME: Damage to mobs
+ISLAND_FLAG_ENTITY_EXPLODE_LORE:
+- ''
+- §7Allows enable or
+- §7disable explode blocks
+- §7from entity on the island
+ISLAND_FLAG_ENTITY_EXPLODE_NAME: Explode tnt
+ISLAND_FLAG_FIRE_SPREAD_LORE:
+- ''
+- §7Allows enable or
+- §7disable spread
+- §7fire on the island
+ISLAND_FLAG_FIRE_SPREAD_NAME: Fire spread
+ISLAND_FLAG_HUNGER_LORE:
+- ''
+- §7Allows enable or
+- §7disable hunger for
+- §7all members island
+ISLAND_FLAG_HUNGER_NAME: Anti hunger
+ISLAND_FLAG_INVINCIBLE_LORE:
+- ''
+- §7Allows enable or
+- §7disable Invincible
+- §7on the island
+ISLAND_FLAG_INVINCIBLE_NAME: Invincible
+ISLAND_FLAG_NOT_USED: You do not have permission to use this flag. Island owner must
+  be %s §for higher
+ISLAND_FLAG_NOT_USED_GUI:
+- §cAvailable for %s §cand higher
+- §c(must be in island owner)
+ISLAND_FLAG_OPENED_LORE:
+- ''
+- §7Allows close or
+- §7open island for
+- §7visits others player
+- ''
+- §7For visit foreign island
+- '§7Write: §f/is tp <nickname>'
+ISLAND_FLAG_OPENED_NAME: Private
+ISLAND_FLAG_PICKUP_LORE:
+- ''
+- §7Allows enable or
+- §7disable pickup items
+- §7guest island
+ISLAND_FLAG_PICKUP_NAME: Pickup
+ISLAND_FLAG_PVP_LORE:
+- ''
+- §7Allows enable or
+- §7disable PVP on the island
+ISLAND_FLAG_PVP_NAME: PVP
+ISLAND_FLAG_SPAWN_MOB_LORE:
+- ''
+- §7Allows enable or
+- §7disable spawn
+- §7mobs on the island
+ISLAND_FLAG_SPAWN_MOB_NAME: Spawn mob
+ISLAND_FLAG_USE_LORE:
+- ''
+- §7Allows enable or
+- §7disable use
+- §7workbenchs, lever and etc.
+- §7for guest island
+ISLAND_FLAG_USE_NAME: Use
+ISLAND_HELL_LORE:
+- ' '
+- §7Very hard island for start,
+- §7magma blocks and lake with lava
+- §7give unforgettable thrill.
+- ' '
+- §e▸ Click, to selest this island
+ISLAND_HELL_NAME: Hell island
+ISLAND_HOUSE_LORE:
+- ' '
+- §7Whu need standart island,
+- §7when there is island with house?!
+- ' '
+- §e▸ Click, to select this island
+ISLAND_HOUSE_NAME: Island with house
+ISLAND_LEAVE: $SB_PREFIX$You leave island player %s
+ISLAND_LEAVE_GUI_NAME: Leave island ?
+ISLAND_LEAVE_LORE:
+- ''
+- §7Are you sure that you want to leave
+- §7an island you are playing on
+- §7at this moment ?
+- ''
+ISLAND_LEAVE_OWNER: $SB_PREFIX$§cError, you cannot leave your island
+ISLAND_MAX_UPGRADE: $SB_PREFIX$§cError! you already have maximum level this upgrade
+ISLAND_MEMBER: Member
+ISLAND_MEMBER_LORE:
+- ''
+- '§7Become island member: §f%s'
+- '§7Rank: §7%s'
+- '§7On player island: %s'
+- ''
+- §e▸ Click, to manage player
+ISLAND_MEMBER_OFFLINE: §coffline
+ISLAND_MEMBER_REMOVED: $SB_PREFIX$%s §fwas delete from island of players %s
+ISLAND_MEMBER_REMOVE_LORE:
+- ' '
+- '§7Remove island member '
+- §7and lock him any changes
+- §7your island
+- ' '
+- §e▸ Click, to remove member
+ISLAND_MEMBER_REMOVE_NAME: Remove island member
+ISLAND_MEMBER_SETTINGS_OWNER: $SB_PREFIX$§cError, you cannot customize permissions
+  island owner!
+ISLAND_MEMBER_SET_RANK_ALERT: $SB_PREFIX$§fPlayer %s §fwas assigned new permissions
+  manage island
+ISLAND_MEMBER_SET_RANK_LORE_OFF:
+- §7Click, to set new permissions
+ISLAND_MEMBER_SET_RANK_LORE_ON:
+- §7This permissions already issued
+ISLAND_MEMBER_SET_RANK_NAME_OFF: §aAssign
+ISLAND_MEMBER_SET_RANK_NAME_ON: §7Assigned
+ISLAND_MOB_COMMAND:
+- '§fOn your island:'
+- ' §c▪ §fAnimals: §a%s'
+- ' §c▪ §fMonsters: §a%s'
+- ' §c▪ §fPlayers: §a%s'
+- ' §c▪ §fDroped items: §a%s'
+- You entity limit §a%s§f/§c%s
+ISLAND_MOB_COMMAND_ERROR: $SB_PREFIX$You must be on territory your island
+ISLAND_NOT_CREATE_WARP: §cYou cannot create warp on this island
+ISLAND_NOT_OWNER: §cError, you are not an owner or a co-owner of this island!
+ISLAND_NOT_USED: §cError, an owner of this island has disabled the use of these items
+ISLAND_NOT_YOU: §cError, you cannot do this, you are not a member of this island!
+ISLAND_NOT_YOU_COMMAND: §cError, you cannot use this command on a foreign island!
+ISLAND_NO_ISLAND: $SB_PREFIX$Error, it seems you do not have an island... To
+  create your own island write §7/island create
+ISLAND_NO_PVP: §cError, PVP in this island is disabled
+ISLAND_OWNER: Owner
+ISLAND_PROFILE_ADDLEVEL_NAME: Island Level
+ISLAND_PROFILE_BIOME_LORE:
+- ' '
+- §7Setting and buying new biomes
+- ' '
+- §cWARNING! Buy and change biomes
+- §cisland can only owner or co-owner
+- ' '
+- §e▸ Click, to open biome settings
+ISLAND_PROFILE_BIOME_NAME: Biome selection
+ISLAND_PROFILE_FLAG_LORE:
+- ' '
+- §7Full settings customization
+- §7your island
+- ' '
+- §cWARNING! Change settings flag
+- §ccan only owner or co-owner
+- ' '
+- §e▸ Click, to open settings flags
+ISLAND_PROFILE_FLAG_NAME: Flag settings
+ISLAND_PROFILE_HOME_LORE:
+- ' '
+- §7Teleport to the point of the home
+- ' '
+- '§7PS: Click to set point of the home,'
+- §7write §f/is sethome
+- ' '
+- §e▸ Click, to teleport
+ISLAND_PROFILE_HOME_NAME: Teleport to the home
+ISLAND_PROFILE_LORE:
+- ' '
+- '§7Date of creation: §f%s'
+- '§7Owner: %s'
+- '§7Your rank: §c%s'
+- '§7Island biome: §c%s'
+- '§7Level island: §d%s'
+- '§7To next level: §a%s XP'
+- '§7Mobs limit: §a%s'
+- '§7Open territory: §a%s'
+- '§7Amount members: §a%s§7/§c%s'
+- ' '
+ISLAND_PROFILE_MEMBERS_LORE:
+- ' '
+- §7View and settings permissions island,
+- §7and detailed information about each of them
+- ' '
+- §e▸ Click, to open menu
+ISLAND_PROFILE_MEMBERS_NAME: List island members
+ISLAND_PROFILE_NAME: Full information about island
+ISLAND_PROFILE_UPGRADE_LORE:
+- ' '
+- §7Purchase upgrade for your island
+- ' '
+- §cWARNING! Upgrade island can only
+- §cowner or co-owner
+- ' '
+- §e▸ Click, to update island
+ISLAND_PROFILE_UPGRADE_NAME: Upgrade island
+ISLAND_RANK_CO_OWNER:
+- ' '
+- '§7Available permissions:'
+- §8• §7All permissions island member
+- §8• §7Purchase and set biomes
+- §8• §7Manage permissions island members
+- §8• §7Upgrade island
+- §8• §7Manage island flag
+- ' '
+ISLAND_RANK_MEMBER:
+- ' '
+- '§7Available permissions:'
+- §8• §7Teleport to the island
+- §8• §7Interaction with territory island
+- ' '
+ISLAND_REMOVED: $SB_PREFIX$Island successfully delete, you were teleporot to
+  the spawn
+ISLAND_REMOVED_MEMBER: $SB_PREFIX$Island owner delete your island, you were
+  teleport to the spawn
+ISLAND_REMOVE_MEMBER_GUI_NAME: Remove member ?
+ISLAND_REMOVE_MEMBER_LORE:
+- ''
+- §7Are you sure that you want to remove
+- §7this specified member
+- §7from your island ?
+- ''
+ISLAND_REQUESTS_ERROR: $SB_PREFIX$§cError, you already have island, you need not
+  invites
+ISLAND_RESET: $SB_PREFIX$Your island has been reset and recreated
+ISLAND_RESET_GUI_NAME: Reset island ?
+ISLAND_RESET_LORE:
+- ''
+- §7Are you sure you want to clear
+- §7your island and start
+- §7over from scratch ?
+- ''
+- §cWARNING! This action is not reversible!
+ISLAND_ROCKS_LORE:
+- ' '
+- §7Island version with not big rocks
+- §7across the surface and some perfect
+- §7from the standard clearance.
+- ' '
+- §e▸ Click, to select this island
+ISLAND_ROCKS_NAME: Island with rocks
+ISLAND_RUINES_LORE:
+- ' '
+- §7Maybe on this island survival some
+- '§7other player before you... Joke! :D '
+- §7Another good one variant for you.
+- ' '
+- §e▸ Click, to select this island
+ISLAND_RUINES_NAME: Island with ruines
+ISLAND_SETHOME: $SB_PREFIX$Point of the home is set
+ISLAND_SETHOME_ERROR: $SB_PREFIX$§cYou cannot set point of the house in this location
+ISLAND_TAIGA_LORE:
+- ' '
+- §7Yo ho ho, like snow and frost?
+- §7Then this island just for you,
+- §7on it is lollipop,
+- §7well, is not it a miracle?
+- ' '
+- §e▸ Click, to select this island
+ISLAND_TAIGA_NAME: Snowly island
+ISLAND_TELEPORT_HOME: $SB_PREFIX$You have been teleported to the island of %s§f
+ISLAND_TOP_KILLS_HOLO:
+- §6§lTop for killing
+- §fTop player by amount
+- §fkilled players
+ISLAND_UPGRADE_TERRITORY_NAME: Upgrade territory
+ISLAND_WARP_REMOVED: §cYour warp %s §chas been deleted because the island it was made
+  on is private now or you were deleted from it
+ISLAND_YOU_NOT_OWNER: You do not have permission to do this! You need a moderator
+  or an owner of this island
+SKYBLOCK_CHOISED_GUI_NAME: Island selection
+SKYBLOCK_SHOP_BLOCKS: Store blocks
+SKYBLOCK_SHOP_FARMING: Store farming
+SKYBLOCK_SHOP_LOOT: Store drops
+SKYBLOCK_SHOP_OTHER: Store different things
+SKYBLOCK_SHOP_RES: Store resources
+SKYBLOCK_UPGRADE_GUI_NAME: Upgrades

@@ -1,0 +1,7 @@
+PLAYER_CHECK_NOT_PASSED: §6Anticheat §8| §fPlayer %s §fbroke check §c%s§f, his new
+  VL - §c%s
+PLAYER_GOT_BANNED: §6Anticheat §8| §fPlayer %s §fhas been blocked for use third-party
+  software
+PLAYER_WAS_KICKED: §6Anticheat §8| §fPlayer %s §fwas kicked on suspicion use third-party
+  software
+YOU_GOT_KICKED: §6Anticheat §8| §fYou were kicked for use third-party software

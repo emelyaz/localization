@@ -1,0 +1,114 @@
+CAGE_PURCHASE_MESSAGE: Ви придбали клітку §a%s §fза §a%s §f%s
+CAGE_SELECTION_MESSAGE: Ви обрали клітку §a%s
+CAGE_SW_ACACIA: Акація
+CAGE_SW_ACACIA_LORE: [
+  ]
+CAGE_SW_BIRCH: Березова
+CAGE_SW_BIRCH_LORE: [
+  ]
+CAGE_SW_DARK_OAK: Темна акація
+CAGE_SW_DARK_OAK_LORE: [
+  ]
+CAGE_SW_GLASS: Скло
+CAGE_SW_GLASS_LORE: [
+  ]
+CAGE_SW_ICE: Лід
+CAGE_SW_ICE_LORE: [
+  ]
+CAGE_SW_IRON_BARDING: Залізна
+CAGE_SW_IRON_BARDING_LORE: [
+  ]
+CAGE_SW_JUNGLE: Джунглі
+CAGE_SW_JUNGLE_LORE: [
+  ]
+CAGE_SW_LEAVES: Листяна
+CAGE_SW_LEAVES_LORE: [
+  ]
+CAGE_SW_NETHER: Пекельна
+CAGE_SW_NETHER_LORE: [
+  ]
+CAGE_SW_SLIME: Слаймова
+CAGE_SW_SLIME_LORE: [
+  ]
+CAGE_SW_SPRUCE: Ялинова
+CAGE_SW_SPRUCE_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_1: Тонке скло
+CAGE_SW_STAINED_GLASS_10: Бірюза
+CAGE_SW_STAINED_GLASS_10_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_11: Містична
+CAGE_SW_STAINED_GLASS_11_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_12: Небесна
+CAGE_SW_STAINED_GLASS_12_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_13: Кофе
+CAGE_SW_STAINED_GLASS_13_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_14: Зелена
+CAGE_SW_STAINED_GLASS_14_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_15: Лють
+CAGE_SW_STAINED_GLASS_15_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_16: Темна
+CAGE_SW_STAINED_GLASS_16_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_1_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_2: Ангельска
+CAGE_SW_STAINED_GLASS_2_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_3: Іриска
+CAGE_SW_STAINED_GLASS_3_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_4: Бузкова
+CAGE_SW_STAINED_GLASS_4_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_5: Банан
+CAGE_SW_STAINED_GLASS_5_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_6: Лаймова
+CAGE_SW_STAINED_GLASS_6_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_7: Жувальна гумка
+CAGE_SW_STAINED_GLASS_7_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_8: Порожнина
+CAGE_SW_STAINED_GLASS_8_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_9: Хмарна
+CAGE_SW_STAINED_GLASS_9_LORE: [
+  ]
+CAGE_SW_WOOD: Дерев`яна
+CAGE_SW_WOOD_LORE: [
+  ]
+SKYWARS_DUO_TYPE: §eПарний режим
+SKYWARS_END_EFFECTS_EVENT: '§cФінал гри (III) '
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: §7Гра буде закінчена через хвилину
+SKYWARS_END_EFFECTS_EVENT_TITLE: §cФінал гри
+SKYWARS_GAME_END_EVENT: '§cКінець '
+SKYWARS_GLOWING_EVENT: '§aСвітіння гравців '
+SKYWARS_GLOWING_EVENT_STARTED: §eУсі гравці отримали ефект світіння
+SKYWARS_LIGHTNING_EVENT: '§cФінал гри (II) '
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: §7До кінця залишилось 3 хвилини, уникайте блискавок...
+SKYWARS_LIGHTNING_EVENT_TITLE: §cЯрість зевса
+SKYWARS_LOOT_EVENT: '§aОновлення луту '
+SKYWARS_LOOT_EVENT_STARTED: §aЛут в скринях на центрі мапи був обновлений
+SKYWARS_SOLO_TYPE: §eОдиночний режим
+SKYWARS_SPEED_EVENT: '§aПрискорення '
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: §6SkyWars §8| §fВи отримали ефект швидкості
+  §a%s§f, поскільки обрали перк §aСонік
+SKYWARS_SPEED_EVENT_STARTED: §aУсі гравці отримали ефект швидкості %s
+SKYWARS_TNTRAIN_EVENT: '§cФінал гри '
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: §7Над головами гравців з`являється динаміт, остерігайтеся!
+SKYWARS_TNTRAIN_EVENT_TITLE: §cДощ із TNT
+SW_BOARD_KILLS: 'Вбивств: §a'
+SW_BOARD_NEXT_EVENT: 'Наступна подія:'
+SW_CHEST_EMPTY: §4Скриня порожня
+SW_GAME_ENDED: Гра буде завершена. Переможцем стає випадкова команда...
+SW_PLAYERS_ALIVE: 'Гравців: §a'
+SW_TEAMS_ALIVE: 'Команд: §a'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cУ вашого тіммейта %s §cдуже мало здоров`я!
+SW_YOUR_TEAMMATE_IS_DEAD: §cВаш тіммейт (%s§c) загинув

@@ -1,0 +1,320 @@
+ACCEPT_LORE_NO:
+- ''
+- §7Відмінити дію
+ACHIEVEMENT_COMPLETE: §a§l§kX§r §6§lАЧІВКА ВИКОНАНА §a§l§kX§r
+ACHIEVEMENT_DONE: §eВиконано
+ACHIEVEMENT_NO_DONE: §cНе виконано
+ACHIEVEMENT_PERCENT: '§7Виконано: §c%s'
+ADMINS_GUI_MAIN_LORE:
+- ' '
+- '§7Адміністраторів:'
+- §a%s
+ADVENTURE_MODE: Пригодницький
+ALERT_COOLDOWN: §cПомилка, писати повідомлення в загальний чат можна раз в хвилину
+ALERT_FORMAT: /alert <повідомлення>
+ALREADY_AT_LOBBY: §cВи вже в головному лобі
+ALREADY_ON_SERVER: §6Сервер §8| §cВи вже знаходитесь на цьому сервері!
+AVAILABLE_SERVER_NOT_FOUND: §6Сервер §8| §fНе вдалося знайти відповідний сервер
+BOARD_ACHIEVEMENT: Виконано завдань
+BOARD_BALANCE: Баланс
+BOARD_BORDERTIME: Звуження меж
+BOARD_BUSTER: Активний бустер
+BOARD_CHEST: Скринь
+BOARD_DEATH: Смертей
+BOARD_DISCORD: Діскорд
+BOARD_FOR_START: Для старту потрібно
+BOARD_GLOBAL_ONLINE: Онлайн проекту
+BOARD_GOLD: Золота
+BOARD_GROUP: Статус
+BOARD_ISLAND_YOU: Ваш острів
+BOARD_KILLS: Вбивств
+BOARD_LEVEL: Рівень
+BOARD_LEVEL_ISLAND: Рівень острова
+BOARD_LIFE_COUNT: Життів
+BOARD_MAPS: Карта
+BOARD_MEMBER_ISLAND: Кільк. участників
+BOARD_MODULE: Модуль
+BOARD_MONEY: Монет
+BOARD_NA: Не вибрано
+BOARD_NO_BUSTER: §c▻ §7Активних бустерів немає
+BOARD_NO_ISLAND1: Острів не знайдений!
+BOARD_NO_ISLAND2: пишіть - §7/island creatе
+BOARD_ONLINE: Онлайн
+BOARD_ON_ISLAND: Ви на острові
+BOARD_OWNER: Власник
+BOARD_PERK: Уміння
+BOARD_PLAYERS: Гравців
+BOARD_POINTS: Очок
+BOARD_RANK_YOU: Ваш ранг
+BOARD_REGION: Регіон
+BOARD_SERVER: Сервер
+BOARD_SHOP: Магазин
+BOARD_SPECTATOR: Спостерігачів
+BOARD_TEAMS: Команд
+BOARD_TIME: Час
+BOARD_TIME_TO_DM: Час до дезматчу
+BOARD_TOTAL_BED: Зламано ліжок
+BOARD_TOTAL_EGG: Зламано яєць
+BOARD_TOTAL_GAMES: Зіграно ігор
+BOARD_TOTAL_GEN: Покращено генераторів
+BOARD_TOTAL_KILLS: Всього вбивств
+BOARD_TOTAL_LUCKYBLOCKS: Зламано лакі-блоків
+BOARD_TOTAL_WINS: Всього перемог
+BOARD_TO_START: Старт через
+BOARD_VK: ВКонтакті
+BOARD_WAIT: Очікування
+BOOK_RULES_LORE:
+- §7Використовуйте цей предмет,
+- §7щоб прочитати короткий список правил
+BOOK_RULES_NAME: §eПравила
+CANCEL_NAME: §cСкасувати
+CANT_MESSAGE_YOURSELF: §cВи не можете написати самому собі
+CATEGORIES_ITEM_LORE:
+- §7Натисніть, щоб обрати предмети
+CATEGORIES_ITEM_NAME: §eПредмети
+CATEGORY_CAGE_NAME: Клітки
+CATEGORY_KIT_NAME: Набори
+CATEGORY_PERK_NAME: Перки
+CHOSEN_ITEM_IS: '§7Вибрано: §a%s'
+CLICK_TO_CHANGE_PRIORITY:
+- §e▸ ЛКМ, щоб ⤴ пріорітет на 1 од.
+- §e▸ ПКМ, щоб ⤵ пріорітет на 1 од.
+CLICK_TO_VOTE_THIS: §fКлікніть, щоб оцінити! Оцінку не можна буде змінити пізніше
+COINS_PREDICATE_ERROR_MSG: ' §8• §b%s §7%s (зараз у Вас §b%s §7%s)'
+CONFIRMED_NAME: Підтвердити
+CONVERT_ERROR: §cПомилка, потрібно вказувати тільки позитивне целое число!
+CONVERT_FORMAT: /convert <золото>
+COOLDOWN_2: §cЗачекайте %s перед наступним користуванням
+CORE_NAME: §cСервер
+CREATIVE_MODE: Креатив
+DAILY_REWARD_KEY: Щоденні нагороди
+DARK_AQUA: Бірюзові
+DARK_BLUE: синій
+DARK_GRAY: темно - сірий
+DARK_GREEN: зелений
+DARK_RED: темно - червоний
+DONATECHAT_ENABLED: §aВи знову бачите донат-чат
+DONATECHAT_FORMAT: /donatechat <повідомлення>
+DONATECHAT_MSG: §6Чат донатерів §8| §f%s §8» §7%s
+ENCHANT_TITLE: Чари
+ERROR_COMMAND: §cПомилка, пишіть %s
+ERROR_COMMAND_IN_GAME: §cДана команда не доступна під час гри
+EVENTS_LIVED_STAT: Пережито подій
+EXP_TO_NEW_LVL: §fДо наступного рівня потрібно §a%s§f досвіду
+FAVORITE_CLEAR: §cОчистити обране
+FAVORITE_CLEAR_LORE:
+- §7Натисніть, щоб прибрати всі
+- §7гаджети з обраного
+FAVORITE_ITEM: §aОбране
+FAVORITE_ITEM_LORE:
+- §7Меню обраного - це меню для
+- §7швидкого запуску будь-якого гаджета,
+- §7який ви зможете налаштувати під себе.
+- §7
+- §7щоб додати предмет в обране,
+- §7натисніть §cПКМ §7по іконці бажаного гаджета
+FAVORITE_LORE_ADD: §aПКМ, щоб додати в обране
+FAVORITE_LORE_REMOVE: §cПКМ, щоб прибрати з обраного
+FIND_FORMAT: /find <нік гравця>
+FIND_RESULT: §6Сервер §8| §fГравець %s §fзнаходиться на сервері §c%s
+GAMEMODE_FORMAT: /gamemode <1|2|0>
+GAMEMODE_TO: $@MODE_PREFIX$Гравцю %s §fвстановлений режим - §c%s
+GOODGAME_FORMAT: /gg <нік>
+GROUP_PREDICATE_ABOVE_GROUPS_ERROR_MSG: ' §8• §7привілегія %s §7або вище §7(Ви %s§7)'
+GROUP_PREDICATE_BELOW_GROUPS_ERROR_MSG: ' §8• §7привілегія не вище %s §7(Ви %s§7)'
+GROUP_PREDICATE_ONLY_THIS_GROUP_ERROR_MSG: ' §8• §7привілегія %s §7(Ви %s§7)'
+GUI_STAFF_ADMINS: Адміністратори
+GUI_STAFF_HELPERS: Хелпери
+GUI_STAFF_JUNIORS: Молодші хелпери
+GUI_STAFF_MODERATORS: Модератори
+GUI_STAFF_SHOW_LIST:
+- ''
+- ' §e▸ Натисніть, щоб відкрити'
+- ' §eсписок персонала'
+HELPERS_GUI_MAIN_LORE:
+- ' '
+- '§7Хелперів:'
+- §a%s
+HELP_PAPER_FOR: '§e▸ Підкоманди для %s:'
+HOVER_MESSAGE_CHAT:
+- §fНатисніть сюди, щоб написати
+- §fгравцю %s §fв лс
+IGNORELIST_EMPTY: §cВ Вашому списку ігнорованих немає гравців.
+IGNORE_FORMAT: §c/ignore <нік>
+IGNORE_GUI_ITEM_LORE:
+- ' '
+- ' §e▸ Натисніть, щоб видалити'
+- '  §eгравця зі списку ігнорованих'
+IGNORE_GUI_MAIN: Список ігнорованих
+IGNORE_GUI_MAIN_LORE:
+- ''
+- '§7Всього гравців:'
+- §a%s
+IGNORE_LIMIT: §cВи перевищили ліміт на кількість ігнорованих гравців
+INVALID_BAN_REQUEST_ID: §cНевірний ID запита
+INVALID_DATE_PERIOD: §cПомилка, вкажіть вірний період (день/місяць/рік)
+INVALID_ITEM_RECIPE: §cПомилка, рецепт не знайдений
+INVALID_PASSWORD_LENGTH: §cВибраний пароль короткий, або дуже довгий
+INVENTORY_IS_FULL: §cПомилка, ваш інвентар заповнений
+JUNIORS_GUI_MAIN_LORE:
+- ' '
+- '§7Молодших хелперів:'
+- §a%s
+KEY_BOX: '%sУ вас %s %s'
+LANGUAGE_CHANGE: §6Сервер §8| §fВашу мову змінено на §c%s
+LEVEL_COMMAND_1: §6Ігровий рівень §8| §fУ вас §d%s§f рівень
+LEVEL_COMMAND_2: §6Ігровий рівень §8| §fДо наступного рівня необхідно набрати §a%s§f
+  досвіду
+LEVEL_PREDICATE_ERROR_MSG: ' §8• §7рівень §a%s §7(зараз у Вас §a%s§7)'
+LIMBO_ITEM_LORE:
+- §7Використовуйте цей предмет,
+- §7щоб повернутися в головне лоббі
+LIMBO_ITEM_NAME: Назад в головне лоббі
+LIMBO_NO_CHAT: §6Сервер §8| §fВибачте, але ви не можете писати в §aчат§f. Повернутися
+  в головне лоббі §7/hub §fабо §7/lobby
+LIMIT_REACHED: §6Сервер §8| §fВи досягнули ліміт для цього покарання, зачекайте ще
+  §e%s
+LIST_CMD: '%s§fНа сервері §a%s §f%s: %s'
+LIST_EMPTY: §8Нікого немає
+LOCATOR_ITEM_LORE:
+- §7Використовуйте цей предмет, щоб
+- §7знаходити найближчого гравця
+LUCKYWARS_DUO_TYPE: §eПарний режим
+LUCKYWARS_SOLO_TYPE: §eОдиночний режим
+LVL_UP: §a§l§kX§r §6§lРІВЕНЬ ПІДВИЩЕНИЙ §a§l§kX§r
+MESSAGE_FORMAT: §c/msg <нік> <повідомлення>
+MESSAGE_NOT_FOUND: §cПовідомлення %s не знайдено!
+MODERATORS_GUI_MAIN_LORE:
+- ' '
+- '§7Модераторів:'
+- §a%s
+NEAR_NOT_FOUND: $@MODE_PREFIX$Найближчих гравців немає
+NEW_LVL: §fВи досягли §d%s§f рівня!
+NO_NEVER_PLAYER: §cПомилка, гравець %s ніколи раніше не грав на нашому проекті
+ONLINE_ALL_PLAYERS_ONLINE: §6Онлайн §8| §fЗагальний онлайн проекту §a%s §f%s
+ONLINE_PLAYERS_ONLINE: §6Онлайн §8| §fОнлайн зазначених режимів §a%s §f%s
+PAGE_ARROW1: §aНаступна сторінка
+PAGE_ARROW2: §aПопередня сторінка
+PAGE_ARROW_GUI: Сторінка
+PAGE_ARROW_LORE:
+- §7Натисніть для переходу
+- §7на %s сторінку
+PARKOURRACERS_CLASSIC_TYPE: §eКласичний режим
+PARKOURRACERS_DUO_TYPE: §eПарний режим
+PARKOURRACERS_SOLO_TYPE: §eОдиночний режим
+PLAYER_IGNORED: §eВи додали гравця %s §eв список ігнорованих. Тепер він не сможе відстежувати
+  та писати Вам
+PLAYER_NOT_IGNORED: §cВи видалили гравця %s §cз списка ігнорованих
+PLAYER_NOT_REGISTER: §cДаний гравець не зареєстрований
+PLAY_FORMAT: /play <гра>
+PRC_GAME_DESC:
+- Классическая версия паркура без PvP
+- Ваша задача - пройти паркур как можно бистрее,
+- и попасть в топ. Победителем становится игрок,
+- занявший первое место.
+PRD_GAME_DESC:
+- Пройдіть якомога більше модулів, для того,
+- щоб отримати більше очок для закупівлі зброї.
+- За пройдений менше чим за 3 спроби модуль - отримуєте бонус.
+- Бажаємо успіхів в проходженні! Переможе найсильніший!
+PREFIX_CHANGE_LORE:
+- '§7Змінити префікс на: %s'
+- ''
+- §e▸ Натисніть, щоб встановити префікс
+PREFIX_CHANGE_LORE2:
+- ''
+- §aПрефікс обраний
+PREFIX_SET: §6Сервер §8| §fВаш префікс був змінений
+PROMO_ITEM_NAME: §aЗНИЖКИ!
+PRS_GAME_DESC:
+- Пройдіть якомога більше модулів, для того,
+- щоб отримати більше очок для закупівлі зброї.
+- За пройдений менше чим за 3 спроби модуль - отримуєте бонус.
+- Бажаємо успіхів в проходженні! Переможе найсильніший!
+RECIEVED_MESSAGE_FORMAT: ' §6ОП §8| §6%s §8-> §6Я §8| §f%s'
+REDIRECTED_TO_LOBBY: §aВи були телепортовані на %s
+REDIRECT_ERROR: §cНеможливо знайти відповідний сервер(
+REDIRECT_TO_SERVER: §aТелепортую на сервер %s
+REPLAY_ITEM_LORE:
+- §7Натисніть, щоб почати нову гру
+- §7на цьому же режимі
+REPLAY_ITEM_NAME: §eПочати нову гру
+REPLY_FORMAT: §c/reply <повідомлення>
+REPLY_PLAYER_OFFLINE: §cВам ніхто не писав
+REQUEST_GUI_NAME: Список запитів
+RULES_COMMAND: '§6Cервер §8| §fПовний список правил сервера - '
+RULES_COMMAND_HOVER: §fНатисніть для переходу на посилання
+SELECTED_SKIN_IS_INVALID: §cВибраний вами скін невалідний або відбулася якась помилка
+SENDING_PLAYER_TO_SERVER: §6Сервер §8| §fГравець %s §fуспішно телепортований на сервер
+  §c%s
+SEND_FORMAT: /send <нік гравця> <сервер>
+SENT_MESSAGE_FORMAT: ' §6ОП §8| §6Я §8-> §6%s §8| §f%s'
+SERVERS_NOT_FOUND: §cПомилка, зазначені сервера не знайдені
+SERVER_FORMAT: /server <сервер>
+SERVER_IS_NOT_ONLINE: §cСервер не знайденний!
+SERVER_QUEUE: §aТелепортую на сервер %s
+SERVER_TELEPORTATION: §6Сервер §8| §fВи були телепортовані на сервер §a%s
+SERVER_WAS_DOWN: §6Сервер §8| §fСервер §a%s §fзакрив Ваше з`єднання, Ви перенаправлені
+  на §a%s
+SGD_GAME_DESC:
+- Боріться з іншими за право бути кращим
+- В цьому Вам допоможуть речі зі скринь, а також
+- перки і набори, які Ви обрали в лоббі
+- Переможцями стануть усі виживші гравці
+- з перемогшої гру команди
+SGS_GAME_DESC:
+- Боріться з іншими за право бути кращим
+- В цьому Вам допоможуть речі зі скринь, а також
+- перки і набори, які Ви обрали в лоббі
+- Переможцем стане останній виживший гравець
+SKIN_FORMAT: /skin <reset/нік гравця>
+SKIN_HAS_BEEN_RESET: §6Скін §8| §fВаш скін був скинутий
+SKIN_HAS_BEEN_UPDATED_TO: §6Скін §8| §fВаш скін був оновлений
+STAFF_GUI_MAIN: Список персоналу
+STAFF_MEMBER_OFFLINE_LORE:
+- ' '
+- §7Останній раз був у мережі
+- §e%s назад
+- ' '
+- ' §c✗ Зараз оффлайн'
+STAFF_MEMBER_ONLINE_LORE:
+- ' '
+- '§7Сервер: §a%s'
+SURVIVALGAMES_DUO_TYPE: §eПарний режим
+SURVIVALGAMES_SOLO_TYPE: §eОдиночний режим
+SURVIVAL_MODE: Виживання
+SYSTEM_DISABLED_LORE:
+- §cДана функція вимкнена
+TAB_FOOTER:
+- ''
+- '§fВи перебуваєте на сервері:'
+- §e%s
+TAB_HEADER:
+- §6§lLastCraft
+- ''
+- '§fОнлайн-магазин:'
+- §elast-craft.com
+- ''
+THANKS_FOR_MARKING_MAP:
+- §aДякуємо за Ваш голос за мапу %s§f!
+THIS_PLAYER_IS_TESTER_FIND: §6Сервер §8| §fДаний гравець э тестером анти-чіта. Його
+  не можна відслідити в даний момент
+THIS_PLAYER_IS_TESTER_REPORT: §6Античіт §8| §fДаний гравець не читер
+TOP_PLACE: місце
+TOP_POSITION: §e%s місце
+TP_FORMAT: /tp <нік>
+UNKNOWN_SUBCOMMAND: §cЦієї команди не існує О_о
+YOU_CANT_CHECK_NON_STAFF: §cПомилка, даний гравець не є персоналом проекту
+YOU_CANT_CONTACT_HIM: §cДаний гравець додав Вас в список ігнорованих
+YOU_CANT_CONTACT_HIM_SETTING: §cПомилка, даний гравець приймає повідомлення тільки
+  від своїх друзів
+YOU_CANT_IGNORE_YOURSELF: §cВи не можете додати в список ігнорованих самого себе
+YOU_CANT_SEE_ANOTHER_PLAYERS_STATS: §cПомилка, переглядати статистику інших гравців
+  може тільки §c§lMAGMA §cі више
+YOU_CANT_WRITE_BY_SETTINGS: §cВідповідно з Вашими налаштуваннями приватності Ви можете
+  спілкуватися тільки з друзями
+YOU_DISABLED_DONATECHAT: §cВи відключили чат донатерів. щоб написати туди, увімкніть
+  його в особистих налаштуваннях
+YOU_HAVE_BEEN_SENT: §6Сервер §8| %s §fтелепортував вас на сервер §c%s
+YOU_HAVE_DONATECHAT_COOLDOWN: §cПисати в чат донатерів можна раз в 30 секунд
+YOU_REWARD_MSG: Ви заробили

@@ -1,7 +1,0 @@
-INVALID_BAN_REQUEST_ID: §cНеверный ID запроса
-INVALID_DATE_PERIOD: §cОшибка, укажите верный период (день/месяц/год)
-INVALID_FLAG: '§cНеизвестный флаг: %s'
-INVALID_ITEM_RECIPE: §cОшибка, рецепт не найден
-INVALID_PASSWORD_LENGTH: §cВыбранный пароль короткий, либо слишком длинный
-INVALID_RULE: §cОшибка! Неверно указан номер правила, список правил можно посмотреть
-  командой §e/rules

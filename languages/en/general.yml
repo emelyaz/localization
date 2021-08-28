@@ -1,0 +1,529 @@
+ACCEPT_LORE_NO:
+- ''
+- §7Cancel action
+ACHIEVEMENT_COMPLETE: §a§l§kX§r §6§lACHIEVEMENT COMPLETED §a§l§kX§r
+ACHIEVEMENT_DONE: §eCompleted
+ACHIEVEMENT_NO_DONE: §cnot complete
+ACHIEVEMENT_PERCENT: '§7Complete: §c%s'
+ADMINS_GUI_MAIN_LORE:
+- ' '
+- '§7Total admins:'
+- §a%s
+ADVENTURE_MODE: Adventure
+ALERT_COOLDOWN: §cError, write message in global chat can only one in minute
+ALERT_FORMAT: /alert <message>
+ALREADY_AT_LOBBY: §cYou are already in hub
+ALREADY_ON_SERVER: §6Server §8| §cYou are already here!
+AVAILABLE_SERVER_NOT_FOUND: §6Server §8| §fNo available servers was found
+BEDWARS_DUO_TYPE: §eDouble mode
+BEDWARS_SOLO_TYPE: §eSolo mode
+BEDWARS_TEAM_TYPE: §eTeam mode
+BOARD_ACHIEVEMENT: Completed tasks
+BOARD_BALANCE: Balance
+BOARD_BED: Bed
+BOARD_BORDERTIME: Constriction borders
+BOARD_BREAK_BEDS: Beds broken
+BOARD_BUSTER: Active booster
+BOARD_CHEST: Chests
+BOARD_COLOR: Color
+BOARD_DEATH: Deaths
+BOARD_DISCORD: Discord
+BOARD_FINAL_KILLS: Final Kills
+BOARD_FOR_START: Need to start
+BOARD_GAME_STATS: Statistics
+BOARD_GLOBAL_ONLINE: Total online
+BOARD_GOLD: Gold
+BOARD_GROUP: Rank
+BOARD_ISLAND_YOU: Your island
+BOARD_KILLS: Kills
+BOARD_LEVEL: Level
+BOARD_LEVEL_ISLAND: Island level
+BOARD_MAPS: Map
+BOARD_MEMBER_ISLAND: Amount members
+BOARD_MODE: Mode
+BOARD_MODULE: Module
+BOARD_MONEY: Coins
+BOARD_NA: N/A
+BOARD_NO_BUSTER: §c▻ §7No active boosters
+BOARD_NO_ISLAND1: Island not found!
+BOARD_NO_ISLAND2: write - §7/island create
+BOARD_ONLINE: Online
+BOARD_ON_ISLAND: You on the island
+BOARD_OUR_TEAM: Your team
+BOARD_OWNER: Owner
+BOARD_PERK: Perk
+BOARD_PLAYERS: Players
+BOARD_RANK_YOU: Your rank
+BOARD_REGION: Region
+BOARD_REGIONS: Regions claimed
+BOARD_SERVER: Server
+BOARD_SHOP: Store
+BOARD_SPECTATOR: Spectators
+BOARD_TEAMS: Teams
+BOARD_TIME: Time
+BOARD_TOTAL_BED: Destroyed beds
+BOARD_TOTAL_EGG: Destroyed eggs
+BOARD_TOTAL_GAMES: Total games
+BOARD_TOTAL_GEN: Improved generators
+BOARD_TOTAL_KILLS: Total kills
+BOARD_TOTAL_LUCKYBLOCKS: Broken LuckyBlocks
+BOARD_TOTAL_MID_LUCKYBLOCKS: Broken mid LuckyBlocks
+BOARD_TOTAL_WINS: Total wins
+BOARD_TO_START: Starting in
+BOARD_VK: VKontakte
+BOARD_WAIT: Waiting
+BOOK_RULES_LORE:
+- §7Use this item to read
+- §7default rules for playing
+- §7on this server
+BOOK_RULES_NAME: §eRules
+BWD_GAME_DESC:
+- You need to destroy all enemy teams faster than
+- they destroy you! Enemies can respawn until their beds are broken
+- So your objective is break all beds and kill all players
+- in all teams (not yours, of course)
+BWS_GAME_DESC:
+- You need to destroy all enemy teams faster than
+- they destroy you! Enemies can respawn until their beds are broken
+- So your objective is break all beds and kill all players
+- in all teams (not yours, of course)
+BWT_GAME_DESC:
+- You need to destroy all enemy teams faster than
+- they destroy you! Enemies can respawn until their beds are broken
+- So your objective is break all beds and kill all players
+- in all teams (not yours, of course)
+CANCEL_NAME: §cCancel
+CANT_MESSAGE_YOURSELF: §cYou cannot contact yourself
+CATEGORIES_ITEM_LORE:
+- §7Click, to select items
+CATEGORIES_ITEM_NAME: §eItems
+CATEGORY_CAGE_LORE:
+- ' '
+- §7Bored of summoning in default cage?
+- §7This is very easy to fix! Choose your new
+- §7cage right now!
+CATEGORY_CAGE_NAME: Cages
+CATEGORY_CLICK_TO_VIEW_ITEMS:
+- ' '
+- §e▸ Click to open
+CATEGORY_KIT_LORE:
+- ' '
+- §7Choose items what you recieve
+- §7when game starts. There is a lot
+- §7of variants, choose yours!
+CATEGORY_KIT_NAME: Kits
+CATEGORY_PERK_LORE:
+- ' '
+- §7Perks gives you different skills,
+- §7that can be useful in game
+CATEGORY_PERK_NAME: Perks
+CATEGORY_SKIN_LORE:
+- ' '
+- §7Skin of Bed Wars shopkeeper (NPC)
+CATEGORY_SKIN_NAME: Skins
+CATEGORY_SOUND_LORE:
+- ''
+- §7If you break some bed
+- §7all players who plays
+- §7with you will hear
+- §7this sound
+CATEGORY_SOUND_NAME: Breaking bed sound
+CHOSEN_ITEM_IS: '§7Selected: §a%s'
+CLICK_TO_CHANGE_PRIORITY:
+- §e▸ LMB, to ⤴ priority on 1 u.
+- §e▸ RMB, to ⤵ priority on 1 u.
+CLICK_TO_VOTE_THIS: §fClick, to vote map! Vote cannot change later
+COINS_PREDICATE_ERROR_MSG: ' §8• §b%s §7%s more (you have §b%s §7%s)'
+CONFIRMED_NAME: Confirm
+CONVERT_ERROR: §cWrong number! Please use positive and integer numbers
+CONVERT_FORMAT: /convert <gold>
+COOLDOWN_2: §cWait %s to use that
+CORE_NAME: §cServer
+CREATIVE_MODE: Creative
+DAILY_REWARD_KEY: §eDaily rewards
+DAILY_REWARD_LORE_KEY:
+- ' '
+- '§7Daily reward that contains:'
+- §8 • §fcoins §7(§6100§7-§6200§7)
+- §8 • §fexperience §7(§a100§7-§a300§7)
+DARK_AQUA: Turquoise
+DARK_BLUE: dark blue
+DARK_GRAY: dark gray
+DARK_GREEN: green
+DARK_RED: dark red
+DONATECHAT_ENABLED: §aYou can now see donate chat again
+DONATECHAT_FORMAT: /donatechat <message>
+DONATECHAT_MSG: §6Donate chat §8| §f%s §8» §7%s
+ENCHANTED_BOOK: Enchanted Book
+ENCHANT_TITLE: Enchant
+ERROR_COMMAND: §cError, please contact %s
+ERROR_COMMAND_IN_GAME: §cThis command is not available in the game
+EVENTS_LIVED_STAT: Random events survived
+EXP_TO_NEW_LVL: §fYou need §a%s§f more XP to the next level
+FAVORITE_CLEAR: §cClear favorites
+FAVORITE_CLEAR_LORE:
+- §7Click to remove all
+- §7gadgets from favorites
+FAVORITE_ITEM: §aFavorites
+FAVORITE_ITEM_LORE:
+- §7The favorites menu is the menu for
+- §7quick launch of any gadget,
+- §7which you can customize for yourself.
+- §7
+- §7To add an item to your favorites,
+- §cRight §7click on the icon of the desired gadget
+FAVORITE_LORE_ADD: §aRight click to add to Favorites
+FAVORITE_LORE_REMOVE: §cRight click to remove from Favorites
+FIND_FORMAT: /find <player name>
+FIND_RESULT: §6Server §8| §fPlayer %s §fnow at the server §c%s
+FIND_RESULT_OFFLINE: §6Server §8| §f%s §fis offline, last time it was online is §7%s
+  §fago
+GAMEMODE_FORMAT: /gamemode <1|2|0>
+GAMEMODE_TO: $@MODE_PREFIX$Changed gamemode for %s §fto §c%s
+GROUP_PREDICATE_ABOVE_GROUPS_ERROR_MSG: ' §8• §7rank %s §7or higher §7(your rank is
+  %s§7)'
+GROUP_PREDICATE_BELOW_GROUPS_ERROR_MSG: ' §8• §7rank %s §7or less §7(your rank is
+  %s§7)'
+GROUP_PREDICATE_ONLY_THIS_GROUP_ERROR_MSG: ' §8• %s §7rank (your rank is %s§7)'
+GUI_STAFF_ADMINS: Admins
+GUI_STAFF_HELPERS: Helpers
+GUI_STAFF_JUNIORS: Juniors
+GUI_STAFF_MODERATORS: Moderators
+GUI_STAFF_SHOW_LIST:
+- ''
+- ' §e▸ Click here to open'
+- ' §estaff list'
+HELPERS_GUI_MAIN_LORE:
+- ' '
+- '§7Total helpers:'
+- §a%s
+HELP_PAPER_FOR: '§e▸ Subcommand for %s:'
+HOVER_MESSAGE_CHAT:
+- §fClick here, to write to a
+- §fplayer %s §fin pm
+IGNORELIST_EMPTY: §cYour ignore list is empty.
+IGNORE_FORMAT: §c/ignore <player name>
+IGNORE_GUI_ITEM_LORE:
+- ''
+- ' §e▸ Click here to remove'
+- ' §eplayer from your ignore list'
+IGNORE_GUI_MAIN: Ignore list
+IGNORE_GUI_MAIN_LORE:
+- ''
+- '§7Total players ignored:'
+- §a%s
+IGNORE_LIMIT: §cYou exceeded the limit for ignore list size.
+INVALID_BAN_REQUEST_ID: §cNot valid ID request
+INVALID_DATE_PERIOD: §cError, specify correct period (day/month/year)
+INVALID_ITEM_RECIPE: §cError, recipe not found
+INVALID_PASSWORD_LENGTH: §cThis password is too short or is too long
+INVENTORY_IS_FULL: §cError, your inventory is full
+JUNIORS_GUI_MAIN_LORE:
+- ' '
+- '§7Total Juniors:'
+- §a%s
+KEY_BOX: '%sYou have %s %s'
+LANGUAGE_CHANGE: §6Server §8| §fYour language has been changed to §c%s
+LEVEL_ALLREADY_GIVE: §cYou already claimed this reward!
+LEVEL_COMMAND_1: §6Leveling §8| §fYou have §d%s§f level
+LEVEL_COMMAND_2: §6Leveling §8| §fYou need §a%s§f more XP to the next level
+LEVEL_NO_LEVEL: §cYour level is still smaller then required for claiming!
+LEVEL_NO_OTHER_REWARD: §cClaim all previous rewards to claim this!
+LEVEL_PREDICATE_ERROR_MSG: ' §8• §7level §a%s §7(your level is §a%s§7)'
+LIMBO_ITEM_LORE:
+- §7Use this item to back to
+- §7main lobby
+LIMBO_ITEM_NAME: Back to main lobby
+LIMBO_NO_CHAT: §6Сервер §8| §fSorry, you can not use §achat§f. To back to main lobby
+  use §7/hub §for §7/lobby
+LIST_CMD: '%s§fOn the server §a%s §f%s: %s'
+LIST_EMPTY: §8Players not found
+LUCKYWARS_DUO_TYPE: §eDouble mode
+LUCKYWARS_SOLO_TYPE: §eSolo mode
+LVL_UP: §a§l§kX§r §6§lLEVEL UP §a§l§kX§r
+LWD_GAME_DESC:
+- Your goal is kill all players. Loot from broken luckyblocks
+- can help you with it, but there is a lot of traps alongside!
+- So you need to be very careful!
+LWS_GAME_DESC:
+- Your goal is kill all players. Loot from broken luckyblocks
+- can help you with it, but there is a lot of traps alongside!
+- So you need to be very careful!
+LW_MIDDLE_TIMER: §eLucky Block spawns in
+MESSAGE_FORMAT: §c/msg <player name> <message>
+MESSAGE_NOT_FOUND: §cMessage %s was not found
+MODERATORS_GUI_MAIN_LORE:
+- ' '
+- '§7Total moderators:'
+- §a%s
+MYSTERY_DUST_DATA: Coins
+NEAR_NOT_FOUND: $@MODE_PREFIX$Players not found
+NEW_LVL: §fYou received §d%s§f level!
+NO_NEVER_PLAYER: §cError, player %s has never played at server
+NO_RARITY: Without rarity
+ONLINE_ALL_PLAYERS_ONLINE: §6Server §8| §fTotal online - §a%s §f%s
+ONLINE_PLAYERS_ONLINE: §6Server §8| §fTotal online of gamemode - §a%s §f%s
+PAGE_ARROW1: §aNext page
+PAGE_ARROW2: §aPrevious page
+PAGE_ARROW_GUI: page
+PAGE_ARROW_LORE:
+- §7Click to go
+- §7on %s page
+PARKOURRACERS_CLASSIC_TYPE: §eClassic mode
+PARKOURRACERS_DUO_TYPE: §eDouble mode
+PARKOURRACERS_SOLO_TYPE: §eSolo mode
+PLAYER_IGNORED: §eYou added player %s §eto your ignore list. He can no longer find
+  and contact you
+PLAYER_NOT_IGNORED: §cYou removed player %s §cfrom ignore list.
+PLAYER_NOT_REGISTER: §cThat player is not registered
+PLAY_FORMAT: /play <game>
+PREFIX_CHANGE_LORE:
+- '§7Change the prefix to: %s'
+- ''
+- §e▸ Click to set the prefix
+PREFIX_CHANGE_LORE2:
+- ''
+- §aPrefix selected
+PREFIX_SET: §6Server §8| §fYour prefix has been changed
+PROMO_ITEM_NAME: §aDISCOUNT!
+RECIEVED_MESSAGE_FORMAT: ' §6PM §8| §6%s §8-> §6Я §8| §f%s'
+REDIRECTED_TO_LOBBY: §aYou were teleported to %s
+REDIRECT_ERROR: §cCannot find right server(
+REDIRECT_TO_SERVER: §aSending you to %s
+REPLAY_ITEM_LORE:
+- §7Click, to start new game
+- §7on the same mode
+REPLAY_ITEM_NAME: §eStart new game
+REPLY_FORMAT: §c/reply <message>
+REPLY_PLAYER_OFFLINE: §cNo one wrote to you
+REQUEST_GUI_NAME: Requests
+RULES_COMMAND: '§6Server §8| §fFull list of server rules - '
+RULES_COMMAND_HOVER: §fClick here to open url
+SELECTED_SKIN_IS_INVALID: §cSkin that you have selected is invalid or an error has
+  occured
+SENDING_PLAYER_TO_SERVER: §6Server §8| §fPlayer %s §fhas been successfully teleported
+  to the server §c%s
+SENDMONEY_ERROR_MONEY: §cMaximum transfer at once is 300-5000 coins!
+SENDMONEY_ERROR_SEND: §cYou cant send %s %s because your %s %s daily limit was reached
+SENDMONEY_ERROR_SENDED: §cYou cant send %s %s to %s§c because his %s %s daily limit
+  was reached
+SENDMONEY_FORMAT: /sendmoney <nickname> <amount>
+SENDMONEY_NO_LEVEL_OTHER: §cYou cant send money because level of this player is lower
+  than 10!
+SENDMONEY_NO_LEVEL_YOU: §cYou cant send money because your level is lower than 10!
+SENDMONEY_NO_MONEY: §cYou have not ehough money! Includes fee (%s) your balance must
+  be at least %s %s
+SENDMONEY_SEND: §6Server §8| §fSuccesfuly transfered §a%s §f%s to %s§f. Fee was §c%s
+  §f%s (§e%s§f)
+SENDMONEY_TO: §6Server §8| §fSuccesfuly transfered §a%s §f%s from %s
+SENDMONEY_YOU: §cDo not send money to yourself!
+SEND_FORMAT: /send <player name> <server name>
+SENT_MESSAGE_FORMAT: ' §6PM §8| §6I §8-> §6%s §8| §f%s'
+SERVERS_NOT_FOUND: §cError, current servers not found
+SERVER_FORMAT: /server <server name>
+SERVER_IS_NOT_ONLINE: §cServer not found!
+SERVER_QUEUE: §aSending you to %s...
+SERVER_TELEPORTATION: §6Server §8| §fYou have been teleported to the server §a%s
+SERVER_TO: §6Server §8| §fYou connected to §a%s
+SERVER_TO_LIMBO: §6Server §8| §fYour server was not found in main core so you was
+  teleported to §aLimbo
+SERVER_TO_WAIT: §6Server §8| §fWaiting your server...
+SERVER_WAS_DOWN: §6Server §8| §fServer §a%s §ffinished your connection, you was sent
+  to §a%s
+SIT_DISABLE: §6Server §8| §fYou are not sitting more
+SIT_ENABLE: §6Server §8| §fYou are sitting now
+SIT_ERROR: §6Server §8| §fYou can not sit in the air
+SKIN_FORMAT: /skin <reset/player name>
+SKIN_HAS_BEEN_RESET: §6СSkin §8| §fYour skin has been dropped
+SKIN_HAS_BEEN_UPDATED_TO: §6Skin §8| §fYour skin has been updated
+STAFF_GUI_MAIN: Staff list
+STAFF_MEMBER_OFFLINE_LORE:
+- ' '
+- §7Last seen
+- §e%s ago
+- ' '
+- ' §c✗ Player is offline'
+STAFF_MEMBER_ONLINE_LORE:
+- ' '
+- '§7Server: §a%s'
+STREAMS_ADD: §6YouTube §8| §fStream successfuly added! All players will be notificated
+  in 2 minutes.
+STREAMS_ADD_ERROR: §6YouTube §8| §cThere is an error while adding your stream... Maybe
+  you did not start it?
+STREAMS_ADD_SYNTAX_ERROR: '§6YouTube §8| §cError: wrong link'
+STREAMS_ALREADY: §6YouTube §8| §fYour stream already started!
+STREAMS_CLICK:
+- ' '
+- ' §fClick on this message'
+- ' §fto get a link to stream of'
+- ' §f%s'
+- ' '
+STREAMS_DELETE_STREAM: §6YouTube §8| %s §fstream was removed
+STREAMS_EXAMPLE:
+- '§6YouTube §8| §fExample of supported links:'
+- ' §8▪ §fStream on §7You§cTube§f: §dhttps://www.youtube.com/watch?v=XXXXXXXXX'
+- ' §8▪ §5Twitch§f streaming channel: §dhttps://www.twitch.tv/XXXXXXXX'
+STREAMS_GUI_LORE:
+- ''
+- '§7Name: §f%s'
+- '§7Viewers: §a%s'
+- '§7Duration: §f%s'
+- ''
+- §e▸ Click to get a link
+STREAMS_GUI_NAME: Streams
+STREAMS_HELP:
+- §7/streams add <link> §f- add stream to server
+- §7/streams remove §f- remvoe stream
+STREAMS_HELP_LORE:
+- ''
+- §7You can create streams from
+- §7§fYou§cTube §7and §dTwitch
+- ''
+- §7How to do it?
+- §7As first, you need %s §7rank.
+- §7If you have it, you granting access
+- §7to §f/streams add §7and §f/stream remove
+- §7(enable your logic to understand what this commands mean)
+- ''
+- §fEvery §a20 §fminutes all online players
+- §fwill recieve a notification about running streams!
+- §fAnd (if you start it) yours too!
+- ''
+- §cAttention! If you leave a server,
+- §cyour stream will removes!
+STREAMS_HELP_NAME: Help
+STREAMS_NO_STREAMS_YOU: §6YouTube §8| §fYou have not active streams now!
+STREAMS_NO_STREAM_LORE:
+- §7At this moment server does not
+- §7have active streams
+STREAMS_NO_STREAM_NAME: §cNo streams active
+STREAMS_STOP: §6YouTube §8| §fYour stream was stopped...
+STREAMS_YOUTUBE_ONLY: §6YouTube §8| §fOnly %s §frank has access to streams control!
+SURVIVALGAMES_DUO_TYPE: §eDouble mode
+SURVIVALGAMES_SOLO_TYPE: §eSolo mode
+SURVIVAL_MODE: Survival
+SWD_GAME_DESC:
+- Your (as well as your teammate) objective is play using
+- 'items in chests, PvP skills, kits and perks, also using '
+- non-standard game style and become last survived team.
+- Maybe Random Events can help you?
+SWS_GAME_DESC:
+- Your objective is play using items in chests, PvP skills,
+- kits and perks, also using non-standard game style
+- and become last survived player.
+- Maybe Random Events can help you?
+SYSTEM_DISABLED_LORE:
+- §cThis feature is disabled
+TAB_FOOTER:
+- ''
+- '§fNow you are at:'
+- §e%s
+TAB_HEADER:
+- §6§lLastCraft
+- ''
+- '§fOnline-Store:'
+- §elast-craft.com
+- ''
+THANKS_FOR_MARKING_MAP:
+- §aThank you for your vote for the map %s§f!
+THIS_PLAYER_IS_TESTER_FIND: §Server §8| §fThis player is anticheat-tester. His cant
+  spectate at the moment
+THIS_PLAYER_IS_TESTER_REPORT: §6Anticheat §8| §fThis player is not cheater
+TOP_MONEY_HOLO:
+- §6§lCoins top
+- §fPlayers top that
+- §fearned more coins
+TOP_PLACE: th place
+TOP_POSITION: §e%s place
+TP_FORMAT: /tp <nickname>
+UNKNOWN_SUBCOMMAND: §cThis command was not found О_о
+WAIT_PLS: §cWait a little please...
+YOU_CANT_CHECK_NON_STAFF: §cError, this player is not staff project
+YOU_CANT_CONTACT_HIM: §cThat player added you to his ignore list
+YOU_CANT_CONTACT_HIM_SETTING: §cError, this player takse message only from his friends
+YOU_CANT_IGNORE_YOURSELF: §cYou cannot ignore yourself
+YOU_CANT_SEE_ANOTHER_PLAYERS_STATS: §cError, view statistic other players can only
+  §c§lMAGMA §cor higher
+YOU_CANT_WRITE_BY_SETTINGS: §cAccording with your private settings You can communicate
+  only with friends
+YOU_DISABLED_DONATECHAT: §cYou turned off donate chat. To write a message, to enable
+  it in private settings
+YOU_HAVE_BEEN_SENT: §6Server §8| %s §fhas teleported you to the server §c%s
+YOU_HAVE_DONATECHAT_COOLDOWN: §cYou can write in the donate chat once in 30 seconds
+YOU_REWARD_MSG: Your reward
+DAMAGE_CAUSE_BOW: '%s§f was shot'
+DAMAGE_CAUSE_BOW_TO: '%s§f was shot by %s'
+DAMAGE_CAUSE_BURN: '%s§f burnt alive'
+DAMAGE_CAUSE_BURN_TO: '%s§f was burnt to the ground while fighting with %s'
+DAMAGE_CAUSE_CACTUS: '%s§f was punctured to death'
+DAMAGE_CAUSE_CACTUS_TO: '%s§f came across a cactus while fleeing from %s'
+DAMAGE_CAUSE_CONTACT: '%s§f stabbed to death'
+DAMAGE_CAUSE_CONTACT_TO: '%s§f stumbled upon a cactus, escaping from %s'
+DAMAGE_CAUSE_DROP: '%s§f crashed to death'
+DAMAGE_CAUSE_DROP_TO: '%s§f was thrown down by %s'
+DAMAGE_CAUSE_DROWNING: '%s§f drowned'
+DAMAGE_CAUSE_DROWNING_TO: '%s§f drowned, escaping from %s'
+DAMAGE_CAUSE_ENTITY_EXPLOSION: '%s§f exploded'
+DAMAGE_CAUSE_ENTITY_EXPLOSION_TO: '%s§f was blown up by a player %s'
+DAMAGE_CAUSE_EXPLOSION: '%s§f exploded'
+DAMAGE_CAUSE_EXPLOSION_TO: '%s§f was blown up by %s'
+DAMAGE_CAUSE_FALL: '%s§f crashed to death'
+DAMAGE_CAUSE_FALL_TO: '%s§f has been dropped by a player %s'
+DAMAGE_CAUSE_FIRE: '%s§f burnt alive'
+DAMAGE_CAUSE_FIRE_TICK: '%s§f burnt alive'
+DAMAGE_CAUSE_FIRE_TICK_TO: '%s§f was burned to the ground while fighting with %s'
+DAMAGE_CAUSE_FIRE_TO: '%s§f was burnt alive, while struggling with %s'
+DAMAGE_CAUSE_KILLED: '%s§f died'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f was killed using lingering potion'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f was killed using lingering potion
+  dropped by %s'
+DAMAGE_CAUSE_KILLED_BY_ARROW_OF: '%s§f was shot by %s'
+DAMAGE_CAUSE_KILLED_BY_BLAZE: '%s§f burned to death by blaze'
+DAMAGE_CAUSE_KILLED_BY_BLAZE_OF: '%s§f burned to death by blaze spawned by %s'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN: '%s §ftried a Guardians lazer itself'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN_OF: '%s §ftried a Guardians lazer itself spawned by
+  %s'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f tried Illusioner illusions yourself'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f tried %s Illusioner illusions yourself'
+DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM: '%s§f hugged to death by Iron Golem'
+DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM_OF: '%s§f hugged to death by Iron Golem spawned
+  by %s'
+DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f was killed by Zeus Furious'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f was killed using lingering potion'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f was killed using lingering potion
+  dropped by %s'
+DAMAGE_CAUSE_KILLED_BY_SKELETON: '%s§f was killed while trying to dodge from skeleton
+  arrows'
+DAMAGE_CAUSE_KILLED_BY_SKELETON_OF: '%s§f was killed while trying to dodge from skeleton
+  arrows summoned by %s'
+DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW_OF: '%s§f was shot by %s'
+DAMAGE_CAUSE_KILLED_BY_SPIDER: '%s§f died from a spider bite'
+DAMAGE_CAUSE_KILLED_BY_SPIDER_OF: '%s§f died from a spider bite spawned by %s'
+DAMAGE_CAUSE_KILLED_BY_TIPPED_ARROW_OF: '%s§f was shot by %s'
+DAMAGE_CAUSE_KILLED_BY_VEX: '%s§f was torn to pieces by vexes'
+DAMAGE_CAUSE_KILLED_BY_VEX_OF: '%s§f was torn to pieces by vexes spawned by %s'
+DAMAGE_CAUSE_KILLED_BY_WOLF: '%s§f was torn to pieces by wolves'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE: '%s§f was killed while trying to escape from zombie'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF: '%s§f was killed while trying to escape from zombie
+  spawned by %s'
+DAMAGE_CAUSE_KILLED_OF: '%s§f was killed by %s'
+DAMAGE_CAUSE_KILLED_OF_PLAYER: '%s§f was killed by %s'
+DAMAGE_CAUSE_KILLED_OF_PLAYERS: '%s§f was murdered by a group of people contains of
+  %s'
+DAMAGE_CAUSE_KILLED_TO: '%s§f was killed by %s'
+DAMAGE_CAUSE_LAVA: '%s§f decided to swim in lava'
+DAMAGE_CAUSE_LAVA_TO: '%s§f fell in the lava, escaping from %s'
+DAMAGE_CAUSE_MAGIC: '%s§f was killed by magic'
+DAMAGE_CAUSE_MAGIC_TO: '%s§f was killed by magic player %s'
+DAMAGE_CAUSE_OUT: '%s§f fell out of the world'
+DAMAGE_CAUSE_OUT_TO: '%s§f fell out of the world while fighting with %s'
+DAMAGE_CAUSE_PROJECTILE: '%s§f shot'
+DAMAGE_CAUSE_PROJECTILE_TO: '%s§f was shooted by %s'
+DAMAGE_CAUSE_SUCIDE: '%s§f decided to commit suicide'
+DAMAGE_CAUSE_SUICIDE: '%s§f Decides to commit suicide'
+DAMAGE_CAUSE_SWIM: '%s§f drowned'
+DAMAGE_CAUSE_SWIM2: '%s§f decided to swim in the lava'
+DAMAGE_CAUSE_SWIM2_TO: '%s§f fell into the lava while running away from %s'
+DAMAGE_CAUSE_SWIM_TO: '%s§f drowned while fleeing from %s'
+DAMAGE_CAUSE_VOID: '%s§f fell out of the world'
+DAMAGE_CAUSE_VOID_TO: '%s§f fell out of the world, while struggling with %s'

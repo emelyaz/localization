@@ -1,0 +1,26 @@
+ALL_TIME_STATS_NAME: Статистика за весь час
+BEST_TIME_STAT: Кращий час
+CHESTS_LOOTED_STAT: Облутано скринь
+COINS_EARNED_PER_GAME_STAT: Монет зароблено
+GAMES_STAT: Ігор зіграно
+INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
+INGAME_STATS_MESSAGES:
+- ' '
+- ' §cУВАГА! §fБуде відображена статистика тільки'
+- ' §fз даного режима. щоб переглядати статистику'
+- ' §fз всіх режимів, перейдіть в лоббі'
+- ' '
+- §6Статистика §8| §fСтатистика %s §fна §e%s %s
+INGAME_STATS_MESSAGES_TITLE:
+- ' '
+- ' §cУВАГА! §fБуде відображена статистика тільки'
+- ' §fз поточного режиму. Щоб переглядати статистику'
+- ' §fзі всіх режимів, перейдіть в лоббі'
+MONTHLY_STATS_NAME: Статистика за місяць
+RATING_STAT: Рейтинг
+STATS_ENTRY: ' §8▪ §7%s: §a%s'
+STATS_FORMAT: /stats <нік гравця>
+STATS_GUI_TITLE: Профіль ▸ Статистика
+STATS_GUI_TITLE_TARGET: Статистика гравця %s
+STATS_IS_NOT_LOADED: §cПомилка, статистика не завантажена
+WINS_STAT: Перемог

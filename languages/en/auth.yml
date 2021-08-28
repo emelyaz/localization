@@ -1,0 +1,90 @@
+ADMIN_LICENSE_OFF: §6Auth §8| §fLicense login was turn off the player §e%s
+ALREADY_AUTHORIZED: §cYou already authorized!
+AUTH_HELP:
+- §7/auth info <player name> §f- see info about player
+- §7/auth reset <player name> §f- clear player registration
+- §7/auth resetlicense <player name> §f - disable license join
+- §7/auth register <player name> <password> §f- Registed player(player must be offline)
+AUTH_NOTIFICATION_TITLE_LOGIN: §7For continuation log in
+AUTH_NOTIFICATION_TITLE_REGISTER: §7For continuation register
+AUTH_PLEASE: §7Log in - §e/login §f[§epassword§f]
+AUTH_REGISTER_ADMIN_FORMAT: /auth register <player name> <password>
+AUTH_REGISTER_DONE: §6Auth §8| §fPlayer - §e%s §fregisted
+AUTH_REMOVED_REG: §6Auth §8| §fPlayer register §e%s §fdeleted
+AUTH_TIME_EXPIRED: §cAuthorization timeout
+CHANGEPASS_FORMAT: /changepass <old password> <new password>
+EMAIL_ADDED: §6Auth §8| §fYou snap new email to your account!
+EMAIL_ADDED2: §6Auth §8| §fWe send on her confirm code.Write code through command
+  §7/email verify <code> §ffor confirm email adress
+EMAIL_ADD_FORMAT: /email add <your email> <again>
+EMAIL_ALREADY_ADDED: §cError, you already have snap email. For change email use command
+  /email change <old email> <new email>
+EMAIL_CHANGE: §6Auth §8| §fYou successfully unsnap old email and initiated the procedure
+  snap new email
+EMAIL_CHANGE_CODE_HAS_BEEN_SENT: §6Auth §8| §fWe sent message with code on your old
+  email
+EMAIL_CHANGE_FORMAT: /email change <old email> <new email>
+EMAIL_HAS_BEEN_SENT: §6Auth §8| §fLetter with password has been sent to §c%s
+EMAIL_HAS_BEEN_VERIFIED: §6Auth §8| §fEmail ownership is confirm!
+EMAIL_HAS_USED: §cError, you cannot snap this email because it is already use
+EMAIL_HELP_FORMAT:
+- §7/email add <your email> <again> §f- snap email to the your account
+- §7/email change <old email> <new email> §f- Change email on your account
+- §7/email verify <verify key> §f- Verify snap or change email
+- §7/recovery <email> §f- Send on the email setting password
+EMAIL_IS_ERROR: §cEmail, the one you specified as a previously linked account, not
+  correct
+EMAIL_IS_INVALID: §cSpecified email not valid
+EMAIL_MISMATCH: §cError, this email is not match!
+EMAIL_NOT_FOUND: §cError, you have not snap email
+EMAIL_VERIFICATION_CODE_EXPIRED: §cTime of action confirm code has expired, this code
+  not valid
+EMAIL_VERIFICATION_CODE_NOTHING: §cAt the moment none confirm not need
+EMAIL_VERIFY_FORMAT: /email verify <verify code>
+FAIL_AUTH: §cError, incorrect password!
+FORUM_ACCOUNT_ALREADY_LINKED:
+- §cError, forum account already snap
+FORUM_ACCOUNT_LINKED:
+- §6Forum §8| §fYou account was registered on forum!
+- ' §f- Login: §a%s'
+- ' §f- Email: §a%s'
+- ' §f- Password: §a%s'
+FORUM_ACCOUNT_NOT_LINKED: §c⚠ Warning! §fYou already register §cin forum§f, do this
+  right now - §e/forum
+FORUM_LINK_ERROR: §cOps... Happpened error at join with site :(
+FORUM_NO_EMAIL: §cError, to your accoint not snap email. To snap mail to your account,
+  Write /email add <email> <repeat email>
+KICK_AUTH:
+- §cA lot of a attempts incorrect
+- §cinput a password. Your account
+- §cis blocked for a few minutes
+LICENSE_NOT_USED: §cError, player %s not used license login
+LOGIN_USAGE: /login <password>
+NAME_IS_INVALID: §cthere are illegal characters in nickname. Allowed use only numbers
+  and english characters!
+NOT_PREMIUM_ANYMORE: §6License §8| §fLogin through the license is disabled, hope you
+  remember your password for it to come in handy to you
+PASSWORDS_MISMATCH: §cError, these passwords do not match!
+PASSWORD_HAS_BEEN_CHANGED: §eYour password has been successfully changed
+PLEASE_SETUP_EMAIL: §c⚠ Warning! §fIf you did not bind §cemail §fto your account yet,
+  do this right now - §e/email
+PLEASE_SETUP_EMAIL_HOVER:
+- §fClick here ,
+- §fto add a mail
+REGISTERED_PASS_HOVER:
+- §fPassword - §a%s
+- ''
+- §fRemember it or made
+- §fscreenshot, to not forget - §ckey F2§7
+REGISTER_PLEASE: §7Register - §e/reg §f[§epassword§f] §f[§erepeat password §f]
+REGISTER_USAGE: /reg <pasword> <repeat password>
+REJOIN_TO_BE_PREMIUM:
+- §6License §8| §f To activate this option reconnect to the server from a licensed
+  account
+- §6License §8| §fIf you will not reconnect from §alic. account §fafter §c2 §fminutes,
+  then the login will be available again from the pirate account
+SUCCESSFUL_REGISTRATION: §6You successfully registered! §fYour current password
+SUCCESS_AUTH: §fAuthorization is successful! Have a good game :)
+YOU_ARE_NOW_PREMIUM: §6License §8| §fCongratulations, now log in possible only with
+  §alicensed account!
+YOU_HAVE_JUST_LOGGED_OUT: §cYou signed out of your account

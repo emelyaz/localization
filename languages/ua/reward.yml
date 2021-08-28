@@ -1,0 +1,25 @@
+EXP_REWARD_LOCALE: ' §7+ §a%s §fдосвіда'
+GET_REWARD: §7Зайдіть в профіль, щоб забрати свою нагороду
+KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
+MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
+REWARD_CLICK_TO_CLAIM:
+- ' '
+- ' §e▸ Натисніть, щоб отримати нагороду'
+REWARD_DONATE_ITEM: §eОнлайн-покупка
+REWARD_DONATE_ITEM_LORE:
+- ' '
+- §7Якщо доступних нагород немає,
+- §7а монетки або ключі дуже
+- §7потрібні, Ви можете відвідати наш
+- §7онлайн-магазин та придбати їх там
+- §dlast-craft.net
+REWARD_GUI_NAME: Нагороди
+REWARD_HOLOGRAM:
+- §bНагороди
+- §7Натисніть, щоб відкрити
+REWARD_YOU_CAN_CLAIM_IN:
+- ' '
+- '§7Можна буде отримати через:'
+- §e%s
+- ' '
+- ' §c▸ Нагорода вже отримана'

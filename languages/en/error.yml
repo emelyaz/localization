@@ -1,0 +1,18 @@
+DO_NOT_SEND_SIMILAR_MESSAGES: ' §cℹ Do not send similar messages'
+DO_NOT_SPAM: ' §cℹ Do not flood!'
+ERROR_CONNECT: §cError, you have failed connect to the server %s. You have been redirected
+  to %s
+ERROR_START_GAMER_ARENA: §cError, not enough players to start
+ERROR_TELEPORT: §cTeleportation error has occured in the lobby
+ERROR_TO_LOBBY: §cError ocured while you were being teleportated to the lobby
+ERROR_WITH_YOUR_BUKKIT: §cWith your account happened error. Reconnect to server and
+  try enter command again
+NOT_BEST_SERVER: §cNot the best server
+NOT_DOMAIN_PIAR: '; §cℹ We are forbidden adversite sites and third-party resources; '
+NOT_PIAR: '; §cℹ Adversite channels can only players with privilege §f[§6YouTube§f]; '
+NO_FOUND_PLAYER: §cPlayer %s§c was not found or they are offline
+NO_LOBBY_FOUND: §cLobby not found
+NO_PERMS: §cYou do not have permission
+NO_PERMS_GROUP: §cYou do not have permission, buy %s§c or higher
+NO_PERMS_SHULKER_ONLY: §cYou do not have permission, this function is only for §7§lSHULKER
+SERVER_ERROR: §cInternal server error was detected

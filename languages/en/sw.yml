@@ -1,0 +1,150 @@
+CAGE_PURCHASE_MESSAGE: Kit §a%s §fpurchased for §a%s §f%s
+CAGE_SELECTION_MESSAGE: Kit §a%s §fchosen
+CAGE_SW_ACACIA: Acacia
+CAGE_SW_ACACIA_LORE: [
+  ]
+CAGE_SW_BIRCH: Birch
+CAGE_SW_BIRCH_LORE: [
+  ]
+CAGE_SW_DARK_OAK: Dark oak
+CAGE_SW_DARK_OAK_LORE: [
+  ]
+CAGE_SW_GLASS: Glass
+CAGE_SW_GLASS_LORE: [
+  ]
+CAGE_SW_ICE: Ice
+CAGE_SW_ICE_LORE: [
+  ]
+CAGE_SW_IRON_BARDING: Iron
+CAGE_SW_IRON_BARDING_LORE: [
+  ]
+CAGE_SW_JUNGLE: Jungle
+CAGE_SW_JUNGLE_LORE: [
+  ]
+CAGE_SW_LEAVES: Leaves
+CAGE_SW_LEAVES_LORE: [
+  ]
+CAGE_SW_NETHER: Nether
+CAGE_SW_NETHER_LORE: [
+  ]
+CAGE_SW_SLIME: Slime
+CAGE_SW_SLIME_LORE: [
+  ]
+CAGE_SW_SPRUCE: Spruce
+CAGE_SW_SPRUCE_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_1: Stained Glass
+CAGE_SW_STAINED_GLASS_10: Turquoise
+CAGE_SW_STAINED_GLASS_10_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_11: Mystic
+CAGE_SW_STAINED_GLASS_11_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_12: Sky
+CAGE_SW_STAINED_GLASS_12_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_13: Coffee
+CAGE_SW_STAINED_GLASS_13_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_14: Green
+CAGE_SW_STAINED_GLASS_14_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_15: Rage
+CAGE_SW_STAINED_GLASS_15_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_16: Dark
+CAGE_SW_STAINED_GLASS_16_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_1_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_2: Angel
+CAGE_SW_STAINED_GLASS_2_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_3: Toffee
+CAGE_SW_STAINED_GLASS_3_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_4: Lilac
+CAGE_SW_STAINED_GLASS_4_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_5: Banana
+CAGE_SW_STAINED_GLASS_5_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_6: Lime
+CAGE_SW_STAINED_GLASS_6_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_7: Chewing gum
+CAGE_SW_STAINED_GLASS_7_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_8: Void
+CAGE_SW_STAINED_GLASS_8_LORE: [
+  ]
+CAGE_SW_STAINED_GLASS_9: Cloud
+CAGE_SW_STAINED_GLASS_9_LORE: [
+  ]
+CAGE_SW_WOOD: Wood
+CAGE_SW_WOOD_LORE: [
+  ]
+INSANE_EVENT_DISARMAMENT: Disarmament
+INSANE_EVENT_DISARMAMENT_DESCRIPTION: After death all players was near at 5 blocks,
+  recieves Weakness III for 6 seconds
+INSANE_EVENT_EXPLOSIVE_GIFT: Explosive gift
+INSANE_EVENT_EXPLOSIVE_GIFT_DESCRIPTION: Summons 2 creepers and ocelots at a place
+  of death
+INSANE_EVENT_FIRE_PARTY: Fire party
+INSANE_EVENT_FIRE_PARTY_DESCRIPTION: If player burns down, all players set on fire
+  for 12 seconds
+INSANE_EVENT_GODS_CREATURES: Creatures of God
+INSANE_EVENT_GODS_CREATURES_DESCRIPTION: If you hit mob, you recieve Blindless and
+  Weakness for 3 seconds
+INSANE_EVENT_HUNTER_MARK: Blood Hunter Mark
+INSANE_EVENT_HUNTER_MARK_DESCRIPTION: If players hit someone by arrow, it recieve
+  Regeneration II and Speed for 7 seconds
+INSANE_EVENT_LIGHTNING: Zeus fury
+INSANE_EVENT_LIGHTNING_DESCRIPTION: If someone dies, random player will be struck
+  by lightning
+INSANE_EVENT_LUCK: Son of Luck
+INSANE_EVENT_LUCK_DESCRIPTION: Every 45 seconds players recieve random effect at 10
+  secodns
+INSANE_EVENT_NURSERY: Nursery
+INSANE_EVENT_NURSERY_DESCRIPTION: For every kill you recieve Spawn Egg of random creature
+INSANE_EVENT_RISE_OF_THE_DEAD: Rise of Dead
+INSANE_EVENT_RISE_OF_THE_DEAD_DESCRIPTION: After someone dies, at the place of death
+  will summon full-diamond Skeleton
+INSANE_EVENT_SIGNS_ABOVE: Signs above
+INSANE_EVENT_SIGNS_ABOVE_DESCRIPTION: If player holds a sword in arm, it recieves
+  Glowing
+INSANE_EVENT_VEX: Sky fury
+INSANE_EVENT_VEX_DESCRIPTION: Every 90 seconds near the players summons 2 Vexes
+INSANE_EVENT_WINGS: Gift of Wings
+INSANE_EVENT_WINGS_DESCRIPTION: For every kill player recieve Levitation and Resistance
+  II for 7 seconds
+SKYWARS_DUO_TYPE: §eDuo mode
+SKYWARS_END_EFFECTS_EVENT: '§cFinal game (III) '
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: §7The game will be over in 1 minute
+SKYWARS_END_EFFECTS_EVENT_TITLE: §cFinal game
+SKYWARS_GAME_END_EVENT: '§cEnd '
+SKYWARS_GLOWING_EVENT: '§aGlowing of all players '
+SKYWARS_GLOWING_EVENT_STARTED: §eAll players recieved Glowing
+SKYWARS_INSANE_CHOSEN_EVENTS: §6§lRandom Game Events was selected
+SKYWARS_LIGHTNING_EVENT: '§cFinal game (II) '
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: §73 minutes remaining until the end of the game,
+  avoid lighting...
+SKYWARS_LIGHTNING_EVENT_TITLE: §cZeus fury
+SKYWARS_LOOT_EVENT: '§aChests Refill '
+SKYWARS_LOOT_EVENT_STARTED: §aAll chests in the middle was refilled
+SKYWARS_SOLO_TYPE: §eSolo mode
+SKYWARS_SPEED_EVENT: '§aSpeed Up '
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: §6SkyWars §8| §fYou recieved Speed §a%s§f because
+  your current perk is §aSonic
+SKYWARS_SPEED_EVENT_STARTED: §aAll players recieved Speed %s
+SKYWARS_TNTRAIN_EVENT: '§cFinal game '
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: §7Dynamite appears over the heads of players, beware!
+SKYWARS_TNTRAIN_EVENT_TITLE: §cRain of TNT
+SW_BOARD_KILLS: 'Kills: §a'
+SW_BOARD_NEXT_EVENT: 'Next event:'
+SW_CHEST_EMPTY: §4Chest is empty
+SW_GAME_ENDED: Game will be over. Winner is random team...
+SW_PLAYERS_ALIVE: 'Players left: §a'
+SW_TEAMS_ALIVE: 'Teams left: §a'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cYour teammate %s has a §cvery little health!
+SW_YOUR_TEAMMATE_IS_DEAD: §cYour teammate (%s§c) has died
