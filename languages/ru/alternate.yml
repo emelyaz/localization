@@ -192,6 +192,9 @@ BETTER_SURVIVAL_PVP_END: $@MODE_PREFIX$Вы вышли из боя! Теперь
 BETTER_SURVIVAL_PVP_START: $@MODE_PREFIX$Вы вступили в бой! Не покидайте игру в течении §c%s §fсекунд
 BETTER_SURVIVAL_PVP_TELEPORT: $@MODE_PREFIX$Телепортации во время PVP запрещены!
 BETTER_SURVIVAL_SLEEP: '§fСпят: §a%s§f/§a%s §f- §a%s'
+CLEARLAG_PREFIX: '§6Очистка §8| §f'
+CLEARLAG_TIMER: '$CLEARLAG_PREFIX$Весь мусор будет удалён через §c%s§f!'
+CLEARLAG: '$CLEARLAG_PREFIX$Удалено §c%s §fпредметов'
 CALL_ERROR: §cОшибка, вы уже отправили заявку этому игроку
 CALL_FORMAT: /call <ник игрока>
 CALL_GUI_LORE:
