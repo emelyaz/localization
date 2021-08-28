@@ -98,14 +98,10 @@ BOOSTER_MULTI:
 BOOSTER_NO_ACTIVE: §cОшибка, Вы не можете активировать сразу 2 бустера!
 BOOSTER_SELECT_PURCHASE_GUI: Выберите тип оплаты бустера
 BOSS_BAR_LOBBY:
-- §fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lLASTCRAFT.NET
-- §fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §d§lDISCORD.LASTCRAFT.NET
-- §fСОКРУШИТЕЛЬНЫЙ §cОБВАЛ §fЦЕН! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §610%
-- '§fНОВЫЕ §cПОХОТЛИВЫЕ§f ТИТУЛЫ! СПЕШИ §aКУПИТЬ§f! '
-- §fХОЧЕШЬ БЫСТРЕЕ ПОЛУЧИТЬ §aМОНЕТЫ §fИ §6ОПЫТ§f? ПОКУПАЙ §aБУСТЕРЫ§f!
-- §fУДИВИ СВОИХ §eДРУЗЕЙ §fНЕОБЫЧНЫМ §6ПРЕФИКСОМ §7► §c§l/RGB
-- §fКРУПНОЕ ИЗМЕНЕНИЕ §eКАРТ §fДЛЯ РЕЖИМОВ §aSkyWars §fИ §6LuckyWars
-- §bКРУПНЫЕ §fИЗМЕНЕНИЯ §dEggWars §fУЖЕ §aНА СЕРВЕРЕ§f!
+- '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lLASTCRAFT.NET'
+- '§fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §d§lDISCORD.LASTCRAFT.NET'
+- '§fСОКРУШИТЕЛЬНЫЙ §cОБВАЛ §fЦЕН! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §610%'
+- '§fХОЧЕШЬ БЫСТРЕЕ ПОЛУЧИТЬ §aМОНЕТЫ §fИ §6ОПЫТ§f? ПОКУПАЙ §aБУСТЕРЫ§f!'
 BOX_BUY_LORE:
 - §7Купить %s %s за %s %s
 - ''
@@ -1145,7 +1141,8 @@ TITLE_ACTIVE_LORE: §e▸ Нажмите, чтобы показать титул
 TITLE_ALREADY_HAVE: §fУ вас уже есть данный титул, вы получили §e+%s %s
 TITLE_BUY_CONFIRM_GUI: Купить титул ?
 TITLE_DEACTIVE_LORE: §e▸ Нажмите, чтобы скрыть титул
-TITLE_JOIN_LOBBY: §6Глобальное §fобновление
+TITLE_JOIN_LOBBY: §fВайп §6Anarchy §fи §aSkyBlock
+SUBTITLE_JOIN_LOBBY: §dWIPE §f- промокод на скидку 20%
 TITLE_NOT_ACCESS: §cДоступен по особым праздникам или дням
 TITLE_NOT_YOU: §cДанный титул вам не доступен
 TITLE_TYPE_LORE:

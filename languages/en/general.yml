@@ -399,7 +399,6 @@ STREAMS_NO_STREAM_LORE:
 STREAMS_NO_STREAM_NAME: §cNo streams active
 STREAMS_STOP: §6YouTube §8| §fYour stream was stopped...
 STREAMS_YOUTUBE_ONLY: §6YouTube §8| §fOnly %s §frank has access to streams control!
-SUBTITLE_JOIN_LOBBY: §ddiscord.lastcraft.net
 SURVIVALGAMES_DUO_TYPE: §eDouble mode
 SURVIVALGAMES_SOLO_TYPE: §eSolo mode
 SURVIVAL_MODE: Survival
