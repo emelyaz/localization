@@ -843,6 +843,7 @@ DAMAGE_CAUSE_SWIM2_TO: '%s§f упал в лаву, убегая от %s'
 DAMAGE_CAUSE_SWIM_TO: '%s§f утонул, спасаясь от %s'
 DAMAGE_CAUSE_VOID: '%s§f выпал из мира'
 DAMAGE_CAUSE_VOID_TO: '%s§f выпал из мира, пока боролся с %s'
+DENCHANTMENT: '§7%s %s'
 DENCHANTMENT_AUTO_MELTING: Переплавка
 DENCHANTMENT_BLACK_ARROW: Чумная стрела
 DENCHANTMENT_BREATH: Дыхание
@@ -857,3 +858,4 @@ DENCHANTMENT_POISON_BLADE: Ядовитый клинок
 DENCHANTMENT_SPRING: Пружина
 DENCHANTMENT_STEEL: Сталь
 DENCHANTMENT_TELEPATHY: Телепатия
+DENCHANTMENT_LAVA_WALKER: Lava Walker
