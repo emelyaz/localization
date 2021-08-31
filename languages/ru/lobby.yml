@@ -76,7 +76,7 @@ BOOSTER_BUY_LORE:
 BOOSTER_DUST_NAME: Бустер пыли %s
 BOOSTER_EXPIRE:
 - '§7После активации работает:'
-BOOSTER_EXP_NAME: 'Бустер оп %s'
+BOOSTER_EXP_NAME: 'Бустер %s'
 BOOSTER_HELP_ITEM_LORE:
 - ' '
 - §7Используйте бустеры, чтобы
