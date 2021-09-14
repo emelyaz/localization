@@ -287,6 +287,9 @@ COMMAND_ARGUMENT_SERVER: сервер
 COMMAND_ARGUMENT_SETTING: настройка
 COMMAND_ARGUMENT_TAG: тэг
 COMMAND_ARGUMENT_VALUE: значение
+COMMAND_ARGUMENT_DOMAIN: домен
+COMMAND_ARGUMENT_START_DATE: стартовая дата
+COMMAND_ARGUMENT_END_DATE: конечная дата
 COMMAND_CONSOLE_ONLY: §cДанную команду можно использовать только от имени консоли!
 COMMAND_DISABLE_ON_SPAWN: §cДанная команда не доступна в мире спавна
 COMMAND_ENUM_PARSE_ERROR: '§cОшибка, значение %s недоступно, список доступных значений:
@@ -730,6 +733,10 @@ TOP_TIME_HOLO:
 - §fсыгранному времени на сервере
 - §fза §7%s
 TP_FORMAT: /tp <ник>
+CORE_DOMAIN_STATS: |-
+  §6Stats §8| §fСтатистика §6%s §fза §e%s §f-> §e%s§f:
+  §8 | §fВсего входов за это время: §a%s
+  §8 | §fУникальных входов за это время: §a%s
 UNKNOWN_SUBCOMMAND: §cЭтой команды не существует О_о
 WAIT_PLS: §cПодождите немножко...
 WRITE_AGAIN_COMMAND: $@MODE_PREFIX$Чтобы подвердить выполнение команды, напишите §7/%s §fповторно
