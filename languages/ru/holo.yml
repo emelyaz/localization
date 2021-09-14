@@ -13,6 +13,8 @@ HOLO_ANARCHY_START:
 HOLO_BOOSTER_NPC:
 - §a§lБустеры
 - §fАктивация доступных бустеров
+HOLO_BOOSTER_TITLE: '§a§lБустеры'
+HOLO_BOOSTER_SUBTITLE: '§fАктивация доступных бустеров'
 HOLO_CHEST_EMPTY: Пустой
 HOLO_CREATIVE_WORLD200:
 - §fМир с участками §a200x200
