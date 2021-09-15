@@ -47,7 +47,7 @@ BOARD_NA: N/A
 BOARD_NO_BUSTER: §c▻ §7No active boosters
 BOARD_NO_ISLAND1: Island not found!
 BOARD_NO_ISLAND2: write - §7/island create
-BOARD_ONLINE: Online
+BOARD_ONLINE: §fOnline
 BOARD_ON_ISLAND: You on the island
 BOARD_OUR_TEAM: Your team
 BOARD_OWNER: Owner
