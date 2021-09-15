@@ -203,3 +203,17 @@ PR_CHEAT_NO_SHIFT: 'Без шифта'
 PR_CHEAT_NO_SHIFT_DESCRIPTION: |-
   §7При нажатии на Shift прохождение
   §7текущего модуля будет начато заново
+
+PR_SELECTOR_STATS: '§bСтатистика'
+PR_SELECTOR_STATS_LORE_PERSONAL: |-
+  §7
+  §fПройдено модулей:
+  §8 ▪ §7Сложных: §a%s
+  §8 ▪ §7Средних: §a%s
+  §8 ▪ §7Простых: §a%s
+  §8 ▪ §7Всего: §a%s
+  §7
+  §fЛучшее время за месяц:
+  §8 ▪ §7Личный рекорд: §a%s
+PR_SELECTOR_STATS_LORE_GLOBAL: |-
+  §8 ▪ §7Серверный рекорд: §a%s
