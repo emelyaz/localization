@@ -51,6 +51,9 @@ HOLO_SHOP_NPC:
 - §a§lМагазин
 - §fПозволяет купить или улучшить
 - §fнаборы на данном режиме
+HOLO_SHOP_NPC_TITLE: '§a§lМагазин'
+HOLO_SHOP_NPC_TEXT_1: '§fПозволяет купить или улучшить'
+HOLO_SHOP_NPC_TEXT_2: '§fнаборы на данном режиме'
 HOLO_SITESHOP:
 - §eПредметы из онлайн магазина
 - §7Нажмите, чтобы открыть
@@ -129,6 +132,10 @@ HOLO_SPECTATOR_NPC:
 - §fПозволяет посмотреть
 - §fигру на уже начатых аренах
 - §fДоступ от §a§lEMERALD §fи выше
+HOLO_SPECTATOR_NPC_TITLE: 'Наблюдатель'
+HOLO_SPECTATOR_NPC_TEXT_1: '§fПозволяет посмотреть'
+HOLO_SPECTATOR_NPC_TEXT_2: '§fигру на уже начатых аренах'
+HOLO_SPECTATOR_NPC_TEXT_3: '§fДоступ от §a§lEMERALD §fи выше'
 HOLO_STATS_TITLE: §eСтатистика за игру
 HOLO_TOP_ALL:
 - §6§l%s
