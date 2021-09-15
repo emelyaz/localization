@@ -59,6 +59,10 @@ PR_BOARD_MODULES_PASSED_HARD: '§fСложных: §a%s'
 PR_BOARD_MODULES_PASSED_NORMAL: '§fСредних: §a%s'
 PR_BOARD_MODULES_PASSED_EASY: '§fПростых: §a%s'
 
+PR_START_GAME_HOLO_1: '§e§lParkourRacers'
+PR_START_GAME_HOLO_2: '§7Нажмите, чтобы начать паркур'
+PR_START_GAME_HOLO_3: '§7Уже паркурят: §f%s'
+
 PR_SELECTOR_GUI_TITLE: 'ParkourRacers'
 PR_SELECTOR_INFO: '§bИнформация'
 PR_SELECTOR_INFO_LORE: |-
