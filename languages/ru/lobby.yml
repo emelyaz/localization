@@ -856,10 +856,6 @@ HUB_ITEM_NAME: §eВыход
 HUB_VK_HOLO:
 - §fЗаходите в нашу группу §7§lVK
 - §d§lvk.com/lastcraft
-ITEMS_LOBBY_DISABLE_LORE:
-- §7Нажмите, чтобы включить
-ITEMS_LOBBY_ENABLE_LORE:
-- §7Нажмите, чтобы отключить
 ITEMS_LOBBY_FAST_LORE:
 - §7Удобная навигация по
 - §7картам и аренам данного режима
