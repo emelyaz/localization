@@ -39,6 +39,8 @@ REWARD_DONATE_ITEM_LORE:
 - §7онлайн-магазин и приобрести их
 - §7по адресу §dlast-craft.net
 REWARD_GUI_NAME: Награды
+REWARD_HOLOGRAM_TITLE: '§bЕжедневные награды'
+REWARD_HOLOGRAM_SUBTITLE: '§7Нажмите, чтобы открыть'
 REWARD_HOLOGRAM:
 - §bЕжедневные награды
 - §7Нажмите, чтобы открыть
