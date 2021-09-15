@@ -99,3 +99,5 @@ PR_SELECTOR_DAILY_TRACK_LORE_2: |-
 PR_SELECTOR_DAILY_TRACK_LORE_3: |-
   §7
   §e▸ Нажмите для телепортации
+
+PR_MODULE_TITLE: '§6Модуль #%s'
