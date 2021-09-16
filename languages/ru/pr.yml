@@ -226,3 +226,8 @@ PR_SELECTOR_STATS_LORE_GLOBAL: |-
 
 PR_PARKOUR_LEAVE_TIMER: '$PR_PREFIX$Вы будете телепортированы в лобби паркура через §c3 §fсекунды. Нажмите на этот предмет ещё раз, чтобы отменить телепортацию'
 PR_PARKOUR_LEAVE_CANCELLED: '$PR_PREFIX$§cТелепортация отменена'
+
+PR_REWARD_LINE: '§7+ %s'
+PR_REWARD_COINS: '§6%s §f%s'
+PR_REWARD_EXPERIENCE: '§a%s §fопыта'
+PR_REWARD_GOLD: '§e%s §f%s'
