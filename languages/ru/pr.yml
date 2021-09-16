@@ -143,6 +143,10 @@ PR_SETTING_HIDE_TIMER: 'Видимость таймера'
 PR_SETTING_HIDE_TIMER_DESCRIPTION: |-
   §7Скрывать/показывать на экране
   §7текущее время прохождения
+PR_SETTING_NIGHT: 'Ночь'
+PR_SETTING_NIGHT_DESCRIPTION: |-
+  §7Изменяет время суток в мире
+  §7паркура на ночное
 
 PR_CHEAT_GUI_TITLE: 'Чит-функции'
 
