@@ -40,7 +40,7 @@ PR_GAME_CARROT_ITEM_LORE: |-
 PR_PREFIX: '§6ParkourRacers §8| §f'
 
 PR_BOARD_MODULE: '§fНомер модуля: §b%s'
-PR_BOARD_CURRENT_TRACK: '§fТекущая трасса:'
+PR_BOARD_CURRENT_TRACK: '§fТекущая трасса: §a%s'
 PR_BOARD_RECORD: '§fЛичный рекорд: §a%s'
 PR_BOARD_TIME: '§fТекущее время: §a%s'
 
