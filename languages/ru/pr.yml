@@ -1,9 +1,9 @@
 PR_MODULE_TITLE: '§6Модуль #%s'
-PR_MODULE_MESSAGE: '$PR_PREFIX$Вы начали прохождение модуля §a%s #%s'
+PR_MODULE_MESSAGE: '$PR_PREFIX$Вы начали прохождение модуля на сложности §a%s #%s'
 
 PR_FINISH_TITLE: §aВы прошли все модули!
 PR_FINISH_SUBTITLE: '§7Ваше время: §e%s'
-PR_MODULE_PASS_TIME_SUMMARY: $PR_PREFIX$Вы прошли модуль на сложности §a#%s §fза §a%s
+PR_MODULE_PASS_TIME_SUMMARY: $PR_PREFIX$Вы прошли модуль §a#%s §fза §a%s
 PR_ALL_MODULES_BY_DIFFICULTY_PASSED: "$PR_PREFIX$Вы завершили прохождение всех модулей из сложности '%s§f'"
 PR_CANNOT_SKIP_MODULE: $PR_PREFIX$Вы не можете пропустить этот модуль
 PR_MODULE_SKIPPED: $PR_PREFIX$Модуль был пропущен
