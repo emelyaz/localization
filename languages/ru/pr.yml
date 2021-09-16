@@ -40,8 +40,6 @@ PR_PREFIX: '§6ParkourRacers §8| §f'
 
 PR_BOARD_MODULE: '§fНомер модуля: §b%s'
 PR_BOARD_CURRENT_TRACK: '§fТекущая трасса:'
-PR_BOARD_CURRENT_TRACK_NAME: '§a%s №%s'
-PR_BOARD_CURRENT_TRACK_MONTHLY: '§6Ежемесячная'
 PR_BOARD_RECORD: '§fЛичный рекорд: §a%s'
 PR_BOARD_TIME: '§fТекущее время: §a%s'
 
@@ -63,6 +61,7 @@ PARKOUR_DIFFICULTY_EASY: '§aЛегкая'
 PARKOUR_DIFFICULTY_NORMAL: '§6Нормальная'
 PARKOUR_DIFFICULTY_HARD: '§cСложная'
 PARKOUR_DIFFICULTY_MIXED: '§eСмешанная'
+PARKOUR_DIFFICULTY_MONTHLY: '§6Ежемесячная'
 
 PR_BOARD_MODULES_PASSED: '§fМодулей пройдено:'
 PR_BOARD_MODULES_PASSED_HARD: '§fСложных: §a%s'
@@ -72,6 +71,9 @@ PR_BOARD_MODULES_PASSED_EASY: '§fПростых: §a%s'
 PR_START_GAME_HOLO_1: '§e§lParkourRacers'
 PR_START_GAME_HOLO_2: '§7Нажмите, чтобы начать паркур'
 PR_START_GAME_HOLO_3: '§7Уже паркурят: §f%s'
+
+PR_MONTHLY_PARKOUR_HOLO_1: '§e§lЕжемесячный пакур'
+PR_MONTHLY_PARKOUR_HOLO_2: '§7Нажмите, чтобы войти'
 
 PR_SELECTOR_GUI_TITLE: 'ParkourRacers'
 PR_SELECTOR_INFO: '§bИнформация'
