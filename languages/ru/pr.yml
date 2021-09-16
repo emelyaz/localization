@@ -1,6 +1,9 @@
 PR_MODULE_TITLE: '§6Модуль #%s'
 PR_MODULE_MESSAGE: '$PR_PREFIX$Вы начали прохождение модуля на сложности §a%s #%s'
 
+PR_START_TITLE: '§eСтарт паркура'
+PR_START_SUBTITLE: '§7Трасса: §f%s'
+
 PR_FINISH_TITLE: §aВы прошли все модули!
 PR_FINISH_SUBTITLE: '§7Ваше время: §e%s'
 PR_MODULE_PASS_TIME_SUMMARY: $PR_PREFIX$Вы прошли модуль §a#%s §fза §a%s
