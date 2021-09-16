@@ -1,4 +1,5 @@
 PR_MODULE_TITLE: '§6Модуль #%s'
+  PR_MODULE_MESSAGE: '$PR_PREFIX$Вы начали прохождение модуля §a%s #%s'
 
 PR_FINISH_TITLE: §aВы прошли все модули!
 PR_FINISH_SUBTITLE: '§7Ваше время: §e%s'
