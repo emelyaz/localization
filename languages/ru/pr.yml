@@ -146,8 +146,6 @@ PR_SETTING_HIDE_TIMER_DESCRIPTION: |-
 PR_SETTING_DAY_TIME: 'Время суток'
 PR_SETTING_DAY_TIME_DESCRIPTION: |-
   §7Сменить время суток
-  §7День, если включено
-  §7Ночь, если выключено
 
 PR_CHEAT_GUI_TITLE: 'Чит-функции'
 
