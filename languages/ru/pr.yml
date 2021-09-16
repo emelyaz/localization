@@ -1,6 +1,6 @@
 PR_MODULE_TITLE: '§6Модуль #%s'
 
-PR_START_MESSAGE: '$PR_PREFIX$Вы начали прохождение трассы §a%s #%s'
+PR_START_MESSAGE: '$PR_PREFIX$Вы начали прохождение трассы §a%s'
 PR_START_TITLE: '§eСтарт паркура'
 PR_START_SUBTITLE: '§7Трасса: §f%s'
 
