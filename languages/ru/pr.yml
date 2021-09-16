@@ -206,6 +206,9 @@ PR_CHEAT_NO_SHIFT: 'Без шифта'
 PR_CHEAT_NO_SHIFT_DESCRIPTION: |-
   §7При нажатии на Shift прохождение
   §7текущего модуля будет начато заново
+PR_CHEAT_BLINDNESS: 'Слепота'
+PR_CHEAT_BLINDNESS_DESCRIPTION: |-
+  §7Вы получаете эффект слепоты
 
 PR_SELECTOR_STATS: '§bСтатистика'
 PR_SELECTOR_STATS_LORE_PERSONAL: |-
