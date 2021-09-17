@@ -144,10 +144,10 @@ PR_SETTING_HIDE_PLAYERS: 'Видимость игроков'
 PR_SETTING_HIDE_PLAYERS_DESCRIPTION: |-
   §7Настройка видимости игроков
   §7на текущем паркуре (для вас)
-PR_SETTING_SHOW_CHEATING_PLAYERS: 'Видимость игроков с читами'
+PR_SETTING_SHOW_CHEATING_PLAYERS: 'Скрывать игроков с читами'
 PR_SETTING_SHOW_CHEATING_PLAYERS_DESCRIPTION: |-
-  §7Настройка видимости привилегированных
-  §7игроков, которые активировали бонусы
+  §7Скрытие привилегированных игроков,
+  §7которые активировали бонусы
 PR_SETTING_HIDE_TIMER: 'Видимость таймера'
 PR_SETTING_HIDE_TIMER_DESCRIPTION: |-
   §7Скрывать/показывать на экране
