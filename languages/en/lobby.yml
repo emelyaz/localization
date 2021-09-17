@@ -148,14 +148,6 @@ GAMEMENU_LUCKYWARS_LORE:
 - ''
 GAMEMENU_NAME_GUI: Game selection
 GAMEMENU_ONLINE_LORE: §8%s %s is playing here
-GAMEMENU_PARKOUR_LORE:
-- §8Parkour
-- ''
-- §7The quietest of all games.
-- §7Perfect to pass away
-- §7time and compete with friends
-- §7on the passing maps.
-- ''
 GAMEMENU_SB_LORE:
 - §8Survival on the sky island
 - ''

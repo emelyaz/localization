@@ -269,9 +269,6 @@ PAGE_ARROW_GUI: page
 PAGE_ARROW_LORE:
 - §7Click to go
 - §7on %s page
-PARKOURRACERS_CLASSIC_TYPE: §eClassic mode
-PARKOURRACERS_DUO_TYPE: §eDouble mode
-PARKOURRACERS_SOLO_TYPE: §eSolo mode
 PLAYER_IGNORED: §eYou added player %s §eto your ignore list. He can no longer find
   and contact you
 PLAYER_NOT_IGNORED: §cYou removed player %s §cfrom ignore list.
