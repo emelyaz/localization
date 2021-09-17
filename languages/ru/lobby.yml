@@ -152,18 +152,19 @@ BOX_GUI_NAME: Открытие кейса
 BOX_KEYS: §dКлючи §f(§6+%s§f)
 BOX_KEY_NOT_BUY: §cПростите, но в данный момент этот ключ не продается!
 BOX_MONEY: §aМонеты §f(§6+%s§f)
-BOX_NAME: Сундук удачи
+BOX_NAME: §bСундук удачи
+BOX_PREFIX: '§bСундук удачи §8| §f'
 BOX_NO_KEY: §cУ вас нет ключей
-BOX_OPEN_YOU: §fВы начали открывать кейс...
+BOX_OPEN_YOU: $BOX_PREFIX$§fВы начали открывать кейс...
 BOX_SHOP_GUI_NAME: Покупка ключей
 BOX_SHOP_SELECT_LORE:
 - §7Купить ключи за %s
 - ''
 - §e▸ Нажмите, чтобы купить ключи
 BOX_SUB_NAME: §7Нажмите, чтобы открыть
-BOX_WINNER: §fВы выиграли %s§f предмет %s
-BOX_WINNER_OTHER: '%s §fвыиграл %s§f предмет %s'
-BOX_WORK: §cПодождите... Сундук прокручивается!
+BOX_WINNER: $BOX_PREFIX$§fВы выиграли %s§f предмет %s
+BOX_WINNER_OTHER: '$BOX_PREFIX$%s §fвыиграл %s§f предмет %s'
+BOX_WORK: $BOX_PREFIX$§cПодождите... Сундук прокручивается!
 CHANNEL_BEST_SERVER_LORE:
 - §7Выбор самого оптимального
 - §7сервера для игры.
