@@ -49,7 +49,6 @@ PR_BOARD_TIME: '§fТекущее время: §a%s'
 
 PR_TRACK_CHEATS_NO_REWARD: '§cВаша статистика не будет затронута после прохождения'
 
-PR_TRACK_TOOK_TOO_LONG: '$PR_PREFIX$Вы слишком долго проходили паркур, ваша текущая сессия завершена'
 PR_NO_SHIFT_CHALLENGE_FAILED: '$PR_PREFIX$Вы нажали на Shift, поэтому были телепортированы на чекпоинт!'
 
 PR_TEN_RETRIES_CHALLENGE_WARN: '$PR_PREFIX$У вас есть §e10 §fпопыток на прохождение паркура полностью. Если израсходовать все, Вам придётся начать прохождение паркура §cзаново'
@@ -145,6 +144,10 @@ PR_SETTING_HIDE_PLAYERS: 'Видимость игроков'
 PR_SETTING_HIDE_PLAYERS_DESCRIPTION: |-
   §7Настройка видимости игроков
   §7на текущем паркуре (для вас)
+PR_SETTING_SHOW_CHEATING_PLAYERS: 'Видимость игроков с читами'
+PR_SETTING_SHOW_CHEATING_PLAYERS_DESCRIPTION: |-
+  §7Настройка видимости привилегированных
+  §7игроков, которые активировали бонусы
 PR_SETTING_HIDE_TIMER: 'Видимость таймера'
 PR_SETTING_HIDE_TIMER_DESCRIPTION: |-
   §7Скрывать/показывать на экране
