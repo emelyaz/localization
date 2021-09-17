@@ -253,6 +253,12 @@ PR_SELECTOR_STATS_LORE_PERSONAL: |-
 PR_SELECTOR_STATS_LORE_GLOBAL: |-
   §8 ▪ §7Серверный рекорд: §a%s
 
+PR_COMMAND_TRACK_WIPE_RECORDS: '$PR_PREFIX$Лучшее время игрока %s §fсброшено на всех трассах'
+PR_COMMAND_TRACK_INFO: '$PR_PREFIX$Текущая трасса игрока %s §f- §a%s'
+PR_COMMAND_TRACK_ERROR: '$PR_PREFIX$Данный игрок не проходит паркур'
+PR_COMMAND_SPAWN_ERROR: '$PR_PREFIX$Вы проходите паркур. Чтобы покинуть его, используйте дверь в последнем слоте'
+PR_COMMAND_SPAWN_TELEPORT: '$PR_PREFIX$Вы были телепортированы в лобби паркура'
+
 PR_PARKOUR_LEAVE_TIMER: '$PR_PREFIX$Вы будете телепортированы в лобби паркура через §c3 §fсекунды. Нажмите на этот предмет ещё раз, чтобы отменить телепортацию'
 PR_PARKOUR_LEAVE_CANCELLED: '$PR_PREFIX$§cТелепортация отменена'
 
