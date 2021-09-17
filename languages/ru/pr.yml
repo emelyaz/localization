@@ -1,125 +1,262 @@
-PERK_PR_BANKER: Банкир
-PERK_PR_BANKER_LORE:
-- ''
-- §7Вы получаете на 15% больше монет
-- §7для закупки перед дезматчем
-PERK_PR_CLASSIC_LUCKY: Везунчик
-PERK_PR_CLASSIC_LUCKY_LORE:
-- ' '
-- §7С шансом 10% вы не потратите
-- §7одну из 3 попыток прохождения
-- §7после падения с модуля.
-PERK_PR_COIN_LUCKY: Везунчик
-PERK_PR_COIN_LUCKY_LORE:
-- ''
-- §7С шансом 20% вы получаете в два раза
-- §7больше монет за прохождение
-- §7модуля (бонусы не учитываются)
-PERK_PR_COWARD: Трус
-PERK_PR_COWARD_LORE:
-- ''
-- §7С шансом 20% вы
-- §7получаете Скорость III на 5 секунд
-PERK_PR_EAGER: Нетерпеливый
-PERK_PR_EAGER_LORE:
-- ''
-- §7Вы получаете предмет для пропуска
-- §7текущего модуля паркура,
-- §7и получаете за него награду.
-- §7Действует только один раз
-PERK_PR_ENCHANT_MASTER: Мастер зачарований
-PERK_PR_ENCHANT_MASTER_LORE:
-- ''
-- §7Первое зачарование для вас бесплатно
-PERK_PR_GLADIATOR: Гладиатор
-PERK_PR_GLADIATOR_LORE:
-- ''
-- §7После убийства врага вы получаете
-- §7Сопротивление урону I на 10 секунд
-PERK_PR_HERO: Богатырь
-PERK_PR_HERO_LORE:
-- ''
-- §7Вы получаете постоянный бонус
-- §7к здоровью в виде двух сердец
-PERK_PR_JUMPER: Прыгун
-PERK_PR_JUMPER_LORE:
-- ' '
-- §7С шансом 30% вы получаете эффект
-- §7прыгучести II на 7 секунд после
-- §7прохождения одного из модулей
-PERK_PR_LUCKY: Счастливчик
-PERK_PR_LUCKY_LORE:
-- ''
-- §7Вы получаете дополнительную
-- §7жизнь на дезматче
-PERK_PR_RAVEN: Ворон
-PERK_PR_RAVEN_LORE:
-- ' '
-- §7С шансом 15% вы получаете предмет
-- §7для использования левитации I на
-- §75 секунд
-PERK_PR_VAMPIRE: Вампир
-PERK_PR_VAMPIRE_LORE:
-- ''
-- §7При убийстве врага
-- §7вы восстанавливаете 4 HP
-PR_ALL_MODULES_PASSED: Поздравляем! Вы прошли все модули. Ждите старта закупки
-PR_ALL_MODULES_PASSED_BROADCAST: §a%s прошел все модули
-PR_ATTEMPT_NOT_USED: Попытка прохождения модуля не израсходована
-PR_ATTEMPT_USED: Вы использовали §e3 попытки§f прохождения модуля
-PR_ATTEMPT_USED_1: Вы не получите дополнительные очки за прохождение этого модуля
-PR_CANNOT_SKIP_MODULE: §cВы не можете пропустить этот модуль
-PR_CHECKPOINT_ITEM_LORE:
-- §7Используйте его для телепорта на чекпоинт
-PR_CHECKPOINT_ITEM_NAME: §eВернуться на чекпоинт
-PR_CLASSIC_MODULES_PASSED: Поздравляем! Вы прошли все модули за §a%s §fи заняли §e%s
-  §fместо
-PR_COINS_STATUS: '§eКоличество очков: §a%s'
-PR_COMPASS_MODE_CHANGED: Выбор навигатора изменен на §e%s
-PR_DEATH: Вы использовали все жизни. Теперь Вы можете только наблюдать за игровым
-  процессом
-PR_DM_COUNTDOWN: 'Время до окончания:'
-PR_DM_COUNTDOWN_CHAT: 'Финальная битва начнется через '
-PR_ENCHANT_COST: §eСтоимость зачарования - §a%s
-PR_ENDING_COUNTDOWN: §7До конца игры осталось 3 минуты
-PR_HIDE_ITEM_LORE:
-- §7Используйте этот предмет,
-- §7чтобы для показать/скрыть игроков
-PR_HIDE_ITEM_NAME: §eСкрыть/показать игроков
-PR_ITEM_BOUGHT: Предмет успешно куплен
-PR_ITEM_ENCHANTING: §7Зачарование предметов
-PR_ITEM_NOT_SELECTED: §cПредмет не выбран
-PR_LEVITATE_ITEM_LORE:
-- §7Выдает эффект левитации на 5 секунд
-- §7После использования Вы начнете
-- §7медленно взлетать...
-PR_LEVITATE_ITEM_NAME: §aИспользовать эффект левитации
-PR_MODULES_PASSED: Пройдено модулей
-PR_MODULE_PASS_SUMMARY: §fВы получили §a§l%s §fочков за прохождение модуля!
-PR_MODULE_PASS_TIME_SUMMARY: §fВы прошли модуль §a#%s §fза §a%s
-PR_MODULE_SKIPPED: Модуль был пропущен
-PR_MODULE_SKIP_MESSAGE: Долго проходится §eмодуль§f? Кликните по §aморкови §fдля пропуска
-  §c(награда не зачисляется)
-PR_PASS_TIME: Общее время прохождения
-PR_PLAYER_SHOWN: Игроки показаны - %s
-PR_SHOPPING_COUNTDOWN: §7До старта закупки осталось 10 секунд
-PR_SHOPPING_DESC_HOLO:
-- §6Зачарование предметов
-- §fЧтобы зачаровать предмет, купите его
-- §fВозьмите его в руку и голограмма над
-- §fстолом зачарований рассчитает цену зачарования
-PR_SHOP_ALREADY_ENCHANTED: §cВы уже зачаровали этот предмет
-PR_SHOP_ENCHANTED: §aПредмет успешно зачарован
-PR_SHOP_ITEM_NAME: §aМагазин
-PR_SHOP_NOT_ENOUGH_MONEY: §cУ Вас недостаточно очков для покупки этого предмета
-PR_SHOP_NOT_ENOUGH_MONEY_ENCH: §cУ Вас недостаточно очков для зачарования этого предмета
-PR_SKIP_MODULE_ITEM_LORE:
-- §7Используйте для пропуска любого модуля
-- §cВНИМАНИЕ! пропуск доступен только один раз!
-- §cЗа пропуск награда не выдается!
-PR_SKIP_MODULE_ITEM_NAME: §eПропустить текущий модуль
-PR_VOTE_ACCEPTED: §aГолос принят! (%s/%s)
-PR_VOTE_ALREADY_VOTED: Вы уже проголосовали!
-PR_VOTE_BROADCAST: '%s §fпроголосовал за пропуск этапа закупки (§e%s/%s§f)'
-PR_VOTE_BROADCAST_1: Используйте §e/skip§f, чтобы поддержать его
-PR_VOTE_END: §cГолосование завершено, ожидайте конца отсчета
+PR_MODULE_TITLE: '§6Модуль #%s'
+
+PR_START_MESSAGE: '$PR_PREFIX$Вы начали прохождение трассы §a%s'
+PR_START_TITLE: '§eСтарт паркура'
+PR_START_SUBTITLE: '§7Трасса: §f%s'
+
+PR_FINISH_TITLE: §aВы прошли все модули!
+PR_FINISH_SUBTITLE: '§7Ваше время: §e%s'
+PR_MODULE_PASS_TIME_SUMMARY: $PR_PREFIX$Вы прошли модуль §a#%s §fза §a%s
+PR_ALL_MODULES_BY_DIFFICULTY_PASSED: "$PR_PREFIX$Вы завершили прохождение всех модулей из сложности '%s§f'"
+PR_CANNOT_SKIP_MODULE: $PR_PREFIX$Вы не можете пропустить этот модуль
+PR_MODULE_SKIPPED: $PR_PREFIX$Модуль был пропущен
+
+PR_LOBBY_LEAVE_ITEM: '§eВернуться в хаб'
+PR_LOBBY_LEAVE_ITEM_LORE: |-
+  §7Используйте этот предмет, чтобы
+  §7телепортироваться в главное лобби
+PR_LOBBY_COMPASS_ITEM: '§eБыстрый старт'
+PR_LOBBY_COMPASS_ITEM_LORE: |-
+  §7Используйте этот предмет, чтобы начать
+  §7прохождение паркура или ознакомиться со
+  §7справочной информацией
+
+PR_GAME_LEAVE_ITEM: '§eПокинуть паркур'
+PR_GAME_LEAVE_ITEM_LORE: |-
+  §7Используйте этот предмет, чтобы
+  §7покинуть текущий паркур и вернуться
+  §7в лобби
+PR_GAME_SETTINGS_ITEM: '§eНастройки'
+PR_GAME_SETTINGS_ITEM_LORE: |-
+  §7Используйте этот предмет, чтобы
+  §7изменять личные настройки, а также
+  §7для перехода к чит-функциям
+PR_GAME_CHECKPOINT_ITEM: '§eВернуться на чекпоинт'
+PR_GAME_CHECKPOINT_ITEM_LORE: |-
+  §7Используйте этот предмет для быстрого
+  §7возврата на начало текущего модуля
+PR_GAME_CARROT_ITEM: '§eПропустить текущий модуль'
+PR_GAME_CARROT_ITEM_LORE: |-
+  §7Используйте этот предмет чтобы
+  §7пропустить текущий модуль
+
+PR_PREFIX: '§6ParkourRacers §8| §f'
+
+PR_BOARD_MODULE: '§fНомер модуля: §b%s'
+PR_BOARD_CURRENT_TRACK: '§fТекущая трасса:'
+PR_BOARD_RECORD: '§fЛичный рекорд: §a%s'
+PR_BOARD_TIME: '§fТекущее время: §a%s'
+
+PR_TRACK_CHEATS_NO_REWARD: '§cВаша статистика не будет затронута после прохождения'
+
+PR_NO_SHIFT_CHALLENGE_FAILED: '$PR_PREFIX$Вы нажали на Shift, поэтому были телепортированы на чекпоинт!'
+
+PR_TEN_RETRIES_CHALLENGE_WARN: '$PR_PREFIX$У вас есть §e10 §fпопыток на прохождение паркура полностью. Если израсходовать все, Вам придётся начать прохождение паркура §cзаново'
+PR_TEN_RETRIES_CHALLENGE_INFO: '$PR_PREFIX$Попыток осталось: §e%s'
+PR_TEN_RETRIES_CHALLENGE_FAILED: '$PR_PREFIX$Вы потратили все попытки и начинаете весь паркур заново'
+
+TOP_MONTHLY_PARKOUR_HOLO: |-
+  §6§lЛучшие игроки
+  §fПо времени прохождения
+  §fежемесячного паркура
+
+PARKOUR_DIFFICULTY_EASY: '§aЛегкая'
+PARKOUR_DIFFICULTY_NORMAL: '§6Нормальная'
+PARKOUR_DIFFICULTY_HARD: '§cСложная'
+PARKOUR_DIFFICULTY_MIXED: '§eСмешанная'
+PARKOUR_DIFFICULTY_MONTHLY: '§6Ежемесячная'
+
+PR_BOARD_MODULES_PASSED: '§fМодулей пройдено:'
+PR_BOARD_MODULES_PASSED_HARD: '§fСложных: §a%s'
+PR_BOARD_MODULES_PASSED_NORMAL: '§fСредних: §a%s'
+PR_BOARD_MODULES_PASSED_EASY: '§fПростых: §a%s'
+
+PR_START_GAME_HOLO_1: '§e§lParkourRacers'
+PR_START_GAME_HOLO_2: '§7Нажмите, чтобы начать паркур'
+PR_START_GAME_HOLO_3: '§7Уже паркурят: §f%s'
+
+PR_MONTHLY_PARKOUR_HOLO_1: '§e§lЕжемесячный пакур'
+PR_MONTHLY_PARKOUR_HOLO_2: '§7Нажмите, чтобы войти'
+
+PR_SELECTOR_GUI_TITLE: 'ParkourRacers'
+
+PR_SELECTOR_REWARDS: '§bНаграды за прохождение'
+PR_SELECTOR_REWARDS_LORE: |-
+  §7За прохождение трасс различной сложности
+  §7игроки получают специальные награды!
+  §f
+  §fНаграды за прохождение трассы впервые:
+  §8 ▪ §7Легкая: §650 §7монет, §a150 §7опыта
+  §8 ▪ §7Средняя: §6100 §7монет, §a300 §7опыта
+  §8 ▪ §7Сложная: §6150 §7монет, §a450 §7опыта
+  §8 ▪ §7Смешанная: §6100 §7монет, §a300 §7опыта
+  §8 ▪ §7Ежемесячная: §610.000 §7монет, §e2 §7золота, §a20.000 §7опыта
+  §f
+  §fНаграды за последующие прохождения трассы:
+  §8 ▪ §7Легкая: §a10 §7опыта
+  §8 ▪ §7Средняя: §a20 §7опыта
+  §8 ▪ §7Тяжелая: §a40 §7опыта
+  §8 ▪ §7Смешанная: §a20 §7опыта
+  §8 ▪ §7Ежемесячная: §a60 §7опыта
+
+PR_SELECTOR_INFO: '§bИнформация'
+PR_SELECTOR_INFO_LORE: |-
+  §7Добро пожаловать на §6ParkourRacers Classic
+  §7
+  §7Для старта игры выбери подборку модулей
+  §7по своим предпочтениям и возможностям, и
+  §7играй в любое время, с друзьями или без,
+  §7быстро или медленно - это не важно!
+  §7
+  §7Если ты считаешь себя мастером паркура,
+  §7то нажми на часы и пройди ежемесячный паркур,
+  §7соревнуясь с другими игроками.
+  §7
+  §7Для привилегированных игроков есть чит-функции,
+  §7которые не отражаются на статистике, но с их
+  §7помощью можно как следует повеселиться!
+
+PR_SELECTOR_MONTHLY_PARKOUR: '§bЕжемесячный паркур'
+PR_SELECTOR_MONTHLY_PARKOUR_LORE: |-
+  §7Продолжительный паркур из 15 легких,
+  §710 обычных и 5 сложных модулей, при
+  §7прохождении которых вы можете попасть
+  §7в топ, если пройдете его быстрее чем
+  §7все остальные, а в конце месяца получить
+  §7награду в виде §eзолота
+  §7
+  §e▸ Нажмите для телепортации на паркур
+
+PR_NAME_LOADING: '§cЗагрузка данных...'
+
+PR_SELECTOR_DAILY_TRACK: '§bТрасса №%s'
+PR_SELECTOR_DAILY_TRACK_LORE_1: |-
+  §7
+  §7Сложность: §a%s
+PR_SELECTOR_DAILY_TRACK_LORE_2: |-
+  §7
+  §7Лучшее время: §a%s
+  §8 %s
+  §7Личный рекорд: §a%s
+PR_SELECTOR_DAILY_TRACK_LORE_3: |-
+  §7
+  §e▸ Нажмите для телепортации
+
+PR_CHEATS_NOT_AVAILABLE: '$PR_PREFIX$Чит-функции доступны только для донатеров'
+
+PR_SETTINGS_GUI_TITLE: 'Настройки'
+PR_SETTINGS_GUI_CHEATS: '§bЧит-функции для донатеров'
+PR_SETTINGS_GUI_CHEATS_LORE: |-
+  §7Различные бонусы или усложнения для
+  §7более интересного прохождения паркура
+  §7
+  §7Если активировать бонусы, то прогресс
+  §7не идет в статистику, а награды за
+  §7прохождения вы не получаете, пока не
+  §7смените арену.
+  §7
+  §7Усложнения не ограничивают получение
+  §7наград и статистики
+  §7
+  §e▸ Нажмите, чтобы перейти к чит-функциям
+
+PR_SETTING_HIDE_PLAYERS: 'Видимость игроков'
+PR_SETTING_HIDE_PLAYERS_DESCRIPTION: |-
+  §7Настройка видимости игроков
+  §7на текущем паркуре (для вас)
+PR_SETTING_SHOW_CHEATING_PLAYERS: 'Скрывать игроков с читами'
+PR_SETTING_SHOW_CHEATING_PLAYERS_DESCRIPTION: |-
+  §7Скрытие привилегированных игроков,
+  §7которые активировали бонусы
+PR_SETTING_HIDE_TIMER: 'Видимость таймера'
+PR_SETTING_HIDE_TIMER_DESCRIPTION: |-
+  §7Скрывать/показывать на экране
+  §7текущее время прохождения
+PR_SETTING_DAY_TIME: 'Время суток'
+PR_SETTING_DAY_TIME_DESCRIPTION: |-
+  §7Сменить время суток
+
+PR_CHEAT_GUI_TITLE: 'Чит-функции'
+
+PR_CHEAT_GUI_POSITIVE: '§aБонусы'
+PR_CHEAT_GUI_POSITIVE_LORE: |-
+  §7Переход в меню бонусов
+  §7
+  §7При активации хотя бы одного
+  §7бонуса Вы не получите награду,
+  §7пока не перезайдете на арену
+  §7
+  §e▸ Нажмите, чтобы перейти
+PR_CHEAT_GUI_NEGATIVE: '§cУсложнения'
+PR_CHEAT_GUI_NEGATIVE_LORE: |-
+  §7Переход в меню усложнений
+  §7
+  §e▸ Нажмите, чтобы перейти
+
+PR_CHEAT_GUI_ENTRY_NOT_AVAILABLE: |-
+  §7
+  §7Минимальная группа для доступна
+  §7к данной функции - %s
+
+PR_CHEAT_SPEED: 'Скорость'
+PR_CHEAT_SPEED_DESCRIPTION: |-
+  §7Вы получаете скорость II
+PR_CHEAT_JUMP: 'Прыгучесть'
+PR_CHEAT_JUMP_DESCRIPTION: |-
+  §7Вы получаете прыгучесть II
+PR_CHEAT_SMOOTH_FALL: 'Плавное падение'
+PR_CHEAT_SMOOTH_FALL_DESCRIPTION: |-
+  §7Вы плавно падаете
+PR_CHEAT_CARROT: 'Морковь'
+PR_CHEAT_CARROT_DESCRIPTION: |-
+  §7Вы получаете бесконечную морковь
+  §7для пропуска текущего модуля
+PR_CHEAT_ELYTRA: 'Элитры'
+PR_CHEAT_ELYTRA_DESCRIPTION: |-
+  §7На вас надеваются элитры
+PR_CHEAT_FLY: 'Полёт'
+PR_CHEAT_FLY_DESCRIPTION: |-
+  §7Вы можете летать в пределах
+  §7текущего модуля
+PR_CHEAT_SLOWNESS: 'Замедление'
+PR_CHEAT_SLOWNESS_DESCRIPTION: |-
+  §7Вы получаете замедление I
+PR_CHEAT_NAUSEA: 'Тошнота'
+PR_CHEAT_NAUSEA_DESCRIPTION: |-
+  §7Вы получаете эффект тошноты
+PR_CHEAT_PUMPKIN: 'Тыква'
+PR_CHEAT_PUMPKIN_DESCRIPTION: |-
+  §7На вас надевается вырезанная тыква
+PR_CHEAT_TEN_RETRIES: '10 попыток'
+PR_CHEAT_TEN_RETRIES_DESCRIPTION: |-
+  §7У вас есть 10 попыток пройти паркур,
+  §7после чего вы начинаете весь паркур заново
+PR_CHEAT_NO_SHIFT: 'Без шифта'
+PR_CHEAT_NO_SHIFT_DESCRIPTION: |-
+  §7При нажатии на Shift прохождение
+  §7текущего модуля будет начато заново
+PR_CHEAT_BLINDNESS: 'Слепота'
+PR_CHEAT_BLINDNESS_DESCRIPTION: |-
+  §7Вы получаете эффект слепоты
+
+PR_SELECTOR_STATS: '§bСтатистика'
+PR_SELECTOR_STATS_LORE_PERSONAL: |-
+  §7
+  §fПройдено модулей:
+  §8 ▪ §7Сложных: §a%s
+  §8 ▪ §7Средних: §a%s
+  §8 ▪ §7Простых: §a%s
+  §8 ▪ §7Всего: §a%s
+  §7
+  §fЛучшее время за месяц:
+  §8 ▪ §7Личный рекорд: §a%s
+PR_SELECTOR_STATS_LORE_GLOBAL: |-
+  §8 ▪ §7Серверный рекорд: §a%s
+
+PR_PARKOUR_LEAVE_TIMER: '$PR_PREFIX$Вы будете телепортированы в лобби паркура через §c3 §fсекунды. Нажмите на этот предмет ещё раз, чтобы отменить телепортацию'
+PR_PARKOUR_LEAVE_CANCELLED: '$PR_PREFIX$§cТелепортация отменена'
+
+PR_REWARD_LINE: '§7+ %s'
+PR_REWARD_COINS: '§6%s §f%s'
+PR_REWARD_EXPERIENCE: '§a%s §fопыта'
+PR_REWARD_GOLD: '§e%s §f%s'

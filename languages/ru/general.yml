@@ -80,6 +80,11 @@ UNKNOWN: Неизвестно
 VK: §6VK-bot §8| §fК вашему аккаунту привязан профиль §7vk.com/id%s
 WARPINFO: §fИнформация про варп §c%s§f, владелец - %s§f, дата создания - §a%s
 
+ITEMS_LOBBY_DISABLE_LORE:
+  - §7Нажмите, чтобы включить
+ITEMS_LOBBY_ENABLE_LORE:
+  - §7Нажмите, чтобы отключить
+
 ACCEPT_LORE_NO:
 - ''
 - §7Отменить действие

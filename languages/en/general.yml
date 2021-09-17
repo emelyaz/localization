@@ -47,7 +47,7 @@ BOARD_NA: N/A
 BOARD_NO_BUSTER: §c▻ §7No active boosters
 BOARD_NO_ISLAND1: Island not found!
 BOARD_NO_ISLAND2: write - §7/island create
-BOARD_ONLINE: Online
+BOARD_ONLINE: §fOnline
 BOARD_ON_ISLAND: You on the island
 BOARD_OUR_TEAM: Your team
 BOARD_OWNER: Owner
@@ -269,9 +269,6 @@ PAGE_ARROW_GUI: page
 PAGE_ARROW_LORE:
 - §7Click to go
 - §7on %s page
-PARKOURRACERS_CLASSIC_TYPE: §eClassic mode
-PARKOURRACERS_DUO_TYPE: §eDouble mode
-PARKOURRACERS_SOLO_TYPE: §eSolo mode
 PLAYER_IGNORED: §eYou added player %s §eto your ignore list. He can no longer find
   and contact you
 PLAYER_NOT_IGNORED: §cYou removed player %s §cfrom ignore list.
