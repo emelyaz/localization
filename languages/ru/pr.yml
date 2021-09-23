@@ -55,7 +55,7 @@ PR_TEN_RETRIES_CHALLENGE_WARN: '$PR_PREFIX$У вас есть §e10 §fпопы�
 PR_TEN_RETRIES_CHALLENGE_INFO: '$PR_PREFIX$Попыток осталось: §e%s'
 PR_TEN_RETRIES_CHALLENGE_FAILED: '$PR_PREFIX$Вы потратили все попытки и начинаете весь паркур заново'
 
-TOP_MONTHLY_PARKOUR_HOLO: |-
+TOP_MONTHLY_TRACK_PARKOUR_HOLO: |-
   §6§lЛучшие игроки
   §fПо времени прохождения
   §fежемесячного паркура
@@ -75,7 +75,7 @@ PR_START_GAME_HOLO_1: '§e§lParkourRacers'
 PR_START_GAME_HOLO_2: '§7Нажмите, чтобы начать паркур'
 PR_START_GAME_HOLO_3: '§7Уже паркурят: §f%s'
 
-PR_MONTHLY_PARKOUR_HOLO_1: '§e§lЕжемесячный пакур'
+PR_MONTHLY_PARKOUR_HOLO_1: '§e§lЕжемесячный паркур'
 PR_MONTHLY_PARKOUR_HOLO_2: '§7Нажмите, чтобы войти'
 
 PR_SELECTOR_GUI_TITLE: 'ParkourRacers'
