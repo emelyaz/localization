@@ -210,6 +210,7 @@ PR_CHEAT_GUI_ENTRY_NOT_AVAILABLE: |-
   §7к данной функции - %s
 
 PR_CHEAT_POSITIVE_REWARD: |-
+  §c
   §cПри активации вы не получите награду
   §cза прохождение до перезахода на модуль
 PR_CHEAT_SPEED: 'Скорость'
