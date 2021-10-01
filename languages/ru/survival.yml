@@ -19,6 +19,7 @@ PROTECTION_ADDMEMBER_COMPLETE_TO: §fИгрок %s §fбыл добавлен в
 PROTECTION_ADDMEMBER_FORMAT: /rg addmember <ник>
 PROTECTION_ADDMEMBER_LIMIT: §cОшибка, вы привысили лимит на кол-во участников вашего
   привата(%s), кол-во участников не должно превышать %s
+PROTECTION_ACCEPT_LIMIT: '§cОшибка, в привате(%s) достигнут лимит участников'
 PROTECTION_ADDMEMBER_REQUEST: §fЗапрос на добавление в приват отправлен игроку %s
 PROTECTION_ADDMEMBER_REQUEST_1: ' %s §fхочет добавить вас в приват'
 PROTECTION_ADDMEMBER_REQUEST_ERROR: §cУ вас нет ожидающих заявок
