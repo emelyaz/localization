@@ -39,6 +39,10 @@ PR_GAME_CARROT_ITEM: '§eПропустить текущий модуль'
 PR_GAME_CARROT_ITEM_LORE: |-
   §7Используйте этот предмет чтобы
   §7пропустить текущий модуль
+PR_GAME_CHEATS_ICON: '§eЧит-функции'
+PR_GAME_CHEATS_ICON_LORE: |-
+  §7Используйте этот предмет, чтобы
+  §7открыть меню бонусов и усложнений
 
 PR_PREFIX: '§6ParkourRacers §8| §f'
 
@@ -46,16 +50,23 @@ PR_BOARD_MODULE: '§fНомер модуля: §b%s'
 PR_BOARD_CURRENT_TRACK: '§fТекущая трасса:'
 PR_BOARD_RECORD: '§fЛичный рекорд: §a%s'
 PR_BOARD_TIME: '§fТекущее время: §a%s'
+PR_BOARD_MODULE_ONLINE: '§fИграют с вами: §a%s'
 
 PR_TRACK_CHEATS_NO_REWARD: '§cВаша статистика не будет затронута после прохождения'
 
 PR_NO_SHIFT_CHALLENGE_FAILED: '$PR_PREFIX$Вы нажали на Shift, поэтому были телепортированы на чекпоинт!'
 
-PR_TEN_RETRIES_CHALLENGE_WARN: '$PR_PREFIX$У вас есть §e10 §fпопыток на прохождение паркура полностью. Если израсходовать все, Вам придётся начать прохождение паркура §cзаново'
-PR_TEN_RETRIES_CHALLENGE_INFO: '$PR_PREFIX$Попыток осталось: §e%s'
-PR_TEN_RETRIES_CHALLENGE_FAILED: '$PR_PREFIX$Вы потратили все попытки и начинаете весь паркур заново'
+PR_LIMITED_RETRIES_CHALLENGE_WARN: 'Если израсходовать все, Вам придётся начать прохождение паркура §cзаново'
+PR_TEN_TRACK_RETRIES_CHALLENGE_WARN: '$PR_PREFIX$У вас есть §e10 §fпопыток на прохождение паркура полностью. $PR_LIMITED_RETRIES_CHALLENGE_WARN$'
+PR_THREE_MODULE_RETRIES_CHALLENGE_WARN: '$PR_PREFIX$У вас есть §e3 §fпопытки на прохождение текущего модуля. $PR_LIMITED_RETRIES_CHALLENGE_WARN$'
 
-TOP_MONTHLY_PARKOUR_HOLO: |-
+PR_TRACK_RETRIES_CHALLENGE_INFO: '$PR_PREFIX$Попыток для прохождения паркура полностью осталось: §a%s'
+PR_TRACK_RETRIES_CHALLENGE_FAILED: '$PR_PREFIX$Вы потратили все попытки прохождения паркура и начинаете весь паркур заново'
+
+PR_MODULE_RETRIES_CHALLENGE_INFO: '$PR_PREFIX$Попыток для прохождения модуля осталось: §e%s'
+PR_MODULE_RETRIES_CHALLENGE_FAILED: '$PR_PREFIX$Вы не прошли модуль за 3 попытки, поэтому начинаете весь паркур заново'
+
+TOP_MONTHLY_TRACK_PARKOUR_HOLO: |-
   §6§lЛучшие игроки
   §fПо времени прохождения
   §fежемесячного паркура
@@ -75,7 +86,7 @@ PR_START_GAME_HOLO_1: '§e§lParkourRacers'
 PR_START_GAME_HOLO_2: '§7Нажмите, чтобы начать паркур'
 PR_START_GAME_HOLO_3: '§7Уже паркурят: §f%s'
 
-PR_MONTHLY_PARKOUR_HOLO_1: '§e§lЕжемесячный пакур'
+PR_MONTHLY_PARKOUR_HOLO_1: '§e§lЕжемесячный паркур'
 PR_MONTHLY_PARKOUR_HOLO_2: '§7Нажмите, чтобы войти'
 
 PR_SELECTOR_GUI_TITLE: 'ParkourRacers'
@@ -86,6 +97,7 @@ PR_SELECTOR_REWARDS_LORE: |-
   §7игроки получают специальные награды!
   §f
   §fНаграды за прохождение трассы впервые:
+  §7(без учета множителей и бустеров)
   §8 ▪ §7Легкая: §650 §7монет, §a150 §7опыта
   §8 ▪ §7Средняя: §6100 §7монет, §a300 §7опыта
   §8 ▪ §7Сложная: §6150 §7монет, §a450 §7опыта
@@ -198,6 +210,10 @@ PR_CHEAT_GUI_ENTRY_NOT_AVAILABLE: |-
   §7Минимальная группа для доступна
   §7к данной функции - %s
 
+PR_CHEAT_POSITIVE_REWARD: |-
+  §c
+  §cПри активации вы не получите награду
+  §cза прохождение до перезахода на модуль
 PR_CHEAT_SPEED: 'Скорость'
 PR_CHEAT_SPEED_DESCRIPTION: |-
   §7Вы получаете скорость II
@@ -227,10 +243,14 @@ PR_CHEAT_NAUSEA_DESCRIPTION: |-
 PR_CHEAT_PUMPKIN: 'Тыква'
 PR_CHEAT_PUMPKIN_DESCRIPTION: |-
   §7На вас надевается вырезанная тыква
-PR_CHEAT_TEN_RETRIES: '10 попыток'
-PR_CHEAT_TEN_RETRIES_DESCRIPTION: |-
-  §7У вас есть 10 попыток пройти паркур,
-  §7после чего вы начинаете весь паркур заново
+PR_CHEAT_TEN_TRACK_RETRIES: '10 попыток (на весь паркур)'
+PR_CHEAT_TEN_TRACK_RETRIES_DESCRIPTION: |-
+  §7У вас есть 10 попыток пройти весь паркур,
+  §7иначе чего вы начинаете все прохождение заново
+PR_CHEAT_THREE_MODULE_RETRIES: '3 попытки (на модуль)'
+PR_CHEAT_THREE_MODULE_RETRIES_DESCRIPTION: |-
+  §7У вас есть 3 попытки пройти текущий модуль,
+  §7иначе чего вы начинаете весь паркур заново
 PR_CHEAT_NO_SHIFT: 'Без шифта'
 PR_CHEAT_NO_SHIFT_DESCRIPTION: |-
   §7При нажатии на Shift прохождение
@@ -252,6 +272,14 @@ PR_SELECTOR_STATS_LORE_PERSONAL: |-
   §8 ▪ §7Личный рекорд: §a%s
 PR_SELECTOR_STATS_LORE_GLOBAL: |-
   §8 ▪ §7Серверный рекорд: §a%s
+
+PR_COMMAND_TRACK_WIPE_RECORDS: '$PR_PREFIX$Лучшее время игрока %s §fсброшено на всех трассах'
+PR_COMMAND_TRACK_INFO: '$PR_PREFIX$Текущая трасса игрока %s §f- §a%s'
+PR_COMMAND_TRACK_ERROR: '$PR_PREFIX$Данный игрок не проходит паркур'
+PR_COMMAND_SPAWN_ERROR: '$PR_PREFIX$Вы проходите паркур. Чтобы покинуть его, используйте дверь в последнем слоте'
+PR_COMMAND_SPAWN_TELEPORT: '$PR_PREFIX$Вы были телепортированы в лобби паркура'
+PR_COMMAND_MODULE_NO_SESSION: '$PR_PREFIX$Вы не проходите паркур'
+PR_COMMAND_MODULE_NAME: '$PR_PREFIX$Вы проходите модуль на сложности %s§f, название - §e%s'
 
 PR_PARKOUR_LEAVE_TIMER: '$PR_PREFIX$Вы будете телепортированы в лобби паркура через §c3 §fсекунды. Нажмите на этот предмет ещё раз, чтобы отменить телепортацию'
 PR_PARKOUR_LEAVE_CANCELLED: '$PR_PREFIX$§cТелепортация отменена'
