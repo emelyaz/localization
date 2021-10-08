@@ -386,6 +386,7 @@ FIND_FORMAT: /find <ник игрока>
 FIND_RESULT: $SERVER_PREFIX$Игрок %s §fнаходится на сервере §c%s
 FIND_RESULT_OFFLINE: $SERVER_PREFIX$Игрок %s §fоффлайн, последний раз он был на сервере
   §7%s §fназад
+MIGRATE_RESULT: $SERVER_PREFIX$Статистика игрока %s §fперенесена на ник %s
 GAMEMODE_FORMAT: /gamemode <1|2|0>
 GAMEMODE_TO: $@MODE_PREFIX$Игроку %s §fустановлен режим - §c%s
 GIFT_ALREADY_ACTIVATED: §cОшибка, купон %s уже был активирован вами ранее
