@@ -1,53 +1,72 @@
-REPORT_ACCEPT_FORMAT: /report accept <player name> <reason id>
-REPORT_ALREADY_SENT: §cYou already sent report against this player
-REPORT_BROADCAST_PLAYER_GUILTY: §cModeration §8| §7%s §7considered that §e%s §f- §cguilty
-REPORT_BROADCAST_PLAYER_INNOCENT: §cModeration §8| §7%s §7considered that §e%s §f-
-  §ainnocent
-REPORT_GUI_ACTION: Choice of action
-REPORT_GUI_ACTION_INNOCENT: §aMark player as innocent
+REPORT_ACCEPT_FORMAT: /report accept <nickname> <reasons id>
+REPORT_ALLOW_USAGE: /report allow <minimal group>
+REPORT_ALREADY_SENT: §cYou have already submitted a complaint about this player.
+REPORT_BROADCAST_PLAYER_GUILTY: §cModeration §8| §7%s §7supposed that §e%s §f- §cis
+  guilty
+REPORT_BROADCAST_PLAYER_INNOCENT: §cModeration §8| §7%s §7supposed that §e%s §f- §ais
+  innocent
+REPORT_GUI_ACTION: Choose action
+REPORT_GUI_ACTION_GUILTY: §cPlayer is guilty
+REPORT_GUI_ACTION_GUILTY_LORE:
+- ''
+- §7The player will not receive a penalty. All
+- §7submitters of complaints will be notified
+- §7that the player is guilty.
+- ''
+- §e▸ Click to approve the complaint
+REPORT_GUI_ACTION_INNOCENT: §aPlayer is innocent
 REPORT_GUI_ACTION_INNOCENT_LORE:
 - ''
-- ' §e▸ Click here, to reject report'
-REPORT_GUI_ITEM_NAME: §eReport against %s
+- §e▸ Click to dismiss the complaint
+REPORT_GUI_ITEM_GAME_STATE: '§7Game stage: §a%s'
+REPORT_GUI_ITEM_NAME: §eComplaint against %s
 REPORT_GUI_ITEM_SERVER: '§7Server: §a%s'
+REPORT_GUI_ITEM_VERSION: '§7Version: §a%s'
 REPORT_GUI_LAST_REPORT: §e%s ago
-REPORT_GUI_LAST_REPORT_TITLE: '§7Last report:'
-REPORT_GUI_MAIN: Reports
+REPORT_GUI_LAST_REPORT_TITLE: '§7Last complaint:'
+REPORT_GUI_MAIN: Complaint list
 REPORT_GUI_MAIN_LORE:
 - ''
-- '§fTotal reports: §e%s'
-REPORT_GUI_SENDERS_TITLE: '§7Reporters:'
-REPORT_GUI_SPECTATORS_TITLE: '§7Spectators:'
-REPORT_GUI_TOTAL_REPORTS: '§7Total reports: §c%s'
+- '§fTotal complaints: §e%s'
+REPORT_GUI_SENDERS_TITLE: '§7List of Complainants:'
+REPORT_GUI_SPECTATORS_TITLE: '§7Spectators list:'
+REPORT_GUI_TOTAL_REPORTS: '§7Total complaints: §c%s'
 REPORT_GUI_TP_TITLE:
-- ' §e▸ Left click to spectate'
-- ' §e▸ Right click to skip report'
+- §e▸ LMC to start observing the player
+- §e▸ RMC to dismiss the complaint
 REPORT_HELP:
-- §7/report list §f- report list
-- §7/report info <player name> §f- info about report
-- §7/report accept <player name> <reason id> §f- punish player and accept report
-- §7/report decline <player name> §f- decline report
+- §7/report list §f- complaints list
+- §7/report info <nickname> §f- information about the complaint
+- §7/report accept <nickname> <id reasons> §f- acceptance of the complaint and the
+  player's ban
+- §7/report decline <nickname> §f- complaint dismissal
 REPORT_INFO_MESSAGES:
-- '§6Reports §8| §fInfo about player §e%s:'
-- ' - §fReporters: §a%s'
-- ' - §fSpectating: §a%s'
-- ' - §fLast report: §a%s ago'
-REPORT_INVALID_REASON: §cUnknown reason
-REPORT_ITS_YOU: §cYou cannot send report against yourself
-REPORT_NO_PERM_FOR_ACTIONS: §cReports §8| §fYou cannot make decisions for reports.
-REPORT_NO_REPORT: §cThere are no reports.
-REPORT_NO_REPORT_PLAYER: §cThere is no reports against this player.
-REPORT_PLAYER_GUILTY: §f%s §areviewed your report against §e%s §aand punished him.
-  Thank you for help in catching!
-REPORT_PLAYER_INNOCENT: §f%s §cdeclined your report against §e%s
-REPORT_PLAYER_IS_STAFF: §cYou cannot send report against staff member.
-REPORT_PLAYER_PUNISHED: §cComplains §8| §fPlayer %s§f, to who You send a complain
-  has been punished. Thank for assistance in catching!
-REPORT_PLAYER_STARTED_SPECTATE: §cModeration §8| §7%s §7started spectating for §7%s
-REPORT_SENT_FIRST: §eReport created. To confirm it one more player should send report
-  against this player
-REPORT_SENT_NOT_FIRST: §aReport sent. You are not first reporter, so our moderators
-  were notified.
-REPORT_UNKNOWN_REASON: Unknown reason
-REPORT_USAGE: /report <player name> <reason>
-TOO_MANY_REPORTS: §cReports §8| §fPlayer %s §frecieved §c%s §freports!
+- '§6Complaints §8| §fPlayer information §e%s:'
+- ' - §fComplained: §a%s'
+- ' - §fNow observing: §a%s'
+- ' - §fLast complain: §a%s ago'
+REPORT_INVALID_GROUP_TO_USE: §cError, the minimum group to use cannot be lower than
+  §2§lJUNIOR
+REPORT_INVALID_REASON: §cInvalid reason id
+REPORT_ITS_YOU: §cYou cannot file a complaint against yourself
+REPORT_MINIMAL_GROUP_CHANGED: §aYou have changed the minimum group for viewing complaints
+  to %s
+REPORT_NO_PERM_FOR_ACTIONS: §cComplaints §8| §fOnly moderators and higher can make
+  decisions on complaints.
+REPORT_NO_REPORT: §cNo complaints
+REPORT_NO_REPORT_PLAYER: §cThere have been no complaints about this player.
+REPORT_PLAYER_GUILTY: §cComplaints §8| §e%s §freviewed your complaint about the player
+  §e%s §fand approved it. Thank you for your assistance in capturing!
+REPORT_PLAYER_INNOCENT: §cComplaints §8| §e%s §frejected your player complaint §e%s
+REPORT_PLAYER_IS_STAFF: §cYou cannot send a complaint against the project staff
+REPORT_PLAYER_PUNISHED: §cComplaints §8| §fPlayer %s§f you filed a complaint against
+  has been punished. Thank you for your assistance in capturing!
+REPORT_PLAYER_STARTED_SPECTATE: §cModeration §8| §7%s §7went to observe §7%s
+REPORT_SENT_FIRST: §cComplaints §8| §fThe complaint has been sent. To be reviewed
+  by moderators it is necessary for another person to file a complaint against the
+  player
+REPORT_SENT_NOT_FIRST: §cComplaints §8| §fThe complaint has been sent. You are not
+  the first one to complain on this player, our §9moderators§f have been notified
+REPORT_UNKNOWN_REASON: Reason unknown
+REPORT_USAGE: /report <nickname> <reason>
+TOO_MANY_REPORTS: §cComplaints §8| §fPlayer %s §fhas already received §c%s §fcomplain(s)

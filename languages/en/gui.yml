@@ -2,153 +2,155 @@ GUI_ANOTHER_LOBBY:
 - ''
 - '§7Online: §a%s'
 - ''
-- ' §e▸ Click here to connect'
+- ' §e▸ Click to teleport'
 GUI_ANOTHER_LOBBY_FRIENDS:
 - ''
 - '§7Online: §a%s'
 - ''
-- '§7Friends in lobby:'
-- ' §e▸ Click here to connect'
+- '§7Friends in the lobby:'
+- ' §e▸ Click to teleport'
 GUI_HELP_ITEM_10_LORE:
-- §7Unite in group with other
-- §7players and play together.
+- §7Team up with other players
+- §7and play together.
 - ''
-- §7You can to enter general bank with money,
-- §7instant create group(§cparty§7),
-- §7customize permissions
-- §7for every member
+- §7You will be able to maintain a common bank of money,
+- §7and create a group instantly(§cparty§7),
+- §7configure individual rights
+- §7for every player and so on
 - §7
 - §7Write §e/guild §7and create your guild!
 - §7
-- §cATTENTION! Guild creation cost
-- §c20.000 coins and available only for §c§lMAGMA
-- §cYou need level 10+ to join the guild!
+- §cATTENTION! Guild creation costs
+- §c20,000 coins and is only available from §c§lMAGMA
+- §cYou need level 10+ to join a guild!
 GUI_HELP_ITEM_10_NAME: §bGuilds
 GUI_HELP_ITEM_1_LORE:
 - '§7Useful commands for playing on the server:'
 - ''
-- §e/hub §7or §e/lobby §7- Return to main lobby
-- §e/online §7- Online from all servers
-- §e/find <Nickname> §7- Find a player
+- §e/hub §7или §e/lobby §7- Return to lobby
+- §e/online §7- Shared online server
+- §e/find <nickname> §7- Find player
 GUI_HELP_ITEM_1_NAME: §bNavigation
 GUI_HELP_ITEM_2_LORE:
-- '§7List of paid statuses:'
-- ' §8▪ §e§lGOLD §7~ §f1.7 Dollars'
-- ' §8▪ §b§lDIAMOND §7~ §f4.7 Dollars'
-- ' §8▪ §a§lEMERALD §7~ §f9 Dollars'
-- ' §8▪ §c§lMAGMA §7~ §f14 Dollars'
-- ' §8▪ §7§lSHULKER §7~ §f32.5 Dollars'
+- '§7Privileges list:'
+- ' §8▪ §e§lGOLD §7- §f100 rubles'
+- ' §8▪ §b§lDIAMOND §7- §f300 rubles'
+- ' §8▪ §a§lEMERALD §7- §f590 rubles'
+- ' §8▪ §c§lMAGMA §7- §f900 rubles'
+- ' §8▪ §7§lSHULKER §7- §f2100 rubles'
 - ''
-- §7A detailed description of the donate you can
-- §7find in section named §fProfile ? Donate
+- §7A detailed description of the privileges can be
+- §7viewed in §fProfile ▸ Privileges
 - ''
-- §7You can buy status
-- §7Online §dwww.last-craft.net
+- §7Privileges can be purchased
+- §7at §dwww.last-craft.net
 GUI_HELP_ITEM_2_NAME: §bPrivileges
 GUI_HELP_ITEM_3_LORE:
 - §7For a comfortable game with friends
 - §7use the commands below
 - ''
-- §e/f add <Nickname> §7- Add a friend
-- §e/f remove <Nickname> §7- Delete a player from friends list
-- §e/f list §7- Friend list
+- §e/f add <nickname> §7- Add a friend
+- §e/f remove <nickname> §7- Remove from friends
+- §e/f list §7- Friendslist
 - ''
-- §7Also you can create party to teleport
-- §7to the same server together
-- §7You can use the commands below
+- §7You can learn more about the friends system
+- §7by writing the command §e/friends
 - ''
-- §e/party <nickname> §7- Invite player to a party
-- §e/party kick <nickname> §7- Kick player from a party
-- §e/party list §7- List of players in a party
-- ''
-- §7More info about friends or party system
-- §7can be found by typing §e/friends §7or §e/party
-- ''
-- §7A regular player has a maximum of §c20§7 friends!
+- §7An ordinary player can have
+- §7no more than §c20§7 friends!
 GUI_HELP_ITEM_3_NAME: §bPlaying with friends
 GUI_HELP_ITEM_4_LORE:
-- §7After registration we recommend
-- '§7to link your email to your account:'
-- §e/email add <email> <confirm email>
+- §7After registration, we recommend
+- '§7that you link your mail to your account.:'
+- §e/email add <Email> <Email>
 - ''
-- '§7To change the password, use:'
+- '§7To change your password use:'
 - §e/changepassword <Old password> <New password>
 - ''
-- '§7If you lose your password, type the command:'
-- §e/email <Email>
-- §7A new password will be sent to your mail
-- ''
-- §7Also we recommend to use Google Authenticator
-- §7to maximize your account security
-- §7Type §e/gauth §7and scan QR Code in your
-- §7Google Authenticator application.
-- ''
-- §7GAuth will ask you a code after
-- §7every login (except session login)
-GUI_HELP_ITEM_4_NAME: §bAccount Security
+- '§7If you lose your password, write the command:'
+- §e/recovery <Email>
+- §7A new password will be sent to your email
+GUI_HELP_ITEM_4_NAME: §bAccount security
 GUI_HELP_ITEM_5_LORE:
-- §7We have a skin system
-- §7that allows you to install
-- §7any skin of any player if you have a premium account
+- §7There is a skin system on our server
+- §7which allows you to install a skin
+- §7of any player with a license
 - ''
-- §e/skin <player> §7- Set the skin of a player
-- §e/skin reset §7- Reset your skin
+- §e/skin <nickname> §7- Set player skin
+- §e/skin reset §7- Get your skin back
 - ''
-- §7Skin changes immediately. You do not
-- §7need to relog
+- §7The skin changes immediately. Re-login
+- §7is not needed!
 - ''
-- §cATTENTION! We are using
-- §cely.by skin system
-GUI_HELP_ITEM_5_NAME: §bSkin set
+- §cATTENTION! We use a skin
+- §csystem ely.by
+GUI_HELP_ITEM_5_NAME: §bSkin installation
 GUI_HELP_ITEM_6_LORE:
-- §7If you want to write a specific
-- §7message to a specific player, then
-- §7use the command
-- §e/msg <players> <message>
-- §7For a quick response to the received message
-- §7you can use the command
-- §e/reply <message>
+- §7If you want to write a specific message
+- §7to a certain player, then
+- §7use command
+- §e/msg <nickname> <Message>
+- §7For a quick reply to a message,
+- §7you can use command
+- §e/reply <Message>
 - ''
-- §7If you do not want to receive
-- §7personal messages from a certain
-- §7player, then disable it
-- '§7By writing a command in chat: §e/ignore <player>'
+- §7If you don't want to receive
+- §7private messages from a certain
+- §7player, then turn off the his ability
+- '§7to write to you: §e/ignore <nickname>'
 - ''
-- §e/ignorelist §7- List of all
-- §7blocked players
+- §e/ignorelist §7- List of all the players
+- §7you blocked
 GUI_HELP_ITEM_6_NAME: §bCommunication
 GUI_HELP_ITEM_7_LORE:
-- '§7Server Address: §eplay.lastcraft.net'
+- '§7Server address: §eplay.lastcraft.net'
 - ''
-- '§7VK community: §fvk.com/lastcraft'
+- '§7Vkontakte group: §fvk.com/lastcraft'
 - ''
 - '§7Website: §flast-craft.com'
-- '§7Forum: §flastcraft.net'
 - ''
-- '§7E-mail: §dsupport@lastcraft.net'
+- '§7Email: §dsupport@lastcraft.net'
 GUI_HELP_ITEM_7_NAME: §bLinks
-GUI_HELP_ITEM_8_NAME: §bAwards for victory
+GUI_HELP_ITEM_8_LORE:
+- §7Playing on the server modes,
+- §7you can get coins and XP
+- §7which you can spend on buying
+- §7upgrades and packs in the game,
+- §7as well as on opening cases and other goodies
+- ''
+- §7Donators have an advantage over
+- §7usual players as they can get
+- §7many more coins with the help of multiplier
+- ''
+- '§fAvailable multipliers:'
+- ' §8▪ §e§lGOLD §7и §b§lDIAMOND §7- §e1.5x'
+- ' §8▪ §a§lEMERALD §7- §e1.75x'
+- ' §8▪ §c§lMAGMA §7и §7§lSHULKER- §e2.0x'
+- ''
+- §7Privileges can be purchased
+- §7at§d www.last-craft.net
+GUI_HELP_ITEM_8_NAME: §bVictory rewards
 GUI_HELP_ITEM_9_LORE:
 - §7If you want to play with friends,
-- §7this option (§cparty§7) special for you.
-- §7When party leader go to some
-- §7arena, everyone party members automatically
-- §7teleport to him.
+- §7then this option (§cparty§7) is especially for you.
+- §7As soon as the leader of the group enters some
+- §7arena, all group members will be
+- §7teleported there automaticaly.
 - ''
-- '§7To create your party '
-- §7You can write §e/party <nickname>
-- §7After you can invite
-- §7into party others players.
+- '§7To create your own group, '
+- §7write §e/party <nickname>
+- §7after that you can invite
+- §7other players there.
 - ''
-- §7If you want to leave party,
+- §7If you want to leave the group,
 - §7write §e/party leave
 - ''
-- §cATTENTION! Maximum amount party
-- §cmembers no more 10 people!
-GUI_HELP_ITEM_9_NAME: §bCollective game
+- §cATTENTION! Maximum number of members
+- §cof a group is no more than 10 people!
+GUI_HELP_ITEM_9_NAME: §bКоллективная игра
 GUI_HELP_NAME: Information
-GUI_LOBBY_FRIEND_MAX: §7and  others...
+GUI_LOBBY_FRIEND_MAX: §7and others...
 GUI_LOBBY_ON:
 - ''
 - §7You are here
-GUI_LOBBY_SELECTOR: Lobby selection
+GUI_LOBBY_SELECTOR: Choose lobby

@@ -1,56 +1,73 @@
-ALREADY_BANNED: '%s §cis already banned'
-ALREADY_MUTED: '%s §cis already muted'
+ALREADY_BANNED: §cErorr, player %s §cis already banned
+ALREADY_MUTED: §cPlayer %s §cis already muted
+BANINFO_BAN_MESSAGES:
+- ' '
+- §cPlayer banned by %s %s
+- ' §e• §fReason: §a%s'
+- ' §e• §fTime: §a%s'
+- ' §e• §fBan date: §a%s'
 BANINFO_FORMAT: /baninfo <nickname>
-BANINFO_MESSAGE: '§cModeration §8| §fData about punishment for %s:'
+BANINFO_MESSAGE: '§cModeration §8| §fPenalty data for %s:'
+BANINFO_MUTE_MESSAGES:
+- ' '
+- §cPlayer muted by %s %s
+- ' §e• §fReason: §a%s'
+- ' §e• §fTime: §a%s'
+- ' §e• §fMute day: §a%s'
 BANS_PLAYERIP: IP address
 BANS_PLAYERNAME: player
-BAN_FORMAT: /ban <player name> <time/e> <reason>
-BAN_HISTORY_CAPTION: '§cAdministration §8| §fPunishment history: (§a%s pieces§f)'
-BAN_HISTORY_EMPTY: §cPunishment history is empty.
-BAN_HISTORY_FORMAT: /history <player name> <BAN/MUTE>
-BAN_REQUESTS_EMPTY: §cWaiting request on block not have.
-BAN_REQUEST_ALREADY_SENT: §cLock request this player already sent, waiting solutions
+BAN_FORMAT: /ban <nickname> <time> <reason>
+BAN_HISTORY_CAPTION: '§cAdministration §8| §fBan history loaded: '
+BAN_HISTORY_EMPTY: §cBan history is empty
+BAN_HISTORY_FORMAT: /history <nickname> <BAN/MUTE>
+BAN_HISTORY_QUEUED: §cAdministration §8| §fYour request is in the queue. Please wait...
+BAN_REQUESTS_EMPTY: §cThere are no pending ban requests.
+BAN_REQUEST_ALREADY_SENT: §cThe request to block this player has already been sent,
+  please wait
 BAN_REQUEST_LIST_GUI_ITEM_LORE:
 - ' '
-- '§7Nickname breaker-rules: §c%s'
-- '§7Time: §a%s'
+- '§7Violator''s nickname: §c%s'
+- '§7Term: §a%s'
 - ' '
-- '§7Reason block:'
+- '§7Ban reason:'
 - §a%s
 - ' '
-- §e▸ LMB, to accept request
-- §e▸ RMB, to reject request
+- §e▸ LMC, to accept the request
+- §e▸ RMC, to decline the request
 BAN_REQUEST_LIST_GUI_ITEM_NAME: §eRequest from %s
-BAN_REQUEST_LIST_GUI_MAIN: Waiting request on blocked
+BAN_REQUEST_LIST_GUI_MAIN: Ban requests are pending
 BAN_REQUEST_LIST_GUI_MAIN_LORE:
 - ' '
-- '§7Total requests: §e%s'
-BAN_REQUEST_NOT_FOUND: §cRequest with this ID not found or already closed
-BAN_REQUEST_REJECTED: §aRequest on block reject.
-BAN_REQUEST_SENT: §eYour lock request on this player sent to all online-moderators
-DEFAULT_BAN_TIME_SET: §cYou enter not valid time
-DEFAULT_MUTE_TIME_SET: §cYou enter not valid time
-DONT_HAVE_BANS_AND_MUTES: §cHas no ban or mute
-HISTORY_ENTRY: ' §f- §7Admin: §c%s §8| §7Reason: §c%s §8| §7Date: §c%s'
-KICK_DISCONNECT: '§cYou were thrown from the server\n\n§fThrew: §7%s\n§freason: §7%s'
-KICK_FORMAT: /kick <player name> <reason>
-MUTE_FORMAT: /mute <player name> <time/e> <reason>
-NOT_BANNED: '%s §cis not banned'
-NOT_MUTED: '%s §cis not muted'
-UNBAN_FORMAT: /unban <player name/ip>
-UNMUTE_FORMAT: /unmute <player name>
+- '§7Requests in total: §e%s'
+BAN_REQUEST_NOT_FOUND: §cRequest with this ID was not found or has already been closed
+BAN_REQUEST_REJECTED: §aBan request is rejected.
+BAN_REQUEST_SENT: §eYour request to block this player has been sent to all online
+  moderators
+DEFAULT_BAN_TIME_SET: §cYou entered an incorrect time
+DEFAULT_MUTE_TIME_SET: §cYou entered an incorrect time
+DONT_HAVE_BANS_AND_MUTES: §cNeither banned not muted
+HISTORY_ENTRY: ' §f- §7Administrator: §c%s %s §8| §7Reason: §c%s §8| §7Date: §c%s'
+KICK_DISCONNECT: '§cYou were kicked out from the server\n\n§fKicked: §7%s\n§fReason:
+  §7%s'
+KICK_FORMAT: /kick <nickname> <reason>
+MUTE_FORMAT: /mute <nickname> <time> <reason>
+NOT_BANNED: '%s §cnot banned'
+NOT_MUTED: §cPlayer's chat %s §cis not blocked
+TOO_BIG_BANTIME: §cError, you cannot punish for such a period
+UNBAN_FORMAT: /unban <nickname/ip>
+UNMUTE_FORMAT: /unmute <nickname>
 YOU_ARE_MUTED:
 - §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-- ' §cAccess to the chat has been blocked for %s'
+- ' §cAccess to the chat was banned because of %s'
 - ''
-- ' §7Before the expiration left §c%s'
-- ' §7Blocked: §c%s'
+- ' §7Time before expiration §c%s'
+- ' §7Banned: §c%s'
 - ''
-- ' §7Appeal a punishment can on forum:'
-- ' §b§nwww.lastcraft.net'
+- ' §7You can appeal the punishment in the VK group:'
+- ' §b§nvk.com/lastcraft'
 - §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 YOU_CANT_BANHIM: §cYou cannot punish this player
 YOU_CANT_BANIP: §cYou cannot ban players by IP
-YOU_CANT_PUNISH_HIM: §cError, You cannot punish this player
-YOU_CANT_UNMUTE_HIM: §cError! You cannot unmute this player
-YOU_WERE_UNMUTED: §6Server §8| §fAccess to the chat was restored! You again can speak!
+YOU_CANT_PUNISH_HIM: §cError, you cannot punish this player
+YOU_CANT_UNMUTE_HIM: §cError! You cannot remove the chat ban from this player
+YOU_WERE_UNMUTED: §6Server §8| §fChat access has been restored! You can talk again!

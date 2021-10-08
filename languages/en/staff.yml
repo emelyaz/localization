@@ -1,46 +1,57 @@
 BANSTAT_FORMAT: /banstat <nickname> <start date> <end date>
-BROADCAST_INFRACTION_ACCEPTED: §cModeration §8| §7%s §aaccepted §7lock request §e%s
-BROADCAST_INFRACTION_REJECTED: §cModeration §8| §7%s §creject §7lock request §e%s
-BROADCAST_UNBAN: §cModeration §8| §f%s §7has unbanned %s
-CRASH_ERROR_YOU: §cYou cannot crash yourself
-CRASH_FORMAT: /crash <nickname>
-CRASH_PLAYER: §fYou have crashed the player %s
-GROUP_CHANGES_BROADCAST: §cModeration §8| §f%s §7has updated donate group of %s
+BROADCAST_BAN: '§cModeration §8| §7%s §7abanned %s §a%s §7for §с%s §7due to '
+BROADCAST_INFRACTION_ACCEPTED: §cModeration §8| §7%s §approved §7the request to ban
+  §e%s
+BROADCAST_INFRACTION_REJECTED: §cModeration §8| §7%s §cdeclined §7the request to ban
+  §e%s
+BROADCAST_KICK: '§cModeration §8| §f%s §7kicked out §a%s §7due to '
+BROADCAST_MUTE: '§cModeration §8| §f%s §7banned the chat %s §с%s §7on §с%s §7due to '
+BROADCAST_UNBAN: §cModeration §8| §f%s §7unbanned %s
+BROADCAST_UNMUTE: §cModeration §8| §f%s §7unbanned player chat %s
+CRASH_ERROR_YOU: §cYou can't crash yourself
+CRASH_FORMAT: /crash <player's nickname>
+CRASH_PLAYER: §fYou crashed a player %s
+GROUP_CHANGES_BROADCAST: §cModeration §8| §f%s §7updated the player's donate group
+  %s
 GROUP_COMMAND_HELP:
-- '§6Groups §8| §fHelp:'
-- §7/group clear <player name>§f - reset player rank to default
-- §7/group migrate <first name> <another name>§f - migrate players groups
-- §7/group set <player name> <rank> §f- update rank
-GROUP_INVALID: '§cYou entered invalid group. Available ranks: §fDEFAULT, GOLD, DIAMOND,
-  EMERALD, MAGMA, SHULKER'
-GROUP_PLAYER_ALREADY_DEFAULT: §cThis player is not donater
-GROUP_PLAYER_GROUP_CHANGED: §e%s§es §egroup set to %s
-GROUP_SET_FORMAT: /group set <player name> <rank>
+- §7/group clear <nickname>§f - withdrawal of privilege
+- §7/group migrate <old nickname> <new nickname>§f - transfer of privilege
+- §7/group set <> <donate group> §f- update the privilege
+GROUP_INVALID: '§cYou entered the wrong group. Available groups: §fDEFAULT, GOLD,
+  DIAMOND, EMERALD, MAGMA, SHULKER'
+GROUP_PLAYER_ALREADY_DEFAULT: §cThis player has no privilege
+GROUP_PLAYER_GROUP_CHANGED: §ePlayer %s §ehas received a privilege %s
+GROUP_SET_FORMAT: /group set <nickname> <donate group>
 MODERATOR_STAT:
-- §6Statistic §8| §fInformation about %s §fat §e%s -> %s
+- §6Statistics §8| §fInformation about %s §ffor §e%s -> %s
 - ' §e• §fTotal bans: §a%s'
 - ' §e• §fTotal mutes: §a%s'
-STAFFCHAT_DISABLED: §cModeration §8| §f%s §7is no longer see staff chat
-STAFFCHAT_ENABLED: §cModeration §8| §f%s §7now sees staff chat
+STAFFCHAT_DISABLED: §cModeration §8| §f%s §7now does not see staff chat
+STAFFCHAT_ENABLED: §cModeration §8| §f%s §7sees staff chat again
 STAFFCHAT_FORMAT: /staffchat <message>
 STAFFCHAT_MSG: §eStaff chat §8| §f%s §8» §f%s
-STAFF_CONNECTED: §cModeration §8| §7%s §7joined to the server %s
+STAFF_CONNECTED: §cModeration §8| §7%s §7entered server from %s
 STAFF_CONNECTED_IP: '[IP: %s]'
 WHOIS_FORMAT: /whois <nickname>
-WHOIS_LINES_1: §eInfo about player %s
-WHOIS_LINES_2: ' §f- Player ID: §a%s'
-WHOIS_LINES_3: ' §f- Rank: §a%s'
+WHOIS_LAST_IP: ' §f- Last IP: §a%s'
+WHOIS_LAST_SERVER: ' §f- Last server: §a%s'
+WHOIS_LINES_1: §ePlayer information %s
+WHOIS_LINES_2: ' §f- Player''s ID: §a%s'
+WHOIS_LINES_3: ' §f- Privilege: §a%s'
+WHOIS_LINES_3_1: ' §f- Ending: §a%s'
 WHOIS_LINES_4: ' §f- Language: §a%s'
 WHOIS_LINES_5: ' §f- Server data: §a%s'
 WHOIS_LINES_6: ' §f- Version: §a%s'
-WHOIS_OFFLINE_LINES_1: ' §f- Last seen §e%s ago'
+WHOIS_OFFLINE_LINES_1: ' §f- Last seen online §e%s ago'
+WHOIS_ONLINE_ACCOUNT: ' §f- Accounts from this address: §a%s'
 WHOIS_ONLINE_LINES_1: ' §f- IP address: §a%s'
-WHOIS_ONLINE_LINES_2: ' §f- Proxy: §a%s'
+WHOIS_ONLINE_LINES_2: ' §f- Proxi: §a%s'
 WHOIS_ONLINE_LINES_3: ' §f- Server: §a%s'
-WHOIS_STATUS_OFFLINE: ' §c§lOffline now'
-WHOIS_STATUS_ONLINE: ' §a§lOnline now'
-YOU_CANT_CHANGE_DONATE: §cYou cannot change rank of this player
+WHOIS_SECTIONS: ' §f- Loaded player''s sections: §a%s'
+WHOIS_STATUS_OFFLINE: ' §c§lPlayer is offline'
+WHOIS_STATUS_ONLINE: ' §a§lNow online'
+YOU_CANT_CHANGE_DONATE: §cYou cannot manage the privileges of this player
 YOU_CANT_CHANGE_PRIORITY:
-- §c▸ Cannot change priority this rank
-YOU_DISABLED_STAFFCHAT: §cYou turned off staff chat. To write a message type /sc toggle
-  to enable it
+- §c▸ The priority of this rank cannot be changed
+YOU_DISABLED_STAFFCHAT: §cYou have disabled staff chat. To write there, write /sc
+  toggle

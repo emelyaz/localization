@@ -1,34 +1,58 @@
-EXP_REWARD_LOCALE: ' §7+ §a%s §fexperience'
-GET_REWARD: §7Go to the profile to get your reward
-LEVEL_REWARD_ANTICHEAT: §8+ §7Immune to some anti-cheat tests
+EXP_LORE_REWARD_LOCALE: §8 • §fXP §7(from §a%s §7to §a%s§7)
+EXP_REWARD_LOCALE: ' §7+ §a%s §fXP'
+GET_REWARD: §7Go to your profile to claim your reward
+GOLD_LORE_REWARD_LOCALE: §8 • §fGold §7(§e%s §7%s)
+GOLD_REWARD_LOCALE: ' §7+ §e%s §f%s'
+KEYS_LORE_REWARD_LOCALE: §8 • §f%s §7(from §d%s§7 to §d%s§7)
+KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
+KEY_LORE_REWARD_LOCALE: §8 • §f%s §7(§d%s§7)
+LEVELING_LOAD_LORE:
+- §7Information about your levels is loading
+- §7or there are no awards at all...
+LEVELING_LOAD_NAME: §cInformation is loading...
+LEVELING_WAIT_REWARD: §6Server §8| §fYou have §a%s§f awards that you did not collect.
+  To pick them up, write §7/profile§f and go to the §blevel tab
+LEVEL_REWARD_ANTICHEAT: §8+ §7Immunity to some anticheat checks!
+LEVEL_REWARD_CASINO: §8+ §7Access to casino in a group §9VK §fvk.com/lastcraft
 LEVEL_REWARD_COSMETIC: §8+ %s §7game cosmetics
 LEVEL_REWARD_GADGET: §8+ %s §7gadget
+LEVEL_REWARD_HOLO: Reward available for %s day
 LEVEL_REWARD_LORE1:
-- '§7When you reach level §f%s §7, you recieve:'
+- '§7For reaching §f%s §7level you''ll get:'
 LEVEL_REWARD_LORE2:
 - ' '
-- §e▸ Claim reward
-LEVEL_REWARD_NAME: Reward while reaching level %s
-LEVEL_REWARD_SENDMONEY: §8+ §7Send and recieve coins using §f/sendmoney
+- §e▸ Get an award
+LEVEL_REWARD_NAME: Reward for %s level
+LEVEL_REWARD_SENDMONEY: §8+ §7Receive and send money through §f/sendmoney
+LEVEL_REWARD_VK: §8+ §7Write offline to the player who is tied to §9VK
+MONEY_LORE_REWARD_LOCALE: §8 • §fCoins §7(from §6%s §7to §6%s§7)
+MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
 REWARD_CLICK_TO_CLAIM:
 - ' '
-- ' §e▸ Click, to claim reward'
-REWARD_DONATE_ITEM: §eOnline-purchase
+- ' §e▸ Click to get your reward'
+REWARD_DONATE_ITEM: §eOnline shopping
 REWARD_DONATE_ITEM_LORE:
 - ' '
-- §7If available rewards no,
-- §7a coins or keys very
-- §7need, You can visit our
-- §7online-store and purchase it there
-- §dlast-craft.net
-REWARD_GUI_NAME: Reward
+- §7If there are no rewards available,
+- §7and the coins or keys are very
+- §7needed, you can visit our
+- §7online store and purchase them
+- §7here §dlast-craft.net
+REWARD_GUI_NAME: Rewards
 REWARD_HOLOGRAM:
-- §bReward
-- §7Click, to open
+- §bDaily rewards
+- §7Click to open
+REWARD_OTHER_DAY:
+- ' '
+- §cThis day hasn't come yet
+- ''
+- §8Visit the server %s %s
+- §8times in a row to earn this reward
 REWARD_YOU_CAN_CLAIM_IN:
 - ' '
-- '§7Can be get in:'
-- §e%s
+- ' §c▸ The award has already been received'
+REWARD_YOU_CAN_CLAIM_IN_TIME:
 - ' '
-- ' §c▸ Reward already claim'
-REWARD_YOU_GOT_REWARDS: '§fYou succesfuly got this rewards:'
+- '§7Can be received in:'
+- §e%s
+REWARD_YOU_GOT_REWARDS: '§fYou have successfully earned the following awards:'

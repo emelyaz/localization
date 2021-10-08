@@ -1,0 +1,4 @@
+DO_FORMAT: /do <message>
+ME_FORMAT: /me <message>
+ROLL_BROADCAST: §6Creative §8| §fPlayer %s §fhas received number §a%s §ffrom §e%s
+TRY_FORMAT: /try <message>

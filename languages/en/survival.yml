@@ -1,14 +1,315 @@
+PROTECTION_2_HELP:
+- §7/rg claim <region's name> §f- create a region
+- §7/rg remove <region's name> §f- delete a region
+- §7/rg list §f- list of your regions
+- §7/rg flag §f- flags settings
+- §7/rg addmember <region's name> <nickname> §f- add player to private
+- §7/rg removemember <region's name> <nickname> §f- remove player from private
+- §7/rg selection <название привата> §f- show private boundaries
+- §7/rg leave <название привата> §f- leave private
+PROTECTION_ACTION_YOU: §cYou cannot remove or add yourself to your private :/
+PROTECTION_ADDMEMBERALL_FORMAT: /rg addmemberall <nickname>
+PROTECTION_ADDMEMBER_2_FORMAT: /rg addmember <region's name> <nickname>
+PROTECTION_ADDMEMBER_COMPLETE: §fPlayer %s §fhas been added to your private §7%s
+PROTECTION_ADDMEMBER_COMPLETE_ERROR: §fPlayer %s §fhas been added to your private
+  §7%s
+PROTECTION_ADDMEMBER_COMPLETE_TARGET: §fYou have been added to private §7%s
+PROTECTION_ADDMEMBER_COMPLETE_TO: §fPlayer %s §fhas been added to private §7%s by
+  player %s
+PROTECTION_ADDMEMBER_FORMAT: /rg addmember <nickname>
+PROTECTION_ADDMEMBER_LIMIT: §cError, you have exceeded the limit on the number of
+  participants in your private(%s), the number of participants should not exceed %s
+PROTECTION_ADDMEMBER_REQUEST: §fRequest to add to private has been sent to the player
+  %s
+PROTECTION_ADDMEMBER_REQUEST_1: ' %s §fwants to add you to private'
+PROTECTION_ADDMEMBER_REQUEST_ERROR: §cNo pending requests
+PROTECTION_ADDMEMBER_REQUEST_ERROR2: §cNo pending requests from player %s
+PROTECTION_ADDMEMBER_TARGET_LIMIT: §6Anarchy §8| §cError, you have exceeded the limit
+  of privates, you cannot own more than §a%s§f privates
+PROTECTION_BREAK_BY: §6Anarchy §8| §fPrivate §7%s §fwas destroyed with §7%s
+PROTECTION_BUY_EFFECT: §6Anarchy §8| §fPlayer %s §fbought effect §a%s §funtil §7%s
+PROTECTION_BUY_FLAG: §6Anarchy §8| §fPlayer %s §fbought a flag §a%s §funtil §7%s
+PROTECTION_CHANGE_STATE_EFFECT: §6Anarchy §8| §fPlayer %s %s§f effect §a%s
+PROTECTION_CLAIM_ERROR: §cError, no points are specified to create a region
+PROTECTION_CLAIM_FORMAT: /rg claim <region's name>
+PROTECTION_CREATE: §fThe region has been successfully created. Write §7/ps add <nickname>§f
+  to add a friend or to §7/ps list §fmanage the region. §cThe private block can be
+  destroyed with an explosion!
+PROTECTION_CREATE_2: §fThe region has been successfully created. Write §7/rg add %s
+  <nickname>§f to add a friend or to §7/rg list §fmanage the region.
+PROTECTION_CREATE_BLOCK_LIMIT_ERROR: §fError, you cannot create a region where there's
+  more than §a%s§f blocks (You have §c%s§f)
+PROTECTION_CREATE_INTERSECTS_ERROR: §cError, your region overlaps with other regions,
+  try elsewhere
+PROTECTION_CREATE_LIMIT_ERROR: §fError, you cannot create more than §с%s§f privates
+PROTECTION_EFFECTS_GUI_NAME: Effects
+PROTECTION_EFFECT_DISABLED: §cdisabled
+PROTECTION_EFFECT_DISABLE_LORE:
+- ''
+- '§7Coin price: §a%s §f(%s)'
+- §cRe-purchase will update the time!
+- ''
+- '§7For private members: %s'
+- '§7Status: %s'
+- ''
+- '§7This effect expires:'
+- '%s'
+- ''
+- §e▸ RMC to update time
+- §e▸ LMC to disable the effect
+PROTECTION_EFFECT_ENABLED: §aenabled
+PROTECTION_EFFECT_ENABLE_ERROR: §6Anarchy §8| §fSorry, but you cannot activate this
+  effect, the limit of your private on the number of effects §7%s
+PROTECTION_EFFECT_ENABLE_LIMIT_LORE:
+- ''
+- '§7Coin price: §a%s §f(%s)'
+- §cRe-purchase will update the time!
+- ''
+- '§7For private members: %s'
+- '§7Status: %s'
+- ''
+- '§7This effect expires:'
+- '%s'
+- ''
+- §cYou cannot activate this effect
+- §cYou have exceeded the limit
+- §c on the number of activated effects
+PROTECTION_EFFECT_ENABLE_LORE:
+- ''
+- '§7Coin price: §a%s §f(%s)'
+- §cRe-purchase will update the time!
+- ''
+- '§7For private members: %s'
+- '§7Status: %s'
+- ''
+- '§7This effect expires:'
+- '%s'
+- ''
+- §e▸ RMC to update time
+- §e▸ LMC to disable the effect
+PROTECTION_EFFECT_LORE:
+- ''
+- '§7Coin price: §a%s §f(%s)'
+- §cThis effect is not available to you!
+- ''
+- '§7For private members: %s'
+- ''
+- §e▸ RMC to buy for coins
+PROTECTION_EFFECT_NOT_OPEN: §6Anarchy §8| §fThis effect is not available to you, buy
+  it!
+PROTECTION_END: §6Anarchy §8| §cError, it is forbidden to put privates in the End
 PROTECTION_FLAGS_GUI_NAME: Flags
-PROTECTION_FLAG_DISABLED: §6Anarchy §8| §fThis region has a §a%s flag
-PROTECTION_MEMBERS_GUI_NAME: Участники
+PROTECTION_FLAG_ANTI_TNT_LORE:
+- ''
+- §7Prohibits TNT Explosion to
+- §7break blocks in the region
+PROTECTION_FLAG_ANTI_TNT_NAME: Anti dynamite
+PROTECTION_FLAG_DISABLED: §6Anarchy §8| §fThe flag is activated in this region §a%s
+PROTECTION_FLAG_ENTITY_LORE:
+- ''
+- §7Prevents other players from
+- §7damaging any creatures
+PROTECTION_FLAG_ENTITY_NAME: Animal protection
+PROTECTION_FLAG_FORMAT: /rg flag <region's name>
+PROTECTION_FLAG_HORUS_LORE:
+- ''
+- §7Prevents players
+- §7who are not region members
+- §7from using Horus and Endpearls
+PROTECTION_FLAG_HORUS_NAME: Horus protection
+PROTECTION_FLAG_LORE:
+- ''
+- '§7Coin price: §a%s §f(%s)'
+- '§7Gold price: §e%s §f(%s)'
+- ''
+- '§7This flag expires:'
+- '%s'
+- ''
+- §e▸ LMC to buy for coins
+- §e▸ RMC to buy for gold
+PROTECTION_FLAG_NOT_USED: You are not authorized to use this flag. Private owner should
+  be %s §for higher
+PROTECTION_FLAG_NOT_USED_GUI:
+- §cAvailable for %s §cor higher
+- §c(the owner of the island must have it)
+PROTECTION_FLAG_PROTECTION_ALL_LORE:
+- ''
+- §7Your private block is not possible
+- §7to destroy in any way
+PROTECTION_FLAG_PROTECTION_ALL_NAME: Maximum protection
+PROTECTION_HELP:
+- §7/rg list §f- list of your regions
+- §7/rg accept <nickname> §f- accept request to add to private
+- §7/rg addmember <nickname> §f- add player to private §c(you have to be a member
+  of the private)
+- §7/rg removemember <nickname> §f- remove player from private §c(you have to be a
+  member of the private)
+- §7/rg addmemberall <nickname> §f- add a player to all your privates
+- §7/rg removememberall <nickname> §f-remove a player from all your privates
+- §7/rg selection §f- show private boundaries §c(you have to be a member of the private)
+- §7/rg leave §f- leave private §c(you have to be a member of the private)
+PROTECTION_ITEM_EMPTY_NAME: §cYou do not have any privates available.
+PROTECTION_ITEM_LORE:
+- ''
+- '§7Owner: %s'
+- §7Members §a%s§7/§c%s
+- '§7Dimensions: §a%s§7x§a%s§7x§a%s'
+- '§7Creation date: §f%s'
+- '§7Central block coordinates:'
+- ' §7World: §c%s'
+- ' §7X: §c%s'
+- ' §7Y: §c%s'
+- ' §7Z: §c%s'
+PROTECTION_ITEM_LORE2: §e▸ LMC to manage the region
+PROTECTION_LEAVE: §6Anarchy §8| §fYou left private §7%s
+PROTECTION_LEAVE_FORMAT: /rg leave <region's name>
+PROTECTION_LEAVE_LORE:
+- ''
+- §7Do you want to leave the region?
+- ''
+- §e▸ Click to leave the region
+PROTECTION_LEAVE_NAME: Leave region
+PROTECTION_LEAVE_OWNER_ERROR: §cYou cannot leave your own private
+PROTECTION_LEAVE_TO: §6Anarchy §8| §fPlayer %s §fleft private §7%s
+PROTECTION_MAIN_GUI_NAME: Region's settings
+PROTECTION_MEMBERS_GUI_NAME: Members
+PROTECTION_MEMBER_LORE:
+- ''
+- '§7Became a member: §f%s'
+- '§7Rank: §7%s'
+- '§7Online: %s'
+- ''
+- §e▸ RMC to control the player
+PROTECTION_MEMBER_REMOVE_LORE:
+- ' '
+- §7Remove the member
+- §7and prohibit them from making any changes
+- §7to your private
+- ' '
+- §e▸ Click to remove a member
+PROTECTION_MEMBER_REMOVE_NAME: Remove a player
+PROTECTION_MEMBER_SETTINGS_OWNER: §6Anarchy §8| §cError, you cannot customize private
+  owner rights!
+PROTECTION_MEMBER_SET_RANK_ALERT: §6Anarchy §8| §fPlayer %s §fhas been assigned newprivate
+  management rights
+PROTECTION_NAME: Private
+PROTECTION_NAME_NOT_VALID: §cError, region name is too long or contains invalid symbols
+PROTECTION_NOT_OWNER: §cError, you are not the owner or co-owner of this private chat!
+PROTECTION_NOT_YOU: §cThis region does not belong to you
+PROTECTION_NO_LEAVE: §cYou cannot leave your own private
+PROTECTION_NO_PERMS: §cError, this action can only be done by the owner of the island
+PROTECTION_NO_PERMS_GROUP: §cError, you must have owner or co-owner rights
+PROTECTION_PROFILE_DEFAULT_FLAGS_LORE:
+- ' '
+- §7Setting flags for your private
+- ' '
+- §e▸ Click to open the menu
+PROTECTION_PROFILE_DEFAULT_FLAGS_NAME: Flags
+PROTECTION_PROFILE_EFFECTS_LORE:
+- ' '
+- §7Buying positive and negative
+- §7effects for your private
+- ' '
+- §e▸ Click to open the menu
+PROTECTION_PROFILE_EFFECTS_NAME: Effects
 PROTECTION_PROFILE_FLAGS_LORE:
 - ' '
-- §7Buy new flags
-- §7to upgrade your private
+- §7Buying additional flags
+- §7to improve your private
 - ' '
-- §e▶ Click, to open menu
-PROTECTION_PROFILE_FLAGS_NAME: Custom Flags
-PROTECTION_UPGRADE_SIDE_SUCCES: §6Anarchy §8| §fPrivate §7%s §fsuccesfully extended
-  to §a%s §fblocks by coordinates §7X §fи §7Z
-PROTECTION_UPGRADE_SIDE_SUCCES_TO: §6Anarchy §8| §fPrivate §7%s §fextended to §a%s
-  §fblocks by coordinates §7X §fи §7Z §fby %s
+- §e▸ Click to open the menu
+PROTECTION_PROFILE_FLAGS_NAME: Custom flags
+PROTECTION_PROFILE_MEMBERS_LORE:
+- ' '
+- §7View all participants of the private
+- §7as well as detailed information about each of them
+- ' '
+- §e▸ Click to open the menu
+PROTECTION_PROFILE_MEMBERS_NAME: List of members of the private
+PROTECTION_PROFILE_UPGRADE_LORE:
+- ' '
+- §7Buying extensions for your private
+- ' '
+- §e▸ Click to open the menu
+PROTECTION_PROFILE_UPGRADE_NAME: Private extension
+PROTECTION_RANK_CO_OWNER:
+- ' '
+- '§7Available rights:'
+- §8• §7All rights of the participant
+- §8• §7Buying and installing custom flags
+- §8• §7Managing the rights of private participants
+- §8• §7Private extension
+- ' '
+PROTECTION_RANK_MEMBER:
+- ' '
+- '§7Available rights:'
+- §8• §7Interaction with private territory
+- ' '
+PROTECTION_REGIONS_ALL_COMMAND_NO_RG: §6Anarchy §8| §fRegions not found or you are
+  not their owner
+PROTECTION_REGIONS_COMMAND_NO_RG: §6Anarchy §8| §fNo regions found in this location
+  or you are not their owner/member
+PROTECTION_REGIONS_STICK: '§ePlayer''s region found: %s'
+PROTECTION_REGIONS_STICK_EMPTY: §eRegions not found
+PROTECTION_REGION_FOUND: §cError, a region with the same name already exists
+PROTECTION_REGION_LIST: Regions list
+PROTECTION_REGION_NULL: §cRegion not found
+PROTECTION_REMOVE: §fRegion successfully deleted
+PROTECTION_REMOVEMEMBERALL_FORMAT: /rg removememberall <nickname>
+PROTECTION_REMOVEMEMBER_2_FORMAT: /rg removemember <region's name> <nickname>
+PROTECTION_REMOVEMEMBER_COMPLETE: §fPlayer %s §fhas been rempved from the chat §7%s
+PROTECTION_REMOVEMEMBER_COMPLETE_ERROR: §fPlayer %s §fis not in the list of participants
+  of the private §7%s
+PROTECTION_REMOVEMEMBER_COMPLETE_TARGET: §fYou have been removed by a player %s §ffrom
+  the private §7%s
+PROTECTION_REMOVEMEMBER_COMPLETE_TO: §fPlayer %s §fhas been removed from the private
+  §7%s by player %s
+PROTECTION_REMOVEMEMBER_FORMAT: /rg removemember <nickname>
+PROTECTION_REMOVE_BY: §fYour private §7%s §fhas been deleted by player %s
+PROTECTION_REMOVE_FORMAT: /rg remove <region's name>
+PROTECTION_REMOVE_OWNER_ERROR: §fError, you cannot remove the private, because you
+  are not owner of the region
+PROTECTION_SELECTION_FORMAT: /rg selection <region's name>
+PROTECTION_SET_BED_ERROR: §6Anarchy §8| §cError, you cannot set the house point in
+  a foreign region
+PROTECTION_UPDATE_INTERSECTS_ERROR: §cError, your region overlaps with other regions,
+  you cannot expand your private
+PROTECTION_UPGRADE_FULL:
+- ''
+- §7You have used up all upgrades
+- §7of this private
+PROTECTION_UPGRADE_FULL_MESSAGE: §6Anarchy §8| §fError, you have maximum upgrade level
+PROTECTION_UPGRADE_GUI_NAME: Upgrades
+PROTECTION_UPGRADE_HELP_LORE:
+- ''
+- '§7Dimensions: §a%s§7x§a%s§7x§a%s'
+- '§7Upgrades availabel: §e%s§7/§c%s'
+PROTECTION_UPGRADE_HELP_NAME: Information
+PROTECTION_UPGRADE_NO_MONEY: §6Anarchy §8| §fError, you don't have enough money for
+  expansion purchases
+PROTECTION_UPGRADE_SIDE_LORE:
+- ' '
+- §7Extension of private by §fX §7and §fZ
+- §7by §f%s §7blocks
+- ''
+- '§7Price: §a%s$'
+- ''
+- §e▸ Click to upgrade
+PROTECTION_UPGRADE_SIDE_NAME: Extend by X and Z
+PROTECTION_UPGRADE_SIDE_SUCCES: §6Anarchy §8| §fPrivate §7%s §fis successfully expanded
+  by §a%s §fblocks by coordinates §7X §fand §7Z
+PROTECTION_UPGRADE_SIDE_SUCCES_TO: §6Anarchy §8| §fPrivate §7%s §fis expanded by §a%s
+  §fblocks by coordinates §7X §fand §7Z §fby player %s
+PROTECTION_UPGRADE_UP_LORE:
+- ' '
+- §7Extension of private by §fY
+- §7by §f%s §7blocks
+- ''
+- '§7Price: §a%s$'
+- ''
+- §e▸ Click to upgrade
+PROTECTION_UPGRADE_UP_NAME: Expand by Y
+PROTECTION_UPGRADE_UP_SUCCES: §6Anarchy §8| §fPrivate §7%s §fis successfully expanded
+  by §a%s §fblocks by coordinate §7Y
+PROTECTION_UPGRADE_UP_SUCCES_TO: §6Anarchy §8| §fPrivate §7%s §fis expanded by §a%s
+  §fblocks by coordinate §7Y §fby player %s

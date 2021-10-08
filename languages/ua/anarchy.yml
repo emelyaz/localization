@@ -1,1 +1,50 @@
+AIRDROP_APPLY_KEYS: §fКлючі %s
+AIRDROP_APPLY_LASTCRAFT_BOOK: §fЗачарована книга §7%s
+AIRDROP_APPLY_MONEY: §fМонети
+AIRDROP_APPLY_REGION_EFFECT: §fЕфект для регіонів §a%s
+AIRDROP_APPLY_START: '§6AirDrop §8| §fВи знайшли такі предмети:'
+AIRDROP_COLLECTED: §6AirDrop §8| %s §fЗнайшов і забрав §7Скриня з припасами
+AIRDROP_DISABLE_REGION: §6Anarchy §8| §fВи не можете приватизувати територію §7Скрині
+  з припасами
+AIRDROP_NEXT_SPAWN: §6AirDrop §8| §fНаступна §7Скриня з припасами §fвпаде в звичайному
+  світі через §7%s
+AIRDROP_SPAWN: '§6AirDrop §8| §7Скриня з §fвпала в звичайному світі на координатах
+  X: §a%s §fY: §a%s §fZ: §a%s'
+AIRDROP_SPAWN_TITLE: §eСкриня з припасами з'явилася!
+AIRDROP_TOP_HOLO:
+- §6§lТоп по зібраним скриням
+- §fТоп гравців по кількості
+- §fзібраних скринь
+AIRDROP_WAIT: '§6AirDrop §8| §7Скриня з припасами §fлежить в звичайному світі на координатах
+  X: §a%s §fY: §a%s §fZ: §a%s'
+AIRDROP_WAIT_SPAWN: '§6AirDrop §8| §7Скриня з припасами §fвпаде в звичайному світі
+  на координах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s'
+ANARCHY_BOX_GUI_NAME: Придбання ключів
+ANARCHY_DEATH_FRIEND: §6Anarchy §8| §fВаш друг %s §fзагиб у світі §7%s
+ANARCHY_HELP_GUI_NAME: Анархія
+ANARCHY_HOLOGRAM_AIRDROP:
+- §7Скриня з припасами §fпадає щогодини
+- '§fДо падіння залишилось:'
+ANARCHY_HOLOGRAM_AIRDROP_WAIT: §cОбчислюємо час до падіння...
+ANARCHY_HOLOGRAM_REGIONS:
+- §cУВАГА! §fРегіони, чиї власники
+- §fне заходять впродовж довгого часу, будуть
+- §cвидалені! §7(Тільки лише приват)
+ANARCHY_HOLOGRAM_REGIONS_ANIMATION: §fНа сервері §a%s§f активних регіонів
+ANARCHY_KEY: §aАнархічний ключ
+ANARCHY_KEY_LORE:
+- ''
+- §7Використовується для отримання
+- §7різних "наборів" і окремих предметів
 ANARCHY_KILL_MOB: §6+%s %s за вбивство моба
+ANARCHY_NO_MONEY: §6Anarchy §8| §fУ вас недостатньо §aмонет§f для покупки
+ANARCHY_SHULKER_BOX: §cПомилка, ви не можете продавати або переміщати шалкеброкс з
+  речами
+ANARCHY_TPA: §6Anarchy §8| §fНа режимі §cнемає телепортацій §fк гравцю. Знайти друга
+  можно по координатах, а також за допомогою §7/compass <координата x> <координата
+  z> §f(якщо у вас є компас)
+ANARCHY_TPPOS_LOBBY: §6Anarchy §8| §cЦя команда не доступна у світі спавна
+ANARCHY_TPPOS_NO_LOCATION: §cПомилка, не вдалось знайти відповідну локацію... Спробуй
+  ще раз!
+ANARCHY_WAND: §6Anarchy §8| §fПриват на сервері здійснюється за допомогою §eЗолотого
+  блока §7(10 во всі сторони від нього) §fабо §aСмарагдвої руди §7(25 во всі сторони)

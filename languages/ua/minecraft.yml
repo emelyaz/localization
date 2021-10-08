@@ -1,1 +1,463 @@
+ACACIA_LEAVES: Акацієве листя
+ACACIA_LOG: Акація
+ACACIA_SAPLING: Саженець акації
+ACACIA_WOOD: Акацієві дошки
+ANCIENT_DEBRIS: Стародавні уламки
+ARCTIC_ITEM_BOX_KIT: Заполяр'є
+AVIARIST_ITEM_BOX_KIT: Птахівник
+BAKED_POTATO: Печена картопля
+BAT_SPAWN_EGG: Яйце призову летючої-миші
+BEETROOT_SEEDS: насіння буряка
+BEETROOT_SOUP: Буряковий суп
+BEE_ITEM_BOX_KIT: Бджолобав
+BEE_NEST: Бджолине гніздо
+BEE_SPAWN_EGG: Яйце бджоли
+BIRCH_LEAVES: Березова листя
+BIRCH_LOG: Береза
+BIRCH_SAPLING: Саженець берези
+BIRCH_WOOD: Березові дошки
+BLACK_SHULKER_BOX: Чорний шалкер-бокс
+BLACK_WOOL: Чорна вовна
+BLAST_FURNACE: Плавильна піч
+BLAZE_POWDER: Порошок іфріту
+BLAZE_ROD: Стрижень іфріту
+BLUE_ICE: Синій лід
+BLUE_ORCHID: Синя орхідея
+BLUE_WOOL: Синяа вовна
+BOW_ITEM_BOX_KIT: Лучник
+BRAIN_CORAL: Мозковий корал
+BRAIN_CORAL_BLOCK: Мозковий корал
+BRAIN_CORAL_FAN: Віяловий корал-мозковик
+BREWING_STAND_ITEM: Зілляварка
+BROWN_BED: Коричневе ліжко
+BROWN_MUSHROOM: Коричневий гриб
+BROWN_MUSHROOM_BLOCK: Блок сірого гриба
+BROWN_WOOL: Коричнева вовна
+BUBBLE_CORAL: Пузирчастий корал
+BUBBLE_CORAL_BLOCK: Пузирчастий корал
+BUBBLE_CORAL_FAN: Віяловий пузирчастий корал
+CALLER_ITEM_BOX_KIT: Закликатель
+CARROT_ITEM: Морква
+CARTOGRAPHY_TABLE: Стіл картографа
+CARVED_PUMPKIN: Вирізаний гарбуз
+CATTLEMAN_ITEM_BOX_KIT: Моолодий скотар
+CAULDRON_ITEM: Котел
+CAVE_SPIDER: Печерний павук
+CHAINMAIL_BOOTS: Кольчужні черевики
+CHAINMAIL_CHESTPLATE: Кольчуга
+CHAINMAIL_HELMET: Койф
+CHAINMAIL_LEGGINGS: Кольчужні поножи
+CHARMER_ITEM_BOX_KIT: Чарователь
+CHICKEN_SPAWN_EGG: Яйце призову курки
+CHISELED_STONE_BRICKS: Різьблені кам'яні цеглини
+CHORUS_FLOWER: Квітка хоруса
+CHORUS_FRUIT: Плід хоруса
+CHORUS_FRUIT_POPPED: Приготований плід хоруса
+COAL_BLOCK: Вугільний блок
+COAL_ITEM_BOX_KIT: Вугільне диво
+COAL_ORE: Вугільна руда
+COCOA_BEANS: Какао боби
+COOKED_BEEF: Стейк
+COOKED_CHICKEN: Смажена курка
+COOKED_COD: Готовая тріска
+COOKED_FISH: Приготована риба
+COOKED_MUTTON: Смажена баранина
+COOKED_PORKCHOP: Готове м'ясо
+COOKED_RABBIT: Смажена кролятина
+COOKED_SALMON: Готовий лосось
+COOK_ITEM_BOX_KIT: Повар
+COW_SPAWN_EGG: Яйце призову корови
+CRACKED_NETHER_BRICKS: Потріскані цеглини пекла
+CRACKED_POLISHED_BLACKSTONE_BRICKS: Потріскані чернітні цеглини
+CRACKED_STONE_BRICKS: Потріскані кам'яні цеглини
+CRAFTING_TABLE: Верстат
+CREEPER_SPAWN_EGG: Яйце спавна кріпера
+CRIMSON_FUNGUS: Багряний гриб
+CRIMSON_NYLIUM: Багряний нілій
+CRIMSON_STEM: Багряне стебло
+CRYING_OBSIDIAN: Сумний обсидіан
+CYAN_DYE: Бірюзовий барвник
+CYAN_WOOL: Бірюзова вовна
+DAMAGE_POTION: Туманне зілля шкоди
+DARK_OAK_LEAVES: Листя темного дуба
+DARK_OAK_LOG: Темний дуб
+DARK_OAK_SAPLING: Саджанець темного дуба
+DARK_OAK_STAIRS: Сходинки з темного дуба
+DARK_OAK_WOOD: Дошки з темного дуба
+DARK_PRISMARINE: Темний прізмарін
+DAYLIGHT_DETECTOR: Сонячна панель
+DEAD_BUSH: Мертвий кущ
+DIAMOND_AXE: Діамантова сокира
+DIAMOND_BARDING: Діамантова броня
+DIAMOND_BLOCK: Діамантовий блок
+DIAMOND_BOOTS: Діамантові чоботи
+DIAMOND_CHESTPLATE: Діамантовий нагрудник
+DIAMOND_HELMET: Діамантовий шолом
+DIAMOND_HORSE_ARMOR: Діамантова броня для коня
+DIAMOND_LEGGINGS: Алмазні штани
+DIAMOND_ORE: Діамантова руда
+DIAMOND_PICKAXE: Діамантова кирка
+DIAMOND_SHOVEL: Діамантовая лопата
+DIAMOND_SPADE: Діамантова лопата
+DIAMOND_SWORD: Діамантовий меч
+DOLPHIN_SPAWN_EGG: Яйце дельфіна
+DONKEY_SPAWN_EGG: Яйце призову віслюка
+DOUBLE_PLANT: Квіти
+DRAGON_BREATH: Дихання дракона
+DRIED_KELP_BLOCK: Блок сушеної ламінарії
+EFFECT_ABSORPTION: Поглинання
+EFFECT_BLINDNESS: Сліпота
+EFFECT_CONDUIT_POWER: Морська сила
+EFFECT_CONFUSION: Нудота
+EFFECT_DAMAGE_RESISTANCE: Опір шкоді
+EFFECT_DOLPHINS_GRACE: Дельфіняча грація
+EFFECT_FAST_DIGGING: Поспіх
+EFFECT_FIRE_RESISTANCE: Вогнестійкість
+EFFECT_GLOWING: Світіння
+EFFECT_HARM: Моментальна шкода
+EFFECT_HEAL: Лікування
+EFFECT_HEALTH_BOOST: Приплив здоров'я
+EFFECT_HERO_OF_THE_VILLAGE: Герой села
+EFFECT_HUNGER: Голод
+EFFECT_INCREASE_DAMAGE: Сила
+EFFECT_INVISIBILITY: Невидимість
+EFFECT_JUMP: Стрибучість
+EFFECT_LEVITATION: Левітація
+EFFECT_LUCK: Удача
+EFFECT_NIGHT_VISION: Нічний зір
+EFFECT_POISON: Отруєння
+EFFECT_REGENERATION: Регенерація
+EFFECT_SATURATION: Насичення
+EFFECT_SLOW: Повільність
+EFFECT_SLOW_DIGGING: Утома
+EFFECT_SPEED: Швидкість
+EFFECT_UNLUCK: Невдача
+EFFECT_WATER_BREATHING: Підводне дихання
+EFFECT_WEAKNESS: Слабкість
+EFFECT_WITHER: Спрага
+EMERALD_BLOCK: Смарагдовий блок
+EMERALD_ITEM_BOX_KIT: Смарагдове диво
+EMERALD_ORE: Смарагдова руда
+ENCHANTING_TABLE: Стіл зачарувань
+ENCHANTMENT_ARROW_DAMAGE: Сила
+ENCHANTMENT_ARROW_FIRE: Палаюча стріла
+ENCHANTMENT_ARROW_INFINITE: Нескінченність
+ENCHANTMENT_ARROW_KNOCKBACK: Відкидання
+ENCHANTMENT_BINDING_CURSE: Прокляття нез'ємності
+ENCHANTMENT_DAMAGE_ALL: Гострота
+ENCHANTMENT_DAMAGE_ARTHROPODS: Біч членистоногих
+ENCHANTMENT_DAMAGE_UNDEAD: Небесна кара
+ENCHANTMENT_DEPTH_STRIDER: Підводна ходьба
+ENCHANTMENT_DIG_SPEED: Ефективність
+ENCHANTMENT_DURABILITY: Міцність
+ENCHANTMENT_FIRE_ASPECT: Змова вогню
+ENCHANTMENT_FROST_WALKER: Льодохід
+ENCHANTMENT_KNOCKBACK: Віддача
+ENCHANTMENT_LOOT_BONUS_BLOCKS: Удача
+ENCHANTMENT_LOOT_BONUS_MOBS: Добич
+ENCHANTMENT_LUCK: Морська удача
+ENCHANTMENT_LURE: Приманка
+ENCHANTMENT_MENDING: Починка
+ENCHANTMENT_OXYGEN: Підводне дихання
+ENCHANTMENT_PROTECTION_ENVIRONMENTAL: Захист
+ENCHANTMENT_PROTECTION_EXPLOSIONS: Захист від вибухів
+ENCHANTMENT_PROTECTION_FALL: Невагомість
+ENCHANTMENT_PROTECTION_FIRE: Вогнетривкість
+ENCHANTMENT_PROTECTION_PROJECTILE: Захист від снарядів
+ENCHANTMENT_SILK_TOUCH: Шовкове торкання
+ENCHANTMENT_SWEEPING_EDGE: Разючий клинок
+ENCHANTMENT_TABLE: Чародейский стіл
+ENCHANTMENT_THORNS: Шипи
+ENCHANTMENT_VANISHING_CURSE: Прокляття втрати
+ENCHANTMENT_WATER_WORKER: Спорідненість з водою
+ENDER_CHEST: Ендер-скриня
+ENDER_EYE: око Ендера
+ENDER_PEARL: Ендерлперл
+ENDER_PORTAL_FRAME: Рамка порталу в енд
+ENDER_STONE: Ендерняк
+END_CRYSTAL: Кристал енду
+END_ITEM_BOX_KIT: Край
+END_PORTAL_FRAME: Рамка порталу
+END_STONE: Камінь краю
+EXPERIENCE_BOTTLE: Пляшка з досвідом
+EXPLOSIVE_MINECART: Вагонетка з ТНТ
+EXP_BOTTLE: Бульбашки досвіду
+EYE_OF_ENDER: Око ендера
+FIRE_BALL: Вогняний шар
+FIRE_CHARGE: Вогняний заряд
+FIRE_CORAL: Вогняний корал
+FIRE_CORAL_BLOCK: Вогняний корал
+FIRE_CORAL_FAN: Віяловий вогняний коралл
+FISHING_ROD: Вудочка
+FLINT_AND_STEEL: Кресало
+FLOWER_POT_ITEM: Горщик
+FOX_SPAWN_EGG: Яйце лиси
+GARDENER_ITEM_BOX_KIT: Садівник
+GHAST_TEAR: Сльоза гаста
+GLISTERING_MELON_SLICE: Блискучий кавун
+GOLDEN_APPLE: Золоте яблуко
+GOLDEN_AXE: Золотий топор
+GOLDEN_CARROT: Золота морква
+GOLDEN_HOE: Золота мотика
+GOLDEN_HORSE_ARMOR: Золота броня для коня
+GOLDEN_PICKAXE: Золота кирка
+GOLDEN_SWORD: Золотий меч
+GOLD_AXE: Золота сокира
+GOLD_BARDING: Золота броня
+GOLD_BLOCK: Золотий блок
+GOLD_BOOTS: Золоті чоботи
+GOLD_CHESTPLATE: Золотий нагрудник
+GOLD_DATA: Золото
+GOLD_HELMET: Золотий шолом
+GOLD_HOE: Золота мотика
+GOLD_INGOT: Золотий злиток
+GOLD_LEGGINGS: Золоті штани
+GOLD_ORE: Золота руда
+GOLD_PICKAXE: Золота кирка
+GOLD_SWORD: Золотий меч
+GRASS_BLOCK: Дерн
+GRAY_WOOL: Сіра вовна
+GREEN_DYE: Зелений барвник
+GREEN_WOOL: Зелена вовна
+GRILLED_PORK: Свинина
+HARMONY_ITEM_BOX_KIT: Душевна гармонія
+HAY_BLOCK: Сніп сіна
+HEART_OF_THE_SEA: Серце моря
+HIDERS_FOUND_STAT: Тих, що ховаються не знайдено
+HONEYCOMB_BLOCK: Бджолині соти
+HONEY_BLOCK: Блок меду
+HONEY_BOTTLE: Пляшка з медом
+HORN_CORAL: Роговой коралл
+HORN_CORAL_BLOCK: Роговий корал
+HORN_CORAL_FAN: Віяловий роговий корал
+HORSE_SPAWN_EGG: Яйце призову коня
+HUGE_MUSHROOM_1: Гриби
+HUGE_MUSHROOM_2: Гриби
+INK_SAC: Чорнильний мешок
+INK_SACK: Барвник
+IRON_AXE: Залізна сокира
+IRON_BARDING: Залізна броня
+IRON_BLOCK: Залізний блок
+IRON_BOOTS: Залізні ботинки
+IRON_CHESTPLATE: Залізний нагрудник
+IRON_HELMET: Залізний шолом
+IRON_HOE: Залізна мотига
+IRON_HORSE_ARMOR: Залізна броня для коня
+IRON_INGOT: Залізний злиток
+IRON_LEGGINGS: Залізні штани
+IRON_ORE: Залізна руда
+IRON_PICKAXE: Залізна кирка
+IRON_SWORD: Залізний меч
+JACK_O_LANTERN: Світильник Джека
+JUMP_POTION_2: Зілля стрибучості II
+JUNGLE_LEAVES: Тропічне листя
+JUNGLE_LOG: Тропічне дерево
+JUNGLE_SAPLING: Сажанець тропічного дерева
+JUNGLE_WOOD: Тропічні доски
+LAPIS_LAZULI: Лазурит
+LAPIS_ORE: Лазуритовая руда
+LAVA_BUCKET: Відро лави
+LEATHER_BOOTS: Шкіряні ботинки
+LEATHER_CHESTPLATE: Шкіряний нагрудник
+LEATHER_HELMET: Шкіряний шолом
+LEATHER_LEGGINGS: Шкіряні штани
+LIGHT_BLUE_WOOL: Блакитна вовна
+LIGHT_GRAY_WOOL: Світло-сіра вовна
 LIGHT_PURPLE: Рожевий
+LILY_PAD: Латаття
+LIME_CONCRETE: Лаймовый бетон
+LIME_WOOL: Лаймова вовна
+LINGERING_POTION: Туманне зілля
+LLAMA_SPAWN_EGG: Яйце призову лами
+LOG_2: Дерево
+LOG_ITEM_BOX_KIT: Деревне диво
+LONG_GRASS: Рослинність
+MAGENTA_WOOL: Пурпурова вовна
+MAGMA_BLOCK: Блок магми
+MAGMA_CREAM: Згусток магми
+MAGMA_CUBE: Пекельний слимак
+MELON_BLOCK: Блок кавуна
+MELON_SEEDS: Насіння кавуна
+MELON_SLICE: Скибочка кавуна
+MILK_BUCKET: Відро з молоком
+MOB_SPAWNER: Спавнер
+MONSTER_EGG: Яйце спавна мобів
+MOOSHROOM_SPAWN_EGG: Яйце призову грибної-корови
+MOSSY_COBBLESTONE: Замшілий камінь
+MOSSY_STONE_BRICKS: Замшілі кам'яні цеглини
+MULE_SPAWN_EGG: Яйце призову мула
+MUSIC_DISC_PIGSTEP: Платівка пігмеї
+NAUTILUS_SHELL: Раковина наутилуса
+NEMOR_ITEM_BOX_KIT: Підводний довгожитель
+NETHERITE_AXE: Незерітова сокира
+NETHERITE_BOOTS: Незерітові чоботи
+NETHERITE_CHESTPLATE: Незерітовий нагрудник
+NETHERITE_HELMET: Незерітовий шолом
+NETHERITE_HOE: Незерітова мотига
+NETHERITE_INGOT: Незерітовий злиток
+NETHERITE_LEGGINGS: Незерітові штани
+NETHERITE_PICKAXE: Незерітова кирка
+NETHERITE_SHOVEL: Незерітова лопата
+NETHERITE_SWORD: Незерітовий меч
+NETHER_BRICK: Пекельна цегля
+NETHER_BRICKS: Пекельні цегли
+NETHER_GOLD_ORE: Незерська золота руда
+NETHER_ITEM_BOX_KIT: Пекельний
+NETHER_QUARTZ_ORE: Кварцова руда
+NETHER_STALK: Пекельний наріст
+NETHER_STAR: Зірка пекла
+NETHER_WART: Пекельний наріст
+NETHER_WART_BLOCK: Блок незерського наросту
+OAK_BOAT: Дубовий човен
+OAK_LEAVES: Лубове листя
+OAK_LOG: Дуб
+OAK_SAPLING: Саджанець дуба
+OAK_WOOD: Дубові дошки
+OBSIDIAN_ITEM_BOX_KIT: Обсидіанове диво
+ORANGE_TULIP: Помаранчевий тюльпан
+ORANGE_WOOL: Помаранчева вовна
+OTHER_ITEM_BOX_KIT: Різне
+PACKED_ICE: Щільний лід
+PANDA_SPAWN_EGG: Яйце панди
+PHANTOM_MEMBRANE: Мембрана фантома
+PIGLETS_ITEM_BOX_KIT: 2 порося і ситий вовк
+PIGLIN_SPAWN_EGG: Яйце пігліна
+PIG_SPAWN_EGG: Яйце призову свині
+PIG_ZOMBIE: Свінозомбі
+PINK_TULIP: Рожевий тюльпан
+PINK_WOOL: Рожева вовна
+PISTON_BASE: Поршень
+POISONOUS_POTATO: Отруйна картопля
+POLAR_BEAR_SPAWN_EGG: Яйце призову ведмедя
+POLISHED_BASALT: Полированный базальт
+POPPED_CHORUS_FRUIT: Прожаренный плод хоруса
+POTATO_ITEM: Картопля
+PRISMARINE_BRICKS: Прізмарінові цеглини
+PUMPKIM_PIE: Гарбузовий пиріг
+PUMPKIN_PIE: Гарбузовий пиріг
+PUMPKIN_SEEDS: Насіння гарбуза
+PURPLE_SHULKER_BOX: Фіолетовий шалкер-бокс
+PURPLE_WOOL: Фіолетова вовна
+PURPUR_BLOCK: Пурпуровий блок
+PURPUR_PILLAR: Пурпуровий пілон
+QUARTZ_BLOCK: Кварцовий блок
+RABBIT_HIDE: Кроляча шкурка
+RABBIT_SPAWN_EGG: Яйце призову кролика
+RAICING_ITEM_BOX_KIT: Майстер скачок
+RAW_BEEF: Сире м'ясо
+RAW_CHICKEN: Сира курка
+RAW_FISH: Сира риба
+REDSTONE_LAMP: Редстоун ліхтар
+REDSTONE_ORE: Редстоунова руда
+RED_BED: Червоне ліжко
+RED_CARPET: Червоний килим
+RED_CONRETE: Червоний бетон
+RED_MUSHROOM: Червоний гриб
+RED_MUSHROOM_BLOCK: Блок червоного гриба
+RED_NETHER_BRICK: Червоний пекельний камінь
+RED_NETHER_BRICKS: Червоні пекельні цегли
+RED_ROSE: Квіти
+RED_SAND: Червоний пісок
+RED_SANDSTONE: Червоний піщаник
+RED_TULIP: Червоний тюльпан
+RED_WOOL: Червона вовна
+REGENERATION_POTION: Зілля регенерації
+REPEAT_ITEM_BOX_KIT: Повторюй за мною
+RESPAWN_ANCHOR: Якір відродження
+RIDER_ITEM_BOX_KIT: Наїзник
+ROGUE_ITEM_BOX_KIT: Розбійник
+ROSE_BUSH: Троянди
+ROTTEN_FLESH: Гнила плоть
+SANDSTONE_STAIRS: Сходинки з піщанику
+SEA_LANTERN: Морський літхтар
+SEA_PICKLE: Морський огірок
+SEEKERS_KILLED_STAT: Шукачів убито
+SEEKER_TEAM: Шукачів
+SHEEP_SPAWN_EGG: Яйце призову вівцю
+SHEPHERD_ITEM_BOX_KIT: Початківець пастух
+SKULL_ITEM_WITHER: Череп скелета-зсушітеля
+SLIME_BALL: Згусток слизу
+SLIME_BLOCK: Блок слизу
+SMITHING_TABLE: Стіл кузнеця
+SMITH_ITEM_BOX_KIT: Коваль
+SMOOTH_BRICK: Гладка цегла
+SMOOTH_QUARTZ: Гладкий кварц
+SMOOTH_STONE: Гладкий камінь
+SNOW_BALL: Сніжок
+SNOW_BLOCK: Блок снігу
+SOULD_SAND_ITEM_BOX_KIT: Набір піску душ
+SOUL_SAND: Пісок душ
+SOUL_SOIL: Грунт душ
+SPECTRAL_ARROW: Спектральна стріла
+SPEED_POTION: Зілля швидкості
+SPEED_POTION_2: Зілля швидкості II
+SPIDER_EYE: Павуче око
+SPLASH_POTION: Вибухове зілля
+SPRUCE_LEAVES: Ялинкове листя
+SPRUCE_LOG: Ялина
+SPRUCE_SAPLING: Ялиновий садженець
+SPRUCE_STAIRS: Ялинові сходи
+SPRUCE_WOOD: Ялинові дошки
+STACKER_ERROR_ITEM: §cУ вас недостатньо їжі для годування
+STACKER_ERROR_LIMIT: §cТварини не голодні, наступні годування можливо через %s
+STAINED_CLAY: Кераміка
+STAINED_GLASS_PANE: Скляна панель
+STONE_AXE: Кам'яна сокира
+STONE_PICKAXE: Кам'яна кирка
+STONE_SPADE: Кам'яна лопата
+STONE_SWORD: Кам'яний меч
+STRENGTH_POTION: Зілля сили
+STRIDER_SPAWN_EGG: Яйце стридера
+STRIPPED_ACACIA_LOG: Очищена акація
+STRIPPED_BIRCH_LOG: Очищена береза
+STRIPPED_CRIMSON_HYPHAE: Очищені червоні гіфи
+STRIPPED_CRIMSON_STEM: Очищене багряний стебло
+STRIPPED_DARK_OAK_LOG: Очищений темний дуб
+STRIPPED_JUNGLE_LOG: Очищене тропічне дерево
+STRIPPED_OAK_LOG: Очищений дуб
+STRIPPED_SPRUCE_LOG: Очищена ялина
+STRIPPED_WARPED_HYPHAE: Очищені спотворені гіфи
+STRIPPED_WARPED_STEM: Очищене спотворене стебло
+SUGAR_CANE: Очерет
+SWEET_BERRIES: Солодкі ягоди
+TANK_ITEM_BOX_KIT: Танк
+TIPPED_ARROW: Стріла
+TOTEM_OF_UNDYING: Тотем безсмертя
+TROPICAL_FISH: Тропічна риба
+TUBE_CORAL: Трубчастий корал
+TUBE_CORAL_BLOCK: Трубчастий корал
+TUBE_CORAL_FAN: Віяловий трубчастий корал
+TUMBLE_ITEM_BOX_KIT: Перекидатися
+TURTLE_EGG: Яйце черепахи
+TURTLE_HELMET: Черепаший шолом
+TURTLE_SPAWN_EGG: Яйце черепахи
+TWISTING_VINES: Кучерява лоза
+UNDED_ITEM_BOX_KIT: Повелитель нежиттю
+VILLAGER_SPAWN_EGG: Яйце призову жителя
+VILLAGE_ITEM_BOX_KIT: Селище міського типу
+WANDERING_TRADER_SPAWN_EGG: Яйце мандрівного торговця
+WARPED_FUNGUS: Спотворений гриб
+WARPED_NYLIUM: Спотворений нілій
+WARPED_STEM: Спотворений стебель
+WARPED_WART_BLOCK: Блок спотвореного наросту
+WARRIOR_ITEM_BOX_KIT: Воїн
+WATER_BUCKET: Відро води
+WATER_LILY: Латаття
+WEEPING_VINES: Плакуча лоза
+WHEAT_SEEDS: Насіння пшениці
+WHITE_SHULKER_BOX: Білий шалкер ящик
+WHITE_TULIP: Білий тюльпан
+WHITE_WOOL: Біла вовна
+WITHER_ITEM_BOX_KIT: Зсушитель
+WITHER_ROSE: Троянда візера
+WITHER_SKELETON: Скелет-зсушитель
+WITHER_SKELETON_SKULL: Голова скелета зсушителя
+WITHER_SKULL: Голова зсушителя
+WOLF_SPAWN_EGG: Яйце призову вовка
+WOODCUTTER_ITEM_BOX_KIT: Дроворуб
+WOOD_AXE: Дерев'яний сокира
+WOOD_PICKAXE: Дерев'яна кирка
+WOOD_SWORD: Дерев'яний меч
+YELLOW_WOOL: Жовта вовна
+ZOMBIE_VILLAGER: Зомбі-житель
+ZOMBIFIED_PIGLIN: Зомбі Піглін

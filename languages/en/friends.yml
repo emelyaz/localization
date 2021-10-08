@@ -1,57 +1,62 @@
-FRIENDS_ACCEPT_FORMAT: /f accept <player name>
-FRIENDS_ADD_FORMAT: /f add <player name>
-FRIENDS_ALREADY_FRIENDS: §cYou are already friends with that player!
-FRIENDS_ALREADY_SENT_REQUEST: §cYou have already sent friend request to that player...
-FRIENDS_DECLINE_FORMAT: /f decline <player name>
-FRIENDS_DONT_HAVE_INVITES_FROM: §cYou do not have a friend request from player %s
-FRIENDS_GUI_EQUAL_SERVER: ' §c▸ You are already on one server'
-FRIENDS_GUI_NAME: Friend list
+FRIENDS_ALREADY_FRIENDS: §cYou are already friends!
+FRIENDS_ALREADY_SENT_REQUEST: §cYou have already sent a friend request to this player...
+FRIENDS_DONT_HAVE_INVITES_FROM: §cYou have no friend requests from the player %s
+FRIENDS_GUI_EQUAL_SERVER: ' §c▸ You are already on the same server'
+FRIENDS_GUI_LORE:
+- '§7Level: §d%s'
+- '§7Common friends: §f%s'
+FRIENDS_GUI_NAME: Friends list
 FRIENDS_GUI_NULL_SERVER_LORE:
-- §7Last time seen
+- '§7Last seen online:'
 - §e%s ago
-FRIENDS_GUI_NULL_TP_LORE: ' §c✗ Player is offline'
+FRIENDS_GUI_NULL_TP_LORE: ' §c✗ Now offline'
 FRIENDS_GUI_SERVER_LORE:
 - §7Now on the server §e%s
-FRIENDS_GUI_TP_LORE: ' §e▸ Click to teleport to a friends server'
-FRIENDS_INVITE_EVENT_CANCELLED: §cPrivate policy of this player blocks you from adding
-  him to your friend list
-FRIENDS_INVITE_EXPIRED: §cFriend request to player %s was rejected automatically
+FRIENDS_GUI_TP_LORE: ' §e▸ Click to teleport to friend''s server'
+FRIENDS_INVITE_EVENT_CANCELLED: §cThis player has forbidden to send him friend requests
+FRIENDS_INVITE_EXPIRED: §cRequest sent to player %s §fhas been automatically rejected
 FRIENDS_INVITE_SENT: §6Friends §8| §fFriend request sent to player %s
-FRIENDS_INVITE_TEXT: §6Friends §8| §fPlayer %s §fhas sent you a friend request. You
-  have 5 minutes to accept it
-FRIENDS_LIMIT: §cYou exceeded the limit for friends number.
-FRIENDS_NEW_FRIEND: §6Friends §8| §fCongratulations! You are now friends with %s
-FRIENDS_NOT_FRIENDS: §cYou are not friends with that player.
-FRIENDS_ONLINE: §6Friends §8| §fThere are §a%d §f%s online
-FRIENDS_PLAYER_REMOVED: §6Friends §8| §fPlayer %s §fwas removed from your friend list
-FRIENDS_PLAYER_REMOVED_YOU: §6Friends §8| §fPlayer %s §fremoved you from his friend
-  list.
-FRIENDS_REDIRECTING: §6Friends §8| §fYou were teleported to %s server §f(%s)
-FRIENDS_REMOVE_FORMAT: /f remove <player name>
-FRIENDS_REQUEST_REJECTED: §6Friends §8| §fPlayer %s §fhas rejected your friend request
-FRIENDS_TP_FORMAT: /f tp <friend name>
-FRIENDS_YOURSELF_AS_FRIEND: §cYou cannot add yourself to your friend list
-FRIENDS_YOU_REJECTED_REQUEST: §6Friends §8| §fYou have rejected a friend request from
+FRIENDS_INVITE_TEXT: §6Friends §8| §fPlayer %s §fsent you a friend request. It will
+  be automatically declined in 5 minutes
+FRIENDS_LIMIT: §cYou have exceeded the limit on the number of friends, your limit
+  is - %s
+FRIENDS_LIMIT_FRIEND: §cYour friend has exceeded the limit on the number of friends!
+FRIENDS_NEW_FRIEND: §6Friends §8| §fCongratulations! You became friends with the player
   %s
+FRIENDS_NOT_FRIENDS: §cThis player is not your friend
+FRIENDS_ONLINE: §6Friends §8| §fOnline §a%d §f%s
+FRIENDS_PLAYER_REMOVED: §6Friends §8| §fPlayer %s §fhas been deleted from your friends
+  list
+FRIENDS_PLAYER_REMOVED_YOU: §6Friends §8| §fPlayer %s §fhas deleted you from their
+  friends list
+FRIENDS_REDIRECTING: §6Friends §8| §fYou have been teleported to the server of the
+  player %s §f(§7%s§f)
+FRIENDS_REQUEST_REJECTED: §6Friends §8| §fPlayer %s §fdeclined your friend request
+FRIENDS_YOURSELF_AS_FRIEND: §cYou cannot send a friend request to yourself
+FRIENDS_YOU_REJECTED_REQUEST: §6Friends §8| §fYou declined a friend request from a
+  player %s
 FRIEND_GUI_MAIN_LORE:
 - ''
 - '§7Total friends: §a%s'
-- '§7Total online friends: §a%s'
-FRIEND_JOINED: §6Friends §8| §fYour friend %s §fhas joined the game §7(click here)
-FRIEND_JOINED_HOVER: §fClick to send %s §fa message
-FRIEND_NEW_INVITE: '%s §fsent friend request §7(%s mutal)'
-FRIEND_NEW_INVITE_ACCEPT_HOVER: §fClick, to accept making friend!
-FRIEND_NEW_INVITE_DECLINE_HOVER: §fClick, to decline
+- '§7Friends online: §a%s'
+FRIEND_JOINED: §6Friends §8| §fYour friend %s §fentered the game §7(click here)
+FRIEND_JOINED_HOVER: §fClick to write to the player %s §fa message
+FRIEND_LIST_GUILD: '§7Guild: %s'
+FRIEND_NEW_INVITE: '%s §finvites you to be friends §7(common friends %s)'
+FRIEND_NEW_INVITE_ACCEPT_HOVER: §fClick to become friends!
+FRIEND_NEW_INVITE_DECLINE_HOVER: §fClick to decline the request
+FRIEND_PVP_DISABLE: §6Anarchy §8| §fYou can't hit your friend
 FRIEND_REQUEST_GUI_LORE:
 - ''
-- ' §e▸ Left click to accept request'
-- ' §e▸ Right click to decline request'
+- ' §e▸ LMC to accept the request'
+- ' §e▸ RMC to decline the request'
 FRIEND_REQUEST_GUI_MAIN_LORE:
 - ''
 - '§7Total requests:'
 - §a%s
 FRIEND_TITLE: FRIENDS
-TARGET_FRIENDS_LIMIT: §cSpecified by you player cannot accept request in friends,
-  because his limit exceeded
-YOU_DONT_HAVE_FRIENDS: §cYou dont have friends yet :(
-YOU_DONT_HAVE_FRIEND_REQUESTS: §cYou dont have friend requests.
+TARGET_FRIENDS_LIMIT: §cThe player you specified cannot accept friend requests, because
+  their limit is exceeded
+YOU_DONT_HAVE_FRIENDS: §cYou have no friends
+YOU_DONT_HAVE_FRIEND_REQUESTS: §cYou have no friend requests
+YOU_HAVE_NO_ONLINE_FRIENDS: §cError, you have no friends

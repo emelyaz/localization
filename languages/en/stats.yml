@@ -1,21 +1,28 @@
-ALL_TIME_STATS_NAME: Statistics via all time
+ALL_TIME_STATS_NAME: All time statistics
 BEDS_BREAKED_STAT: Beds broken
-CHESTS_LOOTED_STAT: Chests looted
-COINS_EARNED_PER_GAME_STAT: 'Coins earned:'
+BEST_TIME_STAT: The best time
+CHESTS_LOOTED_STAT: Chests covered
+COINS_EARNED_PER_GAME_STAT: Coins earned
+EGGS_STAT: Eggs smashed
+FINAL_KILLS_STAT: Final kills
 GAMES_STAT: Games played
+GENERATOR_STAT: Generators upgraded
 INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
 INGAME_STATS_MESSAGES:
+- '§6Statistics §8| §f%s %s §fon §e%s %s§f:'
+INGAME_STATS_MESSAGES_TITLE:
 - ' '
-- ' §cATTENTION! §fWill be displayed statistics only'
-- ' §fcurrent mode. To view statistics'
-- ' §fall modes, teleport to lobby'
-- ' '
-- §6Statistics §8| §fStatistics %s §fon §e%s %s
-MONTHLY_STATS_NAME: Statistics via month
+- ' §cATTENTION! §fOnly statistics of the current mode'
+- ' §fwill be displayed. To view statistics'
+- ' §ffrom all modes, go to the lobby'
+MONTHLY_STATS_NAME: Monthly statistics
+RATING_STAT: Rank
 STATS_ENTRY: ' §8▪ §7%s: §a%s'
-STATS_FORMAT: /stats <nickname>
+STATS_FORMAT: /stats <player's nickname>
 STATS_GUI_TITLE: Profile ▸ Statistics
-STATS_GUI_TITLE_TARGET: Statistics of %s
-STATS_IS_NOT_LOADED: §cError, statistic not loaded
-WINS_STAT: Victories
-WIN_RATE_STATS: Winrate
+STATS_GUI_TITLE_TARGET: Player's statistics %s
+STATS_IS_NOT_LOADED: §cError, statistics is not loaded
+WINS_AS_HIDER_STAT: Wins for the hiding
+WINS_AS_SEEKER_STAT: Wins for the seekers
+WINS_STAT: Wink
+WIN_RATE_STATS: Win rate

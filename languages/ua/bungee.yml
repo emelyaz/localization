@@ -1,0 +1,6 @@
+BUNGEE_ALREADY_ONLINE: §cЦей гравець уже на сервері!
+BUNGEE_INVALID_ADDRESS: §cВаша IP адреса містить некоректні дані
+BUNGEE_JOIN_SERVER_UNAVAILABLE: §cНе вдалося знайти відповідний сервер входу
+BUNGEE_LOGGED_FROM_ANOTHER_LOCATION: §cВи були авторизовані з іншого місця
+BUNGEE_NO_REASON_SPECIFIED: §cПричина не вказана
+BUNGEE_SQL_ERROR: §cНе вдалося завантажити дані авторизації

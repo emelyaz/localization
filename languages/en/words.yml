@@ -1,96 +1,140 @@
+AIRDROP_1:
+- chest
+- ''
+- s
+- ''
 AVAILABLE_1:
-- Available
+- Access
+- ible
+- ''
+- ''
+BOOSTER_1:
+- booster
+- ''
+- s
+- null
+DUST_1:
+- dust
 - ''
 - ''
 - ''
 GOLD_1:
 - gold
-- s
-- s
-- s
+- null
+- null
+- null
 HOMES_1:
 - house
-- а
-- ов
-- ов
-HOMES_2:
-- House
+- s
 - ''
-- а
-- ов
+- ''
+HOMES_2:
+- house
+- ''
+- s
+- ''
 KEYS_1:
 - key
+- ''
+- ''
 - s
+KILLS_1:
+- kill
+- ''
 - s
-- s
+- ''
 KILLS_STAT: Kills
 MAPS_1:
 - map
 - s
+- ''
+- ''
+MOBS_1:
+- mob
+- ''
 - s
-- s
+- ''
+MOBS_TOP_KILLS_HOLO:
+- §6§lTop by kills
+- §fTop players by the amount
+- §fof killed mobes
 MONEY_1:
 - coin
 - s
-- s
-- s
+- ''
+- ''
 MONEY_2:
 - coin
 - s
-- s
-- s
+- ''
+- ''
 PLAYERS_1:
 - player
+- ''
 - s
+- ''
+POINTS_1:
+- point
 - s
-- s
+- ''
+- ''
+RATING_1:
+- rank
+- ''
+- ''
+- ''
 REPORTS_1:
-- reports
+- complaint
 - s
-- s
+- Wins for the hiding
 - ''
 RETRIES_1:
-- attemp
+- tr
+- y
+- ies
 - ''
-- s
-- s
 REWARDS_1:
-- reward
+- bonus
 - ''
-- s
-- s
+- es
+- ''
 TIME_DAY_1:
-- d
-- ay
-- ays
-- ays
+- day
+- s
+- ''
+- ''
 TIME_HOURS_1:
 - hour
 - ''
 - s
-- s
+- ''
 TIME_MINUTES_1:
 - minute
+- s
 - ''
+- ''
+TIME_MINUTES_2:
+- minute
 - s
-- s
+- ''
+- ''
 TIME_SECOND_1:
 - second
 - s
-- s
-- s
+- ''
+- ''
 TIME_SECOND_2:
 - second
+- s
 - ''
-- s
-- s
+- ''
 WARPS_1:
 - warp
+- s
 - ''
-- s
-- s
+- ''
 WINS_1:
 - win
+- s
 - ''
-- s
-- s
+- ''

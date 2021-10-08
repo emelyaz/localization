@@ -1,16 +1,38 @@
-DEFAULT_KEY: §bCosmetic Key
-GAME_KEY: §cGame Key
-GROUP_KEY: §eDonation Key
+DEFAULT_KEY: §bCosmetic key
+DEFAULT_KEY_LORE:
+- ''
+- §7Is used to get
+- §7gadgets in the lobby
+- ''
+- §cAttention! When knocking out an already existing
+- §citem you will receive dust (10% of the cost)
+GAME_KEY: §cGame key
+GAME_KEY_LORE:
+- ''
+- §7Is used for receiving
+- §7sets and skills in the games
+- ''
+- §cAttention! When knocking out an already existing
+- §citem, you will get dust (10% of the cost)
+GROUP_KEY: §eDonate key
 GROUP_KEY_LORE:
 - ''
-- §7Use this key to find
-- §7ranks from §e§lGOLD §7to §7§lSHULKER
+- §7Is used for getting
+- §7a free status from §e§lGOLD §7until §7§lSHULKER
 - ''
-- §cAttention! If you find duplicate,
-- §cyou will recieve 10-40 gold
-MONEY_KEY: §dMoney Key
-SURVIVAL_KEY: §aSkyblock Key
+- §cAttention! When knocking out an already existing
+- §cstatus you will receive from 10 to 40 gold!
+MONEY_KEY: §dMoney key
+SURVIVAL_KEY: §aSkyblock key
 SURVIVAL_KEY_LORE:
 - ''
-- §7Use this key to find
-- §7items for Skyblock
+- §7Is used to obtain
+- §7various "sets" and individual items
+TITLE_KEY: §fTitle key
+TITLE_KEY_LORE:
+- ''
+- §7Is used to get
+- §7titles (§fprofile §7-> Titles§7)
+- ''
+- §cAttention! When knocking out an already existing
+- §cstatus you will receive from 5 to 30 gold!

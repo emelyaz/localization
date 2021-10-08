@@ -1,0 +1,312 @@
+EW_BASE_UPGRADE_ARMOR: Basic armor
+EW_BASE_UPGRADE_ARMOR_LORE:
+- §8Individual upgrade
+- ''
+- §7After the upgrade,
+- §7your basic armor will be improved
+- '§7upgraded: §f%s/§a%s'
+- ''
+- '§7Price: %s %s'
+- ''
+- §e▸ Click LMC to purchase
+EW_BASE_UPGRADE_ARMOR_MAX_LORE:
+- §8Individual improvement
+- ''
+- §7Your basic armor has reached max level
+- ''
+- §eMax level
+EW_BASE_UPGRADE_PICKAXE: Basic pickaxe
+EW_BASE_UPGRADE_PICKAXE_LORE:
+- §8Individual improvement
+- ''
+- §7After the upgrade,
+- §7you will get an improved pickaxe
+- ''
+- '§7Price: %s %s'
+- ''
+- §e▸ Click LMC to purchase
+EW_BASE_UPGRADE_PICKAXE_MAX_LORE:
+- §8Individual improvement
+- ''
+- §7Your pickaxe has reached max level
+- ''
+- §eMax level
+EW_BASE_UPGRADE_SWORD: Basic sword
+EW_BASE_UPGRADE_SWORD_LORE:
+- §8Individual improvement
+- ''
+- §7After the upgrade,
+- §7you will get an improved basic sword
+- ''
+- '§7Price: %s %s'
+- ''
+- §e▸ Click LMC to purchase
+EW_BASE_UPGRADE_SWORD_MAX_LORE:
+- §8Individual improvement
+- ''
+- §7Your basic sword has reached max level
+- ''
+- §eMax level
+EW_BREAK_YOUR_EGG: §cYou cannot break your team's egg!
+EW_EGG_BREAK_TITLE: §cYour egg is destroyed
+EW_GAME_STARTED_SUBTITLE: §7Protect your eggs!
+EW_GENERATOR_BREAK: Broken!
+EW_GENERATOR_INFO_BREAKED_LORE:
+- §7The generator is broken, improve it
+- §7to receive resources
+EW_GENERATOR_INFO_LORE:
+- ''
+- '§7Resource Spawn Interval:'
+- §e%s
+EW_GENERATOR_LEVEL: Level
+EW_GENERATOR_NAME: Generator
+EW_GENERATOR_SPAWNED: §fSpawned!
+EW_GENERATOR_TO_SPAWN: §fSpawn in §c%s §f%s
+EW_GENERATOR_UPGRADE_LORE:
+- §7Click to upgrade
+- §7the generator %s to§c %s level
+- null
+- §7Resource Spawn Interval
+- '§7will be: §e%s'
+- ''
+- '§7Price: %s'
+EW_GENERATOR_UPGRADE_MAX_LORE:
+- ''
+- §7The generator %s has
+- §7max upgrade level
+EW_GENERATOR_UPGRADE_MAX_NAME: Max level
+EW_GENERATOR_UPGRADE_NAME: Upgrade to level 1 %s ↑
+EW_PLAYER_BREAK_EGG: Egg of the team %s§f has been broken by player %s
+EW_PLAYER_EXPLODE_EGG: Egg of the team %s§f has been blown up by player %s
+EW_SHOP_CHAINMAIL_ARMOR: Chainmail armor
+EW_SHOP_CHAINMAIL_ARMOR_LORE:
+- ' §8▪ §7Chainmail leggings'
+- ' §8▪ §7Chainmail boots'
+EW_SHOP_DIAMOND_ARMOR: Diamond armor
+EW_SHOP_DIAMOND_ARMOR_LORE:
+- ' §8▪ §7Diamond leggings'
+- ' §8▪ §7Diamond boots'
+EW_SHOP_FIRE_FLINT: Fire lighter
+EW_SHOP_FIRE_FLINT_LORE:
+- ' §8▪ §7Fire lighter'
+- ''
+- §7§oSets blocks on fire, and the fire
+- §7§ostarts widespreading
+EW_SHOP_IRON_ARMOR: Iron armor
+EW_SHOP_IRON_ARMOR_LORE:
+- ' §8▪ §7Iron leggings'
+- ' §8▪ §7Iron boots'
+EW_SHOP_OBSIDIAN: Destroyer 3000
+EW_SHOP_OBSIDIAN_LORE:
+- ' §8▪ §7Destroyer 3000'
+- ''
+- §85-second recharge
+- ''
+- §7§oWhen clicking RMC on obsidian
+- §7§oyou will lose "Destroyer", and
+- §7§the obsidian block will be deleted
+EW_TEAM_MAX_GOLEM: §cYour team has already set the maximum number of skeletons
+EW_UPGRADE_ARMOR: Armor upgrade
+EW_UPGRADE_ARMOR_LORE:
+- §8Team upgrade
+- ''
+- §7Armor purchase in the shop
+- §7and given during spawn,
+- §7receives protection
+- §7depending on the upgrade level
+- '§7upgraded: §f%s/§a%s'
+EW_UPGRADE_ARMOR_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Your team's armor
+- §7has reached max level
+- ''
+- §eMax level
+EW_UPGRADE_BOW: Pull the bowstring
+EW_UPGRADE_BOW_ERROR: §cYou cannot purchase and use a bow until you buy a team improvement
+EW_UPGRADE_BOW_LORE:
+- §8Team upgrade
+- ''
+- §7You and your team
+- §7can purchase and use
+- §7a bow
+EW_UPGRADE_BOW_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7You and your team
+- §7can purchase and use
+- §7a bow
+- ''
+- §eMax level
+EW_UPGRADE_BUY_LORE:
+- ''
+- '§7Time until upgrade: §f%s %s'
+- '§7Price: %s %s'
+- ''
+- §e▸ Click LMC to purchase
+EW_UPGRADE_COOLDOWN: §cWait %s %s until upgrade is applied
+EW_UPGRADE_COOLDOWN_LORE:
+- ''
+- §fUpgrade is occurring, wait...
+- ''
+- §cWait for the end!
+EW_UPGRADE_DONE: §a%s §fhas been upgraded to level §d%s §fby player %s
+EW_UPGRADE_DONE2: §a%s §fhas been upgraded by player %s
+EW_UPGRADE_EGG: Sturdy egg
+EW_UPGRADE_EGG_LORE:
+- §8Team upgrade
+- ''
+- §7Replaces your simple egg
+- §7with a dragon's egg
+EW_UPGRADE_EGG_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Replaces your simple egg
+- §7with a dragon's egg
+- ''
+- §eMax level
+EW_UPGRADE_ERROR: §cYou cannot create 2 upgrades at once!
+EW_UPGRADE_GLOWING: Glow aura
+EW_UPGRADE_GLOWING_LORE:
+- §8Team upgrade
+- ''
+- §7Enemies within 10 blocks of your
+- §7egg will start glowing
+EW_UPGRADE_GLOWING_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Enemies within 10 blocks of your
+- §7egg will start glowing
+- ''
+- §eMax level
+EW_UPGRADE_GUI_NAME: Upgrades
+EW_UPGRADE_HEALTH_AURA: Regeneration aura
+EW_UPGRADE_HEALTH_AURA_LORE:
+- §8Team upgrade
+- ''
+- §7Creates a Regeneration aura I
+- §7within 15 blocks
+- §7of your egg
+EW_UPGRADE_HEALTH_AURA_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Creates a Regeneration aura I
+- §7within 15 blocks
+- §7of your egg
+- ''
+- §eMax level
+EW_UPGRADE_MAX_HEALTH: Max health
+EW_UPGRADE_MAX_HEALTH_LORE:
+- §8Team upgrade
+- ''
+- §7Increases max health
+- §7of all the team players
+- §7by two hearts
+EW_UPGRADE_MAX_HEALTH_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Increases max health
+- §7of all the team players
+- §7by two hearts
+- ''
+- §eMax level
+EW_UPGRADE_MAX_LEVEL: §cYou have a max upgrade level!
+EW_UPGRADE_NO_EGG_UPGRADE: §cYou don't have an egg! You cannot buy this upgrade.
+EW_UPGRADE_SHARPEN_SWORD: Weapon upgrade
+EW_UPGRADE_SHARPEN_SWORD_LORE:
+- §8Team upgrade
+- ''
+- §7Swords purchased in the shop
+- §7and given during spawn,
+- §7receive sharpness,
+- §7depending on the upgrade level
+- '§7upgraded: §f%s/§a%s'
+EW_UPGRADE_SHARPEN_SWORD_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Your swords have reached max level
+- ''
+- §eMax level
+EW_UPGRADE_SLOWDOWN: Deceleration
+EW_UPGRADE_SLOWDOWN_LORE:
+- §8Team upgrade
+- ''
+- §7Creates a trap with the fatigue
+- §7effect I for 15 seconds
+- §7within 10 blocks
+- §7from your egg
+- §7for your enemies
+EW_UPGRADE_SLOWDOWN_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Creates a fatigue aura I
+- §7within 15 blocks
+- §7of your egg
+- §7for your enemies
+- ''
+- §eMax level
+EW_UPGRADE_TOOL_DIG: Pickaxe upgrade
+EW_UPGRADE_TOOL_DIG_LORE:
+- §8Team upgrade
+- ''
+- §7Pickaxes purchased in the shop
+- §7and given during spawn,
+- §7get efficiency,
+- §7depending on the upgrade level
+- '§7upgraded: §f%s/§a%s'
+EW_UPGRADE_TOOL_DIG_MAX_LORE:
+- §8Team upgrade
+- ''
+- §7Your pickaxes have reached max level
+- ''
+- §eMax level
+PERK_EW_ARROW_RECOVERY: Archer
+PERK_EW_ARROW_RECOVERY_LORE:
+- ''
+- §735% chance to return an arrow when hitting an enemy
+PERK_EW_EXECUTION: Execution
+PERK_EW_EXECUTION_LORE:
+- ''
+- §7After you kill
+- §7a player, when respawning
+- §7he gains Weakness I for 3 seconds
+PERK_EW_GENERATOR: Electrician
+PERK_EW_GENERATOR_LORE:
+- ''
+- §71st and 2nd generator improvement
+- §7will be free of charge!
+- ''
+- '§7PS: in your inventory'
+- §7there must be necessary resources,
+- §7which are needed for upgrade
+PERK_EW_GREEDY: Greedy
+PERK_EW_GREEDY_LORE:
+- ''
+- §7After death, precious resources do not drop from you
+PERK_EW_RETURN: Favorite customer
+PERK_EW_RETURN_LORE:
+- ''
+- §7You return 20% of the resources from the purchase
+- §7in the shop
+PERK_EW_SNIPER: Sniper
+PERK_EW_SNIPER_LORE:
+- ''
+- §7When hitting an enemy with a bow
+- §7he additionally receives
+- §7+1 pure damage for every 10 blocks of distance
+- ''
+- §7You can also use and buy a bow
+- §7without the upgrade Pull the bowstring!
+PERK_EW_TIME_MANAGER: Time Lord
+PERK_EW_TIME_MANAGER_LORE:
+- ''
+- §7When killing a player,
+- §7the time of their revival will be
+- §7increased by 1 second
+PERK_EW_UNSHAKABLE: Unshakable
+PERK_EW_UNSHAKABLE_LORE:
+- ''
+- §7If your egg is broken,
+- §7You get Speed I,
+- §7Regeneration I and Resistance I
+- §7for 5 minutes
