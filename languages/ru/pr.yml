@@ -273,6 +273,10 @@ PR_SELECTOR_STATS_LORE_PERSONAL: |-
 PR_SELECTOR_STATS_LORE_GLOBAL: |-
   §8 ▪ §7Серверный рекорд: §a%s
 
+PR_MODULES_PASSED_NORMAL: 'Пройдено средних модулей'
+PR_MODULES_PASSED_EASY: 'Пройдено простых модулей'
+PR_MODULES_PASSED_HARD: 'Пройдено сложных модулей'
+
 PR_COMMAND_TRACK_WIPE_RECORDS: '$PR_PREFIX$Лучшее время игрока %s §fсброшено на всех трассах'
 PR_COMMAND_TRACK_INFO: '$PR_PREFIX$Текущая трасса игрока %s §f- §a%s'
 PR_COMMAND_TRACK_ERROR: '$PR_PREFIX$Данный игрок не проходит паркур'
