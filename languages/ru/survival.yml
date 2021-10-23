@@ -352,8 +352,8 @@ SURVIVAL_ALCHEMIST_CRAFT_WILL_DONE: |-
   §7через §e%s
 
 SURVIVAL_ALCHEMIST_CRAFT_DONE: |-
-  §aПредмет создан
 
+  §aПредмет создан
   §eНажмите ЛКМ, чтобы забрать его!
 
 SURVIVAL_ITEM_XRAY_PICKAXE_NAME: '§aКирка-поисковик'
