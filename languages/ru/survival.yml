@@ -346,6 +346,7 @@ SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_FOX: |-
   §f- §eTODO
 
 SURVIVAL_ALCHEMIST_CRAFT_WILL_DONE: |-
+
   §7Предмет будет создан через §e%s
 
 SURVIVAL_ALCHEMIST_CRAFT_DONE: |-
@@ -353,9 +354,9 @@ SURVIVAL_ALCHEMIST_CRAFT_DONE: |-
 
   §eНажмите ЛКМ, чтобы забрать его!
 
-SURVIVAL_ITEM_XRAY_PICKAXE: '§eКирка-поисковик'
-SURVIVAL_ITEM_REAСTIVE_BOOTS: '§eРеактивные ботинки'
-SURVIVAL_ITEM_INVULNERABLE_PET_DOG: '§eНеуязвимый питомец (Собака)'
-SURVIVAL_ITEM_INVULNERABLE_PET_CAT: '§eНеуязвимый питомец (Кошка)'
-SURVIVAL_ITEM_INVULNERABLE_PET_FOX: '§eНеуязвимый питомец (Лиса)'
+SURVIVAL_ITEM_XRAY_PICKAXE: '§dКирка-поисковик'
+SURVIVAL_ITEM_REACTIVE_BOOTS: '§dРеактивные ботинки'
+SURVIVAL_ITEM_INVULNERABLE_PET_DOG: '§dНеуязвимый питомец (Собака)'
+SURVIVAL_ITEM_INVULNERABLE_PET_CAT: '§dНеуязвимый питомец (Кошка)'
+SURVIVAL_ITEM_INVULNERABLE_PET_FOX: '§dНеуязвимый питомец (Лиса)'
 
