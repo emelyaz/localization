@@ -311,3 +311,13 @@ PROTECTION_UPGRADE_UP_SUCCES: §6Anarchy §8| §fПриват §7%s §fуспе�
   §fблоков по координате §7Y
 PROTECTION_UPGRADE_UP_SUCCES_TO: §6Anarchy §8| §fПриват §7%s §fрасширен на §a%s §fблоков
   по координате §7Y §fигроком %s
+
+SURVIVAL_ALCHEMIST_MENU: 'Алхимик'
+SURVIVAL_ALCHEMIST_CRAFT_MENU: 'Алхимик > Создание'
+
+SURVIVAL_ITEM_XRAY_PICKAXE: '§eКирка-поисковик'
+SURVIVAL_ITEM_REATIVE_BOOTS: '§eРеактивные ботинки'
+SURVIVAL_ITEM_INVULNERABLE_PET_DOG: '§eНеуязвимый питомец (Собака)'
+SURVIVAL_ITEM_INVULNERABLE_PET_CAT: '§eНеуязвимый питомец (Кошка)'
+SURVIVAL_ITEM_INVULNERABLE_PET_FOX: '§eНеуязвимый питомец (Лиса)'
+
