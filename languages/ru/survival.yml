@@ -389,12 +389,12 @@ SURVIVAL_ITEM_INVULNERABLE_PET_CAT_DESCRIPTION: |-
 #   §7ПКМ по питомцу, чтобы получить его яйцо спавна обратно
 
 SURVIVAL_RACE_MENU: 'Расы'
-SURVIVAL_RACE_MENU_ICON: '§a%s'
-SURVIVAL_RACE_MENU_ICON_UNSELECTED: |-
+SURVIVAL_RACE_ICON_NAME: '§a%s'
+SURVIVAL_RACE_ICON_UNSELECTED: |-
 
   §eНажмите ЛКМ, чтобы выбрать данную расу!
 
-SURVIVAL_RACE_MENU_ICON_SELECTED: |-
+SURVIVAL_RACE_ICON_SELECTED: |-
 
   §aДанная раса выбрана!
 
