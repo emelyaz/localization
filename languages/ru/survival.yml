@@ -467,6 +467,9 @@ RACE_ENDERMAN_DESCRIPTION: |-
 
 RACE_ANGEL_NAME: 'Ангел'
 
+SURVIVAL_RACE_CHANGED: '$PREFIX$Вы сменили свою расу на %s'
+SURVIVAL_RACE_COOLDOWN: '$PREFIX$Вы не можете менять расу ещё %s!'
+
 RACE_ANGEL_DESCRIPTION: |-
 
   §7Плюсы:
