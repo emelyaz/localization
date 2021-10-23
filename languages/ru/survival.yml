@@ -398,11 +398,11 @@ SURVIVAL_RACE_MENU_ICON_SELECTED: |-
 
   §aДанная раса выбрана!
 
-SURVIVAL_RACE_HUMAN_DESCRIPTION: |-
+RACE_HUMAN_DESCRIPTION: |-
 
   §7Просто человек
 
-SURVIVAL_RACE_KHAJIIT_DESCRIPTION: |-
+RACE_KHAJIIT_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7Вы не получаете урон от падения
@@ -412,7 +412,7 @@ SURVIVAL_RACE_KHAJIIT_DESCRIPTION: |-
   §7Минусы:
   §c - §7У вас 9 сердец здоровья
 
-SURVIVAL_RACE_ORC_DESCRIPTION: |-
+RACE_ORC_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7У вас дополнительные 5 брони
@@ -421,7 +421,7 @@ SURVIVAL_RACE_ORC_DESCRIPTION: |-
   §7Минусы:
   §c - §7Вы можете питаться только мясом
 
-SURVIVAL_RACE_VAMPIRE_DESCRIPTION: |-
+RACE_VAMPIRE_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7Ночью получает ночное зрение и передвигается быстрее
@@ -429,7 +429,7 @@ SURVIVAL_RACE_VAMPIRE_DESCRIPTION: |-
   §7Минусы:
   §c - §7Днем под открытым небом вы горите на солнце
 
-SURVIVAL_RACE_HARPY_DESCRIPTION: |-
+RACE_HARPY_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7У вас постоянное Замедленное падение I
@@ -439,7 +439,7 @@ SURVIVAL_RACE_HARPY_DESCRIPTION: |-
   §7Минусы:
   §c - §7Вы не можете питаться мясом
 
-SURVIVAL_RACE_ENDERMAN_DESCRIPTION: |-
+RACE_ENDERMAN_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7У вас бесконечные жемчуги энда и вы не получаете урон от них
@@ -453,7 +453,7 @@ SURVIVAL_RACE_ENDERMAN_DESCRIPTION: |-
   §c - §7В воде вы получаете урон
 
 
-SURVIVAL_RACE_ANGEL_DESCRIPTION: |-
+RACE_ANGEL_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7У вас постоянное Замедленное падение I
@@ -466,7 +466,7 @@ SURVIVAL_RACE_ANGEL_DESCRIPTION: |-
   §c - §7В аду вы не можете восстанавливать здоровье
   §7     и получаете Утомление I
 
-SURVIVAL_RACE_DEMON_DESCRIPTION: |-
+RACE_DEMON_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7В аду у вас Сила II, Сопротивление урону I
@@ -476,7 +476,7 @@ SURVIVAL_RACE_DEMON_DESCRIPTION: |-
   §7Минусы:
   §c - §7В обычном мире и энде у вас Утомление I, Замедление I
 
-SURVIVAL_RACE_AMPHIBIAN_DESCRIPTION: |-
+RACE_AMPHIBIAN_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7Под водой или во время дождя у вас эффект
@@ -486,7 +486,7 @@ SURVIVAL_RACE_AMPHIBIAN_DESCRIPTION: |-
   §7Минусы:
   §c - §7Вне воды вы начинаете терять кислород
 
-SURVIVAL_RACE_OGRE_DESCRIPTION: |-
+RACE_OGRE_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7На болотах вы получаете Спешку II и дополнительные 10 здоровья
@@ -494,7 +494,7 @@ SURVIVAL_RACE_OGRE_DESCRIPTION: |-
   §7Минусы:
   §c - §7Вы можете питаться только мясом
 
-SURVIVAL_RACE_TROLL_DESCRIPTION: |-
+RACE_TROLL_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7В горных биомах или на высоте выше 80 блоков
@@ -504,7 +504,7 @@ SURVIVAL_RACE_TROLL_DESCRIPTION: |-
   §7Минусы:
   §c - §7Под землей вы получаете Слабость I
 
-SURVIVAL_RACE_DWARF_DESCRIPTION: |-
+RACE_DWARF_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7Когда вы под землей, скорость копания увеличена
@@ -512,7 +512,7 @@ SURVIVAL_RACE_DWARF_DESCRIPTION: |-
   §a - §7Когда вы под землей, вы видите в темноте
   §7Минусы:
   §c - §7На поверхности у вас Утомление I
-SURVIVAL_RACE_ELF_DESCRIPTION: |-
+RACE_ELF_DESCRIPTION: |-
 
   §7Плюсы:
   §a - §7В любом лесу вы получаете Скорость II
