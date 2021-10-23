@@ -390,9 +390,15 @@ SURVIVAL_ITEM_INVULNERABLE_PET_CAT_DESCRIPTION: |-
 
 SURVIVAL_RACE_MENU: 'Расы'
 SURVIVAL_RACE_ICON_NAME: '§a%s'
-SURVIVAL_RACE_ICON_UNSELECTED: |-
+SURVIVAL_RACE_ICON_AVAILABLE: |-
 
   §eНажмите ЛКМ, чтобы выбрать данную расу!
+
+SURVIVAL_RACE_ICON_COOLDOWN: |-
+
+  §cВы сможете выбрать данную расу
+  §cчерез %s
+
 
 SURVIVAL_RACE_ICON_SELECTED: |-
 
