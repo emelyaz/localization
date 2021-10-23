@@ -356,28 +356,33 @@ SURVIVAL_ALCHEMIST_CRAFT_DONE: |-
 
   §eНажмите ЛКМ, чтобы забрать его!
 
-SURVIVAL_ITEM_XRAY_PICKAXE_NAME: '§dКирка-поисковик'
+SURVIVAL_ITEM_XRAY_PICKAXE_NAME: '§aКирка-поисковик'
 SURVIVAL_ITEM_XRAY_PICKAXE_DESCRIPTION: |-
-  §8§oTODO
 
-SURVIVAL_ITEM_REACTIVE_BOOTS_NAME: '§dРеактивные ботинки'
+  §7TODO
+
+SURVIVAL_ITEM_REACTIVE_BOOTS_NAME: '§aРеактивные ботинки'
 SURVIVAL_ITEM_REACTIVE_BOOTS_DESCRIPTION: |-
-  §8§oПока надеты на ноги, дают эффект прыжка 5 уровня
 
-SURVIVAL_ITEM_INVULNERABLE_PET_DOG_NAME: '§dНеуязвимый питомец (Собака)'
+  §7Пока надеты на ноги, дают эффект прыжка 5 уровня
+
+SURVIVAL_ITEM_INVULNERABLE_PET_DOG_NAME: '§aНеуязвимый питомец (Собака)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_DESCRIPTION: |-
-  §8§oПозволяет создать неуязвимого питомца - собаку.
-  §8§oПКМ по питомцу, чтобы получить его яйцо спавна обратно
 
-SURVIVAL_ITEM_INVULNERABLE_PET_CAT_NAME: '§dНеуязвимый питомец (Кошка)'
+  §7Позволяет создать неуязвимого питомца - собаку.
+  §7ПКМ по питомцу, чтобы получить его яйцо спавна обратно
+
+SURVIVAL_ITEM_INVULNERABLE_PET_CAT_NAME: '§aНеуязвимый питомец (Кошка)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_CAT_DESCRIPTION: |-
-  §8§oПозволяет создать неуязвимого питомца - кошку.
-  §8§oПКМ по питомцу, чтобы получить его яйцо спавна обратно
 
-SURVIVAL_ITEM_INVULNERABLE_PET_FOX_NAME: '§dНеуязвимый питомец (Лиса)'
+  §7Позволяет создать неуязвимого питомца - кошку.
+  §7ПКМ по питомцу, чтобы получить его яйцо спавна обратно
+
+SURVIVAL_ITEM_INVULNERABLE_PET_FOX_NAME: '§aНеуязвимый питомец (Лиса)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_FOX_DESCRIPTION: |-
-  §8§oПозволяет создать неуязвимого питомца - лису.
-  §8§oПКМ по питомцу, чтобы получить его яйцо спавна обратно
+
+  §7Позволяет создать неуязвимого питомца - лису.
+  §7ПКМ по питомцу, чтобы получить его яйцо спавна обратно
