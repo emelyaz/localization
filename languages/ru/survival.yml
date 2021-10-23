@@ -328,6 +328,7 @@ SURVIVAL_ALCHEMIST_CRAFT_QUEUE_UNAVAILABLE: |-
   §cВ данный момент вы делаете слишком много предметов!
 
 SURVIVAL_ALCHEMIST_CRAFT: |-
+
   §7Для создания этого предмета вам понадобится:
 
 SURVIVAL_ALCHEMIST_CRAFTING_XRAY_PICKAXE: |-
@@ -357,26 +358,26 @@ SURVIVAL_ALCHEMIST_CRAFT_DONE: |-
 
 SURVIVAL_ITEM_XRAY_PICKAXE_NAME: '§dКирка-поисковик'
 SURVIVAL_ITEM_XRAY_PICKAXE_DESCRIPTION: |-
-  §7TODO
+  §7§oTODO
 
 SURVIVAL_ITEM_REACTIVE_BOOTS_NAME: '§dРеактивные ботинки'
 SURVIVAL_ITEM_REACTIVE_BOOTS_DESCRIPTION: |-
-  §7Пока надеты на ноги, дают эффект прыжка 5 уровня
+  §7§oПока надеты на ноги, дают эффект прыжка 5 уровня
 
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_NAME: '§dНеуязвимый питомец (Собака)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_DESCRIPTION: |-
-  §7Позволяет создать неуязвимого питомца - собаку.
-  §7ПКМ по питомцу, чтобы получить его обратно
+  §7§oПозволяет создать неуязвимого питомца - собаку.
+  §7§oПКМ по питомцу, чтобы получить его обратно
 
 SURVIVAL_ITEM_INVULNERABLE_PET_CAT_NAME: '§dНеуязвимый питомец (Кошка)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_CAT_DESCRIPTION: |-
-  §7Позволяет создать неуязвимого питомца - кошку.
-  §7ПКМ по питомцу, чтобы получить его обратно
+  §7§oПозволяет создать неуязвимого питомца - кошку.
+  §7§oПКМ по питомцу, чтобы получить его обратно
 
 SURVIVAL_ITEM_INVULNERABLE_PET_FOX_NAME: '§dНеуязвимый питомец (Лиса)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_FOX_DESCRIPTION: |-
-  §7Позволяет создать неуязвимого питомца - лису.
-  §7ПКМ по питомцу, чтобы получить его обратно
+  §7§oПозволяет создать неуязвимого питомца - лису.
+  §7§oПКМ по питомцу, чтобы получить его обратно
