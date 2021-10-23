@@ -1,0 +1,6 @@
+BUNGEE_ALREADY_ONLINE: §cThis player is already on the server!
+BUNGEE_INVALID_ADDRESS: §cYour IP address contains incorrect data
+BUNGEE_JOIN_SERVER_UNAVAILABLE: §cCould not find an available login server
+BUNGEE_LOGGED_FROM_ANOTHER_LOCATION: §cYou have been logged in from another location
+BUNGEE_NO_REASON_SPECIFIED: §cNo reason specified
+BUNGEE_SQL_ERROR: §cFailed to load authorization data

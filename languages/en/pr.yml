@@ -1,0 +1,3 @@
+PR_CANNOT_SKIP_MODULE: §cYou cannot skip this module
+PR_MODULE_PASS_TIME_SUMMARY: §fYou completed the module §a#%s §fin §a%s
+PR_MODULE_SKIPPED: Module has been skipped

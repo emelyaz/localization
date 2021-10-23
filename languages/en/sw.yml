@@ -1,12 +1,12 @@
-CAGE_PURCHASE_MESSAGE: Kit §a%s §fpurchased for §a%s §f%s
-CAGE_SELECTION_MESSAGE: Kit §a%s §fchosen
+CAGE_PURCHASE_MESSAGE: You purchased a cage §a%s §ffor §a%s §f%s
+CAGE_SELECTION_MESSAGE: You chose the cage §a%s
 CAGE_SW_ACACIA: Acacia
 CAGE_SW_ACACIA_LORE: [
   ]
 CAGE_SW_BIRCH: Birch
 CAGE_SW_BIRCH_LORE: [
   ]
-CAGE_SW_DARK_OAK: Dark oak
+CAGE_SW_DARK_OAK: Dark acacia
 CAGE_SW_DARK_OAK_LORE: [
   ]
 CAGE_SW_GLASS: Glass
@@ -18,29 +18,29 @@ CAGE_SW_ICE_LORE: [
 CAGE_SW_IRON_BARDING: Iron
 CAGE_SW_IRON_BARDING_LORE: [
   ]
-CAGE_SW_JUNGLE: Jungle
+CAGE_SW_JUNGLE: Jungles
 CAGE_SW_JUNGLE_LORE: [
   ]
-CAGE_SW_LEAVES: Leaves
+CAGE_SW_LEAVES: Deciduous
 CAGE_SW_LEAVES_LORE: [
   ]
-CAGE_SW_NETHER: Nether
+CAGE_SW_NETHER: Hellish
 CAGE_SW_NETHER_LORE: [
   ]
-CAGE_SW_SLIME: Slime
+CAGE_SW_SLIME: Slimey
 CAGE_SW_SLIME_LORE: [
   ]
 CAGE_SW_SPRUCE: Spruce
 CAGE_SW_SPRUCE_LORE: [
   ]
-CAGE_SW_STAINED_GLASS_1: Stained Glass
+CAGE_SW_STAINED_GLASS_1: Thin glass
 CAGE_SW_STAINED_GLASS_10: Turquoise
 CAGE_SW_STAINED_GLASS_10_LORE: [
   ]
-CAGE_SW_STAINED_GLASS_11: Mystic
+CAGE_SW_STAINED_GLASS_11: Mystical
 CAGE_SW_STAINED_GLASS_11_LORE: [
   ]
-CAGE_SW_STAINED_GLASS_12: Sky
+CAGE_SW_STAINED_GLASS_12: Heavenly
 CAGE_SW_STAINED_GLASS_12_LORE: [
   ]
 CAGE_SW_STAINED_GLASS_13: Coffee
@@ -57,7 +57,7 @@ CAGE_SW_STAINED_GLASS_16_LORE: [
   ]
 CAGE_SW_STAINED_GLASS_1_LORE: [
   ]
-CAGE_SW_STAINED_GLASS_2: Angel
+CAGE_SW_STAINED_GLASS_2: Angelic
 CAGE_SW_STAINED_GLASS_2_LORE: [
   ]
 CAGE_SW_STAINED_GLASS_3: Toffee
@@ -75,76 +75,249 @@ CAGE_SW_STAINED_GLASS_6_LORE: [
 CAGE_SW_STAINED_GLASS_7: Chewing gum
 CAGE_SW_STAINED_GLASS_7_LORE: [
   ]
-CAGE_SW_STAINED_GLASS_8: Void
+CAGE_SW_STAINED_GLASS_8: Emptiness
 CAGE_SW_STAINED_GLASS_8_LORE: [
   ]
-CAGE_SW_STAINED_GLASS_9: Cloud
+CAGE_SW_STAINED_GLASS_9: Cloudy
 CAGE_SW_STAINED_GLASS_9_LORE: [
   ]
-CAGE_SW_WOOD: Wood
+CAGE_SW_WOOD: Wooden
 CAGE_SW_WOOD_LORE: [
   ]
-INSANE_EVENT_DISARMAMENT: Disarmament
-INSANE_EVENT_DISARMAMENT_DESCRIPTION: After death all players was near at 5 blocks,
-  recieves Weakness III for 6 seconds
+INSANE_EVENT_DISARMAMENT: Disarming
+INSANE_EVENT_DISARMAMENT_DESCRIPTION: Upon death, all players within a 7 block radius
+  receive Weakness III for 4 secs
 INSANE_EVENT_EXPLOSIVE_GIFT: Explosive gift
-INSANE_EVENT_EXPLOSIVE_GIFT_DESCRIPTION: Summons 2 creepers and ocelots at a place
-  of death
-INSANE_EVENT_FIRE_PARTY: Fire party
-INSANE_EVENT_FIRE_PARTY_DESCRIPTION: If player burns down, all players set on fire
-  for 12 seconds
-INSANE_EVENT_GODS_CREATURES: Creatures of God
-INSANE_EVENT_GODS_CREATURES_DESCRIPTION: If you hit mob, you recieve Blindless and
-  Weakness for 3 seconds
-INSANE_EVENT_HUNTER_MARK: Blood Hunter Mark
-INSANE_EVENT_HUNTER_MARK_DESCRIPTION: If players hit someone by arrow, it recieve
-  Regeneration II and Speed for 7 seconds
-INSANE_EVENT_LIGHTNING: Zeus fury
-INSANE_EVENT_LIGHTNING_DESCRIPTION: If someone dies, random player will be struck
-  by lightning
-INSANE_EVENT_LUCK: Son of Luck
-INSANE_EVENT_LUCK_DESCRIPTION: Every 45 seconds players recieve random effect at 10
-  secodns
+INSANE_EVENT_EXPLOSIVE_GIFT_DESCRIPTION: 2 creepers and 2 ocelots spawn at the player's
+  death location
+INSANE_EVENT_FIRE_PARTY: Fiery party
+INSANE_EVENT_FIRE_PARTY_DESCRIPTION: If a player burns out, then all players are set
+  on fire for 12 seconds
+INSANE_EVENT_GODS_CREATURES: God's creatures
+INSANE_EVENT_GODS_CREATURES_DESCRIPTION: When hitting any mob, you get blindness and
+  weakness for 3 seconds
+INSANE_EVENT_HUNTER_MARK: Hunter's mark
+INSANE_EVENT_HUNTER_MARK_DESCRIPTION: On hitting with a bow, you gain Regeneration
+  II and Speed I for 7 secs
+INSANE_EVENT_LIGHTNING: Zeus power
+INSANE_EVENT_LIGHTNING_DESCRIPTION: Lightning strikes when a random enemy player dies
+INSANE_EVENT_LUCK: Lucky guy
+INSANE_EVENT_LUCK_DESCRIPTION: Every 45 seconds, players receive a random effect for
+  10 seconds
 INSANE_EVENT_NURSERY: Nursery
-INSANE_EVENT_NURSERY_DESCRIPTION: For every kill you recieve Spawn Egg of random creature
-INSANE_EVENT_RISE_OF_THE_DEAD: Rise of Dead
-INSANE_EVENT_RISE_OF_THE_DEAD_DESCRIPTION: After someone dies, at the place of death
-  will summon full-diamond Skeleton
-INSANE_EVENT_SIGNS_ABOVE: Signs above
-INSANE_EVENT_SIGNS_ABOVE_DESCRIPTION: If player holds a sword in arm, it recieves
-  Glowing
-INSANE_EVENT_VEX: Sky fury
-INSANE_EVENT_VEX_DESCRIPTION: Every 90 seconds near the players summons 2 Vexes
-INSANE_EVENT_WINGS: Gift of Wings
-INSANE_EVENT_WINGS_DESCRIPTION: For every kill player recieve Levitation and Resistance
-  II for 7 seconds
-SKYWARS_DUO_TYPE: §eDuo mode
-SKYWARS_END_EFFECTS_EVENT: '§cFinal game (III) '
-SKYWARS_END_EFFECTS_EVENT_SUBTITLE: §7The game will be over in 1 minute
-SKYWARS_END_EFFECTS_EVENT_TITLE: §cFinal game
+INSANE_EVENT_NURSERY_DESCRIPTION: When you kill a player, you get a random egg call
+INSANE_EVENT_RISE_OF_THE_DEAD: Rise of the Dead
+INSANE_EVENT_RISE_OF_THE_DEAD_DESCRIPTION: After the player dies, a skeleton appears
+  in diamond armor and with a diamond sword
+INSANE_EVENT_SIGNS_ABOVE: Signs from the above
+INSANE_EVENT_SIGNS_ABOVE_DESCRIPTION: While the player is holding a sword in his hand,
+  it glows
+INSANE_EVENT_VEX: Heaven rage
+INSANE_EVENT_VEX_DESCRIPTION: Every 90 seconds, 2 mischiefs appear above the players
+INSANE_EVENT_WINGS: Winging
+INSANE_EVENT_WINGS_DESCRIPTION: Upon killing, the player gains Levitation I and Resistance
+  damage II for 7 secs
+KIT_SW_ARMADILLO: Armadillo
+KIT_SW_BASEBALL_PLAYER: Baseball player
+KIT_SW_BOMBER: Bomber
+KIT_SW_BUILDER: Builder
+KIT_SW_CHIMERA: Chimera
+KIT_SW_CHOSEN_ONE: Chosen one
+KIT_SW_ELYTRA: Elytra
+KIT_SW_FISHERMAN: Fisherman
+KIT_SW_HEALER: Healer
+KIT_SW_IMMORTAL: Immortal
+KIT_SW_KNIGHT: Knight
+KIT_SW_MAGIC: Alchemist
+KIT_SW_MINER: Miner
+KIT_SW_POSEIDON: Poseidon
+KIT_SW_RAIDER: Raider
+KIT_SW_RUNNER: Runner
+KIT_SW_SALAMANDRA: Salamandra
+KIT_SW_SNIPER: Sniper
+KIT_SW_SPIDER: Spider
+KIT_SW_SURFACED: Busrt
+KIT_SW_TELEKINETIC: Shadow assassin
+KIT_SW_VIKING: Viking
+KIT_SW_YETI: Yeti
+PERK_SW_ARES: Ares
+PERK_SW_ARES_LORE:
+- ''
+- §7Upon death, the killer receives
+- §7physical damage equal to the weapon,
+- §7which he holds in his hand.
+- §7Visual lightning appears in the place of the killer.
+- §7После убийства игрока вы получаете
+- §7Regeneration II for 22 secs
+PERK_SW_ARGILLIC: Magic blacksmith
+PERK_SW_ARGILLIC_LORE:
+- ''
+- §7Every second kill gives
+- §7+1 Sharpness on all swords
+- §7and +1 to strength for all bows in inventory
+PERK_SW_ARROW_RECOVERY: Archer
+PERK_SW_ARROW_RECOVERY_LORE:
+- ''
+- §7When hitting an enemy with a bow,
+- §7arrows will come back
+PERK_SW_BERSERK: Berserk
+PERK_SW_BERSERK_LORE:
+- ''
+- §7When taking damage more than 2.5 health hearts,
+- §7you gain Strength I for 8 seconds
+PERK_SW_BOMBER: Explosive guy
+PERK_SW_BOMBER_LORE:
+- ''
+- §73 TNT appears in your place of death,
+- §7which will explode in 2 seconds
+PERK_SW_CONSPIRED: Psycho
+PERK_SW_CONSPIRED_LORE:
+- ''
+- §7When damaging more than
+- §72.5 hearts, the enemy gets
+- §7Blindness for 4 seconds and Weakness for 1 second
+PERK_SW_CUPID: Cupid
+PERK_SW_CUPID_LORE:
+- ''
+- §7Every third hit
+- §7from a bow to the enemy, lightning strikes him
+- '§7and he gets Glowing, '
+- §7and you get Absorption II for 1 minute
+PERK_SW_CURSED: Cursed
+PERK_SW_CURSED_LORE:
+- ''
+- §7When you're only wearing one item
+- '§7with the curse of non-removability, '
+- §7You gain Health Surge I and Regeneration I
+PERK_SW_DAMN: Damn
+PERK_SW_DAMN_LORE:
+- ''
+- §7Any damage grants the enemy Drain II
+- §7for a time equal to the number of missing
+- §7hearts of health + 2 seconds.
+PERK_SW_DARK_TIME: Hour of darkness
+PERK_SW_DARK_TIME_LORE:
+- ''
+- §7After your death, the enemy will receive Blindness,
+- §7Hunger XX and Drain III for 7 seconds
+PERK_SW_ENDERMAN: Enderman
+PERK_SW_ENDERMAN_LORE:
+- ''
+- '§7With a 75% chance when using '
+- §7Ender pearls, they will not be spent
+PERK_SW_GIFTED: Gifted
+PERK_SW_GIFTED_LORE:
+- ''
+- §7Every kill imposes
+- §7the Golden apple effect on you
+PERK_SW_GLUTTON: Glutton
+PERK_SW_GLUTTON_LORE:
+- ''
+- §7When you eat something,
+- §7the effects of the golden apple are applied to you
+PERK_SW_HARD_SKIN: Hard-skinned
+PERK_SW_HARD_SKIN_LORE:
+- ''
+- §7Until you have at least one
+- §7item of armor you receive
+- §73 additional hearts of health,
+- §7otherwise you get 2
+PERK_SW_HIDDEN_KILLER: Hidden killer
+PERK_SW_HIDDEN_KILLER_LORE:
+- ''
+- §7Backstabs deal 2
+- §7pure damage more and
+- §7blind for 4 seconds. Side punches
+- §7deal 1 pure damage more
+PERK_SW_HOLY: Holy
+PERK_SW_HOLY_LORE:
+- ''
+- §7If your armor has any of the curses,
+- §7You get Regeneration I and Absorption II
+PERK_SW_MARKSMAN: Accurate shooter
+PERK_SW_MARKSMAN_LORE:
+- ''
+- §7Every third hit imposes
+- '§7random effect on enemy: Poison II, '
+- §7Blindness I for 5 seconds or Instant Damage I
+PERK_SW_METAMORPHOSIS: Metamorphosis
+PERK_SW_METAMORPHOSIS_LORE:
+- ''
+- §7The absorption effect is replaced by the effect of
+- §7health boost of the same level for 2 minutes
+PERK_SW_PHARAOH: Pharaoh's Gift
+PERK_SW_PHARAOH_LORE:
+- ''
+- §7Every 4 kills grants you
+- §7the effect of an enchanted apple
+PERK_SW_PHOENIX: Phoenix
+PERK_SW_PHOENIX_LORE:
+- ''
+- '§7With a 50% chance of any damage '
+- §7to the enemy sets them on fire for 8 seconds,
+- §7and you are impossible to be set on fire
+PERK_SW_SERVANT_OF_PAIN: Acolyte of Pain
+PERK_SW_SERVANT_OF_PAIN_LORE:
+- ''
+- '§7When you get hit by a bow, '
+- §7you get this arrow into inventory
+PERK_SW_SMOKE_BOMB: Smoke bomb
+PERK_SW_SMOKE_BOMB_LORE:
+- ''
+- §7Taking damage, with a 20% chance
+- §7you'll get night vision effect
+- §7and your enemy will get Blindness (for 2.5 secs)
+PERK_SW_SONIC: Sonic
+PERK_SW_SONIC_LORE:
+- ''
+- §7As long as you have your shoes on,
+- §7you get Speed I
+PERK_SW_UNRUFFLED: Unperturbed
+PERK_SW_UNRUFFLED_LORE:
+- ''
+- §7If you crashed, exploded, burned out or
+- §7committed suicide then the gift of the totem of
+- §7immortality is superimposed on you
+PERK_SW_VAMPIRE: Vampire
+PERK_SW_VAMPIRE_LORE:
+- ''
+- '§7When you kill a player, you replenish '
+- §76 health points, gain Damage Resistance I
+- §7and glowing for 15 secs
+PERK_SW_VIPER: Viper
+PERK_SW_VIPER_LORE:
+- ''
+- '§7Any damage to you poisons '
+- §7the attacker for 3 seconds
+- §7(only in close combat), and also you
+- §7are impossible to poison
+SKYWARS_DUO_TYPE: §ePair mode
+SKYWARS_END_EFFECTS_EVENT: '§cEnd game (III) '
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: §7Game will be over in a minute
+SKYWARS_END_EFFECTS_EVENT_TITLE: §cEnd game
 SKYWARS_GAME_END_EVENT: '§cEnd '
-SKYWARS_GLOWING_EVENT: '§aGlowing of all players '
-SKYWARS_GLOWING_EVENT_STARTED: §eAll players recieved Glowing
-SKYWARS_INSANE_CHOSEN_EVENTS: §6§lRandom Game Events was selected
-SKYWARS_LIGHTNING_EVENT: '§cFinal game (II) '
-SKYWARS_LIGHTNING_EVENT_SUBTITLE: §73 minutes remaining until the end of the game,
-  avoid lighting...
-SKYWARS_LIGHTNING_EVENT_TITLE: §cZeus fury
-SKYWARS_LOOT_EVENT: '§aChests Refill '
-SKYWARS_LOOT_EVENT_STARTED: §aAll chests in the middle was refilled
-SKYWARS_SOLO_TYPE: §eSolo mode
-SKYWARS_SPEED_EVENT: '§aSpeed Up '
-SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: §6SkyWars §8| §fYou recieved Speed §a%s§f because
-  your current perk is §aSonic
-SKYWARS_SPEED_EVENT_STARTED: §aAll players recieved Speed %s
-SKYWARS_TNTRAIN_EVENT: '§cFinal game '
-SKYWARS_TNTRAIN_EVENT_SUBTITLE: §7Dynamite appears over the heads of players, beware!
-SKYWARS_TNTRAIN_EVENT_TITLE: §cRain of TNT
+SKYWARS_GLOWING_EVENT: '§aPlayer glowing '
+SKYWARS_GLOWING_EVENT_STARTED: §eAll players got the glow effect
+SKYWARS_INSANE_CHOSEN_EVENTS: §6§lRandom game events selected
+SKYWARS_LIGHTNING_EVENT: '§cEnd game (II) '
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: §73 minutes left until the end, beware of the lightnings...
+SKYWARS_LIGHTNING_EVENT_TITLE: §cZeus' fury
+SKYWARS_LOOT_EVENT: '§aLoot update '
+SKYWARS_LOOT_EVENT_STARTED: §aThe loot in the chests in the center of the map has
+  been updated
+SKYWARS_SOLO_TYPE: §eSingle mode
+SKYWARS_SPEED_EVENT: '§aAcceleration '
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: §6SkyWars §8| §fYou got the speed effect §a%s§f
+  because you chose skill §aSonic
+SKYWARS_SPEED_EVENT_STARTED: §aAll players got the speed effect %s
+SKYWARS_TNTRAIN_EVENT: '§cEnd game '
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: §7Dynamite appears over players' heads, beware!
+SKYWARS_TNTRAIN_EVENT_TITLE: §cTNT rain
 SW_BOARD_KILLS: 'Kills: §a'
 SW_BOARD_NEXT_EVENT: 'Next event:'
 SW_CHEST_EMPTY: §4Chest is empty
-SW_GAME_ENDED: Game will be over. Winner is random team...
-SW_PLAYERS_ALIVE: 'Players left: §a'
-SW_TEAMS_ALIVE: 'Teams left: §a'
-SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cYour teammate %s has a §cvery little health!
-SW_YOUR_TEAMMATE_IS_DEAD: §cYour teammate (%s§c) has died
+SW_GAME_ENDED: The game will be over. The random team wins...
+SW_PLAYERS_ALIVE: 'Players: §a'
+SW_TEAMS_ALIVE: 'Teams: §a'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: §cYour teammate %s §chast very little health!
+SW_YOUR_TEAMMATE_IS_DEAD: §cYour teammate (%s§c) died

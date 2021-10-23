@@ -1,0 +1,313 @@
+PROTECTION_2_HELP:
+- §7/rg claim <назва регіону> §f- створити регіон
+- §7/rg remove <назва регіону> §f- видалити регіон
+- §7/rg list §f- список ваших регіонів
+- §7/rg flag §f- настройки прапорів
+- §7/rg addmember <назва регіону> <нік> §f- додати гравця в приват
+- §7/rg removemember <назва регіону> <нік> §f- видалити гравця з привату
+- §7/rg selection <назва привату> §f- показати кордони привату
+- §7/rg leave <назва привату> §f- покинути приват
+PROTECTION_ACTION_YOU: §cВи не можете видалити або додати самі себе в свій приват
+  :/
+PROTECTION_ADDMEMBERALL_FORMAT: /rg addmemberall <нік>
+PROTECTION_ADDMEMBER_2_FORMAT: /rg addmember <назва регіону> <нік>
+PROTECTION_ADDMEMBER_COMPLETE: §fГравець %s §fбув доданий в ваш приват §7%s
+PROTECTION_ADDMEMBER_COMPLETE_ERROR: §fГравець %s §fвже доданий в приват §7%s
+PROTECTION_ADDMEMBER_COMPLETE_TARGET: §fВи були додані в приват §7%s
+PROTECTION_ADDMEMBER_COMPLETE_TO: §fГравець %s §fбув доданий в приват §7%s гравцем
+  %s
+PROTECTION_ADDMEMBER_FORMAT: /rg addmember <нік>
+PROTECTION_ADDMEMBER_LIMIT: §cПомилка, ви перевищили ліміт на кількість учасників
+  вашого привату(%s), кількість учасників не повинна перевищувати %s
+PROTECTION_ADDMEMBER_REQUEST: §fЗапит на додавання в приват відправлений гравцю %s
+PROTECTION_ADDMEMBER_REQUEST_1: ' %s §fхоче додати вас в приват'
+PROTECTION_ADDMEMBER_REQUEST_ERROR: §cУ вас немає очікуючих запитів
+PROTECTION_ADDMEMBER_REQUEST_ERROR2: §cУ вас немає очікуючих запитів від гравця %s
+PROTECTION_ADDMEMBER_TARGET_LIMIT: §6Anarchy §8| §cПомилка, ви перевищили ліміт на
+  кількість приватів, ви не можете володіти більше, ніж §a%s§f приватами
+PROTECTION_BREAK_BY: §6Anarchy §8| §fПриват §7%s §fбув знищений за допомогою §7%s
+PROTECTION_BUY_EFFECT: §6Anarchy §8| §fГравець %s §fпридбав ефект §a%s §fдо §7%s
+PROTECTION_BUY_FLAG: §6Anarchy §8| §fГравець %s §fпридбав флаг §a%s §fдо §7%s
+PROTECTION_CHANGE_STATE_EFFECT: §6Anarchy §8| §fГравець %s %s§f ефект §a%s
+PROTECTION_CLAIM_ERROR: §cПомилка, не вказані точки для створення регіону
+PROTECTION_CLAIM_FORMAT: /rg claim <назва регіону>
+PROTECTION_CREATE: §fРегіон успішно створений. Пишіть §7/ps add <нік>§f, щоб додати
+  друга або §7/ps list §fдля керування регіоном. §cБлок привату можна зруйнувати вибухом!
+PROTECTION_CREATE_2: §fРегіон успішно створений. Пишіть §7/rg add %s <нік>§f, щоб
+  додати друга або §7/rg list §fдля керування регіоном
+PROTECTION_CREATE_BLOCK_LIMIT_ERROR: §fПомилка, ви не можете створити регіон, в якому
+  більше, ніж §a%s§f блоків (У вас §c%s§f)
+PROTECTION_CREATE_INTERSECTS_ERROR: §cПомилка, ваш регіон перетинається з іншими регіонами,
+  спробуйте в іншому місці
+PROTECTION_CREATE_LIMIT_ERROR: §fПомилка, ви не можете створити більше, ніж §с%s§f
+  приватів
+PROTECTION_EFFECTS_GUI_NAME: Ефекти
+PROTECTION_EFFECT_DISABLED: §cвимкнув
+PROTECTION_EFFECT_DISABLE_LORE:
+- ''
+- '§7Ціна за монети: §a%s §f(%s)'
+- §cПовторна покупка оновить час!
+- ''
+- '§7Для учасників привату: %s'
+- '§7Статус: %s'
+- ''
+- '§7Даний ефект закінчується:'
+- '%s'
+- ''
+- §e▸ Натисніть ПКМ, щоб оновити час
+- §e▸ Натисніть ЛКМ, щоб вимкнути ефект
+PROTECTION_EFFECT_ENABLED: §aувімкнув
+PROTECTION_EFFECT_ENABLE_ERROR: §6Anarchy §8| §fВибачте, але ви не можете активувати
+  даний ефект, ліміт вашого привату на к-ть ефектів §7%s
+PROTECTION_EFFECT_ENABLE_LIMIT_LORE:
+- ''
+- '§7Ціна за монети: §a%s §f(%s)'
+- §cПовторна покупка оновить час!
+- ''
+- '§7Для учасників привату: %s'
+- '§7Статус: %s'
+- ''
+- '§7Даний ефект закінчується:'
+- '%s'
+- ''
+- §cВи не можете активувати цей ефект
+- §cУ вас перевищений ліміт на кількість
+- §cактивованих ефектів!
+PROTECTION_EFFECT_ENABLE_LORE:
+- ''
+- '§7Ціна за монети: §a%s §f(%s)'
+- §cПовторна покупка оновить час!
+- ''
+- '§7Для учасників привату: %s'
+- '§7Статус: %s'
+- ''
+- '§7Даний ефект закінчується:'
+- '%s'
+- ''
+- §e▸ Натисніть ПКМ, щоб оновити час
+- §e▸ Натисніть ЛКМ, щоб увімкнути ефект
+PROTECTION_EFFECT_LORE:
+- ''
+- '§7Ціна за монети: §a%s §f(%s)'
+- §cДаний ефект вам недоступний!
+- ''
+- '§7Для учасників привату: %s'
+- ''
+- §e▸ Натисніть ПКМ, щоб купити за монети
+PROTECTION_EFFECT_NOT_OPEN: §6Anarchy §8| §fЦей ефект вам недоступний, купіть його!
+PROTECTION_END: §6Anarchy §8| §cПомилка, ставити привати в енді заборонено
+PROTECTION_FLAGS_GUI_NAME: Прапори
+PROTECTION_FLAG_ANTI_TNT_LORE:
+- ''
+- §7Забороняє вибуху TNT
+- §7руйнувати блоки в регіоні
+PROTECTION_FLAG_ANTI_TNT_NAME: Анти динаміт
+PROTECTION_FLAG_DISABLED: §6Anarchy §8| §fВ цьому регіоні активований прапор §a%s
+PROTECTION_FLAG_ENTITY_LORE:
+- ''
+- §7Забороняє іншим гравцям
+- §7завдавати шкоди будь-яким істотам
+PROTECTION_FLAG_ENTITY_NAME: Захист тварин
+PROTECTION_FLAG_FORMAT: /rg flag <назва регіону>
+PROTECTION_FLAG_HORUS_LORE:
+- ''
+- §7Блокує використання Хорусу
+- §7і Перли Ендер у гравців,
+- §7які не є членами регіону
+PROTECTION_FLAG_HORUS_NAME: Захист від Хоруса
+PROTECTION_FLAG_LORE:
+- ''
+- '§7Ціна за монети: §a%s §f(%s)'
+- '§7Ціна за золото: §e%s §f(%s)'
+- ''
+- '§7Цей прапор закінчується:'
+- '%s'
+- ''
+- §e▸ Натисніть ЛКМ, щоб купити за монети
+- §e▸ Натисніть ПКМ, щоб купити за золото
+PROTECTION_FLAG_NOT_USED: У вас немає прав на використання цього прапора. Власник
+  привату повинен бути %s §fабо вище
+PROTECTION_FLAG_NOT_USED_GUI:
+- §cДоступний для %s §cі вище
+- §c(Повинен бути у власника острова)
+PROTECTION_FLAG_PROTECTION_ALL_LORE:
+- ''
+- §7Ваш блок привату неможливо
+- §7знищити ніяким способом
+PROTECTION_FLAG_PROTECTION_ALL_NAME: Максимальний захист
+PROTECTION_HELP:
+- §7/rg list §f- список ваших регіонів
+- §7/rg accept <нік> §f- прийняти запит на додавання в приват
+- §7/rg addmember <нік> §f- додати гравця в приват §c(ви повинні бути членом привату)
+- §7/rg removemember <нік> §f- видалити гравця з привату §c(вы должны стоять в привате)
+- §7/rg addmemberall <нік> §f- додати гравця в усі ваші привати
+- §7/rg removememberall <нік> §f- видалити гравця з усіх ваших приватів
+- §7/rg selection §f- показати кордони привату §c(ви повинні бути членом привату)
+- §7/rg leave §f- покинути приват §c(ви повинні бути членом привату)
+PROTECTION_ITEM_EMPTY_NAME: §cУ вас немає доступних приватів
+PROTECTION_ITEM_LORE:
+- ''
+- '§7Власник: %s'
+- §7Учасників §a%s§7/§c%s
+- '§7Розміри: §a%s§7x§a%s§7x§a%s'
+- '§7Дата створення: §f%s'
+- '§7Координати центрального блоку:'
+- ' §7Світ: §c%s'
+- ' §7X: §c%s'
+- ' §7Y: §c%s'
+- ' §7Z: §c%s'
+PROTECTION_ITEM_LORE2: §e▸ Натисніть ЛКМ, для керування регіоном
+PROTECTION_LEAVE: §6Anarchy §8| §fВи покинули приват §7%s
+PROTECTION_LEAVE_FORMAT: /rg leave <назва регіону>
+PROTECTION_LEAVE_LORE:
+- ''
+- §7Хочете покинути регіон ?
+- ''
+- §e▸ Натисніть, щоб покинути регіон
+PROTECTION_LEAVE_NAME: Покинути регіон
+PROTECTION_LEAVE_OWNER_ERROR: §cВи не можете покинути свій власний приват
+PROTECTION_LEAVE_TO: §6Anarchy §8| §fГравець %s §fпокинув приват §7%s
+PROTECTION_MAIN_GUI_NAME: Налаштування регіону
+PROTECTION_MEMBERS_GUI_NAME: Учасники
+PROTECTION_MEMBER_LORE:
+- ''
+- '§7Став учасником: §f%s'
+- '§7Ранг: §7%s'
+- '§7Онлайн: %s'
+- ''
+- §e▸ Натисніть ПКМ, щоб керувати гравцем
+PROTECTION_MEMBER_REMOVE_LORE:
+- ' '
+- §7Видалити учасника
+- §7і заборонити йому будь-які зміни
+- §7вашого привату
+- ' '
+- §e▸ Натисніть, щоб видалити учасника
+PROTECTION_MEMBER_REMOVE_NAME: Видалити учасника
+PROTECTION_MEMBER_SETTINGS_OWNER: §6Anarchy §8| §cПомилка, ви не можете налаштовувати
+  права власника привату!
+PROTECTION_MEMBER_SET_RANK_ALERT: §6Anarchy §8| §fГравцю %s §fбули призначені нові
+  права керування приватом
+PROTECTION_NAME: Приват
+PROTECTION_NAME_NOT_VALID: §cПомилка, ім'я регіону занадто довге або містить неприпустимі
+  символи
+PROTECTION_NOT_OWNER: §cПомилка, ви не власник або со-власник цього привату!
+PROTECTION_NOT_YOU: §cЦей регіон вам не належить
+PROTECTION_NO_LEAVE: §cВи не можете залишити власний приват
+PROTECTION_NO_PERMS: §cПомилка, цю дію може робити тільки власник острова
+PROTECTION_NO_PERMS_GROUP: §cПомилка, у вас повинні бути права власника або со-власника
+PROTECTION_PROFILE_DEFAULT_FLAGS_LORE:
+- ' '
+- §7Налаштування прапорів для вашого привату
+- ' '
+- §e▸ Натисніть, щоб відкрити меню
+PROTECTION_PROFILE_DEFAULT_FLAGS_NAME: Прапори
+PROTECTION_PROFILE_EFFECTS_LORE:
+- ' '
+- §7Купівля позитивних і негативних
+- §7ефектів для вашого привату
+- ' '
+- §e▸ Натисніть, щоб відкрити меню
+PROTECTION_PROFILE_EFFECTS_NAME: Ефекти
+PROTECTION_PROFILE_FLAGS_LORE:
+- ' '
+- §7Купівля додаткових прапорів
+- §7для поліпшення вашого привату
+- ' '
+- §e▸ Натисніть, щоб відкрити меню
+PROTECTION_PROFILE_FLAGS_NAME: Кастомні прапори
+PROTECTION_PROFILE_MEMBERS_LORE:
+- ' '
+- §7Перегляд всіх учасників привату,
+- §7а також детальна інформація про кожного з них
+- ' '
+- §e▸ Натисніть, щоб відкрити меню
+PROTECTION_PROFILE_MEMBERS_NAME: Список учасників привату
+PROTECTION_PROFILE_UPGRADE_LORE:
+- ' '
+- §7Купівля розширень для вашого привату
+- ' '
+- §e▸ Натисніть, щоб відкрити меню
+PROTECTION_PROFILE_UPGRADE_NAME: Розширення привату
+PROTECTION_RANK_CO_OWNER:
+- ' '
+- '§7Доступні права:'
+- §8• §7Всі права учасника
+- §8• §7Купівля і установка кастомних прапорів
+- §8• §7Управління правами користувачів привату
+- §8• §7Розширення привату
+- ' '
+PROTECTION_RANK_MEMBER:
+- ' '
+- '§7Доступні права:'
+- §8• §7Взаємодія з територією привату
+- ' '
+PROTECTION_REGIONS_ALL_COMMAND_NO_RG: §6Anarchy §8| §fРегіони не знайдені або ви не
+  їх власник
+PROTECTION_REGIONS_COMMAND_NO_RG: §6Anarchy §8| §fРегіони в даній локації не знайдені
+  або ви не їх власник/член
+PROTECTION_REGIONS_STICK: '§eЗнайдений регіон гравця: %s'
+PROTECTION_REGIONS_STICK_EMPTY: §eРегіони не знайдені
+PROTECTION_REGION_FOUND: §cПомилка, регіон з таким ім'ям вже існує
+PROTECTION_REGION_LIST: Список регіонів
+PROTECTION_REGION_NULL: §cРегіон не знайдено
+PROTECTION_REMOVE: §fРегіон успішно видалений
+PROTECTION_REMOVEMEMBERALL_FORMAT: /rg removememberall <нік>
+PROTECTION_REMOVEMEMBER_2_FORMAT: /rg removemember <назва регіону> <нік>
+PROTECTION_REMOVEMEMBER_COMPLETE: §fГравець %s §fбув видалений з привату §7%s
+PROTECTION_REMOVEMEMBER_COMPLETE_ERROR: §fГравець %s §fвідсутній в списку учасників
+  привату §7%s
+PROTECTION_REMOVEMEMBER_COMPLETE_TARGET: §fВи були видалені гравцем %s §fіз привату
+  §7%s
+PROTECTION_REMOVEMEMBER_COMPLETE_TO: §fГравець %s §fбув видалений з привату §7%s гравцем
+  %s
+PROTECTION_REMOVEMEMBER_FORMAT: /rg removemember <нік>
+PROTECTION_REMOVE_BY: §fВаш приват §7%s §fбув видалений гравцем %s
+PROTECTION_REMOVE_FORMAT: /rg remove <назва регіону>
+PROTECTION_REMOVE_OWNER_ERROR: §fПомилка, ви не можете зняти приват, так як ви не
+  власник цього регіону
+PROTECTION_SELECTION_FORMAT: /rg selection <назва регіону>
+PROTECTION_SET_BED_ERROR: §6Anarchy §8| §cПомилка, ви не можете встановити точку будинку
+  в чужому регіоні
+PROTECTION_UPDATE_INTERSECTS_ERROR: §cПомилка, ваш регіон перетинається з іншими регіонами,
+  ви не можете розширити свій приват
+PROTECTION_UPGRADE_FULL:
+- ''
+- §7Ви вичерпали кількість поліпшень
+- §7цього привату
+PROTECTION_UPGRADE_FULL_MESSAGE: §6Anarchy §8| §fПомилка, у вас максимальний рівень
+  прокачування
+PROTECTION_UPGRADE_GUI_NAME: Покращення
+PROTECTION_UPGRADE_HELP_LORE:
+- ''
+- '§7Розміри: §a%s§7x§a%s§7x§a%s'
+- '§7Доступних поліпшень: §e%s§7/§c%s'
+PROTECTION_UPGRADE_HELP_NAME: Інформація
+PROTECTION_UPGRADE_NO_MONEY: §6Anarchy §8| §fПомилка, у вас недостатньо грошей для
+  покупки розширення
+PROTECTION_UPGRADE_SIDE_LORE:
+- ' '
+- §7Розширення привату по §fX §7і §fZ
+- §7на §f%s §7блоків
+- ''
+- '§7Ціна: §a%s$'
+- ''
+- §e▸ Натисніть, щоб покращити
+PROTECTION_UPGRADE_SIDE_NAME: Розширити по X і Z
+PROTECTION_UPGRADE_SIDE_SUCCES: §6Anarchy §8| §fПриват §7%s §fуспішно розширено на
+  §a%s §fблоків по координатах §7X §fі §7Z
+PROTECTION_UPGRADE_SIDE_SUCCES_TO: §6Anarchy §8| §fПриват §7%s §fрозширено на §a%s
+  §fблоків по координатах §7X §fі §7Z §fгравцем %s
+PROTECTION_UPGRADE_UP_LORE:
+- ' '
+- §7Розширення привату по §fY
+- §7на §f%s §7блоків
+- ''
+- '§7Ціна: §a%s$'
+- ''
+- §e▸ Натисніть, щоб покращити
+PROTECTION_UPGRADE_UP_NAME: Розширити по Y
+PROTECTION_UPGRADE_UP_SUCCES: §6Anarchy §8| §fПриват §7%s §fуспішно розширено на §a%s
+  §fблоків по координаті §7Y
+PROTECTION_UPGRADE_UP_SUCCES_TO: §6Anarchy §8| §fПриват §7%s §fрозширено на §a%s §fблоків
+  по координаті §7Y §fгравцем %s

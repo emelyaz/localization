@@ -1,239 +1,494 @@
-ARENA_BUSY: §cThe arena is full. Not enough slots? Purchase §a§lEMERALD§c or higher
-ARENA_RESTART: §cServer is restarting...
-ARENA_START: §cThe game has already started
+ARENA_BUSY: §cThe arena is full, not enough slots? Buy §a§lEMERALD§c or higher
+ARENA_RESTART: §cServer is rebooting...
+ARENA_START: §cThe game begins...
 BREAK_BLOCK_UNDER_TEAM: §cYou cannot break blocks under your teammates
+BREAK_EFFECT: broken bed/egg effect
+BREAK_EFFECT_SELECTION_MESSAGE: You chose effect §a%s
 COMPASS_ITEM_LORE:
-- §7Use it to teleport to the players
+- §7Use it to teleport to players
 COMPASS_ITEM_NAME: §eTeleporter
 COMPASS_MESSAGE: '§fPlayer: %s      §fDistance: '
 COMPASS_MESSAGE_SPECTATOR: '§fNearest player: %s      §fDistance: §a%s'
+COMPASS_MODE_CHANGED: Compass mode changed for §e%s
+COMPASS_MODE_NEAREST_PLAYER: search for the nearest player
+COMPASS_MODE_TEAMMATE: search for the nearest teammate
 DEATH_MSG_TITLE: §cYou died
-FINAL_KILL: '%s §fwas killed by %s §bFINAL KILL!'
+FINAL_KILL: '%s §fhas been killed by player %s §bFINAL KILLS!'
 GAMEINFO_FORMAT: /gameinfo [channel]
 GAME_COSMETIC_0_LORE:
-- §7Play a melody on strings of nerves
+- §7Play the melody on the notes of the bowstring
 GAME_COSMETIC_0_NAME: Notes
+GAME_COSMETIC_100_LORE:
+- §7The beginning of the game is accompanied by festive
+- §7fireworks!
+GAME_COSMETIC_100_NAME: Fireworks
+GAME_COSMETIC_101_LORE:
+- §7Specially for avid blacksmiths there is
+- §7a set of your favorite sound of
+- §a hammer on the anvil
+GAME_COSMETIC_101_NAME: Blacksmith
+GAME_COSMETIC_102_LORE:
+- §7The End world fascinates with its
+- §7sounds just before the match.
+- §7Worth trying!
+GAME_COSMETIC_102_NAME: Enderworld
+GAME_COSMETIC_103_LORE:
+- §7Scatters your enemies with their own weapon
+GAME_COSMETIC_103_NAME: Egg launcher
+GAME_COSMETIC_10_LORE:
+- §7Immortality effect gives...
+- §7immortality for your arrow. As if it were mortal!
+GAME_COSMETIC_10_NAME: Immortality
+GAME_COSMETIC_110_LORE:
+- §7As red as the blood of your enemies
+GAME_COSMETIC_110_NAME: Red
+GAME_COSMETIC_111_LORE:
+- §7Great for winter camouflage!
+GAME_COSMETIC_111_NAME: White
+GAME_COSMETIC_112_LORE:
+- §7Orange color will give you
+- §7sourness in PvP
+GAME_COSMETIC_112_NAME: Orange
+GAME_COSMETIC_113_LORE:
+- §7Superbly crafted purple shield
+GAME_COSMETIC_113_NAME: Purple
+GAME_COSMETIC_114_LORE:
+- §7In iron armor you turn into
+- §7a blue carriage.
+GAME_COSMETIC_114_NAME: Blue
+GAME_COSMETIC_115_LORE:
+- §7The sun shield will blind you with its beauty!
+GAME_COSMETIC_115_NAME: Yellow
+GAME_COSMETIC_116_LORE:
+- §7Do not confuse with lime fruit
+- §7Yes, it happened before
+GAME_COSMETIC_116_NAME: Light green
+GAME_COSMETIC_117_LORE:
+- §7The most glamorous shield
+GAME_COSMETIC_117_NAME: Pink
+GAME_COSMETIC_118_LORE:
+- §7A gray shield, just like a mouse
+- §7Sneak just as discreetly!
+GAME_COSMETIC_118_NAME: Gray
+GAME_COSMETIC_119_LORE:
+- §7This shade came from the ashes
+- §7of Pyromancer on SkyWars
+GAME_COSMETIC_119_NAME: Silver
+GAME_COSMETIC_11_LORE:
+- §7Waves of magical powers of all creatures
+- §7will follow you arrow.
+- §7Don't make them angry
+GAME_COSMETIC_11_NAME: Potions
+GAME_COSMETIC_120_LORE:
+- §7If you can't choose between
+- §7a green and a blue one, then this is what you need!
+GAME_COSMETIC_120_NAME: Turquoise
+GAME_COSMETIC_121_LORE:
+- §7A luxurious shield for real kings!
+GAME_COSMETIC_121_NAME: Violet
+GAME_COSMETIC_122_LORE:
+- §7Now the shield is the sea! Even arrows are absorbed just as well
+GAME_COSMETIC_122_NAME: Blue
+GAME_COSMETIC_123_LORE:
+- §7Hope it's not what you thought it is.
+GAME_COSMETIC_123_NAME: Brown
+GAME_COSMETIC_124_LORE:
+- §7They say green is soothing
+- §7Test on your enemies
+GAME_COSMETIC_124_NAME: Green
+GAME_COSMETIC_125_LORE:
+- §7Smear the shield with your soul!
+GAME_COSMETIC_125_NAME: Black
+GAME_COSMETIC_126_LORE:
+- §7Putin, vodka, balalaika
+GAME_COSMETIC_126_NAME: Russia
+GAME_COSMETIC_127_LORE:
+- §7This is Europe
+GAME_COSMETIC_127_NAME: Ukraine
+GAME_COSMETIC_128_LORE:
+- §7A dangerous and sociable dragon
+GAME_COSMETIC_128_NAME: Dragon
+GAME_COSMETIC_129_LORE:
+- §7The portrait of the last Lord!
+GAME_COSMETIC_129_NAME: Skeleton
+GAME_COSMETIC_130_LORE:
+- §7But you are not immortal, no
+GAME_COSMETIC_130_NAME: Deadpool
+GAME_COSMETIC_131_LORE:
+- §7For music connoisseurs
+GAME_COSMETIC_131_NAME: Guitar
+GAME_COSMETIC_132_LORE:
+- §7Show everyone how much you love them!
+GAME_COSMETIC_132_NAME: Hearts
+GAME_COSMETIC_133_LORE:
+- §7The famous Santa's deer!
+GAME_COSMETIC_133_NAME: Deer
+GAME_COSMETIC_134_LORE:
+- §7Pikachu will come out of it!
+GAME_COSMETIC_134_NAME: Pokeball
+GAME_COSMETIC_135_LORE:
+- §7Every time you kill a player,
+- §7you do it to the effect of musical notes!
+GAME_COSMETIC_135_NAME: Murderous symphony
+GAME_COSMETIC_136_LORE:
+- §7Every time you kill a player,
+- §7you let him know that you love him!
+GAME_COSMETIC_136_NAME: Romeo
+GAME_COSMETIC_137_LORE:
+- §7Every time you kill a player,
+- §7the wrath of heaven descends on his corpse!
+GAME_COSMETIC_137_NAME: Lord of lightnings
+GAME_COSMETIC_138_LORE:
+- §7Every time you kill a player,
+- §a farewell firework displays on his grave!
+GAME_COSMETIC_138_NAME: Farewell fireworks
 GAME_COSMETIC_1_LORE:
-- §7Great choice with Fire Arrow effect!
+- §7Perfectly complements the effect of a burning arrow!
 GAME_COSMETIC_1_NAME: Smoke
 GAME_COSMETIC_2_LORE:
-- §7..also great choice
+- §7..and this one is also a great addition
 GAME_COSMETIC_2_NAME: Fire
 GAME_COSMETIC_3_LORE:
-- §7Now imagine you are Amur. Shot.
+- §7Imagine that you are Cupid. Shoot.
 GAME_COSMETIC_3_NAME: Hearts
+GAME_COSMETIC_4_LORE:
+- §7Streams of joy from the wisest inhabitant
+- §7will lead your arrows
+- §7in the right direction!
+GAME_COSMETIC_4_NAME: Emerald
+GAME_COSMETIC_5_LORE:
+- §7From now on, your arrows are fireworks
+GAME_COSMETIC_5_NAME: Fireworks
+GAME_COSMETIC_6_LORE:
+- §7Create a Christmas mood
+- §7at any time of the year!
+GAME_COSMETIC_6_NAME: Garland
+GAME_COSMETIC_7_LORE:
+- §7Magical stream of the great witch
+- §7accompanies your every shot
+GAME_COSMETIC_7_NAME: Witch
+GAME_COSMETIC_8_LORE:
+- §7In fact, the villager is not angry, but furious
+GAME_COSMETIC_8_NAME: Angry villager
+GAME_COSMETIC_9_LORE:
+- §7If you don't know where clouds come from,
+- §7then buy this effect
+GAME_COSMETIC_9_NAME: Cloud
+GAME_COSMETIC_ALREADY_HAVE: §fYou already have this item, you received §b+%s %s
 GAME_COSMETIC_GUI_ARROW_LORE:
 - ''
-- §7Buy and activate
-- §7arrow effects
-- §7for all minigames.
+- §7Buying and activating flying arrows effects
+- §7which are activated
+- §7on arenas of all mini-games.
 - ''
-- '§7Opened: §a%s/%s §6%s'
+- '§7Unlocked: §a%s/%s §6%s'
 - '§7Activated effect:'
 - '%s'
 - ''
-- §e▸ Click to open a menu
-GAME_COSMETIC_GUI_ARROW_NAME: Arrow effects
+- §e▸ Click to open the menu
+GAME_COSMETIC_GUI_ARROW_NAME: Arrows effects
 GAME_COSMETIC_GUI_COLORABLE_LORE:
 - ''
-- §7Buy and activate
-- §7colors that appears
-- §7on your shield and leather armor.
+- §7Buying and activating the colors
+- §7in which your shields
+- §7and leather armor will be painted..
 - ''
-- '§7Opened: §a%s/%s §6%s'
+- '§7Unlocked: §a%s/%s §6%s'
 - '§7Activated color:'
 - '%s'
 - ''
-- §e▸ Click to open a menu
-GAME_COSMETIC_GUI_COLORABLE_NAME: Color of shields and armor
+- §e▸ Click to open the menu
+GAME_COSMETIC_GUI_COLORABLE_NAME: Colored shields and armor
 GAME_COSMETIC_GUI_KILL_EFFECT_LORE:
 - ''
-- §7Buy and activate
-- §7effects that will appear
-- §7when you kill someone.
+- §7Buying and activating the effects
+- §7which will be played
+- §7next to a player you kill.
 - ''
-- '§7Opened: §a%s/%s §6%s'
+- '§7Unlocked: §a%s/%s §6%s'
 - '§7Activated effect:'
 - '%s'
 - ''
-- §e▸ Click to open a menu
-GAME_COSMETIC_GUI_KILL_EFFECT_NAME: Kill effect
+- §e▸ Click to open the menu
+GAME_COSMETIC_GUI_KILL_EFFECT_NAME: Kill effects
 GAME_COSMETIC_GUI_START_SOUND_LORE:
 - ''
-- §7Buy and activate
-- §7sounds that you
-- §7hear when game starts.
+- §7Buying and activating sounds
+- §7which you will hear at the
+- §7beginning of the game.
 - ''
-- '§7Opened: §a%s/%s §6%s'
+- '§7Unlocked: §a%s/%s §6%s'
 - '§7Activated sound:'
 - '%s'
 - ''
-- §e▸ Click to open a menu
+- §e▸ Click to open the menu
 GAME_COSMETIC_GUI_START_SOUND_NAME: Start sound
-GAME_COSMETIC_KEY: §aGame (Cosmetic) Key
+GAME_COSMETIC_KEY: §aCosmetic gaming key
+GAME_COSMETIC_KEY_LORE:
+- ''
+- §7Is used for receiving
+- §7arrow effects, death rales and other
+- §7visual stuff on arenas
+- ''
+- §cAttention! When knocking out an already existing
+- §citem, you will get dust (10% of the cost)
+GAME_COSMETIC_LEVEL_ERROR:
+- §cATTENTION! T0 use this item,
+- §cyou must have %s level or any other of
+- §cthe available donate statuses!
+GAME_COSMETIC_MAIN_GUI_NAME: Cosmetics
+GAME_COSMETIC_NO_LEVEL: §cError, you don't have %s level for activation (
 GAME_END_BOARD_DESC: Game over!
+GAME_END_BOARD_NO_WINNER: §cDraw
 GAME_END_BOARD_TITLE: §fGame over
 GAME_END_BOARD_TITLE_WINNER: '§fWinner:'
 GAME_END_BOARD_TITLE_WINNERS: '§fWinners:'
 GAME_END_BOARD_WINNER: 'Winner:'
 GAME_END_BOARD_WINNERS: 'Winners:'
-GAME_REJOIN: §fYou have rejoined to your previous game
-GAME_SHOP_GUI_ADD_FAVOURITE: §aRMB to add to Favorites
-GAME_SHOP_GUI_FAVOURITE: Empty Favorites slot
+GAME_NO_WINNER: §cThe game ended in a draw
+GAME_PLACE: '%s%s place §8- §e%s'
+GAME_REJOIN: §fYou reentered the game
+GAME_SHOP_GUI_ADD_FAVOURITE: §aRMC to add to favorites
+GAME_SHOP_GUI_FAVOURITE: Empty slot for favorites
 GAME_SHOP_GUI_FAVOURITE_LOER:
 - ''
-- §cThis slot is locked
-- §cBuy %s §crank or higher to unlock
-GAME_SHOP_GUI_ITEMS_BUY: §e▸ LMB to buy
+- §cThis slot is blocked
+- §cPurchase %s §cor higher to unblock
+GAME_SHOP_GUI_ITEMS_BUY: §e▸ Click LMC to purchase
 GAME_SHOP_GUI_ITEMS_FIRST_LORE:
 - ''
-- '§8Contains:'
-GAME_SHOP_GUI_ITEMS_NO_ITEMS: §cYou have not enough resources!
+- '§8Items:'
+GAME_SHOP_GUI_ITEMS_NO_ITEMS: §cYou don't have enough resources!
 GAME_SHOP_GUI_ITEMS_SECOND_LORE:
 - ''
 - '§7Price: %s %s'
 - ''
-- §8Hold SHIFT to buy
-- §85 times more
+- §8Press SHIFT to
+- §8buy 5 times more
 - ' '
-GAME_SHOP_GUI_NAME: Shop
-GAME_SHOP_GUI_NO_SLOTS_FAVOURITE: §cFavorites is full!
-GAME_SHOP_GUI_REMOVE_FAVOURITE: §cRMB to remove from Favorites
-GAME_SHOP_NO_SLOTS: §cYour inventory is full!
+GAME_SHOP_GUI_NAME: Store
+GAME_SHOP_GUI_NO_SLOTS_FAVOURITE: §cYou have no free slots to add to favorites!
+GAME_SHOP_GUI_REMOVE_FAVOURITE: §cRMC to delete from favorites
+GAME_SHOP_NO_SLOTS: §cYou don't have enough space in your inventory!
 GAME_SHOP_NPC_HOLO:
-- §eShop
+- §eStore
 - §fClick to open!
-GAME_SPECTATOR_MESSAGE: You died and can spectate only now.
-GAME_TITLE_NOT_WINNER: §7You has failed!
+GAME_SPECTATOR_MESSAGE: You died and now you can only watch the game process.
+GAME_TITLE_NOT_WINNER: §7You lost in this game
 GAME_TITLE_OVER: §c§lGAME OVER
-GAME_TITLE_SOLO_WIN: §7You are the last player who survived!
-GAME_TITLE_TEAM_WIN: §7Your team has won!
+GAME_TITLE_SOLO_WIN: §7You are the last player standing
+GAME_TITLE_TEAM_WIN: §7Your team won this game
 GAME_TITLE_WIN: §6§lVICTORY
-GAME_WINNER: Winner is %s
-GAME_WINNERS: Winners are %s
-JOIN_GAMER_ARENA: '%s§f joined the game (§a%s§f/§a%s§f)'
-KIT_PURCHASE_MESSAGE: Kit §a%s §fpurchased for §a%s §f%s
-KIT_SELECTION_MESSAGE: Kit §a%s §fchosen
-NO_PREFIX_SET: §6Server §8| §cYou cannot change your prefix during the game
-ONLY_DONATOR: §cError, this arena is only for donators
+GAME_TITLE_WIN_PLACE: §7You took the %s place in the game
+GAME_UPGRADE_NPC_HOLO:
+- §eUpgrade store
+- §fClick to open!
+GAME_WINNER: Winner - %s
+GAME_WINNERS: Winners - %s
+GLOBAL_TEAM_GAME_CHAT_FORMAT: ' §8[§cTo all§8] '
+JOIN_GAMER_ARENA: '%s§f entered the game (§a%s§f/§a%s§f)'
+JOIN_SPEC_MSG_SUBTITLE: §7You can only watch the gameplay
+JOIN_SPEC_MSG_TITLE: §cThe game has already started
+KIT_PURCHASE_MESSAGE: You purchased set §a%s §ffor §a%s §f%s
+KIT_SELECTION_MESSAGE: You chose set §a%s
+LOCAL_TEAM_GAME_CHAT_FORMAT: ' §8[§aTo team§8] '
+LOCATOR_ITEM_NAME: §aLocator
+NO_PREFIX_SET: §6Server §8| §cYou cannot change the prefix while playing
+ONLY_DONATOR: §cError, only donators are in the arena
 PERK_ITEM_LORE:
-- §7Use this item to
-- §7choose one perk for
-- §7this game
-PERK_ITEM_NAME: §ePerks
-PERK_PURCHASE_MESSAGE: Kit §a%s §fpurchased for §a%s §f%s
-PERK_SELECTION_MESSAGE: Kit §a%s §fchosen
-PLAYER_ALIVE_GAME: §fThere are §a%s§f %s alive
-PLAYER_LEFT: §fPlayer %s§f has left the game
+- §7Use this item
+- §7to choose one of the various
+- §7skills for this game
+PERK_ITEM_NAME: §eSkills
+PERK_PURCHASE_MESSAGE: You have acquired the skill §a%s §ffor §a%s §f%s
+PERK_SELECTION_MESSAGE: You chose skill §a%s
+PLAYER_ALIVE_GAME: §fRemained on the map §a%s§f %s
+PLAYER_LEFT: §fPlayer %s§f left the game
 QUIT_GAMER_ARENA: '%s§f left the game (§c%s§f/§a%s§f)'
-RESPAWN_SUBTITLE: §7You will respawn in §c%s §7%s
-RESPAWN_TITLE: §aRespawn
-RESTART_ARENA_MSG: §cGame is restarting in 5 seconds, you will sent to lobby in that
-  time.
-SELECTOR_TEAM_NAME_INV: 'Selected team: %s'
-SELECTOR_TEAM_NO_PLAYERS: §7There are no players...
+RESPAWN_SUBTITLE: §7You will be reborn in §c%s §7%s
+RESPAWN_TITLE: §aYou were reborn
+RESTART_ARENA_MSG: §cRestart arena, after 5 seconds you will be moved to the lobby
+SELECTOR_TEAM_NAME_INV: 'Choose players: %s'
+SELECTOR_TEAM_NO_PLAYERS: §7No players...
 SELECTOR_TEAM_PLAYERS: '§7Players:'
-SLOT_BUSY: §cSorry, but you were teleported to the lobby, your place was taken by
-  §r%s
-SOLO_NO_TEAM: §c§lAttention! §cAttention! Teaming is not allowed! Report about violators
-  to official VK community.
-SPECTATOR_CAMERA_ACTIONBAR: §fClick §aSHIFT §fto leave spectator mode
+SLOT_BUSY: §cSorry, but you were moved to the lobby, your seat was taken by §r%s
+SOLO_NO_TEAM: §c§lAttention! §cTeam play is prohibited in Solo mode.
+SPECTATOR_CAMERA_ACTIONBAR: §fPress §aSHIFT §fto leave spectator mode
 SPECTATOR_CAMERA_OFF: §cYou left spectator mode
-SPECTATOR_CAMERA_SUBTITLE: 'Spectating the player: %s'
+SPECTATOR_CAMERA_SUBTITLE: 'Watching the player: %s'
 SPECTATOR_CAMERA_TITLE: §eSpectator mode
+SPECTATOR_INVENTORY_SEE_GUI_TITLE: Inventory ► %s
 SPECTATOR_KILLS_LORE: '§7Kills: §c%s'
 SPECTATOR_MAIN_LORE:
 - '§7Health: §e%s'
 - '§7Hunger: §e%s'
 - ''
-- §e▸ Left click to teleport
-- §e▸ Right click to specate from 1st person
+- §e▸ LMC to teleport
+- §e▸ RMC to observe from the 1st person
 SPECTATOR_MENU_ITEM_LORE:
 - §7Use this item
-- §7to spectate
-- §7the game of players that are still alive
+- §7to watch the players
 SPECTATOR_MENU_ITEM_NAME: §eTeleporter
 SPECTATOR_MENU_NAME: Teleporter
-SPECTATOR_NO_PERK_LORE: §cN/A
-SPECTATOR_PERK_LORE: '§7Selected perk: §a%s'
-SPECTATOR_SETTINGS_FLY_OFF: §cDisable constant fly
-SPECTATOR_SETTINGS_FLY_ON: §aEnable constant fly
-SPECTATOR_SETTINGS_GUI_NAME: Spectator settings
+SPECTATOR_MODE: Spectator
+SPECTATOR_NO_PERK_LORE: §cNot chosen
+SPECTATOR_PERK_LORE: '§7Language chosen: §a%s'
+SPECTATOR_SETTINGS_FLY_OFF: §cTurn off constant flight
+SPECTATOR_SETTINGS_FLY_ON: §aTurn on constant flight
+SPECTATOR_SETTINGS_GUI_NAME: Spectator's settings
 SPECTATOR_SETTINGS_HIDE: §cHide spectators
 SPECTATOR_SETTINGS_ITEM_LORE:
 - §7Use this item
-- §7to change spectator
-- §7settings
-SPECTATOR_SETTINGS_ITEM_NAME: §eSpectator settings
+- §7to change settings
+- §7of spectator
+SPECTATOR_SETTINGS_ITEM_NAME: §eSpectator's settings
 SPECTATOR_SETTINGS_NO_SPEED: No speed
 SPECTATOR_SETTINGS_SHOW: §aShow spectators
 SPECTATOR_SETTINGS_SPEED: Speed
-SPECTATOR_SETTINGS_VISION_OFF: §6Spectating §8| §fNight vision disabled
-SPECTATOR_SETTINGS_VISION_ON: §6Spectating §8| §fNight vision enabled
+SPECTATOR_SETTINGS_VISION_OFF: §cTurn off night vision
+SPECTATOR_SETTINGS_VISION_ON: §aTurn on night vision
+SPECTATOR_SETTING_CHANGED: §6Observation §8| §fMovement speed changed
+SPECTATOR_SETTING_FLY_LORE:
+- ' '
+- §e▸ Click to turn off
+SPECTATOR_SETTING_FLY_NAME: §cTurn off constant flight
+SPECTATOR_SETTING_FLY_OFF: §6Observer §8| §fYou turned off constant flight
+SPECTATOR_SETTING_FLY_ON: §6Observer §8| §fYou have turned on constant flight
+SPECTATOR_SETTING_GLOWING_LORE:
+- ' '
+- §7This setting will turn off the glowing
+- §7of all players on the arena
+- ' '
+- §e▸ Click to turn off
+SPECTATOR_SETTING_GLOWING_NAME: §cDisable player glowing
+SPECTATOR_SETTING_GLOW_HIDE: §6Observer §8| §fGlow all players
+SPECTATOR_SETTING_GLOW_SHOW: §6Observer §8| §fYou have stopped glowing all players
+SPECTATOR_SETTING_GUI_TITLE: Spectator's settings
+SPECTATOR_SETTING_HIDE_LORE:
+- ' '
+- §Now you see other
+- §7spectators. After changing
+- §7this setting they will be hidden
+- §7from you.
+- ' '
+- §e▸ Click to hide
+SPECTATOR_SETTING_HIDE_NAME: §cHide spectators
+SPECTATOR_SETTING_HIDING: §6Observer §8| §fYou don't see other spectators
+SPECTATOR_SETTING_NOFLY_LORE:
+- ' '
+- §e▸ Click to enable
+SPECTATOR_SETTING_NOFLY_NAME: §aEnable constant flight
+SPECTATOR_SETTING_NOSPEED_LORE:
+- ' '
+- §7Removes movement speed
+SPECTATOR_SETTING_NOSPEED_NAME: §cNo speed
+SPECTATOR_SETTING_NO_GLOWING_LORE:
+- ' '
+- §7This setting will turn on the glowing
+- §7of all players on the arena
+- ' '
+- §e▸ Click to enable
+SPECTATOR_SETTING_NO_GLOWING_NAME: §aTurn on player glowing
+SPECTATOR_SETTING_NO_VISION_LORE:
+- ' '
+- §e▸ Click to enable
+SPECTATOR_SETTING_NO_VISION_NAME: §aTurn on night vision
+SPECTATOR_SETTING_SHOWN: §6Observer §8| §fYou see other spectators again
+SPECTATOR_SETTING_SHOW_LORE:
+- ' '
+- §7Now you do not see other
+- §7spectators. After changing
+- §7this setting you'll be able
+- §7to see them again
+- ' '
+- §e▸ Click to show
+SPECTATOR_SETTING_SHOW_NAME: §aShow spectators
+SPECTATOR_SETTING_SPEED_ALREADY:
+- ' '
+- §c▸ You have already selected this speed
+SPECTATOR_SETTING_SPEED_CLICK:
+- ' '
+- §e▸ Click to change speed
+SPECTATOR_SETTING_SPEED_LORE:
+- ' '
+- §7Changes movement speed
+- §7depending on the chosen
+- §7level
+SPECTATOR_SETTING_SPEED_NAME: §eSpeed %s
+SPECTATOR_SETTING_VISION_LORE:
+- ' '
+- §e▸ Click to disable
+SPECTATOR_SETTING_VISION_NAME: §cTurn off night vision
+SPECTATOR_SETTING_VISION_OFF: §6Observer §8| §fNight vision off
+SPECTATOR_SETTING_VISION_ON: §6Observer §8| §fNight vision on
 SPECTATOR_TEAM_LORE: '§7Team: %s'
-START_CHANNEL_GUI_NAME: Choose a map
-START_GAME_ARENA: §fGame starting in §a%s §f%s
+START_CHANNEL_GUI_NAME: Choose map
+START_GAME_ARENA: §fThe game will start in §a%s §f%s
 START_GAME_SKYWARS_SOLO:
-- §eYour task is to throw down all the players
-- §eand stay on the island. You fell down? Well, that is all, you have lost
-START_GAME_TITLE: Stay the last survivor
-START_GUI_NAME: Choose the type of game
-START_GUI_NO_SERVER1: §cError, cannot find
-START_GUI_NO_SERVER2: §cplayable servers
-START_SPECTATE_GUI_NAME: Spectate the game
+- §eYour task is to throw off all players
+- §eand stay on the island. Fell down? All right, you lost!
+START_GAME_TITLE: Be the last survivor
+START_GUI_NAME: Choose game type
+START_GUI_NO_SERVER1: §cError, can't find
+START_GUI_NO_SERVER2: §cmatching servers
+START_SPECTATE_GUI_NAME: Watching the game
 START_TITLE_MSG: START
-TEAM_AQUA: Light blue
+TEAM_AQUA: Aqua
 TEAM_BLUE: Blue
 TEAM_DARK_AQUA: Turquoise
+TEAM_GAME_GLOBAL_CHAT_FORMAT: ' §8[%sAll§8] '
+TEAM_GAME_LOCAL_CHAT_FORMAT: ' §8[%sTeam§8] '
 TEAM_GRAY: Gray
 TEAM_GREEN: Green
+TEAM_IS_BANABLE: §cTeam play is prohibited here. You were excluded from the game
 TEAM_ITEM_LORE:
 - §7Use this item
-- §7to select your team
-TEAM_ITEM_NAME: §eTeam selector
-TEAM_LIGHT_GREEN: Lime
-TEAM_LOSE: §f%s §fhad fail! (this team not contains any player more)
-TEAM_NO_TEAM: §c§lAttention! Teaming is not allowed! Report about violators to official
-  VK community.
+- §7to choose your team
+TEAM_ITEM_NAME: §eChoose team
+TEAM_LIGHT_GREEN: Light green
+TEAM_LOSE: §fTeam %s §flost (the last player died or left the game)
+TEAM_NAME: Team
+TEAM_NO_TEAM: §c§lAttention! §cFormation of alliances from several teams is prohibited.
 TEAM_ORANGE: Orange
 TEAM_PINK: Pink
 TEAM_PURPLE: Purple
 TEAM_RED: Red
-TEAM_SELECTED: §fYou select team %s
+TEAM_SELECTED: §fYou chose team %s
 TEAM_SELECTOR_ALREADYIN:
 - ' '
-- §c▸ You already in this team
-TEAM_SELECTOR_EMPTY: §7No players
+- §c▸ You are a part of this team already
+TEAM_SELECTOR_EMPTY: §7There are no players
 TEAM_SELECTOR_ENTRY: '%s [%s/%s]'
 TEAM_SELECTOR_FULL:
 - ' '
-- §c▸ Team is full
-TEAM_SELECTOR_GUI_TITLE: Team selection
-TEAM_SELECTOR_PLAYERS: '§7Players in team:'
+- §c▸ There are no places in the team
+TEAM_SELECTOR_GUI_TITLE: Choose team
+TEAM_SELECTOR_PLAYERS: '§7Players on the team:'
 TEAM_SELECTOR_SELECT:
 - ' '
-- §e▸ Click, to select
+- §e▸ Click to choose
 TEAM_WHITE: White
 TEAM_YELLOW: Yellow
 TELEPORTER_CLICK_TO_TELEPORT:
 - ' '
-- §e▸ Left click to teleport
-- §e▸ Right click to spectate from the 1st person
-TELEPORTER_GUI_TITLE: Teleporter
+- §e▸ LMC to teleport
+- §e▸ RMC to watch from the 1st person
+TELEPORTER_GUI_TITLE: Телепортер
 TELEPORTER_PLAYER_DISTANCE: '§7Distance: §a%s §7blocks'
 TELEPORTER_PLAYER_HEALTH: '§7Health: §a%s§4❤'
-TELEPORTER_PLAYER_KIT: '§7Selected kit: §e%s'
-TELEPORTER_PLAYER_PERK: '§7Selected perk: §e%s'
-TO_START_TITLE: §fTo start
-TYPE_DOUBLES: Doubles mode
+TELEPORTER_PLAYER_KIT: '§7Set chosen: §e%s'
+TELEPORTER_PLAYER_PERK: '§7Skill chosen: §e%s'
+TO_START_TITLE: §fBefore the start
+TYPE_DOUBLES: Pair mode
 TYPE_ERROR: §cError!
-TYPE_MEGA: Mega mode
-TYPE_SOLO: Solo mode
+TYPE_MEGA: Team mode
+TYPE_SOLO: Single mode
 TYPE_TEAM: Team mode
-WIN_PLAYER_BOARD: The winner is the player
-WIN_TEAM_BOARD: The team has won
-YOU_CAN_REJOIN: §fIf you be §ckicked§f, write §7/rejoin§f for re-enter the game
-YOU_DEAD: §cYou died
-YOU_DEAD_SPECTATOR: §7You are spectator now
-YOU_DIED_CLICK_TO_VOTE: '%s§fVote for the map, at with you played: '
-YOU_WERE_REJOINED: §aYou again enter in the game on the server %s
+WIN_PLAYER_BOARD: The player won
+WIN_TEAM_BOARD: The team won
+YOU_CANNOT_RESUME: §cError, you haven't played anywhere or the server has been restarted
+YOU_CAN_REJOIN: §fIf you were §ckicked out§f, write §7/rejoin§f to reentry the game
+YOU_DEAD: §cYou are dead
+YOU_DEAD_SPECTATOR: §7Now you are a spectator
+YOU_DIED_CLICK_TO_VOTE: '%s§fRate the map you played on: '
+YOU_WERE_REJOINED: §aYou have re-entered the game on the server %s

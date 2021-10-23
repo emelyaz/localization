@@ -1,0 +1,4 @@
+DO_FORMAT: /do <повідомлення>
+ME_FORMAT: /me <повідомлення>
+ROLL_BROADCAST: §6Creative §8| §fГравцю %s §fвипало число §a%s §fз §e%s
+TRY_FORMAT: /try <повідомлення>

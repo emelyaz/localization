@@ -1,16 +1,29 @@
 ALREADY_BANNED: §cПомилка, гравець %s §cвже заблокований
 ALREADY_MUTED: §cЧат гравця %s §cвже заблокований
+BANINFO_BAN_MESSAGES:
+- ' '
+- §cГравець в бані від %s %s
+- ' §e• §fПричина: §a%s'
+- ' §e• §fЧас: §a%s'
+- ' §e• §fДата бана: §a%s'
 BANINFO_FORMAT: /baninfo <нік>
 BANINFO_MESSAGE: '§cМодерація §8| §fДані про покарання для %s:'
+BANINFO_MUTE_MESSAGES:
+- ' '
+- §cГравець в муті від %s %s
+- ' §e• §fПричина: §a%s'
+- ' §e• §fЧас: §a%s'
+- ' §e• §fДата мута: §a%s'
 BANS_PLAYERIP: IP адреса
 BANS_PLAYERNAME: гравця
-BAN_FORMAT: /ban <нік> <час/e> <причина>
-BAN_HISTORY_CAPTION: '§cАдміністрування §8| §fІсторія покарань: (§a%s шт.§f)'
+BAN_FORMAT: /ban <нік> <час> <причина>
+BAN_HISTORY_CAPTION: '§cАдміністрування §8| §fІсторія покарань завантажена: '
 BAN_HISTORY_EMPTY: §cІсторія покарань порожня
 BAN_HISTORY_FORMAT: /history <нік> <BAN/MUTE>
-BAN_REQUESTS_EMPTY: §cОчікующіх запитів на блокування немає.
-BAN_REQUEST_ALREADY_SENT: §cПрохання заблокувати даного гравця вже відправлялось,
-  чекайте рішення
+BAN_HISTORY_QUEUED: §cАдміністрування §8| §fВаш запит в черзі. Очікуйте...
+BAN_REQUESTS_EMPTY: §cОчікуваних запитів на блокування немає.
+BAN_REQUEST_ALREADY_SENT: §cПрохання заблокувати цього гравця вже надсилалась, очікуйте
+  на рішення
 BAN_REQUEST_LIST_GUI_ITEM_LORE:
 - ' '
 - '§7Нік порушника: §c%s'
@@ -22,36 +35,37 @@ BAN_REQUEST_LIST_GUI_ITEM_LORE:
 - §e▸ ЛКМ, щоб прийняти запит
 - §e▸ ПКМ, щоб відхилити запит
 BAN_REQUEST_LIST_GUI_ITEM_NAME: §eЗапит від %s
-BAN_REQUEST_LIST_GUI_MAIN: Очікующих запитів на блокування
+BAN_REQUEST_LIST_GUI_MAIN: Очікуванні запити на блокуванння
 BAN_REQUEST_LIST_GUI_MAIN_LORE:
 - ' '
 - '§7Всього запитів: §e%s'
-BAN_REQUEST_NOT_FOUND: §cЗапит з таким ID не знайдений або вже зачиненний
+BAN_REQUEST_NOT_FOUND: §cЗапит з таким ID не знайден або вже закритий
 BAN_REQUEST_REJECTED: §aЗапит на блокування відхилений.
-BAN_REQUEST_SENT: §eВаше прохання заблокувати даного гравця відправлена всім онлайн-модераторам
+BAN_REQUEST_SENT: §eВаше прохання заблокувати даного гравця відправлена усім онлайн-модераторам
 DEFAULT_BAN_TIME_SET: §cВи ввели некоректний час
 DEFAULT_MUTE_TIME_SET: §cВи ввели некоректний час
-DONT_HAVE_BANS_AND_MUTES: §cНе в бані та не в муті
+DONT_HAVE_BANS_AND_MUTES: §cНе в бані и не в муті
 HISTORY_ENTRY: ' §f- §7Адміністратор: §c%s %s §8| §7Причина: §c%s §8| §7Дата: §c%s'
 KICK_DISCONNECT: '§cВас викинули з сервера\n\n§fВикинув: §7%s\n§fПричина: §7%s'
 KICK_FORMAT: /kick <нік> <причина>
-MUTE_FORMAT: /mute <нік> <час/e> <причина>
+MUTE_FORMAT: /mute <нік> <час> <причина>
 NOT_BANNED: '%s §cне заблокований'
-NOT_MUTED: §cЧат гравця %s §cне заблокований
+NOT_MUTED: §cЧат гравця %s §cне ззаблокований
+TOO_BIG_BANTIME: §cПомилка, ви не можете карати на такий термін
 UNBAN_FORMAT: /unban <нік/ip>
 UNMUTE_FORMAT: /unmute <нік>
 YOU_ARE_MUTED:
 - §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 - ' §cДоступ до чату був заблокований за %s'
 - ''
-- ' §7До закінчення залишилось §c%s'
+- ' §7До закінчення залишилося §c%s'
 - ' §7Заблокував: §c%s'
 - ''
-- ' §7Оскаржити покарання можно на форумі:'
-- ' §b§nwww.lastcraft.net'
+- ' §7Оскаржити покарання можна в групі VK:'
+- ' §b§nvk.com/lastcraft'
 - §8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-YOU_CANT_BANHIM: §cВи не можете покарати даного гравця
+YOU_CANT_BANHIM: §cВи не можете покарати цього гравця
 YOU_CANT_BANIP: §cВи не можете банити гравців по IP
-YOU_CANT_PUNISH_HIM: §cПомилка, Ви не можете покарати даного гравця
-YOU_CANT_UNMUTE_HIM: §cПомилка! Ви не можете зняти блокування чату з даного гравця
+YOU_CANT_PUNISH_HIM: §cПомилка, ви не можете покарати даного гравця
+YOU_CANT_UNMUTE_HIM: §cПомилка! Ви не можете зняти блокування чату з цього гравця
 YOU_WERE_UNMUTED: §6Сервер §8| §fДоступ до чату був відновлений! Ви знову можете говорити!
