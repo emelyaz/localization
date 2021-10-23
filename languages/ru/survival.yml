@@ -315,6 +315,16 @@ PROTECTION_UPGRADE_UP_SUCCES_TO: §6Anarchy §8| §fПриват §7%s §fрас
 SURVIVAL_ALCHEMIST_MENU: 'Алхимик'
 SURVIVAL_ALCHEMIST_CRAFT_MENU: 'Алхимик > Создание'
 
+SURVIVAL_ALCHEMIST_CRAFT_AVAILABLE: |-
+  §eНажмите ЛКМ, чтобы создать данный предмет
+
+SURVIVAL_ALCHEMIST_CRAFT_UNAVAILABLE: |-
+  §cНедостаточно предметов в инвентаре
+
+SURVIVAL_ALCHEMIST_CRAFT_QUEUE_UNAVAILABLE: |-
+  §cВ данный момент вы делаете слишком много предметов!
+
+
 SURVIVAL_ITEM_XRAY_PICKAXE: '§eКирка-поисковик'
 SURVIVAL_ITEM_REATIVE_BOOTS: '§eРеактивные ботинки'
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG: '§eНеуязвимый питомец (Собака)'
