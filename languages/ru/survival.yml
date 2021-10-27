@@ -329,19 +329,72 @@ SURVIVAL_ALCHEMIST_CRAFT_QUEUE_UNAVAILABLE: |-
 
 SURVIVAL_ALCHEMIST_CRAFT: |-
 
-  §7Для создания этого предмета вам понадобится:
+  §7Для крафта предмета вам понадобится:
 
 SURVIVAL_ALCHEMIST_CRAFTING_XRAY_PICKAXE: |-
-  §7- §eTODO
+  §7 - §eАлмазная руда (x196)
+  §7 - §eЗолотая руда (x196)
+  §7 - §eИзумрудная руда (x36)
+  §7 - §eОко эндера (x128)
+  §7 - §eЗвезда ада (x8)
 
 SURVIVAL_ALCHEMIST_CRAFTING_REACTIVE_BOOTS: |-
-  §7- §eTODO
+  §7 - §eНезеритовые ботинки
+  §7 - §eКроличья лапка (x48)
+  §7 - §eБлок слизи (x48)
+  §7 - §eЗвезда ада (x4)
 
 SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_DOG: |-
-  §7- §eTODO
+  §7 - §eКости (x256)
+  §7 - §eЗвезда ада (x8)
 
 SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_CAT: |-
-  §7- §eTODO
+  §7 - §eТреска (x256)
+  §7 - §eЗвезда ада (x8)
+SURVIVAL_ALCHEMIST_CRAFTING_ELYTRA: |-
+  §7 - §eПеро (x256)
+  §7 - §eЗвезда ада (x2)
+  §7 - §eКристаллы энда (x32)
+SURVIVAL_ALCHEMIST_CRAFTING_TOTEM_OF_UNDYING: |-
+  §7 - §eАлмаз
+  §7 - §eЗолотой блок (x16)
+  §7 - §eЗвезда ада (x2)
+SURVIVAL_ALCHEMIST_CRAFTING_ENCHANTED_GOLDEN_APPLE: |-
+  §7 - §eАлмазный блок (x16)
+  §7 - §eЗолотой блок (x16)
+  §7 - §eЗолотое яблоко (x8)
+  §7 - §eЗвезда ада (x3)
+SURVIVAL_ALCHEMIST_CRAFTING_END_PORTAL_FRAME: |-
+  §7 - §eЭндерняк (x1152)
+  §7 - §eБлок незерита (x4)
+  §7 - §eЗвезда ада (x8)
+  §7 - §eКристалл энда (x128)
+
+SURVIVAL_ALCHEMIST_CRAFTING_REACTIVE_ELYTRA: |-
+  §7 - §eЭлитра
+  §7 - §eФейерверк (x576)
+  §7 - §eПеро (x256)
+  §7 - §eЗвезда ада (x5)
+SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_HOE: |-
+  §7 - §eНезеритовая мотыга
+  §7 - §eНезеритовый блок (x4)
+  §7 - §eЗвезда ада (x6)
+SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SHOVEL: |-
+  §7 - §eНезеритовая лопата
+  §7 - §eНезеритовый блок (x4)
+  §7 - §eЗвезда ада (x6)
+SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_PICKAXE: |-
+  §7 - §eНезеритовая кирка
+  §7 - §eНезеритовый блок (x4)
+  §7 - §eЗвезда ада (x6)
+SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_AXE: |-
+  §7 - §eНезеритовый топор
+  §7 - §eНезеритовый блок (x4)
+  §7 - §eЗвезда ада (x6)
+SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SWORD: |-
+  §7 - §eНезеритовый меч
+  §7 - §eНезеритовый блок (x4)
+  §7 - §eЗвезда ада (x6)
 
 #SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_FOX: |-
 #  §7- §eTODO
@@ -434,6 +487,8 @@ RACE_ORC_DESCRIPTION: |-
   §7   теряет прочность
   §a - §7Когда не полное здоровье,
   §7   увеличивается скорость
+  §a - §7Пока вы держите топор, вы
+  §7   получаете Спешку II
   §7Минусы:
   §c - §7Вы можете питаться только мясом
 
@@ -458,10 +513,14 @@ RACE_VAMPIRE_DESCRIPTION: |-
   §7   солнцем вы горите
 
 SURVIVAL_AMPHIBIAN_BOOST_COOLDOWN: '$SURVIVAL_PREFIX$Ускорение будет доступно через §a%s §fсек.'
-SURVIVAL_VAMPIRE_JUMP_COOLDOWN: '$SURVIVAL_PREFIX$Прыжок будет доступен через §a%s §fсек.'
 
 SURVIVAL_ELF_INVISIBLE: '$SURVIVAL_PREFIX$Вы стали невидимыми, зажмите Shift на 3 секунды ещё раз, чтобы выйти из невидимости'
 SURVIVAL_ELF_VISIBLE: '$SURVIVAL_PREFIX$Вы снова стали видимыми'
+
+SURVIVAL_ALCHEMIST_CRAFTING_BEDROCK: |-
+  §7 - §eОбсидиан (x576)
+  §7 - §eЗвезда ада (x8)
+  §7 - §eБлок незерита (x8)
 
 RACE_HARPY_NAME: 'Гарпия'
 
