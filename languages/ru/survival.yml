@@ -420,6 +420,10 @@ SURVIVAL_ITEM_REACTIVE_BOOTS_DESCRIPTION: |-
   §7Пока на вас надеты эти ботинки,
   §7вы получаете эффект Прыгучесть X
 
+SURVIVAL_ITEM_REACTIVE_ELYTRA_NAME: '§aРеактивная элитра'
+SURVIVAL_ITEM_REACTIVE_ELYTRA_DESCRIPTION: |-
+
+  §7При нажатии Shift вы получаете ускорение (раз в 30 секунд)
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_NAME: '§aНеуязвимый питомец (Собака)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_DESCRIPTION: |-
