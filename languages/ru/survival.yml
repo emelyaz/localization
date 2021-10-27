@@ -446,7 +446,11 @@ RACE_VAMPIRE_DESCRIPTION: |-
   §c - §7Днем вы получаете Слабость I и Утомление I,
   §7   и под открытым солнцем вы горите
 
-SURVIVAL_AMPHIBIAN_BOOST_COOLDOWN: '$SURVIVAL_PREFIX$Ускорение будет доступно через §a%s §fсек'
+SURVIVAL_AMPHIBIAN_BOOST_COOLDOWN: '$SURVIVAL_PREFIX$Ускорение будет доступно через §a%s §fсек.'
+SURVIVAL_VAMPIRE_JUMP_COOLDOWN: '$SURVIVAL_PREFIX$Прыжок будет доступен через §a%s §fсек.'
+
+SURVIVAL_ELF_INVISIBLE: '$SURVIVAL_PREFIX$Вы стали невидимыми, зажмите Shift на 3 секунды ещё раз, чтобы выйти из невидимости'
+SURVIVAL_ELF_VISIBLE: '$SURVIVAL_PREFIX$Вы снова стали видимыми'
 
 RACE_HARPY_NAME: 'Гарпия'
 
