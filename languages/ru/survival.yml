@@ -394,7 +394,7 @@ SURVIVAL_RACE_ICON_AVAILABLE: |-
 
   §eНажмите ЛКМ, чтобы выбрать данную расу!
 
-SURVIVAL_ELYTRA_COOLDOWN: $SURVIVAL_PREFIX$Буст будет доступен через §a%s §7сек.
+SURVIVAL_ELYTRA_COOLDOWN: $SURVIVAL_PREFIX$Буст будет доступен через §a%s §fсек.
 
 SURVIVAL_RACE_ICON_COOLDOWN: |-
 
@@ -446,7 +446,7 @@ RACE_VAMPIRE_DESCRIPTION: |-
   §c - §7Днем вы получаете Слабость I и Утомление I,
   §7   и под открытым солнцем вы горите
 
-SURVIVAL_AMPHIBIAN_BOOST_COOLDOWN: '$SURVIVAL_PREFIX$Ускорение будет доступно через §a%s §7сек'
+SURVIVAL_AMPHIBIAN_BOOST_COOLDOWN: '$SURVIVAL_PREFIX$Ускорение будет доступно через §a%s §fсек'
 
 RACE_HARPY_NAME: 'Гарпия'
 
@@ -577,4 +577,4 @@ RACE_ELF_DESCRIPTION: |-
   §c - §7Вы наносите мечом и топором на 3 урона меньше
 
 SURVIVAL_XRAY_PICKAXE: $SURVIVAL_PREFIX$Было подсвечено %s руд!
-SURVIVAL_XRAY_PICKAXE_COOLDOWN: $SURVIVAL_PREFIX$Подсветка руд будет доступна через §a%s §7сек
+SURVIVAL_XRAY_PICKAXE_COOLDOWN: $SURVIVAL_PREFIX$Подсветка руд будет доступна через §a%s §fсек
