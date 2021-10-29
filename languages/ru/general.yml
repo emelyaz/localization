@@ -342,7 +342,7 @@ DARK_PURPLE: Фиолетовый
 DARK_RED: Темно - красный
 DONATECHAT_ENABLED: §aВы снова видите донат-чат
 DONATECHAT_FORMAT: /donatechat <сообщение>
-DONATECHAT_MSG: §6Чат донатеров §8| §f%s §8» §7%s
+DONATECHAT_MSG: §6Чат донатеров §8| §f%s§8 » §7%s
 DONATECHAT_TOGGLE: §6Чат донатеров §8| %s
 DONT_TRY_TO_GET_OUT_OF_THE_PLAY_ZONE: §cНе пытайтесь покинуть игровую зону!
 EGGWARS_DUO_TYPE: §eПарный режим

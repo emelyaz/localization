@@ -349,7 +349,7 @@ DENCHANTMENT_STEEL: Steel
 DENCHANTMENT_TELEPATHY: Telepathy
 DONATECHAT_ENABLED: §aYou now see donate chat again
 DONATECHAT_FORMAT: /donatechat <message>
-DONATECHAT_MSG: §6Donate chat §8| §f%s §8» §7%s
+DONATECHAT_MSG: §6Donate chat §8| §f%s§8 » §7%s
 DONATECHAT_TOGGLE: §6Donate chat §8| %s
 DONT_TRY_TO_GET_OUT_OF_THE_PLAY_ZONE: §cDo not try to leave the play area!
 EGGWARS_DUO_TYPE: §ePair mode
