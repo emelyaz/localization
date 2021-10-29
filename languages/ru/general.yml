@@ -543,7 +543,7 @@ PRS_GAME_DESC:
 - За пройденный меньше чем за 3 попытки модуль - получаете бонус.
 - Желаем удачи в прохождении! Победит сильнейший!
 RANKED_REQUIREMENTS: §cДля игры в рейтинговый режим нужно 4 игрока в группе
-RECIEVED_MESSAGE_FORMAT: ' §6ЛС §8| §6%s §8-> §6Я §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §6ЛС §8| §6%s§8 -> §6Я §8| §f%s'
 REDIRECTED_TO_LOBBY: §aВы были телепортированы на %s
 REDIRECT_ERROR: §cНевозможно найти подходящий сервер(
 REDIRECT_TO_SERVER: §aТелепортирую на сервер %s
@@ -583,7 +583,7 @@ SENDMONEY_SEND: $SERVER_PREFIX$Вы успешно передали §a%s §f%s 
 SENDMONEY_TO: $SERVER_PREFIX$Вы успешно получили §a%s §f%s от игрока %s
 SENDMONEY_YOU: §cТы что, дурак ?! Зачем ты отправляешь деньги сам себе!
 SEND_FORMAT: /send <ник игрока> <сервер>
-SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я §8-> §6%s §8| §f%s'
+SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я§8 -> §6%s§8 | §f%s'
 SERVERS_NOT_FOUND: §cОшибка, указанные сервера не найдены
 SERVER_FORMAT: /server <сервер>
 SERVER_IS_NOT_ONLINE: §cСервер не найден!

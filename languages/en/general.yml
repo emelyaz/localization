@@ -554,7 +554,7 @@ PRS_GAME_DESC:
 - For a module completed in less than 3 attempts, you get a bonus.
 - We wish you the best of luck with your playthrough! The strongest will win!
 RANKED_REQUIREMENTS: §cRanked mode requires 4 players in a group
-RECIEVED_MESSAGE_FORMAT: ' §6PM §8| §6%s §8-> §6Я §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §6PM §8| §6%s§8 -> §6Я §8| §f%s'
 REDIRECTED_TO_LOBBY: §aYou have been teleported to %s
 REDIRECT_ERROR: §cCan't find a suitable server(
 REDIRECT_TO_SERVER: §aTeleporting to server %s
@@ -595,7 +595,7 @@ SENDMONEY_TO: §6Server §8| §fYou have successfully received §a%s §f%s from 
   %s
 SENDMONEY_YOU: §cWhat are you, stupid?! Why are you sending money to yourself!
 SEND_FORMAT: /send <player's nickname> <server>
-SENT_MESSAGE_FORMAT: ' §6PM §8| §6Я §8-> §6%s §8| §f%s'
+SENT_MESSAGE_FORMAT: ' §6PM §8| §6Я §8-> §6%s§8 | §f%s'
 SERVERS_NOT_FOUND: §cError, the specified server was not found
 SERVER_FORMAT: /server <server>
 SERVER_IS_NOT_ONLINE: §cServer not found!

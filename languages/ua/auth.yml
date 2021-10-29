@@ -149,8 +149,8 @@ VK_FORMAT: /vk <нік>
 VK_NOT_LINK: §6VK-bot §8| §fЦей гравець не прив'язав свій аккаунт до §9VK §fбота
 VK_NOT_LINK_YOU: §6VK-bot §8| §fДо вашого профілю не прив'язаний профіль §9VK
 VK_OTHER: §6VK-bot §8| §fУ користувача %s §fприв'язаний аккаунт §7vk.com/id%s
-VK_RECIEVED_MESSAGE_FORMAT: ' §6ЛС §8| §6%s §7(VK) §8-> §6Я §8| §f%s'
-VK_SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я §8-> §6%s §7(VK) §8| §f%s'
+VK_RECIEVED_MESSAGE_FORMAT: ' §6ЛС §8| §6%s§7 (VK) §8-> §6Я §8| §f%s'
+VK_SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я §8-> §6%s§7 (VK) §8| §f%s'
 YOU_ARE_NOW_PREMIUM: §6Ліцензія §8| §fВітаємо, тепер вхід можливий тільки з §aліцензіоного
   аккаунту!
 YOU_HAVE_JUST_LOGGED_OUT: §cВи вийшли зі свого аккаунта
