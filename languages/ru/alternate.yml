@@ -188,6 +188,7 @@ BETTER_SURVIVAL_COMPASS_WITHOUT_BED: $@MODE_PREFIX$Ваш компас указ�
   у вас нет кровати!
 BETTER_SURVIVAL_PVP_BAR: §fРежим боя %s §f%s %s
 BETTER_SURVIVAL_PVP_COMMAND: $@MODE_PREFIX$Нельзя использовать эту команду во время PVP!
+BETTER_SURVIVAL_PVP_ACTION: $@MODE_PREFIX$Нельзя совершить это действие во время PVP!
 BETTER_SURVIVAL_PVP_END: $@MODE_PREFIX$Вы вышли из боя! Теперь можно спокойно перезайти на сервер!
 BETTER_SURVIVAL_PVP_START: $@MODE_PREFIX$Вы вступили в бой! Не покидайте игру в течении §c%s §fсекунд
 BETTER_SURVIVAL_PVP_TELEPORT: $@MODE_PREFIX$Телепортации во время PVP запрещены!

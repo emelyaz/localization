@@ -423,7 +423,8 @@ SURVIVAL_ITEM_REACTIVE_BOOTS_DESCRIPTION: |-
 SURVIVAL_ITEM_REACTIVE_ELYTRA_NAME: '§aРеактивная элитра'
 SURVIVAL_ITEM_REACTIVE_ELYTRA_DESCRIPTION: |-
 
-  §7При нажатии Shift вы получаете ускорение (раз в 30 секунд)
+  §7При нажатии Shift вы получаете ускорение
+  §7(раз в 30 секунд)
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_NAME: '§aНеуязвимый питомец (Собака)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_DESCRIPTION: |-
@@ -452,6 +453,7 @@ SURVIVAL_RACE_ICON_AVAILABLE: |-
   §eНажмите ЛКМ, чтобы выбрать данную расу!
 
 SURVIVAL_ELYTRA_COOLDOWN: $SURVIVAL_PREFIX$Буст будет доступен через §a%s §fсек.
+SURVIVAL_ENDERMAN_COOLDOWN: $SURVIVAL_PREFIX$Телепортация будет доступна через §a%s §fсек.
 
 SURVIVAL_RACE_ICON_COOLDOWN: |-
 
