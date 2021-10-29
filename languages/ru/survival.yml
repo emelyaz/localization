@@ -332,6 +332,7 @@ SURVIVAL_ALCHEMIST_CRAFT: |-
   §7Для крафта предмета вам понадобится:
 
 SURVIVAL_ALCHEMIST_CRAFTING_XRAY_PICKAXE: |-
+  §7 - §eЗолотая кирка
   §7 - §eАлмазная руда (x196)
   §7 - §eЗолотая руда (x196)
   §7 - §eИзумрудная руда (x36)
@@ -412,7 +413,8 @@ SURVIVAL_ALCHEMIST_CRAFT_DONE: |-
 SURVIVAL_ITEM_XRAY_PICKAXE_NAME: '§aКирка-поисковик'
 SURVIVAL_ITEM_XRAY_PICKAXE_DESCRIPTION: |-
 
-  §7TODO
+  §7Подсвечивает ближайшие руды в радиусе 10 блоков
+
 
 SURVIVAL_ITEM_REACTIVE_BOOTS_NAME: '§aРеактивные ботинки'
 SURVIVAL_ITEM_REACTIVE_BOOTS_DESCRIPTION: |-
@@ -524,7 +526,7 @@ SURVIVAL_ELF_INVISIBLE: '$SURVIVAL_PREFIX$Вы стали невидимыми, 
 SURVIVAL_ELF_VISIBLE: '$SURVIVAL_PREFIX$Вы снова стали видимыми'
 
 SURVIVAL_ALCHEMIST_CRAFTING_BEDROCK: |-
-  §7 - §eОбсидиан (x576)
+  §7 - §eПлачущий обсидиан (x576)
   §7 - §eЗвезда ада (x8)
   §7 - §eБлок незерита (x8)
 
