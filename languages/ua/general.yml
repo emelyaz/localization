@@ -340,7 +340,7 @@ DENCHANTMENT_STEEL: Сталь
 DENCHANTMENT_TELEPATHY: Телепатія
 DONATECHAT_ENABLED: §aВи знову бачите донат-чат
 DONATECHAT_FORMAT: /donatechat <повідомлення>
-DONATECHAT_MSG: §6Чат донатерів §8| §f%s §8» §7%s
+DONATECHAT_MSG: §6Чат донатерів §8| §f%s§8 » §7%s
 DONATECHAT_TOGGLE: §6Чат донатерів §8| %s
 DONT_TRY_TO_GET_OUT_OF_THE_PLAY_ZONE: §cНе намагайтеся покинути ігрову зону!
 EGGWARS_DUO_TYPE: §eПарний режим

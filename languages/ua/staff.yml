@@ -28,8 +28,8 @@ MODERATOR_STAT:
 STAFFCHAT_DISABLED: §cМодерація §8| §f%s §7тепер не бачить чат персоналу
 STAFFCHAT_ENABLED: §cМодерація §8| §f%s §7знову бачить чат персоналу
 STAFFCHAT_FORMAT: /staffchat <повідомлення>
-STAFFCHAT_MSG: §eЧат персоналу §8| §f%s §8» §f%s
-STAFF_CONNECTED: §cМодерація §8| §7%s §7зайшов на сервер %s
+STAFFCHAT_MSG: §eЧат персоналу §8| §f%s§8 » §f%s
+STAFF_CONNECTED: §cМодерація §8| §7%s§7 зайшов на сервер %s
 STAFF_CONNECTED_LOCATION: 'з %s, %s'
 WHOIS_FORMAT: /whois <нік>
 WHOIS_LAST_IP: ' §f- Останній IP: §a%s'

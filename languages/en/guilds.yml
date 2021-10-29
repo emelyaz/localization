@@ -62,7 +62,7 @@ GUILD_CANT_SET_THIS_RANK: §6Guilds §8| §fYou cannot assign this rank to a pla
 GUILD_CHANGE_MOTD_BROADCAST: §2Guild §8| §fPlayer %s §fupdated the guilds greeting
 GUILD_CHANGE_RANK_FORMAT: /guild setrank <player's nickname> <rank>
 GUILD_CHANGE_TAG_BROADCAST: §2Guild §8| §fPlayer %s §fchanged the guilds tag to §7%s
-GUILD_CHAT: §2Guilds chat §8| §f%s §8» §f%s
+GUILD_CHAT: §2Guilds chat §8| §f%s§8 » §f%s
 GUILD_CHAT_FORMAT: /gchat <message>
 GUILD_CREATED: §6Guilds §8| §fYou created a guild §e%s
 GUILD_CREATE_FORMAT: /guild create <name>, (guilds creation cost - 20,000 coins)

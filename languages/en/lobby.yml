@@ -873,7 +873,7 @@ ITEMS_LOBBY_SHOP_LORE:
 - §7Buying kits and upgrades
 - §7as well as improvement of the existing ones
 ITEMS_LOBBY_SHOP_NAME: §eStore
-JOIN_PLAYER_LO_LOBBY: '%s §fentered the server'
+JOIN_PLAYER_LO_LOBBY: '%s§f entered the server'
 LOBBY_CHANNEL_BEST_SERVER_LORE:
 - §7Choosing the most optimal
 - §7server for the game

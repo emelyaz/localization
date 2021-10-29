@@ -16,7 +16,7 @@ PARTY_AVAILABLE_SETTING_LIST: '§6Party §8| §fAvailable settings list:'
 PARTY_BROADCAST_OWNER: §6Party §8| %s §fbecame the new owner of the group
 PARTY_CANT_INVITE_YOURSELF: §cError, you cannot invite yourself to the group
 PARTY_CANT_KICK_YOURSELF: §cAre you a fool or yes?!
-PARTY_CHAT: §dGroup chat §8| §f%s §8» §f%s
+PARTY_CHAT: §dGroup chat §8| §f%s§8 » §f%s
 PARTY_CHAT_FORMAT: /pchat <message>
 PARTY_DISBANDED: §6Party §8| §fYour group has been disbanded
 PARTY_HE_IS_NOT_IN_PARTY: §cError, this player is not in the group

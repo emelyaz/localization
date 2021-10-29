@@ -29,8 +29,8 @@ MODERATOR_STAT:
 STAFFCHAT_DISABLED: §cModeration §8| §f%s §7now does not see staff chat
 STAFFCHAT_ENABLED: §cModeration §8| §f%s §7sees staff chat again
 STAFFCHAT_FORMAT: /staffchat <message>
-STAFFCHAT_MSG: §eStaff chat §8| §f%s §8» §f%s
-STAFF_CONNECTED: §cModeration §8| §7%s §7entered server %s
+STAFFCHAT_MSG: §eStaff chat §8| §f%s§8 » §f%s
+STAFF_CONNECTED: §cModeration §8| §7%s§7 entered server %s
 STAFF_CONNECTED_LOCATION: 'from %s, %s'
 WHOIS_FORMAT: /whois <nickname>
 WHOIS_LAST_IP: ' §f- Last IP: §a%s'

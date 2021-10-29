@@ -882,7 +882,7 @@ ITEMS_LOBBY_SHOP_LORE:
 - §7Покупка наборов и апгрейдов,
 - §7а также улучшение уже существующих
 ITEMS_LOBBY_SHOP_NAME: §eМагазин
-JOIN_PLAYER_LO_LOBBY: '%s §fзашел на сервер'
+JOIN_PLAYER_LO_LOBBY: '%s§f зашел на сервер'
 LOBBY_CHANNEL_BEST_SERVER_LORE:
 - §7Выбор самого оптимального
 - §7сервера для игры

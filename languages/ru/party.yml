@@ -16,7 +16,7 @@ PARTY_AVAILABLE_SETTING_LIST: '§6Party §8| §fСписок доступных 
 PARTY_BROADCAST_OWNER: §6Party §8| %s §fстал новым владельцем группы
 PARTY_CANT_INVITE_YOURSELF: §cОшибка, Вы не можете пригласить в группу самого себя
 PARTY_CANT_KICK_YOURSELF: §cТы дурак или да?!
-PARTY_CHAT: §dЧат группы §8| §f%s §8» §f%s
+PARTY_CHAT: §dЧат группы §8| §f%s§8 » §f%s
 PARTY_CHAT_FORMAT: /pchat <сообщение>
 PARTY_DISBANDED: §6Party §8| §fВаша группа была расформирована
 PARTY_DISBAND_DESCRIPTION: распустить группу
