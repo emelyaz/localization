@@ -44,14 +44,30 @@ VZ_SHOP_MENU_NO_BLOOD: |-
 VZ_SHOP_MENU_NO_GOLD: |-
   §f
   §cНедостаточно золота для покупки
+VZ_REINCARNATION_ACTIVATED: 'Вы превратились в летучую мышь!'
+VZ_REINCARNATION_DEACTIVATED: 'Вы превратились обратно в вампира!'
+VZ_REINCARNATION_COOLDOWN: 'Подождите немного перед следующим превращением'
+VZ_ZOMBIE_WAVE_ACTIVATED: '§fВампир %s §fпризвал волну зомби возле себя!'
+VZ_GLOWING_ACTIVATED: '§fВампир %s §fподсветил всех выживших игроков на 15 секунд'
 VZ_SHOP_HEAL_POTION_NAME: 'Зелье моментального лечения'
 VZ_SHOP_HEAL_POTION_2_NAME: 'Зелье моментального лечения (Взрывное)'
 VZ_SHOP_STRENGTH_POTION_NAME: 'Зелье силы'
 VZ_SHOP_REGEN_POTION_NAME: 'Зелье регенерации'
+VZ_SHOP_GLOWING_NAME: 'Вампирское зрение'
+VZ_SHOP_GLOWING_DESCRIPTION: |-
+  §7Подсвечивает всех выживших игроков
+  §7на 15 секунд
 VZ_SHOP_ADDITIONAL_HEALTH_NAME: 'Дополнительное здоровье'
 VZ_SHOP_ADDITIONAL_HEALTH_DESCRIPTION: |-
   §7Вы получаете в 2 раза больше
   §7здоровья до следующей смерти
+VZ_SHOP_REINCARNATION_NAME: 'Перевоплощение'
+VZ_SHOP_REINCARNATION_DESCRIPTION: |-
+  §7До конца игры при нажатии Shift
+  §7Вы превращаетесь в летучую мышь
+  §7и получаете полет до следующего
+  §7нажатия Shift, при этом не можете
+  §7 атаковать. Перезарядка 5 секунд
 VZ_SHOP_SUPER_STRENGTH_1_NAME: 'Суперсила'
 VZ_SHOP_SUPER_STRENGTH_1_DESCRIPTION: |-
   §7После покупки Вы получите эффект
@@ -68,6 +84,8 @@ VZ_SHOP_ZOMBIE_WAVE_NAME: 'Новая орда'
 VZ_SHOP_ZOMBIE_WAVE_DESCRIPTION: |-
   §7Вы призываете волну зомби на том
   §7месте, где сейчас находитесь
+  §7
+  §cДоступно только 1 раз за игру
 VZ_SHOP_IRON_HELPER_NAME: 'Железный помощник'
 VZ_SHOP_IRON_HELPER_DESCRIPTION: |-
   §7Вы призываете маленького зомби в
