@@ -1,0 +1,75 @@
+VZ_WIN_VAMPIRES_TITLE: '§cПобедили вампиры'
+VZ_WIN_VAMPIRES_SUBTITLE: '§7Все люди мертвы'
+VZ_WIN_HUMANS_TITLE: '§bПобедили люди'
+VZ_WIN_HUMANS_SUBTITLE: '§7Вампирам не хватило времени...'
+VZ_YOU_ARE_VAMPIRE: '§cВы погибли'
+VZ_YOU_ARE_VAMPIRE_SUBTITLE: '§7Теперь Вы вампир'
+VZ_WAVE_START: 'Волна §a№%s §fначалась!'
+VZ_WAVE_TITLE: '§6Волна №%s'
+VZ_BOARD_GOLD: '§fЗолота: §6%s'
+VZ_BOARD_BLOOD: '§fКрови: §4%s'
+VZ_BOARD_ROLE: '§fВы: §e%s'
+VZ_HUMAN_ROLE: '§bЧеловек'
+VZ_VAMPIRE_ROLE: '§cВампир'
+VZ_VAMPIRES_SHOP_ITEM: '§eСпособности вампиров'
+VZ_VAMPIRES_SHOP_ITEM_LORE: |-
+  §7Покупка способностей за кровь
+  §7Нажмите ПКМ, чтобы открыть
+VZ_HUMANS_SHOP_ITEM: '§eМагазин'
+VZ_HUMANS_SHOP_ITEM_LORE: |-
+  §7Покупка и прокачка предметов за золото
+  §7Нажмите ПКМ, чтобы открыть магазин
+VZ_ADD_BLOOD: '§4+%s крови'
+VZ_ADD_GOLD: '§6+%s %s'
+VZ_SHOP_MENU: 'Магазин'
+VZ_SHOP_MENU_PRICE_GOLD: |-
+  §f
+  §7Стоимость: §6%s %s
+VZ_SHOP_MENU_PRICE_BLOOD: |-
+  §f
+  §7Стоимость: §4%s крови
+VZ_SHOP_MENU_CLICK: |-
+  §f
+  §e▸ Нажмите, чтобы приобрести
+VZ_SHOP_MENU_NO_BLOOD: |-
+  §f
+  §cНедостаточно крови для покупки
+VZ_SHOP_MENU_NO_GOLD: |-
+  §f
+  §cНедостаточно золота для покупки
+VZ_SHOP_HEAL_POTION_NAME: 'Зелье моментального лечения'
+VZ_SHOP_HEAL_POTION_2_NAME: 'Зелье моментального лечения (Взрывное)'
+VZ_SHOP_STRENGTH_POTION_NAME: 'Зелье силы'
+VZ_SHOP_REGEN_POTION_NAME: 'Зелье регенерации'
+VZ_SHOP_ADDITIONAL_HEALTH_NAME: 'Дополнительное здоровье'
+VZ_SHOP_ADDITIONAL_HEALTH_DESCRIPTION: |-
+  §7Вы получаете в 2 раза больше
+  §7здоровья до следующей смерти
+VZ_SHOP_SUPER_STRENGTH_1_NAME: 'Суперсила'
+VZ_SHOP_SUPER_STRENGTH_1_DESCRIPTION: |-
+  §7После покупки Вы получите эффект
+  §7силы I уровня на 15 секунд
+VZ_SHOP_SUPER_STRENGTH_2_NAME: 'Супер-суперсила'
+VZ_SHOP_SUPER_STRENGTH_2_DESCRIPTION: |-
+  §7После покупки Вы получите эффект
+  §7силы II уровня на 15 секунд
+VZ_SHOP_JUMP_NAME: 'Неведомая мощь'
+VZ_SHOP_JUMP_DESCRIPTION: |-
+  §7После покупки Вы получите эффект
+  §7прыгучести III до следующей смерти
+VZ_SHOP_ZOMBIE_WAVE_NAME: 'Новая орда'
+VZ_SHOP_ZOMBIE_WAVE_DESCRIPTION: |-
+  §7Вы призываете волну зомби на том
+  §7месте, где сейчас находитесь
+VZ_SHOP_IRON_HELPER_NAME: 'Железный помощник'
+VZ_SHOP_IRON_HELPER_DESCRIPTION: |-
+  §7Вы призываете маленького зомби в
+  §7железной броне с железным мечом на
+  §7вашей локации
+VZ_SHOP_DIAMOND_HELPER_NAME: 'Алмазный помощник'
+VZ_SHOP_DIAMOND_HELPER_DESCRIPTION: |-
+  §7Вы призываете маленького зомби в
+  §7алмазной броне с алмазным мечом на
+  §7вашей локации
+VZ_VAMPIRES_TEAM: Вампиры
+VZ_HUMANS_TEAM: Игроки
