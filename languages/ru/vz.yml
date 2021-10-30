@@ -45,6 +45,7 @@ VZ_SHOP_MENU_NO_BLOOD: |-
 VZ_SHOP_MENU_NO_GOLD: |-
   §f
   §cНедостаточно золота для покупки
+VZ_WAVES_STARTING: 'Зомби начнут появляться через §a15 §fсекунд...'
 VZ_REINCARNATION_ACTIVATED: 'Вы превратились в летучую мышь! Чтобы отключить превращение, нажмите на пробел два раза'
 VZ_REINCARNATION_COOLDOWN: 'Подождите немного перед следующим превращением'
 VZ_ZOMBIE_WAVE_ACTIVATED: '§fВампир %s §fпризвал волну зомби возле себя!'
