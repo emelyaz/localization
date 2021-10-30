@@ -32,6 +32,9 @@ VZ_SHOP_MENU_PRICE_GOLD: |-
 VZ_SHOP_MENU_PRICE_BLOOD: |-
   §f
   §7Стоимость: §4%s крови
+VZ_SHOP_MENU_ALREADY_PURCHASED: |-
+  §f
+  §cУже приобретено
 VZ_SHOP_MENU_CLICK: |-
   §f
   §e▸ Нажмите, чтобы приобрести
