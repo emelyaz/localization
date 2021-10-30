@@ -26,6 +26,7 @@ VZ_HUMANS_SHOP_ITEM_LORE: |-
 VZ_ADD_BLOOD: '§4+%s крови'
 VZ_ADD_GOLD: '§6+%s %s'
 VZ_SHOP_MENU: 'Магазин'
+VZ_SHOP_PURCHASE: '§fВы приобрели §a%s'
 VZ_SHOP_MENU_PRICE_GOLD: |-
   §f
   §7Стоимость: §6%s %s
