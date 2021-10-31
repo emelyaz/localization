@@ -1139,8 +1139,8 @@ TITLE_ACTIVE_LORE: §e▸ Нажмите, чтобы показать титул
 TITLE_ALREADY_HAVE: §fУ вас уже есть данный титул, вы получили §e+%s %s
 TITLE_BUY_CONFIRM_GUI: Купить титул ?
 TITLE_DEACTIVE_LORE: §e▸ Нажмите, чтобы скрыть титул
-TITLE_JOIN_LOBBY: §6Parkour Classic
-SUBTITLE_JOIN_LOBBY: §fНовый уникальный §aрежим§f!
+TITLE_JOIN_LOBBY: §fИвент-режим §dVampireZ§f!
+SUBTITLE_JOIN_LOBBY: Скидка §6Halloween §f- 25%
 TITLE_NOT_ACCESS: §cДоступен по особым праздникам или дням
 TITLE_NOT_YOU: §cДанный титул вам не доступен
 TITLE_TYPE_LORE:
