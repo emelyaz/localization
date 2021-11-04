@@ -1126,12 +1126,12 @@ SELECTOR_ITEM_LORE1:
 SELECTOR_ITEM_LORE2:
 - §7Online %online% §7players
 SELECTOR_NAME_GUI: Choose lobby
-SUBTITLE_JOIN_LOBBY: §fMode §eEggWars
+TITLE_JOIN_LOBBY: §cNEW! §dVampire §fGAMEMODE
+SUBTITLE_JOIN_LOBBY: §fHappy §6Halloween§f!
 TITLE_ACTIVE_LORE: §e▸ Click to show title
 TITLE_ALREADY_HAVE: §fYou already have this title, you have received §e+%s %s
 TITLE_BUY_CONFIRM_GUI: Do you want to purchase the title?
 TITLE_DEACTIVE_LORE: §e▸ Click to hide the title
-TITLE_JOIN_LOBBY: §6Global §fupdate
 TITLE_NOT_ACCESS: §cAvailable on special holidays or days
 TITLE_NOT_YOU: §cThis title is not available to you
 TITLE_TYPE_LORE:
