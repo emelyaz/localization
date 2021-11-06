@@ -537,10 +537,10 @@ SURVIVAL_GOLD_KIT_AVAILABLE_ICON_NAME: '§a%s'
 SURVIVAL_GOLD_KIT_UNAVAILABLE_ICON_NAME: '§c%s'
 
 SURVIVAL_GOLD_KIT_GIVEN: '$SURVIVAL_PREFIX$Вы получили набор §e%s'
-SURVIVAL_GOLD_KIT_NOT_FOUND: '$SURVIVAL_PREFIX$Набор §e%s §7не найден. Все наборы: %s'
+SURVIVAL_GOLD_KIT_NOT_FOUND: '$SURVIVAL_PREFIX$Набор §e%s §fне найден. Все наборы: %s'
 
-SURVIVAL_GOLD_KIT_NO_GOLD: $SURVIVAL_PREFIX$У вас не хватает §6%s §7золота, чтобы приобрести набор §e%s§7, поскольку он стоит §6%s §7золота
-SURVIVAL_GOLD_KIT_PURCHASED: $SURVIVAL_PREFIX$Вы успешно приобрели набор §e%s §7за §6%s §7золота!
+SURVIVAL_GOLD_KIT_NO_GOLD: $SURVIVAL_PREFIX$У вас не хватает §6%s §fзолота, чтобы приобрести набор §e%s§f, поскольку он стоит §6%s §fзолота
+SURVIVAL_GOLD_KIT_PURCHASED: $SURVIVAL_PREFIX$Вы успешно приобрели набор §e%s §7за §6%s §fзолота!
 
 SURVIVAL_GOLD_KIT_AVAILABLE: |-
 
@@ -666,10 +666,11 @@ SURVIVAL_GOLD_KIT_VALUABLES_DESCRIPTION: |-
     §fЗвезда ада (x8)
 
 SURVIVAL_GOLD_KIT_PURCHASE_REPEAT: |-
-  $SURVIVAL_PREFIX$Вы уверены, что хотите купить набор §e%s §7за §6%s §7золота? §f§nДанный набор будет недоступен после вайпа.
+  $SURVIVAL_PREFIX$Вы уверены, что хотите купить набор §e%s §7за §6%s §fзолота?
   $SURVIVAL_PREFIX$Напишите эту команду снова, чтобы подтвердить покупку
+  $SURVIVAL_PREFIX$§c§nДанный набор будет недоступен после вайпа.
 
-SURVIVAL_GOLD_KIT_COOLDOWN: $SURVIVAL_PREFIX$Вы можете взять набор §e%s §7через %s
+SURVIVAL_GOLD_KIT_COOLDOWN: $SURVIVAL_PREFIX$Вы можете взять набор §e%s §fчерез %s
 
 SURVIVAL_ALCHEMIST_CRAFTING_BEDROCK: |-
   §7 - §eПлачущий обсидиан (x576)
