@@ -812,3 +812,102 @@ RACE_ELF_DESCRIPTION: |-
 
 SURVIVAL_XRAY_PICKAXE: $SURVIVAL_PREFIX$Было подсвечено %s руд!
 SURVIVAL_XRAY_PICKAXE_COOLDOWN: $SURVIVAL_PREFIX$Подсветка руд будет доступна через §a%s §fсек
+
+SURVIVAL_HELP_MENU: 'Помощь по режиму'
+
+SURVIVAL_HELP_MENU_RTP_NAME: '§bТелепорт в случайную точку на карте'
+SURVIVAL_HELP_MENU_RTP_DESCRIPTION: |-
+  §7Если вы готовы начать игру, то сперва
+  §7вам нужно попасть в обычный мир
+  §7Команда: §f/rtp
+
+  §e▶ Нажмите, чтобы телепортироваться!
+SURVIVAL_HELP_MENU_MAIN_NAME: '§bСтартовый набор вещей, смена погоды и времени'
+SURVIVAL_HELP_MENU_MAIN_DESCRIPTION: |-
+  §7В этом меню вы сможете взять стартовый
+  §7набор вещей, установить себе время и
+  §7поменять погоду на нужную! От §e§lGOLD §7и выше!
+
+  §e▶ Нажмите, чтобы открыть!
+SURVIVAL_HELP_MENU_AUCTION_NAME: '§bТорговля на аукционе'
+SURVIVAL_HELP_MENU_AUCTION_DESCRIPTION: |-
+  §7Вы можете продавать или покупать нужные
+  §7вам вещи и предметы у других игроков
+  §7Команда: §f/ah
+
+  §e▶ Нажмите, чтобы открыть!
+SURVIVAL_HELP_MENU_RACE_NAME: '§bРасы'
+SURVIVAL_HELP_MENU_RACE_DESCRIPTION: |-
+  §7Измените свою игру до неузнаваемости
+  §7и выберите одну из предложенных рас
+  §7со своими плюсами и минусами
+
+  §cДелайте выбор с умом! Вы не сможете
+  §cсменить расу еще долгое время!
+
+  §e▶ Нажмите, чтобы выбрать расу
+SURVIVAL_HELP_MENU_ALCHEMIST_NAME: '§bАлхимик'
+SURVIVAL_HELP_MENU_ALCHEMIST_DESCRIPTION: |-
+  §7Создавайте уникальные вещи и сделайте
+  §7игру еще более интересной и необычной
+
+  §e▶ Нажмите, чтобы открыть меню алхимика
+SURVIVAL_HELP_MENU_REGION_NAME: '§bПриват территории'
+SURVIVAL_HELP_MENU_REGION_DESCRIPTION: |-
+  §7Чтобы заприватить необходимую территорию,
+  §7необходимо специальным инструментом (§f//wand§7)
+  §7выделить область и написать §f/rg claim
+
+  §7Имейте в виду, что регион приватится от самого
+  §7низа до самого верха автоматически!
+
+  §cМаксимум заприваченной территории на один регион
+  §c11000 блоков по площади!
+
+  §7Добавить друга в регион: §f/rg add <ник>
+  §7Удалить друга из региона: §f/rg remove <ник>
+SURVIVAL_HELP_MENU_TELEPORTATION_NAME: '§bСпособы телепортации'
+SURVIVAL_HELP_MENU_TELEPORTATION_DESCRIPTION: |-
+  §f/rtp §7- попасть в обычный мир
+  §f/call §7- отправить запрос на тп игроку
+  §f/home <имя> §7- попасть на точку дома
+  §f/warp <имя> §7- тп на указанный варп
+  §f/spawn §7- попасть на спавн режима
+SURVIVAL_HELP_MENU_GENERAL_NAME: '§bОбщая информация о режиме'
+SURVIVAL_HELP_MENU_GENERAL_DESCRIPTION: |-
+  §7- Любые взрывы не уничтожают блоки в регионах
+  §7- Иссушителя можно призвать, но он не может разрушать блоки
+  §7- Изначально у игроков отключен режим PVP, чтобы его включить,
+  §7  нужно написать /pvp on
+SURVIVAL_HELP_MENU_PVP_NAME: '§bРежим PVP'
+SURVIVAL_HELP_MENU_PVP_DESCRIPTION: |-
+  §7Чтобы два игрока могли наносить друг другу урон,
+  §7необходимо, что у них двоих был включен режим PVP,
+  §7для этого необходимо написать команду §f/pvp on
+SURVIVAL_HELP_MENU_DONATE_KIT_NAME: '§bНаборы за золото'
+SURVIVAL_HELP_MENU_DONATE_KIT_DESCRIPTION: |-
+  §7Список вещей, которые можно забирать
+  §7бесконечно в течение всего вайпа, но
+  §7не чаще указанного времени
+
+  §e▶ Нажмите, чтобы открыть список наборов
+SURVIVAL_HELP_MENU_DEVELOPMENT_NAME: '§c???'
+SURVIVAL_HELP_MENU_DEVELOPMENT_DESCRIPTION: |-
+  §7В разработке
+
+PVP_ON_DESCRIPTION: 'Включить PVP'
+PVP_OFF_DESCRIPTION: 'Отключить PVP'
+
+COMBAT_STATUS_ON: '§aвключен'
+COMBAT_STATUS_OFF: '§cвыключен'
+
+SURVIVAL_COMBAT_STATUS: |-
+
+  §fРежим PVP сейчас %s
+
+SURVIVAL_COMBAT_ALREADY_ENABLED: '$SURVIVAL_PREFIX$Режим PVP уже включен!'
+SURVIVAL_COMBAT_ALREADY_DISABLED: '$SURVIVAL_PREFIX$Режим PVP уже отключен!'
+SURVIVAL_COMBAT_CHANGED_TO: '$SURVIVAL_PREFIX$Режим PVP %s'
+
+SURVIVAL_COMBAT_IS_DISABLED: '$SURVIVAL_PREFIX$У вас выключен режим PVP!'
+SURVIVAL_COMBAT_IS_DISABLED_ON_TARGET: '$SURVIVAL_PREFIX$У этого игрока выключен режим PVP!'
