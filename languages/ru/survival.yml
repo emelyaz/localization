@@ -566,7 +566,29 @@ SURVIVAL_ALCHEMIST_DONATE_INFO_DESCRIPTION: |-
   §7За золото вы можете моментально
   §7преобразовать и получить предмет
 SURVIVAL_ALCHEMIST_INFO_NAME: '§eИнформация'
+SURVIVAL_ALCHEMIST_CRAFT_SPEED_UP: |-
 
+  §eНажмите ЛКМ, чтобы получить предмет
+  §eпрямо сейчас за 10 золота
+
+SURVIVAL_KIT_PURCHASE_CONFIRMATION_MENU: 'Подтверждение покупки'
+
+SURVIVAL_KIT_PURCHASE_CONFIRM_NAME: '§aПодтвердить'
+SURVIVAL_KIT_PURCHASE_CONFIRM_DESCRIPTION: |-
+  §7Подтвердить приобретение набора
+
+  §7Вещи выдадутся сразу после приобретения,
+  §7если они не поместятся в ваш
+  §7инвентарь - они выпадут
+
+  §c§nВы можете собирать набор в течение одного вайпа!
+
+  §eНажмите, чтобы приобрести набор
+SURVIVAL_KIT_PURCHASE_CANCEL_NAME: '§cОтменить'
+SURVIVAL_KIT_PURCHASE_CANCEL_DESCRIPTION: |-
+  §7Отменить приобретение набора
+
+  §eНажмите, чтобы отменить и перейти назад
 SURVIVAL_ALCHEMIST_INFO_DESCRIPTION: |-
   §7Алхимик - тот, кто поможет вам получить
   §7самые необычные предметы, которые
