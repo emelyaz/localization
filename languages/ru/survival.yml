@@ -31,6 +31,8 @@ PROTECTION_BUY_EFFECT: §6Anarchy §8| §fИгрок %s §fкупил эффек
 PROTECTION_BUY_FLAG: §6Anarchy §8| §fИгрок %s §fкупил флаг §a%s §fдо §7%s
 PROTECTION_CHANGE_STATE_EFFECT: §6Anarchy §8| §fИгрок %s %s§f эффект §a%s
 PROTECTION_CLAIM_ERROR: §cОшибка, не указаны точки для создания региона
+PROTECTION_CLAIM_ERROR2: §cОшибка, указанный регион слишком мал
+
 PROTECTION_CLAIM_FORMAT: /rg claim <название региона>
 PROTECTION_CREATE: §fРегион успешно создан. Пишите §7/ps add <ник>§f, чтобы добавить
   друга или §7/ps list §fдля управления регионом. §cБлок привата можно разрушить взрывом!
