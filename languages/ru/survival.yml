@@ -462,7 +462,7 @@ SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SWORD: |-
   §7 - §eНезеритовый блок §8x4
   §7 - §eЗвезда ада §8x6
 
-SURVIVAL_RACE_COOLDOWN_RESET_NAME: '§cСбросить задержку на смену расы'
+SURVIVAL_RACE_COOLDOWN_RESET_NAME: '§cСбросить перезарядку на смену расы'
 
 SURVIVAL_RACE_COOLDOWN_RESET_DESCRIPTION: |-
   §7Вы можете сбросить перезарядку
@@ -644,6 +644,14 @@ SURVIVAL_ALCHEMIST_CRAFT_SPEED_UP: |-
   §eпрямо сейчас за 10 золота
 
 SURVIVAL_KIT_PURCHASE_CONFIRMATION_MENU: 'Подтверждение покупки'
+SURVIVAL_RACE_COOLDOWN_RESET_CONFIRMATION_MENU: 'Подтверждение'
+SURVIVAL_RACE_COOLDOWN_RESET_CONFIRM_NAME: '§aПодтвердить'
+SURVIVAL_RACE_COOLDOWN_RESET_CONFIRM_DESCRIPTION: |-
+  §7Подтвердить сброс перезарядки на смену расы
+SURVIVAL_RACE_COOLDOWN_RESET_CANCEL_NAME: '§cОтменить'
+SURVIVAL_RACE_COOLDOWN_RESET_CANCEL_DESCRIPTION: |-
+  §7Отменить действие
+
 SURVIVAL_ALCHEMIST_SLOT_BLOCKED_NAME: '§cСлот заблокирован'
 SURVIVAL_ALCHEMIST_SLOT_BLOCKED_DESCRIPTION: |-
   §7Для разблокировки необходим %s §7или выше
