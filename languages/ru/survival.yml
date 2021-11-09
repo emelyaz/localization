@@ -397,10 +397,10 @@ SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SWORD: |-
   §7 - §eНезеритовый блок §8x4
   §7 - §eЗвезда ада §8x6
 
-SURVIVAL_RACE_COOLDOWN_RESET_NAME: '§eСбросить задержку на смену расы'
+SURVIVAL_RACE_COOLDOWN_RESET_NAME: '§cСбросить задержку на смену расы'
 
 SURVIVAL_RACE_COOLDOWN_RESET_DESCRIPTION: |-
-  §7Вы можете за 10 золото приобрести
+  §7Вы можете за 10 золота приобрести
   §7сброс задержки на смену расы
 
   §eНажмите, чтобы сбросить задержку
