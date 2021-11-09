@@ -336,6 +336,7 @@ ISLAND_HOME_DESCRIPTION: 'телепортироваться домой'
 ISLAND_SETHOME_DESCRIPTION: 'установить новую точку дома'
 ISLAND_DELETE_DESCRIPTION: 'удалить игрока с острова'
 ISLAND_LEVEL_DESCRIPTION: 'уровень острова'
+ISLAND_DESCRIPTION: 'управление островом'
 
 ISLAND_CO_OWNER: Совладелец
 ISLAND_CREATE_LORE:
