@@ -242,6 +242,69 @@ PROTECTION_RANK_MEMBER:
 - '§7Доступные права:'
 - §8• §7Взаимодействие с территорией привата
 - ' '
+REGIONS_FLAG_USE_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить использование
+  - §7верстаков, рычагов и т.д.
+  - §7для посетителей региона
+REGIONS_FLAG_USE_NAME: Использование
+REGIONS_FLAG_DROP_LEAVES_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить опадение
+  - §7листвы на территории региона
+REGIONS_FLAG_DROP_LEAVES_NAME: Опадение листвы
+
+REGIONS_FLAG_ENTITY_DAMAGE_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить нанесение урона
+  - §7дружественным мобам
+REGIONS_FLAG_ENTITY_DAMAGE_NAME: Урон по мобам
+
+REGIONS_FLAG_ENTITY_EXPLODE_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить взрыв блоков
+  - §7от энтити на территории региона
+REGIONS_FLAG_ENTITY_EXPLODE_NAME: Взрыв блоков
+
+REGIONS_FLAG_FIRE_SPREAD_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить распространение
+  - §7огня на территории региона
+REGIONS_FLAG_FIRE_SPREAD_NAME: Распространение огня
+
+REGIONS_FLAG_ICE_FORM_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить появление льда
+  - §7на территории региона
+REGIONS_FLAG_ICE_FORM_NAME: Появление льда
+
+REGIONS_FLAG_ICE_MELTING_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить таяние льда
+  - §7на территории региона
+REGIONS_FLAG_ICE_MELTING_NAME: Таяние льда
+REGIONS_FLAG_PVP_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить пвп на
+  - §7территории региона
+
+REGIONS_FLAG_PVP_NAME: Пвп
+REGIONS_FLAG_SNOW_FALL_LORE:
+  - ''
+  - §7Позволяет включить или
+  - §7отключить появление
+  - §7снега
+
+REGIONS_FLAG_SNOW_FALL_NAME: Падение снега
+
 PROTECTION_REGIONS_ALL_COMMAND_NO_RG: §6Anarchy §8| §fРегионы не найдены или вы не
   их владелец
 PROTECTION_REGIONS_COMMAND_NO_RG: §6Anarchy §8| §fРегионы в данной локации не найдены
