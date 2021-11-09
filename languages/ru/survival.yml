@@ -400,10 +400,10 @@ SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SWORD: |-
 SURVIVAL_RACE_COOLDOWN_RESET_NAME: '§cСбросить задержку на смену расы'
 
 SURVIVAL_RACE_COOLDOWN_RESET_DESCRIPTION: |-
-  §7Вы можете за 10 золота приобрести
-  §7сброс задержки на смену расы
+  §7Вы можете сбросить перезарядку
+  §7смены расы за §e10 золота
 
-  §eНажмите, чтобы сбросить задержку
+  §eНажмите, чтобы приобрести
 
 #SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_FOX: |-
 #  §7- §eTODO
