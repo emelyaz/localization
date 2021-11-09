@@ -1126,8 +1126,8 @@ SELECTOR_ITEM_LORE1:
 SELECTOR_ITEM_LORE2:
 - §7Online %online% §7players
 SELECTOR_NAME_GUI: Choose lobby
-TITLE_JOIN_LOBBY: §cNEW! §dVampire §fGAMEMODE
-SUBTITLE_JOIN_LOBBY: §fHappy §6Halloween§f!
+#TITLE_JOIN_LOBBY: §cNEW! §dVampire §fGAMEMODE
+#SUBTITLE_JOIN_LOBBY: §fHappy §6Halloween§f!
 TITLE_ACTIVE_LORE: §e▸ Click to show title
 TITLE_ALREADY_HAVE: §fYou already have this title, you have received §e+%s %s
 TITLE_BUY_CONFIRM_GUI: Do you want to purchase the title?
