@@ -11,10 +11,10 @@ PROTECTION_ACTION_YOU: §cВы не можете удалить или доба�
   :/
 PROTECTION_ADDMEMBERALL_FORMAT: /rg addmemberall <ник>
 PROTECTION_ADDMEMBER_2_FORMAT: /rg addmember <название региона> <ник>
-PROTECTION_ADDMEMBER_COMPLETE: §fИгрок %s §fбыл добавлен в ваш приват §7%s
-PROTECTION_ADDMEMBER_COMPLETE_ERROR: §fИгрок %s §fуже добавлен в приват §7%s
-PROTECTION_ADDMEMBER_COMPLETE_TARGET: §fВы были добавлены в приват §7%s
-PROTECTION_ADDMEMBER_COMPLETE_TO: §fИгрок %s §fбыл добавлен в приват §7%s игроком
+PROTECTION_ADDMEMBER_COMPLETE: $@MODE_PREFIX$§fИгрок %s §fбыл добавлен в ваш приват §7%s
+PROTECTION_ADDMEMBER_COMPLETE_ERROR: $@MODE_PREFIX$§fИгрок %s §fуже добавлен в приват §7%s
+PROTECTION_ADDMEMBER_COMPLETE_TARGET: $@MODE_PREFIX$§fВы были добавлены в приват §7%s
+PROTECTION_ADDMEMBER_COMPLETE_TO: $@MODE_PREFIX$§fИгрок %s §fбыл добавлен в приват §7%s игроком
   %s
 PROTECTION_ADDMEMBER_FORMAT: /rg addmember <ник>
 PROTECTION_ADDMEMBER_LIMIT: §cОшибка, вы привысили лимит на кол-во участников вашего
@@ -24,12 +24,12 @@ PROTECTION_ADDMEMBER_REQUEST: §fЗапрос на добавление в пр�
 PROTECTION_ADDMEMBER_REQUEST_1: ' %s §fхочет добавить вас в приват'
 PROTECTION_ADDMEMBER_REQUEST_ERROR: §cУ вас нет ожидающих заявок
 PROTECTION_ADDMEMBER_REQUEST_ERROR2: §cУ вас нет ожидающих заявок от игрока %s
-PROTECTION_ADDMEMBER_TARGET_LIMIT: §6Anarchy §8| §cОшибка, вы привысили лимит на кол-во
+PROTECTION_ADDMEMBER_TARGET_LIMIT: $@MODE_PREFIX$§cОшибка, вы привысили лимит на кол-во
   приватов, вы не можете владеть более §a%s§f приватов
-PROTECTION_BREAK_BY: §6Anarchy §8| §fПриват §7%s §fбыл уничтожен с помощью §7%s
-PROTECTION_BUY_EFFECT: §6Anarchy §8| §fИгрок %s §fкупил эффект §a%s §fдо §7%s
-PROTECTION_BUY_FLAG: §6Anarchy §8| §fИгрок %s §fкупил флаг §a%s §fдо §7%s
-PROTECTION_CHANGE_STATE_EFFECT: §6Anarchy §8| §fИгрок %s %s§f эффект §a%s
+PROTECTION_BREAK_BY: $@MODE_PREFIX$Приват §7%s §fбыл уничтожен с помощью §7%s
+PROTECTION_BUY_EFFECT: $@MODE_PREFIX$Игрок %s §fкупил эффект §a%s §fдо §7%s
+PROTECTION_BUY_FLAG: $@MODE_PREFIX$Игрок %s §fкупил флаг §a%s §fдо §7%s
+PROTECTION_CHANGE_STATE_EFFECT: $@MODE_PREFIX$Игрок %s %s§f эффект §a%s
 PROTECTION_CLAIM_ERROR: §cОшибка, не указаны точки для создания региона
 PROTECTION_CLAIM_ERROR2: §cОшибка, указанный регион слишком мал. Ширина и длина региона должны быть больше 10 блоков.
 
@@ -59,7 +59,7 @@ PROTECTION_EFFECT_DISABLE_LORE:
 - §e▸ Нажмите ПКМ, чтобы обновить время
 - §e▸ Нажмите ЛКМ, чтобы отключить эффект
 PROTECTION_EFFECT_ENABLED: §aвключил
-PROTECTION_EFFECT_ENABLE_ERROR: §6Anarchy §8| §fПростите, но вы не можете активировать
+PROTECTION_EFFECT_ENABLE_ERROR: $@MODE_PREFIX$Простите, но вы не можете активировать
   данный эффект, лимит вашего привата на кол-во эффектов §7%s
 PROTECTION_EFFECT_ENABLE_LIMIT_LORE:
 - ''
@@ -96,15 +96,15 @@ PROTECTION_EFFECT_LORE:
 - '§7Для участников привата: %s'
 - ''
 - §e▸ Нажмите ПКМ, чтобы купить за монеты
-PROTECTION_EFFECT_NOT_OPEN: §6Anarchy §8| §fДанный эффект вам недоступен, купите его!
-PROTECTION_END: §6Anarchy §8| §cОшибка, ставить приваты в энде запрещено
+PROTECTION_EFFECT_NOT_OPEN: §$@MODE_PREFIX$Данный эффект вам недоступен, купите его!
+PROTECTION_END: $@MODE_PREFIX$Ошибка, ставить приваты в энде запрещено
 PROTECTION_FLAGS_GUI_NAME: Флаги
 PROTECTION_FLAG_ANTI_TNT_LORE:
 - ''
 - §7Запрещает взрыву TNT
 - §7разрушать блоки в регионе
 PROTECTION_FLAG_ANTI_TNT_NAME: Анти динамит
-PROTECTION_FLAG_DISABLED: §6Anarchy §8| §fВ данном регионе активирован флаг §a%s
+PROTECTION_FLAG_DISABLED: $@MODE_PREFIX$В данном регионе активирован флаг §a%s
 PROTECTION_FLAG_ENTITY_LORE:
 - ''
 - §7Запрещает другим игрокам
@@ -159,7 +159,7 @@ PROTECTION_ITEM_LORE:
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
 PROTECTION_ITEM_LORE2: §e▸ Нажмите ЛКМ, для управления региона
-PROTECTION_LEAVE: §6Anarchy §8| §fВы покинули приват §7%s
+PROTECTION_LEAVE: $@MODE_PREFIX$Вы покинули приват §7%s
 PROTECTION_LEAVE_FORMAT: /rg leave <название региона>
 PROTECTION_LEAVE_LORE:
 - ''
@@ -168,7 +168,7 @@ PROTECTION_LEAVE_LORE:
 - §e▸ Нажмите, чтобы покинуть регион
 PROTECTION_LEAVE_NAME: Покинуть регион
 PROTECTION_LEAVE_OWNER_ERROR: §cВы не можете покинуть свой собственный приват
-PROTECTION_LEAVE_TO: §6Anarchy §8| §fИгрок %s §fпокинул приват §7%s
+PROTECTION_LEAVE_TO: $@MODE_PREFIX$Игрок %s §fпокинул приват §7%s
 PROTECTION_MAIN_GUI_NAME: Настройки региона
 PROTECTION_MEMBERS_GUI_NAME: Участники
 PROTECTION_MEMBER_LORE:
@@ -186,9 +186,9 @@ PROTECTION_MEMBER_REMOVE_LORE:
 - ' '
 - §e▸ Нажмите, чтобы удалить участника
 PROTECTION_MEMBER_REMOVE_NAME: Удалить участника
-PROTECTION_MEMBER_SETTINGS_OWNER: §6Anarchy §8| §cОшибка, вы не можете настраивать
+PROTECTION_MEMBER_SETTINGS_OWNER: $@MODE_PREFIX$§cОшибка, вы не можете настраивать
   права владельца привата!
-PROTECTION_MEMBER_SET_RANK_ALERT: §6Anarchy §8| §fИгроку %s §fбыли назначены новые
+PROTECTION_MEMBER_SET_RANK_ALERT: $@MODE_PREFIX$§fИгроку %s §fбыли назначены новые
   права управления приватом
 PROTECTION_NAME: Приват
 PROTECTION_NAME_NOT_VALID: §cОшибка, имя региона слишком длинное или содержит недопустимые
@@ -307,9 +307,9 @@ REGIONS_FLAG_SNOW_FALL_LORE:
 
 REGIONS_FLAG_SNOW_FALL_NAME: Падение снега
 
-PROTECTION_REGIONS_ALL_COMMAND_NO_RG: §6Anarchy §8| §fРегионы не найдены или вы не
+PROTECTION_REGIONS_ALL_COMMAND_NO_RG: $@MODE_PREFIX$Регионы не найдены или вы не
   их владелец
-PROTECTION_REGIONS_COMMAND_NO_RG: §6Anarchy §8| §fРегионы в данной локации не найдены
+PROTECTION_REGIONS_COMMAND_NO_RG: $@MODE_PREFIX$Регионы в данной локации не найдены
   или вы не их владелец/участник
 PROTECTION_REGIONS_STICK: '§eНайден регион игрока: %s'
 PROTECTION_REGIONS_STICK_EMPTY: §eРегионы не найдены
@@ -332,7 +332,7 @@ PROTECTION_REMOVE_FORMAT: /rg remove <название региона>
 PROTECTION_REMOVE_OWNER_ERROR: §fОшибка, вы не можете снять приват, так как вы не
   владелец данного региона
 PROTECTION_SELECTION_FORMAT: /rg selection <название региона>
-PROTECTION_SET_BED_ERROR: §6Anarchy §8| §cОшибка, вы не можете установить точку дома
+PROTECTION_SET_BED_ERROR: $@MODE_PREFIX$§cОшибка, вы не можете установить точку дома
   в чужом регионе
 PROTECTION_UPDATE_INTERSECTS_ERROR: §cОшибка, ваш регион пересекается с другими регионами,
   вы не можете расширить свой приват
@@ -340,7 +340,7 @@ PROTECTION_UPGRADE_FULL:
 - ''
 - §7Вы исчерпали кол-во улучшений
 - §7данного привата
-PROTECTION_UPGRADE_FULL_MESSAGE: §6Anarchy §8| §fОшибка, у вас максимальный уровень
+PROTECTION_UPGRADE_FULL_MESSAGE: $@MODE_PREFIX$Ошибка, у вас максимальный уровень
   прокачки
 PROTECTION_UPGRADE_GUI_NAME: Улучшения
 PROTECTION_UPGRADE_HELP_LORE:
@@ -348,7 +348,7 @@ PROTECTION_UPGRADE_HELP_LORE:
 - '§7Размеры: §a%s§7x§a%s§7x§a%s'
 - '§7Доступных улучшений: §e%s§7/§c%s'
 PROTECTION_UPGRADE_HELP_NAME: Информация
-PROTECTION_UPGRADE_NO_MONEY: §6Anarchy §8| §fОшибка, у вас недостаточно денег для
+PROTECTION_UPGRADE_NO_MONEY: $@MODE_PREFIX$Ошибка, у вас недостаточно денег для
   покупки расширения
 PROTECTION_UPGRADE_SIDE_LORE:
 - ' '
@@ -359,9 +359,9 @@ PROTECTION_UPGRADE_SIDE_LORE:
 - ''
 - §e▸ Нажмите, чтобы улучшить
 PROTECTION_UPGRADE_SIDE_NAME: Расширить по X и Z
-PROTECTION_UPGRADE_SIDE_SUCCES: §6Anarchy §8| §fПриват §7%s §fуспешно расширен на
+PROTECTION_UPGRADE_SIDE_SUCCES: $@MODE_PREFIX$Приват §7%s §fуспешно расширен на
   §a%s §fблоков по координатам §7X §fи §7Z
-PROTECTION_UPGRADE_SIDE_SUCCES_TO: §6Anarchy §8| §fПриват §7%s §fрасширен на §a%s
+PROTECTION_UPGRADE_SIDE_SUCCES_TO: $@MODE_PREFIX$Приват §7%s §fрасширен на §a%s
   §fблоков по координатам §7X §fи §7Z §fигроком %s
 PROTECTION_UPGRADE_UP_LORE:
 - ' '
@@ -372,9 +372,9 @@ PROTECTION_UPGRADE_UP_LORE:
 - ''
 - §e▸ Нажмите, чтобы улучшить
 PROTECTION_UPGRADE_UP_NAME: Расширить по Y
-PROTECTION_UPGRADE_UP_SUCCES: §6Anarchy §8| §fПриват §7%s §fуспешно расширен на §a%s
+PROTECTION_UPGRADE_UP_SUCCES: $@MODE_PREFIX$Приват §7%s §fуспешно расширен на §a%s
   §fблоков по координате §7Y
-PROTECTION_UPGRADE_UP_SUCCES_TO: §6Anarchy §8| §fПриват §7%s §fрасширен на §a%s §fблоков
+PROTECTION_UPGRADE_UP_SUCCES_TO: $@MODE_PREFIX$Приват §7%s §fрасширен на §a%s §fблоков
   по координате §7Y §fигроком %s
 
 SURVIVAL_ALCHEMIST_MENU: 'Алхимик'
@@ -659,6 +659,7 @@ SURVIVAL_ALCHEMIST_SLOT_BLOCKED_NAME: '§cСлот заблокирован'
 SURVIVAL_ALCHEMIST_SLOT_BLOCKED_DESCRIPTION: |-
   §7Для разблокировки необходим %s §7или выше
 
+PROTECTION_NO_PVP: '$@MODE_PREFIX$Пвп в этом регионе запрещено!'
 SURVIVAL_KIT_PURCHASE_CONFIRM_NAME: '§aПодтвердить'
 SURVIVAL_KIT_PURCHASE_CONFIRM_DESCRIPTION: |-
   §7Подтвердить приобретение набора
