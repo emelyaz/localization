@@ -651,7 +651,9 @@ SURVIVAL_RACE_COOLDOWN_RESET_CONFIRM_DESCRIPTION: |-
 SURVIVAL_RACE_COOLDOWN_RESET_CANCEL_NAME: '§cОтменить'
 SURVIVAL_RACE_COOLDOWN_RESET_CANCEL_DESCRIPTION: |-
   §7Отменить действие
-
+SURVIVAL_RACE_WARNING: |-
+  §cВНИМАНИЕ! ПОСЛЕ ВЫБОРА РАСЫ СМЕНИТЬ ЕЕ
+  §cМОЖНО БУДЕТ ЧЕРЕЗ 3 ДНЯ
 SURVIVAL_ALCHEMIST_SLOT_BLOCKED_NAME: '§cСлот заблокирован'
 SURVIVAL_ALCHEMIST_SLOT_BLOCKED_DESCRIPTION: |-
   §7Для разблокировки необходим %s §7или выше
