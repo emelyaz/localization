@@ -1128,12 +1128,12 @@ SELECTOR_ITEM_LORE1:
 SELECTOR_ITEM_LORE2:
 - §7Онлайн %online% §7гравців
 SELECTOR_NAME_GUI: Вибір лобі
-SUBTITLE_JOIN_LOBBY: §fРежиму §eEggWars
+#SUBTITLE_JOIN_LOBBY: §fРежиму §eEggWars
 TITLE_ACTIVE_LORE: §e▸ Натисніть, щоб показати титул
 TITLE_ALREADY_HAVE: §fУ вас вже є цей титул, ви отримали §e+%s %s
 TITLE_BUY_CONFIRM_GUI: Придбати титул ?
 TITLE_DEACTIVE_LORE: §e▸ Натисніть, щоб приховати титул
-TITLE_JOIN_LOBBY: §6Глобальне §fоновлення
+#TITLE_JOIN_LOBBY: §6Глобальне §fоновлення
 TITLE_NOT_ACCESS: §cДоступний з особливих свят або днях
 TITLE_NOT_YOU: §cЦей тутил вам не доступний
 TITLE_TYPE_LORE:

@@ -309,6 +309,7 @@ FLINT_AND_STEEL: Огниво
 FLOWER_POT_ITEM: Горшок
 FOX_SPAWN_EGG: Яйцо лисы
 CAT_SPAWN_EGG: Яйцо призыва кошки
+PARROT_SPAWN_EGG: Яйцо призыва попугая
 COD: Треска
 SHULKER_BOX: Шалкеровый ящик
 GARDENER_ITEM_BOX_KIT: Садовник
@@ -409,6 +410,8 @@ MULE_SPAWN_EGG: Яйцо призыва мула
 MUSIC_DISC_PIGSTEP: Пластинка пигмена
 NAUTILUS_SHELL: Раковина наутилуса
 NEMOR_ITEM_BOX_KIT: Подводный долгожитель
+NETHERITE_SCRAP: Незеритовый лом
+IRON_SHOVEL: Железная лопата
 NETHERITE_AXE: Незеритовый топор
 NETHERITE_BOOTS: Незеритовые ботинки
 NETHERITE_CHESTPLATE: Незеритовый нагрудник
@@ -491,6 +494,7 @@ ROTTEN_FLESH: Гнилая плоть
 SANDSTONE_STAIRS: Ступеньки из песчаника
 SEA_LANTERN: Морской фонарь
 SEA_PICKLE: Морской огурец
+SEAGRASS: Морская трава
 SEEKERS_KILLED_STAT: Искателей убито
 SEEKER_TEAM: Искатели
 SHEEP_SPAWN_EGG: Яйцо призыва овцы
