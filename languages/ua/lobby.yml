@@ -200,15 +200,6 @@ GAMEMENU_ANARCHY_LORE:
 - §7Ну або майже..
 - ''
 - §cПрацюють всі блоки з 1.16
-GAMEMENU_ARCADE_LORE:
-- §8Аркадні ігри
-- ''
-- '§7Збірник міні-ігор, таких як:'
-- §f ▪ BuildBattle
-- §f ▪ HideAndSeek
-- §f ▪ SpeedBuilders
-- §f ▪ ???
-- ''
 GAMEMENU_BEDWARS_LORE:
 - §8Битви на островах
 - ''
