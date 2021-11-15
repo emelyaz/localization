@@ -199,15 +199,6 @@ GAMEMENU_ANARCHY_LORE:
 - §7Well, almost..
 - ''
 - §cAll blocks work with 1.16
-GAMEMENU_ARCADE_LORE:
-- §8Arcades
-- ''
-- '§7A collection of mini-games such as:'
-- §f ▪ BuildBattle
-- §f ▪ HideAndSeek
-- §f ▪ SpeedBuilders
-- §f ▪ ???
-- ''
 GAMEMENU_BEDWARS_LORE:
 - §8Island battles
 - ''
