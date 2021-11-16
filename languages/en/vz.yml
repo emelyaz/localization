@@ -1,0 +1,126 @@
+VZ_ZOMBIE_KILLS_STAT: 'Zombies killed'
+VZ_WIN_VAMPIRES_TITLE: '§cVampires won'
+VZ_WIN_VAMPIRES_SUBTITLE: '§7All people are dead'
+VZ_WIN_HUMANS_TITLE: '§bHumans won'
+VZ_WIN_HUMANS_SUBTITLE: '§7The vampires failed to kill everyone'
+VZ_YOU_ARE_VAMPIRE: '§cYou are dead'
+VZ_YOU_ARE_VAMPIRE_SUBTITLE: '§7Now you are a vampire'
+VZ_WAVE_START: 'Wave §a№%s §fhas begun!'
+VZ_WAVE_TITLE: '§6Wave №%s'
+VZ_BOARD_GOLD: '§fGold: §6%s'
+VZ_BOARD_BLOOD: '§fBlood: §4%s'
+VZ_BOARD_WAVE: '§fWave: §a%s'
+VZ_BOARD_WAVE_TIME: '§fTime: §6%s'
+VZ_BOARD_VAMPIRES: '§fVampires: §c%s'
+VZ_BOARD_HUMANS: '§fSurvived: §b%s'
+VZ_BOARD_ROLE: '§fYou: §e%s'
+VZ_HUMAN_ROLE: '§bHuman'
+VZ_VAMPIRE_ROLE: '§cVampire'
+VZ_VAMPIRES_SHOP_ITEM: "§eVampire's abilities"
+VZ_VAMPIRES_SHOP_ITEM_LORE: |-
+  §7Buying abilities for blood
+  §7RMC to open
+VZ_HUMANS_SHOP_ITEM: '§eStore'
+VZ_HUMANS_SHOP_ITEM_LORE: |-
+  §7Buying and upgrading items for gold
+  §7RMC to open store
+VZ_ADD_BLOOD: '§4+%s blood'
+VZ_ADD_GOLD: '§6+%s %s'
+VZ_SHOP_MENU: 'Store'
+VZ_SHOP_PURCHASE: '§fYou purchased §a%s'
+VZ_SHOP_MENU_PRICE_GOLD: |-
+  §f
+  §7Price: §6%s %s
+VZ_SHOP_MENU_PRICE_BLOOD: |-
+  §f
+  §7Price: §4%s blood
+VZ_SHOP_MENU_ALREADY_PURCHASED: |-
+  §f
+  §cAlready purchased
+VZ_SHOP_MENU_CLICK: |-
+  §f
+  §e▸ Click to purchase
+VZ_SHOP_MENU_NO_BLOOD: |-
+  §f
+  §cNot enough blood to buy
+VZ_SHOP_MENU_NO_GOLD: |-
+  §f
+  §cNot enough gold to buy
+VZ_WAVES_STARTING: 'Zombies will start spawning in §a15 §fseconds...'
+VZ_REINCARNATION_ACTIVATED: 'You have turned into a bat! To turn off the transformation, press SPACE twice'
+VZ_REINCARNATION_COOLDOWN: 'Wait a little before the next transformation'
+VZ_ZOMBIE_WAVE_ACTIVATED: '§fVanpire %s §fsummoned a wave of zombies around him!'
+VZ_GLOWING_ACTIVATED: '§fVampire %s §fhighlighted all those who survived for 15 seconds'
+VZ_SHOP_HEAL_POTION_NAME: 'Instant Heal Potion'
+VZ_SHOP_HEAL_POTION_2_NAME: 'Instant Heal Potion (Explosive)'
+VZ_SHOP_STRENGTH_POTION_NAME: 'Strength Potion'
+VZ_SHOP_REGEN_POTION_NAME: 'Regeneration Potion'
+VZ_SHOP_GLOWING_NAME: 'Vampire sight'
+VZ_SHOP_GLOWING_DESCRIPTION: |-
+  §7Highlights all those who survived
+  §7for 15 seconds
+VZ_SHOP_ADDITIONAL_HEALTH_NAME: 'Additional health'
+VZ_SHOP_ADDITIONAL_HEALTH_DESCRIPTION: |-
+  §7You get 2 times more
+  §7health until the next death
+VZ_SHOP_REINCARNATION_NAME: 'Reincarnation'
+VZ_SHOP_REINCARNATION_DESCRIPTION: |-
+  §7Until the end of the game, when pressing Shift,
+  §7you turn into a bat
+  §7and get a flight until the next time you
+  §7press Shift, at the same time you cannot
+  §7attack. Recharge is 5 secs
+VZ_SHOP_SUPER_STRENGTH_1_NAME: 'Superpower'
+VZ_SHOP_SUPER_STRENGTH_1_DESCRIPTION: |-
+  §7After purchase, you will get the
+  §7strength effect I for 15 seconds
+VZ_SHOP_SUPER_STRENGTH_2_NAME: 'Mega-superpower'
+VZ_SHOP_SUPER_STRENGTH_2_DESCRIPTION: |-
+  §7After purchase, you will get the
+  §7strength effect II for 25 seconds
+VZ_SHOP_JUMP_NAME: 'Unknown power'
+VZ_SHOP_JUMP_DESCRIPTION: |-
+  §7After purchase, you will get the
+  §7jumping effecr III until the next death
+VZ_SHOP_ZOMBIE_WAVE_NAME: 'Новая орда'
+VZ_SHOP_ZOMBIE_WAVE_DESCRIPTION: |-
+  §7You summon a wave of zombies to
+  §7where you are now
+  §7
+  §cAvailable only once per game
+VZ_SHOP_IRON_HELPER_NAME: 'Iron helper'
+VZ_SHOP_IRON_HELPER_DESCRIPTION: |-
+  §7You summon a little zombie in
+  §7iron armor with an iron sword on
+  §7your location
+VZ_SHOP_DIAMOND_HELPER_NAME: 'Diamond helper'
+VZ_SHOP_DIAMOND_HELPER_DESCRIPTION: |-
+  §7You summon a little zombie in
+  §7diamond armor with a diamond sword on
+  §7your location
+VZ_VAMPIRES_TEAM: Vampires
+VZ_HUMANS_TEAM: Player
+VZ_VAMPIRE_GAME_DESC: |-
+  §cVampires
+  §fYour task is to turn all people into vampires
+  §fusing your abilities and hordes of zombies
+VZ_HUMAN_GAME_DESC: |-
+  §bHumans
+  §fYour task is to survive all the attack waves of
+  §fzombies and vampires, getting gold for 
+  §fkilling them and upgrading your armor
+MENU_MODE_VZ: 'Vampires'
+MENU_MODE_VZ_LORE: |-
+  §8Halloween exclusive
+  §7
+  §7The classic confrontation between vampires
+  §7and humans! Win for people by fighting
+  §7hordes of zombies off or enslave all people
+  §7into vampires and get unique
+  §7Halloween titles
+  §f
+VZ_ONLY_FIRST_VAMPIRE_WIN: |-
+  §cVictory and Halloween Key are awarded only
+  §cto the vampires chosen in the very beginning
+  §cof the game
+VZ_VAMPIRES_SELECTED: 'Vampires chosen in this game - %s'
