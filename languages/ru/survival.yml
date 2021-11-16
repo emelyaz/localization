@@ -378,7 +378,8 @@ PROTECTION_UPGRADE_UP_SUCCES_TO: $@MODE_PREFIX$Приват §7%s §fрасши�
   по координате §7Y §fигроком %s
 
 SURVIVAL_ALCHEMIST_MENU: 'Алхимик'
-SURVIVAL_ALCHEMIST_CRAFT_MENU: 'Алхимик > Создание'
+SURVIVAL_ALCHEMIST_ITEMS_CRAFT_MENU: 'Алхимик > Создание предметов'
+SURVIVAL_ALCHEMIST_ENCHANTMENTS_CRAFT_MENU: 'Алхимик > Создание зачарований'
 
 SURVIVAL_ALCHEMIST_CRAFT_AVAILABLE: |-
 
@@ -682,8 +683,6 @@ SURVIVAL_ALCHEMIST_ENCHANTMENT_TRADE_NAME: '§eУникальные зачаро
 SURVIVAL_ALCHEMIST_ENCHANTMENT_TRADE_DESCRIPTION: |-
   §7Обменяйте у алхимика предметы
   §7на редкие зачарования
-  §7
-  §cВ разработке
 
 SURVIVAL_ALCHEMIST_DONATE_INFO_NAME: '§eВозможности донатеров'
 
