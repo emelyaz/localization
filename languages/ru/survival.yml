@@ -555,7 +555,7 @@ SURVIVAL_ITEM_REACTIVE_ELYTRA_NAME: '§aРеактивная элитра'
 SURVIVAL_ITEM_REACTIVE_ELYTRA_DESCRIPTION: |-
 
   §7При нажатии Shift вы получаете
-  §7ускорение (раз в 30 секунд)
+  §7ускорение (раз в 20 секунд)
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_NAME: '§aНеуязвимый питомец (Собака)'
 
 SURVIVAL_ITEM_INVULNERABLE_PET_DOG_DESCRIPTION: |-
