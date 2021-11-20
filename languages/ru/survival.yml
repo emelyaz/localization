@@ -413,11 +413,11 @@ SURVIVAL_ALCHEMIST_CRAFTING_REACTIVE_BOOTS: |-
 
 SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_DOG: |-
   §7 - §eКости §8x256
-  §7 - §eЗвезда ада §8x8
+  §7 - §eЗвезда ада §8x4
 
 SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_CAT: |-
   §7 - §eТреска §8x256
-  §7 - §eЗвезда ада §8x8
+  §7 - §eЗвезда ада §8x4
 SURVIVAL_ALCHEMIST_CRAFTING_ELYTRA: |-
   §7 - §eПеро §8x256
   §7 - §eЗвезда ада §8x2
