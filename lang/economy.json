@@ -1,0 +1,23 @@
+{
+    "ECONOMY_PREFIX": {
+        "ru": "§6Экономика §8| §f"
+    },
+    "ECONOMY_DEPOSIT": {
+        "ru": "$ECONOMY_PREFIX$Вы изменили баланс игрока %s §fна §a+%s$§f, его текущий баланс равен §e%s$"
+    },
+    "ECONOMY_WITHDRAW": {
+        "ru": "$ECONOMY_PREFIX$Вы изменили баланс игрока %s §fна §c-%s$§f, его текущий баланс равен §e%s$"
+    },
+    "ECONOMY_BALANCE": {
+        "ru": "$ECONOMY_PREFIX$Баланс %s§f: §e%s$"
+    },
+    "ECONOMY_WITHDRAW_DESCRIPTION": {
+        "ru": "Снять с баланса игрока"
+    },
+    "ECONOMY_DEPOSIT_DESCRIPTION": {
+        "ru": "Пополнить баланс игрока"
+    },
+    "ECONOMY_BALANCE_DESCRIPTION": {
+        "ru": "Получить баланс игрока"
+    }
+}

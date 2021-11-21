@@ -1,0 +1,3893 @@
+{
+    "PROTECTION_2_HELP": {
+        "ru": [
+            "§7/rg claim <название региона> §f- создать регион",
+            "§7/rg remove <название региона> §f- удалить регион",
+            "§7/rg list §f- список ваших регионов",
+            "§7/rg flag §f- настройки флагов",
+            "§7/rg addmember <название региона> <ник> §f- добавить игрока в приват",
+            "§7/rg removemember <название региона> <ник> §f- удалить игрока из привата",
+            "§7/rg selection <название привата> §f- показать границы привата",
+            "§7/rg leave <название привата> §f- покинуть приват"
+        ],
+        "ua": [
+            "§7/rg claim <назва регіону> §f- створити регіон",
+            "§7/rg remove <назва регіону> §f- видалити регіон",
+            "§7/rg list §f- список ваших регіонів",
+            "§7/rg flag §f- налаштування прапорів",
+            "§7/rg addmember <назва регіону> <нік> §f- додати гравця до привату",
+            "§7/rg removemember <назва регіону> <нік> §f- видалити гравця з привату",
+            "§7/rg selection <назва привату> §f- показати межі привату",
+            "§7/rg leave <назва привату> §f- залишити приват"
+        ],
+        "en": [
+            "§7/rg claim <name of the region> §f- create a region",
+            "§7/rg remove <name of the region> §f- remove a region",
+            "§7/rg list §f- list of your regions",
+            "§7/rg flag §f- flag settings",
+            "§7/rg addmember <name of the region> <nickname> §f- add a player to the private",
+            "§7/rg removemember <name of the region> <nickname> §f- remove a player from the private",
+            "§7/rg selection <name of the private> §f- show borders of the private",
+            "§7/rg leave <name of the private> §f- leave the private"
+        ]
+    },
+    "PROTECTION_ACTION_YOU": {
+        "ru": "§cВы не можете удалить или добавить сами себя в свой приват :/",
+        "ua": "§cВи не можете видалити або додати себе в свій приват :/",
+        "en": "§cYou cannot remove or add yourself to your private :/"
+    },
+    "PROTECTION_ADDMEMBERALL_FORMAT": {
+        "ru": "/rg addmemberall <ник>",
+        "ua": "/rg addmemberall <нік>",
+        "en": "/rg addmemberall <nickname>"
+    },
+    "PROTECTION_ADDMEMBER_2_FORMAT": {
+        "ru": "/rg addmember <название региона> <ник>",
+        "ua": "/rg addmember <назва регіону> <нік>",
+        "en": "/rg addmember <name of the region> <nickname>"
+    },
+    "PROTECTION_ADDMEMBER_COMPLETE": {
+        "ru": "$@MODE_PREFIX$§fИгрок %s §fбыл добавлен в ваш приват §7%s",
+        "ua": "$@MODE_PREFIX$§fГравець %s §fбув доданий у ваш приват §7%s",
+        "en": "$@MODE_PREFIX$§fPlayer %s §fhas been added to your private §7%s"
+    },
+    "PROTECTION_ADDMEMBER_COMPLETE_ERROR": {
+        "ru": "$@MODE_PREFIX$§fИгрок %s §fуже добавлен в приват §7%s",
+        "ua": "$@MODE_PREFIX$§fГравець %s §fвже доданий до привату §7%s",
+        "en": "$@MODE_PREFIX$§fPlayer %s §fis already added to your private §7%s"
+    },
+    "PROTECTION_ADDMEMBER_COMPLETE_TARGET": {
+        "ru": "$@MODE_PREFIX$§fВы были добавлены в приват §7%s",
+        "ua": "$@MODE_PREFIX$§fВи були додані в приват §7%s",
+        "en": "$@MODE_PREFIX$§fYou have been added to a private §7%s"
+    },
+    "PROTECTION_ADDMEMBER_COMPLETE_TO": {
+        "ru": "$@MODE_PREFIX$§fИгрок %s §fбыл добавлен в приват §7%s игроком %s",
+        "ua": "$@MODE_PREFIX$§fГравець %s §fбув доданий в приват §7%s гравцем %s",
+        "en": "$@MODE_PREFIX$§fPlayer %s §fhas been added to the private §7%s by player %s"
+    },
+    "PROTECTION_ADDMEMBER_FORMAT": {
+        "ru": "/rg addmember <ник>",
+        "ua": "/rg addmember <нік>",
+        "en": "/rg addmember <nickname>"
+    },
+    "PROTECTION_ADDMEMBER_LIMIT": {
+        "ru": "§cОшибка, вы привысили лимит на кол-во участников вашего привата(%s), кол-во участников не должно превышать %s",
+        "ua": "§cПомилка, ви перевищили ліміт на кількість учасників вашого привату(%s), к-ть учасників не повинна перевищувати %s",
+        "en": "§cError, you have exceeded the limit for the number of participants of your private(%s), the number of participants can't exceed %s"
+    },
+    "PROTECTION_ACCEPT_LIMIT": {
+        "ru": "§cОшибка, в привате(%s) достигнут лимит участников",
+        "ua": "§cПомилка, у приваті(%s) досягнуто ліміту учасників",
+        "en": "§cError, in the private(%s) the limit for the number of participants is exceeded"
+    },
+    "PROTECTION_ADDMEMBER_REQUEST": {
+        "ru": "§fЗапрос на добавление в приват отправлен игроку %s",
+        "ua": "§fЗапит на додавання до привату відправлений гравцю %s",
+        "en": "§fRequest to add to a private has been sent to the player %s"
+    },
+    "PROTECTION_ADDMEMBER_REQUEST_1": {
+        "ru": " %s §fхочет добавить вас в приват",
+        "ua": " %s §fхоче додати вас до привату",
+        "en": " %s §fwants to add you to a private"
+    },
+    "PROTECTION_ADDMEMBER_REQUEST_ERROR": {
+        "ru": "§cУ вас нет ожидающих заявок",
+        "ua": "§cУ вас немає очікуваних заявок",
+        "en": "§cYou have no pending requests"
+    },
+    "PROTECTION_ADDMEMBER_REQUEST_ERROR2": {
+        "ru": "§cУ вас нет ожидающих заявок от игрока %s",
+        "ua": "§cУ вас немає очікуваних заявок від гравця %s",
+        "en": "§cYou have no pending requests from player %s"
+    },
+    "PROTECTION_ADDMEMBER_TARGET_LIMIT": {
+        "ru": "$@MODE_PREFIX$§cОшибка, вы привысили лимит на кол-во приватов, вы не можете владеть более §a%s§f приватов",
+        "ua": "$@MODE_PREFIX$§cПомилка, ви перевищили ліміт на кількість приватів, ви не можете володіти більше ніж §a%s§f приватами",
+        "en": "$@MODE_PREFIX$§cError, you have exceeded the limit of privates, you can not own more than §a%s§f privates"
+    },
+    "PROTECTION_BREAK_BY": {
+        "ru": "$@MODE_PREFIX$Приват §7%s §fбыл уничтожен с помощью §7%s",
+        "ua": "$@MODE_PREFIX$Приват §7%s §fбуло знищено за допомогою §7%s",
+        "en": "$@MODE_PREFIX$Private §7%s §fhas been destroyed with §7%s"
+    },
+    "PROTECTION_BUY_EFFECT": {
+        "ru": "$@MODE_PREFIX$Игрок %s §fкупил эффект §a%s §fдо §7%s",
+        "ua": "$@MODE_PREFIX$Гравець %s §fкупив ефект §a%s §fдо §7%s",
+        "en": "$@MODE_PREFIX$Player %s §fbought the effect §a%s §funtil §7%s"
+    },
+    "PROTECTION_BUY_FLAG": {
+        "ru": "$@MODE_PREFIX$Игрок %s §fкупил флаг §a%s §fдо §7%s",
+        "ua": "$@MODE_PREFIX$Гравець %s §fкупив прапор §a%s §fдо §7%s",
+        "en": "$@MODE_PREFIX$Player %s §fbought the flag §a%s §funtil §7%s"
+    },
+    "PROTECTION_CHANGE_STATE_EFFECT": {
+        "ru": "$@MODE_PREFIX$Игрок %s %s§f эффект §a%s",
+        "ua": "$@MODE_PREFIX$Гравець %s %s§f ефект §a%s",
+        "en": "$@MODE_PREFIX$Player %s %s§f effect §a%s"
+    },
+    "PROTECTION_CLAIM_ERROR": {
+        "ru": "§cОшибка, не указаны точки для создания региона",
+        "ua": "§cПомилка, не вказані точки для створення регіону",
+        "en": "§cError, no points are specified to create a region"
+    },
+    "PROTECTION_CLAIM_ERROR2": {
+        "ru": "§cОшибка, указанный регион слишком мал. Ширина и длина региона должны быть больше 10 блоков.",
+        "ua": "§cПомилка, зазначений регіон занадто малий. Ширина та довжина регіону мають бути більше 10 блоків.",
+        "en": "§cError, the specified region is too small. The width and length of the region must be greater than 10 blocks."
+    },
+    "PROTECTION_CLAIM_FORMAT": {
+        "ru": "/rg claim <название региона>",
+        "ua": "/rg claim <назва регіону>",
+        "en": "/rg claim <name of the region>"
+    },
+    "PROTECTION_CREATE": {
+        "ru": "§fРегион успешно создан. Пишите §7/ps add <ник>§f, чтобы добавить друга или §7/ps list §fдля управления регионом. §cБлок привата можно разрушить взрывом!",
+        "ua": "§fРегіон успішно створено. Пишіть §7/ps add <нік>§f, щоб додати друга або §7/ps list §fдля управління регіоном. §cБлок привату можна зруйнувати вибухом!",
+        "en": "§fRegion successfully created. Type §7/ps add <nickname>§f to add a friend or §7/ps list §fto manage the region. §cPrivate's block can be destroyed by explosion!"
+    },
+    "PROTECTION_CREATE_2": {
+        "ru": "§fРегион успешно создан. Пишите §7/rg add %s <ник>§f, чтобы добавить друга или §7/rg list §fдля управления регионом",
+        "ua": "§fРегіон успішно створено. Пишіть §7/rg add %s <нік>§f, щоб додати друга або §7/rg list §fдля управління регіоном",
+        "en": "§fRegion successfully created. Type §7/rg add %s <nickname>§f to add a friend or §7/rg list §fto manage the region"
+    },
+    "PROTECTION_CREATE_BLOCK_LIMIT_ERROR": {
+        "ru": "§fОшибка, вы не можете создать регион, в котором более §a%s§f блоков (У вас §c%s§f)",
+        "ua": "§fПомилка, ви не можете створити регіон, в якому більше ніж §a%s§f блоків (У вас §c%s§f)",
+        "en": "§fError, you cannot create a region where there are more than §a%s§f blocks (You have §c%s§f)"
+    },
+    "PROTECTION_CREATE_INTERSECTS_ERROR": {
+        "ru": "§cОшибка, ваш регион пересекается с другими регионами, попробуйте в другом месте",
+        "ua": "§cПомилка, ваш регіон перетинається з іншими регіонами, спробуйте в іншому місці",
+        "en": "§cError, your region overlaps with other regions, try elsewhere"
+    },
+    "PROTECTION_CREATE_LIMIT_ERROR": {
+        "ru": "§fОшибка, вы не можете создать более §с%s§f приватов",
+        "ua": "§fПомилка, ви не можете створити більше ніж §с%s§f приватів",
+        "en": "§fError, you cannot create more than §с%s§f privates"
+    },
+    "PROTECTION_EFFECTS_GUI_NAME": {
+        "ru": "Эффекты",
+        "ua": "Ефекти",
+        "en": "Effects"
+    },
+    "PROTECTION_EFFECT_DISABLED": {
+        "ru": "§cотключил",
+        "ua": "§cвимкнув",
+        "en": "§cdisabled"
+    },
+    "PROTECTION_EFFECT_DISABLE_LORE": {
+        "ru": [
+            "",
+            "§7Цена за монеты: §a%s §f(%s)",
+            "§cПовторная покупка обновит время!",
+            "",
+            "§7Для участников привата: %s",
+            "§7Статус: %s",
+            "",
+            "§7Данный эффект истекает:",
+            "%s",
+            "",
+            "§e▸ Нажмите ПКМ, чтобы обновить время",
+            "§e▸ Нажмите ЛКМ, чтобы отключить эффект"
+        ],
+        "ua": [
+            "",
+            "§7Ціна за монети: §a%s §f(%s)",
+            "§cПовторна покупка оновить час!",
+            "",
+            "§7Для учасників привату: %s",
+            "§7Статус: %s",
+            "",
+            "§7Цей ефект закінчується:",
+            "%s",
+            "",
+            "§e▸ Натисніть ПКМ, щоб оновити час",
+            "§e▸ Натисніть ЛКМ, щоб вимкнути ефект"
+        ],
+        "en": [
+            "",
+            "§7Coin price: §a%s §f(%s)",
+            "§cRe-purchase will update the time!",
+            "",
+            "§7For participants of the private: %s",
+            "§7Status: %s",
+            "",
+            "§7This effect expires in:",
+            "%s",
+            "",
+            "§e▸ RMC to update the time",
+            "§e▸ LMC to disable the effect"
+        ]
+    },
+    "PROTECTION_EFFECT_ENABLED": {
+        "ru": "§aвключил",
+        "ua": "§aувімкнув",
+        "en": "§aenabled"
+    },
+    "PROTECTION_EFFECT_ENABLE_ERROR": {
+        "ru": "$@MODE_PREFIX$Простите, но вы не можете активировать данный эффект, лимит вашего привата на кол-во эффектов §7%s",
+        "ua": "$@MODE_PREFIX$Вибачте, але ви не можете активувати цей ефект, ліміт вашого привату на кількість ефектів §7%s",
+        "en": "$@MODE_PREFIX$Sorry, but you cannot activate this effect, the limit of your private on the number of effects is §7%s"
+    },
+    "PROTECTION_EFFECT_ENABLE_LIMIT_LORE": {
+        "ru": [
+            "",
+            "§7Цена за монеты: §a%s §f(%s)",
+            "§cПовторная покупка обновит время!",
+            "",
+            "§7Для участников привата: %s",
+            "§7Статус: %s",
+            "",
+            "§7Данный эффект истекает:",
+            "%s",
+            "",
+            "§cВы не можете активировать данный эффект",
+            "§cУ вас превышен лимит на кол-во",
+            "§cактивированных эффектов!"
+        ],
+        "ua": [
+            "",
+            "§7Ціна за монети: §a%s §f(%s)",
+            "§cПовторна покупка оновить час!",
+            "",
+            "§7Для учасників привату: %s",
+            "§7Статус: %s",
+            "",
+            "§7Цей ефект закінчується:",
+            "%s",
+            "",
+            "§cВи не можете активувати цей ефект",
+            "§cУ вас перевищен ліміт на к-ть",
+            "§cактивованих ефектів!"
+        ],
+        "en": [
+            "",
+            "§7Coin price: §a%s §f(%s)",
+            "§cRe-purchase will update the time!",
+            "",
+            "§7For participants of the private: %s",
+            "§7Status: %s",
+            "",
+            "§7This effect expires in:",
+            "%s",
+            "",
+            "§cYou can't activate this effect",
+            "§cYou have exceeded the limit on the number",
+            "§cof effects activated!"
+        ]
+    },
+    "PROTECTION_EFFECT_ENABLE_LORE": {
+        "ru": [
+            "",
+            "§7Цена за монеты: §a%s §f(%s)",
+            "§cПовторная покупка обновит время!",
+            "",
+            "§7Для участников привата: %s",
+            "§7Статус: %s",
+            "",
+            "§7Данный эффект истекает:",
+            "%s",
+            "",
+            "§e▸ Нажмите ПКМ, чтобы обновить время",
+            "§e▸ Нажмите ЛКМ, чтобы включить эффект"
+        ],
+        "ua": [
+            "",
+            "§7Ціна за монети: §a%s §f(%s)",
+            "§cПовторна покупка оновить час!",
+            "",
+            "§7Для учасників привату: %s",
+            "§7Статус: %s",
+            "",
+            "§7Цей ефект закінчується:",
+            "%s",
+            "",
+            "§e▸ Натисніть ПКМ, щоб оновити час",
+            "§e▸ Натисніть ЛКМ, щоб увімкнути ефект"
+        ],
+        "en": [
+            "",
+            "§7Coin price: §a%s §f(%s)",
+            "§cRe-purchase will update the time!",
+            "",
+            "§7For participants of the private: %s",
+            "§7Status: %s",
+            "",
+            "§7This effect expires in:",
+            "%s",
+            "",
+            "§e▸ RMC to update the time",
+            "§e▸ LMC to enable the effect"
+        ]
+    },
+    "PROTECTION_EFFECT_LORE": {
+        "ru": [
+            "",
+            "§7Цена за монеты: §a%s §f(%s)",
+            "§cДанный эффект вам недоступен!",
+            "",
+            "§7Для участников привата: %s",
+            "",
+            "§e▸ Нажмите ПКМ, чтобы купить за монеты"
+        ],
+        "ua": [
+            "",
+            "§7Ціна за монети: §a%s §f(%s)",
+            "§cЦей ефект вам недоступний!",
+            "",
+            "§7Для учасників привату: %s",
+            "",
+            "§e▸ Натисніть ПКМ, щоб купити за монети"
+        ],
+        "en": [
+            "",
+            "§7Coin price: §a%s §f(%s)",
+            "§cThis effect is not available to you!",
+            "",
+            "§7For participants of the private: %s",
+            "",
+            "§e▸ RMC to buy for coins"
+        ]
+    },
+    "PROTECTION_EFFECT_NOT_OPEN": {
+        "ru": "§$@MODE_PREFIX$Данный эффект вам недоступен, купите его!",
+        "ua": "§$@MODE_PREFIX$Цей ефект вам недоступний, купіть його!",
+        "en": "§$@MODE_PREFIX$This effect is not available to you, buy it!"
+    },
+    "PROTECTION_END": {
+        "ru": "$@MODE_PREFIX$Ошибка, ставить приваты в энде запрещено",
+        "ua": "$@MODE_PREFIX$Помилка, ставити привати в енді заборонено",
+        "en": "$@MODE_PREFIX$Error, it is forbidden to put privates in the End"
+    },
+    "PROTECTION_FLAGS_GUI_NAME": {
+        "ru": "Флаги",
+        "ua": "Прапори",
+        "en": "Flags"
+    },
+    "PROTECTION_FLAG_ANTI_TNT_LORE": {
+        "ru": [
+            "",
+            "§7Запрещает взрыву TNT",
+            "§7разрушать блоки в регионе"
+        ],
+        "ua": [
+            "",
+            "§7Зобороняє вибуху TNT",
+            "§7руйнувати блоки в регіоні"
+        ],
+        "en": [
+            "",
+            "§7Prevents TNT explosion",
+            "§7from destroying blocks in the region"
+        ]
+    },
+    "PROTECTION_FLAG_ANTI_TNT_NAME": {
+        "ru": "Анти динамит",
+        "ua": "Анти динаміт",
+        "en": "Anti dynamite"
+    },
+    "PROTECTION_FLAG_DISABLED": {
+        "ru": "$@MODE_PREFIX$В данном регионе активирован флаг §a%s",
+        "ua": "$@MODE_PREFIX$В цьому регіоні активований прапор §a%s",
+        "en": "$@MODE_PREFIX$The flag is activated in this region §a%s"
+    },
+    "PROTECTION_FLAG_ENTITY_LORE": {
+        "ru": [
+            "",
+            "§7Запрещает другим игрокам",
+            "§7наносить урон по любым существам"
+        ],
+        "ua": [
+            "",
+            "§7Забороняє іншим гравцяч",
+            "§7завдавати шкоди будь-яким істотам"
+        ],
+        "en": [
+            "",
+            "§7Forbids other players to",
+            "§7damage any creatures"
+        ]
+    },
+    "PROTECTION_FLAG_ENTITY_NAME": {
+        "ru": "Защита животных",
+        "ua": "Захист тварин",
+        "en": "Animal protection"
+    },
+    "PROTECTION_FLAG_FORMAT": {
+        "ru": "/rg flag <название региона>",
+        "ua": "/rg flag <назва регіону>",
+        "en": "/rg flag <name of the region>"
+    },
+    "PROTECTION_FLAG_HORUS_LORE": {
+        "ru": [
+            "",
+            "§7Блокирует использование Хоруса",
+            "§7и Жемчуга эндера у игроков,",
+            "§7не состоящих в регионе"
+        ],
+        "ua": [
+            "",
+            "§7Блокує використання Хорусу",
+            "§7та Перли ендера у гравців,",
+            "§7що не є частиною регіону"
+        ],
+        "en": [
+            "",
+            "§7Blocks the use of Horus",
+            "§7and Ender Pearls from players",
+            "§7who are not part of the region"
+        ]
+    },
+    "PROTECTION_FLAG_HORUS_NAME": {
+        "ru": "Защита от хоруса",
+        "ua": "Захист від Хоруса",
+        "en": "Protection from Horus"
+    },
+    "PROTECTION_FLAG_LORE": {
+        "ru": [
+            "",
+            "§7Цена за монеты: §a%s §f(%s)",
+            "§7Цена за золото: §e%s §f(%s)",
+            "",
+            "§7Данный флаг истекает:",
+            "%s",
+            "",
+            "§e▸ Нажмите ЛКМ, чтобы купить за монеты",
+            "§e▸ Нажмите ПКМ, чтобы купить за золото"
+        ],
+        "ua": [
+            "",
+            "§7Ціна за монети: §a%s §f(%s)",
+            "§7Ціна за золото: §e%s §f(%s)",
+            "",
+            "§7Строк дії цього прапору закінчується:",
+            "%s",
+            "",
+            "§e▸ Натисніть ЛКМ, щоб купити за монети",
+            "§e▸ Натисніть ПКМ, щоб купити за золото"
+        ],
+        "en": [
+            "",
+            "§7Coin price: §a%s §f(%s)",
+            "§7Gold price: §e%s §f(%s)",
+            "",
+            "§7This flag expires:",
+            "%s",
+            "",
+            "§e▸ LMC to buy for coins",
+            "§e▸ RMC to buy for gold"
+        ]
+    },
+    "PROTECTION_FLAG_NOT_USED": {
+        "ru": "У вас нет прав на использование этого флага. Владелец привата должен быть %s §fили выше",
+        "ua": "Ви не маєте прав на використання цього прапора. Власник привату має бути %s §fабо вище",
+        "en": "You are not authorized to use this flag. Owner of the private should be %s §for higher"
+    },
+    "PROTECTION_FLAG_NOT_USED_GUI": {
+        "ru": [
+            "§cДоступен для %s §cи выше",
+            "§c(должен быть у владельца острова)"
+        ],
+        "ua": [
+            "§cДоступний для %s §cі вище",
+            "§c(має бути у власника острова)"
+        ],
+        "en": [
+            "§cAvailable for %s §cand higher",
+            "§c(the island owner must have it)"
+        ]
+    },
+    "PROTECTION_FLAG_PROTECTION_ALL_LORE": {
+        "ru": [
+            "",
+            "§7Ваш блок привата невозможно",
+            "§7уничтожить никаким способом"
+        ],
+        "ua": [
+            "",
+            "§7Ваш блок привату неможливо",
+            "§7знищити жодним способом"
+        ],
+        "en": [
+            "",
+            "§7You private's block is impossible",
+            "§7to destroy anyhow"
+        ]
+    },
+    "PROTECTION_FLAG_PROTECTION_ALL_NAME": {
+        "ru": "Максимальная защита",
+        "ua": "Максимальний захист",
+        "en": "Maximum protection"
+    },
+    "PROTECTION_HELP": {
+        "ru": [
+            "§7/rg list §f- список ваших регионов",
+            "§7/rg accept <ник> §f- принять запрос на добавление в приват",
+            "§7/rg addmember <ник> §f- добавить игрока в приват §c(вы должны стоять в привате)",
+            "§7/rg removemember <ник> §f- удалить игрока из привата §c(вы должны стоять в привате)",
+            "§7/rg addmemberall <ник> §f- добавить игрока во все ваши приваты",
+            "§7/rg removememberall <ник> §f- удалить игрока из всех ваших приватов",
+            "§7/rg selection §f- показать границы привата §c(вы должны стоять в привате)",
+            "§7/rg leave §f- покинуть приват §c(вы должны стоять в привате)"
+        ],
+        "ua": [
+            "§7/rg list §f- список ваших регіонів",
+            "§7/rg accept <нік> §f- прийняти запит на додавання до привату",
+            "§7/rg addmember <нік> §f- додати гравця до привату §c(ви повинні бути членом привату)",
+            "§7/rg removemember <нік> §f- видалити гравця з привату §c(ви повинні бути членом привату)",
+            "§7/rg addmemberall <нік> §f- додати гравця у всі ваші привати",
+            "§7/rg removememberall <нік> §f- видалити гравця з усіх ваших приватів",
+            "§7/rg selection §f- показати межі привату §c(ви повинні бути членом привату)",
+            "§7/rg leave §f- покинути приват §c(ви повинні бути членом привату)"
+        ],
+        "en": [
+            "§7/rg list §f- list of your regions",
+            "§7/rg accept <nickname> §f- accept the request to add to the private",
+            "§7/rg addmember <nickname> §f- add player to the private §c(you have to be a part of the private)",
+            "§7/rg removemember <nickname> §f- remove player from the private §c(you have to be a part of the private)",
+            "§7/rg addmemberall <nickname> §f- add player to all your privates",
+            "§7/rg removememberall <nickname> §f- remove player from all your privates",
+            "§7/rg selection §f- show boundaries of the private §c(you have to be a part of the private)",
+            "§7/rg leave §f- leave the private §c(you have to be a part of the private)"
+        ]
+    },
+    "PROTECTION_ITEM_EMPTY_NAME": {
+        "ru": "§cУ вас нет доступных приватов",
+        "ua": "§cУ вас немає доступних приватів",
+        "en": "§cYou have no privates available"
+    },
+    "PROTECTION_ITEM_LORE": {
+        "ru": [
+            "",
+            "§7Владелец: %s",
+            "§7Участников §a%s§7/§c%s",
+            "§7Размеры: §a%s§7x§a%s§7x§a%s",
+            "§7Дата создания: §f%s",
+            "§7Координаты центрального блока:",
+            " §7Мир: §c%s",
+            " §7X: §c%s",
+            " §7Y: §c%s",
+            " §7Z: §c%s"
+        ],
+        "ua": [
+            "",
+            "§7Власник: %s",
+            {
+                "§7Учасників": "§a%s§7/§c%s"
+            },
+            "§7Розміри: §a%s§7x§a%s§7x§a%s",
+            "§7Дата створення: §f%s",
+            "§7Координати центрального блоку:",
+            " §7Світ: §c%s",
+            " §7X: §c%s",
+            " §7Y: §c%s",
+            " §7Z: §c%s"
+        ],
+        "en": [
+            "",
+            "§7Owner: %s",
+            "§7Members §a%s§7/§c%s",
+            "§7Size: §a%s§7x§a%s§7x§a%s",
+            "§7Creation date: §f%s",
+            "§7Central block coordinates:",
+            " §7World: §c%s",
+            " §7X: §c%s",
+            " §7Y: §c%s",
+            " §7Z: §c%s"
+        ]
+    },
+    "PROTECTION_ITEM_LORE2": {
+        "ru": "§e▸ Нажмите ЛКМ, для управления региона",
+        "ua": "§e▸ Натисніть ЛКМ, для керування регіоном",
+        "en": "§e▸ LMC to manage the region"
+    },
+    "PROTECTION_LEAVE": {
+        "ru": "$@MODE_PREFIX$Вы покинули приват §7%s",
+        "ua": "$@MODE_PREFIX$Ви залишили приват §7%s",
+        "en": "$@MODE_PREFIX$You have left the private §7%s"
+    },
+    "PROTECTION_LEAVE_FORMAT": {
+        "ru": "/rg leave <название региона>",
+        "ua": "/rg leave <назва регіону>",
+        "en": "/rg leave <name of the region>"
+    },
+    "PROTECTION_LEAVE_LORE": {
+        "ru": [
+            "",
+            "§7Хотите покинуть регион ?",
+            "",
+            "§e▸ Нажмите, чтобы покинуть регион"
+        ],
+        "ua": [
+            "",
+            "§7Хочете залишити регіон?",
+            "",
+            "§e▸ Натисніть, щоб залишити регіон"
+        ],
+        "en": [
+            "",
+            "§7Do you want to leave the region?",
+            "",
+            "§e▸ Click to leave the region"
+        ]
+    },
+    "PROTECTION_LEAVE_NAME": {
+        "ru": "Покинуть регион",
+        "ua": "Залишити регіон",
+        "en": "Leave the region"
+    },
+    "PROTECTION_LEAVE_OWNER_ERROR": {
+        "ru": "§cВы не можете покинуть свой собственный приват",
+        "ua": "§cВи не можете залишити свій власний приват",
+        "en": "§cYou can't leave your own private"
+    },
+    "PROTECTION_LEAVE_TO": {
+        "ru": "$@MODE_PREFIX$Игрок %s §fпокинул приват §7%s",
+        "ua": "$@MODE_PREFIX$Гравець %s §fзалишив приват §7%s",
+        "en": "$@MODE_PREFIX$Player %s §fleft the private §7%s"
+    },
+    "PROTECTION_MAIN_GUI_NAME": {
+        "ru": "Настройки региона",
+        "ua": "Налаштування регіону",
+        "en": "Region settings"
+    },
+    "PROTECTION_MEMBERS_GUI_NAME": {
+        "ru": "Участники",
+        "ua": "Учасники",
+        "en": "members"
+    },
+    "PROTECTION_MEMBER_LORE": {
+        "ru": [
+            "",
+            "§7Стал участником: §f%s",
+            "§7Ранг: §7%s",
+            "§7Онлайн: %s",
+            "",
+            "§e▸ Нажмите ПКМ, чтобы управлять игроком"
+        ],
+        "ua": [
+            "",
+            "§7Став учасником: §f%s",
+            "§7Ранг: §7%s",
+            "§7Онлайн: %s",
+            "",
+            "§e▸ Натисніть ПКМ, щоб керувати гравцем"
+        ],
+        "en": [
+            "",
+            "§7Became a member: §f%s",
+            "§7Rank: §7%s",
+            "§7Online: %s",
+            "",
+            "§e▸ RMC to manage the player"
+        ]
+    },
+    "PROTECTION_MEMBER_REMOVE_LORE": {
+        "ru": [
+            " ",
+            "§7Удалить участника",
+            "§7и запретить ему любые изменения",
+            "§7вашего привата",
+            " ",
+            "§e▸ Нажмите, чтобы удалить участника"
+        ],
+        "ua": [
+            " ",
+            "§7Видалити учасника",
+            "§7та заборонити йому будь-які зміни",
+            "§7вашого привату",
+            " ",
+            "§e▸ Натисніть, щоб видалити учасника"
+        ],
+        "en": [
+            " ",
+            "§7Remove a player",
+            "§7and forbid him to change",
+            "§7your private anyhow",
+            " ",
+            "§e▸ Click to remove a player"
+        ]
+    },
+    "PROTECTION_MEMBER_REMOVE_NAME": {
+        "ru": "Удалить участника",
+        "ua": "Видалити учасника",
+        "en": "Remove a player"
+    },
+    "PROTECTION_MEMBER_SETTINGS_OWNER": {
+        "ru": "$@MODE_PREFIX$§cОшибка, вы не можете настраивать права владельца привата!",
+        "ua": "$@MODE_PREFIX$§cПомилка, ви не можете налаштовувати права власника привату!",
+        "en": "$@MODE_PREFIX$§cError, you cannot customize rights of the private owner!"
+    },
+    "PROTECTION_MEMBER_SET_RANK_ALERT": {
+        "ru": "$@MODE_PREFIX$§fИгроку %s §fбыли назначены новые права управления приватом",
+        "ua": "$@MODE_PREFIX$§fГравцю %s §fбули назначені нові права керування приватом",
+        "en": "$@MODE_PREFIX$§fPlayer %s §fhas been assigned new private management rights"
+    },
+    "PROTECTION_NAME": {
+        "ru": "Приват",
+        "ua": "Приват",
+        "en": "Private"
+    },
+    "PROTECTION_NAME_NOT_VALID": {
+        "ru": "§cОшибка, имя региона слишком длинное или содержит недопустимые символы",
+        "ua": "§cПомилка, ім'я регіону надто довге або містить неприпустимі символи",
+        "en": "§cError, region name is too long or contains invalid symbols"
+    },
+    "PROTECTION_NOT_OWNER": {
+        "ru": "§cОшибка, вы не владелец или со-владелец данного привата!",
+        "ua": "§cПомилка, ви не власник чи співвласник цього привату!",
+        "en": "§cError, you are neither the owner nor co-owner of this private chat!"
+    },
+    "PROTECTION_NOT_YOU": {
+        "ru": "§cДанный регион вам не принадлежит",
+        "ua": "§cЦей регіон не належить вам",
+        "en": "§cThis region doesn't belong to you"
+    },
+    "PROTECTION_NO_LEAVE": {
+        "ru": "§cВы не можете покинуть собственный приват",
+        "ua": "§cВи не можете залишити власний приват",
+        "en": "§cYou can't leave your own private"
+    },
+    "PROTECTION_NO_PERMS": {
+        "ru": "§cОшибка, данное действие может делать только владелец острова",
+        "ua": "§cПомилка, цю дію може робити тільки власник острова",
+        "en": "§cError, this action can only be done by the owner of the island"
+    },
+    "PROTECTION_NO_PERMS_GROUP": {
+        "ru": "§cОшибка, у вас должны быть права владельца или со-владельца",
+        "ua": "§cПомилка, у вас мають бути права власника або співвласника",
+        "en": "§cError, you must have owner or co-owner rights"
+    },
+    "PROTECTION_PROFILE_DEFAULT_FLAGS_LORE": {
+        "ru": [
+            " ",
+            "§7Настройка флагов для вашего привата",
+            " ",
+            "§e▸ Нажмите, чтобы открыть меню"
+        ],
+        "ua": [
+            " ",
+            "§7Налаштування прапорів для вашого привату",
+            " ",
+            "§e▸ Натисніть, щоб відкрити меню"
+        ],
+        "en": [
+            " ",
+            "§7Flag settings for your private",
+            " ",
+            "§e▸ Click to view the menu"
+        ]
+    },
+    "PROTECTION_PROFILE_DEFAULT_FLAGS_NAME": {
+        "ru": "Флаги",
+        "ua": "Прапори",
+        "en": "Flags"
+    },
+    "PROTECTION_PROFILE_EFFECTS_LORE": {
+        "ru": [
+            " ",
+            "§7Покупка положительных и отрицательных",
+            "§7эффектов для вашего привата",
+            " ",
+            "§e▸ Нажмите, чтобы открыть меню"
+        ],
+        "ua": [
+            " ",
+            "§7Купівля позитивних та негативних",
+            "§7ефектів для вашого привату",
+            " ",
+            "§e▸ Натисніть, щоб відкрити меню"
+        ],
+        "en": [
+            " ",
+            "§7Buying positive and negative",
+            "§7effects for your private",
+            " ",
+            "§e▸ Click to view the menu"
+        ]
+    },
+    "PROTECTION_PROFILE_EFFECTS_NAME": {
+        "ru": "Эффекты",
+        "ua": "Ефекти",
+        "en": "Effects"
+    },
+    "PROTECTION_PROFILE_FLAGS_LORE": {
+        "ru": [
+            " ",
+            "§7Покупка дополнительных флагов",
+            "§7для улучшения вашего привата",
+            " ",
+            "§e▸ Нажмите, чтобы открыть меню"
+        ],
+        "ua": [
+            " ",
+            "§7Купівля додаткових прапорів",
+            "§7для покращення вашого привату",
+            " ",
+            "§e▸ Натисніть, щоб відкрити меню"
+        ],
+        "en": [
+            " ",
+            "§7Buying additional flags",
+            "§7to upgrade your private",
+            " ",
+            "§e▸ Click to view the menu"
+        ]
+    },
+    "PROTECTION_PROFILE_FLAGS_NAME": {
+        "ru": "Кастомные флаги",
+        "ua": "Кастомні прапори",
+        "en": "Customized flags"
+    },
+    "PROTECTION_PROFILE_MEMBERS_LORE": {
+        "ru": [
+            " ",
+            "§7Просмотр всех участников привата,",
+            "§7а так же детальная информация о каждом из них",
+            " ",
+            "§e▸ Нажмите, чтобы открыть меню"
+        ],
+        "ua": [
+            " ",
+            "§7Перегляд усіх учасників привату,",
+            "§7а також детальна інформація про кожного з них",
+            " ",
+            "§e▸ Натисніть, щоб відкрити меню"
+        ],
+        "en": [
+            " ",
+            "§7View all participants in the private",
+            "§7as well as detailed information about each of them",
+            " ",
+            "§e▸ Click to view the menu"
+        ]
+    },
+    "PROTECTION_PROFILE_MEMBERS_NAME": {
+        "ru": "Список участников привата",
+        "ua": "Список учасників привату",
+        "en": "List of private's members"
+    },
+    "PROTECTION_PROFILE_UPGRADE_LORE": {
+        "ru": [
+            " ",
+            "§7Покупка расширений для вашего привата",
+            " ",
+            "§e▸ Нажмите, чтобы открыть меню"
+        ],
+        "ua": [
+            " ",
+            "§7Купівля розширень для вашого привату",
+            " ",
+            "§e▸ Натисніть, щоб відкрити меню"
+        ],
+        "en": [
+            " ",
+            "§7Buying extensions for your private",
+            " ",
+            "§e▸ Click to view the menu"
+        ]
+    },
+    "PROTECTION_PROFILE_UPGRADE_NAME": {
+        "ru": "Расширение привата",
+        "ua": "Розширення привату",
+        "en": "Extensions of the private"
+    },
+    "PROTECTION_RANK_CO_OWNER": {
+        "ru": [
+            " ",
+            "§7Доступные права:",
+            "§8• §7Все права участника",
+            "§8• §7Покупка и установка кастомных флагов",
+            "§8• §7Управления правами участников привата",
+            "§8• §7Расширение привата",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Доступні права:",
+            "§8• §7Усі права учасника",
+            "§8• §7Купівля та встановлення кастомних прапорів",
+            "§8• §7Управління правами учасників привату",
+            "§8• §7Розширення привату",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Available rights:",
+            "§8• §7All rights of the member",
+            "§8• §7Buying and installing the customized flags",
+            "§8• §7Managing the rights of members",
+            "§8• §7Extension of the private",
+            " "
+        ]
+    },
+    "PROTECTION_RANK_MEMBER": {
+        "ru": [
+            " ",
+            "§7Доступные права:",
+            "§8• §7Взаимодействие с территорией привата",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Доступні права:",
+            "§8• §7Взаємодія з приватною територією",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Available rights:",
+            "§8• §7Interaction with territory of the private",
+            " "
+        ]
+    },
+    "REGIONS_FLAG_USE_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить использование",
+            "§7верстаков, рычагов и т.д.",
+            "§7для посетителей региона"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути використання",
+            "§7верстатів, важелів тощо.",
+            "§7для відвідувачів регіону"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable the use of",
+            "§7workbenches, levers, etc.",
+            "§7for visitors to the region"
+        ]
+    },
+    "REGIONS_FLAG_USE_NAME": {
+        "ru": "Использование",
+        "ua": "Використання",
+        "en": "Usage"
+    },
+    "REGIONS_FLAG_DROP_LEAVES_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить опадение",
+            "§7листвы на территории региона"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути опад",
+            "§7листя на території регіону"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable foliage",
+            "§7in the region"
+        ]
+    },
+    "REGIONS_FLAG_DROP_LEAVES_NAME": {
+        "ru": "Опадение листвы",
+        "ua": "Опад листя",
+        "en": "Foliage"
+    },
+    "REGIONS_FLAG_ENTITY_DAMAGE_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить нанесение урона",
+            "§7дружественным мобам"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути нанесення шкоди",
+            "§7дружнім мобам"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable damage",
+            "§7to friendly mobes"
+        ]
+    },
+    "REGIONS_FLAG_ENTITY_DAMAGE_NAME": {
+        "ru": "Урон по мобам",
+        "ua": "Шкода по мобах",
+        "en": "Damage to mobs"
+    },
+    "REGIONS_FLAG_ENTITY_EXPLODE_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить взрыв блоков",
+            "§7от энтити на территории региона"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути вибух блоків",
+            "§7від ентіті на території регіону"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable blocks explosion",
+            "§7from an entity in the region"
+        ]
+    },
+    "REGIONS_FLAG_ENTITY_EXPLODE_NAME": {
+        "ru": "Взрыв блоков",
+        "ua": "Вибух блоків",
+        "en": "Blocks explosion"
+    },
+    "REGIONS_FLAG_FIRE_SPREAD_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить распространение",
+            "§7огня на территории региона"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути поширення",
+            "§7вогню на території регіону"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable fire spread",
+            "§7in the region"
+        ]
+    },
+    "REGIONS_FLAG_FIRE_SPREAD_NAME": {
+        "ru": "Распространение огня",
+        "ua": "Поширення вогню",
+        "en": "Fire spread"
+    },
+    "REGIONS_FLAG_ICE_FORM_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить появление льда",
+            "§7на территории региона"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути появу льоду",
+            "§7на території регіону"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable the appearance of ice",
+            "§7in the regiob"
+        ]
+    },
+    "REGIONS_FLAG_ICE_FORM_NAME": {
+        "ru": "Появление льда",
+        "ua": "Поява льоду",
+        "en": "The appearance of ice"
+    },
+    "REGIONS_FLAG_ICE_MELTING_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить таяние льда",
+            "§7на территории региона"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути таненння льоду",
+            "§7на території регіону"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable ice melting",
+            "§7in the region"
+        ]
+    },
+    "REGIONS_FLAG_ICE_MELTING_NAME": {
+        "ru": "Таяние льда",
+        "ua": "Танення льоду",
+        "en": "Ice melting"
+    },
+    "REGIONS_FLAG_PVP_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить пвп на",
+            "§7территории региона"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути пвп на",
+            "§7території регіону"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable PVP",
+            "§7in the region"
+        ]
+    },
+    "REGIONS_FLAG_PVP_NAME": {
+        "ru": "Пвп",
+        "ua": "Пвп",
+        "en": "PVP"
+    },
+    "REGIONS_FLAG_SNOW_FALL_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить появление",
+            "§7снега"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути появу",
+            "§7снігу"
+        ],
+        "en": [
+            "",
+            "§7Allows to enable or",
+            "§7disable",
+            "§7snowfall"
+        ]
+    },
+    "REGIONS_FLAG_SNOW_FALL_NAME": {
+        "ru": "Падение снега",
+        "ua": "Падіння снігу",
+        "en": "Snowfall"
+    },
+    "PROTECTION_REGIONS_ALL_COMMAND_NO_RG": {
+        "ru": "$@MODE_PREFIX$Регионы не найдены или вы не их владелец",
+        "ua": "$@MODE_PREFIX$Регіони не знайдені або ви не їх власник",
+        "en": "$@MODE_PREFIX$Regions not found or you are not the owner"
+    },
+    "PROTECTION_REGIONS_COMMAND_NO_RG": {
+        "ru": "$@MODE_PREFIX$Регионы в данной локации не найдены или вы не их владелец/участник",
+        "ua": "$@MODE_PREFIX$Регіони в цій локації не знайдені або ви не їх власник/учасник",
+        "en": "$@MODE_PREFIX$No regions found in this location or you are not their owner/member"
+    },
+    "PROTECTION_REGIONS_STICK": {
+        "ru": "§eНайден регион игрока: %s",
+        "ua": "§eЗнайдено регіон гравця: %s",
+        "en": "§eRegion of the palyer found: %s"
+    },
+    "PROTECTION_REGIONS_STICK_EMPTY": {
+        "ru": "§eРегионы не найдены",
+        "ua": "§eРегіони не знайдені",
+        "en": "§eRegions not found"
+    },
+    "PROTECTION_REGION_FOUND": {
+        "ru": "§cОшибка, регион с таким именем уже существует",
+        "ua": "§cПомилка, регіон із таким ім'ям вже існує",
+        "en": "§cError, a region with the same name already exists"
+    },
+    "PROTECTION_REGION_LIST": {
+        "ru": "Список регионов",
+        "ua": "Список регіонів",
+        "en": "List of the regions"
+    },
+    "PROTECTION_REGION_NULL": {
+        "ru": "§cРегион не найден",
+        "ua": "§cРегіон не знайдений",
+        "en": "§cRegion not found"
+    },
+    "PROTECTION_REMOVE": {
+        "ru": "§fРегион успешно удален",
+        "ua": "§fРегіон успішно видалений",
+        "en": "§fRegion successfully deleted"
+    },
+    "PROTECTION_REMOVEMEMBERALL_FORMAT": {
+        "ru": "/rg removememberall <ник>",
+        "ua": "/rg removememberall <нік>",
+        "en": "/rg removememberall <nickname>"
+    },
+    "PROTECTION_REMOVEMEMBER_2_FORMAT": {
+        "ru": "/rg removemember <название региона> <ник>",
+        "ua": "/rg removemember <назва регіону> <нік>",
+        "en": "/rg removemember <name of the region> <nickname>"
+    },
+    "PROTECTION_REMOVEMEMBER_COMPLETE": {
+        "ru": "§fИгрок %s §fбыл удален из привата §7%s",
+        "ua": "§fГравець %s §fбув видалений з привату §7%s",
+        "en": "§fPlayer %s §fhas been removed from the private §7%s"
+    },
+    "PROTECTION_REMOVEMEMBER_COMPLETE_ERROR": {
+        "ru": "§fИгрок %s §fотсутствует в списке участников привата §7%s",
+        "ua": "§fГравець %s §fвідсутній в списку учасників привату §7%s",
+        "en": "§fPlayer %s §fis not on the list of private's members §7%s"
+    },
+    "PROTECTION_REMOVEMEMBER_COMPLETE_TARGET": {
+        "ru": "§fВы были удалены игроком %s §fиз привата §7%s",
+        "ua": "§fВи були видалені гравцем %s §fз привату §7%s",
+        "en": "§fYou have been removed by player %s §ffrom private §7%s"
+    },
+    "PROTECTION_REMOVEMEMBER_COMPLETE_TO": {
+        "ru": "§fИгрок %s §fбыл удален из привата §7%s игроком %s",
+        "ua": "§fГравець %s §fбув видалений гравцем §7%s гравцем %s",
+        "en": "§fPlayer %s §fhas been removed from private §7%s by player %s"
+    },
+    "PROTECTION_REMOVEMEMBER_FORMAT": {
+        "ru": "/rg removemember <ник>",
+        "ua": "/rg removemember <нік>",
+        "en": "/rg removemember <nickname>"
+    },
+    "PROTECTION_REMOVE_BY": {
+        "ru": "§fВаш приват §7%s §fбыл удален ироком %s",
+        "ua": "§fВаш приват §7%s §fбув видалений гравцем %s",
+        "en": "§fYour private §7%s §fhas been removed by player %s"
+    },
+    "PROTECTION_REMOVE_FORMAT": {
+        "ru": "/rg remove <название региона>",
+        "ua": "/rg remove <назва регіону>",
+        "en": "/rg remove <name of the region>"
+    },
+    "PROTECTION_REMOVE_OWNER_ERROR": {
+        "ru": "§fОшибка, вы не можете снять приват, так как вы не владелец данного региона",
+        "ua": "§fПомилка, ви не можете зняти приват, тому що ви не власник цього регіону",
+        "en": "§fError, you cannot remove the private, since you are not owner of the region"
+    },
+    "PROTECTION_SELECTION_FORMAT": {
+        "ru": "/rg selection <название региона>",
+        "ua": "/rg selection <назва регіону>",
+        "en": "/rg selection <name of the region>"
+    },
+    "PROTECTION_SET_BED_ERROR": {
+        "ru": "$@MODE_PREFIX$§cОшибка, вы не можете установить точку дома в чужом регионе",
+        "ua": "$@MODE_PREFIX$§cПомилка, ви не можете встановити точку будинку у чужому регіоні",
+        "en": "$@MODE_PREFIX$§cError, you cannot set a house point in a foreign region"
+    },
+    "PROTECTION_UPDATE_INTERSECTS_ERROR": {
+        "ru": "§cОшибка, ваш регион пересекается с другими регионами, вы не можете расширить свой приват",
+        "ua": "§cПомилка, ваш регіон перетинається з іншими регіонами, ви не можете розширити свій приват",
+        "en": "§cError, your region overlaps with other regions, you cannot expand your private"
+    },
+    "PROTECTION_UPGRADE_FULL": {
+        "ru": [
+            "",
+            "§7Вы исчерпали кол-во улучшений",
+            "§7данного привата"
+        ],
+        "ua": [
+            "",
+            "§7Ви вичерпали кількість поліпшень",
+            "§7цього привату"
+        ],
+        "en": [
+            "",
+            "§7You have exhausted the number of upgrades",
+            "§7for this private"
+        ]
+    },
+    "PROTECTION_UPGRADE_FULL_MESSAGE": {
+        "ru": "$@MODE_PREFIX$Ошибка, у вас максимальный уровень прокачки",
+        "ua": "$@MODE_PREFIX$Помилка у вас максимальний рівень покращення",
+        "en": "$@MODE_PREFIX$Error, you have the maximum upgrade level"
+    },
+    "PROTECTION_UPGRADE_GUI_NAME": {
+        "ru": "Улучшения",
+        "ua": "Покращення",
+        "en": "Upgrades"
+    },
+    "PROTECTION_UPGRADE_HELP_LORE": {
+        "ru": [
+            "",
+            "§7Размеры: §a%s§7x§a%s§7x§a%s",
+            "§7Доступных улучшений: §e%s§7/§c%s"
+        ],
+        "ua": [
+            "",
+            "§7Розмір: §a%s§7x§a%s§7x§a%s",
+            "§7Доступних покращень: §e%s§7/§c%s"
+        ],
+        "en": [
+            "",
+            "§7Size: §a%s§7x§a%s§7x§a%s",
+            "§7Upgrades available: §e%s§7/§c%s"
+        ]
+    },
+    "PROTECTION_UPGRADE_HELP_NAME": {
+        "ru": "Информация",
+        "ua": "Інформація",
+        "en": "Information"
+    },
+    "PROTECTION_UPGRADE_NO_MONEY": {
+        "ru": "$@MODE_PREFIX$Ошибка, у вас недостаточно денег для покупки расширения",
+        "ua": "$@MODE_PREFIX$Помилка, у вас недостатньо грошей для покупки розширення",
+        "en": "$@MODE_PREFIX$Error, you don't have enough money for expansion purchases"
+    },
+    "PROTECTION_UPGRADE_SIDE_LORE": {
+        "ru": [
+            " ",
+            "§7Расширение привата по §fX §7и §fZ",
+            "§7на §f%s §7блоков",
+            "",
+            "§7Цена: §a%s$",
+            "",
+            "§e▸ Нажмите, чтобы улучшить"
+        ],
+        "ua": [
+            " ",
+            "§7Розширення привату по §fX §7і §fZ",
+            "§7на §f%s §7блоків",
+            "",
+            "§7Ціна: §a%s$",
+            "",
+            "§e▸ Натисніть, щоб покращити"
+        ],
+        "en": [
+            " ",
+            "§7Extension of private by §fX §7and §fZ",
+            "§7by §f%s §7blocks",
+            "",
+            "§7Price: §a%s$",
+            "",
+            "§e▸ Click to upgrade"
+        ]
+    },
+    "PROTECTION_UPGRADE_SIDE_NAME": {
+        "ru": "Расширить по X и Z",
+        "ua": "Розширити по X і Z",
+        "en": "Expand by X and Z"
+    },
+    "PROTECTION_UPGRADE_SIDE_SUCCES": {
+        "ru": "$@MODE_PREFIX$Приват §7%s §fуспешно расширен на §a%s §fблоков по координатам §7X §fи §7Z",
+        "ua": "$@MODE_PREFIX$Приват §7%s §fуспішно розширено на §a%s §fблоків по координатах §7X §fі §7Z",
+        "en": "$@MODE_PREFIX$Private §7%s §fis successfully expanded by §a%s §fblocks by coordinates §7X §fand §7Z"
+    },
+    "PROTECTION_UPGRADE_SIDE_SUCCES_TO": {
+        "ru": "$@MODE_PREFIX$Приват §7%s §fрасширен на §a%s §fблоков по координатам §7X §fи §7Z §fигроком %s",
+        "ua": "$@MODE_PREFIX$Приват §7%s §fрозширено на §a%s §fблоків по координатах §7X §fі §7Z §fгравцем %s",
+        "en": "$@MODE_PREFIX$Private §7%s §fexpanded by §a%s §fblocks by coordinates §7X §fand §7Z §fby player %s"
+    },
+    "PROTECTION_UPGRADE_UP_LORE": {
+        "ru": [
+            " ",
+            "§7Расширение привата по §fY",
+            "§7на §f%s §7блоков",
+            "",
+            "§7Цена: §a%s$",
+            "",
+            "§e▸ Нажмите, чтобы улучшить"
+        ],
+        "ua": [
+            " ",
+            "§7Розширення привату по §fY",
+            "§7на §f%s §7блоків",
+            "",
+            "§7Ціна: §a%s$",
+            "",
+            "§e▸ Натисніть, щоб покращити"
+        ],
+        "en": [
+            " ",
+            "§7Expanding the private by §fY",
+            "§7by §f%s §7blocks",
+            "",
+            "§7Price: §a%s$",
+            "",
+            "§e▸ Click to upgrade"
+        ]
+    },
+    "PROTECTION_UPGRADE_UP_NAME": {
+        "ru": "Расширить по Y",
+        "ua": "Розширити по Y",
+        "en": "Expand by Y"
+    },
+    "PROTECTION_UPGRADE_UP_SUCCES": {
+        "ru": "$@MODE_PREFIX$Приват §7%s §fуспешно расширен на §a%s §fблоков по координате §7Y",
+        "ua": "$@MODE_PREFIX$Приват §7%s §fуспішно розширено на §a%s §fблоків по координаті §7Y",
+        "en": "$@MODE_PREFIX$Private §7%s §fis successfully expanded by §a%s §fblocks by coordinates §7Y"
+    },
+    "PROTECTION_UPGRADE_UP_SUCCES_TO": {
+        "ru": "$@MODE_PREFIX$Приват §7%s §fрасширен на §a%s §fблоков по координате §7Y §fигроком %s",
+        "ua": "$@MODE_PREFIX$Приват §7%s §fрозширено на §a%s §fблоків по координаті §7Y §fгравцем %s",
+        "en": "$@MODE_PREFIX$Private §7%s §fexpanded by §a%s §fblocks by coordinate §7Y §fby player %s"
+    },
+    "SURVIVAL_ALCHEMIST_MENU": {
+        "ru": "Алхимик",
+        "ua": "Алхімік",
+        "en": "Alchemist"
+    },
+    "SURVIVAL_ALCHEMIST_ITEMS_CRAFT_MENU": {
+        "ru": "Алхимик > Создание предметов"
+    },
+    "SURVIVAL_ALCHEMIST_ENCHANTMENTS_CRAFT_MENU": {
+        "ru": "Алхимик > Создание зачарований"
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_AVAILABLE": {
+        "ru": [
+            "",
+            "§eНажмите ЛКМ, чтобы создать данный предмет"
+        ],
+        "ua": [
+            "",
+            "§eНатисніть ЛКМ, щоб створити цей предмет"
+        ],
+        "en": [
+            "",
+            "§eLMC to craft this item"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_UNAVAILABLE": {
+        "ru": [
+            "",
+            "§cНедостаточно предметов в инвентаре"
+        ],
+        "ua": [
+            "",
+            "§cНедостатньо предметів у інвентарі"
+        ],
+        "en": [
+            "",
+            "§cNot enough items in inventory"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_QUEUE_UNAVAILABLE": {
+        "ru": [
+            "",
+            "§cВ данный момент вы делаете слишком много предметов!"
+        ],
+        "ua": [
+            "",
+            "§cНа даний момент ви робите занадто багато предметів!"
+        ],
+        "en": [
+            "",
+            "§cYou are making too many items at the moment!"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT": {
+        "ru": [
+            "",
+            "§7Для крафта предмета вам понадобится:"
+        ],
+        "ua": [
+            "",
+            "§7Для крафта предмета вам знадобиться:"
+        ],
+        "en": [
+            "",
+            "§7To craft an item you will need:"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_XRAY_PICKAXE": {
+        "ru": [
+            "§7 - §eЗолотая кирка",
+            "§7 - §eАлмазная руда §8x196",
+            "§7 - §eЗолотая руда §8x196",
+            "§7 - §eИзумрудная руда §8x36",
+            "§7 - §eОко эндера §8x128",
+            "§7 - §eЗвезда ада §8x8"
+        ],
+        "ua": [
+            "§7 - §eЗолота кірка",
+            "§7 - §eДіамантова руда §8x196",
+            "§7 - §eЗолота руда §8x196",
+            "§7 - §eСмарагдова руда §8x36",
+            "§7 - §eОко ендера §8x128",
+            "§7 - §eЗірка пекла §8x8"
+        ],
+        "en": [
+            "§7 - §eGolden pickaxe",
+            "§7 - §eDiamond ore §8x196",
+            "§7 - §eGold ore §8x196",
+            "§7 - §eEmerald ore §8x36",
+            "§7 - §eEye of Ender §8x128",
+            "§7 - §eHell star §8x8"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_REACTIVE_BOOTS": {
+        "ru": [
+            "§7 - §eНезеритовые ботинки",
+            "§7 - §eКроличья лапка §8x48",
+            "§7 - §eБлок слизи §8x48",
+            "§7 - §eЗвезда ада §8x4"
+        ],
+        "ua": [
+            "§7 - §eНезеритові чоботи",
+            "§7 - §eКроляча лапка §8x48",
+            "§7 - §eБлок слизу §8x48",
+            "§7 - §eЗірка пекла §8x4"
+        ],
+        "en": [
+            "§7 - §eNetherite boots",
+            "§7 - §eRabbit foot §8x48",
+            "§7 - §eSlime block §8x48",
+            "§7 - §eHell star §8x4"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_DOG": {
+        "ru": [
+            "§7 - §eКости §8x256",
+            "§7 - §eЗвезда ада §8x4"
+        ],
+        "ua": [
+            "§7 - §eКістки §8x256",
+            "§7 - §eЗірка пекла §8x8"
+        ],
+        "en": [
+            "§7 - §eBones §8x256",
+            "§7 - §eHell star §8x8"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_INVULNERABLE_PET_CAT": {
+        "ru": [
+            "§7 - §eТреска §8x256",
+            "§7 - §eЗвезда ада §8x4"
+        ],
+        "ua": [
+            "§7 - §eТріска §8x256",
+            "§7 - §eЗірка пекла §8x8"
+        ],
+        "en": [
+            "§7 - §eCod §8x256",
+            "§7 - §eHell star §8x8"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_ELYTRA": {
+        "ru": [
+            "§7 - §eПеро §8x256",
+            "§7 - §eЗвезда ада §8x2",
+            "§7 - §eКристаллы энда §8x32"
+        ],
+        "ua": [
+            "§7 - §eПеро §8x256",
+            "§7 - §eЗірка пекла §8x2",
+            "§7 - §eКристали енду §8x32"
+        ],
+        "en": [
+            "§7 - §eFeather §8x256",
+            "§7 - §eHell star §8x2",
+            "§7 - §eEnd crystals §8x32"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_TOTEM_OF_UNDYING": {
+        "ru": [
+            "§7 - §eАлмаз",
+            "§7 - §eЗолотой блок §8x16",
+            "§7 - §eЗвезда ада §8x2"
+        ],
+        "ua": [
+            "§7 - §eДіамант",
+            "§7 - §eЗолотий блок §8x16",
+            "§7 - §eЗірка пекла §8x2"
+        ],
+        "en": [
+            "§7 - §eDiamond",
+            "§7 - §eGold block §8x16",
+            "§7 - §eHell star §8x2"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_ENCHANTED_GOLDEN_APPLE": {
+        "ru": [
+            "§7 - §eАлмазный блок §8x16",
+            "§7 - §eЗолотой блок §8x16",
+            "§7 - §eЗолотое яблоко §8x8",
+            "§7 - §eЗвезда ада §8x3"
+        ],
+        "ua": [
+            "§7 - §eДіамантови блок §8x16",
+            "§7 - §eЗолотий блок §8x16",
+            "§7 - §eЗолоте яблуко §8x8",
+            "§7 - §eЗірка пекла §8x3"
+        ],
+        "en": [
+            "§7 - §eDiamond block §8x16",
+            "§7 - §eGold block §8x16",
+            "§7 - §eGolden apple §8x8",
+            "§7 - §eHell star §8x3"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_END_PORTAL_FRAME": {
+        "ru": [
+            "§7 - §eЭндерняк §8x1152",
+            "§7 - §eБлок незерита §8x4",
+            "§7 - §eЗвезда ада §8x8",
+            "§7 - §eКристалл энда §8x128"
+        ],
+        "ua": [
+            "§7 - §eЕндерняк §8x1152",
+            "§7 - §eБлок незериту §8x4",
+            "§7 - §eЗірка пекла §8x8",
+            "§7 - §eКристал енду §8x128"
+        ],
+        "en": [
+            "§7 - §eEnderblock §8x1152",
+            "§7 - §eNetherite block §8x4",
+            "§7 - §eHell star §8x8",
+            "§7 - §eEnd crystal §8x128"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_TELEPATHY": {
+        "ru": [
+            "§7 - §eКнига Шелковое касание",
+            "§7 - §eОко эндера §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_AUTO_MELTING": {
+        "ru": [
+            "§7 - §eКнига Удача III",
+            "§7 - §eПлавильня §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_NIGHT_VISION": {
+        "ru": [
+            "§7 - §eКнига Подводник",
+            "§7 - §eЗолотая морковь §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_EXILE": {
+        "ru": [
+            "§7 - §eКнига Небесная кара V",
+            "§7 - §eСтержень всплоха §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_BREATHING": {
+        "ru": [
+            "§7 - §eКнига Небесная кара V",
+            "§7 - §eСтержень всплоха §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_STEEL": {
+        "ru": [
+            "§7 - §eКнига Взрывоустойчивость IV",
+            "§7 - §eЖелезный блок §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_CONNECTION": {
+        "ru": [
+            "§7 - §eКнига Прочность III",
+            "§7 - §eМембрана фантома §8x16",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_ROCK": {
+        "ru": [
+            "§7 - §eКнига Защита IV",
+            "§7 - §eКремень §8x128",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_DEADLY_SHOT": {
+        "ru": [
+            "§7 - §eКнига Сила V",
+            "§7 - §eФейерверк §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_SNIPER": {
+        "ru": [
+            "§7 - §eКнига Сила V",
+            "§7 - §eМаринованный паучий глаз §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_LAVA_WALKER": {
+        "ru": [
+            "§7 - §eКнига Ледоход II",
+            "§7 - §eСгусток магмы §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_EXPERIENCE": {
+        "ru": [
+            "§7 - §eКнига Починка §8x2",
+            "§7 - §eПузырек опыта §8x16",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_OXYGEN": {
+        "ru": [
+            "§7 - §eКнига Подводное дыхание III",
+            "§7 - §eМорская трава §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_HARD_SKIN": {
+        "ru": [
+            "§7 - §eКнига Защита от снарядов IV",
+            "§7 - §eСтол лучника §8x48",
+            "§7 - §eКнига §8x16"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_REACTIVE_ELYTRA": {
+        "ru": [
+            "§7 - §eЭлитра",
+            "§7 - §eФейерверк §8x576",
+            "§7 - §eПеро §8x256",
+            "§7 - §eЗвезда ада §8x5"
+        ],
+        "ua": [
+            "§7 - §eЕлітра",
+            "§7 - §eФеєрверк §8x576",
+            "§7 - §eПеро §8x256",
+            "§7 - §eЗірка пекла §8x5"
+        ],
+        "en": [
+            "§7 - §eElitra",
+            "§7 - §eFirework §8x576",
+            "§7 - §eFeather §8x256",
+            "§7 - §eHell star §8x5"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_HOE": {
+        "ru": [
+            "§7 - §eНезеритовая мотыга",
+            "§7 - §eНезеритовый блок §8x4",
+            "§7 - §eЗвезда ада §8x6"
+        ],
+        "ua": [
+            "§7 - §eНезеритова мотика",
+            "§7 - §eНезеритовий блок §8x4",
+            "§7 - §eЗірка пекла §8x6"
+        ],
+        "en": [
+            "§7 - §eNetherite hoe",
+            "§7 - §eNetherite block §8x4",
+            "§7 - §eHell star §8x6"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SHOVEL": {
+        "ru": [
+            "§7 - §eНезеритовая лопата",
+            "§7 - §eНезеритовый блок §8x4",
+            "§7 - §eЗвезда ада §8x6"
+        ],
+        "ua": [
+            "§7 - §eНезеритова лопата",
+            "§7 - §eНезеритовий блок §8x4",
+            "§7 - §eЗірка пекла §8x6"
+        ],
+        "en": [
+            "§7 - §eNetherite shovel",
+            "§7 - §eNetherite block §8x4",
+            "§7 - §eHell star §8x6"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_PICKAXE": {
+        "ru": [
+            "§7 - §eНезеритовая кирка",
+            "§7 - §eНезеритовый блок §8x4",
+            "§7 - §eЗвезда ада §8x6"
+        ],
+        "ua": [
+            "§7 - §eНезеритова кирка",
+            "§7 - §eНезеритовий блок §8x4",
+            "§7 - §eЗірка пекла §8x6"
+        ],
+        "en": [
+            "§7 - §eNetherite pickaxe",
+            "§7 - §eNetherite block §8x4",
+            "§7 - §eHell star §8x6"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_AXE": {
+        "ru": [
+            "§7 - §eНезеритовый топор",
+            "§7 - §eНезеритовый блок §8x4",
+            "§7 - §eЗвезда ада §8x6"
+        ],
+        "ua": [
+            "§7 - §eНезеритова сокира",
+            "§7 - §eНезеритовий блок §8x4",
+            "§7 - §eЗірка пекла §8x6"
+        ],
+        "en": [
+            "§7 - §eNetherite axe",
+            "§7 - §eNetherite block §8x4",
+            "§7 - §eHell star §8x6"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SWORD": {
+        "ru": [
+            "§7 - §eНезеритовый меч",
+            "§7 - §eНезеритовый блок §8x4",
+            "§7 - §eЗвезда ада §8x6"
+        ],
+        "ua": [
+            "§7 - §eНезеритовий меч",
+            "§7 - §eНезеритовий блок §8x4",
+            "§7 - §eЗірка пекла §8x6"
+        ],
+        "en": [
+            "§7 - §eNetherite sword",
+            "§7 - §eNetherite block §8x4",
+            "§7 - §eHell star §8x6"
+        ]
+    },
+    "SURVIVAL_RACE_COOLDOWN_RESET_NAME": {
+        "ru": "§cСбросить перезарядку на смену расы",
+        "ua": "§cСкинути перезарядку на зміну раси",
+        "en": "§cReset cooldown on race change"
+    },
+    "SURVIVAL_RACE_COOLDOWN_RESET_DESCRIPTION": {
+        "ru": [
+            "§7Вы можете сбросить перезарядку",
+            "§7смены расы за §e10 золота",
+            "",
+            "§eНажмите, чтобы приобрести"
+        ],
+        "ua": [
+            "§7Ви можете скинути перезарядку",
+            "§7зміни раси за §e10 золота",
+            "",
+            "§eНатисніть, щоб придбати"
+        ],
+        "en": [
+            "§7You can reset the cooldown",
+            "§7on race change for §e10 gold",
+            "",
+            "§eClick to purchase"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_WILL_DONE": {
+        "ru": [
+            "",
+            "§7Предмет будет создан",
+            "§7через §e%s"
+        ],
+        "ua": [
+            "",
+            "§7Предмет буде створено",
+            "§7через §e%s"
+        ],
+        "en": [
+            "",
+            "§7Item will be crafted",
+            "§7in §e%s"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_DONE": {
+        "ru": [
+            "",
+            "§aПредмет создан",
+            "§eНажмите ЛКМ, чтобы забрать его!"
+        ],
+        "ua": [
+            "",
+            "§aПредмет створено",
+            "§eНатисніть ЛКМ, щоб забрати його!"
+        ],
+        "en": [
+            "",
+            "§aItem is crafted",
+            "§eLMC to take it!"
+        ]
+    },
+    "SURVIVAL_ITEM_XRAY_PICKAXE_NAME": {
+        "ru": "§aКирка-поисковик",
+        "ua": "§aКірка-пошуковик",
+        "en": "§apickaxe-search"
+    },
+    "SURVIVAL_ITEM_XRAY_PICKAXE_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Подсвечивает ближайшие руды в радиусе 10 блоков"
+        ],
+        "ua": [
+            "",
+            "§7Підсвічує найближчі руди у радіусі 10 блоків"
+        ],
+        "en": [
+            "",
+            "§7Highlights ores within a 10-block radius"
+        ]
+    },
+    "SURVIVAL_ITEM_REACTIVE_BOOTS_NAME": {
+        "ru": "§aРеактивные ботинки",
+        "ua": "§aРеактивні черевики",
+        "en": "§aJet boots"
+    },
+    "SURVIVAL_ITEM_REACTIVE_BOOTS_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Пока на вас надеты эти ботинки,",
+            "§7вы получаете эффект Прыгучесть X"
+        ],
+        "ua": [
+            "",
+            "§7Поки на вас надіті ці черевики,",
+            "§7ви отримуєте ефект Стрибкість X"
+        ],
+        "en": [
+            "",
+            "§7As long as you are wearing these boots,",
+            "§7you get Jumping ability effect X"
+        ]
+    },
+    "SURVIVAL_ITEM_REACTIVE_ELYTRA_NAME": {
+        "ru": "§aРеактивная элитра",
+        "ua": "§aРеактивна елітра",
+        "en": "§aReactive elitra"
+    },
+    "SURVIVAL_ITEM_REACTIVE_ELYTRA_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7При нажатии Shift вы получаете",
+            "§7ускорение (раз в 20 секунд)"
+        ],
+        "ua": [
+            "",
+            "§7При натисканні Shift ви отримуєте",
+            "§7прискорення (раз в 30 секунд)"
+        ],
+        "en": [
+            "",
+            "§7When pressing Shift you get",
+            "§7acceleration (every 30 seconds)"
+        ]
+    },
+    "SURVIVAL_ITEM_INVULNERABLE_PET_DOG_NAME": {
+        "ru": "§aНеуязвимый питомец (Собака)",
+        "ua": "§aНевразлива тваринка (Собака)",
+        "en": "§aInvulnerable pet (Dog)"
+    },
+    "SURVIVAL_ITEM_INVULNERABLE_PET_DOG_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Позволяет создать неуязвимого питомца - собаку.",
+            "§7ПКМ по питомцу, чтобы получить его яйцо спавна обратно"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє створити невразливу тваринку - собаку.",
+            "§7ПКМ по тваринці, щоб отримати його яйце спавна назад"
+        ],
+        "en": [
+            "",
+            "§7Allows you to create an invulnerable pet - a dog.",
+            "§7RMC on a pet to get its spawn egg back"
+        ]
+    },
+    "SURVIVAL_ITEM_INVULNERABLE_PET_CAT_NAME": {
+        "ru": "§aНеуязвимый питомец (Кошка)",
+        "ua": "§aНевразлива тваринка (Кіт)",
+        "en": "§aInvulnerable pet (Cat)"
+    },
+    "SURVIVAL_ITEM_INVULNERABLE_PET_CAT_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Позволяет создать неуязвимого питомца - кошку.",
+            "§7ПКМ по питомцу, чтобы получить его яйцо спавна обратно"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє створити невразливу тваринку - кота.",
+            "§7ПКМ по тваринці, щоб отримати його яйце спавна назад"
+        ],
+        "en": [
+            "",
+            "§7Allows you to create an invulnerable pet - a cat.",
+            "§7RMC on a pet to get its spawn egg back"
+        ]
+    },
+    "SURVIVAL_RACE_MENU": {
+        "ru": "Расы",
+        "ua": "Раси",
+        "en": "Races"
+    },
+    "SURVIVAL_RACE_ICON_NAME": {
+        "ru": "§a%s",
+        "ua": "§a%s",
+        "en": "§a%s"
+    },
+    "SURVIVAL_RACE_ICON_AVAILABLE": {
+        "ru": [
+            "",
+            "§eНажмите ЛКМ, чтобы выбрать данную расу!"
+        ],
+        "ua": [
+            "",
+            "§eНатисніть ЛКМ, щоб обрати цю расу!"
+        ],
+        "en": [
+            "",
+            "§eLMC to select this race!"
+        ]
+    },
+    "SURVIVAL_ELYTRA_COOLDOWN": {
+        "ru": "$SURVIVAL_PREFIX$Буст будет доступен через §a%s §fсек.",
+        "ua": "$SURVIVAL_PREFIX$Буст буде доступний через §a%s §fсек.",
+        "en": "$SURVIVAL_PREFIX$Boost will be available in §a%s §fsecs"
+    },
+    "SURVIVAL_ENDERMAN_COOLDOWN": {
+        "ru": "$SURVIVAL_PREFIX$Телепортация будет доступна через §a%s §fсек.",
+        "ua": "$SURVIVAL_PREFIX$Телепортація буде доступна через §a%s §fсек.",
+        "en": "$SURVIVAL_PREFIX$Teleportation will be available in §a%s §fsecs"
+    },
+    "SURVIVAL_RACE_ICON_COOLDOWN": {
+        "ru": [
+            "",
+            "§cВы сможете выбрать данную расу",
+            "§cчерез %s"
+        ],
+        "ua": [
+            "",
+            "§cВи зможете обрати цю расу",
+            "§cчерез %s"
+        ],
+        "en": [
+            "",
+            "§cYou can select this race",
+            "§cin %s"
+        ]
+    },
+    "SURVIVAL_RACE_ICON_SELECTED": {
+        "ru": [
+            "",
+            "§aДанная раса выбрана!"
+        ],
+        "ua": [
+            "",
+            "§aЦю расу обрано!"
+        ],
+        "en": [
+            "",
+            "§aThis race is selected!"
+        ]
+    },
+    "RACE_HUMAN_NAME": {
+        "ru": "Человек",
+        "ua": "Людина",
+        "en": "Human"
+    },
+    "RACE_HUMAN_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Просто человек"
+        ],
+        "ua": [
+            "",
+            "§7Просто людина"
+        ],
+        "en": [
+            "",
+            "§7Just a human"
+        ]
+    },
+    "RACE_KHAJIIT_NAME": {
+        "ru": "Каджит",
+        "ua": "Каджит",
+        "en": "Khajiti"
+    },
+    "RACE_KHAJIIT_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7Вы не получаете урон от падения",
+            "§a - §7Вы прыгаете высотой в 2 блока",
+            "§a - §7Удары рукой наносят на 4 урона больше",
+            "§a - §7Криперы и фантомы вас боятся",
+            "§7Минусы:",
+            "§c - §7У вас 9 сердец здоровья"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7Ви не отримуєте шкоди від падіння",
+            "§a - §7Ви стрибаєте висотою в 2 блоки",
+            "§a - §7Удари рукою завдають на 4 шкоди більше",
+            "§a - §7Крипери та фантоми вас бояться",
+            "§7Мінуси:",
+            "§c - §7У вас 9 сердець здоров'я"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7You don't take fall damage",
+            "§a - §7You jump as high as 2 blocks",
+            "§a - §7Punching deals 4 more damage",
+            "§a - §7Creepers and phantoms are afraid of you",
+            "§7Cons:",
+            "§c - §7You have 9 health hearts"
+        ]
+    },
+    "RACE_ORC_NAME": {
+        "ru": "Орк",
+        "ua": "Орк",
+        "en": "Orc"
+    },
+    "RACE_ORC_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7У вас дополнительные 5 брони",
+            "§a - §7При использовании топора он не",
+            "§7   теряет прочность",
+            "§a - §7Когда не полное здоровье,",
+            "§7   увеличивается скорость и урон на 3",
+            "§a - §7Пока вы держите топор, вы",
+            "§7   получаете Спешку II",
+            "§7Минусы:",
+            "§c - §7Вы можете питаться только мясом"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7У вас додаткові 5 броні",
+            "§a - §7При використанні сокири він не",
+            "§7   втрачає міцність",
+            "§a - §7Коли не повне здоров'я,",
+            "§7   збільшується швидкість",
+            "§a - §7Поки ви тримаєте сокиру, ви",
+            "§7   отримуєте Поспіх II",
+            "§7Мінуси:",
+            "§c - §7Ви можете харчуватися лише м'ясом"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7You have additional 5 armors",
+            "§a - §7When using an ax, it does not",
+            "§7   lose durability",
+            "§a - §7When health is not full,",
+            "§7   speed increases",
+            "§a - §7As long as you ar eholding the axe, you",
+            "§7   get Haste II",
+            "§7Cons:",
+            "§c - §7You can only eat meat"
+        ]
+    },
+    "RACE_VAMPIRE_NAME": {
+        "ru": "Вампир",
+        "ua": "Вампір",
+        "en": "Vampire"
+    },
+    "SURVIVAL_TROLL_PICKUP_ANIMAL": {
+        "ru": "$SURVIVAL_PREFIX$Вы подняли животное, зажмите Shift на 3 секунды, чтобы вернуть его обратно на землю"
+    },
+    "SURVIVA_DEMON_UNSAFE_LOCATION": {
+        "ru": "$SURVIVAL_PREFIX$Небезопасное место для телепортации"
+    },
+    "RACE_VAMPIRE_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7Вы видите в темноте",
+            "§a - §7Ночью вы передвигаетесь быстрее",
+            "§a - §7Заряженный удар восстанавливает",
+            "§7   1 здоровье",
+            "§a - §7Когда ночь, при нажатии Shift, вы",
+            "§7   подсвечиваете для себя всех существ",
+            "§7   в радиусе 20 блоков (раз в 20 секунд)",
+            "§a - §7Вы можете превратиться в летучую мышь,",
+            "§7   зажав Shift на 3 секунды",
+            "§a - §7Вы получаете 1 зелье огнестойкости",
+            "§7   на 3 минуты",
+            "§7Минусы:",
+            "§c - §7Днем вы получаете Слабость I",
+            "§7   и Утомление I и под открытым",
+            "§7   солнцем вы горите"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7Вночі отримує нічний зір та",
+            "§7   рухається швидше",
+            "§a - §7Заряджений удар відновлює",
+            "§7   1 здоров'я",
+            "§a - §7Уночі при натисканні Shift ви",
+            "§7   підсвічуєте собі всіх істот",
+            "§7   в радіусі 20 блоків (раз на 20 секунд)",
+            "§a - §7Ви можете перетворитися на кажана,",
+            "§7   затиснув Shift на 3 секунди",
+            "§a - §7Ви отримуєте 1 зілля вогнестійкості",
+            "§7   на 3 хвилини",
+            "§7Мінуси:",
+            "§c - §7Вдень ви отримуєте Слабкість I",
+            "§7   і Втому I і під відкритим",
+            "§7   сонцем ви палаєте"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7Gets night vision",
+            "§7   and moves faster at night",
+            "§a - §7Charged strike recovers",
+            "§7   1 health",
+            "§a - §7At night, when pressing Shift, you",
+            "§7   highlight all creatures within a",
+            "§7   20-block radius (every 20 seconds)",
+            "§a - §7You can turn into a bat by",
+            "§7   holding Shift for 3 seconds",
+            "§a - §7You get 1 fire resistance potion.",
+            "§7   for 3 minutes",
+            "§7Cons:",
+            "§c - §7In the afternoon, you get Weakness I",
+            "§7   and Exhaustion I and you burn",
+            "§7   in broad daylight"
+        ]
+    },
+    "SURVIVAL_HOLO_HELP": {
+        "ru": [
+            "§cПомощник по режиму",
+            "§fОбщая информация об игре",
+            "§7Нажмите, чтобы открыть"
+        ],
+        "ua": [
+            "§cПомічник по режиму",
+            "§fЗагальна інформація про гру",
+            "§7Натисніть, щоб відкрити"
+        ],
+        "en": [
+            "§cMod helper",
+            "§fGeneral information about the game",
+            "§7Click to view"
+        ]
+    },
+    "SURVIVAL_HOLO_ALCHEMIST": {
+        "ru": [
+            "§cАлхимик",
+            "§fСоздание уникальных предметов",
+            "§7Нажмите, чтобы открыть"
+        ],
+        "ua": [
+            "§cАлхімік",
+            "§fСтворення унікальних предметів",
+            "§7Натисніть, щоб відкрити"
+        ],
+        "en": [
+            "§cAlchemist",
+            "§fCreating unique items",
+            "§7Click to open"
+        ]
+    },
+    "SURVIVAL_HOLO_RACE": {
+        "ru": [
+            "§cРасы",
+            "§fЗдесь можно выбрать расу",
+            "§7Нажмите, чтобы выбрать"
+        ],
+        "ua": [
+            "§cРаси",
+            "§fТут можна обрати расу",
+            "§7Натисніть, щоб обрати"
+        ],
+        "en": [
+            "§cRaces",
+            "§fHere you can select a race",
+            "§7Click to select"
+        ]
+    },
+    "SURVIVAL_HOLO_RTP": {
+        "ru": [
+            "§cРандомный телепорт",
+            "§fТелепортирует вас в случайную точку на карте",
+            "§7Нажмите, для активации"
+        ],
+        "ua": [
+            "§cРандомний телепорт",
+            "§fТелепортує вас до випадкової точки на карті",
+            "§7Натисніть для активування"
+        ],
+        "en": [
+            "§cRandom teleport",
+            "§fTeleports you to a random point on the map",
+            "§7Click to activate"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_NAME": {
+        "ru": "§eСоздание предмета",
+        "ua": "§eСтворення предмета",
+        "en": "§eItem creating"
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_DESCRIPTION": {
+        "ru": [
+            "§7Принесите алхимику предметы, которые",
+            "§7он попросит, и он синтезирует для",
+            "§7вас сильные или уникальные вещи"
+        ],
+        "ua": [
+            "§7Принесіть алхіміку предмети, які",
+            "§7він попросить, і він синтезує для",
+            "§7вас сильніші або більш унікальні речі"
+        ],
+        "en": [
+            "§7Bring the alchemist the items he",
+            "§7asks for, and he will synthesize",
+            "§7strong or unique items for you"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_ENCHANTMENT_TRADE_NAME": {
+        "ru": "§eУникальные зачарования",
+        "ua": "§eУнікальні зачарування",
+        "en": "§eUnique enchantments"
+    },
+    "SURVIVAL_ALCHEMIST_ENCHANTMENT_TRADE_DESCRIPTION": {
+        "ru": [
+            "§7Обменяйте у алхимика предметы",
+            "§7на редкие зачарования"
+        ],
+        "ua": [
+            "§7Обміняйте у алхіміка предмети",
+            "§7на рідкісні зачарування",
+            "§7",
+            "§cВ розробці"
+        ],
+        "en": [
+            "§7Trade the alchemist",
+            "§7for rare enchantments",
+            "§7",
+            "§cIn developing"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_DONATE_INFO_NAME": {
+        "ru": "§eВозможности донатеров",
+        "ua": "§eМожливості донатерів",
+        "en": "§eDonater opportunities"
+    },
+    "SURVIVAL_ALCHEMIST_DONATE_INFO_DESCRIPTION": {
+        "ru": [
+            "§7Привилегированные игроки получают",
+            "§7большее количество слотов для одновременного",
+            "§7создания предмета, а также уменьшена",
+            "§7длительность их создания",
+            "§7",
+            "§7За золото вы можете моментально",
+            "§7преобразовать и получить предмет"
+        ],
+        "ua": [
+            "§7Привілейовані гравці отримують",
+            "§7більшу кількість слотів для одночасного",
+            "§7створення предметів, а також зменшена",
+            "§7тривалість їх створення",
+            "§7",
+            "§7За золото ви можете миттєво",
+            "§7перетворити та отримати предмет"
+        ],
+        "en": [
+            "§7Privileged players get",
+            "§7more slots to craft items",
+            "§7at the same time, and their creation",
+            "§7time is shortened",
+            "§7",
+            "§7Using gold, you can instantly convert",
+            "§7and receive an item"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_INFO_NAME": {
+        "ru": "§eИнформация",
+        "ua": "§eІнформація",
+        "en": "§eInformation"
+    },
+    "SURVIVAL_ALCHEMIST_CRAFT_SPEED_UP": {
+        "ru": [
+            "",
+            "§eНажмите ЛКМ, чтобы получить предмет",
+            "§eпрямо сейчас за 10 золота"
+        ],
+        "ua": [
+            "",
+            "§eНатисніть ЛКМ, щоб отримати предмет",
+            "§eпрямо зараз за 10 золота"
+        ],
+        "en": [
+            "",
+            "§eLMC to get the item",
+            "§eright now for 10 gold"
+        ]
+    },
+    "SURVIVAL_KIT_PURCHASE_CONFIRMATION_MENU": {
+        "ru": "Подтверждение покупки",
+        "ua": "Підтвердження покупки",
+        "en": "Purchase confirmation"
+    },
+    "SURVIVAL_RACE_COOLDOWN_RESET_CONFIRMATION_MENU": {
+        "ru": "Подтверждение",
+        "ua": "Підтвердження",
+        "en": "Confirmation"
+    },
+    "SURVIVAL_RACE_COOLDOWN_RESET_CONFIRM_NAME": {
+        "ru": "§aПодтвердить",
+        "ua": "§aПідтвердити",
+        "en": "§aConfirm"
+    },
+    "SURVIVAL_RACE_COOLDOWN_RESET_CONFIRM_DESCRIPTION": {
+        "ru": "§7Подтвердить сброс перезарядки на смену расы",
+        "ua": "§7Підтвердити скидання перезарядки на зміну раси",
+        "en": "§7Confirm reset for race change"
+    },
+    "SURVIVAL_RACE_COOLDOWN_RESET_CANCEL_NAME": {
+        "ru": "§cОтменить",
+        "ua": "§cСкасувати",
+        "en": "§cCancel"
+    },
+    "SURVIVAL_RACE_COOLDOWN_RESET_CANCEL_DESCRIPTION": {
+        "ru": "§7Отменить действие",
+        "ua": "§7Скасувати дію",
+        "en": "§7Cancel action"
+    },
+    "SURVIVAL_RACE_WARNING": {
+        "ru": [
+            "",
+            "§cВНИМАНИЕ! ПОСЛЕ ВЫБОРА РАСЫ СМЕНИТЬ ЕЕ",
+            "§cМОЖНО БУДЕТ ЧЕРЕЗ 3 ДНЯ"
+        ],
+        "ua": [
+            "",
+            "§cУВАГА! ПІСЛЯ ВИБОРУ РАСИ ЗМІНИТИ ЇЇ",
+            "§cМОЖНО БУДЕ ЗА 3 ДНІ"
+        ],
+        "en": [
+            "",
+            "§cATTENTION! AFTER RACE SELECTION, YOU WILL BE ABLE",
+            "§cTO CHANGE IT IN 3 DAYS"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_SLOT_BLOCKED_NAME": {
+        "ru": "§cСлот заблокирован",
+        "ua": "§cСлот заблокований",
+        "en": "§cSlot is blocked"
+    },
+    "SURVIVAL_ALCHEMIST_SLOT_BLOCKED_DESCRIPTION": {
+        "ru": "§7Для разблокировки необходим %s §7или выше",
+        "ua": "§7Для розблокування необхідний %s §7або вище",
+        "en": "§7To unblock you need %s §7or higher"
+    },
+    "PROTECTION_NO_PVP": {
+        "ru": "$@MODE_PREFIX$Пвп в этом регионе запрещено!",
+        "ua": "$@MODE_PREFIX$Пвп в цьому регіоні заборонено!",
+        "en": "$@MODE_PREFIX$PVP is forbidden in this region!"
+    },
+    "SURVIVAL_KIT_PURCHASE_CONFIRM_NAME": {
+        "ru": "§aПодтвердить",
+        "ua": "§aПідтвердити",
+        "en": "§aConfirm"
+    },
+    "SURVIVAL_KIT_PURCHASE_CONFIRM_DESCRIPTION": {
+        "ru": [
+            "§7Подтвердить приобретение набора",
+            "",
+            "§7Вещи выдадутся сразу после приобретения,",
+            "§7если они не поместятся в ваш",
+            "§7инвентарь - они выпадут",
+            "",
+            "§c§nВы можете собирать набор в течение одного вайпа!",
+            "",
+            "§eНажмите, чтобы приобрести набор"
+        ],
+        "ua": [
+            "§7Підтвердити придбання набору",
+            "",
+            "§7Речі видадуться відразу після придбання,",
+            "§7якщо вони не помістяться у ваш",
+            "§7інвентар, вони випадуть",
+            "",
+            "§c§nВи можете збирати набір протягом одного вайпа!",
+            "",
+            "§eНатисніть, щоб придбати набір"
+        ],
+        "en": [
+            "§7Confirm set purchase",
+            "",
+            "§7Items will be issued immediately after purchase,",
+            "§7if they do not fit in",
+            "§7your inventory, they will fall out",
+            "",
+            "§c§nYou can collect a set in one vipe!",
+            "",
+            "§eClick to purchase the set"
+        ]
+    },
+    "SURVIVAL_KIT_PURCHASE_CANCEL_NAME": {
+        "ru": "§cОтменить",
+        "ua": "§cСкасувати",
+        "en": "§cCancel"
+    },
+    "SURVIVAL_KIT_PURCHASE_CANCEL_DESCRIPTION": {
+        "ru": [
+            "§7Отменить приобретение набора",
+            "",
+            "§eНажмите, чтобы отменить и перейти назад"
+        ],
+        "ua": [
+            "§7Скасувати придбання наборі",
+            "§eНатисніть, щоб скасувати і перейти назад"
+        ],
+        "en": [
+            "§7Cancel set purchase",
+            "",
+            "§eClick to cancel and go back"
+        ]
+    },
+    "SURVIVAL_ALCHEMIST_INFO_DESCRIPTION": {
+        "ru": [
+            "§7Алхимик - тот, кто поможет вам получить",
+            "§7самые необычные предметы, которые",
+            "§7помогут во всех аспектах выживания",
+            "",
+            "§7Нажмите на наковальню, чтобы выбрать",
+            "§7создаваемый предмет",
+            "",
+            "§7Каждый предмет создается 16 часов и",
+            "§7одновременно можно создавать не более",
+            "§7одного предмета",
+            "§7(у привилегированных игроков количество увеличено)",
+            "",
+            "§7Нажмите на книгу, чтобы обменять предметы на",
+            "§7кастомные книги моментально"
+        ],
+        "ua": [
+            "§7Алхімік - той, хто допоможе вам отримати",
+            "§7найбільш незвичайні предмети, які",
+            "§7допоможуть у всіх аспектах виживання",
+            "",
+            "§7Натисніть на ковадло, щоб обрати",
+            "§7створюваний предмет",
+            "",
+            "§7Кожний предмет створюэться 16 годин і",
+            "§7оодночасно створювати можно не більш ніж",
+            "§7один предмет",
+            "§7(у привілейованих гравців кількість збільшена)",
+            "",
+            "§7Натисніть на книгу, щоб обміняти предмети на",
+            "§7кастомні книги миттєво"
+        ],
+        "en": [
+            "§7Alchemist is somebody who can help you",
+            "§7receive unique items which will help",
+            "§7you to survive",
+            "",
+            "§7Click on the anvil to select an item",
+            "§7to be crafted",
+            "",
+            "§7It takes 16 hours to craft each item and",
+            "§7you can craft no more than 1 item",
+            "§7at the same time",
+            "§7(privileged players have a bigger amount of slots)",
+            "",
+            "§7Click on the book to instantly trade items",
+            "§7for customized books"
+        ]
+    },
+    "SURVIVAL_VAMPIRE_BAT_ENABLE": {
+        "ru": "$SURVIVAL_PREFIX$Вы превратились в летучую мышь! Чтобы обратно стать человеком, зажмите Shift на 3 секунды.",
+        "ua": "$SURVIVAL_PREFIX$Ви перетворилися на кажана! Щоб назад стати людиною, затисніть Shift на 3 секунди.",
+        "en": "$SURVIVAL_PREFIX$You have turned into a bat! To become a human again, hold Shift for 3 seconds."
+    },
+    "SURVIVAL_VAMPIRE_BAT_DISABLE": {
+        "ru": "$SURVIVAL_PREFIX$Вы снова стали человеком.",
+        "ua": "$SURVIVAL_PREFIX$Ви знову стали людиною.",
+        "en": "$SURVIVAL_PREFIX$You have become a human again."
+    },
+    "SURVIVAL_VAMPIRE_BAT_FLY_START": {
+        "ru": "$SURVIVAL_PREFIX$Вы снова можете летать!",
+        "ua": "$SURVIVAL_PREFIX$Ви знову можете літати!",
+        "en": "$SURVIVAL_PREFIX$You can fly again!"
+    },
+    "SURVIVAL_VAMPIRE_BAT_FLY_END": {
+        "ru": "$SURVIVAL_PREFIX$У вас кончились силы на полёт, подождите 15 секунд",
+        "ua": "$SURVIVAL_PREFIX$У вас скінчилися сили на політ, зачекайте 15 секунд",
+        "en": "$SURVIVAL_PREFIX$You are out of energy to fly, wait 15 seconds"
+    },
+    "SURVIVAL_AMPHIBIAN_BOOST_COOLDOWN": {
+        "ru": "$SURVIVAL_PREFIX$Ускорение будет доступно через §a%s §fсек.",
+        "ua": "$SURVIVAL_PREFIX$Прискорення буде доступне через §a%s §fсек.",
+        "en": "$SURVIVAL_PREFIX$Acceleration will be available in §a%s §fsecs"
+    },
+    "SURVIVAL_ELF_INVISIBLE": {
+        "ru": "$SURVIVAL_PREFIX$Вы стали невидимыми, зажмите Shift на 3 секунды ещё раз, чтобы выйти из невидимости",
+        "ua": "$SURVIVAL_PREFIX$Ви стали невидимими, затисніть Shift на 3 секунди ще раз, щоб вийти з невидимості",
+        "en": "$SURVIVAL_PREFIX$You have become invisible, hold Shift for 3 seconds again to lose invisibility"
+    },
+    "SURVIVAL_ELF_VISIBLE": {
+        "ru": "$SURVIVAL_PREFIX$Вы снова стали видимыми",
+        "ua": "$SURVIVAL_PREFIX$Ви знову стали видимими",
+        "en": "$SURVIVAL_PREFIX$You are now visible"
+    },
+    "SURVIVAL_GOLD_KIT_ICON_NAME": {
+        "ru": "§eНаборы за золото",
+        "ua": "§eНабори за золото",
+        "en": "§eSets for gold"
+    },
+    "SURVIVAL_GOLD_KIT_ICON_DESCRIPTION": {
+        "ru": [
+            "§7Нажмите, чтобы открыть меню",
+            "§7наборов за золото"
+        ],
+        "ua": [
+            "§7Натисніть, щоб відкрити меню",
+            "§7наборів за золото"
+        ],
+        "en": [
+            "§7Click to view the menu",
+            "§7of sets for gold"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_MENU": {
+        "ru": "Наборы за золото",
+        "ua": "Набори за золото",
+        "en": "Sets for gold"
+    },
+    "SURVIVAL_GOLD_KIT_AVAILABLE_ICON_NAME": {
+        "ru": "§a%s",
+        "ua": "§a%s",
+        "en": "§a%s"
+    },
+    "SURVIVAL_GOLD_KIT_UNAVAILABLE_ICON_NAME": {
+        "ru": "§c%s",
+        "ua": "§c%s",
+        "en": "§c%s"
+    },
+    "SURVIVAL_GOLD_KIT_GIVEN": {
+        "ru": "$SURVIVAL_PREFIX$Вы получили набор §e%s",
+        "ua": "$SURVIVAL_PREFIX$Ви отримали набір §e%s",
+        "en": "$SURVIVAL_PREFIX$You received the set §e%s"
+    },
+    "SURVIVAL_GOLD_KIT_NOT_FOUND": {
+        "ru": "$SURVIVAL_PREFIX$Набор §e%s §fне найден. Все наборы: %s",
+        "ua": "$SURVIVAL_PREFIX$Набір §e%s §fне знайдений. Всі набори: %s",
+        "en": "$SURVIVAL_PREFIX$Set §e%s §fnot found. All sets: %s"
+    },
+    "SURVIVAL_GOLD_KIT_NO_GOLD": {
+        "ru": "$SURVIVAL_PREFIX$У вас не хватает §6%s §fзолота, чтобы приобрести набор §e%s§f, поскольку он стоит §6%s §fзолота",
+        "ua": "$SURVIVAL_PREFIX$У вас не вистачає §6%s §fзолота, щоб придбати набір §e%s§f, оскільки він коштує §6%s §fзолота",
+        "en": "$SURVIVAL_PREFIX$You need §6%s §fmore gold to purchase set §e%s§f, since it costs §6%s §fgold"
+    },
+    "SURVIVAL_GOLD_KIT_PURCHASED": {
+        "ru": "$SURVIVAL_PREFIX$Вы успешно приобрели набор §e%s §fза §6%s §fзолота!",
+        "ua": "$SURVIVAL_PREFIX$Ви успішно придбали набір §e%s §fза §6%s §fзолота!",
+        "en": "$SURVIVAL_PREFIX$You have successfully purchased set §e%s §ffor §6%s §fgold!"
+    },
+    "SURVIVAL_GOLD_KIT_AVAILABLE": {
+        "ru": [
+            "",
+            "§eНажмите ЛКМ, чтобы взять этот набор"
+        ],
+        "ua": [
+            "",
+            "§eНатисніть ЛКМ, щоб взяти цей набір"
+        ],
+        "en": [
+            "",
+            "§eLMC to take this set"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_UNAVAILABLE": {
+        "ru": [
+            "",
+            "§cДанный набор будет доступен",
+            "§cчерез %s"
+        ],
+        "ua": [
+            "",
+            "§cЦей набір буде доступний",
+            "§cчерез %s"
+        ],
+        "en": [
+            "",
+            "§cThis set will be available",
+            "§cin %s"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_PURCHASE": {
+        "ru": [
+            "",
+            "§cУ вас еще не приобретен данный набор"
+        ],
+        "ua": [
+            "",
+            "§cУ вас ще не придбано цей набір"
+        ],
+        "en": [
+            "",
+            "§cYou have not purchased this set yet"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_PURCHASE_AVAILABLE": {
+        "ru": [
+            "§7Стоимость набора: §6%s золота",
+            "",
+            "§c§nВы можете собирать набор в течение одного вайпа!",
+            "",
+            "§eНажмите ЛКМ, чтобы приобрести набор"
+        ],
+        "ua": [
+            "§7Вартість набору: §6%s золота",
+            "",
+            "§c§nВи можете збирати набір протягом одного вайпа!",
+            "",
+            "§eНатисніть ЛКМ, щоб придбати набір"
+        ],
+        "en": [
+            "§7Set price: §6%s gold",
+            "",
+            "§c§nYou can collect a set within one vipe!",
+            "",
+            "§eLMC to purchase the set"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_PURCHASE_UNAVAILABLE": {
+        "ru": [
+            "§7Стоимость набора: §6%s золота",
+            "",
+            "§c§nВы можете собирать набор в течение одного вайпа!"
+        ],
+        "ua": [
+            "§7Вартість набору: §6%s золота",
+            "",
+            "§c§nВи можете збирати набір протягом одного вайпа!"
+        ],
+        "en": [
+            "§7Set price: §6%s gold",
+            "",
+            "§c§nYou can collect a set in one vipe!"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_COMBAT_NAME": {
+        "ru": "Боевой",
+        "ua": "Бойовий",
+        "en": "Combat"
+    },
+    "SURVIVAL_GOLD_KIT_COMBAT_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Периодичность: §e7 дней",
+            "",
+            "§7Набор содержит:",
+            "  §7Незеритовый меч",
+            "    §7Острота V",
+            "    §7Заговор огня II",
+            "    §7Прочность III",
+            "  §7Незеритовая броня",
+            "    §7Защита IV",
+            "    §7Прочность III",
+            "  §7Золотое яблоко §8x16",
+            "  §7Зачарованное золотое яблоко §8x5"
+        ],
+        "ua": [
+            "",
+            "§7Періодичність: §e7 днів",
+            "",
+            "§7Набір містить:",
+            "  §7Незеритовий меч",
+            "    §7Гострота V",
+            "    §7Заговір вогню II",
+            "    §7Міцність III",
+            "  §7Незеритова броня",
+            "    §7Захист IV",
+            "    §7Міцність III",
+            "  §7Золоте яблуко §8x16",
+            "  §7Зачароване золоте яблуко §8x5"
+        ],
+        "en": [
+            "",
+            "§7Period: §e7 days",
+            "",
+            "§7Set includes:",
+            "  §7Netherite sword",
+            "    §7Pungency V",
+            "    §7Fire plot II",
+            "    §7Strength III",
+            "  §7Netherite armor",
+            "    §7Protection IV",
+            "    §7Durability III",
+            "  §7Golden apple §8x16",
+            "  §7Enchanted golden apple §8x5"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_BUILDING_NAME": {
+        "ru": "Строительный",
+        "ua": "Будівельний",
+        "en": "Building"
+    },
+    "SURVIVAL_GOLD_KIT_BUILDING_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Периодичность: §e7 дней",
+            "",
+            "§7Набор содержит:",
+            "  §7Белый шалкербокс",
+            "    §7Камень §8(9 стаков)",
+            "    §7Кварц §8(9 стаков)",
+            "    §7Земля §8(9 стаков)",
+            "  §7Белый шалкербокс",
+            "    §7Светокамень §8(4 стака)",
+            "    §7Дуб §8(4 стака)",
+            "    §7Блок глины §8(8 стаков)",
+            "    §7Песок §8(8 стаков)",
+            "    §7Белая шерсть §8(3 стака)"
+        ],
+        "ua": [
+            "",
+            "§7Періодичність: §e7 днів",
+            "",
+            "§7Набір містить:",
+            "  §7Білий шалкербокс",
+            "    §7Камінь §8(9 стаков)",
+            "    §7Кварц §8(9 стаков)",
+            "    §7Земля §8(9 стаков)",
+            "  §7Білий шалкербокс",
+            "    §7Світлокамінь §8(4 стака)",
+            "    §7Дуб §8(4 стака)",
+            "    §7Блок глини §8(8 стаков)",
+            "    §7Пісок §8(8 стаков)",
+            "    §7Біла вовна §8(3 стака)"
+        ],
+        "en": [
+            "",
+            "§7Period: §e7 days",
+            "",
+            "§7Set includes:",
+            "  §7White shalkerbox",
+            "    §7Stone §8(9 stacks)",
+            "    §7Quartz §8(9 stacks)",
+            "    §7Earth §8(9 stacks)",
+            "  §7White shalkerbox",
+            "    §7Lightstone §8(4 stacks)",
+            "    §7Oak §8(4 stacks)",
+            "    §7Clay block §8(8 stacks)",
+            "    §7Sand §8(8 stacks)",
+            "    §7White wool §8(3 stacks)"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_TOOLS_NAME": {
+        "ru": "Инструменты",
+        "ua": "Інструменти",
+        "en": "Tools"
+    },
+    "SURVIVAL_GOLD_KIT_TOOLS_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Периодичность: §e10 дней",
+            "",
+            "§7Набор содержит:",
+            "  §7Инструменты",
+            "    §7Зачарованные на",
+            "      §7Эффективность V",
+            "      §7Шелковое касание",
+            "      §7Прочность III",
+            "      §7Починка",
+            "",
+            "    §7Незеритовая кирка",
+            "    §7Незеритовый топор",
+            "    §7Незеритовая лопата",
+            "    §7Незеритовая мотыга"
+        ],
+        "ua": [
+            "",
+            "§7Періодичність: §e10 днів",
+            "",
+            "§7Набір містить:",
+            "  §7Інструменти",
+            "    §7Зачаровані на",
+            "      §7Ефективність V",
+            "      §7Шовковий дотик",
+            "      §7Міцність III",
+            "      §7Полагодження",
+            "",
+            "    §7Незеритова кирка",
+            "    §7Незеритова сокира",
+            "    §7Незеритова лопата",
+            "    §7Незеритова мотика"
+        ],
+        "en": [
+            "",
+            "§7Period: §e10 дней",
+            "",
+            "§7Set includes:",
+            "  §7Tools",
+            "    §7Enchanted fof",
+            "      §7Eficiency V",
+            "      §7Silk touch",
+            "      §7Durability III",
+            "      §7Repair",
+            "",
+            "    §7Netherite pickaxe",
+            "    §7Netherite axe",
+            "    §7Netherite shovel",
+            "    §7Netherite hoe"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_ENCHANTING_NAME": {
+        "ru": "Зачарователь",
+        "ua": "Зачаруватель",
+        "en": "Enchanter"
+    },
+    "SURVIVAL_GOLD_KIT_ENCHANTING_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Периодичность: §e5 дней",
+            "",
+            "§7Набор содержит:",
+            "  §7Зачарованные книги",
+            "    §7Эффективность V §8x2",
+            "    §7Прочность III §8x2",
+            "    §7Починка §8x2",
+            "    §7Удача III",
+            "    §7Везучий рыбак III",
+            "    §7Приманка III",
+            "    §7Шелковое касание",
+            "    §7Подводное дыхание III",
+            "    §7Подводник",
+            "    §7Подводная ходьба III",
+            "    §7Ледоход II",
+            "    §7Добыча III",
+            "    §7Скорость души III"
+        ],
+        "ua": [
+            "",
+            "§7Періодичність: §e5 днів",
+            "",
+            "§7Набір містить:",
+            "  §7Зачаровані книги",
+            "    §7Ефективність V §8x2",
+            "    §7Міцність III §8x2",
+            "    §7Полагодженість §8x2",
+            "    §7Удача III",
+            "    §7Везучий рибалка III",
+            "    §7Приманка III",
+            "    §7Шовковий дотик",
+            "    §7Підводне дихання III",
+            "    §7Підводник",
+            "    §7Підводна ходьба III",
+            "    §7Льодохід II",
+            "    §7Здобич III",
+            "    §7Швидкість душі III"
+        ],
+        "en": [
+            "",
+            "§7Period: §e5 days",
+            "",
+            "§7Set includes:",
+            "  §7Enchanted books",
+            "    §7Efficiency V §8x2",
+            "    §7Durability III §8x2",
+            "    §7Repair §8x2",
+            "    §7Luck III",
+            "    §7Lucky fisherman III",
+            "    §7Bait III",
+            "    §7Silk touch",
+            "    §7Underwater breathing III",
+            "    §7Submariner",
+            "    §7Underwater walking III",
+            "    §7Ice drift II",
+            "    §7Prey III",
+            "    §7Soul speed III"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_VALUABLES_NAME": {
+        "ru": "Драгоценности",
+        "ua": "Коштовності",
+        "en": "Valuables"
+    },
+    "SURVIVAL_GOLD_KIT_VALUABLES_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Периодичность: §e10 дней",
+            "",
+            "§7Набор содержит:",
+            "  §7Угольный блок §8x96",
+            "  §7Красный блок §8x64",
+            "  §7Блок лазурита §8x64",
+            "  §7Железный блок §8x48",
+            "  §7Алмазный блок §8x32",
+            "  §7Изумрудный блок §8x16",
+            "  §7Незеритовый блок §8x4",
+            "  §7Звезда ада §8x8"
+        ],
+        "ua": [
+            "",
+            "§7Періодичність: §e10 днів",
+            "",
+            "§7Набір містить:",
+            "  §7Вугільний блок §8x96",
+            "  §7Червоний блок §8x64",
+            "  §7Блок лазуриту §8x64",
+            "  §7Залізний блок §8x48",
+            "  §7Діамантовий блок §8x32",
+            "  §7Смарагдовий блок §8x16",
+            "  §7Незеритовий блок §8x4",
+            "  §7Зірка пекла §8x8"
+        ],
+        "en": [
+            "",
+            "§7Period: §e10 days",
+            "",
+            "§7Set includes:",
+            "  §7Coal block §8x96",
+            "  §7Red block §8x64",
+            "  §7Lapis lazuli block §8x64",
+            "  §7Iron block §8x48",
+            "  §7Diamond block §8x32",
+            "  §7Emerald block §8x16",
+            "  §7Netherite block §8x4",
+            "  §7Hell star §8x8"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_PURCHASE_REPEAT": {
+        "ru": [
+            "$SURVIVAL_PREFIX$Вы уверены, что хотите купить набор §e%s §fза §6%s §fзолота?",
+            "$SURVIVAL_PREFIX$Напишите эту команду снова, чтобы подтвердить покупку",
+            "$SURVIVAL_PREFIX$§c§nВы можете собирать набор в течение одного вайпа!"
+        ],
+        "ua": [
+            "$SURVIVAL_PREFIX$Ви впевнені, що хочете купити набір §e%s §fза §6%s §fзолота?",
+            "$SURVIVAL_PREFIX$Напишіть цю команду знову, щоби підтвердити покупку",
+            "$SURVIVAL_PREFIX$§c§nВи можете збирати набір протягом одного вайпа!"
+        ],
+        "en": [
+            "$SURVIVAL_PREFIX$Are you sure you want to buy set §e%s §ffor §6%s §fgold?",
+            "$SURVIVAL_PREFIX$Type this command again to confirm your purchase",
+            "$SURVIVAL_PREFIX$§c§nYou can collect a set in one vipe!"
+        ]
+    },
+    "SURVIVAL_GOLD_KIT_COOLDOWN": {
+        "ru": "$SURVIVAL_PREFIX$Вы можете взять набор §e%s §fчерез %s",
+        "ua": "$SURVIVAL_PREFIX$Ви можете взяти набір §e%s §fчерез %s",
+        "en": "$SURVIVAL_PREFIX$You can take set §e%s §fin %s"
+    },
+    "SURVIVAL_ALCHEMIST_CRAFTING_BEDROCK": {
+        "ru": [
+            "§7 - §eПлачущий обсидиан §8x576",
+            "§7 - §eЗвезда ада §8x8",
+            "§7 - §eБлок незерита §8x8"
+        ],
+        "ua": [
+            "§7 - §eПлакучий обсидіан §8x576",
+            "§7 - §eЗірка пекла §8x8",
+            "§7 - §eБлок незериту §8x8"
+        ],
+        "en": [
+            "§7 - §eWeeping obsidian §8x576",
+            "§7 - §eHell star §8x8",
+            "§7 - §eNetherite block §8x8"
+        ]
+    },
+    "RACE_HARPY_NAME": {
+        "ru": "Гарпия",
+        "ua": "Гарпія",
+        "en": "Harpy"
+    },
+    "RACE_HARPY_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7У вас постоянное Замедленное падение I",
+            "§a - §7Вы получаете элитры, которые дают вам",
+            "§7   8 брони",
+            "§a - §7Вы можете активировать ускорение в полёте,",
+            "§7   нажав Shift (раз в 15 секунд)",
+            "§7Минусы:",
+            "§c - §7Вы не можете питаться мясом",
+            "§c - §7Элитры невозможно снять"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7У вас постійне Уповільнене падіння I",
+            "§a - §7Ви отримуєте елітри, які дають вам",
+            "§7   8 броні",
+            "§a - §7Ви можете активувати прискорення в польоті,",
+            "§7   натиснув Shift (раз на 15 секунд)",
+            "§7Мінуси:",
+            "§c - §7Ви не можете харчуватися м'ясом",
+            "§c - §7Елітри неможливо зняти"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7You have a constant Slow fall I",
+            "§a - §7You get elitras which give you",
+            "§7   8 armor",
+            "§a - §7You can activate acceleration in flight",
+            "§7   by pressing Shift (every 15 secs)",
+            "§7Cons:",
+            "§c - §7You cannot eat meat",
+            "§c - §7Elitras cannot be removed"
+        ]
+    },
+    "RACE_ENDERMAN_NAME": {
+        "ru": "Эндермен",
+        "ua": "Ендермен",
+        "en": "Enderman"
+    },
+    "RACE_ENDERMAN_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7У вас бесконечные жемчуги энда и",
+            "§7   вы не получаете урон от них",
+            "§a - §7Око эндера телепортирует сразу в энд,",
+            "§7   если зажать Shift (если не активен антилив),",
+            "§7   оно не исчезает и не вылетает",
+            "§a - §7При броске жемчуга края в энде, вы получаете",
+            "§7   эффект Насыщения",
+            "§a - §7Эндермены не атакуют вас",
+            "§7Минусы:",
+            "§c - §7В воде вы получаете урон"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7У вас нескінченні перли енду та",
+            "§7   ви не отримуєте шкоди від них",
+            "§a - §7Око ендера телепортує відразу в енд,",
+            "§7   якщо затиснути Shift (якщо антилів не активований),",
+            "§7   воно не зникає і не вилітає",
+            "§a - §7При кидку перлів краю в енді, ви отримуєте",
+            "§7   ефект Насичення",
+            "§a - §7Ендермени не атакують вас",
+            "§7Мінуси:",
+            "§c - §7У воді ви отримуєте шкоду"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7You have unlimited Endpearls and",
+            "§7   you do not take damage from them",
+            "§a - §7Ender eye teleports immediately to the end,",
+            "§7   when pressing Shift (unless anti-leave is activated),",
+            "§7   it does not disappear or crash",
+            "§a - §7When throwing pearls in the End world, you get",
+            "§7   Saturation effect",
+            "§a - §7Endermen do not attack you",
+            "§7Cons:",
+            "§c - §7You take damage in the water"
+        ]
+    },
+    "RACE_ANGEL_NAME": {
+        "ru": "Ангел",
+        "ua": "Янгол",
+        "en": "Angel"
+    },
+    "SURVIVAL_PREFIX": {
+        "ru": "§6Выживание §8| §f",
+        "ua": "§6Виживання §8| §f",
+        "en": "§6Surviving §8| §f"
+    },
+    "SURVIVAL_RACE_CHANGED": {
+        "ru": "$SURVIVAL_PREFIX$Вы сменили свою расу на %s",
+        "ua": "$SURVIVAL_PREFIX$Ви змінили свою расу на %s",
+        "en": "$SURVIVAL_PREFIX$You have changed your race to %s"
+    },
+    "SURVIVAL_RACE_COOLDOWN": {
+        "ru": "$SURVIVAL_PREFIX$Вы не можете менять расу ещё %s!",
+        "ua": "$SURVIVAL_PREFIX$Ви не можете міняти расу ще %s!",
+        "en": "$SURVIVAL_PREFIX$You will be able to change race in %s!"
+    },
+    "RACE_ANGEL_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7У вас постоянное Замедленное падение I",
+            "§a - §7В энде вы получаете Сопротивление урону II",
+            "§a - §7При нажатии двойного прыжка, эффект",
+            "§7   Замедленного падения I заменяется на",
+            "§7   Левитацию V на 10 секунд, если высота не",
+            "§7   выше 255 блоков. Отключить взлёт можно нажав Shift",
+            "§7   (без задержки в энде, в обычном мире - 30с)",
+            "§7Минусы:",
+            "§c - §7В аду вы не можете восстанавливать здоровье",
+            "§7     и получаете Утомление I"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7У вас постійне Уповільнене падіння I",
+            "§a - §7В енді ви отримуєте Опір шкоді II",
+            "§a - §7При натисканні подвійного стрибка ефект",
+            "§7   Уповільненого падіння I замінюється на",
+            "§7   Левітацію III на 10 секунд, якщо висота не",
+            "§7   вище за 255 блоків.",
+            "§7   (без затримки в енді, у звичайному світі - 60с)",
+            "",
+            "§7Мінуси:",
+            "§c - §7У пеклі ви не можете відновлювати здоров'я",
+            "§7     і отримуєте Утому I"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7You have a constant Slow fall I",
+            "§a - §7In the End world you gain Damage resistance II",
+            "§a - §7When pressing double jump, the",
+            "§7   Slow fall I efect is replaced by",
+            "§7   Levitation III for seconds unless height is more",
+            "§7   than 255 blocks.",
+            "§7   (without delay in the End world, in the usual world - 60secs)",
+            "",
+            "§7Cons:",
+            "§c - §7While in hell, you cannot regenerate health",
+            "§7     and get Exhaustion I"
+        ]
+    },
+    "RACE_DEMON_NAME": {
+        "ru": "Демон",
+        "ua": "Демон",
+        "en": "Demon"
+    },
+    "RACE_DEMON_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7В аду у вас Сила II, Сопротивление",
+            "§7   урону I",
+            "§a - §7В аду, при нажатии Shift, вы подсвечиваете",
+            "§7   для себя всех существ в радиусе",
+            "§a - §7В аду, зажав Shift на 3 секунды,",
+            "§7   вы телепортируетесь на блок, на который",
+            "§7   смотрите",
+            "§7   20 блоков (раз в 20 секунд)",
+            "§a - §7Вы не получаете урон от огня и лавы и",
+            "§7   не поджигаетесь",
+            "§a - §7Вы можете метать огненные шары",
+            "§7Минусы:",
+            "§c - §7В энде у вас Утомление I и",
+            "§7   Замедление I"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7У пеклі у вас Сила II, Опір",
+            "§7   шкоді I",
+            "§a - §7У пеклі при натисканні Shift ви підсвічуєте",
+            "§7   для себе всіх істот у радіусі",
+            "§7   20 блоків (раз на 20 секунд)",
+            "§a - §7Ви не отримуєте шкоди від вогню та лави та",
+            "§7   не підпалюєтесь",
+            "§a - §7Ви можете метати вогняні кулі",
+            "§7Мінуси:",
+            "§c - §7У звичайному світі та енді у вас Утома I,",
+            "§7   Уповільнення I"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7While in hell, you have Strength II, Damage",
+            "§7   resistance I",
+            "§a - §7In hell, when pressing Shift, you highlight",
+            "§7   all creatures within a",
+            "§7   20-block radius (every 20 seconds)",
+            "§a - §7You do not take damage from fire and lava and",
+            "§7   cannot be set on fire",
+            "§a - §7You can throw fireballs",
+            "§7Cons:",
+            "§c - §7Both in the usual and End worlds you have Exhaustion I,",
+            "§7   Deceleration I"
+        ]
+    },
+    "RACE_AMPHIBIAN_NAME": {
+        "ru": "Амфибия",
+        "ua": "Амфібія",
+        "en": "Amphibian"
+    },
+    "RACE_AMPHIBIAN_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7Под водой или во время дождя у вас эффект",
+            "§7   морского источника и увеличена скорость ходьбы",
+            "§a - §7Вы получаете 3 зелья подводного дыхания на",
+            "§7   8 минут (позволяет дышать на суше) при выборе расы",
+            "§a - §7При двойном нажатии прыжка в воде вы получаете",
+            "§7   Дельфинью грацию I на 3 секунды.",
+            "§7   (Перезарядка 10 секунд)",
+            "§a - §7В воде вы опускаетесь медленнее",
+            "§a - §7Морской источник позволяет дышать на суше",
+            "§7Минусы:",
+            "§c - §7Вне воды вы начинаете терять кислород"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7Під водою або під час дощу у вас ефект",
+            "§7   морського джерела та збільшена швидкість ходьби",
+            "§a - §7Ви отримуєте 3 зілля підводного дихання на",
+            "§7   8 хвилин (дозволяє дихати на суші) при виборі раси",
+            "§a - §7При подвійному натисканні стрибка у воді ви отримуєте",
+            "§7   Дельфінью грацію I на 3 секунди.",
+            "§7   (Перезарядка 10 секунд)",
+            "§a - §7У воді ви опускаєтеся повільніше",
+            "§7Мінуси:",
+            "§c - §7Поза водою ви починаєте втрачати кисень"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7Under water or in the rain, you have the",
+            "§7   Sea source effect and your walking speed is increased",
+            "§a - §7You get 3 Underwater breathing potions for",
+            "§7   8 minutes (lets you breathe on land) when selecting race",
+            "§a - §7When you double-tap a jump in water, you get",
+            "§7   Dolphin grace I for 3 secs.",
+            "§7   (Reset 10 secs)",
+            "§a - §7In water you sink more slowly",
+            "§7Cons:",
+            "§c - §7Outside of water, you start to lose oxygen"
+        ]
+    },
+    "RACE_OGRE_NAME": {
+        "ru": "Огр",
+        "ua": "Огр",
+        "en": "Ogre"
+    },
+    "RACE_OGRE_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7На болотах вы получаете Спешку II",
+            "§7   и дополнительные 10 здоровья",
+            "§a - §7В других биомах вы получаете",
+            "§7   дополнительные 4 здоровья",
+            "§a - §7После еды вы получаете Сопротивление урону I на",
+            "§7   15 секунд и Насыщение на 1 секунду",
+            "§a - §7Вы можете призвать осла,",
+            "§7   кликнув морковкой",
+            "§7Минусы:",
+            "§c - §7Вы можете питаться только мясом"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7На болотах ви отримуєте Поспіх II",
+            "§7   та додаткові 10 здоров'я",
+            "§a - §7В інших біомах ви отримуєте",
+            "§7   додаткові 4 здоров'я",
+            "§a - §7Після їжі ви отримуєте Опір шкоді I на",
+            "§7   15 секунд і Насичення на 1 секунду",
+            "§7Мінуси:",
+            "§c - §7Ви можете харчуватися тільки м'ясом"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7In the swamps, you get Haste II",
+            "§7   and additional 10 health",
+            "§a - §7In other biomes, you get",
+            "§7   additional 4 health",
+            "§a - §7After eating, you get Damage resistance I for",
+            "§7   15 secs and Saturation for 1 sec",
+            "§7Cons:",
+            "§c - §7You can only eat meat"
+        ]
+    },
+    "RACE_TROLL_NAME": {
+        "ru": "Тролль",
+        "ua": "Тролль",
+        "en": "Troll"
+    },
+    "RACE_TROLL_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7В горных биомах или на высоте выше 80 блоков",
+            "§7   вы получаете Сопротивление урону III",
+            "§a - §7Дроп за убийство дружелюбных существ увеличен",
+            "§7   в 3 раза и дает вам Силу II на 15 минут",
+            "§a - §7Вы получаете в 4 раза меньше урона от окружения",
+            "§a - §7Вы можете поднимать животных, нажав по ним Shift+ПКМ",
+            "§7Минусы:",
+            "§c - §7Под землей вы получаете Утомление I"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7У гірських біомах або на висоті понад 80 блоків",
+            "§7   ви отримуєте Опір шкоді III",
+            "§a - §7Дроп за вбивство доброзичливих істот збільшено",
+            "§7   в 3 рази і дає вам Силу II на 15 хвилин",
+            "§a - §7Ви отримуєте в 4 рази менше шкоди від оточення",
+            "§7Мінуси:",
+            "§c - §7Під землею ви отримуєте Утому I"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7In mountain biomes or above 80 blocks",
+            "§7   you get Damage resistance III",
+            "§a - §7Drop for killing friendly creatures is increased",
+            "§7   by 3 times and gives you Strength II for 15 minutes",
+            "§a - §7You take 4 times less damage from the environment",
+            "§7Cons:",
+            "§c - §7Underground you get ExhaustionI"
+        ]
+    },
+    "RACE_DWARF_NAME": {
+        "ru": "Дворф",
+        "ua": "Дворф",
+        "en": "Dwarf"
+    },
+    "RACE_DWARF_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7Когда вы под землей держите кирку, вы",
+            "§7   получаете Спешку II",
+            "§a - §7Место в эндер сундуке увеличено на 18 слотов",
+            "§a - §7Когда вы под землей, вы видите в темноте",
+            "§7Минусы:",
+            "§c - §7На поверхности у вас Утомление I"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7Коли ви під землею тримаєте кирку, ви",
+            "§7   отримуєте Поспіх II",
+            "§a - §7Місце в ендер скрині збільшено на 18 слотів",
+            "§a - §7Коли ви під землею, ви бачите у темряві",
+            "§7Мінуси:",
+            "§c - §7На поверхні у вас Утома I"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7When holding a pickaxe under the ground, you",
+            "§7   get Haste II",
+            "§a - §7Ender chest space is increased by 18 slots",
+            "§a - §7When you are under the ground, you can see in the dark",
+            "§7Cons:",
+            "§c - §7On the surface, you get Exhaustion I"
+        ]
+    },
+    "RACE_ELF_NAME": {
+        "ru": "Эльф",
+        "ua": "Ельф",
+        "en": "Elf"
+    },
+    "RACE_ELF_DESCRIPTION": {
+        "ru": [
+            "",
+            "§7Плюсы:",
+            "§a - §7В любом лесу вы получаете Скорость II",
+            "§7   и Прыгучесть II",
+            "§a - §7Бесконечность работает на стрелы с эффектами",
+            "§a - §7Лук наносит на 3 урона больше",
+            "§a - §7В лесу, при удержании Shift в течение 3 секунд вы",
+            "§7   становитесь невидимы, пока снова не зажмете Shift",
+            "§7Минусы:",
+            "§c - §7Вы наносите мечом и топором на 3 урона меньше"
+        ],
+        "ua": [
+            "",
+            "§7Плюси:",
+            "§a - §7У будь-якому лісі ви отримуєте Швидкість II",
+            "§7   і Стрибкість II",
+            "§a - §7Нескінченність працює на стріли з ефектами",
+            "§a - §7Лук наносить на 3 шкоди більше",
+            "§a - §7У лісі при утриманні Shift протягом 3 секунд ви",
+            "§7   становитесь невидимим, поки знову не затиснете Shift",
+            "§7Мінуси:",
+            "§c - §7Ви наносите мечем і сокирою на 3 збитки менше"
+        ],
+        "en": [
+            "",
+            "§7Pros:",
+            "§a - §7In any forest you get Speed II",
+            "§7   and Jumping ability II",
+            "§a - §7Infinity works on arrows with effects",
+            "§a - §7Bow deals 3 more damage",
+            "§a - §7In forest, when holding Shift for 3 secs, you",
+            "§7   become invisible until you press Shift again",
+            "§7Cons:",
+            "§c - §7You deal 3 less damage with sword and axe"
+        ]
+    },
+    "SURVIVAL_XRAY_PICKAXE": {
+        "ru": "$SURVIVAL_PREFIX$Было подсвечено %s руд!",
+        "ua": "$SURVIVAL_PREFIX$Було підсвічено %s руд!",
+        "en": "$SURVIVAL_PREFIX$Ores highlighted: %s!"
+    },
+    "SURVIVAL_XRAY_PICKAXE_COOLDOWN": {
+        "ru": "$SURVIVAL_PREFIX$Подсветка руд будет доступна через §a%s §fсек",
+        "ua": "$SURVIVAL_PREFIX$Підсвічування руд буде доступне через §a%s §fсек",
+        "en": "$SURVIVAL_PREFIX$Highlighting ores will be available in §a%s §fsecs"
+    },
+    "SURVIVAL_HELP_MENU": {
+        "ru": "Помощь по режиму",
+        "ua": "Допомога по режиму",
+        "en": "Mode help"
+    },
+    "SURVIVAL_HELP_MENU_RTP_NAME": {
+        "ru": "§bТелепорт в случайную точку на карте",
+        "ua": "§bТелепорт у випадкову точку на мапі",
+        "en": "§bTeleport to a random point on the map"
+    },
+    "SURVIVAL_HELP_MENU_RTP_DESCRIPTION": {
+        "ru": [
+            "§7Если вы готовы начать игру, то сперва",
+            "§7вам нужно попасть в обычный мир",
+            "§7Команда: §f/rtp",
+            "",
+            "§e▶ Нажмите, чтобы телепортироваться!"
+        ],
+        "ua": [
+            "§7Якщо ви готові розпочати гру, то спершу",
+            "§7вам треба потрапити у звичайний світ",
+            "§7Команда: §f/rtp",
+            "",
+            "§e▶ Натисніть, щоб телепортуватися!"
+        ],
+        "en": [
+            "§7If you are ready to start the game, then first",
+            "§7you need to get into the usual world.",
+            "§7Command: §f/rtp",
+            "",
+            "§e▶ Click to teleport!"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_MAIN_NAME": {
+        "ru": "§bСтартовый набор вещей, смена погоды и времени",
+        "ua": "§bСтартовий набір речей, зміна погоди та часу",
+        "en": "§bStarter set of things, change of weather and time"
+    },
+    "SURVIVAL_HELP_MENU_MAIN_DESCRIPTION": {
+        "ru": [
+            "§7В этом меню вы сможете взять стартовый",
+            "§7набор вещей, установить себе время и",
+            "§7поменять погоду на нужную! От §e§lGOLD §7и выше!",
+            "",
+            "§e▶ Нажмите, чтобы открыть!"
+        ],
+        "ua": [
+            "§7У цьому меню ви зможете взяти стартовий",
+            "§7набір речей, встановити собі час і",
+            "§7змінити погоду на потрібну! Від §e§lGOLD §7і вище!",
+            "",
+            "§e▶ Натисніть, щоб відкрити!"
+        ],
+        "en": [
+            "§7In this menu, you can take a starter",
+            "§7set of things, set your time and change",
+            "§7the weather to the desired one! From §e§lGOLD §7and higher!",
+            "",
+            "§e▶ Click to view!"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_AUCTION_NAME": {
+        "ru": "§bТорговля на аукционе",
+        "ua": "§bТоргівля на аукціоні",
+        "en": "§bTrading at auction"
+    },
+    "SURVIVAL_HELP_MENU_AUCTION_DESCRIPTION": {
+        "ru": [
+            "§7Вы можете продавать или покупать нужные",
+            "§7вам вещи и предметы у других игроков",
+            "§7Команда: §f/ah",
+            "",
+            "§e▶ Нажмите, чтобы открыть!"
+        ],
+        "ua": [
+            "§7Ви можете продавати чи купувати потрібні",
+            "§7вам речі і предмети у інших гравців",
+            "§7Команда: §f/ah",
+            "",
+            "§e▶ Натисніть, щоб відкрити!"
+        ],
+        "en": [
+            "§7You can sell or buy the things",
+            "§7and items you need from other players",
+            "§7Command: §f/ah",
+            "",
+            "§e▶ Click to view!"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_RACE_NAME": {
+        "ru": "§bРасы",
+        "ua": "§bРаси",
+        "en": "§bRaces"
+    },
+    "SURVIVAL_HELP_MENU_RACE_DESCRIPTION": {
+        "ru": [
+            "§7Измените свою игру до неузнаваемости",
+            "§7и выберите одну из предложенных рас",
+            "§7со своими плюсами и минусами",
+            "",
+            "§cДелайте выбор с умом! Вы не сможете",
+            "§cсменить расу еще долгое время!",
+            "",
+            "§e▶ Нажмите, чтобы выбрать расу"
+        ],
+        "ua": [
+            "§7Змініть свою гру до невпізнання",
+            "§7та виберіть одну із запропонованих рас",
+            "§7зі своїми плюсами та мінусами",
+            "",
+            "§cРобіть вибір з розумом! Ви не зможете",
+            "§cзмінити расу ще довгий час!",
+            "",
+            "§e▶ Натисніть, щоб обрати расу"
+        ],
+        "en": [
+            "§7Change your game beyond recognition",
+            "§7and select one of the proposed races",
+            "§7with its pros and cons",
+            "",
+            "§cMake your choice wisely! You will not be able",
+            "§cto change the race for  along time!",
+            "",
+            "§e▶ Click to select a race"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_ALCHEMIST_NAME": {
+        "ru": "§bАлхимик",
+        "ua": "§bАлхімік",
+        "en": "§bAlchemist"
+    },
+    "SURVIVAL_HELP_MENU_ALCHEMIST_DESCRIPTION": {
+        "ru": [
+            "§7Создавайте уникальные вещи и сделайте",
+            "§7игру еще более интересной и необычной",
+            "",
+            "§e▶ Нажмите, чтобы открыть меню алхимика"
+        ],
+        "ua": [
+            "§7Створюйте унікальні речі та зробіть",
+            "§7гру ще більш цікавою та незвичайною",
+            "",
+            "§e▶ Натисніть, щоб відкрити меню алхіміка"
+        ],
+        "en": [
+            "§7Craft unique items and make your",
+            "§7game even more exciting",
+            "",
+            "§e▶ Click to view the alchemist menu"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_REGION_NAME": {
+        "ru": "§bПриват территории",
+        "ua": "§bПриват території",
+        "en": "§bPrivate of the territory"
+    },
+    "SURVIVAL_HELP_MENU_REGION_DESCRIPTION": {
+        "ru": [
+            "§7Чтобы заприватить необходимую территорию,",
+            "§7необходимо специальным инструментом (§f//wand§7)",
+            "§7выделить область и написать §f/rg claim",
+            "",
+            "§7Имейте в виду, что регион приватится от самого",
+            "§7низа до самого верха автоматически!",
+            "",
+            "§cМаксимум заприваченной территории на один регион",
+            "§c11000 блоков по площади!",
+            "",
+            "§7Добавить друга в регион: §f/rg add <ник>",
+            "§7Удалить друга из региона: §f/rg remove <ник>"
+        ],
+        "ua": [
+            "§7Щоб запривати необхідну територію,",
+            "§7необхідно спеціальним інструментом (§f//wand§7)",
+            "§7виділити область та написати §f/rg claim",
+            "",
+            "§7Майте на увазі, що регіон приватиться від самого",
+            "§7низу до самого верху автоматично!",
+            "",
+            "§cМаксимум заприваченої території на один регіон",
+            "§c11000 блоків по площаді!",
+            "",
+            "§7Додати друга в регіон: §f/rg add <нік>",
+            "§7Видалити друга з регіону: §f/rg remove <нік>"
+        ],
+        "en": [
+            "§7To make necessary territory private,",
+            "§7you have to use this tool, (§f//wand§7)",
+            "§7highlight an area and type §f/rg claim",
+            "",
+            "§7Keep in mind that the region is privatized from the very",
+            "§7bottom to top automatically!",
+            "",
+            "§cMaximum for privatized territory per region is",
+            "§c11000 blocks by area!",
+            "",
+            "§7Add friend to the region: §f/rg add <nickname>",
+            "§7Remove friend from the region: §f/rg remove <nickname>"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_TELEPORTATION_NAME": {
+        "ru": "§bСпособы телепортации",
+        "ua": "§bЗасоби телепортації",
+        "en": "§bMeans of teleportation"
+    },
+    "SURVIVAL_HELP_MENU_TELEPORTATION_DESCRIPTION": {
+        "ru": [
+            "§f/rtp §7- попасть в обычный мир",
+            "§f/call §7- отправить запрос на тп игроку",
+            "§f/home <имя> §7- попасть на точку дома",
+            "§f/warp <имя> §7- тп на указанный варп",
+            "§f/spawn §7- попасть на спавн режима"
+        ],
+        "ua": [
+            "§f/rtp §7- потрапити у звичайний світ",
+            "§f/call §7- надіслати запит на тп гравцю",
+            "§f/home <ім'я> §7- потрапити на точку будинку",
+            "§f/warp <ім'я> §7- тп на вказаний варп",
+            "§f/spawn §7- потрапити на спавн режиму"
+        ],
+        "en": [
+            "§f/rtp §7- get into the usual world",
+            "§f/call §7- send a teleportating request to player",
+            "§f/home <name> §7- get to the house point",
+            "§f/warp <name> §7- teleportation to the specified warp",
+            "§f/spawn §7- get to spawn mode"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_GENERAL_INFO_NAME": {
+        "ru": "§bОбщая информация о режиме",
+        "ua": "§bЗагальна інформація про режим",
+        "en": "§bGeneral information about the mode"
+    },
+    "SURVIVAL_HELP_MENU_GENERAL_INFO_DESCRIPTION": {
+        "ru": [
+            "§7- Любые взрывы не уничтожают блоки в регионах",
+            "§7- Иссушителя можно призвать, но он не может разрушать блоки",
+            "§7- Изначально у игроков отключен режим PVP, чтобы его включить,",
+            "§7  нужно написать /pvp on"
+        ],
+        "ua": [
+            "§7- Будь-які вибухи не знищують блоки у регіонах",
+            "§7- Зсушителя можна призвати, але він не може руйнувати блоки",
+            "§7- Спочатку у гравців вимкнено режим PVP, щоб його увімкнути,",
+            "§7  треба написати /pvp on"
+        ],
+        "en": [
+            "§7- Explosions of any kind do not destroy blocks in regions",
+            "§7- Wither can be summoned, but it cannot destroy blocks",
+            "§7- Initially, players have disabled PVP mode, to enable it",
+            "§7  you have to type /pvp on"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_PVP_NAME": {
+        "ru": "§bРежим PVP",
+        "ua": "§bРежим PVP",
+        "en": "§bPVP mode"
+    },
+    "SURVIVAL_HELP_MENU_PVP_DESCRIPTION": {
+        "ru": [
+            "§7Чтобы два игрока могли наносить друг другу урон,",
+            "§7необходимо, что у них двоих был включен режим PVP,",
+            "§7для этого необходимо написать команду §f/pvp on"
+        ],
+        "ua": [
+            "§7Щоб два гравці могли завдавати один одному шкоди,",
+            "§7необхідно, що у них двох було включено режим PVP,",
+            "§7для цього необхідно написати команду §f/pvp on"
+        ],
+        "en": [
+            "§7So that two players can deal damage to each other,",
+            "§7they both need to have PVP mode enabled,",
+            "§7for this you need to type the command §f/pvp on"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_DONATE_KIT_NAME": {
+        "ru": "§bНаборы за золото",
+        "ua": "§bНабори за золото",
+        "en": "§bSets for gol"
+    },
+    "SURVIVAL_HELP_MENU_DONATE_KIT_DESCRIPTION": {
+        "ru": [
+            "§7Список вещей, которые можно забирать",
+            "§7бесконечно в течение всего вайпа, но",
+            "§7не чаще указанного времени",
+            "",
+            "§e▶ Нажмите, чтобы открыть список наборов"
+        ],
+        "ua": [
+            "§7Список речей, які можна забирати",
+            "§7нескінченно протягом усього вайпа, але",
+            "§7не частіше за вказаний час",
+            "",
+            "§e▶ Натисніть, щоб відкрити список наборів"
+        ],
+        "en": [
+            "§7List of things that can be collected",
+            "§7unlimitedly throughout the entire vipe, but",
+            "§7no more often than the specified time",
+            "",
+            "§e▶ Click to view the list of sets"
+        ]
+    },
+    "SURVIVAL_HELP_MENU_DEVELOPMENT_NAME": {
+        "ru": "§c???",
+        "ua": "§c???",
+        "en": "§c???"
+    },
+    "SURVIVAL_HELP_MENU_DEVELOPMENT_DESCRIPTION": {
+        "ru": "§7В разработке",
+        "ua": "§7В розробці",
+        "en": "§7In developing"
+    },
+    "PVP_ON_DESCRIPTION": {
+        "ru": "Включить PVP",
+        "ua": "Увімкнути PVP",
+        "en": "Enable PVP"
+    },
+    "PVP_OFF_DESCRIPTION": {
+        "ru": "Отключить PVP",
+        "ua": "Вимкнути PVP",
+        "en": "Disable PVP"
+    },
+    "PVP_STATUS_ON": {
+        "ru": "§aвключен",
+        "ua": "§aувімкнено",
+        "en": "§aenabled"
+    },
+    "PVP_STATUS_OFF": {
+        "ru": "§cвыключен",
+        "ua": "§cвимкнено",
+        "en": "§cdisabled"
+    },
+    "SURVIVAL_COMBAT_STATUS": {
+        "ru": [
+            "",
+            "$SURVIVAL_PREFIX$Режим PVP сейчас %s"
+        ],
+        "ua": [
+            "",
+            "$SURVIVAL_PREFIX$Режим PVP зараз %s"
+        ],
+        "en": [
+            "",
+            "$SURVIVAL_PREFIX$PVP mode is now %s"
+        ]
+    },
+    "SURVIVAL_COMBAT_ALREADY_ENABLED": {
+        "ru": "$SURVIVAL_PREFIX$Режим PVP уже включен!",
+        "ua": "$SURVIVAL_PREFIX$Режим PVP уже вімкнений!",
+        "en": "$SURVIVAL_PREFIX$PVP mode is already enabled!"
+    },
+    "SURVIVAL_COMBAT_ALREADY_DISABLED": {
+        "ru": "$SURVIVAL_PREFIX$Режим PVP уже отключен!",
+        "ua": "$SURVIVAL_PREFIX$Режим PVP уже вимкнений!",
+        "en": "$SURVIVAL_PREFIX$PVPmode is already disabled!"
+    },
+    "SURVIVAL_COMBAT_CHANGED_TO": {
+        "ru": "$SURVIVAL_PREFIX$Режим PVP %s",
+        "ua": "$SURVIVAL_PREFIX$Режим PVP %s",
+        "en": "$SURVIVAL_PREFIX$PVP mode %s"
+    },
+    "SURVIVAL_COMBAT_IS_DISABLED": {
+        "ru": "$SURVIVAL_PREFIX$У вас выключен режим PVP!",
+        "ua": "$SURVIVAL_PREFIX$У вас вимкнений режим PVP!",
+        "en": "$SURVIVAL_PREFIX$You have PVP mode disabled!"
+    },
+    "SURVIVAL_COMBAT_IS_DISABLED_ON_TARGET": {
+        "ru": "$SURVIVAL_PREFIX$У этого игрока выключен режим PVP!",
+        "ua": "$SURVIVAL_PREFIX$У цього гравця вимкнений режим PVP!",
+        "en": "$SURVIVAL_PREFIX$This player has PVP mode disabled!"
+    },
+    "BOARD_RACE": {
+        "ru": "Раса",
+        "ua": "Раса",
+        "en": "Race"
+    }
+}

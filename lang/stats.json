@@ -1,0 +1,138 @@
+{
+    "ALL_TIME_STATS_NAME": {
+        "ru": "Статистика за все время",
+        "ua": "Статистика за весь час",
+        "en": "All time statistics"
+    },
+    "BEDS_BREAKED_STAT": {
+        "ru": "Кроватей сломано",
+        "ua": "Ліжок зламано",
+        "en": "Beds broken"
+    },
+    "BEST_TIME_STAT": {
+        "ru": "Лучшее время",
+        "ua": "Кращий час",
+        "en": "The best time"
+    },
+    "CHESTS_LOOTED_STAT": {
+        "ru": "Облутано сундуков",
+        "ua": "Облутано скринь",
+        "en": "Chests covered"
+    },
+    "COINS_EARNED_PER_GAME_STAT": {
+        "ru": "Монет заработано",
+        "ua": "Монет зароблено",
+        "en": "Coins earned"
+    },
+    "EGGS_STAT": {
+        "ru": "Сломано яиц",
+        "ua": "Зламано яєць",
+        "en": "Eggs smashed"
+    },
+    "FINAL_KILLS_STAT": {
+        "ru": "Финальных убийств",
+        "ua": "Фінальних вбивств",
+        "en": "Final kills"
+    },
+    "GAMES_STAT": {
+        "ru": "Игр сыграно",
+        "ua": "Загальна кількість ігор",
+        "en": "Games played"
+    },
+    "GENERATOR_STAT": {
+        "ru": "Улучшено генераторов",
+        "ua": "Покращено генераторів",
+        "en": "Generators upgraded"
+    },
+    "INGAME_STATS_ENTRY": {
+        "ru": " §7• §f%s: §a%s",
+        "ua": " §7• §f%s: §a%s",
+        "en": " §7• §f%s: §a%s"
+    },
+    "INGAME_STATS_MESSAGES": {
+        "ru": [
+            "§6Статистика §8| §f%s %s §fна §e%s %s§f:"
+        ],
+        "ua": [
+            "§6Статистика §8| §f%s %s §fна §e%s %s§f:"
+        ],
+        "en": [
+            "§6Statistics §8| §f%s %s §fon §e%s %s§f:"
+        ]
+    },
+    "INGAME_STATS_MESSAGES_TITLE": {
+        "ru": [
+            " ",
+            " §cВНИМАНИЕ! §fБудет отображена статистика только",
+            " §fс текущего режима. Чтобы просматривать статистику",
+            " §fсо всех режимов, перейдите в лобби"
+        ],
+        "ua": [
+            " ",
+            " §cУВАГА! §fБуде відображена статистика тільки",
+            " §fз поточного режиму. Щоб переглядати статистику",
+            " §fз усіх режимів, перейдіть в лобі "
+        ],
+        "en": [
+            " ",
+            " §cATTENTION! §fOnly statistics of the current mode",
+            " §fwill be displayed. To view statistics",
+            " §ffrom all modes, go to the lobby"
+        ]
+    },
+    "MONTHLY_STATS_NAME": {
+        "ru": "Статистика за месяц",
+        "ua": "Статистика за місяць",
+        "en": "Monthly statistics"
+    },
+    "RATING_STAT": {
+        "ru": "Рейтинг",
+        "ua": "Рейтинг",
+        "en": "Rank"
+    },
+    "STATS_ENTRY": {
+        "ru": " §8▪ §7%s: §a%s",
+        "ua": " §8▪ §7%s: §a%s",
+        "en": " §8▪ §7%s: §a%s"
+    },
+    "STATS_FORMAT": {
+        "ru": "/stats <ник игрока>",
+        "ua": "/stats <нік гравця>",
+        "en": "/stats <player's nickname>"
+    },
+    "STATS_GUI_TITLE": {
+        "ru": "Профиль ▸ Статистика",
+        "ua": "Профіль ▸ Статистика",
+        "en": "Profile ▸ Statistics"
+    },
+    "STATS_GUI_TITLE_TARGET": {
+        "ru": "Статистика игрока %s",
+        "ua": "Статистика гравця %s",
+        "en": "Player's statistics %s"
+    },
+    "STATS_IS_NOT_LOADED": {
+        "ru": "§cОшибка, статистика не загружена",
+        "ua": "§cПомилка, статистика не завантажена",
+        "en": "§cError, statistics is not loaded"
+    },
+    "WINS_AS_HIDER_STAT": {
+        "ru": "Побед за прячущихся",
+        "ua": "Перемога за тих, що ховаються",
+        "en": "Wins for the hiding"
+    },
+    "WINS_AS_SEEKER_STAT": {
+        "ru": "Побед за искателей",
+        "ua": "Перемога за шукачів",
+        "en": "Wins for the seekers"
+    },
+    "WINS_STAT": {
+        "ru": "Побед",
+        "ua": "Перемог",
+        "en": "Wink"
+    },
+    "WIN_RATE_STATS": {
+        "ru": "Винрейт",
+        "ua": "Вінрейт",
+        "en": "Win rate"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "DO_FORMAT": {
+        "ru": "/do <сообщение>",
+        "ua": "/do <повідомлення>",
+        "en": "/do <message>"
+    },
+    "ME_FORMAT": {
+        "ru": "/me <сообщение>",
+        "ua": "/me <повідомлення>",
+        "en": "/me <message>"
+    },
+    "ROLL_BROADCAST": {
+        "ru": "§6Creative §8| §fИгроку %s §fвыпало число §a%s §fиз §e%s",
+        "ua": "§6Creative §8| §fГравцю %s §fвипало число §a%s §fз §e%s",
+        "en": "§6Creative §8| §fPlayer %s §fhas received number §a%s §ffrom §e%s"
+    },
+    "TRY_FORMAT": {
+        "ru": "/try <сообщение>",
+        "ua": "/try <повідомлення>",
+        "en": "/try <message>"
+    }
+}

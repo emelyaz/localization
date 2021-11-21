@@ -1,0 +1,62 @@
+{
+    "ALCHEMIST_ITEM_BOX_KIT": {
+        "ru": "Алхимик",
+        "ua": "Алхімік",
+        "en": "Alchemist"
+    },
+    "ARCHAROLOGIST_ITEM_BOX_KIT": {
+        "ru": "Археолог",
+        "ua": "Археолог",
+        "en": "Archaeologist"
+    },
+    "ARCHMAGE_ITEM_BOX_KIT": {
+        "ru": "Архимаг",
+        "ua": "Архімаг",
+        "en": "Archimage"
+    },
+    "DIAMOND_PLAYER_ITEM_BOX_KIT": {
+        "ru": "Алмазный человек",
+        "ua": "Діамантова людина",
+        "en": "Diamond man"
+    },
+    "FARMER_ITEM_BOX_KIT": {
+        "ru": "Фермер",
+        "ua": "Фермер",
+        "en": "Farmer"
+    },
+    "KIT_BOX": {
+        "ru": "набор вещей",
+        "ua": "набір речей",
+        "en": "set of things"
+    },
+    "MASON_ITEM_BOX_KIT": {
+        "ru": "Каменщик",
+        "ua": "Каменщик",
+        "en": "Mason"
+    },
+    "MINER_ITEM_BOX_KIT": {
+        "ru": "Шахтер",
+        "ua": "Шахтер",
+        "en": "Miner"
+    },
+    "MUSIC_ITEM_BOX_KIT": {
+        "ru": "Музыкант",
+        "ua": "Музикант",
+        "en": "Musician"
+    },
+    "RAINBOW_ITEM_BOX_KIT": {
+        "ru": "Радужный",
+        "ua": "Райдужний",
+        "en": "Rainbow"
+    },
+    "REDSTONE_ITEM_BOX_KIT": {
+        "ru": "Редстоунер",
+        "ua": "Редстоунер",
+        "en": "Redstoner"
+    },
+    "WATER_ITEM_BOX_KIT": {
+        "ru": "Посейдон",
+        "ua": "Посейдон",
+        "en": "Poseidon"
+    }
+}

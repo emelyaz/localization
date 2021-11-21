@@ -1,0 +1,3641 @@
+{
+    "ABSENT": {
+        "ru": "Отсутствует"
+    },
+    "JANUARY": {
+        "ru": "Январь"
+    },
+    "FEBRUARY": {
+        "ru": "Февраль"
+    },
+    "MARCH": {
+        "ru": "Март"
+    },
+    "APRIL": {
+        "ru": "Апрель"
+    },
+    "MAY": {
+        "ru": "Май"
+    },
+    "JUNE": {
+        "ru": "Июнь"
+    },
+    "JULY": {
+        "ru": "Июль"
+    },
+    "AUGUST": {
+        "ru": "Август"
+    },
+    "OCTOBER": {
+        "ru": "Октябрь"
+    },
+    "NOVEMBER": {
+        "ru": "Ноябрь"
+    },
+    "SEPTEMBER": {
+        "ru": "Сентябрь"
+    },
+    "DECEMBER": {
+        "ru": "Декабрь"
+    },
+    "ANSWER_YES": {
+        "ru": "Да",
+        "ua": "Так",
+        "en": "Yes"
+    },
+    "ANSWER_NO": {
+        "ru": "Нет",
+        "ua": "Ні",
+        "en": "No"
+    },
+    "ACCEPT": {
+        "ru": "Подтвердить"
+    },
+    "AFK": {
+        "ru": "§cНе стой на месте!"
+    },
+    "BALANCE": {
+        "ru": "§6Баланс §8| §fНа вашем аккаунте %s"
+    },
+    "CAGE": {
+        "ru": "клетка"
+    },
+    "ANARCHY_PREFIX": {
+        "ru": "§6Anarchy §8| §f"
+    },
+    "SB_PREFIX": {
+        "ru": "§6SkyBlock §8| §f"
+    },
+    "CREATIVE_PREFIX": {
+        "ru": "§6Creative §8| §f"
+    },
+    "COMMON": {
+        "ru": "Обычный"
+    },
+    "CONVERT": {
+        "ru": "§6Магазин §8| §fВы успешно обменяли §e%s §fзолота на §a%s §fмонет"
+    },
+    "COOLDOWN": {
+        "ru": "§cПодождите %s %s перед следующим использованием"
+    },
+    "DISABLE": {
+        "ru": "Отключено"
+    },
+    "DISABLED": {
+        "ru": "Отключены"
+    },
+    "DISPELL": {
+        "ru": "Чары с предмета были удалены"
+    },
+    "ENABLE": {
+        "ru": "Включено"
+    },
+    "ENABLED": {
+        "ru": "Включены"
+    },
+    "ENCHANTED": {
+        "ru": "Зачарованное"
+    },
+    "EPIC": {
+        "ru": "Эпический"
+    },
+    "ETERNITY": {
+        "ru": "вечность"
+    },
+    "FREE": {
+        "ru": "Бесплатно"
+    },
+    "FURNACE": {
+        "ru": "Печка"
+    },
+    "FW": {
+        "ru": "§aСалют!"
+    },
+    "GAMEMODE": {
+        "ru": "$@MODE_PREFIX$Установлен режим - §c%s"
+    },
+    "GROUP": {
+        "ru": "Статус"
+    },
+    "HIDE": {
+        "ru": "Скрыт"
+    },
+    "HOVER": {
+        "ru": " §7(наведи сюда)"
+    },
+    "INDEFINITELY": {
+        "ru": "бессрочно"
+    },
+    "ITEMDB": {
+        "ru": "Предмет §a%s"
+    },
+    "KIT": {
+        "ru": "набор"
+    },
+    "LEGENDARY": {
+        "ru": "Легендарный"
+    },
+    "LEVEL": {
+        "ru": "уровень"
+    },
+    "LIST": {
+        "ru": [
+            "",
+            "§6Сервер §8| §fНа режиме %s",
+            " §a▪ §fКрутые ребята: %s",
+            " §a▪ §fИгроки: %s",
+            " §a▪ §fДонатеры: %s",
+            " §a▪ §fАдминистрация: %s",
+            ""
+        ]
+    },
+    "LOADING": {
+        "ru": "§cЗагружается..."
+    },
+    "NEAR": {
+        "ru": "$@MODE_PREFIX$Ближайщие игроки: %s"
+    },
+    "NONE": {
+        "ru": "Без редкости"
+    },
+    "PERK": {
+        "ru": "умение"
+    },
+    "PING": {
+        "ru": "§6Сервер §8| §fВаш пинг §a%s §fms"
+    },
+    "RARE": {
+        "ru": "Редкий"
+    },
+    "RARITY": {
+        "ru": "Редкость"
+    },
+    "REMOVED": {
+        "ru": "§cУдалено"
+    },
+    "RESTART": {
+        "ru": "Рестарт сервера через"
+    },
+    "SKIN": {
+        "ru": "скин магазина"
+    },
+    "SOUND": {
+        "ru": "звук"
+    },
+    "SUICIDE": {
+        "ru": "$@MODE_PREFIX$Вы покончили жизнь самоубийством"
+    },
+    "TITLE": {
+        "ru": "Титул"
+    },
+    "UNKNOWN": {
+        "ru": "Неизвестно"
+    },
+    "SERVER_UPDATED_MOTD": {
+        "ru": [
+            "§cСервер был обновлен до новой версии!",
+            "§cОбновите Вашу игру до версии §b1.12-1.17.x id246287"
+        ]
+    },
+    "VK": {
+        "ru": "§6VK-bot §8| §fК вашему аккаунту привязан профиль §7vk.com/id%s"
+    },
+    "WARPINFO": {
+        "ru": "§fИнформация про варп §c%s§f, владелец - %s§f, дата создания - §a%s"
+    },
+    "ITEMS_LOBBY_DISABLE_LORE": {
+        "ru": [
+            "§7Нажмите, чтобы включить"
+        ],
+        "ua": [
+            "§7Натисніть, щоб увімкнути"
+        ],
+        "en": [
+            "§7Click to enable"
+        ]
+    },
+    "ITEMS_LOBBY_ENABLE_LORE": {
+        "ru": [
+            "§7Нажмите, чтобы отключить"
+        ],
+        "ua": [
+            "§7Натисніть, щоб відімкнути"
+        ],
+        "en": [
+            "§7Click to disable"
+        ]
+    },
+    "ACCEPT_LORE_NO": {
+        "ru": [
+            "",
+            "§7Отменить действие"
+        ],
+        "ua": [
+            "",
+            "§7Скасувати дію"
+        ],
+        "en": [
+            "",
+            "§7Undo action"
+        ]
+    },
+    "ACHIEVEMENT_COMPLETE": {
+        "ru": "§a§l§kX§r §6§lАЧИВКА ВЫПОЛНЕНА §a§l§kX§r",
+        "ua": "§a§l§kX§r §6§lАЧІВКА ВИКОНАНА §a§l§kX§r",
+        "en": "§a§l§kX§r §6§lACHIEVEMENT COMPLETED §a§l§kX§r"
+    },
+    "ACHIEVEMENT_DONE": {
+        "ru": "§eВыполнено",
+        "ua": "§eВиконано",
+        "en": "§eCompleted"
+    },
+    "ACHIEVEMENT_NO_DONE": {
+        "ru": "§cНе выполнено",
+        "ua": "§cНе виконано",
+        "en": "§cUncompleted"
+    },
+    "ACHIEVEMENT_PERCENT": {
+        "ru": "§7Выполнено: §c%s",
+        "ua": "§7Виконано: §c%s",
+        "en": "§7Completed: §c%s"
+    },
+    "ACTIVE_BOOSTER_EXPIRE_TIME_LORE": {
+        "ru": [
+            "§7Истекает через:"
+        ],
+        "ua": [
+            "§7Завершується через:"
+        ],
+        "en": [
+            "§7Expires in:"
+        ]
+    },
+    "ACTIVE_BOOSTER_REMOVE": {
+        "ru": "Отключение бустера",
+        "ua": "Вимкнення бустера",
+        "en": "Disabling the booster"
+    },
+    "ACTIVE_BOOSTER_REMOVE_CONFIRMATION_LORE": {
+        "ru": [
+            " ",
+            "§7Вы уверены, что хотите",
+            "§7отключить этот бустер ?",
+            " ",
+            "§cЭто действие необратимо"
+        ],
+        "ua": [
+            " ",
+            "§7Ви впевнені, що хочете",
+            "§7вимкнути цей бустер?",
+            " ",
+            "§cЦя дія не є зворотньою"
+        ],
+        "en": [
+            " ",
+            "§7Are you sure you want to",
+            "§7disable this booster?",
+            " ",
+            "§cThis action is irreversible"
+        ]
+    },
+    "ACTIVE_BOOSTER_REMOVE_LORE": {
+        "ru": [
+            " §e▸ Нажмите, чтобы отключить бустера досрочно",
+            " ",
+            "§c§lВнимание! §cЕсли Вы отключите бустер,",
+            "§cто он будет просто удален"
+        ],
+        "ua": [
+            " §e▸ Натисніть, щоб відключити бустер достроково",
+            " ",
+            "§c§lУвага! §cЯкщо ви вимкнете бустер,",
+            "§cто він буде просто видалений"
+        ],
+        "en": [
+            " §e▸ Click to disable the booster ahead of schedule",
+            " ",
+            "§c§lAttention! §cIf you disable the booster,",
+            "§cit'll be removed"
+        ]
+    },
+    "ADMINS_GUI_MAIN_LORE": {
+        "ru": [
+            " ",
+            "§7Администраторов:",
+            "§a%s"
+        ],
+        "ua": [
+            " ",
+            "§7Адміністраторів:",
+            "§a%s"
+        ],
+        "en": [
+            " ",
+            "§7Administrators:",
+            "§a%s"
+        ]
+    },
+    "ADVENTURE_MODE": {
+        "ru": "Приключенческий",
+        "ua": "Пригодницький",
+        "en": "Adventure"
+    },
+    "ALERT_COOLDOWN": {
+        "ru": "§cОшибка, писать сообщения в общий чат можно раз в минуту",
+        "ua": "§cПомилка, писати повідомлення в загальний чат можна раз на хвилину",
+        "en": "§cError, you can write messages to the general chat once a minute"
+    },
+    "ALERT_FORMAT": {
+        "ru": "/alert <сообщение>",
+        "ua": "/alert <повідомлення>",
+        "en": "/alert <message>"
+    },
+    "ALREADY_AT_LOBBY": {
+        "ru": "§cВы уже в главном лобби",
+        "ua": "§cВи вже в головному лобі",
+        "en": "§cYou are already at the main lobby"
+    },
+    "ALREADY_ON_SERVER": {
+        "ru": "§6Сервер §8| §cВы уже находитесь на этом сервере!",
+        "ua": "§6Сервер §8| §cВи вже знаходитесь на цьому сервері!",
+        "en": "§6Server §8| §cYou are already on this server!"
+    },
+    "ARCADE_LOBBY_BOARD_STATS": {
+        "ru": "§7[Общая статистика]",
+        "ua": "§7[Загальна статистика]",
+        "en": "§7[Total stats]"
+    },
+    "AVAILABLE_SERVER_NOT_FOUND": {
+        "ru": "$SERVER_PREFIX$Не удалось найти подходящий сервер",
+        "ua": "§6Сервер §8| §fНе вдалося знайти відповідний сервер",
+        "en": "§6Server §8| §fCould not find a suitable server"
+    },
+    "BBD_GAME_DESC": {
+        "ru": [
+            "Ваша задача построить лучшую постройку",
+            "на заданную тему за 5 минут. После окончания",
+            "отведенного на строительство времени,",
+            "начнется голосование, где Вас оценят!"
+        ],
+        "ua": [
+            "Ваше завдання побудувати кращу споруду",
+            "на задану тему за 5 хвилин. Після закінчення",
+            "відведеного на будівництво часу,",
+            "почнеться голосування, де вас оцінять!"
+        ],
+        "en": [
+            "Your task is to build the best building",
+            "on a given topic in 5 minutes. After the end of",
+            "the allotted time for construction,",
+            "voting will begin, where you will be evaluated!"
+        ]
+    },
+    "BBS_GAME_DESC": {
+        "ru": [
+            "Ваша задача построить лучшую постройку",
+            "на заданную тему за 7 минут. После окончания",
+            "отведенного на строительство времени,",
+            "начнется голосование, где Вас оценят!"
+        ],
+        "ua": [
+            "Ваше завдання побудувати кращу споруду",
+            "на задану тему за 5 хвилин. Після закінчення",
+            "відведеного на будівництво часу,",
+            "почнеться голосування, де вас оцінять!"
+        ],
+        "en": [
+            "Your task is to build the best building",
+            "on a given topic in 7 minutes. After the end of",
+            "the allotted time for construction,",
+            "voting will begin, where you will be evaluated!"
+        ]
+    },
+    "BEDWARS_DUO_TYPE": {
+        "ru": "§eПарный режим",
+        "ua": "§eПарний режим",
+        "en": "§ePair mode"
+    },
+    "BEDWARS_RANKED_TYPE": {
+        "ru": "§eРейтинговый режим",
+        "ua": "§eРейтинговий режим",
+        "en": "§eRank mode"
+    },
+    "BEDWARS_SOLO_TYPE": {
+        "ru": "§eОдиночный режим",
+        "ua": "§eОдиночный режим",
+        "en": "§eSingle mode"
+    },
+    "BEDWARS_TEAM_TYPE": {
+        "ru": "§eКомандный режим",
+        "ua": "§eКомандний режим",
+        "en": "§eTeam mode"
+    },
+    "BOARD_ACHIEVEMENT": {
+        "ru": "§fВыполнено достижений",
+        "ua": "Виконано досягнень",
+        "en": "Achievements completed"
+    },
+    "BOARD_AIRDROP": {
+        "ru": "§fСобрано ящиков",
+        "ua": "Зібрано скринь",
+        "en": "Chests gathered"
+    },
+    "BOARD_BALANCE": {
+        "ru": "§fБаланс",
+        "ua": "Баланс",
+        "en": "Balance"
+    },
+    "BOARD_BED": {
+        "ru": "§fКровать",
+        "ua": "Ліжко",
+        "en": "Bed"
+    },
+    "BOARD_BORDERTIME": {
+        "ru": "§fСужение границ",
+        "ua": "Звуження меж",
+        "en": "Narrowing margins"
+    },
+    "BOARD_BREAK_BEDS": {
+        "ru": "§fСломано кроватей",
+        "ua": "Зломано ліжок",
+        "en": "Beds broken"
+    },
+    "BOARD_BREAK_EGGS": {
+        "ru": "§fУничтожено яиц",
+        "ua": "Знищено яєць",
+        "en": "Eggs destroyed"
+    },
+    "BOARD_BUSTER": {
+        "ru": "§fАктивный бустер",
+        "ua": "Активний бустер",
+        "en": "Active booster"
+    },
+    "BOARD_CHEST": {
+        "ru": "§fСундуков",
+        "ua": "Скринь",
+        "en": "Chests"
+    },
+    "BOARD_COLOR": {
+        "ru": "§fЦвет",
+        "ua": "Колір",
+        "en": "Color"
+    },
+    "BOARD_DEATH": {
+        "ru": "§fСмертей",
+        "ua": "Смертей",
+        "en": "Deaths"
+    },
+    "BOARD_DISCORD": {
+        "ru": "§fДискорд",
+        "ua": "Дискорд",
+        "en": "Discord"
+    },
+    "BOARD_DUST": {
+        "ru": "§fПыли",
+        "ua": "Пилу",
+        "en": "Dust"
+    },
+    "BOARD_EGG": {
+        "ru": "§fЯйцо",
+        "ua": "Яйце",
+        "en": "Egg"
+    },
+    "BOARD_FINAL_KILLS": {
+        "ru": "§fФинальных убийств",
+        "ua": "Фінальных вбивств",
+        "en": "Final kills"
+    },
+    "BOARD_FOR_START": {
+        "ru": "§fДля старта нужно",
+        "ua": "Для старту потрібно",
+        "en": "Needed for start"
+    },
+    "BOARD_GAME_STATS": {
+        "ru": "§fСтатистика",
+        "ua": "Статистика",
+        "en": "Statistics"
+    },
+    "BOARD_GLOBAL_ONLINE": {
+        "ru": "§fОнлайн проекта",
+        "ua": "Онлайн проекту",
+        "en": "Online project"
+    },
+    "BOARD_GOLD": {
+        "ru": "§fЗолота",
+        "ua": "Золота",
+        "en": "Gold"
+    },
+    "BOARD_GROUP": {
+        "ru": "§fВаш ранг",
+        "ua": "Ваш ранг",
+        "en": "Your rank"
+    },
+    "BOARD_ISLAND_YOU": {
+        "ru": "§fВаш остров",
+        "ua": "Ваш острів",
+        "en": "Your island"
+    },
+    "BOARD_KILLS": {
+        "ru": "§fУбийств",
+        "ua": "Убивств",
+        "en": "Kills"
+    },
+    "BOARD_LEVEL": {
+        "ru": "§fУровень",
+        "ua": "Рівень",
+        "en": "Level"
+    },
+    "BOARD_LEVEL_ISLAND": {
+        "ru": "§fУровень острова",
+        "ua": "Рівень острова",
+        "en": "Island level"
+    },
+    "BOARD_LIFE_COUNT": {
+        "ru": "§fЖизней",
+        "ua": "Життів",
+        "en": "Lives"
+    },
+    "BOARD_MAPS": {
+        "ru": "§fКарта",
+        "ua": "Карта",
+        "en": "Map"
+    },
+    "BOARD_MEMBER_ISLAND": {
+        "ru": "§fКол-во участников",
+        "ua": "Кількість учасників",
+        "en": "Members amount"
+    },
+    "BOARD_MOBS": {
+        "ru": "§fУбито мобов",
+        "ua": "Вбито мобів",
+        "en": "Mobs killed"
+    },
+    "BOARD_MODE": {
+        "ru": "§fРежим",
+        "ua": "Режим",
+        "en": "Mode"
+    },
+    "BOARD_MODULE": {
+        "ru": "§fМодуль",
+        "ua": "Модуль",
+        "en": "Module"
+    },
+    "BOARD_MONEY": {
+        "ru": "§fМонет",
+        "ua": "Копійок",
+        "en": "Coins"
+    },
+    "BOARD_NA": {
+        "ru": "§fНе выбрано",
+        "ua": "Не обрано",
+        "en": "Not chosen"
+    },
+    "BOARD_NO_BUSTER": {
+        "ru": "§c▻ §7Активного бустера нет",
+        "ua": "§c▻ §7Активного бустера немає",
+        "en": "§c▻ §7No active booster"
+    },
+    "BOARD_NO_ISLAND1": {
+        "ru": "§fОстров не найден!",
+        "ua": "Острів не знайден!",
+        "en": "Island not found!"
+    },
+    "BOARD_NO_ISLAND2": {
+        "ru": "§fпишите - §7/island create",
+        "ua": "пишіть - §7/island create",
+        "en": "write - §7/island create"
+    },
+    "BOARD_ONLINE": {
+        "ru": "§fОнлайн",
+        "ua": "Онлайн",
+        "en": "Online"
+    },
+    "BOARD_ON_ISLAND": {
+        "ru": "§fВы на острове",
+        "ua": "Ви на острові",
+        "en": "You are on the island"
+    },
+    "BOARD_OUR_TEAM": {
+        "ru": "§fВаша команда",
+        "ua": "Ваша команда",
+        "en": "Your team"
+    },
+    "BOARD_OWNER": {
+        "ru": "§fВладелец",
+        "ua": "Власник",
+        "en": "Owner"
+    },
+    "BOARD_PERK": {
+        "ru": "§fУмение",
+        "ua": "Уміння",
+        "en": "Skill"
+    },
+    "BOARD_PLAYERS": {
+        "ru": "§fИгроков",
+        "ua": "Гравців",
+        "en": "Players"
+    },
+    "BOARD_POINTS": {
+        "ru": "§fОчков",
+        "ua": "Очок",
+        "en": "Points"
+    },
+    "BOARD_RANK_YOU": {
+        "ru": "§fВаш ранг",
+        "ua": "Ваш ранг",
+        "en": "Your rank"
+    },
+    "BOARD_REGION": {
+        "ru": "§fРегион",
+        "ua": "Регіон",
+        "en": "Region"
+    },
+    "BOARD_REGIONS": {
+        "ru": "§fКол-во приватов",
+        "ua": "Кількість приватів",
+        "en": "Amount of privates"
+    },
+    "BOARD_SERVER": {
+        "ru": "§fСервер",
+        "ua": "Сервер",
+        "en": "Server"
+    },
+    "BOARD_SHOP": {
+        "ru": "§fМагазин",
+        "ua": "Магазин",
+        "en": "Shop"
+    },
+    "BOARD_SPECTATOR": {
+        "ru": "§fНаблюдателей",
+        "ua": "Спостерігачів",
+        "en": "Spectators"
+    },
+    "BOARD_STATS": {
+        "ru": "§fПодробнее",
+        "ua": "Детальніше",
+        "en": "Detailes"
+    },
+    "BOARD_TEAMS": {
+        "ru": "§fКоманды",
+        "ua": "Команди",
+        "en": "Teams"
+    },
+    "BOARD_TIME": {
+        "ru": "§fВремя",
+        "ua": "Час",
+        "en": "Time"
+    },
+    "BOARD_TIME_TO_DM": {
+        "ru": "§fВремя до дезматча",
+        "ua": "Час до дезматчу",
+        "en": "Time until deathmatch"
+    },
+    "BOARD_TOTAL_BED": {
+        "ru": "§fСломано кроватей",
+        "ua": "Зломано ліжок",
+        "en": "Beds broken"
+    },
+    "BOARD_TOTAL_EGG": {
+        "ru": "§fСломано яиц",
+        "ua": "Розбито яєць",
+        "en": "Eggs broken"
+    },
+    "BOARD_TOTAL_GAMES": {
+        "ru": "§fСыграно игр",
+        "ua": "Зіграно ігор",
+        "en": "Games played"
+    },
+    "BOARD_TOTAL_GEN": {
+        "ru": "§fУлучшено генераторов",
+        "ua": "Покращено генераторів",
+        "en": "Generators improved"
+    },
+    "BOARD_TOTAL_KILLS": {
+        "ru": "§fВсего убийств",
+        "ua": "Всього вбивств",
+        "en": "Total kills"
+    },
+    "BOARD_TOTAL_LUCKYBLOCKS": {
+        "ru": "§fСломано блоков",
+        "ua": "Зломано блоків",
+        "en": "Blocks broken"
+    },
+    "BOARD_TOTAL_MID_LUCKYBLOCKS": {
+        "ru": "§fСломано мидовых блоков",
+        "ua": "Зломано мидових блоків",
+        "en": "Mid blocks broken"
+    },
+    "BOARD_TOTAL_WINS": {
+        "ru": "§fВсего побед",
+        "ua": "Усього перемог",
+        "en": "Total wins"
+    },
+    "BOARD_TO_START": {
+        "ru": "§fСтарт через",
+        "ua": "Старт через",
+        "en": "Start in"
+    },
+    "BOARD_UPGRADE": {
+        "ru": "§fУлучшений",
+        "ua": "Покращень",
+        "en": "Upgrades"
+    },
+    "BOARD_VK": {
+        "ru": "§fВКонтакте",
+        "ua": "ВКонтакте",
+        "en": "VKontakte"
+    },
+    "BOARD_WAIT": {
+        "ru": "§fОжидание игроков",
+        "ua": "Очікування гравців",
+        "en": "Waiting for players"
+    },
+    "BOOK_RULES_LORE": {
+        "ru": [
+            "§7Используйте этот предмет,",
+            "§7чтобы прочесть краткий свод правил",
+            "§7для игры на сервере"
+        ],
+        "ua": [
+            "§7Використовуйте цей предмет,",
+            "§7щоб прочитати короткий звід правил",
+            "§7для гри на сервері"
+        ],
+        "en": [
+            "§7Use this item",
+            "§7to read a quick set of rules",
+            "§7for playing on the server"
+        ]
+    },
+    "BOOK_RULES_NAME": {
+        "ru": "§eПравила",
+        "ua": "§eПравила",
+        "en": "§eRules"
+    },
+    "BWD_GAME_DESC": {
+        "ru": [
+            "Вам необходимо уничтожить команды противников раньше,",
+            "чем они вас! Пока у команды есть кровать — команда возрождается.",
+            "Сломайте её у противника и защитите свою!"
+        ],
+        "ua": [
+            "Вам необхідно знищити команди супротивників раніше,",
+            "ніж вони вас! Поки у команди є ліжко - команда відроджується.",
+            "Зламайте її у супротивника і захистіть свою!"
+        ],
+        "en": [
+            "You need to destroy the opposing teams earlier",
+            "than they destroy you! As long as the team has a bed, the team can be reborn.",
+            "Break you enemies' bed and defend yours!"
+        ]
+    },
+    "BWR_GAME_DESC": {
+        "ru": [
+            "Вам необходимо уничтожить команды противников раньше,",
+            "чем они вас! Пока у команды есть кровать — команда возрождается.",
+            "Сломайте её у противника и защитите свою!"
+        ],
+        "ua": [
+            "Вам необхідно знищити команди супротивників раніше,",
+            "ніж вони вас! Поки у команди є ліжко - команда відроджується.",
+            "Зламайте її у супротивника і захистіть свою!"
+        ],
+        "en": [
+            "You need to destroy the opposing teams earlier",
+            "than they destroy you! As long as the team has a bed, the team can be reborn.",
+            "Break you enemies' bed and defend yours!"
+        ]
+    },
+    "BWS_GAME_DESC": {
+        "ru": [
+            "Вам необходимо уничтожить команды противников раньше,",
+            "чем они вас! Пока у команды есть кровать — команда возрождается.",
+            "Сломайте её у противника и защитите свою!"
+        ],
+        "ua": [
+            "Вам необхідно знищити команди супротивників раніше,",
+            "ніж вони вас! Поки у команди є ліжко - команда відроджується.",
+            "Зламайте її у супротивника і захистіть свою!"
+        ],
+        "en": [
+            "You need to destroy the opposing teams earlier",
+            "than they destroy you! As long as the team has a bed, the team can be reborn.",
+            "Break you enemies' bed and defend yours!"
+        ]
+    },
+    "BWT_GAME_DESC": {
+        "ru": [
+            "Вам необходимо уничтожить команды противников раньше,",
+            "чем они вас! Пока у команды есть кровать — команда возрождается.",
+            "Сломайте её у противника и защитите свою!"
+        ],
+        "ua": [
+            "Вам необхідно знищити команди супротивників раніше,",
+            "ніж вони вас! Поки у команди є ліжко - команда відроджується.",
+            "Зламайте її у супротивника і захистіть свою!"
+        ],
+        "en": [
+            "You need to destroy the opposing teams earlier",
+            "than they destroy you! As long as the team has a bed, the team can be reborn.",
+            "Break you enemies' bed and defend yours!"
+        ]
+    },
+    "CANCEL_NAME": {
+        "ru": "§cОтменить",
+        "ua": "§cСкасувати",
+        "en": "§cCancel"
+    },
+    "CANT_MESSAGE_YOURSELF": {
+        "ru": "§cВы не можете написать самому себе",
+        "ua": "§cВи не можете написати самому собі",
+        "en": "§cYou cannot write to yourself"
+    },
+    "CATEGORIES_ITEM_LORE": {
+        "ru": [
+            "§7Кликните, чтобы выбрать предметы"
+        ],
+        "ua": [
+            "§7Натисніть, щоб вибрати предмети"
+        ],
+        "en": [
+            "§7Click to choose items"
+        ]
+    },
+    "CATEGORIES_ITEM_NAME": {
+        "ru": "§eПредметы",
+        "ua": "§eПредмети",
+        "en": "§eItems"
+    },
+    "CATEGORY_BREAK_EFFECT_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет установить кастомный",
+            "§7эффект, который увидят",
+            "§7все ближайшие игроки, если вы",
+            "§7сломаете вражескую кровать или яйцо"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє встановити кастомний",
+            "§7ефект, який побачать",
+            "§7всі найближчі гравці, якщо ви",
+            "§7зламаєте вороже ліжко або яйце"
+        ],
+        "en": [
+            "",
+            "§7Allows you to install a custom",
+            "§7effect, which will be seen",
+            "§7by all nearest players if you",
+            "§7break an enemy's bed or egg"
+        ]
+    },
+    "CATEGORY_BREAK_EFFECT_NAME": {
+        "ru": "Эффект сломаной кровати/яйца",
+        "ua": "Ефект зламаного ліжка/яйця",
+        "en": "Broken bed/egg effect"
+    },
+    "CATEGORY_CAGE_LORE": {
+        "ru": [
+            " ",
+            "§7Надоело появляться в обычной клетке?",
+            "§7Это легко исправить! Выбери свою новую",
+            "§7клетку прямо сейчас, чтобы выделяться",
+            "§7среди других игроков"
+        ],
+        "ua": [
+            " ",
+            "§7Набридло з'являтися в звичайній клітці?",
+            "§7Це легко виправити! Обери свою нову",
+            "§7клітку прямо зараз, щоб виділятися",
+            "§7серед інших гравців"
+        ],
+        "en": [
+            " ",
+            "§7Tired of appearing in a simple cage?",
+            "§7It's easy to fix! Choose your new",
+            "§7cage right now to stand out",
+            "§7from other players"
+        ]
+    },
+    "CATEGORY_CAGE_NAME": {
+        "ru": "Клетки",
+        "ua": "Клітки",
+        "en": "Cages"
+    },
+    "CATEGORY_CLICK_TO_VIEW_ITEMS": {
+        "ru": [
+            " ",
+            "§e▸ Нажмите, чтобы открыть"
+        ],
+        "ua": [
+            " ",
+            "§e▸ Натисніть, щоб відкрити"
+        ],
+        "en": [
+            " ",
+            "§e▸ Click to open"
+        ]
+    },
+    "CATEGORY_HNS_MASK_LORE": {
+        "ru": [
+            " ",
+            "§7Выбор блока, которым Вы станете",
+            "§7если получите роль прячущегося"
+        ],
+        "ua": [
+            " ",
+            "§7Вибір блоку, яким ви станете",
+            "§7якщо отримаєте роль того, хто ховається"
+        ],
+        "en": [
+            " ",
+            "§7Choose a block, which you'll turn into",
+            "§7if you get the role of a hider"
+        ]
+    },
+    "CATEGORY_HNS_MASK_NAME": {
+        "ru": "Маскировка",
+        "ua": "Маскування",
+        "en": "Disguise"
+    },
+    "CATEGORY_KIT_LORE": {
+        "ru": [
+            " ",
+            "§7Выбор вещей, которые Вы получаете",
+            "§7в начале игры. Множество различных",
+            "§7вариантов, выбери свой!"
+        ],
+        "ua": [
+            " ",
+            "§7Вибір речей, які ви отримуєте",
+            "§7на початку гри. Безліч різних",
+            "§7варіантів, обери свій!"
+        ],
+        "en": [
+            " ",
+            "§7Choose items, which you are getting",
+            "§7at the beginning of the game. Many different",
+            "§7choices, choose yours!"
+        ]
+    },
+    "CATEGORY_KIT_NAME": {
+        "ru": "Наборы",
+        "ua": "Набори",
+        "en": "Sets"
+    },
+    "CATEGORY_PERK_LORE": {
+        "ru": [
+            " ",
+            "§7Умения дают различные способности,",
+            "§7которые могут очень помочь в бою."
+        ],
+        "ua": [
+            " ",
+            "§7Вміння дають різні здібності,",
+            "§7які можуть дуже допомогти в бою."
+        ],
+        "en": [
+            " ",
+            "§7Skills give various abilities,",
+            "§7which can be very helpful in a battle."
+        ]
+    },
+    "CATEGORY_PERK_NAME": {
+        "ru": "Умения",
+        "ua": "Вміння",
+        "en": "Skills"
+    },
+    "CATEGORY_SKIN_LORE": {
+        "ru": [
+            " ",
+            "§7Позволяет заменить дефолтный скин",
+            "§7магазина (NPC)"
+        ],
+        "ua": [
+            " ",
+            "§7Дозволяє замінити дефолтний скін",
+            "§7магазину (NPC)"
+        ],
+        "en": [
+            " ",
+            "§7Allows you to replace the default skin",
+            "§7of the store (NPC)"
+        ]
+    },
+    "CATEGORY_SKIN_NAME": {
+        "ru": "Скины магазина",
+        "ua": "Скіни магазину",
+        "en": "Store skins"
+    },
+    "CATEGORY_SKIN_UPGRADE_LORE": {
+        "ru": [
+            " ",
+            "§7Позволяет заменить дефолтный скин",
+            "§7магазина с улучшениями (NPC)"
+        ],
+        "ua": [
+            " ",
+            "§7Дозволяє замінити дефолтний скін",
+            "§7магазина з поліпшеннями (NPC)"
+        ],
+        "en": [
+            " ",
+            "§7Allows you to replace the default skin",
+            "§7of the store with improvements (NPC)"
+        ]
+    },
+    "CATEGORY_SKIN_UPGRADE_NAME": {
+        "ru": "Скины магазина улучшений",
+        "ua": "Скіни магазину поліпшень",
+        "en": "Store with improvements skins"
+    },
+    "CATEGORY_SOUND_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет установить кастомный",
+            "§7звук, который услышат",
+            "§7все игроки сервера, если вы",
+            "§7сломаете вражескую кровать или яйцо"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє встановити кастомний",
+            "§7звук, який почують",
+            "§7всі гравці сервера, якщо ви",
+            "§7зламаєте вороже ліжко або яйце"
+        ],
+        "en": [
+            "",
+            "§7Allows you to install a custom",
+            "§7sound, which will be heard",
+            "§7by all server players if you",
+            "§7break an enemy's bed or egg"
+        ]
+    },
+    "CATEGORY_SOUND_NAME": {
+        "ru": "Звук сломаной кровати/яйца",
+        "ua": "Звук зламаного ліжка/яйця",
+        "en": "Broken bed/egg sound"
+    },
+    "CHOSEN_ITEM_IS": {
+        "ru": "§7Выбрано: §a%s",
+        "ua": "§7Обрано: §a%s",
+        "en": "§7Chosen: §a%s"
+    },
+    "CLICK_TO_CHANGE_PRIORITY": {
+        "ru": [
+            "§e▸ ЛКМ, чтобы ⤴ приоритет на 1 ед.",
+            "§e▸ ПКМ, чтобы ⤵ приоритет на 1 ед."
+        ],
+        "ua": [
+            "§e▸ ЛКМ, щоб ⤴ пріорітет на 1 од.",
+            "§e▸ ПКМ, щоб ⤵ пріорітет на 1 од."
+        ],
+        "en": [
+            "§e▸ LMC to ⤴ priority by 1 unit.",
+            "§e▸ RMC to ⤵ priority by 1 unit."
+        ]
+    },
+    "CLICK_TO_VOTE_THIS": {
+        "ru": "§fКликните, чтобы оценить! Оценку нельзя будет изменить позже",
+        "ua": "§fНатисніть, щоб оцінити! Оцінку можна буде змінити пізніше",
+        "en": "§fClick to rate! Grade cannot be changed later"
+    },
+    "COINS_PREDICATE_ERROR_MSG": {
+        "ru": " §8• §b%s §7%s (ваш баланс §b%s §7%s)",
+        "ua": " §8• §b%s §7%s (ваш баланс §b%s §7%s)",
+        "en": " §8• §b%s §7%s (your balance is §b%s §7%s)"
+    },
+    "COMMAND_ARGUMENT_FRIEND": {
+        "ru": "ник друга"
+    },
+    "COMMAND_ARGUMENT_GUILD": {
+        "ru": "имя гильдии"
+    },
+    "COMMAND_ARGUMENT_ID": {
+        "ru": "ID"
+    },
+    "COMMAND_ARGUMENT_LINE": {
+        "ru": "строка"
+    },
+    "COMMAND_ARGUMENT_MESSAGE": {
+        "ru": "сообщение"
+    },
+    "COMMAND_ARGUMENT_MONEY": {
+        "ru": "сумма"
+    },
+    "COMMAND_ARGUMENT_NEW_PLAYER": {
+        "ru": "новый игрок"
+    },
+    "COMMAND_ARGUMENT_OLD_PLAYER": {
+        "ru": "старый игрок"
+    },
+    "COMMAND_ARGUMENT_PLAYER": {
+        "ru": "ник игрока"
+    },
+    "COMMAND_ARGUMENT_RANK": {
+        "ru": "ранг"
+    },
+    "COMMAND_ARGUMENT_REASON": {
+        "ru": "причина"
+    },
+    "COMMAND_ARGUMENT_SERVER": {
+        "ru": "сервер"
+    },
+    "COMMAND_ARGUMENT_SETTING": {
+        "ru": "настройка"
+    },
+    "COMMAND_ARGUMENT_TAG": {
+        "ru": "тэг"
+    },
+    "COMMAND_ARGUMENT_VALUE": {
+        "ru": "значение"
+    },
+    "COMMAND_ARGUMENT_DOMAIN": {
+        "ru": "домен"
+    },
+    "COMMAND_ARGUMENT_START_DATE": {
+        "ru": "стартовая дата"
+    },
+    "COMMAND_ARGUMENT_END_DATE": {
+        "ru": "конечная дата"
+    },
+    "COMMAND_CONSOLE_ONLY": {
+        "ru": "§cДанную команду можно использовать только от имени консоли!"
+    },
+    "COMMAND_DISABLE_ON_SPAWN": {
+        "ru": "§cДанная команда не доступна в мире спавна",
+        "ua": "§cЦя команда не доступна в світі спавна",
+        "en": "§cThis command is not available in the spawn world"
+    },
+    "COMMAND_ENUM_PARSE_ERROR": {
+        "ru": "§cОшибка, значение %s недоступно, список доступных значений: %s"
+    },
+    "COMMAND_FORMAT_ERROR": {
+        "ru": "§cОшибка, пишите %s"
+    },
+    "COMMAND_HELP": {
+        "ru": "§7%s §f- %s"
+    },
+    "COMMAND_HELP_TITLE": {
+        "ru": "§e▸ Подкоманды для %s:"
+    },
+    "COMMAND_NOT_AVAILABLE_IN_VANISH": {
+        "ru": "§cОшибка, данная команда недоступна, пока Вы находитесь в режиме невидимости"
+    },
+    "COMMAND_NUMBER_PARSE_ERROR": {
+        "ru": "§cОшибка, %s не является числом"
+    },
+    "COMMAND_PLAYER_ONLY": {
+        "ru": "§cДанную команду нельзя использовать из консоли!"
+    },
+    "COMMAND_UNEXPECTED_ERROR": {
+        "ru": "§cПроизошла ошибка во время выполнения команды"
+    },
+    "CONFIRMED_NAME": {
+        "ru": "Подтвердить",
+        "ua": "Підтвердити",
+        "en": "Confirm"
+    },
+    "CONTAINER_GUI_ITEM_LORE": {
+        "ru": [
+            "",
+            "§7Можно открыть командой: §f%s",
+            "§7Доступно от %s",
+            "",
+            "§e▸ Нажмите, чтобы открыть"
+        ],
+        "ua": [
+            "",
+            "§7Можна відкрити командою: §f%s",
+            "§7Доступно від %s",
+            "",
+            "§e▸ Натисніть, щоб відкрити"
+        ],
+        "en": [
+            "",
+            "§7Can be opened with the command: §f%s",
+            "§7Available from %s",
+            "",
+            "§e▸ Click to view"
+        ]
+    },
+    "CONTAINER_GUI_LORE": {
+        "ru": [
+            "",
+            "§7Получить список",
+            "§7всех крафт столов",
+            "§7и эндерсундука",
+            "",
+            "§e▸ Нажмите, чтобы открыть меню"
+        ],
+        "ua": [
+            "",
+            "§7Отримати список",
+            "§7всіх крафт столів",
+            "§7з ендерскрині",
+            "",
+            "§e▸ Натисніть, чтобы відкрити меню"
+        ],
+        "en": [
+            "",
+            "§7Get a list of all",
+            "§7crafting tables and",
+            "§7an enderchest",
+            "",
+            "§e▸ Click to view the menu"
+        ]
+    },
+    "CONTAINER_GUI_NAME": {
+        "ru": "Крафт столы",
+        "ua": "Крафт столи",
+        "en": "Craft tables"
+    },
+    "CONVERT_ERROR": {
+        "ru": "§cОшибка, нужно указывать только положительное целое число!",
+        "ua": "§cПомилка, потрібно вказувати тільки натуральне число!",
+        "en": "§cError, you only need to specify a positive integer!"
+    },
+    "CONVERT_FORMAT": {
+        "ru": "/convert <золото>",
+        "ua": "/convert <золото>",
+        "en": "/convert <gold>"
+    },
+    "COOLDOWN_2": {
+        "ru": "§cПодождите %s перед следующим использованием",
+        "ua": "§cЗачекайте %s перед наступним використанням",
+        "en": "§cWait a little %s before next use"
+    },
+    "COOLDOWN_SEND_MESSAGE": {
+        "ru": "§cПодождите %s перед следующим использованием оффлайн сообщений (если вы будете писать друзьям, то лимита не будет)",
+        "ua": "§cЗачекайте %s перед наступним використанням оффлайн повідомлень (Якщо ви будете писати друзям, то ліміту не буде)",
+        "en": "§cWait a little %s before the next use of offline messages (if you write to friends, then there will be no limit)"
+    },
+    "CORE_NAME": {
+        "ru": "§cСервер",
+        "ua": "§cСервер",
+        "en": "§cServer"
+    },
+    "CREATIVE_MODE": {
+        "ru": "Креатив",
+        "ua": "Креатив",
+        "en": "Creativity"
+    },
+    "DAILY_REWARD_KEY": {
+        "ru": "Награда за %s день",
+        "ua": "Нагорода за %s день",
+        "en": "Reward for the %s day"
+    },
+    "DAILY_REWARD_LORE_KEY": {
+        "ru": [
+            " ",
+            "§7Ежедневная награда, которая",
+            "§7включает в себя:"
+        ],
+        "ua": [
+            " ",
+            "§7Щоденна нагорода, яка",
+            "§7містить:"
+        ],
+        "en": [
+            " ",
+            "§7Daily reward which",
+            "§7includes:"
+        ]
+    },
+    "DARK_AQUA": {
+        "ru": "Бирюзовый",
+        "ua": "Бірюзовий",
+        "en": "Turquoise"
+    },
+    "DARK_BLUE": {
+        "ru": "Синий",
+        "ua": "Синій",
+        "en": "Blue"
+    },
+    "DARK_GRAY": {
+        "ru": "Темно - серый",
+        "ua": "Темно-сірий",
+        "en": "Drak gray"
+    },
+    "DARK_GREEN": {
+        "ru": "Зеленый",
+        "ua": "Зелений",
+        "en": "Green"
+    },
+    "DARK_PURPLE": {
+        "ru": "Фиолетовый",
+        "ua": "Фіолетовий",
+        "en": "Purple"
+    },
+    "DARK_RED": {
+        "ru": "Темно - красный",
+        "ua": "Темно-червоний",
+        "en": "Dark red"
+    },
+    "DONATECHAT_ENABLED": {
+        "ru": "§aВы снова видите донат-чат",
+        "ua": "§aВи знову бачите донат-чат",
+        "en": "§aYou now see donate chat again"
+    },
+    "DONATECHAT_FORMAT": {
+        "ru": "/donatechat <сообщение>",
+        "ua": "/donatechat <повідомлення>",
+        "en": "/donatechat <message>"
+    },
+    "DONATECHAT_MSG": {
+        "ru": "§6Чат донатеров §8| §f%s§8 » §7%s",
+        "ua": "§6Чат донатерів §8| §f%s§8 » §7%s",
+        "en": "§6Donate chat §8| §f%s§8 » §7%s"
+    },
+    "DONATECHAT_TOGGLE": {
+        "ru": "§6Чат донатеров §8| %s",
+        "ua": "§6Чат донатерів §8| %s",
+        "en": "§6Donate chat §8| %s"
+    },
+    "DONT_TRY_TO_GET_OUT_OF_THE_PLAY_ZONE": {
+        "ru": "§cНе пытайтесь покинуть игровую зону!",
+        "ua": "§cНе намагайтеся покинути ігрову зону!",
+        "en": "§cDo not try to leave the play area!"
+    },
+    "EGGWARS_DUO_TYPE": {
+        "ru": "§eПарный режим",
+        "ua": "§eПарний режим",
+        "en": "§ePair mode"
+    },
+    "EGGWARS_SOLO_TYPE": {
+        "ru": "§eОдиночный режим",
+        "ua": "§eОдиночний режим",
+        "en": "§eSingle mode"
+    },
+    "EGGWARS_TEAM_TYPE": {
+        "ru": "§eКомандный режим",
+        "ua": "§eКомандний режим",
+        "en": "§eTeam mode"
+    },
+    "ENCHANTED_BOOK": {
+        "ru": "Зачарованная книга",
+        "ua": "Зачарована книга",
+        "en": "Enchantment book"
+    },
+    "ENCHANTED_GOLDEN_APPLE": {
+        "ru": "Зачарованное золотое яблоко",
+        "ua": "Зачароване золоте яблуко",
+        "en": "Enchanted golden apple"
+    },
+    "ENCHANT_TITLE": {
+        "ru": "Чары",
+        "ua": "Чари",
+        "en": "Enchantments"
+    },
+    "ERROR_COMMAND": {
+        "ru": "§cОшибка, пишите %s",
+        "ua": "§cПомилка, пишіть %s",
+        "en": "§cError, type %s"
+    },
+    "ERROR_COMMAND_IN_GAME": {
+        "ru": "§cДанная команда недоступна во время игры",
+        "ua": "§cЦя команда недоступна під час гри",
+        "en": "§cThis command is not available during the game"
+    },
+    "ERROR_COMMAND_IN_LOBBY": {
+        "ru": "§cДанная команда доступна только во время игры",
+        "ua": "§cЦя команда доступна тільки під час гри",
+        "en": "§cThis command is only available during the game."
+    },
+    "EVENTS_LIVED_STAT": {
+        "ru": "Пережито событий",
+        "ua": "Пережито подій",
+        "en": "Outlived events"
+    },
+    "EWD_GAME_DESC": {
+        "ru": [
+            "Ваша задача выжить на арене, получая преимущество",
+            "при помощи улучшения генераторов. Вы возрождаетесь,",
+            "пока яйцо дракона не сломано. Защитите его!"
+        ],
+        "ua": [
+            "Ваше завдання вижити на арені, отримуючи перевагу",
+            "за допомогою поліпшення генераторів. Ви відроджуєтесь,",
+            "поки яйце дракона не зламано. Захистіть його!"
+        ],
+        "en": [
+            "Your task is to survive in the arena, gaining an advantage",
+            "by improving generators. You are reborn as long as",
+            "the dragon egg is not broken. Protect it!"
+        ]
+    },
+    "EWS_GAME_DESC": {
+        "ru": [
+            "Ваша задача выжить на арене, получая преимущество",
+            "при помощи улучшения генераторов. Вы возрождаетесь,",
+            "пока яйцо дракона не сломано. Защитите его!"
+        ],
+        "ua": [
+            "Ваше завдання вижити на арені, отримуючи перевагу",
+            "за допомогою поліпшення генераторів. Ви відроджуєтесь,",
+            "поки яйце дракона не зламано. Захистіть його!"
+        ],
+        "en": [
+            "Your task is to survive in the arena, gaining an advantage",
+            "by improving generators. You are reborn as long as",
+            "the dragon egg is not broken. Protect it!"
+        ]
+    },
+    "EWT_GAME_DESC": {
+        "ru": [
+            "Ваша задача выжить на арене, получая преимущество",
+            "при помощи улучшения генераторов. Вы возрождаетесь,",
+            "пока яйцо дракона не сломано. Защитите его!"
+        ],
+        "ua": [
+            "Ваше завдання вижити на арені, отримуючи перевагу",
+            "за допомогою поліпшення генераторів. Ви відроджуєтесь,",
+            "поки яйце дракона не зламано. Захистіть його!"
+        ],
+        "en": [
+            "Your task is to survive in the arena, gaining an advantage",
+            "by improving generators. You are reborn as long as",
+            "the dragon egg is not broken. Protect it!"
+        ]
+    },
+    "EXP_TO_NEW_LVL": {
+        "ru": "§fДо следующего уровня нужно §a%s§f опыта",
+        "ua": "§fДо наступного рівня потрібно §a%s§f досвіду",
+        "en": "§fTo the next level you need §a%s§f XP"
+    },
+    "FAVORITE_CLEAR": {
+        "ru": "§cОчистить избранное",
+        "ua": "§cОчистити обране",
+        "en": "§cClear favorites"
+    },
+    "FAVORITE_CLEAR_LORE": {
+        "ru": [
+            "§7Нажмите, чтобы убрать все",
+            "§7гаджеты из избранного"
+        ],
+        "ua": [
+            "§7Натисніть, щоб прибрати всі",
+            "§7гаджети з обраного"
+        ],
+        "en": [
+            "§7Click to delete all",
+            "§7gadgets from favorites"
+        ]
+    },
+    "FAVORITE_ITEM": {
+        "ru": "§aИзбранное",
+        "ua": "§aОбране",
+        "en": "§aFavorites"
+    },
+    "FAVORITE_ITEM_LORE": {
+        "ru": [
+            "§7Меню избранного - это меню для",
+            "§7быстрого запуска любого гаджета,",
+            "§7который вы сможете настроить под себя.",
+            "§7",
+            "§7Чтобы добавить предмет в избранное,",
+            "§7нажмите §cПКМ §7по иконке желаемого гаджета"
+        ],
+        "ua": [
+            "§7Меню обраного - це меню для",
+            "§7швидкого запуску будь-якого гаджета,",
+            "§7який ви зможете налаштувати під себе.",
+            "§7",
+            "§7Щоб додати предмет в обране,",
+            "§7Натисніть §cПКМ §7по іконці бажаного гаджета"
+        ],
+        "en": [
+            "§7The favorites menu is the menu for",
+            "§7quick launch of any gadget,",
+            "§7which you can customize for yourself.",
+            "§7",
+            "§7To add an item to your favorites,",
+            "§7click §cRMC §7on the icon of the desired gadget"
+        ]
+    },
+    "FAVORITE_LORE_ADD": {
+        "ru": "§aПКМ, чтобы добавить в избранное",
+        "ua": "§aПКМ, щоб додати в обране",
+        "en": "§aRMC to add to favorites"
+    },
+    "FAVORITE_LORE_REMOVE": {
+        "ru": "§cПКМ, чтобы убрать из избранного",
+        "ua": "§cПКМ, щоб видалити із обраного",
+        "en": "§cLMC to delete from favorites"
+    },
+    "FIND_FORMAT": {
+        "ru": "/find <ник игрока>",
+        "ua": "/find <нік гравця>",
+        "en": "/find <player's nickname>"
+    },
+    "FIND_RESULT": {
+        "ru": "$SERVER_PREFIX$Игрок %s §fнаходится на сервере §c%s",
+        "ua": "§6Сервер §8| §fГравець %s §fзнаходиться на сервері §c%s",
+        "en": "§6Server §8| §fPlayer %s §fis on the server §c%s"
+    },
+    "FIND_RESULT_OFFLINE": {
+        "ru": "$SERVER_PREFIX$Игрок %s §fоффлайн, последний раз он был на сервере §7%s §fназад",
+        "ua": "§6Сервер §8| §fГравець %s §fоффлайн, останній раз був на сервері §7%s §fтому",
+        "en": "§6Server §8| §fPlayer %s §fis offline, last time seen on the server §7%s §fago"
+    },
+    "MIGRATE_RESULT": {
+        "ru": "$SERVER_PREFIX$Статистика игрока %s §fперенесена на ник %s"
+    },
+    "GAMEMODE_FORMAT": {
+        "ru": "/gamemode <1|2|0>",
+        "ua": "/gamemode <1|2|0>",
+        "en": "/gamemode <1|2|0>"
+    },
+    "GAMEMODE_TO": {
+        "ru": "$@MODE_PREFIX$Игроку %s §fустановлен режим - §c%s",
+        "ua": "Гравцю %s §fвстановлений режим - §c%s",
+        "en": "Player %s §fhas been set a mode - §c%s"
+    },
+    "GIFT_ALREADY_ACTIVATED": {
+        "ru": "§cОшибка, купон %s уже был активирован вами ранее",
+        "ua": "§cПомилка, купон %s вже був активований вами раніше",
+        "en": "§cError, coupon %s has already been activated by you earlier"
+    },
+    "GIFT_FORMAT": {
+        "ru": "/gift <секретный_код>",
+        "ua": "/gift <секретний_код>",
+        "en": "/gift <secret_code>"
+    },
+    "GIFT_NOT_FOUND": {
+        "ru": "§cОшибка, купон %s не найден",
+        "ua": "§cПомилка, купон %s не знайдено",
+        "en": "§cError, coupon %s is not found"
+    },
+    "GOODGAME_FORMAT": {
+        "ru": "/gg <ник>",
+        "ua": "/gg <нік>",
+        "en": "/gg <nickname>"
+    },
+    "GROUP_PREDICATE_ABOVE_GROUPS_ERROR_MSG": {
+        "ru": " §8• §7привилегия %s §7или выше §7(Вы %s§7)",
+        "ua": " §8• §7привілея %s §7або вище §7(Ви %s§7)",
+        "en": " §8• §7privilege %s §7or higher §7(You %s§7)"
+    },
+    "GROUP_PREDICATE_BELOW_GROUPS_ERROR_MSG": {
+        "ru": " §8• §7привилегия не выше %s §7(Вы %s§7)",
+        "ua": " §8• §7привілея не вище %s §7(Ви %s§7)",
+        "en": " §8• §7privilege no higher than %s §7(You %s§7)"
+    },
+    "GROUP_PREDICATE_ONLY_THIS_GROUP_ERROR_MSG": {
+        "ru": " §8• §7привилегия %s §7(Вы %s§7)",
+        "ua": " §8• §7привілея %s §7(Ви %s§7)",
+        "en": " §8• §7privilege %s §7(You %s§7)"
+    },
+    "GUI_STAFF_ADMINS": {
+        "ru": "Администраторы",
+        "ua": "Адміністратори",
+        "en": "Administrators"
+    },
+    "GUI_STAFF_HELPERS": {
+        "ru": "Хелперы",
+        "ua": "Хелпери",
+        "en": "Helpers"
+    },
+    "GUI_STAFF_JUNIORS": {
+        "ru": "Младшие хелперы",
+        "ua": "Молодші хелпери",
+        "en": "Junior helpers"
+    },
+    "GUI_STAFF_MODERATORS": {
+        "ru": "Модераторы",
+        "ua": "Модератори",
+        "en": "Moderators"
+    },
+    "GUI_STAFF_SHOW_LIST": {
+        "ru": [
+            "",
+            " §e▸ Нажмите, чтобы открыть",
+            " §eсписок персонала"
+        ],
+        "ua": [
+            "",
+            " §e▸ Натисніть, щоб відкрити",
+            " §eсписок персоналу"
+        ],
+        "en": [
+            "",
+            " §e▸ Click to view",
+            " §ethe staff list"
+        ]
+    },
+    "HELPERS_GUI_MAIN_LORE": {
+        "ru": [
+            " ",
+            "§7Хелперов:",
+            "§a%s"
+        ],
+        "ua": [
+            " ",
+            "§7Хелперів:",
+            "§a%s"
+        ],
+        "en": [
+            " ",
+            "§7Helpers:",
+            "§a%s"
+        ]
+    },
+    "HELP_PAPER_FOR": {
+        "ru": "§e▸ Подкоманды для %s:",
+        "ua": "§e▸ Підкоманди для %s:",
+        "en": "§e▸ Subcommands for %s:"
+    },
+    "HOVER_MESSAGE_CHAT": {
+        "ru": [
+            "§fНажмите сюда, чтобы написать",
+            "§fигроку %s §fв лс"
+        ],
+        "ua": [
+            "§fНатисніть сюди, щоб написати",
+            "§fгравцю %s §fв пп"
+        ],
+        "en": [
+            "§fClick here to write",
+            "§fto player %s §fin pm"
+        ]
+    },
+    "IGNORELIST_EMPTY": {
+        "ru": "§cВ Вашем списке игнорируемых нет игроков.",
+        "ua": "§cУ вашому списку ігнорованих немає гравців.",
+        "en": "§cThere are no players on your ignored list."
+    },
+    "IGNORE_FORMAT": {
+        "ru": "§c/ignore <ник>",
+        "ua": "§c/ignore <нік>",
+        "en": "§c/ignore <nickname>"
+    },
+    "IGNORE_GUI_ITEM_LORE": {
+        "ru": [
+            " ",
+            " §e▸ Нажмите, чтобы удалить",
+            "  §eигрока из списка игнорируемых"
+        ],
+        "ua": [
+            " ",
+            " §e▸ Натисніть, щоб видалити",
+            "  §eгравця зі списку ігнорованих"
+        ],
+        "en": [
+            " ",
+            " §e▸ Click to delete",
+            "  §ea player from the list of the ignored"
+        ]
+    },
+    "IGNORE_GUI_MAIN": {
+        "ru": "Список игнорируемых",
+        "ua": "Список ігнорованих",
+        "en": "List of the ignored"
+    },
+    "IGNORE_GUI_MAIN_LORE": {
+        "ru": [
+            "",
+            "§7Всего игроков:",
+            "§a%s"
+        ],
+        "ua": [
+            "",
+            "§7Всього гравців:",
+            "§a%s"
+        ],
+        "en": [
+            "",
+            "§7Total players:",
+            "§a%s"
+        ]
+    },
+    "IGNORE_LIMIT": {
+        "ru": "§cВы превысили лимит на количество игнорируемых игроков",
+        "ua": "§cВи перевищили ліміт на кількість ігнорованих гравців",
+        "en": "§cYou have exceeded the limit on the number of ignored players"
+    },
+    "INVALID_BAN_REQUEST_ID": {
+        "ru": "§cНеверный ID запроса",
+        "ua": "§cНеправильний ID запиту",
+        "en": "§cInvalid request ID"
+    },
+    "INVALID_DATE_PERIOD": {
+        "ru": "§cОшибка, укажите верный период (день/месяц/год)",
+        "ua": "§cПомилка, вкажіть правильний період (день/місяць/рік)",
+        "en": "§cError, please enter correct period (dd/mm/yy)"
+    },
+    "INVALID_FLAG": {
+        "ru": "§cНеизвестный флаг: %s",
+        "ua": "§cНевідомий флаг: %s",
+        "en": "§cUnknown flag: %s"
+    },
+    "INVALID_ITEM_RECIPE": {
+        "ru": "§cОшибка, рецепт не найден",
+        "ua": "§cПомилка, рецепт не знайдено",
+        "en": "§cError, recipe not found"
+    },
+    "INVALID_PASSWORD_LENGTH": {
+        "ru": "§cВыбранный пароль короткий, либо слишком длинный",
+        "ua": "§cОбраний пароль короткий або занадто довгий",
+        "en": "§cThe selected password is either too short or too long"
+    },
+    "INVALID_RULE": {
+        "ru": "§cОшибка! Неверно указан номер правила, список правил можно посмотреть командой §e/rules",
+        "ua": "§cПомилка! Неправильно вказано номер правила, список правил можна подивитися командою §e/rules",
+        "en": "§cError! The rule number is incorrect, the list of rules can be viewed using command §e/rules"
+    },
+    "INVENTORY_IS_FULL": {
+        "ru": "§cОшибка, ваш инвентарь заполнен",
+        "ua": "§cПомилка, ваш інвентар заповнений",
+        "en": "§cError, your inventory is full"
+    },
+    "JUNIORS_GUI_MAIN_LORE": {
+        "ru": [
+            " ",
+            "§7Младших хелперов:",
+            "§a%s"
+        ],
+        "ua": [
+            " ",
+            "§7Молодших хелперів:",
+            "§a%s"
+        ],
+        "en": [
+            " ",
+            "§7Junior helpers:",
+            "§a%s"
+        ]
+    },
+    "KEY_BOX": {
+        "ru": "%sУ вас %s %s",
+        "ua": "%sУ вас %s %s",
+        "en": "%sYou have %s %s"
+    },
+    "LANGUAGE_CHANGE": {
+        "ru": "$SERVER_PREFIX$Ваш язык изменен на: §c%s",
+        "ua": "§6Сервер §8| §fВаша мова змінена на: §c%s",
+        "en": "§6Server §8| §fYour language has been changed to: §c%s"
+    },
+    "LEVEL_ALLREADY_GIVE": {
+        "ru": "§cОшибка, вы уже получили данную награду!",
+        "ua": "§cПомилка, ви вже отримали цю нагороду!",
+        "en": "§cError, you have already received this award!"
+    },
+    "LEVEL_COMMAND_1": {
+        "ru": "§6Игровой уровень §8| §fУ вас §d%s§f уровень",
+        "ua": "§6Ігровий рівень §8| §fУ вас §d%s§f рівень",
+        "en": "§6Game level §8| §fYou have §d%s§f level"
+    },
+    "LEVEL_COMMAND_2": {
+        "ru": "§6Игровой уровень §8| §fДо следующего уровня необходимо набрать §a%s§f опыта",
+        "ua": "§6Ігровий рівень §8| §fДо наступного рівня необхідно набрати §a%s§f досвіду",
+        "en": "§6Game level §8| §fTo the next level, you need to gather §a%s§f XP"
+    },
+    "LEVEL_NO_LEVEL": {
+        "ru": "§cОшибка, ваш уровень слишком мал для получения данной награды!",
+        "ua": "§cПомилка, ваш рівень занадто малий для отримання даної нагороди!",
+        "en": "§cError, your level is too low to receive this reward!"
+    },
+    "LEVEL_NO_OTHER_REWARD": {
+        "ru": "§cОшибка, перед получением этой награды вы обязаны получить все предыдущие!",
+        "ua": "§cПомилка, перед отриманням цієї нагороди ви зобов'язані отримати всі попередні!",
+        "en": "§cError, before receiving this award, you must receive all previous ones!"
+    },
+    "LEVEL_PREDICATE_ERROR_MSG": {
+        "ru": " §8• §7уровень §a%s §7(сейчас у Вас §a%s§7)",
+        "ua": " §8• §7рівень §a%s §7(зараз у вас §a%s§7)",
+        "en": " §8• §7level §a%s §7(now you have §a%s§7)"
+    },
+    "LIMBO_ITEM_LORE": {
+        "ru": [
+            "§7Используйте этот предмет,",
+            "§7чтобы вернуться в главное лобби"
+        ],
+        "ua": [
+            "§7Використовуйте цей предмет,",
+            "§7щоб повернутися в головне лобі"
+        ],
+        "en": [
+            "§7Use this item",
+            "§7to return to the main lobby"
+        ]
+    },
+    "LIMBO_ITEM_NAME": {
+        "ru": "Назад в главное лобби",
+        "ua": "Назад в головне лобі",
+        "en": "Back to the main lobby"
+    },
+    "LIMBO_NO_CHAT": {
+        "ru": "$SERVER_PREFIX$Извините, но вы не можете писать в §aчат§f. Вернуться в главное лобби §7/hub §fили §7/lobby",
+        "ua": "§6Сервер §8| §fВибачте, але ви не можете писати в §aчат§f. Повернутися в головне лобі §7/hub §fабо §7/lobby",
+        "en": "§6Server §8| §fSorry, but you cannot write to §achat§f. Return to the main §7/hub §for §7/lobby"
+    },
+    "LIMIT_REACHED": {
+        "ru": "$SERVER_PREFIX$Вы достигли лимита для этого наказания, подождите еще §e%s",
+        "ua": "§6Сервер §8| §fВи досягли ліміту для цього покарання, почекайте ще §e%s",
+        "en": "§6Server §8| §fYou have reached the limit for this punishment, wait a little bit more §e%s"
+    },
+    "LIST_CMD": {
+        "ru": "%s§fНа сервере §a%s §f%s: %s",
+        "ua": "%s§fНа сервері §a%s §f%s: %s",
+        "en": "%s§fOn server §a%s §f%s: %s"
+    },
+    "LIST_EMPTY": {
+        "ru": "§8Никого нет",
+        "ua": "§8Нікого немає",
+        "en": "§8No one's here"
+    },
+    "LOCATOR_ITEM_LORE": {
+        "ru": [
+            "§7Используйте этот предмет, чтобы",
+            "§7находить ближайшего игрока"
+        ],
+        "ua": [
+            "§7Використовуйте цей предмет, щоб",
+            "§7знаходити найближчого гравця"
+        ],
+        "en": [
+            "§7Use this item to",
+            "§7find nearest player"
+        ]
+    },
+    "LUCKYWARS_DUO_TYPE": {
+        "ru": "§eПарный режим",
+        "ua": "§eПарний режим",
+        "en": "§ePair mode"
+    },
+    "LUCKYWARS_SOLO_TYPE": {
+        "ru": "§eОдиночный режим",
+        "ua": "§eОдиночний режим",
+        "en": "§eSingle mode"
+    },
+    "LVL_UP": {
+        "ru": "§a§l§kX§r §6§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r",
+        "ua": "§a§l§kX§r §6§lРІВЕНЬ ПІДВИЩЕНО §a§l§kX§r",
+        "en": "§a§l§kX§r §6§lLEVEL INCREASED §a§l§kX§r"
+    },
+    "LWD_GAME_DESC": {
+        "ru": [
+            "Ваша задача ломать лакиблоки и убивать игроков",
+            "Вас будет преследовать множество ловушек,",
+            "так что будьте очень осторожны!"
+        ],
+        "ua": [
+            "Ваше завдання ламати лакіблокі і вбивати гравців",
+            "вас буде переслідувати безліч пасток,",
+            "так що будьте дуже обережні!"
+        ],
+        "en": [
+            "our task is to break luckyblocks and kill players",
+            "Many traps will follow you,",
+            "so be very careful!"
+        ]
+    },
+    "LWS_GAME_DESC": {
+        "ru": [
+            "Ваша задача ломать лакиблоки и убивать игроков",
+            "Вас будет преследовать множество ловушек,",
+            "так что будьте очень осторожны!"
+        ],
+        "ua": [
+            "Ваше завдання ламати лакіблокі і вбивати гравців",
+            "вас буде переслідувати безліч пасток,",
+            "так що будьте дуже обережні!"
+        ],
+        "en": [
+            "Your task is to break luckyblocks and kill players",
+            "Many traps will follow you,",
+            "so be very careful!"
+        ]
+    },
+    "LW_MIDDLE_TIMER": {
+        "ru": "§eСпавн лаки-блока через",
+        "ua": "§eСпавн лакі-блоку через",
+        "en": "§eSpawn a lucky block in"
+    },
+    "MESSAGE_CHAT_HOVER": {
+        "ru": [
+            "§fНажмите сюда, чтобы еще раз написать",
+            "§fигроку %s §fв лс"
+        ],
+        "ua": [
+            "§fНатисніть сюди, щоб ще раз написати",
+            "§fгравцю %s §fв пп"
+        ],
+        "en": [
+            "§fClick here to write to the player",
+            "§fagain %s §fin pm"
+        ]
+    },
+    "MESSAGE_FORMAT": {
+        "ru": "§c/msg <ник> <сообщение>",
+        "ua": "§c/msg <нік> <повідомлення>",
+        "en": "§c/msg <nickname> <message>"
+    },
+    "MESSAGE_NOT_FOUND": {
+        "ru": "§cСообщение %s не найдено",
+        "ua": "§cПовідомлення %s не знайдено",
+        "en": "§cMessage %s not found"
+    },
+    "MODERATORS_GUI_MAIN_LORE": {
+        "ru": [
+            " ",
+            "§7Модераторов:",
+            "§a%s"
+        ],
+        "ua": [
+            " ",
+            "§7Модераторів:",
+            "§a%s"
+        ],
+        "en": [
+            " ",
+            "§7Moderators:",
+            "§a%s"
+        ]
+    },
+    "MULTI_GAME_VALUE": {
+        "ru": "§f(с учетом всех бонусов §a%s§f)",
+        "ua": "§f(з урахуванням всіх бонусів §a%s§f)",
+        "en": "§f(taking into account all bonuses §a%s§f)"
+    },
+    "MYSTERY_DUST_DATA": {
+        "ru": "Монеты",
+        "ua": "Монети",
+        "en": "Coins"
+    },
+    "MY_ONLINE_TIME": {
+        "ru": [
+            "§6Время §8| §fПроведено времени на сервере за §7все время§f - §a%s",
+            "§6Время §8| §fПроведено времени на сервере за §7%s §f- §a%s"
+        ],
+        "ua": [
+            "§6Час §8| §fПроведено часу на сервері за §7весь час§f - §a%s",
+            "§6Час §8| §fПроведено часу на сервері за §7%s §f- §a%s"
+        ],
+        "en": [
+            "§6Время §8| §fTime spent on the server in §7all the time§f - §a%s",
+            "§6Время §8| §fTime spent on the server in §7%s §f- §a%s"
+        ]
+    },
+    "NEAR_NOT_FOUND": {
+        "ru": "$@MODE_PREFIX$Ближайших игроков нет",
+        "ua": "Найближчих гравців немає",
+        "en": "No players nearby"
+    },
+    "NEW_LVL": {
+        "ru": "§fВы достигли §d%s§f уровня!",
+        "ua": "§fВи досягли §d%s§f рівня!",
+        "en": "§fYou have reached the §d%s§f level!"
+    },
+    "NO_ACTIVE_BOOSTER_LORE": {
+        "ru": [
+            "§7В данный момент у вас нет",
+            "§7активного бустера"
+        ],
+        "ua": [
+            "§7Зараз у вас немає",
+            "§7активного бустера"
+        ],
+        "en": [
+            "§7At present you have no",
+            "§7active booster"
+        ]
+    },
+    "NO_ACTIVE_BOOSTER_NAME": {
+        "ru": "§cУ вас нет активного бустера",
+        "ua": "§cУ вас немає активного бустера",
+        "en": "§cYou have no active booster"
+    },
+    "NO_BOOSTERS_LORE": {
+        "ru": [
+            "§7В данный момент у вас нет",
+            "§7бустеров которые можно активировать"
+        ],
+        "ua": [
+            "§7Зараз у вас немає",
+            "§7бустерів, які можна активувати"
+        ],
+        "en": [
+            "§7At present you have no",
+            "§7boosters which can be activated"
+        ]
+    },
+    "NO_BOOSTERS_NAME": {
+        "ru": "§cУ вас нет доступных бустеров",
+        "ua": "§cУ вас немає доступних бустерів",
+        "en": "§cYou have no active boosters"
+    },
+    "NO_CHANGE_SKIN": {
+        "ru": "§cСкин установлен, но для его обновления вам нужно перезайти на сервер",
+        "ua": "§cСкін встановлений, але для його поновлення вам потрібно перезайти на сервер",
+        "en": "§cThe skin is installed, but to update it you need to re-enter the server"
+    },
+    "NO_LIMIT_MSG_ACTION_BAR": {
+        "ru": "%s §fи выше возрождаются быстрее!",
+        "ua": "%s §fі вище відроджуються швидше!",
+        "en": "%s §fand higher respawn faster!"
+    },
+    "NO_NEVER_PLAYER": {
+        "ru": "§cОшибка, игрок %s никогда прежде не играл на нашем проекте",
+        "ua": "§cПомилка, гравець %s ніколи раніше не грав на нашому проекті",
+        "en": "§cError, player %s never played on our project before"
+    },
+    "NO_RARITY": {
+        "ru": "Без редкости",
+        "ua": "Без рідкості",
+        "en": "No rarity"
+    },
+    "ONLINE_ALL_PLAYERS_ONLINE": {
+        "ru": "§6Онлайн §8| §fОбщий онлайн проекта §a%s §f%s",
+        "ua": "§6Онлайн §8| §fЗагальний онлайн проекту §a%s §f%s",
+        "en": "§6Online §8| §fGeneral online project §a%s §f%s"
+    },
+    "ONLINE_PLAYERS_ONLINE": {
+        "ru": "§6Онлайн §8| §fОнлайн указанных режимов §a%s §f%s",
+        "ua": "§6Онлайн §8| §fОнлайн вказаних режимів §a%s §f%s",
+        "en": "§6Online §8| §fOnline specified modes §a%s §f%s"
+    },
+    "PAGE_ARROW1": {
+        "ru": "§aСледующая страница",
+        "ua": "§aНаступна сторінка",
+        "en": "§aNext page"
+    },
+    "PAGE_ARROW2": {
+        "ru": "§aПредыдущая страница",
+        "ua": "§aПопередня сторінка",
+        "en": "§aPrevious page"
+    },
+    "PAGE_ARROW_GUI": {
+        "ru": "страница",
+        "ua": "сторінка",
+        "en": "page"
+    },
+    "PAGE_ARROW_LORE": {
+        "ru": [
+            "§7Нажмите для перехода",
+            "§7на %s страницу"
+        ],
+        "ua": [
+            "§7Натисніть для переходу",
+            "§7на %s сторінку"
+        ],
+        "en": [
+            "§7Click to go",
+            "§7to page %s"
+        ]
+    },
+    "PARKOURRACERS_CLASSIC_TYPE": {
+        "ru": "§eКлассический режим",
+        "ua": "§eКласичний режим",
+        "en": "§eClassic mode"
+    },
+    "PARKOURRACERS_DUO_TYPE": {
+        "ru": "§eПарный режим",
+        "ua": "§eПарний режим",
+        "en": "§ePair mode"
+    },
+    "PARKOURRACERS_SOLO_TYPE": {
+        "ru": "§eОдиночный режим",
+        "ua": "§eОдиночний режим",
+        "en": "§eSingle mode"
+    },
+    "PLAYER_IGNORED": {
+        "ru": "§eВы добавили игрока %s §eв список игнорируемых. Теперь он не сможет отслеживать и писать Вам",
+        "ua": "§eВи додали гравця до %s §eсписку ігнорованих. Тепер він не зможе відслідковувати і писати вам",
+        "en": "§eYou added to player %s §eto the ignored list. Now he cannot track and write to you"
+    },
+    "PLAYER_NOT_IGNORED": {
+        "ru": "§cВы удалили игрока %s §cиз списка игнорируемых",
+        "ua": "§cВи видалили гравця %s §cзі списку ігнорованих",
+        "en": "§cYou removed the player %s §cfrom the ignored list"
+    },
+    "PLAYER_NOT_REGISTER": {
+        "ru": "§cДанный игрок не зарегистрирован",
+        "ua": "§cЦей гравець не зареєстрований",
+        "en": "§cThis player is not registered"
+    },
+    "PLAYER_ONLINE_TIME": {
+        "ru": [
+            "§6Время §8| §e%s §fпровел на сервере §f- §a%s",
+            "§6Время §8| §e%s §fпровел на сервере за §7%s §f- §a%s"
+        ],
+        "ua": [
+            "§6Час §8| §e%s §fпровів на сервері §f- §a%s",
+            "§6Час §8| §e%s §fпровів на сервері за §7%s §f- §a%s"
+        ],
+        "en": [
+            "§6Time §8| §e%s §fspent on the server §f- §a%s",
+            "§6Time §8| §e%s §fspent on the server in §7%s §f- §a%s"
+        ]
+    },
+    "PLAY_FORMAT": {
+        "ru": "/play <игра>",
+        "ua": "/play <гра>",
+        "en": "/play <game>"
+    },
+    "PRC_GAME_DESC": {
+        "ru": [
+            "Классическая версия паркура без PvP",
+            "Ваша задача - пройти паркур как можно быстрее,",
+            "и попасть в топ. Победителем становится игрок,",
+            "занявший первое место."
+        ],
+        "ua": [
+            "Класична версія паркуру без PvP",
+            "Ваше завдання - пройти паркур якомога швидше,",
+            "і потрапити в топ. Переможцем стає гравець,",
+            "що посів перше місце."
+        ],
+        "en": [
+            "Classic version of parkour without PvP",
+            "Your task is to complete the parkour as quickly as possible",
+            "and get in the top. The player who takes the 1st place",
+            "becomes a winner."
+        ]
+    },
+    "PRD_GAME_DESC": {
+        "ru": [
+            "Пройдите как можно больше модулей, для того,",
+            "чтобы получить больше очков для покупки оружия.",
+            "За пройденный меньше чем за 3 попытки модуль - получаете бонус.",
+            "Желаем удачи в прохождении! Победит сильнейший!"
+        ],
+        "ua": [
+            "Пройдіть якомога більше модулів, для того,",
+            "щоб отримати більше очок для покупки зброї.",
+            "За пройдений менше ніж за 3 спроби модуль - отримуєте бонус",
+            "Бажаємо успіху в проходженні! Переможе найсильніший!"
+        ],
+        "en": [
+            "Complete as many modules as possible in order to",
+            "get more points for buying weapons.",
+            "For a module completed in less than 3 attempts, you get a bonus.",
+            "We wish you the best of luck with your playthrough! The strongest will win!"
+        ]
+    },
+    "PREFIX_CHANGE_LORE": {
+        "ru": [
+            "§7Сменить префикс на: %s",
+            "",
+            "§e▸ Нажмите, чтобы установить префикс"
+        ],
+        "ua": [
+            "§7Змінити префікс на: %s",
+            "",
+            "§e▸ Натисніть, щоб встановити префікс"
+        ],
+        "en": [
+            "§7Change prefix to: %s",
+            "",
+            "§e▸ Click to set prefix"
+        ]
+    },
+    "PREFIX_CHANGE_LORE2": {
+        "ru": [
+            "",
+            "§aПрефикс выбран"
+        ],
+        "ua": [
+            "",
+            "§aПрефікс не обрано"
+        ],
+        "en": [
+            "",
+            "§aPrefix chosen"
+        ]
+    },
+    "PREFIX_SET": {
+        "ru": "$SERVER_PREFIX$Ваш префикс был изменен",
+        "ua": "§6Сервер §8| §fВаш префікс був змінений",
+        "en": "§6Сервер §8| §fYour prefix has been changed"
+    },
+    "PROMO_ITEM_NAME": {
+        "ru": "§aСКИДКИ!",
+        "ua": "§aЗНИЖКИ!",
+        "en": "§aDISCOUNTS!"
+    },
+    "PRS_GAME_DESC": {
+        "ru": [
+            "Пройдите как можно больше модулей, для того,",
+            "чтобы получить больше очков для покупки оружия.",
+            "За пройденный меньше чем за 3 попытки модуль - получаете бонус.",
+            "Желаем удачи в прохождении! Победит сильнейший!"
+        ],
+        "ua": [
+            "Пройдіть якомога більше модулів, для того,",
+            "щоб отримати більше очок для покупки зброї.",
+            "За пройдений менше ніж за 3 спроби модуль - отримуєте бонус.",
+            "Бажаємо успіху в проходженні! Переможе найсильніший!"
+        ],
+        "en": [
+            "Complete as many modules as possible in order to",
+            "get more points for buying weapons.",
+            "For a module completed in less than 3 attempts, you get a bonus.",
+            "We wish you the best of luck with your playthrough! The strongest will win!"
+        ]
+    },
+    "RANKED_REQUIREMENTS": {
+        "ru": "§cДля игры в рейтинговый режим нужно 4 игрока в группе",
+        "ua": "§cДля гри в рейтинговому режимі потрібно 4 гравця в групі",
+        "en": "§cRanked mode requires 4 players in a group"
+    },
+    "RECIEVED_MESSAGE_FORMAT": {
+        "ru": " §6ЛС §8| §6%s§8 -> §6Я §8| §f%s",
+        "ua": " §6ЛС §8| §6%s§8 -> §6Я §8| §f%s",
+        "en": " §6PM §8| §6%s§8 -> §6Я §8| §f%s"
+    },
+    "REDIRECTED_TO_LOBBY": {
+        "ru": "§aВы были телепортированы на %s",
+        "ua": "§aВи були телепортовані на %s",
+        "en": "§aYou have been teleported to %s"
+    },
+    "REDIRECT_ERROR": {
+        "ru": "§cНевозможно найти подходящий сервер(",
+        "ua": "§cНеможливо знайти потрібний сервер (",
+        "en": "§cCan't find a suitable server("
+    },
+    "REDIRECT_TO_SERVER": {
+        "ru": "§aТелепортирую на сервер %s",
+        "ua": "§aТелепортую на сервер %s",
+        "en": "§aTeleporting to server %s"
+    },
+    "REPLAY_ITEM_LORE": {
+        "ru": [
+            "§7Кликните, чтобы начать новую игру",
+            "§7на этом же режиме",
+            null
+        ],
+        "ua": [
+            "§7Натисніть, щоб почати нову гру",
+            "§7на цьому же режимі",
+            null
+        ],
+        "en": [
+            "§7Click to start a new game",
+            "§7on this mode",
+            null
+        ]
+    },
+    "REPLAY_ITEM_NAME": {
+        "ru": "§eНачать новую игру",
+        "ua": "§eПочати нову гру",
+        "en": "§eStart a new game"
+    },
+    "REPLY_FORMAT": {
+        "ru": "§c/reply <сообщение>",
+        "ua": "§c/reply <повідомлення>",
+        "en": "§c/reply <message>"
+    },
+    "REPLY_PLAYER_OFFLINE": {
+        "ru": "§cВам никто не писал",
+        "ua": "§cВам ніхто не писав",
+        "en": "§cNo one texted you"
+    },
+    "REQUEST_GUI_NAME": {
+        "ru": "Список запросов",
+        "ua": "Список запитів",
+        "en": "Requests list"
+    },
+    "RULES_COMMAND": {
+        "ru": "$SERVER_PREFIX$Полный список правил сервера - ",
+        "ua": "§6Сервер §8| §fПовний список правил сервера - ",
+        "en": "§6Server §8| §fComplete list of server rules - "
+    },
+    "RULES_COMMAND_HOVER": {
+        "ru": "§fНажмите сюда, чтобы перейти по ссылке",
+        "ua": "§fНатисніть сюди, щоб перейти по посиланню",
+        "en": "§fClick here to follow the link"
+    },
+    "SBS_GAME_DESC": {
+        "ru": [
+            "Ваша задача повторить нужную постройку за ",
+            "короткий промежуток времени. Игроки с наименьшим",
+            "процентом точности постройки будут уничтожены ведущим.",
+            "Последний оставшиеся в живых побеждает!"
+        ],
+        "ua": [
+            "Ваше завдання повторити потрібну споруду за ",
+            "короткий проміжок часу. Гравці з найменшим",
+            "відсотком точності побудови будуть знищені провідним.",
+            "Той, хто станній залишився в живих, перемагає!"
+        ],
+        "en": [
+            "Your task is to repeat the needed building ",
+            "in a short period of time. Players with the lowest",
+            "percentage of building accuracy will be destroyed by the leader.",
+            "The last survivor wins!"
+        ]
+    },
+    "SELECTED_SKIN_IS_INVALID": {
+        "ru": "§cВыбранный вами скин невалиден или произошла какая-то ошибка",
+        "ua": "§cОбраний вами скін невалідний або сталася якась помилка",
+        "en": "§cThe skin you selected is invalid or some kind of error has occurred"
+    },
+    "SENDING_PLAYER_TO_SERVER": {
+        "ru": "$SERVER_PREFIX$Игрок %s §fуспешно телепортирован на сервер §c%s",
+        "ua": "§6Сервер §8| §fГравець %s §fуспішно переміщуватися на сервер §c%s",
+        "en": "§6Server §8| §fPlayer %s §fhas been successfully teleported to server §c%s"
+    },
+    "SENDMONEY_ERROR_MONEY": {
+        "ru": "§cОшибка, вы не можете переводить суммы ниже 300 и выше 5.000 монет за раз!",
+        "ua": "§cПомилка, ви не можете переводити суми нижче за 300 і вище за 5.000 монет за раз!",
+        "en": "§cError, you cannot transfer amounts below 300 and above 5.000 coins at a time!"
+    },
+    "SENDMONEY_ERROR_SEND": {
+        "ru": "§cОшибка, вы не можете отправить %s %s, так как ваш дневной лимит на отправку денег не должен превышать %s %s",
+        "ua": "§cПомилка, ви не можете відправити %s %s, так як ваш денний ліміт на відправку грошей не повинен перевищувати %s %s",
+        "en": "§cError, you cannot transfer %s %s since your daily limit for sending money should not exceed %s %s"
+    },
+    "SENDMONEY_ERROR_SENDED": {
+        "ru": "§cОшибка, вы не можете отправить %s %s игроку %s§c, так как его дневной лимит на получение денег не должен превышать %s %s",
+        "ua": "§cПомилка, ви не можете відправити %s %s гравцю %s§c, так як його денний ліміт на отримання грошей не повинен перевищувати %s %s",
+        "en": "§cError, you can't transfer %s %s to player %s§c since his daily limit for receiving money should not exceed %s %s"
+    },
+    "SENDMONEY_FORMAT": {
+        "ru": "/sendmoney <ник игрока> <сумма>",
+        "ua": "/sendmoney <нік гравця> <сума>",
+        "en": "/sendmoney <player's nickname> <sum>"
+    },
+    "SENDMONEY_NO_LEVEL_OTHER": {
+        "ru": "§cОшибка, вы не можете перевести деньги данному игроку. Его уровень ниже 10!",
+        "ua": "§cПомилка, ви не можете перевести гроші цьому гравцю. Його рівень нижче за 10!",
+        "en": "§cError, you cannot transfer money to this player. His level is below 10!"
+    },
+    "SENDMONEY_NO_LEVEL_YOU": {
+        "ru": "§cОшибка, вы не можете перевести деньги, ваш уровень ниже 10!",
+        "ua": "§cПомилка, ви не можете перевести гроші, ваш рівень нижче за 10!",
+        "en": "§cError, you cannot transfer money, your level is below 10!"
+    },
+    "SENDMONEY_NO_MONEY": {
+        "ru": "§cОшибка, на вашем балансе недостаточно средств! Включая комиссию %s на вашем счету должно быть %s %s",
+        "ua": "§cПомилка, на вашому балансі недостатньо коштів! Включно з комісією, %s на вашому рахунку повинно бути %s %s",
+        "en": "§cError, there are not enough funds on your balance! Including commission, %s on your account must be %s %s"
+    },
+    "SENDMONEY_SEND": {
+        "ru": "$SERVER_PREFIX$Вы успешно передали §a%s §f%s игроку %s§f. Комиссия при переводе составила §c%s §f%s (§e%s§f)",
+        "ua": "§6Сервер §8| §fВи успішно передали §a%s §f%s гравцю %s§f.Комісія при перекладі склала §c%s §f%s (§e%s§f)",
+        "en": "§6Server §8| §fYou have successfully transferred §a%s §f%s to player %s§f. Commission when transferring was §c%s §f%s (§e%s§f)"
+    },
+    "SENDMONEY_TO": {
+        "ru": "$SERVER_PREFIX$Вы успешно получили §a%s §f%s от игрока %s",
+        "ua": "§6Сервер §8| §fВи успішно отримали §a%s §f%s від гравця %s",
+        "en": "§6Server §8| §fYou have successfully received §a%s §f%s from player %s"
+    },
+    "SENDMONEY_YOU": {
+        "ru": "§cТы что, дурак ?! Зачем ты отправляешь деньги сам себе!",
+        "ua": "§cТи що, дурень ?! Навіщо ти відправляєш гроші сам собі!",
+        "en": "§cWhat are you, stupid?! Why are you sending money to yourself!"
+    },
+    "SEND_FORMAT": {
+        "ru": "/send <ник игрока> <сервер>",
+        "ua": "/send <нік гравця> <сервер>",
+        "en": "/send <player's nickname> <server>"
+    },
+    "SENT_MESSAGE_FORMAT": {
+        "ru": " §6ЛС §8| §6Я§8 -> §6%s§8 | §f%s",
+        "ua": " §6ЛС §8| §6Я §8-> §6%s§8 | §f%s",
+        "en": " §6PM §8| §6Я §8-> §6%s§8 | §f%s"
+    },
+    "SERVERS_NOT_FOUND": {
+        "ru": "§cОшибка, указанные сервера не найдены",
+        "ua": "§cПомилка, зазначені сервера не знайдені",
+        "en": "§cError, the specified server was not found"
+    },
+    "SERVER_FORMAT": {
+        "ru": "/server <сервер>",
+        "ua": "/server <сервер>",
+        "en": "/server <server>"
+    },
+    "SERVER_IS_NOT_ONLINE": {
+        "ru": "§cСервер не найден!",
+        "ua": "§cСервер не знайдений!",
+        "en": "§cServer not found!"
+    },
+    "SERVER_PREFIX": {
+        "ru": "§6Сервер §8| §f"
+    },
+    "SERVER_QUEUE": {
+        "ru": "§aТелепортирую на сервер %s",
+        "ua": "§aТелепортую на сервер %s",
+        "en": "§aTeleporting to server %s"
+    },
+    "SERVER_TELEPORTATION": {
+        "ru": "$SERVER_PREFIX$Вы были телепортированы на сервер §a%s",
+        "ua": "§6Сервер §8| §fВи були телепортовані на сервер §a%s",
+        "en": "§6Server §8| §fYou have been teleported to server §a%s"
+    },
+    "SERVER_TO": {
+        "ru": "$SERVER_PREFIX$Вы подключены к серверу §a%s",
+        "ua": "§6Сервер §8| §fВи підключені до сервера §a%s",
+        "en": "§6Server §8| §fYou have been connected to Server §a%s"
+    },
+    "SERVER_TO_LIMBO": {
+        "ru": "$SERVER_PREFIX$Ваш сервер был не найден в главном ядре, вы были телепортированы в §aLimbo",
+        "ua": "§6Сервер §8| §fВаш сервер був не знайдений в головному ядрі, ви були телепортовані в §aLimbo",
+        "en": "§6Server §8| §fYour server was not found in the main core, you have been teleported to§aLimbo"
+    },
+    "SERVER_TO_WAIT": {
+        "ru": "$SERVER_PREFIX$Ждем появления вашего сервера...",
+        "ua": "§6Сервер §8| §fЧекаємо появи вашого сервера...",
+        "en": "§6Server §8| §fWe are waiting for your server to appear..."
+    },
+    "SERVER_WAS_DOWN": {
+        "ru": "$SERVER_PREFIX$Сервер §a%s §fзакрыл Ваше соединение, Вы перенаправлены на §a%s",
+        "ua": "§6Сервер §8| §fСервер §a%s §fзакрив Ваше з'єднання, ви перенаправлені на §a%s",
+        "en": "§6Server §8| §fServer §a%s §fclosed your connection, you are redirected to §a%s"
+    },
+    "SGD_GAME_DESC": {
+        "ru": [
+            "Сражайтесь с другими за право быть лучшим",
+            "В этом Вам помогут вещи из сундуков, а также",
+            "умения и наборы, которые Вы выбрали в лобби",
+            "Победителями станут все выжившие игроки",
+            "из победившей игру команды"
+        ],
+        "ua": [
+            "Боріться з іншими за право бути кращим",
+            "У цьому вам допоможуть речі зі скринь, а також",
+            "вміння і набори, які ви обрали в лобі",
+            "Переможцями стануть всі гравці",
+            "з тієї команди, що перемогла"
+        ],
+        "en": [
+            "Fight others to be the best",
+            "The things from the chests will help you with this, as well as",
+            "skills and sets that you have chosen in the lobby",
+            "All survivors will be winners",
+            "from the winner team"
+        ]
+    },
+    "SGS_GAME_DESC": {
+        "ru": [
+            "Сражайтесь с другими за право быть лучшим",
+            "В этом Вам помогут вещи из сундуков, а также",
+            "умения и наборы, которые Вы выбрали в лобби",
+            "Победителем станет последний выживший игрок"
+        ],
+        "ua": [
+            "Боріться з іншими за право бути кращим",
+            "У цьому вам допоможуть речі зі скринь, а також",
+            "вміння і набори, які ви вибрали в лобі",
+            "Переможцем стане останній гравець, що вижив"
+        ],
+        "en": [
+            "Fight others to be the best",
+            "The things from the chests will help you with this, as well as",
+            "skills and sets that you have chosen in the lobby",
+            "The last surviving player will be the winner"
+        ]
+    },
+    "SIT_DISABLE": {
+        "ru": "$SERVER_PREFIX$Вы успешно встали",
+        "ua": "§6Сервер §8| §fВи успішно встали",
+        "en": "§6Server §8| §fYou got up successfully"
+    },
+    "SIT_ENABLE": {
+        "ru": "$SERVER_PREFIX$Вы успешно сели",
+        "ua": "§6Сервер §8| §fВи успішно сіли",
+        "en": "§6Server §8| §fYou sat down successfully"
+    },
+    "SIT_ERROR": {
+        "ru": "$SERVER_PREFIX$Вы не можете сидеть в воздухе",
+        "ua": "§6Сервер §8| §fВы не можете сидеть в воздухе",
+        "en": "§6Server §8| §fYou cannot sit in the air"
+    },
+    "SKIN_FORMAT": {
+        "ru": "/skin <reset/ник игрока>",
+        "ua": "/skin <reset/нік гравця>",
+        "en": "/skin <reset/player's nickname>"
+    },
+    "SKIN_HAS_BEEN_RESET": {
+        "ru": "§6Скин §8| §fВаш скин был сброшен",
+        "ua": "§6Скін §8| §fВаш скін був скинутий",
+        "en": "§6Skin §8| §fYour skin has been reset"
+    },
+    "SKIN_HAS_BEEN_UPDATED_TO": {
+        "ru": "§6Скин §8| §fВаш скин был обновлен",
+        "ua": "§6Скін §8| §fВаш скін був оновлений",
+        "en": "§6Skin §8| §fYour skin has been updated"
+    },
+    "SKIN_PURCHASE_MESSAGE": {
+        "ru": "Вы приобрели скин для магазина §a%s §fза §a%s §f%s",
+        "ua": "Ви придбали скін для магазину §a%s §fза §a%s §f%s",
+        "en": "You purchased a skin for the store §a%s §ffor §a%s §f%s"
+    },
+    "SKIN_SELECTION_MESSAGE": {
+        "ru": "Вы выбрали скин §a%s",
+        "ua": "Ви обрали скін §a%s",
+        "en": "You chose skin §a%s"
+    },
+    "SPEED_BUILDERS_SOLO_TYPE": {
+        "ru": "§eSpeedBuilders",
+        "ua": "§eSpeedBuilders",
+        "en": "§eSpeedBuilders"
+    },
+    "SPLEEF_SOLO_TYPE": {
+        "ru": "§eSpleef",
+        "ua": "§eSpleef",
+        "en": "§eSpleef"
+    },
+    "SPT_GAME_DESC": {
+        "ru": [
+            "Вы должны, копая снег с помощью лопаты, убрать всех врагов",
+            "Команда, которая останется последней на платформе - побеждает",
+            "Для победы в игре, у команды должно быть 3 победы"
+        ],
+        "ua": [
+            "Ви повинні, копаючи сніг за допомогою лопати, прибрати всіх ворогів",
+            "Команда, яка залишиться останньою на платформі - перемагає",
+            "Для перемоги в грі, у команди повинно бути 3 перемоги"
+        ],
+        "en": [
+            "You must, while digging snow with a shovel, remove all enemies",
+            "The team that remains the last on the platform wins",
+            "To win the game, the team must have 3 wins"
+        ]
+    },
+    "STAFF_GUI_MAIN": {
+        "ru": "Список персонала",
+        "ua": "Список персоналу",
+        "en": "Staff list"
+    },
+    "STAFF_MEMBER_OFFLINE_LORE": {
+        "ru": [
+            " ",
+            "§7Последний раз был в сети",
+            "§e%s назад",
+            " ",
+            " §c✗ Сейчас оффлайн"
+        ],
+        "ua": [
+            " ",
+            "§7Останній раз був в сеті",
+            "§e%s тому",
+            " ",
+            " §c✗ Зараз оффлайн"
+        ],
+        "en": [
+            " ",
+            "§7Last seen online",
+            "§e%s ago",
+            " ",
+            " §c✗ Now offline"
+        ]
+    },
+    "STAFF_MEMBER_ONLINE_LORE": {
+        "ru": [
+            " ",
+            "§7Сервер: §a%s"
+        ],
+        "ua": [
+            " ",
+            "§7Сервер: §a%s"
+        ],
+        "en": [
+            " ",
+            "§7Server: §a%s"
+        ]
+    },
+    "STREAMS_ADD": {
+        "ru": "§6YouTube §8| §fТрансляция успешно добавлена на сервер! Через §a2§f минуты об этом будут уведомлены все игроки! §c(Если вы слишком часто добавляете стрим, то этого уведомления не будет!)",
+        "ua": "§6YouTube §8| §fТрансляція успішно додана на сервер! Через §a2§f хвилин про це дізнаються всі гравці! §c(Якщо ви занадто часто додаєте стрім, то цього повідомлення не буде!)",
+        "en": "§6YouTube §8| §fThe stream has been successfully added to the server! In §a2§f minutes all players will be notified of this! §c(If you add streams too often, then you'll get no notifications!)"
+    },
+    "STREAMS_ADD_ERROR": {
+        "ru": "§6YouTube §8| §cВозникла ошибка при добавлении трансляци... Возможно стрим не запущен...",
+        "ua": "§6YouTube §8| §cВиникла помилка під час додавання трансляції... Можливо, стрім не запущено...",
+        "en": "§6YouTube §8| §cAn error occurred while adding a broadcast ... stream is not running ..."
+    },
+    "STREAMS_ADD_LAST_ERROR": {
+        "ru": "§6YouTube §8| §cОшибка, вы должны запускать стрим только на сервере LastCraft",
+        "ua": "§6YouTube §8| §cПомилка, ви повинні запускати стрім тільки на сервері LastCraft",
+        "en": "§6YouTube §8| §cError, you should only stream on server LastCraft"
+    },
+    "STREAMS_ADD_SYNTAX_ERROR": {
+        "ru": "§6YouTube §8| §cОшибка, введена некорректная ссылка",
+        "ua": "§6YouTube §8| §cПомилка, введене некоректна посилання",
+        "en": "§6YouTube §8| §cError, incorrect link entered"
+    },
+    "STREAMS_ALREADY": {
+        "ru": "§6YouTube §8| §fУ вас уже есть запущенная трансляция!",
+        "ua": "§6YouTube §8| §fУ вас вже є запущена трансляція!",
+        "en": "§6YouTube §8| §fYou already have a live stream running!"
+    },
+    "STREAMS_CLICK": {
+        "ru": [
+            " ",
+            " §fНажмите на это сообщение,",
+            " §fчтобы получить ссылку на трансляцию",
+            " §fигрока %s",
+            " "
+        ],
+        "ua": [
+            " ",
+            " §fНатисніть на це повідомлення,",
+            " §fщоб отримати посилання на трансляцію",
+            " §fгравця %s",
+            " "
+        ],
+        "en": [
+            " ",
+            " §fClick on this message",
+            " §fto get the stream link",
+            " §fby player %s",
+            " "
+        ]
+    },
+    "STREAMS_DELETE_STREAM": {
+        "ru": "§6YouTube §8| §fСтрим на платформе %s §fудален",
+        "ua": "§6YouTube §8| §fСтрім на платформі %s §fвидалений",
+        "en": "§6YouTube §8| §fStream on the platform%s §fhas been deleted"
+    },
+    "STREAMS_DELETE_STREAM_BY": {
+        "ru": "§6YouTube §8| %s §fудалил ваш стрим на платформе %s",
+        "ua": "§6YouTube §8| %s §fвидалив ваш стрім на платформі %s",
+        "en": "§6YouTube §8| %s §fdeleted your stream on the platform %s"
+    },
+    "STREAMS_DELETE_TARGET": {
+        "ru": "§6YouTube §8| §fВы удалили трансляцию игрока %s",
+        "ua": "§6YouTube §8| §fВи видалили трансляцію гравця %s",
+        "en": "§6YouTube §8| §fYou have deleted a player's stream %s"
+    },
+    "STREAMS_EXAMPLE": {
+        "ru": [
+            "§6YouTube §8| §fПримеры ссылок, которые поддерживаются:",
+            " §8▪ §fПрямой эфир на §7You§cTube§f: §dhttps://www.youtube.com/watch?v=XXXXXXXXX",
+            " §8▪ §5Twitch§f канал, проводящий стрим: §dhttps://www.twitch.tv/XXXXXXXX"
+        ],
+        "ua": [
+            "§6YouTube §8| §fПриклади посилань, які підтримуються:",
+            " §8▪ §fПрямий ефір на §7You§cTube§f: §dhttps://www.youtube.com/watch?v=XXXXXXXXX",
+            " §8▪ §5Twitch§f канал, що проводить стрім: §dhttps://www.twitch.tv/XXXXXXXX"
+        ],
+        "en": [
+            "§6YouTube §8| §fПexamples of links that are supported:",
+            " §8▪ §fLive on §7You§cTube§f: §dhttps://www.youtube.com/watch?v=XXXXXXXXX",
+            " §8▪ §5Twitch§f channel streaming: §dhttps://www.twitch.tv/XXXXXXXX"
+        ]
+    },
+    "STREAMS_GUI_LORE": {
+        "ru": [
+            "",
+            "§7Название: §f%s",
+            "§7Зрителей: §a%s",
+            "§7Длительность: §f%s",
+            "",
+            "§e▸ Нажмите, чтобы получить ссылку"
+        ],
+        "ua": [
+            "",
+            "§7Назва: §f%s",
+            "§7Глядачів: §a%s",
+            "§7Тривалість: §f%s",
+            "",
+            "§e▸ Натисніть, щоб отримати посилання"
+        ],
+        "en": [
+            "",
+            "§7Name: §f%s",
+            "§7Viewers: §a%s",
+            "§7Duration: §f%s",
+            "",
+            "§e▸ Click to get the link"
+        ]
+    },
+    "STREAMS_GUI_NAME": {
+        "ru": "Трансляции",
+        "ua": "Трансляції",
+        "en": "Streams"
+    },
+    "STREAMS_HELP": {
+        "ru": [
+            "§7/streams add <ссылка> §f- добавить трансляцию на сервер",
+            "§7/streams remove §f- удалить трансляцию"
+        ],
+        "ua": [
+            "§7/streams add <посилання> §f- додати трансляцію на сервер",
+            "§7/streams remove §f- видалити трансляцію"
+        ],
+        "en": [
+            "§7/streams add <link> §f- add stream to server",
+            "§7/streams remove §f- delete stream"
+        ]
+    },
+    "STREAMS_HELP_LORE": {
+        "ru": [
+            "",
+            "§7На сервере можно создавать",
+            "§7трансляции с площадок §fYou§cTube §7и §dTwitch",
+            "",
+            "§7Как это сделать ?",
+            "§7Для начала вам нужно иметь статус %s",
+            "§7и после этого вам станут доступны",
+            "§7команды §f/streams add §7и §f/stream remove",
+            "§7(создать и удалить стрим соответственно)",
+            "",
+            "§fКаждые §a10 §fминут все игроки будут",
+            "§fполучать уведомление о всех активных",
+            "§fтрансляциях на сервере!",
+            "",
+            "§cУчти! Как только ты покинешь сервер,",
+            "§cтрансляция будет удалена!"
+        ],
+        "ua": [
+            "",
+            "§7На сервері можна створювати",
+            "§7трансляції з платформ §fYou§cTube §7и §dTwitch",
+            "",
+            "§7Як це зробити?",
+            "§7Для початку вам потрібно мати статус %s",
+            "§7і після цього вам стануть доступні",
+            "§7команди §f/streams add §7и §f/stream remove",
+            "§7(створити і видалити стрім відповідно)",
+            "",
+            "§fКожні §a10 §fхвилин всі гравці будуть",
+            "§fотримувати повідомлення про всі активні",
+            "§fтрансляції на сервері!",
+            "",
+            "§cМай на увазі! Як тільки ти покинеш сервер,",
+            "§cтрансляція буде видалена!"
+        ],
+        "en": [
+            "",
+            "§7On the server you can create",
+            "§7streams using platforms §fYou§cTube §7и §dTwitch",
+            "",
+            "§7How to do it?",
+            "§7First you need to have a status %s",
+            "§7and after that you will be able to access",
+            "§7commands §f/streams add §7и §f/stream remove",
+            "§7(create and delete stream accordingly)",
+            "",
+            "§fEvery §a10 §fminutes all players will",
+            "§freceive notifications of all active",
+            "§fstreams on the server!",
+            "",
+            "§cKeep in mind! As soon as you leave the server,",
+            "§cthe stream will be deleted!"
+        ]
+    },
+    "STREAMS_HELP_NAME": {
+        "ru": "Помощь",
+        "ua": "Допомога",
+        "en": "Help"
+    },
+    "STREAMS_NO_STREAMS_TARGET": {
+        "ru": "§6YouTube §8| §fУ игрока %s §fнет активных трансляций!",
+        "ua": "§6YouTube §8| §fУ гравця %s §fнемає активних трансляцій!",
+        "en": "§6YouTube §8| §fPlayer %s §fhas no active streams!"
+    },
+    "STREAMS_NO_STREAMS_YOU": {
+        "ru": "§6YouTube §8| §fВ данный момент у вас нет активных стримов!",
+        "ua": "§6YouTube §8| §fНаразі у вас немає активних стрімів!",
+        "en": "§6YouTube §8| §fAt the moment you have no active streams!"
+    },
+    "STREAMS_NO_STREAM_LORE": {
+        "ru": [
+            "§7В данный момент на сервере",
+            "§7нет активных трансляций"
+        ],
+        "ua": [
+            "§7Наразі на сервері немає",
+            "§7активних трансляцій"
+        ],
+        "en": [
+            "§7At the moment there are",
+            "§7no active streams on the server"
+        ]
+    },
+    "STREAMS_NO_STREAM_NAME": {
+        "ru": "§cНа сервере нет активных трансляций",
+        "ua": "§cНа сервері немає активних трансляцій",
+        "en": "§cThere are no active streams on the server"
+    },
+    "STREAMS_STOP": {
+        "ru": "§6YouTube §8| §fВещание вашей трансляции было остановлено...",
+        "ua": "§6YouTube §8| §fМовлення вашої трансляції було зупинено...",
+        "en": "§6YouTube §8| §fYour stream has been stopped..."
+    },
+    "STREAMS_YOUTUBE_ONLY": {
+        "ru": "§6YouTube §8| §fПростите, но доступ к управлению трансляциями есть только у %s",
+        "ua": "§6YouTube §8| §fВибачте, але доступ до управління трансляціями є тільки у %s",
+        "en": "§6YouTube §8| §fSorry, but the only one who has access to stream management is %s"
+    },
+    "SURVIVALGAMES_DUO_TYPE": {
+        "ru": "§eПарный режим",
+        "ua": "§eПарний режим",
+        "en": "§ePair mode"
+    },
+    "SURVIVALGAMES_SOLO_TYPE": {
+        "ru": "§eОдиночный режим",
+        "ua": "§eОдиночний режим",
+        "en": "§eSingle mode"
+    },
+    "SURVIVAL_MODE": {
+        "ru": "Выживание",
+        "ua": "Dиживання",
+        "en": "Survival"
+    },
+    "SWD_GAME_DESC": {
+        "ru": [
+            "Ваша с союзником задача помощью предметов в сундуках,",
+            "навыков PvP, наборов и умений, а также с помощью нестандартного",
+            "подхода остаться последней выжившей командой",
+            "Помогут и помешают вам в этом случайные события в игре!"
+        ],
+        "ua": [
+            "Ваша з союзником завдання за допомогою предметів в скринях,",
+            "навиків PvP, наборів і умінь, а також за допомогою нестандартного",
+            "підходу залишитися останньою командою, що вижила",
+            "Допоможуть і перешкодять вам в цьому випадкові події в грі!"
+        ],
+        "en": [
+            "Your and your teammate's task is to remain the last surviving team",
+            "by using items in chests, PvP skills, sets and abilities,",
+            "as well as using a non-standard approach",
+            "Random events in the game will help and hinder you in this!"
+        ]
+    },
+    "SWS_GAME_DESC": {
+        "ru": [
+            "Ваша задача с помощью предметов в сундуках, навыков PvP,",
+            "наборов и умений, а также с помощью нестандартного подхода",
+            "остаться последним выжившим на арене",
+            "Помогут и помешают вам в этом случайные события в игре!"
+        ],
+        "ua": [
+            "Ваше завдання за допомогою предметів в скринях, навичок PvP,",
+            "наборів і умінь, а також за допомогою нестандартного підходу",
+            "залишитися останнім тим, хто вижив на арені",
+            "Допоможуть і перешкодять вам в цьому випадкові події в грі!"
+        ],
+        "en": [
+            "Your task is with the help of items in chests, PvP skills,",
+            "sets and skills, as well as using a non-standard approach to remain",
+            "the last survivor in the arena",
+            "Random events in the game will help and hinder you in this!"
+        ]
+    },
+    "SYSTEM_DISABLED_LORE": {
+        "ru": [
+            "§cДанная функция отключена"
+        ],
+        "ua": [
+            "§cЦя функція вимкнена"
+        ],
+        "en": [
+            "§cThis function is disabled"
+        ]
+    },
+    "TAB_FOOTER": {
+        "ru": [
+            "",
+            "§fВы находитесь на сервере:",
+            "§e%s"
+        ],
+        "ua": [
+            "",
+            "§fВи знаходитесь на сервері:",
+            "§e%s"
+        ],
+        "en": [
+            "",
+            "§fYou are on the server:",
+            "§e%s"
+        ]
+    },
+    "TAB_HEADER": {
+        "ru": [
+            "§6§lLastCraft",
+            "",
+            "§fОнлайн-магазин:",
+            "§elast-craft.com",
+            ""
+        ],
+        "ua": [
+            "§6§lLastCraft",
+            "",
+            "§fОнлайн-магазин:",
+            "§elast-craft.com",
+            ""
+        ],
+        "en": [
+            "§6§lLastCraft",
+            "",
+            "§fOnline store:",
+            "§elast-craft.com",
+            ""
+        ]
+    },
+    "TEMP_GROUP_EXPIRE_SUB_TITLE": {
+        "ru": "§fВаш статус %s §fбыл сброшен до %s",
+        "ua": "§fВаш статус %s §fбув скинутий до %s",
+        "en": "§fYour status %s §fhas been reset to %s"
+    },
+    "TEMP_GROUP_EXPIRE_TITLE": {
+        "ru": "§cВремя истекло!",
+        "ua": "§cЧас вичерпано!",
+        "en": "§cTime's out!"
+    },
+    "THANKS_FOR_MARKING_MAP": {
+        "ru": [
+            "§aСпасибо за Ваш голос за карту %s§f!"
+        ],
+        "ua": [
+            "§aДякуємо за ваш голос за карту %s§f!"
+        ],
+        "en": [
+            "§aThanks for your vote for the map %s§f!"
+        ]
+    },
+    "THIS_PLAYER_IS_TESTER_FIND": {
+        "ru": "$SERVER_PREFIX$Данный игрок является тестером анти-чита. Его нельзя отследить в данный момент",
+        "ua": "§6Сервер §8| §fЦей гравець є тестером анти-чита. Його не можна відстежити в даний момент",
+        "en": "§6Server §8| §fThis player is an anti-cheat tester. He/she cannot be tracked at the moment."
+    },
+    "THIS_PLAYER_IS_TESTER_REPORT": {
+        "ru": "§6Античит §8| §fДанный игрок не читер",
+        "ua": "§6Античіт §8| §fЦей гравець не чітер",
+        "en": "§6Anticheat §8| §fThis player is not a cheater"
+    },
+    "TOP_LEVEL_HOLO": {
+        "ru": [
+            "§6§lТоп по уровню",
+            "§fТоп игроков по",
+            "§fмежсерверному уровню"
+        ],
+        "ua": [
+            "§6§lТоп по рівню",
+            "§fТоп гравців по",
+            "§fмежсерверному рівню"
+        ],
+        "en": [
+            "§6§lTop by level",
+            "§fTop players by",
+            "§finterserver level"
+        ]
+    },
+    "TOP_MONEY_HOLO": {
+        "ru": [
+            "§6§lТоп по монетам",
+            "§fТоп игроков по кол-ву",
+            "§fзаработанной валюты"
+        ],
+        "ua": [
+            "§6§lТоп по монетах",
+            "§fТоп гравців по кількості",
+            "§fзаробленої валюти"
+        ],
+        "en": [
+            "§6§lTop by coins",
+            "§fTop players by the amount",
+            "§feof earned currency"
+        ]
+    },
+    "TOP_PLACE": {
+        "ru": "место",
+        "ua": "місце",
+        "en": "place"
+    },
+    "TOP_POSITION": {
+        "ru": "§e%s место",
+        "ua": "§e%s місце",
+        "en": "§e%s place"
+    },
+    "TOP_TIME_HOLO": {
+        "ru": [
+            "§6§lТоп по сыгранному времени",
+            "§fТоп игроков по",
+            "§fсыгранному времени на сервере",
+            "§fза §7%s"
+        ],
+        "ua": [
+            "§6§lТоп по зіграному часу",
+            "§fТоп гравців по",
+            "§fзіграному часу на сервері",
+            "§fза §7%s"
+        ],
+        "en": [
+            "§6§lTop by time played",
+            "§fTop players by",
+            "§ftime played on the server",
+            "§ffor §7%s"
+        ]
+    },
+    "TP_FORMAT": {
+        "ru": "/tp <ник>",
+        "ua": "/tp <нік>",
+        "en": "/tp <nickname>"
+    },
+    "CORE_DOMAIN_STATS": {
+        "ru": [
+            "§6Stats §8| §fСтатистика §6%s §fза §e%s §f-> §e%s§f:",
+            "§8 | §fВсего входов за это время: §a%s",
+            "§8 | §fУникальных входов за это время: §a%s"
+        ]
+    },
+    "UNKNOWN_SUBCOMMAND": {
+        "ru": "§cЭтой команды не существует О_о",
+        "ua": "§cЦієї команди не існує О_о",
+        "en": "§cThis command doesn't exist О_о"
+    },
+    "WAIT_PLS": {
+        "ru": "§cПодождите немножко...",
+        "ua": "§cЗачекайте трошки...",
+        "en": "§cWait a little bit..."
+    },
+    "WRITE_AGAIN_COMMAND": {
+        "ru": "$@MODE_PREFIX$Чтобы подвердить выполнение команды, напишите §7/%s §fповторно",
+        "ua": "Щоб підтвердити виконання команди, напишіть §7/%s §fповторно",
+        "en": "To confirm the execution of the command, write §7/%s §fagain"
+    },
+    "YOU_CANT_CHECK_NON_STAFF": {
+        "ru": "§cОшибка, данный игрок не является персоналом проекта",
+        "ua": "§cПомилка, цей гравець не є персоналом проекту",
+        "en": "§cError, this player is not a project staff"
+    },
+    "YOU_CANT_CONTACT_HIM": {
+        "ru": "§cДанный игрок добавил Вас в список игнорируемых",
+        "ua": "§cЦей гравець додав вас в список ігнорованих",
+        "en": "§cThis player added you to his list of the ignored"
+    },
+    "YOU_CANT_CONTACT_HIM_SETTING": {
+        "ru": "§cОшибка, данный игрок принимает сообщения только от своих друзей",
+        "ua": "§cПомилка, цейй гравець приймає повідомлення тільки від своїх друзів",
+        "en": "§cError, this player only accepts messages from his friends"
+    },
+    "YOU_CANT_IGNORE_YOURSELF": {
+        "ru": "§cВы не можете добавить в список игнорируемых самого себя",
+        "ua": "§cВи не можете додати в список ігнорованих самого себе",
+        "en": "§cYou cannot add yourself to the ignored list."
+    },
+    "YOU_CANT_SEE_ANOTHER_PLAYERS_STATS": {
+        "ru": "§cОшибка, просматривать статистику других игроков может только §c§lMAGMA §cи выше",
+        "ua": "§cПомилка, переглядати статистику інших гравців може тільки §c§lMAGMA §cі вище",
+        "en": "§cError, the only ones who can view statistics of other players aew §c§lMAGMA §cand higher"
+    },
+    "YOU_CANT_WRITE_BY_SETTINGS": {
+        "ru": "§cВ соответствии с Вашими настройками приватности Вы можете общаться только с друзьями",
+        "ua": "§cВідповідно до ваших налаштувань приватності ви можете спілкуватися тільки з друзями",
+        "en": "§cAccording to your privacy settings, you can chat with friends only"
+    },
+    "YOU_DISABLED_DONATECHAT": {
+        "ru": "§cВы отключили чат донатеров. Чтобы написать туда, включите его в личных настройках",
+        "ua": "§cВи ввимкнулили чат донатерів. Щоб написати туди, увімкніть його в особистих налаштуваннях",
+        "en": "§cYou have disabled the donate chat. To write there, you must include its in personal settings"
+    },
+    "YOU_HAVE_BEEN_SENT": {
+        "ru": "§6Сервер §8| %s §fтелепортировал вас на сервер §c%s",
+        "ua": "§6Сервер §8| %s §fтелепортував вас на сервер §c%s",
+        "en": "§6Server §8| %s §fteleported you to the server §c%s"
+    },
+    "YOU_HAVE_DONATECHAT_COOLDOWN": {
+        "ru": "§cПисать в чат донатеров можно раз в 30 секунд",
+        "ua": "§cПисати в чат донатерів можна раз в 30 секунд",
+        "en": "§cYou can write to donators' chat once every 30 seconds"
+    },
+    "YOU_REWARD_MSG": {
+        "ru": "Вы заработали",
+        "ua": "Ви заробили",
+        "en": "You earned"
+    },
+    "DAMAGE_CAUSE_BOW": {
+        "ru": "%s§f застрелен",
+        "ua": "%s§f застрелений",
+        "en": "%s§f has been shot"
+    },
+    "DAMAGE_CAUSE_BOW_TO": {
+        "ru": "%s§f застрелен игроком %s",
+        "ua": "%s§f застрелений гравцем %s",
+        "en": "%s§f has been shot by player %s"
+    },
+    "DAMAGE_CAUSE_BURN": {
+        "ru": "%s§f сгорел заживо",
+        "ua": "%s§f згорів заживо",
+        "en": "%s§f burned alive"
+    },
+    "DAMAGE_CAUSE_BURN_TO": {
+        "ru": "%s§f был сожжён дотла, пока боролся с %s",
+        "ua": "%s§f був спалений дотла, поки боровся з %s",
+        "en": "%s§f was burned to the ground while fighting with %s"
+    },
+    "DAMAGE_CAUSE_CACTUS": {
+        "ru": "%s§f исколот до смерти",
+        "ua": "%s§f поколотий до смерті",
+        "en": "%s§f has been stabbed to death"
+    },
+    "DAMAGE_CAUSE_CACTUS_TO": {
+        "ru": "%s§f наткнулся на кактус, спасаясь от %s",
+        "ua": "%s§f натрапив на кактус, рятуючись від %s",
+        "en": "%s§f stumbled upon a cactus while fleeing from %s"
+    },
+    "DAMAGE_CAUSE_CONTACT": {
+        "ru": "%s§f исколот до смерти",
+        "ua": "%s§f поколотий до смерті",
+        "en": "%s§f has been stabbed to death"
+    },
+    "DAMAGE_CAUSE_CONTACT_TO": {
+        "ru": "%s§f наткнулся на кактус, спасаясь от %s",
+        "ua": "%s§f натрапив на кактус, рятуючись від %s",
+        "en": "%s§f stumbled upon a cactus while fleeing from %s"
+    },
+    "DAMAGE_CAUSE_DROP": {
+        "ru": "%s§f разбился насмерть",
+        "ua": "%s§f розбився на смерть",
+        "en": "%s§f crashed to death"
+    },
+    "DAMAGE_CAUSE_DROP_TO": {
+        "ru": "%s§f был скинут игроком %s",
+        "ua": "%s§f був скинутий гравцем %s",
+        "en": "%s§f was thrown off by player %s"
+    },
+    "DAMAGE_CAUSE_DROWNING": {
+        "ru": "%s§f утонул",
+        "ua": "%s§f потонув",
+        "en": "%s§f drowned"
+    },
+    "DAMAGE_CAUSE_DROWNING_TO": {
+        "ru": "%s§f утонул, спасаясь от %s",
+        "ua": "%s§f потонув, рятуючись від %s",
+        "en": "%s§f drowned, fleeing from %s"
+    },
+    "DAMAGE_CAUSE_ENTITY_EXPLOSION": {
+        "ru": "%s§f взорвался",
+        "ua": "%s§f підірвався",
+        "en": "%s§f exploded"
+    },
+    "DAMAGE_CAUSE_ENTITY_EXPLOSION_TO": {
+        "ru": "%s§f был взорван игроком %s",
+        "ua": "%s§f був підірваний гравцем %s",
+        "en": "%s§f has been blown up by player %s"
+    },
+    "DAMAGE_CAUSE_EXPLOSION": {
+        "ru": "%s§f взорвался",
+        "ua": "%s§f підірвався",
+        "en": "%s§f exploded"
+    },
+    "DAMAGE_CAUSE_EXPLOSION_TO": {
+        "ru": "%s§f был взорван игроком %s",
+        "ua": "%s§f був підірваний гравцем %s",
+        "en": "%s§f has been blown up by player %s"
+    },
+    "DAMAGE_CAUSE_FALL": {
+        "ru": "%s§f разбился насмерть",
+        "ua": "%s§f розбився на смерть",
+        "en": "%s§f crashed to death"
+    },
+    "DAMAGE_CAUSE_FALL_TO": {
+        "ru": "%s§f был скинут игроком %s",
+        "ua": "%s§f був скинутий гравцем %s",
+        "en": "%s§f was thrown off by player %s"
+    },
+    "DAMAGE_CAUSE_FIRE": {
+        "ru": "%s§f сгорел заживо",
+        "ua": "%s§f згорів заживо",
+        "en": "%s§f burned alive"
+    },
+    "DAMAGE_CAUSE_FIRE_TICK": {
+        "ru": "%s§f сгорел заживо",
+        "ua": "%s§f згорів заживо",
+        "en": "%s§f burned alive"
+    },
+    "DAMAGE_CAUSE_FIRE_TICK_TO": {
+        "ru": "%s§f был сожжён дотла, пока боролся с %s",
+        "ua": "%s§f був спалений дотла, поки боровся з %s",
+        "en": "%s§f was burned to the ground while fighting with %s"
+    },
+    "DAMAGE_CAUSE_FIRE_TO": {
+        "ru": "%s§f был сожжён дотла, пока боролся с %s",
+        "ua": "%s§f був спалений дотла, поки боровся з %s",
+        "en": "%s§f was burned to the ground while fighting with %s"
+    },
+    "DAMAGE_CAUSE_KILLED": {
+        "ru": "%s§f решил покинуть наш мир",
+        "ua": "%s§f вирішив покинути наш світ",
+        "en": "%s§f decided to leave our world"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD": {
+        "ru": "%s§f был убит туманным зельем",
+        "ua": "%s§f був убитий туманним зіллям",
+        "en": "%s§f has been killed with Misty Potion"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF": {
+        "ru": "%s§f был убит туманным зельем игрока %s",
+        "ua": "%s§f був убитий туманним зіллям гравця %s",
+        "en": "%s§f has been killed with Misty Potion of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ARROW": {
+        "ru": "%s§f был застрелен",
+        "ua": "%s§f був застрелений",
+        "en": "%s§f has been shot"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ARROW_OF": {
+        "ru": "%s§f был застрелен игроком %s",
+        "ua": "%s§f був застрелений гравцем %s",
+        "en": "%s§f has been shot by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_BLAZE": {
+        "ru": "%s§f был испепелён ифритом",
+        "ua": "%s§f спопелілий іфритом",
+        "en": "%s§f was incinerated by efreet"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_BLAZE_OF": {
+        "ru": "%s§f был испепелён ифритом игрока %s",
+        "ua": "%s§f спопелілий іфритом гравця %s",
+        "en": "%s§f was incinerated by efreet of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_CREEPER": {
+        "ru": "%s§f был убит взрывом крипера",
+        "ua": "%s§f був убитий вибухом кріпера",
+        "en": "%s§f has been killed with creeper blast"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_CREEPER_OF": {
+        "ru": "%s§f был убит взрывом крипера игрока %s",
+        "ua": "%s§f був убитий вибухом кріпера гравця %s",
+        "en": "%s§f has been killed with creeper blast of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_EGG_OF": {
+        "ru": "%s§f был застрелен игроком %s",
+        "ua": "%s§f був застрелений игроком %s",
+        "en": "%s§f has been shot by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ENDER_PEARL": {
+        "ru": "%s§f был убит об удар о жемчуг эндера",
+        "ua": "%s§f був убитий ударом об Ендер перли",
+        "en": "%s§f has been killed with an Enderpearl"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ENDER_PEARL_OF": {
+        "ru": "%s§f был убит об удар о жемчуг эндера игрока %s",
+        "ua": "%s§f був убитий ударом об Ендер перли гравця %s",
+        "en": "%s§f has been killed with an Enderpearl of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_GUARDIAN": {
+        "ru": "%s §fопробовал на себе лазер стража",
+        "ua": "%s §fовипробував на собі лазер стража",
+        "en": "%s §ftried the guard's laser on theirselves"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_GUARDIAN_OF": {
+        "ru": "%s §fопробовал на себе лазер стража игрока %s",
+        "ua": "%s §fовипробував на собі лазер стража гравця %s",
+        "en": "%s §ftried the guard's laser on theirselves of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ILLUSIONER": {
+        "ru": "%s§f испытал на себе фокусы иллюзиониста",
+        "ua": "%s§f випробував на собі фокуси ілюзіоніста",
+        "en": "%s§f experienced the magician's tricks"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF": {
+        "ru": "%s§f испытал на себе фокусы иллюзиониста игрока %s",
+        "ua": "%s§f випробував на собі фокуси ілюзіоніста гравця %s",
+        "en": "%s§f experienced the magician's tricks of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM": {
+        "ru": "%s§f погиб в объятиях железного голема",
+        "ua": "%s§f загинув в обіймах залізного голема",
+        "en": "%s§f died in the arms of an iron golem"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_IRON_GOLEM_OF": {
+        "ru": "%s§f погиб в объятиях железного голема игрока %s",
+        "ua": "%s§f загинув в обіймах залізного голема гравця %s",
+        "en": "%s§f died in the arms of an iron golem of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_LIGHTNING": {
+        "ru": "%s§f был убит разъярённым зевсом",
+        "ua": "%s§f був убитий розлюченим Зевсом",
+        "en": "%s§f has been killed by angry Zeus"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_LIGHTNING_OF": {
+        "ru": "%s§f был убит молнией игрока %s",
+        "ua": "%s§f був убитий блискавкою гравця %s",
+        "en": "%s§f has been killed by a lightning of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION": {
+        "ru": "%s§f был убит туманным зельем",
+        "ua": "%s§f був убитий туманним зіллям",
+        "en": "%s§f has been killed with Misty Potion"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF": {
+        "ru": "%s§f был убит туманным зельем игрока %s",
+        "ua": "%s§f був убитий туманним зіллям гравця %s",
+        "en": "%s§f has been killed with Misty Potion of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_PIG_ZOMBIE": {
+        "ru": "%s§f был убит свинозомби",
+        "ua": "%s§f був убитий свінозомбі",
+        "en": "%s§f has been killed by pig-zombie"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_PIG_ZOMBIE_OF": {
+        "ru": "%s§f был убит свинозомби игрока %s",
+        "ua": "%s§f був убитий свінозомбі гравця %s",
+        "en": "%s§f has been killed by pig-zombie of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_PRIMED_TNT": {
+        "ru": "%s§f взорвался",
+        "ua": "%s§f підірвався",
+        "en": "%s§f exploded"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_PRIMED_TNT_OF": {
+        "ru": "%s§f был взорван игроком %s",
+        "ua": "%s§f був підірваний гравцем %s",
+        "en": "%s§f has been blown up by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SHULKER": {
+        "ru": "%s§f отправился на небеса шалкером",
+        "ua": "%s§f відправився на небеса шалкером",
+        "en": "%s§f went to heaven by shulker"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SHULKER_OF": {
+        "ru": "%s§f отправился на небеса шалкером игрока %s",
+        "ua": "%s§f відправився на небеса шалкером гравця %s",
+        "en": "%s§f went to heaven by shulker of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SILVERFISH": {
+        "ru": "%s§f был убит глупой чешуйницей",
+        "ua": "%s§f був убитий дурною чешуйніцею",
+        "en": "%s§f has been killed by a stupid silverfish"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SILVERFISH_OF": {
+        "ru": "%s§f был убит глупой чешуйницей игрока %s",
+        "ua": "%s§f був убитий дурною чешуйніцею гравця %s",
+        "en": "%s§f has been killed by a stupid silverfish of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SKELETON": {
+        "ru": "%s§f был убит, пытаясь увернуться от стрел скелета",
+        "ua": "%s§f був убитий, намагаючись ухилитися від стріл скелета",
+        "en": "%s§f has been killed, trying to dodge the arrows of the skeleton"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SKELETON_OF": {
+        "ru": "%s§f был убит, пытаясь увернуться от стрел скелета игрока %s",
+        "ua": "%s§f був убитий, намагаючись ухилитися від стріл скелета гравця %s",
+        "en": "%s§f has been killed, trying to dodge the arrows of the skeleton of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SLIME": {
+        "ru": "%s§f был раздавлен злым слаймом",
+        "ua": "%s§f був розчавлений злим слаймом",
+        "en": "%s§f was crushed by an evil slime"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SLIME_OF": {
+        "ru": "%s§f был раздавлен злым слаймом игрока %s",
+        "ua": "%s§f був розчавлений злим слаймом гравця %s",
+        "en": "%s§f was crushed by an evil slime of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SNOWBALL_OF": {
+        "ru": "%s§f был застрелен игроком %s",
+        "ua": "%s§f був застрелений гравцем %s",
+        "en": "%s§f has been shot by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW": {
+        "ru": "%s§f был застрелен",
+        "ua": "%s§f був застрелений",
+        "en": "%s§f has been shot"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW_OF": {
+        "ru": "%s§f был застрелен игроком %s",
+        "ua": "%s§f був застрелений гравцем %s",
+        "en": "%s§f has been shot by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SPIDER": {
+        "ru": "%s§f погиб от укуса паука",
+        "ua": "%s§f загинув від укусу павука",
+        "en": "%s§f died from a spider bite"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SPIDER_OF": {
+        "ru": "%s§f был убит пауками игрока %s",
+        "ua": "%s§f був убитий павуками гравця %s",
+        "en": "%s§f has been killed by spiders of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SPLASH_POTION": {
+        "ru": "%s§f погиб от магии",
+        "ua": "%s§f загинув від магії",
+        "en": "%s§f has been killed by magic"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_SPLASH_POTION_OF": {
+        "ru": "%s§f погиб от магии игрока %s",
+        "ua": "%s§f загинув від магії гравця %s",
+        "en": "%s§f has been killed by magic of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_TIPPED_ARROW_OF": {
+        "ru": "%s§f был застрелен игроком %s",
+        "ua": "%s§f був застрелений гравцем %s",
+        "en": "%s§f has been shot by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_VEX": {
+        "ru": "%s§f был растерзан стаей вредин",
+        "ua": "%s§f був пошматований зграєю вредин",
+        "en": "%s§f has been torn to pieces by a flock of mischiefs"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_VEX_OF": {
+        "ru": "%s§f был растерзан стаей вредин игрока %s",
+        "ua": "%s§f був пошматований зграєю вредин гравця %s",
+        "en": "%s§f has been torn to pieces by a flock of mischiefs of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_WOLF": {
+        "ru": "%s§f был растерзан волками",
+        "ua": "%s§f був пошматований вовками",
+        "en": "%s§f has been torn to pieces by wolves"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_WOLF_OF": {
+        "ru": "%s§f был растерзан волками игрока %s",
+        "ua": "%s§f був пошматований вовками гравця %s",
+        "en": "%s§f has been torn to pieces by wolves of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ZOMBIE": {
+        "ru": "%s§f был убит, спасаясь от зомби",
+        "ua": "%s§f був убитий, рятуючись від зомбі",
+        "en": "%s§f has been killed, fleeing from zombies"
+    },
+    "DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF": {
+        "ru": "%s§f был убит, спасаясь от зомби игрока %s",
+        "ua": "%s§f був убитий, рятуючись від зомбі гравця %s",
+        "en": "%s§f has been killed, fleeing from zombies of the player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_OF": {
+        "ru": "%s§f был убит игроком %s",
+        "ua": "%s§f був убитий гравцем %s",
+        "en": "%s§f has been killed by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_OF_PLAYER": {
+        "ru": "%s§f был убит игроком %s",
+        "ua": "%s§f був убитий гравцем %s",
+        "en": "%s§f has been killed by player %s"
+    },
+    "DAMAGE_CAUSE_KILLED_OF_PLAYERS": {
+        "ru": "%s§f был убит игроками %s",
+        "ua": "%s§f був убитий гравцями %s",
+        "en": "%s§f has been killed by players %s"
+    },
+    "DAMAGE_CAUSE_KILLED_TO": {
+        "ru": "%s§f был убит игроком %s",
+        "ua": "%s§f був убитий гравцем %s",
+        "en": "%s§f has been killed by player %s"
+    },
+    "DAMAGE_CAUSE_LAVA": {
+        "ru": "%s§f решил поплавать в лаве",
+        "ua": "%s§f вирішив поплавати в лаві",
+        "en": "%s§f decided to swim in lava"
+    },
+    "DAMAGE_CAUSE_LAVA_TO": {
+        "ru": "%s§f упал в лаву, убегая от %s",
+        "ua": "%s§f впав в лаву, тікаючи від %s",
+        "en": "%s§f fell into lava, running away from %s"
+    },
+    "DAMAGE_CAUSE_MAGIC": {
+        "ru": "%s§f был убит с помощью магии",
+        "ua": "%s§f був убитий за допомогою магії",
+        "en": "%s§f has been killed with magic"
+    },
+    "DAMAGE_CAUSE_MAGIC_TO": {
+        "ru": "%s§f был убит с помощью магии игроком %s",
+        "ua": "%s§f ув убитий за допомогою магії гравцем %s",
+        "en": "%s§f has been killed with magic by player %s"
+    },
+    "DAMAGE_CAUSE_OUT": {
+        "ru": "%s§f выпал из мира",
+        "ua": "%s§f випав зі світу",
+        "en": "%s§f dropped out of the world"
+    },
+    "DAMAGE_CAUSE_OUT_TO": {
+        "ru": "%s§f выпал из мира, пока боролся с %s",
+        "ua": "%s§f випав зі світу, поки боровся з %s",
+        "en": "%s§f dropped out of the world, while fighting with %s"
+    },
+    "DAMAGE_CAUSE_PROJECTILE": {
+        "ru": "%s§f застрелен",
+        "ua": "%s§f застрелений",
+        "en": "%s§f has been shot"
+    },
+    "DAMAGE_CAUSE_PROJECTILE_TO": {
+        "ru": "%s§f застрелен игроком %s",
+        "ua": "%s§f застрелений гравцем %s",
+        "en": "%s§f has been shot by player %s"
+    },
+    "DAMAGE_CAUSE_SUCIDE": {
+        "ru": "%s§f решил покончить жизнь самоубийством",
+        "ua": "%s§f вирішив покінчити життя самогубством",
+        "en": "%s§f decided to commit suicide"
+    },
+    "DAMAGE_CAUSE_SUICIDE": {
+        "ru": "%s§f решил покончить жизнь самоубийством",
+        "ua": "%s§f вирішив покінчити життя самогубством",
+        "en": "%s§f decided to commit suicide"
+    },
+    "DAMAGE_CAUSE_SWIM": {
+        "ru": "%s§f утонул",
+        "ua": "%s§f потонув",
+        "en": "%s§f drowned"
+    },
+    "DAMAGE_CAUSE_SWIM2": {
+        "ru": "%s§f решил поплавать в лаве",
+        "ua": "%s§f вирішив поплавати в лаві",
+        "en": "%s§f decided to swim in lava"
+    },
+    "DAMAGE_CAUSE_SWIM2_TO": {
+        "ru": "%s§f упал в лаву, убегая от %s",
+        "ua": "%s§f впав в лаву, тікаючи від %s",
+        "en": "%s§f fell into lava, running away from %s"
+    },
+    "DAMAGE_CAUSE_SWIM_TO": {
+        "ru": "%s§f утонул, спасаясь от %s",
+        "ua": "%s§f потонув, рятуючись від %s",
+        "en": "%s§f drowned, fleeing from %s"
+    },
+    "DAMAGE_CAUSE_VOID": {
+        "ru": "%s§f выпал из мира",
+        "ua": "%s§f випав зі світу",
+        "en": "%s§f dropped out of the world"
+    },
+    "DAMAGE_CAUSE_VOID_TO": {
+        "ru": "%s§f выпал из мира, пока боролся с %s",
+        "ua": "%s§f випав зі світу, поки боровся з %s",
+        "en": "%s§f dropped out of the world, while fighting with %s"
+    },
+    "LASTCRAFT_ENCHANTMENT": {
+        "ru": "§6Зачарование LastCraft"
+    },
+    "DENCHANTMENT": {
+        "ru": "§7%s %s"
+    },
+    "DENCHANTMENT_AUTO_MELTING": {
+        "ru": "Переплавка",
+        "ua": "Переплавлення",
+        "en": "Remelting"
+    },
+    "DENCHANTMENT_BLACK_ARROW": {
+        "ru": "Чумная стрела",
+        "ua": "Чумна стріла",
+        "en": "Plague Arrow"
+    },
+    "DENCHANTMENT_BREATH": {
+        "ru": "Дыхание",
+        "ua": "Дихання",
+        "en": "Breath"
+    },
+    "DENCHANTMENT_CONNECTION": {
+        "ru": "Душевная связь",
+        "ua": "Душевний зв'язок",
+        "en": "Mental connection"
+    },
+    "DENCHANTMENT_ENDURANCE": {
+        "ru": "Выносливость",
+        "ua": "Витривалість",
+        "en": "Endurance"
+    },
+    "DENCHANTMENT_EXILE": {
+        "ru": "Изгнание",
+        "ua": "Вигнання",
+        "en": "Exile"
+    },
+    "DENCHANTMENT_EXPERIENCE": {
+        "ru": "Опыт",
+        "ua": "Досвід",
+        "en": "Experience"
+    },
+    "DENCHANTMENT_HARD_SKIN": {
+        "ru": "Твердокожий",
+        "ua": "Твердошкірий",
+        "en": "Hard-skinned"
+    },
+    "DENCHANTMENT_NIGHT_VISION": {
+        "ru": "Ночное зрение",
+        "ua": "Нічний зір",
+        "en": "Night vision"
+    },
+    "DENCHANTMENT_OXYGEN": {
+        "ru": "Кислород",
+        "ua": "Кисень",
+        "en": "Oxygen"
+    },
+    "DENCHANTMENT_POISON_BLADE": {
+        "ru": "Ядовитый клинок",
+        "ua": "Ядовитый клинок",
+        "en": "Poisoned blade"
+    },
+    "DENCHANTMENT_SPRING": {
+        "ru": "Пружина",
+        "ua": "Пружина",
+        "en": "Spring"
+    },
+    "DENCHANTMENT_STEEL": {
+        "ru": "Сталь",
+        "ua": "Сталь",
+        "en": "Steel"
+    },
+    "DENCHANTMENT_TELEPATHY": {
+        "ru": "Телепатия",
+        "ua": "Телепатія",
+        "en": "Telepathy"
+    },
+    "DENCHANTMENT_LAVA_WALKER": {
+        "ru": "Лавоход"
+    },
+    "DENCHANTMENT_SNIPER": {
+        "ru": "Снайпер"
+    },
+    "DENCHANTMENT_DEADLY_SHOT": {
+        "ru": "Смертельный выстрел"
+    },
+    "DENCHANTMENT_ROCK": {
+        "ru": "Скала"
+    }
+}

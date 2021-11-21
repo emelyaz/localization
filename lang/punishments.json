@@ -1,0 +1,307 @@
+{
+    "ALREADY_BANNED": {
+        "ru": "§cОшибка, игрок %s §cуже заблокирован",
+        "ua": "§cПомилка, гравець %s §cвже заблокований",
+        "en": "§cErorr, player %s §cis already banned"
+    },
+    "ALREADY_MUTED": {
+        "ru": "§cЧат игрока %s §cуже заблокирован",
+        "ua": "§cЧат гравця %s §cвже заблокований",
+        "en": "§cPlayer %s §cis already muted"
+    },
+    "BANINFO_BAN_MESSAGES": {
+        "ru": [
+            " ",
+            "§cИгрок в бане от %s %s",
+            " §e• §fПричина: §a%s",
+            " §e• §fВремя: §a%s",
+            " §e• §fДата бана: §a%s"
+        ],
+        "ua": [
+            " ",
+            "§cГравець в бані від %s %s",
+            " §e• §fПричина: §a%s",
+            " §e• §fЧас: §a%s",
+            " §e• §fДата бана: §a%s"
+        ],
+        "en": [
+            " ",
+            "§cPlayer banned by %s %s",
+            " §e• §fReason: §a%s",
+            " §e• §fTime: §a%s",
+            " §e• §fBan date: §a%s"
+        ]
+    },
+    "BANINFO_FORMAT": {
+        "ru": "/baninfo <ник>",
+        "ua": "/baninfo <нік>",
+        "en": "/baninfo <nickname>"
+    },
+    "BANINFO_MESSAGE": {
+        "ru": "§cМодерация §8| §fДанные о наказаниях для %s:",
+        "ua": "§cМодерація §8| §fДані про покарання для %s:",
+        "en": "§cModeration §8| §fPenalty data for %s:"
+    },
+    "BANINFO_MUTE_MESSAGES": {
+        "ru": [
+            " ",
+            "§cИгрок в муте от %s %s",
+            " §e• §fПричина: §a%s",
+            " §e• §fВремя: §a%s",
+            " §e• §fДата мута: §a%s"
+        ],
+        "ua": [
+            " ",
+            "§cГравець в муті від %s %s",
+            " §e• §fПричина: §a%s",
+            " §e• §fЧас: §a%s",
+            " §e• §fДата мута: §a%s"
+        ],
+        "en": [
+            " ",
+            "§cPlayer muted by %s %s",
+            " §e• §fReason: §a%s",
+            " §e• §fTime: §a%s",
+            " §e• §fMute day: §a%s"
+        ]
+    },
+    "BANS_PLAYERIP": {
+        "ru": "IP адрес",
+        "ua": "IP адреса",
+        "en": "IP address"
+    },
+    "BANS_PLAYERNAME": {
+        "ru": "игрока",
+        "ua": "гравця",
+        "en": "player"
+    },
+    "BAN_FORMAT": {
+        "ru": "/ban <ник> <время/e> <причина>",
+        "ua": "/ban <нік> <час> <причина>",
+        "en": "/ban <nickname> <time> <reason>"
+    },
+    "BAN_HISTORY_CAPTION": {
+        "ru": "§cАдминистрирование §8| §fИстория наказаний загружена: ",
+        "ua": "§cАдміністрування §8| §fІсторія покарань завантажена: ",
+        "en": "§cAdministration §8| §fBan history loaded: "
+    },
+    "BAN_HISTORY_EMPTY": {
+        "ru": "§cИстория наказаний пуста",
+        "ua": "§cІсторія покарань порожня",
+        "en": "§cBan history is empty"
+    },
+    "BAN_HISTORY_FORMAT": {
+        "ru": "/history <ник> <BAN/MUTE>",
+        "ua": "/history <нік> <BAN/MUTE>",
+        "en": "/history <nickname> <BAN/MUTE>"
+    },
+    "BAN_HISTORY_QUEUED": {
+        "ru": "§cАдминистрирование §8| §fВаш запрос в очереди. Ожидайте...",
+        "ua": "§cАдміністрування §8| §fВаш запит в черзі. Очікуйте...",
+        "en": "§cAdministration §8| §fYour request is in the queue. Please wait..."
+    },
+    "BAN_REQUESTS_EMPTY": {
+        "ru": "§cОжидающих запросов на блокировку нет.",
+        "ua": "§cОчікуваних запитів на блокування немає.",
+        "en": "§cThere are no pending ban requests."
+    },
+    "BAN_REQUEST_ALREADY_SENT": {
+        "ru": "§cПросьба заблокировать данного игрока уже отправлялась, ожидайте решения",
+        "ua": "§cПрохання заблокувати цього гравця вже надсилалась, очікуйте на рішення",
+        "en": "§cThe request to block this player has already been sent, please wait"
+    },
+    "BAN_REQUEST_LIST_GUI_ITEM_LORE": {
+        "ru": [
+            " ",
+            "§7Ник нарушителя: §c%s",
+            "§7Срок: §a%s",
+            " ",
+            "§7Причина блокировки:",
+            "§a%s",
+            " ",
+            "§e▸ ЛКМ, чтобы принять запрос",
+            "§e▸ ПКМ, чтобы отклонить запрос"
+        ],
+        "ua": [
+            " ",
+            "§7Нік порушника: §c%s",
+            "§7Термін: §a%s",
+            " ",
+            "§7Причина блокування:",
+            "§a%s",
+            " ",
+            "§e▸ ЛКМ, щоб прийняти запит",
+            "§e▸ ПКМ, щоб відхилити запит"
+        ],
+        "en": [
+            " ",
+            "§7Violator's nickname: §c%s",
+            "§7Term: §a%s",
+            " ",
+            "§7Ban reason:",
+            "§a%s",
+            " ",
+            "§e▸ LMC, to accept the request",
+            "§e▸ RMC, to decline the request"
+        ]
+    },
+    "BAN_REQUEST_LIST_GUI_ITEM_NAME": {
+        "ru": "§eЗапрос от %s",
+        "ua": "§eЗапит від %s",
+        "en": "§eRequest from %s"
+    },
+    "BAN_REQUEST_LIST_GUI_MAIN": {
+        "ru": "Ожидающие запросы на блокировку",
+        "ua": "Очікуванні запити на блокуванння",
+        "en": "Ban requests are pending"
+    },
+    "BAN_REQUEST_LIST_GUI_MAIN_LORE": {
+        "ru": [
+            " ",
+            "§7Всего запросов: §e%s"
+        ],
+        "ua": [
+            " ",
+            "§7Всього запитів: §e%s"
+        ],
+        "en": [
+            " ",
+            "§7Requests in total: §e%s"
+        ]
+    },
+    "BAN_REQUEST_NOT_FOUND": {
+        "ru": "§cЗапрос с таким ID не найден или уже закрыт",
+        "ua": "§cЗапит з таким ID не знайден або вже закритий",
+        "en": "§cRequest with this ID was not found or has already been closed"
+    },
+    "BAN_REQUEST_REJECTED": {
+        "ru": "§aЗапрос на блокировку отклонен.",
+        "ua": "§aЗапит на блокування відхилений.",
+        "en": "§aBan request is rejected."
+    },
+    "BAN_REQUEST_SENT": {
+        "ru": "§eВаша просьба заблокировать данного игрока отправлена всем онлайн-модераторам",
+        "ua": "§eВаше прохання заблокувати даного гравця відправлена усім онлайн-модераторам",
+        "en": "§eYour request to block this player has been sent to all online moderators"
+    },
+    "DEFAULT_BAN_TIME_SET": {
+        "ru": "§cВы ввели некорректное время",
+        "ua": "§cВи ввели некоректний час",
+        "en": "§cYou entered an incorrect time"
+    },
+    "DEFAULT_MUTE_TIME_SET": {
+        "ru": "§cВы ввели некорректное время",
+        "ua": "§cВи ввели некоректний час",
+        "en": "§cYou entered an incorrect time"
+    },
+    "DONT_HAVE_BANS_AND_MUTES": {
+        "ru": "§cНе в бане и не в муте",
+        "ua": "§cНе в бані и не в муті",
+        "en": "§cNeither banned not muted"
+    },
+    "HISTORY_ENTRY": {
+        "ru": " §f- §7Администратор: §c%s %s §8| §7Причина: §c%s §8| §7Дата: §c%s",
+        "ua": " §f- §7Адміністратор: §c%s %s §8| §7Причина: §c%s §8| §7Дата: §c%s",
+        "en": " §f- §7Administrator: §c%s %s §8| §7Reason: §c%s §8| §7Date: §c%s"
+    },
+    "KICK_DISCONNECT": {
+        "ru": "§cВас выкинули с сервера\\n\\n§fВыкинул: §7%s\\n§fПричина: §7%s",
+        "ua": "§cВас викинули з сервера\\n\\n§fВикинув: §7%s\\n§fПричина: §7%s",
+        "en": "§cYou were kicked out from the server\\n\\n§fKicked: §7%s\\n§fReason: §7%s"
+    },
+    "KICK_FORMAT": {
+        "ru": "/kick <ник> <причина>",
+        "ua": "/kick <нік> <причина>",
+        "en": "/kick <nickname> <reason>"
+    },
+    "MUTE_FORMAT": {
+        "ru": "/mute <ник> <время/e> <причина>",
+        "ua": "/mute <нік> <час> <причина>",
+        "en": "/mute <nickname> <time> <reason>"
+    },
+    "NOT_BANNED": {
+        "ru": "%s §cне заблокирован",
+        "ua": "%s §cне заблокований",
+        "en": "%s §cnot banned"
+    },
+    "NOT_MUTED": {
+        "ru": "§cЧат игрока %s §cне заблокирован",
+        "ua": "§cЧат гравця %s §cне ззаблокований",
+        "en": "§cPlayer's chat %s §cis not blocked"
+    },
+    "TOO_BIG_BANTIME": {
+        "ru": "§cОшибка, Вы не можете наказывать на такой срок",
+        "ua": "§cПомилка, ви не можете карати на такий термін",
+        "en": "§cError, you cannot punish for such a period"
+    },
+    "UNBAN_FORMAT": {
+        "ru": "/unban <ник/ip>",
+        "ua": "/unban <нік/ip>",
+        "en": "/unban <nickname/ip>"
+    },
+    "UNMUTE_FORMAT": {
+        "ru": "/unmute <ник>",
+        "ua": "/unmute <нік>",
+        "en": "/unmute <nickname>"
+    },
+    "YOU_ARE_MUTED": {
+        "ru": [
+            "§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+            " §cДоступ к чату был заблокирован за %s",
+            "",
+            " §7До истечения осталось §c%s",
+            " §7Заблокировал: §c%s",
+            "",
+            " §7Обжаловать наказание можно в группе VK:",
+            " §b§nvk.com/lastcraft",
+            "§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        ],
+        "ua": [
+            "§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+            " §cДоступ до чату був заблокований за %s",
+            "",
+            " §7До закінчення залишилося §c%s",
+            " §7Заблокував: §c%s",
+            "",
+            " §7Оскаржити покарання можна в групі VK:",
+            " §b§nvk.com/lastcraft",
+            "§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        ],
+        "en": [
+            "§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+            " §cAccess to the chat was banned because of %s",
+            "",
+            " §7Time before expiration §c%s",
+            " §7Banned: §c%s",
+            "",
+            " §7You can appeal the punishment in the VK group:",
+            " §b§nvk.com/lastcraft",
+            "§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        ]
+    },
+    "YOU_CANT_BANHIM": {
+        "ru": "§cВы не можете наказать данного игрока",
+        "ua": "§cВи не можете покарати цього гравця",
+        "en": "§cYou cannot punish this player"
+    },
+    "YOU_CANT_BANIP": {
+        "ru": "§cВы не можете банить игроков по IP",
+        "ua": "§cВи не можете банити гравців по IP",
+        "en": "§cYou cannot ban players by IP"
+    },
+    "YOU_CANT_PUNISH_HIM": {
+        "ru": "§cОшибка, Вы не можете наказать данного игрока",
+        "ua": "§cПомилка, ви не можете покарати даного гравця",
+        "en": "§cError, you cannot punish this player"
+    },
+    "YOU_CANT_UNMUTE_HIM": {
+        "ru": "§cОшибка! Вы не можете снять блокировку чата с данного игрока",
+        "ua": "§cПомилка! Ви не можете зняти блокування чату з цього гравця",
+        "en": "§cError! You cannot remove the chat ban from this player"
+    },
+    "YOU_WERE_UNMUTED": {
+        "ru": "§6Сервер §8| §fДоступ к чату был восстановлен! Вы снова можете говорить!",
+        "ua": "§6Сервер §8| §fДоступ до чату був відновлений! Ви знову можете говорити!",
+        "en": "§6Server §8| §fChat access has been restored! You can talk again!"
+    }
+}

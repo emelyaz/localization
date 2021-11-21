@@ -1,0 +1,272 @@
+{
+    "BANSTAT_FORMAT": {
+        "ru": "/banstat <ник> <нач. дата> <конеч. дата>",
+        "ua": "/banstat <нік> <поч. дата> <кінц. дата>",
+        "en": "/banstat <nickname> <start date> <end date>"
+    },
+    "BROADCAST_BAN": {
+        "ru": "§cМодерация §8| §7%s §7заблокировал %s §a%s §7на §с%s §7по причине ",
+        "ua": "§cМодерація §8| §7%s §7заблокував %s §a%s §7на §с%s §7з причини ",
+        "en": "§cModeration §8| §7%s §7abanned %s §a%s §7for §с%s §7due to "
+    },
+    "BROADCAST_INFRACTION_ACCEPTED": {
+        "ru": "§cМодерация §8| §7%s §aодобрил §7просьбу на блокировку §e%s",
+        "ua": "§cМодерація §8| §7%s §aсхвалив §7прохання на блокування §e%s",
+        "en": "§cModeration §8| §7%s §approved §7the request to ban §e%s"
+    },
+    "BROADCAST_INFRACTION_REJECTED": {
+        "ru": "§cМодерация §8| §7%s §cотклонил §7просьбу на блокировку §e%s",
+        "ua": "§cМодерація §8| §7%s §cвідхилив §7прохання на блокування §e%s",
+        "en": "§cModeration §8| §7%s §cdeclined §7the request to ban §e%s"
+    },
+    "BROADCAST_KICK": {
+        "ru": "§cМодерация §8| §f%s §7кикнул §a%s §7по причине ",
+        "ua": "§cМодерація §8| §f%s §7кікнув §a%s §7з причини ",
+        "en": "§cModeration §8| §f%s §7kicked out §a%s §7due to "
+    },
+    "BROADCAST_MUTE": {
+        "ru": "§cМодерация §8| §f%s §7заблокировал чат %s §с%s §7на §с%s §7по причине ",
+        "ua": "§cМодерація §8| §f%s §7заблокував чат %s §с%s §7на §с%s §7з причини ",
+        "en": "§cModeration §8| §f%s §7banned the chat %s §с%s §7on §с%s §7due to "
+    },
+    "BROADCAST_UNBAN": {
+        "ru": "§cМодерация §8| §f%s §7снял бан с %s",
+        "ua": "§cМодерація §8| §f%s §7зняв бан з %s",
+        "en": "§cModeration §8| §f%s §7unbanned %s"
+    },
+    "BROADCAST_UNMUTE": {
+        "ru": "§cМодерация §8| §f%s §7разблокировал чат игрока %s",
+        "ua": "§cМодерація §8| §f%s §7разблокував чат гравця %s",
+        "en": "§cModeration §8| §f%s §7unbanned player chat %s"
+    },
+    "CRASH_ERROR_YOU": {
+        "ru": "§cТы не можешь сам себя крашнуть",
+        "ua": "§cТи не можеш сам себе крашнути",
+        "en": "§cYou can't crash yourself"
+    },
+    "CRASH_FORMAT": {
+        "ru": "/crash <ник игрока>",
+        "ua": "/crash <нік гравця>",
+        "en": "/crash <player's nickname>"
+    },
+    "CRASH_PLAYER": {
+        "ru": "§fВы крашнули игрока %s",
+        "ua": "§fВи крашнули гравця %s",
+        "en": "§fYou crashed a player %s"
+    },
+    "GAME_VANISHED": {
+        "ru": "§cВы были исключены из игры, поскольку перешли в режим невидимости"
+    },
+    "GROUP_CHANGES_BROADCAST": {
+        "ru": "§cМодерация §8| §f%s §7обновил донат-группу игрока %s",
+        "ua": "§cМодерація §8| §f%s §7оновив донат-групу гравця %s",
+        "en": "§cModeration §8| §f%s §7updated the player's donate group %s"
+    },
+    "GROUP_COMMAND_HELP": {
+        "ru": [
+            "§7/group clear <ник>§f - снятие привилегии",
+            "§7/group migrate <старый ник> <новый ник>§f - перенос привилегии",
+            "§7/group set <ник> <донат-группа> §f- обновить привилегию"
+        ],
+        "ua": [
+            "§7/group clear <нік>§f - зняття привілеї",
+            "§7/group migrate <старий нік> <новий нік>§f - перенос привілеї",
+            "§7/group set <нік> <донат-група> §f- оновити привілею"
+        ],
+        "en": [
+            "§7/group clear <nickname>§f - withdrawal of privilege",
+            "§7/group migrate <old nickname> <new nickname>§f - transfer of privilege",
+            "§7/group set <> <donate group> §f- update the privilege"
+        ]
+    },
+    "GROUP_INVALID": {
+        "ru": "§cВы указали неверную группу. Доступные группы: §fDEFAULT, GOLD, DIAMOND, EMERALD, MAGMA, SHULKER",
+        "ua": "§cВи вказали невірну групу. Доступні групи: §fDEFAULT, GOLD, DIAMOND, EMERALD, MAGMA, SHULKER",
+        "en": "§cYou entered the wrong group. Available groups: §fDEFAULT, GOLD, DIAMOND, EMERALD, MAGMA, SHULKER"
+    },
+    "GROUP_PLAYER_ALREADY_DEFAULT": {
+        "ru": "§cУ данного игрока нет привилегии",
+        "ua": "§cУ цього гравця немає привілеї",
+        "en": "§cThis player has no privilege"
+    },
+    "GROUP_PLAYER_GROUP_CHANGED": {
+        "ru": "§eИгроку %s §eбыла установлена привилегия %s",
+        "ua": "§eГравцю %s §eбув встановлений привілей %s",
+        "en": "§ePlayer %s §ehas received a privilege %s"
+    },
+    "GROUP_SET_FORMAT": {
+        "ru": "/group set <ник> <донат-группа>",
+        "ua": "/group set <нік> <донат-група>",
+        "en": "/group set <nickname> <donate group>"
+    },
+    "JOIN_VANISHED": {
+        "ru": "§cВы вошли в режиме невидимки и не видны другим игрокам"
+    },
+    "MODERATOR_STAT": {
+        "ru": [
+            "§6Статистика §8| §fИнформация об %s §fза §e%s -> %s",
+            " §e• §fВсего банов: §a%s",
+            " §e• §fВсего мутов: §a%s"
+        ],
+        "ua": [
+            "§6Статистика §8| §fІнформація про %s §fза §e%s -> %s",
+            " §e• §fВсього банів: §a%s",
+            " §e• §fВсього мутів: §a%s"
+        ],
+        "en": [
+            "§6Statistics §8| §fInformation about %s §ffor §e%s -> %s",
+            " §e• §fTotal bans: §a%s",
+            " §e• §fTotal mutes: §a%s"
+        ]
+    },
+    "STAFFCHAT_DISABLED": {
+        "ru": "§cМодерация §8| §f%s §7теперь не видит чат персонала",
+        "ua": "§cМодерація §8| §f%s §7тепер не бачить чат персоналу",
+        "en": "§cModeration §8| §f%s §7now does not see staff chat"
+    },
+    "STAFFCHAT_ENABLED": {
+        "ru": "§cМодерация §8| §f%s §7снова видит чат персонала",
+        "ua": "§cМодерація §8| §f%s §7знову бачить чат персоналу",
+        "en": "§cModeration §8| §f%s §7sees staff chat again"
+    },
+    "STAFFCHAT_FORMAT": {
+        "ru": "/staffchat <сообщение>",
+        "ua": "/staffchat <повідомлення>",
+        "en": "/staffchat <message>"
+    },
+    "STAFFCHAT_MSG": {
+        "ru": "§eЧат персонала §8| §f%s§8 » §f%s",
+        "ua": "§eЧат персоналу §8| §f%s§8 » §f%s",
+        "en": "§eStaff chat §8| §f%s§8 » §f%s"
+    },
+    "STAFF_CONNECTED": {
+        "ru": "§cМодерация §8| §7%s§7 зашел на сервер %s",
+        "ua": "§cМодерація §8| §7%s§7 зайшов на сервер %s",
+        "en": "§cModeration §8| §7%s§7 entered server %s"
+    },
+    "STAFF_CONNECTED_LOCATION": {
+        "ru": "из %s, %s",
+        "ua": "з %s, %s",
+        "en": "from %s, %s"
+    },
+    "STAFF_CONNECTED_COUNTRY": {
+        "ru": "из %s"
+    },
+    "VANISH_BROADCAST_DISABLED": {
+        "ru": "§cМодерация §8| %s §7теперь снова виден всем игрокам"
+    },
+    "VANISH_BROADCAST_ENABLED": {
+        "ru": "§cМодерация §8| %s §7включил режим невидимости для игроков"
+    },
+    "WHOIS_FORMAT": {
+        "ru": "/whois <ник>",
+        "ua": "/whois <нік>",
+        "en": "/whois <nickname>"
+    },
+    "WHOIS_LAST_IP": {
+        "ru": " §f- Последний IP: §a%s",
+        "ua": " §f- Останній IP: §a%s",
+        "en": " §f- Last IP: §a%s"
+    },
+    "WHOIS_LAST_SERVER": {
+        "ru": " §f- Последний сервер: §a%s",
+        "ua": " §f- Останній сервер: §a%s",
+        "en": " §f- Last server: §a%s"
+    },
+    "WHOIS_LINES_1": {
+        "ru": "§eИнформация об игроке %s",
+        "ua": "§eІнформація про гравця %s",
+        "en": "§ePlayer information %s"
+    },
+    "WHOIS_LINES_2": {
+        "ru": " §f- ID игрока: §a%s",
+        "ua": " §f- ID гравця: §a%s",
+        "en": " §f- Player's ID: §a%s"
+    },
+    "WHOIS_LINES_3": {
+        "ru": " §f- Привилегия: §a%s",
+        "ua": " §f- Привілея: §a%s",
+        "en": " §f- Privilege: §a%s"
+    },
+    "WHOIS_LINES_3_1": {
+        "ru": " §f- Заканчивается: §a%s",
+        "ua": " §f- Закінчується: §a%s",
+        "en": " §f- Ending: §a%s"
+    },
+    "WHOIS_LINES_4": {
+        "ru": " §f- Язык: §a%s",
+        "ua": " §f- Мова: §a%s",
+        "en": " §f- Language: §a%s"
+    },
+    "WHOIS_LINES_5": {
+        "ru": " §f- Серверные данные: §a%s",
+        "ua": " §f- Серверні дані: §a%s",
+        "en": " §f- Server data: §a%s"
+    },
+    "WHOIS_LINES_6": {
+        "ru": " §f- Версия: §a%s",
+        "ua": " §f- Версія: §a%s",
+        "en": " §f- Version: §a%s"
+    },
+    "WHOIS_OFFLINE_LINES_1": {
+        "ru": " §f- Был в сети §e%s назад",
+        "ua": " §f- Був у сеті §e%s тому",
+        "en": " §f- Last seen online §e%s ago"
+    },
+    "WHOIS_ONLINE_ACCOUNT": {
+        "ru": " §f- Аккаунты с этого адреса: §a%s",
+        "ua": " §f- Аккаунти з цієї адреси: §a%s",
+        "en": " §f- Accounts from this address: §a%s"
+    },
+    "WHOIS_ONLINE_LINES_1": {
+        "ru": " §f- IP адрес: §a%s",
+        "ua": " §f- IP адреса: §a%s",
+        "en": " §f- IP address: §a%s"
+    },
+    "WHOIS_ONLINE_LINES_2": {
+        "ru": " §f- Прокси: §a%s",
+        "ua": " §f- Проксі: §a%s",
+        "en": " §f- Proxi: §a%s"
+    },
+    "WHOIS_ONLINE_LINES_3": {
+        "ru": " §f- Сервер: §a%s",
+        "ua": " §f- Сервер: §a%s",
+        "en": " §f- Server: §a%s"
+    },
+    "WHOIS_SECTIONS": {
+        "ru": " §f- Загруженные секции игрока: §a%s",
+        "ua": " §f- Загруженні секції гравця: §a%s",
+        "en": " §f- Loaded player's sections: §a%s"
+    },
+    "WHOIS_STATUS_OFFLINE": {
+        "ru": " §c§lИгрок оффлайн",
+        "ua": " §c§lГравець оффлайн",
+        "en": " §c§lPlayer is offline"
+    },
+    "WHOIS_STATUS_ONLINE": {
+        "ru": " §a§lСейчас онлайн",
+        "ua": " §a§lЗараз онлайн",
+        "en": " §a§lNow online"
+    },
+    "YOU_CANT_CHANGE_DONATE": {
+        "ru": "§cВы не можете управлять привилегиями данного игрока",
+        "ua": "§cВи не можете управляти привілеями цього гравця",
+        "en": "§cYou cannot manage the privileges of this player"
+    },
+    "YOU_CANT_CHANGE_PRIORITY": {
+        "ru": [
+            "§c▸ Нельзя изменять приоритет этого ранга"
+        ],
+        "ua": [
+            "§c▸ Не можна змінювати пріоритет цього рангу"
+        ],
+        "en": [
+            "§c▸ The priority of this rank cannot be changed"
+        ]
+    },
+    "YOU_DISABLED_STAFFCHAT": {
+        "ru": "§cВы отключили чат персонала. Чтобы писать в него, напишите /sc toggle",
+        "ua": "§cВи ввимкнули чат персоналу. Щоб писати в нього, напишіть /sc toggle",
+        "en": "§cYou have disabled staff chat. To write there, write /sc toggle"
+    }
+}

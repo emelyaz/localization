@@ -1,0 +1,561 @@
+{
+    "GUI_ANOTHER_LOBBY": {
+        "ru": [
+            "",
+            "§7Онлайн: §a%s",
+            "",
+            " §e▸ Нажмите для телепортации"
+        ],
+        "ua": [
+            "",
+            "§7Онлайн: §a%s",
+            "",
+            " §e▸ Натисніть для телепортації"
+        ],
+        "en": [
+            "",
+            "§7Online: §a%s",
+            "",
+            " §e▸ Click to teleport"
+        ]
+    },
+    "GUI_ANOTHER_LOBBY_FRIENDS": {
+        "ru": [
+            "",
+            "§7Онлайн: §a%s",
+            "",
+            "§7Друзья на лобби:",
+            " §e▸ Нажмите для телепортации"
+        ],
+        "ua": [
+            "",
+            "§7Онлайн: §a%s",
+            "",
+            "§7Друзья на лобі:",
+            " §e▸ Натисніть для телепортації"
+        ],
+        "en": [
+            "",
+            "§7Online: §a%s",
+            "",
+            "§7Friends in the lobby:",
+            " §e▸ Click to teleport"
+        ]
+    },
+    "GUI_HELP_ITEM_10_LORE": {
+        "ru": [
+            "§7Объединяйтесь в группы с другими",
+            "§7игроками и играйте вместе.",
+            "",
+            "§7Вы сможете вести общий банк денег,",
+            "§7моментально создавать группу(§cparty§7),",
+            "§7настроить отдельные права",
+            "§7для каждого участника и т.д.",
+            "§7",
+            "§7Напиши §e/guild §7и создай свою гильдию!",
+            "§7",
+            "§cВНИМАНИЕ! Создание гильдии стоит",
+            "§c20.000 монеток и доступно только от §c§lMAGMA",
+            "§cДля вступления в гильдию нужен 10+ уровень!"
+        ],
+        "ua": [
+            "§7Об'єднуйтеся в групи з іншими",
+            "§7гравцями і грайте разом.",
+            "",
+            "§7Ви зможете вести загальний банк грошей,",
+            "§7моментально створювати групу(§cparty§7),",
+            "§7налаштувати окремі права",
+            "§7для кожного учасника і т.д.",
+            "§7",
+            "§7Напиши §e/guild §7і створи свою гільдію!",
+            "§7",
+            "§cУВАГА! Створення гільдії коштує",
+            "§c20.000 монеток і доступно тільки від §c§lMAGMA",
+            "§cДля вступу в гільдію потрібен 10+ рівень!"
+        ],
+        "en": [
+            "§7Team up with other players",
+            "§7and play together.",
+            "",
+            "§7You will be able to maintain a common bank of money,",
+            "§7and create a group instantly(§cparty§7),",
+            "§7configure individual rights",
+            "§7for every player and so on",
+            "§7",
+            "§7Write §e/guild §7and create your guild!",
+            "§7",
+            "§cATTENTION! Guild creation costs",
+            "§c20,000 coins and is only available from §c§lMAGMA",
+            "§cYou need level 10+ to join a guild!"
+        ]
+    },
+    "GUI_HELP_ITEM_10_NAME": {
+        "ru": "§bГильдии",
+        "ua": "§bГильдії",
+        "en": "§bGuilds"
+    },
+    "GUI_HELP_ITEM_1_LORE": {
+        "ru": [
+            "§7Полезные команды для игры на сервере:",
+            "",
+            "§e/hub §7или §e/lobby §7- Вернуться в лобби",
+            "§e/online §7- Общий онлайн сервера",
+            "§e/find <Ник> §7- Найти игрока"
+        ],
+        "ua": [
+            "§7Корисні команди для гри на сервері:",
+            "",
+            "§e/hub §7или §e/lobby §7- Повернутися до лобі",
+            "§e/online §7- Загальний онлайн сервер",
+            "§e/find <нік> §7- Знайти гравця"
+        ],
+        "en": [
+            "§7Useful commands for playing on the server:",
+            "",
+            "§e/hub §7или §e/lobby §7- Return to lobby",
+            "§e/online §7- Shared online server",
+            "§e/find <nickname> §7- Find player"
+        ]
+    },
+    "GUI_HELP_ITEM_1_NAME": {
+        "ru": "§bНавигация",
+        "ua": "§bНавігація",
+        "en": "§bNavigation"
+    },
+    "GUI_HELP_ITEM_2_LORE": {
+        "ru": [
+            "§7Список привилегий:",
+            " §8▪ §e§lGOLD §7- §f100 Рублей",
+            " §8▪ §b§lDIAMOND §7- §f300 Рублей",
+            " §8▪ §a§lEMERALD §7- §f590 Рублей",
+            " §8▪ §c§lMAGMA §7- §f900 Рублей",
+            " §8▪ §7§lSHULKER §7- §f2100 Рублей",
+            "",
+            "§7Подробное описание привилегий можно",
+            "§7найти в разделе §fПрофиль ▸ Привилегии",
+            "",
+            "§7Приобрести привилегии можно",
+            "§7на сайте §dwww.last-craft.net"
+        ],
+        "ua": [
+            "§7Список привілеїв:",
+            " §8▪ §e§lGOLD §7- §f100 Рублів",
+            " §8▪ §b§lDIAMOND §7- §f300 Рублів",
+            " §8▪ §a§lEMERALD §7- §f590 Рублів",
+            " §8▪ §c§lMAGMA §7- §f900 Рублів",
+            " §8▪ §7§lSHULKER §7- §f2100 Рублів",
+            "",
+            "§7Детальний опис привілеїв можна",
+            "§7знайти в розділі §fПрофіль ▸ Привілеї",
+            "",
+            "§7Придбати привілеї можна",
+            "§7на сайті §dwww.last-craft.net"
+        ],
+        "en": [
+            "§7Privileges list:",
+            " §8▪ §e§lGOLD §7- §f100 rubles",
+            " §8▪ §b§lDIAMOND §7- §f300 rubles",
+            " §8▪ §a§lEMERALD §7- §f590 rubles",
+            " §8▪ §c§lMAGMA §7- §f900 rubles",
+            " §8▪ §7§lSHULKER §7- §f2100 rubles",
+            "",
+            "§7A detailed description of the privileges can be",
+            "§7viewed in §fProfile ▸ Privileges",
+            "",
+            "§7Privileges can be purchased",
+            "§7at §dwww.last-craft.net"
+        ]
+    },
+    "GUI_HELP_ITEM_2_NAME": {
+        "ru": "§bПривилегии",
+        "ua": "§bПривілеї",
+        "en": "§bPrivileges"
+    },
+    "GUI_HELP_ITEM_3_LORE": {
+        "ru": [
+            "§7Для комфортной игры с друзьями",
+            "§7используйте команды ниже",
+            "",
+            "§e/f add <Ник> §7- Добавить в друзья",
+            "§e/f remove <Ник> §7- Удалить игрока из друзей",
+            "§e/f list §7- Список друзей",
+            "",
+            "§7Подробнее о системе друзей можно",
+            "§7узнать написав команду §e/friends",
+            "",
+            "§7Обычный игрок может иметь",
+            "§7не более §c20§7 друзей!"
+        ],
+        "ua": [
+            "§7Для комфортної гри з друзями",
+            "§7використовуйте команди нижче",
+            "",
+            "§e/f add <нік> §7- Додати в друзі",
+            "§e/f remove <нік> §7- Видалити гравця із друзів",
+            "§e/f list §7- Список друзів",
+            "",
+            "§7Детальніше про систему друзів можна",
+            "§7дізнатися написавши команду §e/friends",
+            "",
+            "§7Звичайний гравець може мати",
+            "§7не більше §c20§7 друзів!"
+        ],
+        "en": [
+            "§7For a comfortable game with friends",
+            "§7use the commands below",
+            "",
+            "§e/f add <nickname> §7- Add a friend",
+            "§e/f remove <nickname> §7- Remove from friends",
+            "§e/f list §7- Friendslist",
+            "",
+            "§7You can learn more about the friends system",
+            "§7by writing the command §e/friends",
+            "",
+            "§7An ordinary player can have",
+            "§7no more than §c20§7 friends!"
+        ]
+    },
+    "GUI_HELP_ITEM_3_NAME": {
+        "ru": "§bИгра с друзьями",
+        "ua": "§bГра с друзями",
+        "en": "§bPlaying with friends"
+    },
+    "GUI_HELP_ITEM_4_LORE": {
+        "ru": [
+            "§7После регистрации рекомендуем",
+            "§7привязать к аккаунту свою почту:",
+            "§e/email add <Почта> <Почта>",
+            "",
+            "§7Для смены пароля используйте:",
+            "§e/changepassword <Старый пароль> <Новый пароль>",
+            "",
+            "§7При утере пароля пишите команду:",
+            "§e/recovery <Почта>",
+            "§7На Вашу почту придет новый пароль"
+        ],
+        "ua": [
+            "§7Після реєстрації рекомендуємо",
+            "§7прив'язати свою пошту до акаунту:",
+            "§e/email add <Пошта> <Пошта>",
+            "",
+            "§7Для зміни пароля використовуйте:",
+            "§e/changepassword <Старий пароль> <Новий пароль>",
+            "",
+            "§7При втраті пароля пишіть команду:",
+            "§e/recovery <Пошта>",
+            "§7На вашу пошту буде надісланий новий пароль"
+        ],
+        "en": [
+            "§7After registration, we recommend",
+            "§7that you link your mail to your account.:",
+            "§e/email add <Email> <Email>",
+            "",
+            "§7To change your password use:",
+            "§e/changepassword <Old password> <New password>",
+            "",
+            "§7If you lose your password, write the command:",
+            "§e/recovery <Email>",
+            "§7A new password will be sent to your email"
+        ]
+    },
+    "GUI_HELP_ITEM_4_NAME": {
+        "ru": "§bБезопасность аккаунта",
+        "ua": "§bБезпека аккаунта",
+        "en": "§bAccount security"
+    },
+    "GUI_HELP_ITEM_5_LORE": {
+        "ru": [
+            "§7На нашем сервере действует система скинов,",
+            "§7которая позволяет установить себе",
+            "§7скин любого игрока с лицензией",
+            "",
+            "§e/skin <Ник> §7- Установить скин игрока",
+            "§e/skin reset §7- Вернуть свой скин",
+            "",
+            "§7Скин меняется сразу. Перезаходить",
+            "§7не нужно!",
+            "",
+            "§cВНИМАНИЕ! Мы используем систему",
+            "§cскинов ely.by"
+        ],
+        "ua": [
+            "§7На нашому сервері діє система скінів,",
+            "§7яка дозволяє встановити собі",
+            "§7скін будь-якого гравця з ліцензією",
+            "",
+            "§e/skin <нік> §7- Встановити скін гравця",
+            "§e/skin reset §7- Повернути свій скін",
+            "",
+            "§7Скін змінюється відразу. Перезаходити",
+            "§7не потрібно!",
+            "",
+            "§cУвага! Ми використовуєм систему",
+            "§cскінів ely.by"
+        ],
+        "en": [
+            "§7There is a skin system on our server",
+            "§7which allows you to install a skin",
+            "§7of any player with a license",
+            "",
+            "§e/skin <nickname> §7- Set player skin",
+            "§e/skin reset §7- Get your skin back",
+            "",
+            "§7The skin changes immediately. Re-login",
+            "§7is not needed!",
+            "",
+            "§cATTENTION! We use a skin",
+            "§csystem ely.by"
+        ]
+    },
+    "GUI_HELP_ITEM_5_NAME": {
+        "ru": "§bУстановка скина",
+        "ua": "§bУстановка скіна",
+        "en": "§bSkin installation"
+    },
+    "GUI_HELP_ITEM_6_LORE": {
+        "ru": [
+            "§7Если вы хотите написать конкретное",
+            "§7сообщение определенному игроку, то",
+            "§7воспользуйтесь командой",
+            "§e/msg <Ник> <Сообщение>",
+            "§7Для быстрого ответа на сообщение,",
+            "§7вы можете воспользоваться командой",
+            "§e/reply <Сообщение>",
+            "",
+            "§7Если вы не хотите получать",
+            "§7личные сообщения от определенного",
+            "§7игрока, то отключите ему возможность",
+            "§7писать вам в ЛС: §e/ignore <Ник>",
+            "",
+            "§e/ignorelist §7- Список всех",
+            "§7заблокированных вами игроков"
+        ],
+        "ua": [
+            "§7Якщо ви хочете написати конкретне",
+            "§7повідомлення певному гравцю, то",
+            "§7скористайтеся командою",
+            "§e/msg <нік> <Повідомлення>",
+            "§7Для швидкої відповіді на повідомлення,",
+            "§7ви можете скористатися командою",
+            "§e/reply <Повідомлення>",
+            "",
+            "§7Якщо ви не хочете отримувати",
+            "§7приватні повідомлення від",
+            "§7гравця, то вимкніть йому можливість",
+            "§7писати вам в ПП: §e/ignore <нік>",
+            "",
+            "§e/ignorelist §7- Список всіх",
+            "§7заблокованих вами гравців"
+        ],
+        "en": [
+            "§7If you want to write a specific message",
+            "§7to a certain player, then",
+            "§7use command",
+            "§e/msg <nickname> <Message>",
+            "§7For a quick reply to a message,",
+            "§7you can use command",
+            "§e/reply <Message>",
+            "",
+            "§7If you don't want to receive",
+            "§7private messages from a certain",
+            "§7player, then turn off the his ability",
+            "§7to write to you: §e/ignore <nickname>",
+            "",
+            "§e/ignorelist §7- List of all the players",
+            "§7you blocked"
+        ]
+    },
+    "GUI_HELP_ITEM_6_NAME": {
+        "ru": "§bОбщение",
+        "ua": "§bСпілкування",
+        "en": "§bCommunication"
+    },
+    "GUI_HELP_ITEM_7_LORE": {
+        "ru": [
+            "§7Адрес сервера: §eplay.lastcraft.net",
+            "",
+            "§7Группа Вконтакте: §fvk.com/lastcraft",
+            "",
+            "§7Сайт: §flast-craft.com",
+            "",
+            "§7Почта: §dsupport@lastcraft.net"
+        ],
+        "ua": [
+            "§7Адресі сервера: §eplay.lastcraft.net",
+            "",
+            "§7Група Вконтакте: §fvk.com/lastcraft",
+            "",
+            "§7Сайт: §flast-craft.com",
+            "",
+            "§7Пошта: §dsupport@lastcraft.net"
+        ],
+        "en": [
+            "§7Server address: §eplay.lastcraft.net",
+            "",
+            "§7Vkontakte group: §fvk.com/lastcraft",
+            "",
+            "§7Website: §flast-craft.com",
+            "",
+            "§7Email: §dsupport@lastcraft.net"
+        ]
+    },
+    "GUI_HELP_ITEM_7_NAME": {
+        "ru": "§bСсылки",
+        "ua": "§bПосилання",
+        "en": "§bLinks"
+    },
+    "GUI_HELP_ITEM_8_LORE": {
+        "ru": [
+            "§7Играя на режимах сервера,",
+            "§7вы можете получать монетки и опыт,",
+            "§7которые вы сможете тратить на покупку",
+            "§7улучшений и наборов в игре, а также на",
+            "§7открытие кейсов и другие ништяки",
+            "",
+            "§7Донатеры имеют приимущество перед",
+            "§7обычными игроками, т.к. могут получать",
+            "§7намного больше монет с помощью множителя",
+            "",
+            "§fДоступные множители:",
+            " §8▪ §e§lGOLD §7и §b§lDIAMOND §7- §e1.5x",
+            " §8▪ §a§lEMERALD §7- §e1.75x",
+            " §8▪ §c§lMAGMA §7и §7§lSHULKER- §e2.0x",
+            "",
+            "§7Приобрести привилегии можно",
+            "§7на сайте§d www.last-craft.net"
+        ],
+        "ua": [
+            "§7Граючи на режимах сервера,",
+            "§7ви можете отримувати монетки та досвід,",
+            "§7які ви зможете витрачати на покупку",
+            "§7поліпшень і наборів в грі, а також на",
+            "§7відкриття кейсів і інші ништяки.",
+            "",
+            "§7Донатери мають перевагу над",
+            "§7звичайними гравцями, оскільки можуть отримувати",
+            "§7набагато більше монет за допомогою множника",
+            "",
+            "§fДоступні множники:",
+            " §8▪ §e§lGOLD §7и §b§lDIAMOND §7- §e1.5x",
+            " §8▪ §a§lEMERALD §7- §e1.75x",
+            " §8▪ §c§lMAGMA §7и §7§lSHULKER- §e2.0x",
+            "",
+            "§7Придбати привілеї можна",
+            "§7на сайті§d www.last-craft.net"
+        ],
+        "en": [
+            "§7Playing on the server modes,",
+            "§7you can get coins and XP",
+            "§7which you can spend on buying",
+            "§7upgrades and packs in the game,",
+            "§7as well as on opening cases and other goodies",
+            "",
+            "§7Donators have an advantage over",
+            "§7usual players as they can get",
+            "§7many more coins with the help of multiplier",
+            "",
+            "§fAvailable multipliers:",
+            " §8▪ §e§lGOLD §7и §b§lDIAMOND §7- §e1.5x",
+            " §8▪ §a§lEMERALD §7- §e1.75x",
+            " §8▪ §c§lMAGMA §7и §7§lSHULKER- §e2.0x",
+            "",
+            "§7Privileges can be purchased",
+            "§7at§d www.last-craft.net"
+        ]
+    },
+    "GUI_HELP_ITEM_8_NAME": {
+        "ru": "§bНаграды за победу",
+        "ua": "§bНагороди за перемогу",
+        "en": "§bVictory rewards"
+    },
+    "GUI_HELP_ITEM_9_LORE": {
+        "ru": [
+            "§7Если вы хотите играть с друзьями,",
+            "§7то данная опция (§cparty§7) специально для вас.",
+            "§7Как только лидер группы заходит на какую-то",
+            "§7арену, всех членов группы автоматически",
+            "§7телепортирует за ним.",
+            "",
+            "§7Чтобы создать свою группу, ",
+            "§7достаточно написать §e/party <Ник>",
+            "§7после этого вы сможете пригласить",
+            "§7туда и других игроков.",
+            "",
+            "§7Если вы хотите покинуть группу,",
+            "§7напишите §e/party leave",
+            "",
+            "§cВНИМАНИЕ! Максимальное кол-во участников",
+            "§cгруппы не более 10 человек!"
+        ],
+        "ua": [
+            "§7Якщо ви хочете грати з друзями,",
+            "§7то ця опція (§cparty§7) спеціально для вас.",
+            "§7Як тільки лідер групи заходить на якусь",
+            "§7арену, всіх членів групи автоматично",
+            "§7телепортує за ним.",
+            "",
+            "§7Щоб створити свою групу, ",
+            "§7достатньо написати §e/party <нік>",
+            "§7після цього ви зможете запросити",
+            "§7туди і інших гравців.",
+            "",
+            "§7Якщо ви хочете залишити групу,",
+            "§7напишіть §e/party leave",
+            "",
+            "§cУВАГА! Максимальна кількість учасників",
+            "§cгрупи - не більше 10 людей!"
+        ],
+        "en": [
+            "§7If you want to play with friends,",
+            "§7then this option (§cparty§7) is especially for you.",
+            "§7As soon as the leader of the group enters some",
+            "§7arena, all group members will be",
+            "§7teleported there automaticaly.",
+            "",
+            "§7To create your own group, ",
+            "§7write §e/party <nickname>",
+            "§7after that you can invite",
+            "§7other players there.",
+            "",
+            "§7If you want to leave the group,",
+            "§7write §e/party leave",
+            "",
+            "§cATTENTION! Maximum number of members",
+            "§cof a group is no more than 10 people!"
+        ]
+    },
+    "GUI_HELP_ITEM_9_NAME": {
+        "ru": "§bКоллективная игра",
+        "ua": "§bКолективна гра",
+        "en": "§bКоллективная игра"
+    },
+    "GUI_HELP_NAME": {
+        "ru": "Информация",
+        "ua": "Інформація",
+        "en": "Information"
+    },
+    "GUI_LOBBY_FRIEND_MAX": {
+        "ru": "§7и другие...",
+        "ua": "§7та інші...",
+        "en": "§7and others..."
+    },
+    "GUI_LOBBY_ON": {
+        "ru": [
+            "",
+            "§7Вы находитесь здесь"
+        ],
+        "ua": [
+            "",
+            "§7Ви знаходитесь тут"
+        ],
+        "en": [
+            "",
+            "§7You are here"
+        ]
+    },
+    "GUI_LOBBY_SELECTOR": {
+        "ru": "Выбор лобби",
+        "ua": "Выбір лобі",
+        "en": "Choose lobby"
+    }
+}

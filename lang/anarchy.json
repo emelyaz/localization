@@ -1,0 +1,195 @@
+{
+    "AIRDROP_PREFIX": {
+        "ru": "§6AirDrop §8| §f"
+    },
+    "AIRDROP_APPLY_KEYS": {
+        "ru": "§fКлючи %s",
+        "ua": "§fКлючі %s",
+        "en": "§fKeys %s"
+    },
+    "AIRDROP_APPLY_LASTCRAFT_BOOK": {
+        "ru": "§fКнига с зачарованием §7%s",
+        "ua": "§fЗачарована книга §7%s",
+        "en": "§fEnchanted Book §7%s"
+    },
+    "AIRDROP_APPLY_MONEY": {
+        "ru": "§fМонеты",
+        "ua": "§fМонети",
+        "en": "§fCoins"
+    },
+    "AIRDROP_APPLY_REGION_EFFECT": {
+        "ru": "§fЭффект для регионов §a%s",
+        "ua": "§fЕфект для регіонів §a%s",
+        "en": "§fEffect for regions §a%s"
+    },
+    "AIRDROP_APPLY_START": {
+        "ru": "$AIRDROP_PREFIX$Вы нашли следующие предметы:",
+        "ua": "§6AirDrop §8| §fВи знайшли такі предмети:",
+        "en": "§6AirDrop §8| §fYou found the following things:"
+    },
+    "AIRDROP_COLLECTED": {
+        "ru": "$AIRDROP_PREFIX$%s §fнашел и забрал §7Ящик с припасами",
+        "ua": "§6AirDrop §8| %s §fЗнайшов і забрав §7Скриня з припасами",
+        "en": "§6AirDrop §8| %s §fFound and taken §7Supply Chest"
+    },
+    "AIRDROP_DISABLE_REGION": {
+        "ru": "$ANARCHY_PREFIX$Вы не можете заприватить территорию §7ящика с припасами",
+        "ua": "§6Anarchy §8| §fВи не можете приватизувати територію §7Скрині з припасами",
+        "en": "§6Anarchy §8| §fYou cannot privatize the territory of §7Supply Chest"
+    },
+    "AIRDROP_NEXT_SPAWN": {
+        "ru": "$AIRDROP_PREFIX$Следующий §7Ящик с припасами §fупадет в обычном мире через §7%s",
+        "ua": "§6AirDrop §8| §fНаступна §7Скриня з припасами §fвпаде в звичайному світі через §7%s",
+        "en": "§6AirDrop §8| §fNext §7Supply Chest §fwill fall in the normal world in §7%s"
+    },
+    "AIRDROP_SPAWN": {
+        "ru": "$AIRDROP_PREFIX$§7Ящик с припасами §fупал в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s",
+        "ua": "§6AirDrop §8| §7Скриня з §fвпала в звичайному світі на координатах X: §a%s §fY: §a%s §fZ: §a%s",
+        "en": "§6AirDrop §8| §7Supply Chest §fhas fallen in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s"
+    },
+    "AIRDROP_SPAWN_TITLE": {
+        "ru": "§eЯщик с припасами появился!",
+        "ua": "§eСкриня з припасами з'явилася!",
+        "en": "§eSupply Chest has appeared!"
+    },
+    "AIRDROP_TOP_HOLO": {
+        "ru": [
+            "§6§lТоп по собранным ящикам",
+            "§fТоп игроков по кол-ву",
+            "§fсобранных ящиков"
+        ],
+        "ua": [
+            "§6§lТоп по зібраним скриням",
+            "§fТоп гравців по кількості",
+            "§fзібраних скринь"
+        ],
+        "en": [
+            "§6§lTop of chests gathered",
+            "§fTop players by the amount of",
+            "§fchests gathered"
+        ]
+    },
+    "AIRDROP_WAIT": {
+        "ru": "$AIRDROP_PREFIX$§7Ящик с припасами §fлежит в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s",
+        "ua": "§6AirDrop §8| §7Скриня з припасами §fлежить в звичайному світі на координатах X: §a%s §fY: §a%s §fZ: §a%s",
+        "en": "§6AirDrop §8| §7Supply Chest §fis in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s"
+    },
+    "AIRDROP_WAIT_SPAWN": {
+        "ru": "$AIRDROP_PREFIX$§7ящик с припасами §fупадет в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s",
+        "ua": "§6AirDrop §8| §7Скриня з припасами §fвпаде в звичайному світі на координах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s",
+        "en": "§6AirDrop §8| §7Supply Chest §fwill fall in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s"
+    },
+    "ANARCHY_BOX_GUI_NAME": {
+        "ru": "Покупка ключей",
+        "ua": "Придбання ключів",
+        "en": "Keys purchase"
+    },
+    "ANARCHY_DEATH_FRIEND": {
+        "ru": "$ANARCHY_PREFIX$Ваш друг %s §fпогиб в мире §7%s",
+        "ua": "§6Anarchy §8| §fВаш друг %s §fзагиб у світі §7%s",
+        "en": "§6Anarchy §8| §fYour friend %s §fdied in the world §7%s"
+    },
+    "ANARCHY_HELP_GUI_NAME": {
+        "ru": "Анархия",
+        "ua": "Анархія",
+        "en": "Anarchy"
+    },
+    "ANARCHY_HOLOGRAM_AIRDROP": {
+        "ru": [
+            "§7Ящик с ресурсами §fпадает каждый час",
+            "§fДо падения осталось:"
+        ],
+        "ua": [
+            "§7Скриня з припасами §fпадає щогодини",
+            "§fДо падіння залишилось:"
+        ],
+        "en": [
+            "§7Supply Chest §ffalls every hour",
+            "§fTime left before the fall:"
+        ]
+    },
+    "ANARCHY_HOLOGRAM_AIRDROP_WAIT": {
+        "ru": "§cВычисляем время до падения...",
+        "ua": "§cОбчислюємо час до падіння...",
+        "en": "§cCalculating the time before the fall..."
+    },
+    "ANARCHY_HOLOGRAM_REGIONS": {
+        "ru": [
+            "§cВНИМАНИЕ! §fРегионы, чьи владельцы",
+            "§fне заходят длительное время, будут",
+            "§cудалены! §7(Только сам приват)"
+        ],
+        "ua": [
+            "§cУВАГА! §fРегіони, чиї власники",
+            "§fне заходять впродовж довгого часу, будуть",
+            "§cвидалені! §7(Тільки лише приват)"
+        ],
+        "en": [
+            "§cВНИМАНИЕ! §fRegions, whose owners",
+            "§fdo not enter for a long time, will be",
+            "§deleted! §7(Only the private itself)"
+        ]
+    },
+    "ANARCHY_HOLOGRAM_REGIONS_ANIMATION": {
+        "ru": "§fНа сервере §a%s§f активных регионов",
+        "ua": "§fНа сервері §a%s§f активних регіонів",
+        "en": "§fThere are §a%s§f active regions on the server"
+    },
+    "ANARCHY_KEY": {
+        "ru": "§aАнархический ключ",
+        "ua": "§aАнархічний ключ",
+        "en": "§aAnarchic Key"
+    },
+    "ANARCHY_KEY_LORE": {
+        "ru": [
+            "",
+            "§7Используется для получения",
+            "§7различных \"наборов\" и отдельных предметов"
+        ],
+        "ua": [
+            "",
+            "§7Використовується для отримання",
+            "§7різних \"наборів\" і окремих предметів"
+        ],
+        "en": [
+            "",
+            "§7Is used for receiving",
+            "§7various \"sets\" and individual items"
+        ]
+    },
+    "ANARCHY_KILL_MOB": {
+        "ru": "§6+%s %s за убийство моба",
+        "ua": "§6+%s %s за вбивство моба",
+        "en": "§6+%s %s for killing a mob"
+    },
+    "ANARCHY_NO_MONEY": {
+        "ru": "$ANARCHY_PREFIX$У вас недостаточно §aмонет§f для покупки",
+        "ua": "§6Anarchy §8| §fУ вас недостатньо §aмонет§f для покупки",
+        "en": "§6Anarchy §8| §fYou don't have enough §acoins§f for the purchase"
+    },
+    "ANARCHY_SHULKER_BOX": {
+        "ru": "§cОшибка, вы не можете продавать или перекладывать шалкербокс с вещами",
+        "ua": "§cПомилка, ви не можете продавати або переміщати шалкеброкс з речами",
+        "en": "§cError, you cannot sell or replace shulker box with items"
+    },
+    "ANARCHY_TPA": {
+        "ru": "$ANARCHY_PREFIX$На режиме §cнет телепортаций §fк игроку. Найти друга можно по координатам, а также с помощью §7/compass <координата x> <координата z> §f(если у вас есть компас)",
+        "ua": "§6Anarchy §8| §fНа режимі §cнемає телепортацій §fк гравцю. Знайти друга можно по координатах, а також за допомогою §7/compass <координата x> <координата z> §f(якщо у вас є компас)",
+        "en": "§6Anarchy §8| §fOn the mode §cthere are no teleportations §fto the player. You can find a friend using coordinates, and also using §7/compass <coordinate x> <coordinate z> §f(if you own a compass)"
+    },
+    "ANARCHY_TPPOS_LOBBY": {
+        "ru": "$ANARCHY_PREFIX$§cДанная команда не доступна в мире спавна",
+        "ua": "§6Anarchy §8| §cЦя команда не доступна у світі спавна",
+        "en": "§6Anarchy §8| §cThis command is not available in the Spawn world"
+    },
+    "ANARCHY_TPPOS_NO_LOCATION": {
+        "ru": "§cОшибка, не удалось найти подходящую локацию... Попробуй еще раз!",
+        "ua": "§cПомилка, не вдалось знайти відповідну локацію... Спробуй ще раз!",
+        "en": "§cError, could not find a suitable location... Try again!"
+    },
+    "ANARCHY_WAND": {
+        "ru": "$ANARCHY_PREFIX$Приват на сервере осуществляется с помощью §eЗолотого блока §7(10 во все стороны от него) §fили §aИзумрудной руды §7(25 во все стороны)",
+        "ua": "§6Anarchy §8| §fПриват на сервері здійснюється за допомогою §eЗолотого блока §7(10 во всі сторони від нього) §fабо §aСмарагдвої руди §7(25 во всі сторони)",
+        "en": "§6Anarchy §8| §fPrivate on the server is done using §eGolden block §7(10 in all directions from it) §for §aEmerald ore §7(25 in all directions)"
+    }
+}

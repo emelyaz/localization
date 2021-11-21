@@ -1,0 +1,1190 @@
+{
+    "CAGE_PURCHASE_MESSAGE": {
+        "ru": "Вы приобрели клетку §a%s §fза §a%s §f%s",
+        "ua": "Ви придбали клітку §a%s §fза §a%s §f%s",
+        "en": "You purchased a cage §a%s §ffor §a%s §f%s"
+    },
+    "CAGE_SELECTION_MESSAGE": {
+        "ru": "Вы выбрали клетку §a%s",
+        "ua": "Ви придбали клітку §a%s",
+        "en": "You chose the cage §a%s"
+    },
+    "CAGE_SW_ACACIA": {
+        "ru": "Акация",
+        "ua": "Акація",
+        "en": "Acacia"
+    },
+    "CAGE_SW_ACACIA_LORE": {},
+    "CAGE_SW_BIRCH": {
+        "ru": "Березовая",
+        "ua": "Березова",
+        "en": "Birch"
+    },
+    "CAGE_SW_BIRCH_LORE": {},
+    "CAGE_SW_DARK_OAK": {
+        "ru": "Темная акация",
+        "ua": "Темна акація",
+        "en": "Dark acacia"
+    },
+    "CAGE_SW_DARK_OAK_LORE": {},
+    "CAGE_SW_GLASS": {
+        "ru": "Стекло",
+        "ua": "Скло",
+        "en": "Glass"
+    },
+    "CAGE_SW_GLASS_LORE": {},
+    "CAGE_SW_ICE": {
+        "ru": "Лёд",
+        "ua": "Лід",
+        "en": "Ice"
+    },
+    "CAGE_SW_ICE_LORE": {},
+    "CAGE_SW_IRON_BARDING": {
+        "ru": "Железная",
+        "ua": "Залізна",
+        "en": "Iron"
+    },
+    "CAGE_SW_IRON_BARDING_LORE": {},
+    "CAGE_SW_JUNGLE": {
+        "ru": "Джунгли",
+        "ua": "Джунглі",
+        "en": "Jungles"
+    },
+    "CAGE_SW_JUNGLE_LORE": {},
+    "CAGE_SW_LEAVES": {
+        "ru": "Лиственная",
+        "ua": "Листяна",
+        "en": "Deciduous"
+    },
+    "CAGE_SW_LEAVES_LORE": {},
+    "CAGE_SW_NETHER": {
+        "ru": "Адская",
+        "ua": "Пекельна",
+        "en": "Hellish"
+    },
+    "CAGE_SW_NETHER_LORE": {},
+    "CAGE_SW_SLIME": {
+        "ru": "Слаймовая",
+        "ua": "Слаймова",
+        "en": "Slimey"
+    },
+    "CAGE_SW_SLIME_LORE": {},
+    "CAGE_SW_SPRUCE": {
+        "ru": "Еловая",
+        "ua": "Еловая",
+        "en": "Spruce"
+    },
+    "CAGE_SW_SPRUCE_LORE": {},
+    "CAGE_SW_STAINED_GLASS_1": {
+        "ru": "Тонкое стекло",
+        "ua": "Тонке скло",
+        "en": "Thin glass"
+    },
+    "CAGE_SW_STAINED_GLASS_10": {
+        "ru": "Бирюза",
+        "ua": "Бірюза",
+        "en": "Turquoise"
+    },
+    "CAGE_SW_STAINED_GLASS_10_LORE": {},
+    "CAGE_SW_STAINED_GLASS_11": {
+        "ru": "Мистическая",
+        "ua": "Містична",
+        "en": "Mystical"
+    },
+    "CAGE_SW_STAINED_GLASS_11_LORE": {},
+    "CAGE_SW_STAINED_GLASS_12": {
+        "ru": "Небесная",
+        "ua": "Небесна",
+        "en": "Heavenly"
+    },
+    "CAGE_SW_STAINED_GLASS_12_LORE": {},
+    "CAGE_SW_STAINED_GLASS_13": {
+        "ru": "Кофе",
+        "ua": "Кава",
+        "en": "Coffee"
+    },
+    "CAGE_SW_STAINED_GLASS_13_LORE": {},
+    "CAGE_SW_STAINED_GLASS_14": {
+        "ru": "Зеленая",
+        "ua": "Зелена",
+        "en": "Green"
+    },
+    "CAGE_SW_STAINED_GLASS_14_LORE": {},
+    "CAGE_SW_STAINED_GLASS_15": {
+        "ru": "Ярость",
+        "ua": "Лють",
+        "en": "Rage"
+    },
+    "CAGE_SW_STAINED_GLASS_15_LORE": {},
+    "CAGE_SW_STAINED_GLASS_16": {
+        "ru": "Темная",
+        "ua": "Темна",
+        "en": "Dark"
+    },
+    "CAGE_SW_STAINED_GLASS_16_LORE": {},
+    "CAGE_SW_STAINED_GLASS_1_LORE": {},
+    "CAGE_SW_STAINED_GLASS_2": {
+        "ru": "Ангельская",
+        "ua": "Ангельська",
+        "en": "Angelic"
+    },
+    "CAGE_SW_STAINED_GLASS_2_LORE": {},
+    "CAGE_SW_STAINED_GLASS_3": {
+        "ru": "Ириска",
+        "ua": "Іриска",
+        "en": "Toffee"
+    },
+    "CAGE_SW_STAINED_GLASS_3_LORE": {},
+    "CAGE_SW_STAINED_GLASS_4": {
+        "ru": "Сиреневая",
+        "ua": "Бузкова",
+        "en": "Lilac"
+    },
+    "CAGE_SW_STAINED_GLASS_4_LORE": {},
+    "CAGE_SW_STAINED_GLASS_5": {
+        "ru": "Банан",
+        "ua": "Банан",
+        "en": "Banana"
+    },
+    "CAGE_SW_STAINED_GLASS_5_LORE": {},
+    "CAGE_SW_STAINED_GLASS_6": {
+        "ru": "Лаймовая",
+        "ua": "Лаймова",
+        "en": "Lime"
+    },
+    "CAGE_SW_STAINED_GLASS_6_LORE": {},
+    "CAGE_SW_STAINED_GLASS_7": {
+        "ru": "Жевательная резинка",
+        "ua": "Жувальна гумка",
+        "en": "Chewing gum"
+    },
+    "CAGE_SW_STAINED_GLASS_7_LORE": {},
+    "CAGE_SW_STAINED_GLASS_8": {
+        "ru": "Пустота",
+        "ua": "Пустота",
+        "en": "Emptiness"
+    },
+    "CAGE_SW_STAINED_GLASS_8_LORE": {},
+    "CAGE_SW_STAINED_GLASS_9": {
+        "ru": "Облачная",
+        "ua": "Хмарна",
+        "en": "Cloudy"
+    },
+    "CAGE_SW_STAINED_GLASS_9_LORE": {},
+    "CAGE_SW_WOOD": {
+        "ru": "Деревянная",
+        "ua": "Дерев'яна",
+        "en": "Wooden"
+    },
+    "CAGE_SW_WOOD_LORE": {},
+    "INSANE_EVENT_DISARMAMENT": {
+        "ru": "Обезоруживание",
+        "ua": "Обеззброєння",
+        "en": "Disarming"
+    },
+    "INSANE_EVENT_DISARMAMENT_DESCRIPTION": {
+        "ru": "После смерти все игроки в радиусе 7 блоков получают Слабость III на 4с.",
+        "ua": "Після смерті всі гравці в радіусі 7 блоків отримують Слабкість III на 4с.",
+        "en": "Upon death, all players within a 7 block radius receive Weakness III for 4 secs"
+    },
+    "INSANE_EVENT_EXPLOSIVE_GIFT": {
+        "ru": "Взрывной подарок",
+        "ua": "Вибуховий подарунок",
+        "en": "Explosive gift"
+    },
+    "INSANE_EVENT_EXPLOSIVE_GIFT_DESCRIPTION": {
+        "ru": "В месте смерти игрока появляются 2 крипера и 2 оцелота",
+        "ua": "У місці смерті гравця з'являються 2 кріпери і 2 оцелоти",
+        "en": "2 creepers and 2 ocelots spawn at the player's death location"
+    },
+    "INSANE_EVENT_FIRE_PARTY": {
+        "ru": "Огненная вечеринка",
+        "ua": "Вогняна вечірка",
+        "en": "Fiery party"
+    },
+    "INSANE_EVENT_FIRE_PARTY_DESCRIPTION": {
+        "ru": "Если игрок сгорает, то все игроки поджигаются на 12 секунд",
+        "ua": "Якщо гравець згорає, то всі гравці підпалюються на 12 секунд",
+        "en": "If a player burns out, then all players are set on fire for 12 seconds"
+    },
+    "INSANE_EVENT_GODS_CREATURES": {
+        "ru": "Божьи твари",
+        "ua": "Божі тварі",
+        "en": "God's creatures"
+    },
+    "INSANE_EVENT_GODS_CREATURES_DESCRIPTION": {
+        "ru": "При ударе любого моба вы получаете слепоту и слабость на 3 секунды",
+        "ua": "При ударі будь-якого мобу ви отримуєте сліпоту і слабкість на 3 секунди",
+        "en": "When hitting any mob, you get blindness and weakness for 3 seconds"
+    },
+    "INSANE_EVENT_HUNTER_MARK": {
+        "ru": "Метка охотника",
+        "ua": "Мітка мисливця",
+        "en": "Hunter's mark"
+    },
+    "INSANE_EVENT_HUNTER_MARK_DESCRIPTION": {
+        "ru": "При попадании из лука вы получаете Регенерацию II и Скорость I на 7с.",
+        "ua": "При попаданні з лука ви отримуєте Регенерацію II і швидкість I на 7с.",
+        "en": "On hitting with a bow, you gain Regeneration II and Speed I for 7 secs"
+    },
+    "INSANE_EVENT_LIGHTNING": {
+        "ru": "Мощь зевса",
+        "ua": "Міць Зевса",
+        "en": "Zeus power"
+    },
+    "INSANE_EVENT_LIGHTNING_DESCRIPTION": {
+        "ru": "При смерти игрока случайного противника бьёт молния",
+        "ua": "При смерті гравця випадкового противника б'є блискавка",
+        "en": "Lightning strikes when a random enemy player dies"
+    },
+    "INSANE_EVENT_LUCK": {
+        "ru": "Любимец удачи",
+        "ua": "Улюбленець удачі",
+        "en": "Lucky guy"
+    },
+    "INSANE_EVENT_LUCK_DESCRIPTION": {
+        "ru": "Каждые 45 секунд игроки получают случайный эффект на 10 секунд",
+        "ua": "Кожні 45 секунд гравці отримують випадковий ефект на 10 секунд",
+        "en": "Every 45 seconds, players receive a random effect for 10 seconds"
+    },
+    "INSANE_EVENT_NURSERY": {
+        "ru": "Питомник",
+        "ua": "Розплідник",
+        "en": "Nursery"
+    },
+    "INSANE_EVENT_NURSERY_DESCRIPTION": {
+        "ru": "При убийстве игрока вы получаете случайное яйцо призыва",
+        "ua": "При вбивстві гравця ви отримуєте випадкове яйце призову",
+        "en": "When you kill a player, you get a random egg call"
+    },
+    "INSANE_EVENT_RISE_OF_THE_DEAD": {
+        "ru": "Восстание мертвецов",
+        "ua": "Повстання мерців",
+        "en": "Rise of the Dead"
+    },
+    "INSANE_EVENT_RISE_OF_THE_DEAD_DESCRIPTION": {
+        "ru": "После смерти игрока появляется скелет в алмазной броне и с алмазным мечом",
+        "ua": "Після смерті гравця з'являється скелет в алмазної броні і з алмазним мечем",
+        "en": "After the player dies, a skeleton appears in diamond armor and with a diamond sword"
+    },
+    "INSANE_EVENT_SIGNS_ABOVE": {
+        "ru": "Знаки свыше",
+        "ua": "Знаки з небес",
+        "en": "Signs from the above"
+    },
+    "INSANE_EVENT_SIGNS_ABOVE_DESCRIPTION": {
+        "ru": "Пока игрок держит в руке меч, он светится",
+        "ua": "Поки гравець тримає в руці меч, він світиться",
+        "en": "While the player is holding a sword in his hand, it glows"
+    },
+    "INSANE_EVENT_VEX": {
+        "ru": "Ярость с небес",
+        "ua": "Гнів з небес",
+        "en": "Heaven rage"
+    },
+    "INSANE_EVENT_VEX_DESCRIPTION": {
+        "ru": "Каждые 90 секунд над игроками появляются 2 вредины",
+        "ua": "Кожні 90 секунд над гравцями з'являються 2 вредіни",
+        "en": "Every 90 seconds, 2 mischiefs appear above the players"
+    },
+    "INSANE_EVENT_WINGS": {
+        "ru": "Окрыление",
+        "ua": "Окрилення",
+        "en": "Winging"
+    },
+    "INSANE_EVENT_WINGS_DESCRIPTION": {
+        "ru": "При убийстве игрок получает Левитацию I и Сопротивление урону II на 7с.",
+        "ua": "При вбивстві гравець отримує Левітацію I і Опір Шкоді II на 7с.",
+        "en": "Upon killing, the player gains Levitation I and Resistance damage II for 7 secs"
+    },
+    "KIT_SW_ARMADILLO": {
+        "ru": "Броненосец",
+        "ua": "Броненосець",
+        "en": "Armadillo"
+    },
+    "KIT_SW_BASEBALL_PLAYER": {
+        "ru": "Бейсболист",
+        "ua": "Бейсболіст",
+        "en": "Baseball player"
+    },
+    "KIT_SW_BOMBER": {
+        "ru": "Подрывник",
+        "ua": "Підривник",
+        "en": "Bomber"
+    },
+    "KIT_SW_BUILDER": {
+        "ru": "Строитель",
+        "ua": "Будівний",
+        "en": "Builder"
+    },
+    "KIT_SW_CHIMERA": {
+        "ru": "Химера",
+        "ua": "Химера",
+        "en": "Chimera"
+    },
+    "KIT_SW_CHOSEN_ONE": {
+        "ru": "Избранный",
+        "ua": "Обраний",
+        "en": "Chosen one"
+    },
+    "KIT_SW_ELYTRA": {
+        "ru": "Валь-кира",
+        "ua": "Валь-кира",
+        "en": "Elytra"
+    },
+    "KIT_SW_FISHERMAN": {
+        "ru": "Рыбак",
+        "ua": "Рибалка",
+        "en": "Fisherman"
+    },
+    "KIT_SW_HEALER": {
+        "ru": "Медик",
+        "ua": "Медік",
+        "en": "Healer"
+    },
+    "KIT_SW_IMMORTAL": {
+        "ru": "Бессмертный",
+        "ua": "Безсмертний",
+        "en": "Immortal"
+    },
+    "KIT_SW_KNIGHT": {
+        "ru": "Рыцарь",
+        "ua": "Лицар",
+        "en": "Knight"
+    },
+    "KIT_SW_MAGIC": {
+        "ru": "Алхимик",
+        "ua": "Алхімік",
+        "en": "Alchemist"
+    },
+    "KIT_SW_MINER": {
+        "ru": "Шахтер",
+        "ua": "Шахтер",
+        "en": "Miner"
+    },
+    "KIT_SW_POSEIDON": {
+        "ru": "Посейдон",
+        "ua": "Посейдон",
+        "en": "Poseidon"
+    },
+    "KIT_SW_RAIDER": {
+        "ru": "Рейдер",
+        "ua": "Рейдер",
+        "en": "Raider"
+    },
+    "KIT_SW_RUNNER": {
+        "ru": "Бегун",
+        "ua": "Бігун",
+        "en": "Runner"
+    },
+    "KIT_SW_SALAMANDRA": {
+        "ru": "Саламандра",
+        "ua": "Саламандра",
+        "en": "Salamandra"
+    },
+    "KIT_SW_SNIPER": {
+        "ru": "Снайпер",
+        "ua": "Снайпер",
+        "en": "Sniper"
+    },
+    "KIT_SW_SPIDER": {
+        "ru": "Паук",
+        "ua": "Павук",
+        "en": "Spider"
+    },
+    "KIT_SW_SURFACED": {
+        "ru": "Всплох",
+        "ua": "Всплох",
+        "en": "Busrt"
+    },
+    "KIT_SW_TELEKINETIC": {
+        "ru": "Теневой убийца",
+        "ua": "Тіньовий вбивця",
+        "en": "Shadow assassin"
+    },
+    "KIT_SW_VIKING": {
+        "ru": "Викинг",
+        "ua": "Вікінг",
+        "en": "Viking"
+    },
+    "KIT_SW_YETI": {
+        "ru": "Йети",
+        "ua": "Йеті",
+        "en": "Yeti"
+    },
+    "PERK_SW_ARES": {
+        "ru": "Арес",
+        "ua": "Арес",
+        "en": "Ares"
+    },
+    "PERK_SW_ARES_LORE": {
+        "ru": [
+            "",
+            "§7После смерти убийца получает",
+            "§7физический урон равный оружию,",
+            "§7которое он держит в руке.",
+            "§7На месте убийцы появляется визуальная молния.",
+            "§7После убийства игрока вы получаете",
+            "§7Эффект регенерации II на 22 сек"
+        ],
+        "ua": [
+            "",
+            "§7Після смерті вбивця отримує",
+            "§7фізичне пошкодження, що дорівнює зброї,",
+            "§7яке він тримає в руці.",
+            "§7На місці вбивці з'являється візуальна блискавка.",
+            "§7Після вбивства гравця ви отримуєте",
+            "§7Ефект регенерації II на 22 сек"
+        ],
+        "en": [
+            "",
+            "§7Upon death, the killer receives",
+            "§7physical damage equal to the weapon,",
+            "§7which he holds in his hand.",
+            "§7Visual lightning appears in the place of the killer.",
+            "§7После убийства игрока вы получаете",
+            "§7Regeneration II for 22 secs"
+        ]
+    },
+    "PERK_SW_ARGILLIC": {
+        "ru": "Магический кузнец",
+        "ua": "Магічний коваль",
+        "en": "Magic blacksmith"
+    },
+    "PERK_SW_ARGILLIC_LORE": {
+        "ru": [
+            "",
+            "§7Каждое второе убийство даёт",
+            "§7+1 к остроте на все мечи",
+            "§7и +1 к силе на все луки в инвентаре"
+        ],
+        "ua": [
+            "",
+            "§7Кожне друге вбивство дає",
+            "§7+1 до гостроти на всі мечі",
+            "§7і +1 до сили на всі луки в інвентарі"
+        ],
+        "en": [
+            "",
+            "§7Every second kill gives",
+            "§7+1 Sharpness on all swords",
+            "§7and +1 to strength for all bows in inventory"
+        ]
+    },
+    "PERK_SW_ARROW_RECOVERY": {
+        "ru": "Стрелец",
+        "ua": "Стрелець",
+        "en": "Archer"
+    },
+    "PERK_SW_ARROW_RECOVERY_LORE": {
+        "ru": [
+            "",
+            "§7При попадании во врага из лука,",
+            "§7стрелы будут возвращаются назад"
+        ],
+        "ua": [
+            "",
+            "§7При попаданні у ворога з лука,",
+            "§7стріли будуть повертаються назад"
+        ],
+        "en": [
+            "",
+            "§7When hitting an enemy with a bow,",
+            "§7arrows will come back"
+        ]
+    },
+    "PERK_SW_BERSERK": {
+        "ru": "Берсерк",
+        "ua": "Берсерк",
+        "en": "Berserk"
+    },
+    "PERK_SW_BERSERK_LORE": {
+        "ru": [
+            "",
+            "§7При получении урона больше 2.5 сердец здоровья,",
+            "§7вы получаете Силу I на 8 секунд"
+        ],
+        "ua": [
+            "",
+            "§7При отриманні шкоди більше 2.5 сердець здоров'я,",
+            "§7ви отримаєте Силу I на 8 секунд"
+        ],
+        "en": [
+            "",
+            "§7When taking damage more than 2.5 health hearts,",
+            "§7you gain Strength I for 8 seconds"
+        ]
+    },
+    "PERK_SW_BOMBER": {
+        "ru": "Взрывной парень",
+        "ua": "Вибуховий хлопець",
+        "en": "Explosive guy"
+    },
+    "PERK_SW_BOMBER_LORE": {
+        "ru": [
+            "",
+            "§7На вашем месте смерти появляется 3 TNT,",
+            "§7которые взорвутся через 2 секунды"
+        ],
+        "ua": [
+            "",
+            "§7На вашому місці смерті з'являється 3 TNT,",
+            "§7які вибухнуть через 2 секунди"
+        ],
+        "en": [
+            "",
+            "§73 TNT appears in your place of death,",
+            "§7which will explode in 2 seconds"
+        ]
+    },
+    "PERK_SW_CONSPIRED": {
+        "ru": "Псих",
+        "ua": "Псих",
+        "en": "Psycho"
+    },
+    "PERK_SW_CONSPIRED_LORE": {
+        "ru": [
+            "",
+            "§7При нанесении урона больше",
+            "§72.5 сердец, противник получает",
+            "§7Слепоту на 4 секунды и Слабость на 1 секунду"
+        ],
+        "ua": [
+            "",
+            "§7При нанесенні шкоди більше",
+            "§72.5 сердець, противник отримує",
+            "§7Сліпоту на 4 секунди і Слабкість на 1 секунду"
+        ],
+        "en": [
+            "",
+            "§7When damaging more than",
+            "§72.5 hearts, the enemy gets",
+            "§7Blindness for 4 seconds and Weakness for 1 second"
+        ]
+    },
+    "PERK_SW_CUPID": {
+        "ru": "Купидон",
+        "ua": "Купідон",
+        "en": "Cupid"
+    },
+    "PERK_SW_CUPID_LORE": {
+        "ru": [
+            "",
+            "§7При каждом третьем попадании",
+            "§7из лука во врага, в него ударяет молния",
+            "§7и он получает Свечение, ",
+            "§7а вы — Поглощение II на 1 минуту"
+        ],
+        "ua": [
+            "",
+            "§7При кожному третьому попаданні",
+            "§7з лука у ворога, в нього вдаряє блискавка",
+            "§7і він отримує Світіння, ",
+            "§7а ви - Поглинання II на 1 хвилину"
+        ],
+        "en": [
+            "",
+            "§7Every third hit",
+            "§7from a bow to the enemy, lightning strikes him",
+            "§7and he gets Glowing, ",
+            "§7and you get Absorption II for 1 minute"
+        ]
+    },
+    "PERK_SW_CURSED": {
+        "ru": "Окаянный",
+        "ua": "Окаянний",
+        "en": "Cursed"
+    },
+    "PERK_SW_CURSED_LORE": {
+        "ru": [
+            "",
+            "§7Когда на вас одет только один предмет",
+            "§7с проклятьем несъёмности, ",
+            "§7Вы получаете Прилив здоровья I и Регенерацию I"
+        ],
+        "ua": [
+            "",
+            "§7Коли на вас одягнений тільки один предмет",
+            "§7з прокляттям нез'ємності, ",
+            "§7Ви отримуєте Прилив здоров'я I і Регенерацію I"
+        ],
+        "en": [
+            "",
+            "§7When you're only wearing one item",
+            "§7with the curse of non-removability, ",
+            "§7You gain Health Surge I and Regeneration I"
+        ]
+    },
+    "PERK_SW_DAMN": {
+        "ru": "Проклятый",
+        "ua": "Проклятий",
+        "en": "Damn"
+    },
+    "PERK_SW_DAMN_LORE": {
+        "ru": [
+            "",
+            "§7Любой урон даёт противнику Иссушение II",
+            "§7на время, равному количеству недостающих",
+            "§7сердец здоровья + 2 секунды."
+        ],
+        "ua": [
+            "",
+            "§7Будь-яка шкода дає противнику Зссушення II",
+            "§7на час, який дорівнює кількості відсутніх",
+            "§7сердець здоров'я + 2 секунди."
+        ],
+        "en": [
+            "",
+            "§7Any damage grants the enemy Drain II",
+            "§7for a time equal to the number of missing",
+            "§7hearts of health + 2 seconds."
+        ]
+    },
+    "PERK_SW_DARK_TIME": {
+        "ru": "Час тьмы",
+        "ua": "Час темряви",
+        "en": "Hour of darkness"
+    },
+    "PERK_SW_DARK_TIME_LORE": {
+        "ru": [
+            "",
+            "§7После вашей смерти противник получит эффект слепоты,",
+            "§7Голода XX и иссушения III на 7 секунд"
+        ],
+        "ua": [
+            "",
+            "§7Після вашої смерті противник отримає ефект сліпоти,",
+            "§7Голоду XX іЗсушення III на 7 секунд"
+        ],
+        "en": [
+            "",
+            "§7After your death, the enemy will receive Blindness,",
+            "§7Hunger XX and Drain III for 7 seconds"
+        ]
+    },
+    "PERK_SW_ENDERMAN": {
+        "ru": "Эндермен",
+        "ua": "Ендермен",
+        "en": "Enderman"
+    },
+    "PERK_SW_ENDERMAN_LORE": {
+        "ru": [
+            "",
+            "§7С шансом 75% при использовании ",
+            "§7жемчуга эндера он не потратится"
+        ],
+        "ua": [
+            "",
+            "§7З шансом 75% при використанні ",
+            "§7перл Ендера вони не витратяться"
+        ],
+        "en": [
+            "",
+            "§7With a 75% chance when using ",
+            "§7Ender pearls, they will not be spent"
+        ]
+    },
+    "PERK_SW_GIFTED": {
+        "ru": "Одаренный",
+        "ua": "Обдарований",
+        "en": "Gifted"
+    },
+    "PERK_SW_GIFTED_LORE": {
+        "ru": [
+            "",
+            "§7Каждое убийство накладывает",
+            "§7на вас эффект Золотого яблока"
+        ],
+        "ua": [
+            "",
+            "§7Кожне вбивство накладає",
+            "§7на вас ефект Золотого яблука"
+        ],
+        "en": [
+            "",
+            "§7Every kill imposes",
+            "§7the Golden apple effect on you"
+        ]
+    },
+    "PERK_SW_GLUTTON": {
+        "ru": "Обжора",
+        "ua": "Обжора",
+        "en": "Glutton"
+    },
+    "PERK_SW_GLUTTON_LORE": {
+        "ru": [
+            "",
+            "§7Когда вы съедаете что-либо,",
+            "§7на вас накладываются эффекты золотого яблока"
+        ],
+        "ua": [
+            "",
+            "§7Коли ви з'їдаєте щось,",
+            "§7на вас накладаються ефекти золотого яблука"
+        ],
+        "en": [
+            "",
+            "§7When you eat something,",
+            "§7the effects of the golden apple are applied to you"
+        ]
+    },
+    "PERK_SW_HARD_SKIN": {
+        "ru": "Твердокожий",
+        "ua": "Твердокожий",
+        "en": "Hard-skinned"
+    },
+    "PERK_SW_HARD_SKIN_LORE": {
+        "ru": [
+            "",
+            "§7Пока на вас нет хотя бы одного",
+            "§7элемента брони, вы получаете",
+            "§73 дополнительных сердца здоровья,",
+            "§7иначе — 2"
+        ],
+        "ua": [
+            "",
+            "§7Поки на вас немає хоча б одного",
+            "§7елемента броні, ви отримуєте",
+            "§73 додаткових серця здоров'я,",
+            "§7інакше — 2"
+        ],
+        "en": [
+            "",
+            "§7Until you have at least one",
+            "§7item of armor you receive",
+            "§73 additional hearts of health,",
+            "§7otherwise you get 2"
+        ]
+    },
+    "PERK_SW_HIDDEN_KILLER": {
+        "ru": "Скрытый убийца",
+        "ua": "Прихований вбивця",
+        "en": "Hidden killer"
+    },
+    "PERK_SW_HIDDEN_KILLER_LORE": {
+        "ru": [
+            "",
+            "§7Удары в спину наносят на",
+            "§72 чистого урона больше и",
+            "§7ослепляют на 4 секунды. Удары в бок",
+            "§7наносят на 1 чистого урона больше"
+        ],
+        "ua": [
+            "",
+            "§7Удари в спину завдають на",
+            "§72 чистої шкоди більше і",
+            "§7засліплюють на 4 секунди. Удари в бік",
+            "§7наносять на 1 чистої шкоди більше"
+        ],
+        "en": [
+            "",
+            "§7Backstabs deal 2",
+            "§7pure damage more and",
+            "§7blind for 4 seconds. Side punches",
+            "§7deal 1 pure damage more"
+        ]
+    },
+    "PERK_SW_HOLY": {
+        "ru": "Святой",
+        "ua": "Святий",
+        "en": "Holy"
+    },
+    "PERK_SW_HOLY_LORE": {
+        "ru": [
+            "",
+            "§7Если на Вашей броне есть любое из проклятий",
+            "§7Вы получаете Регенерацию I и Поглощение II"
+        ],
+        "ua": [
+            "",
+            "§7Якщо на Вашій броні є будь-який з проклять",
+            "§7Ви отримуєте Регенерацію I і Поглинання II"
+        ],
+        "en": [
+            "",
+            "§7If your armor has any of the curses,",
+            "§7You get Regeneration I and Absorption II"
+        ]
+    },
+    "PERK_SW_MARKSMAN": {
+        "ru": "Меткий стрелок",
+        "ua": "Влучний стрілець",
+        "en": "Accurate shooter"
+    },
+    "PERK_SW_MARKSMAN_LORE": {
+        "ru": [
+            "",
+            "§7Каждое третье попадание накладывает",
+            "§7на врага случайный эффект: Отравление II,",
+            "§7Слепота I на 5 секунд или Моментальный урон I"
+        ],
+        "ua": [
+            "",
+            "§7Кожне третє потрапляння накладає",
+            "§7на ворога випадковий ефект: Отруєння II,",
+            "§7Сліпота I на 5 секунд або Моментальну шкоди I"
+        ],
+        "en": [
+            "",
+            "§7Every third hit imposes",
+            "§7random effect on enemy: Poison II, ",
+            "§7Blindness I for 5 seconds or Instant Damage I"
+        ]
+    },
+    "PERK_SW_METAMORPHOSIS": {
+        "ru": "Метаморфоз",
+        "ua": "Метаморфоз",
+        "en": "Metamorphosis"
+    },
+    "PERK_SW_METAMORPHOSIS_LORE": {
+        "ru": [
+            "",
+            "§7Эффект поглощения заменяется на эффект",
+            "§7прилива здоровья того же уровня на 2 минуты"
+        ],
+        "ua": [
+            "",
+            "§7Ефект поглинання замінюється на ефект",
+            "§7припливу здоров'я того ж рівня на 2 хвилини"
+        ],
+        "en": [
+            "",
+            "§7The absorption effect is replaced by the effect of",
+            "§7health boost of the same level for 2 minutes"
+        ]
+    },
+    "PERK_SW_PHARAOH": {
+        "ru": "Дар Фараона",
+        "ua": "Дар Фараона",
+        "en": "Pharaoh's Gift"
+    },
+    "PERK_SW_PHARAOH_LORE": {
+        "ru": [
+            "",
+            "§7Каждое 4 убийство накладывает",
+            "§7на Вас эффект зачарованного яблока"
+        ],
+        "ua": [
+            "",
+            "§7Кожне 4 вбивство накладає",
+            "§7на Вас ефект зачарованого яблука"
+        ],
+        "en": [
+            "",
+            "§7Every 4 kills grants you",
+            "§7the effect of an enchanted apple"
+        ]
+    },
+    "PERK_SW_PHOENIX": {
+        "ru": "Феникс",
+        "ua": "Фенікс",
+        "en": "Phoenix"
+    },
+    "PERK_SW_PHOENIX_LORE": {
+        "ru": [
+            "",
+            "§7С шансом 50% любой урон ",
+            "§7по противнику поджигает его на 8 секунд,",
+            "§7а так же Вас невозможно поджечь"
+        ],
+        "ua": [
+            "",
+            "§7З шансом 50% будь-яка шкода ",
+            "§7по противнику підпалює його на 8 секунд,",
+            "§7а також Вас неможливо підпалити"
+        ],
+        "en": [
+            "",
+            "§7With a 50% chance of any damage ",
+            "§7to the enemy sets them on fire for 8 seconds,",
+            "§7and you are impossible to be set on fire"
+        ]
+    },
+    "PERK_SW_SERVANT_OF_PAIN": {
+        "ru": "Служитель боли",
+        "ua": "Служитель болю",
+        "en": "Acolyte of Pain"
+    },
+    "PERK_SW_SERVANT_OF_PAIN_LORE": {
+        "ru": [
+            "",
+            "§7Когда по вам попадают из лука, ",
+            "§7вы получаете эту стрелу в инвентарь"
+        ],
+        "ua": [
+            "",
+            "§7Коли по вас потрапляють з лука, ",
+            "§7ви отримуєте цю стрілу в інвентар"
+        ],
+        "en": [
+            "",
+            "§7When you get hit by a bow, ",
+            "§7you get this arrow into inventory"
+        ]
+    },
+    "PERK_SW_SMOKE_BOMB": {
+        "ru": "Дымовая шашка",
+        "ua": "Димова шашка",
+        "en": "Smoke bomb"
+    },
+    "PERK_SW_SMOKE_BOMB_LORE": {
+        "ru": [
+            "",
+            "§7При получении урона с шансом 20%",
+            "§7Вы получите эффект ночного зрения,",
+            "§7а Ваш противник - слепоту (на 2.5 сек)"
+        ],
+        "ua": [
+            "",
+            "§7При отриманні шкоди з шансом 20%",
+            "§7Ви отримаєте ефект нічного зору,",
+            "§7а Ваш противник - сліпоту (на 2.5 сек)"
+        ],
+        "en": [
+            "",
+            "§7Taking damage, with a 20% chance",
+            "§7you'll get night vision effect",
+            "§7and your enemy will get Blindness (for 2.5 secs)"
+        ]
+    },
+    "PERK_SW_SONIC": {
+        "ru": "Соник",
+        "ua": "Сонік",
+        "en": "Sonic"
+    },
+    "PERK_SW_SONIC_LORE": {
+        "ru": [
+            "",
+            "§7Пока на вас надеты ботинки,",
+            "§7вы получаете Скорость I"
+        ],
+        "ua": [
+            "",
+            "§7Поки на вас одягнені черевики,",
+            "§7ви отримуєте Швидкість I"
+        ],
+        "en": [
+            "",
+            "§7As long as you have your shoes on,",
+            "§7you get Speed I"
+        ]
+    },
+    "PERK_SW_UNRUFFLED": {
+        "ru": "Невозмутимый",
+        "ua": "Незворушний",
+        "en": "Unperturbed"
+    },
+    "PERK_SW_UNRUFFLED_LORE": {
+        "ru": [
+            "",
+            "§7Если вы разбились, взорвались, сгорели или",
+            "§7совершили самоубийство, то на вас",
+            "§7накладывается дар тотема бессмертия"
+        ],
+        "ua": [
+            "",
+            "§7Якщо ви розбилися, вибухнули, згоріли або",
+            "§7наклали на себе руки, то на вас",
+            "§7накладається дар тотема безсмертя"
+        ],
+        "en": [
+            "",
+            "§7If you crashed, exploded, burned out or",
+            "§7committed suicide then the gift of the totem of",
+            "§7immortality is superimposed on you"
+        ]
+    },
+    "PERK_SW_VAMPIRE": {
+        "ru": "Вампир",
+        "ua": "Вампяр",
+        "en": "Vampire"
+    },
+    "PERK_SW_VAMPIRE_LORE": {
+        "ru": [
+            "",
+            "§7При убийстве игрока вы восполняете ",
+            "§76 здоровья, получаете Сопротивление урону I",
+            "§7и Свечение на 15 секунд"
+        ],
+        "ua": [
+            "",
+            "§7При вбивстві гравця ви заповнюєте ",
+            "§76 здоров'я, отримуєте Опір шкоді I",
+            "§7і Світіння на 15 секунд"
+        ],
+        "en": [
+            "",
+            "§7When you kill a player, you replenish ",
+            "§76 health points, gain Damage Resistance I",
+            "§7and glowing for 15 secs"
+        ]
+    },
+    "PERK_SW_VIPER": {
+        "ru": "Гадюка",
+        "ua": "Гадюка",
+        "en": "Viper"
+    },
+    "PERK_SW_VIPER_LORE": {
+        "ru": [
+            "",
+            "§7Любой урон по вам отравляет ",
+            "§7атакующего на 3 секунды",
+            "§7(только в ближнем бою), а так же",
+            "§7Вас невозможно отравить"
+        ],
+        "ua": [
+            "",
+            "§7Будь-яка шкода по вам отруює ",
+            "§7атакуючого на 3 секунди",
+            "§7(Тільки в ближньому бою), а також",
+            "§7Вас неможливо отруїти"
+        ],
+        "en": [
+            "",
+            "§7Any damage to you poisons ",
+            "§7the attacker for 3 seconds",
+            "§7(only in close combat), and also you",
+            "§7are impossible to poison"
+        ]
+    },
+    "SKYWARS_DUO_TYPE": {
+        "ru": "§eПарный режим",
+        "ua": "§eПарний режим",
+        "en": "§ePair mode"
+    },
+    "SKYWARS_END_EFFECTS_EVENT": {
+        "ru": "§cФинал игры (III) ",
+        "ua": "§cФінал гри (III) ",
+        "en": "§cEnd game (III) "
+    },
+    "SKYWARS_END_EFFECTS_EVENT_SUBTITLE": {
+        "ru": "§7Игра будет завершена через минуту",
+        "ua": "§7Гра буде завершена через хвилину",
+        "en": "§7Game will be over in a minute"
+    },
+    "SKYWARS_END_EFFECTS_EVENT_TITLE": {
+        "ru": "§cФинал игры",
+        "ua": "§cФінал гри",
+        "en": "§cEnd game"
+    },
+    "SKYWARS_GAME_END_EVENT": {
+        "ru": "§cКонец ",
+        "ua": "§cКінець ",
+        "en": "§cEnd "
+    },
+    "SKYWARS_GLOWING_EVENT": {
+        "ru": "§aСвечение игроков ",
+        "ua": "§aСвітіння гравців ",
+        "en": "§aPlayer glowing "
+    },
+    "SKYWARS_GLOWING_EVENT_STARTED": {
+        "ru": "§eВсе игроки получили эффект свечения",
+        "ua": "§eВсі гравці отримали ефект світіння",
+        "en": "§eAll players got the glow effect"
+    },
+    "SKYWARS_INSANE_CHOSEN_EVENTS": {
+        "ru": "§6§lВыбраны случайные игровые события",
+        "ua": "§6§lОбрані випадкові ігрові події",
+        "en": "§6§lRandom game events selected"
+    },
+    "SKYWARS_LIGHTNING_EVENT": {
+        "ru": "§cФинал игры (II) ",
+        "ua": "§cФінал гри (II) ",
+        "en": "§cEnd game (II) "
+    },
+    "SKYWARS_LIGHTNING_EVENT_SUBTITLE": {
+        "ru": "§7До конца осталось 3 минуты, избегайте молний...",
+        "ua": "§7До кінця залишилося 3 хвилини, уникайте блискавок ...",
+        "en": "§73 minutes left until the end, beware of the lightnings..."
+    },
+    "SKYWARS_LIGHTNING_EVENT_TITLE": {
+        "ru": "§cЯрость зевса",
+        "ua": "§cГнів Зевса",
+        "en": "§cZeus' fury"
+    },
+    "SKYWARS_LOOT_EVENT": {
+        "ru": "§aОбновление лута ",
+        "ua": "§aОновлення лута ",
+        "en": "§aLoot update "
+    },
+    "SKYWARS_LOOT_EVENT_STARTED": {
+        "ru": "§aЛут в сундуках на центре карты был обновлен",
+        "ua": "§aЛут в скринях на центрі карти був оновлений",
+        "en": "§aThe loot in the chests in the center of the map has been updated"
+    },
+    "SKYWARS_SOLO_TYPE": {
+        "ru": "§eОдиночный режим",
+        "ua": "§eОдиночний режим",
+        "en": "§eSingle mode"
+    },
+    "SKYWARS_SPEED_EVENT": {
+        "ru": "§aУскорение ",
+        "ua": "§aПрискорення ",
+        "en": "§aAcceleration "
+    },
+    "SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED": {
+        "ru": "§6SkyWars §8| §fВы получили эффект скорости §a%s§f, поскольку выбрали умение §aСоник",
+        "ua": "§6SkyWars §8| §fВи отримали ефект швидкості §a%s§f, оскільки обрали вміння §aСонік",
+        "en": "§6SkyWars §8| §fYou got the speed effect §a%s§f because you chose skill §aSonic"
+    },
+    "SKYWARS_SPEED_EVENT_STARTED": {
+        "ru": "§aВсе игроки получили эффект скорости %s",
+        "ua": "§aВсі гравці отримали ефект швидкості %s",
+        "en": "§aAll players got the speed effect %s"
+    },
+    "SKYWARS_TNTRAIN_EVENT": {
+        "ru": "§cФинал игры ",
+        "ua": "§cФінал гри ",
+        "en": "§cEnd game "
+    },
+    "SKYWARS_TNTRAIN_EVENT_SUBTITLE": {
+        "ru": "§7Над головами игроков появляется динамит, остерегайтесь!",
+        "ua": "§7Над головами гравців з'являється динаміт, остерігайтеся!",
+        "en": "§7Dynamite appears over players' heads, beware!"
+    },
+    "SKYWARS_TNTRAIN_EVENT_TITLE": {
+        "ru": "§cДождь из TNT",
+        "ua": "§cДощ TNT",
+        "en": "§cTNT rain"
+    },
+    "SW_BOARD_KILLS": {
+        "ru": "Убийств: §a",
+        "ua": "Вбивств: §a",
+        "en": "Kills: §a"
+    },
+    "SW_BOARD_NEXT_EVENT": {
+        "ru": "Следующее событие:",
+        "ua": "Наступна подія:",
+        "en": "Next event:"
+    },
+    "SW_CHEST_EMPTY": {
+        "ru": "§4Сундук пуст",
+        "ua": "§4Скриня порожня",
+        "en": "§4Chest is empty"
+    },
+    "SW_GAME_ENDED": {
+        "ru": "Игра будет завершена. Победителем становится случайная команда...",
+        "ua": "Гра буде завершена. Переможцем стає випадкова команда...",
+        "en": "The game will be over. The random team wins..."
+    },
+    "SW_PLAYERS_ALIVE": {
+        "ru": "Игроков: §a",
+        "ua": "Гравців: §a",
+        "en": "Players: §a"
+    },
+    "SW_TEAMS_ALIVE": {
+        "ru": "Команд: §a",
+        "ua": "Команд: §a",
+        "en": "Teams: §a"
+    },
+    "SW_YOUR_TEAMMATE_IS_AT_LOW_HP": {
+        "ru": "§cУ вашего тиммейта %s §cочень мало здоровья!",
+        "ua": "§cУ вашого тімейта %s §cдуже мало здоров'я!",
+        "en": "§cYour teammate %s §chast very little health!"
+    },
+    "SW_YOUR_TEAMMATE_IS_DEAD": {
+        "ru": "§cВаш тиммейт (%s§c) погиб",
+        "ua": "§cВаш тімейт (%s§c) загинув",
+        "en": "§cYour teammate (%s§c) died"
+    }
+}

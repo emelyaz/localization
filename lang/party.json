@@ -1,0 +1,465 @@
+{
+    "ALL_INVITE_PARTY_SETTING": {
+        "ru": "приглашения",
+        "ua": "запрошення",
+        "en": "invitations"
+    },
+    "ALL_INVITE_PARTY_SETTING_DESCRIPTION": {
+        "ru": "позволяет всем участникам приглашать игроков в группу",
+        "ua": "дозволяє всім учасникам запрошувати гравців в групу",
+        "en": "allows all participants to invite players to the group"
+    },
+    "LEADER_LEAVE_PARTY": {
+        "ru": "§6Party §8| §fЧтобы §cпокинуть §fгруппу, сначала передайте права управления ею другому игроку!",
+        "ua": "§6Party §8| §fЗЩоб §cпокинути §fгрупу, спочатку передайте права управління нею іншому гравцеві!",
+        "en": "§6Party §8| §fToы §cleave §fthe group, first transfer the control rights to another player!"
+    },
+    "NO_SLOTS_FOR_PARTY": {
+        "ru": "§c§lВНИМАНИЕ! §cНа данном сервере недостаточно места для Вашей группы!",
+        "ua": "§c§lУВАГА! §cНа цьому сервері недостатньо місця для вашої групи!",
+        "en": "§c§lATTENTION! §cThere is not enough space on this server for your group!"
+    },
+    "PARTY_ALL_HELP": {
+        "ru": [
+            "§7/pchat <сообщение> §f- чат группы",
+            "§7/party list §f- список участников группы",
+            "§7/party invite <ник игрока> §f- пригласить игрока в группу"
+        ],
+        "ua": [
+            "§7/pchat <повідомлення> §f- чат групи",
+            "§7/party list §f- список учасників групи",
+            "§7/party invite <нік гравця> §f- запросити гравця в групу"
+        ],
+        "en": [
+            "§7/pchat <message> §f- group chat",
+            "§7/party list §f- list of group members",
+            "§7/party invite <player's nickname> §f- invite a player to a group"
+        ]
+    },
+    "PARTY_ALL_MEMBERS_LEFT": {
+        "ru": "§cВаша группа была удалена, поскольку все участники покинули её",
+        "ua": "§cВаша група була видалена, оскільки всі учасники покинули її",
+        "en": "§cYour group has been deleted because all members have left it"
+    },
+    "PARTY_ALREADY_IN_PARTY": {
+        "ru": "§6Party §8| §fВы уже в группе",
+        "ua": "§6Party §8| §fВи вже в групі",
+        "en": "§6Party §8| §fYou are already in the group"
+    },
+    "PARTY_AVAILABLE_SETTING_LIST": {
+        "ru": "§6Party §8| §fСписок доступных настроек:",
+        "ua": "§6Party §8| §fСписок доступних параметрів:",
+        "en": "§6Party §8| §fAvailable settings list:"
+    },
+    "PARTY_BROADCAST_OWNER": {
+        "ru": "§6Party §8| %s §fстал новым владельцем группы",
+        "ua": "§6Party §8| %s §fстав новим власніком групи",
+        "en": "§6Party §8| %s §fbecame the new owner of the group"
+    },
+    "PARTY_CANT_INVITE_YOURSELF": {
+        "ru": "§cОшибка, Вы не можете пригласить в группу самого себя",
+        "ua": "§cПомилка, ви не можете запросити в групу самого себе",
+        "en": "§cError, you cannot invite yourself to the group"
+    },
+    "PARTY_CANT_KICK_YOURSELF": {
+        "ru": "§cТы дурак или да?!",
+        "ua": "§cТи дурень чи так?!",
+        "en": "§cAre you a fool or yes?!"
+    },
+    "PARTY_CHAT": {
+        "ru": "§dЧат группы §8| §f%s§8 » §f%s",
+        "ua": "§dЧат групи §8| §f%s§8 » §f%s",
+        "en": "§dGroup chat §8| §f%s§8 » §f%s"
+    },
+    "PARTY_CHAT_FORMAT": {
+        "ru": "/pchat <сообщение>",
+        "ua": "/pchat <повідомлення>",
+        "en": "/pchat <message>"
+    },
+    "PARTY_DISBANDED": {
+        "ru": "§6Party §8| §fВаша группа была расформирована",
+        "ua": "§6Party §8| §fВаша група була розформована",
+        "en": "§6Party §8| §fYour group has been disbanded"
+    },
+    "PARTY_DISBAND_DESCRIPTION": {
+        "ru": "распустить группу"
+    },
+    "PARTY_HE_IS_NOT_IN_PARTY": {
+        "ru": "§cОшибка, данный игрок не состоит в группе",
+        "ua": "§cПомилка, цей гравець не перебуває в групі",
+        "en": "§cError, this player is not in the group"
+    },
+    "PARTY_INVITE_ALREADY_SENT": {
+        "ru": "§cВы уже отправили запрос этому игроку",
+        "ua": "§cВи вже відправили запит цьому гравцю",
+        "en": "§cYou have already sent a request to this player"
+    },
+    "PARTY_INVITE_CANCELLED": {
+        "ru": "§6Party §8| §fВы не можете отправить приглашение в группу этому игроку, так как он отключил приглашения в группы",
+        "ua": "§6Party §8| §fВи не можете відправити запрошення в групу цьому гравцю, так як він відключив запрошення в групи",
+        "en": "§6Party §8| §fYou cannot send an invite to a group to this player, since he turned off invitations to groups"
+    },
+    "PARTY_INVITE_DECLINED": {
+        "ru": "§6Party §8| §fВы отклонили приглашение в группу от игрока %s",
+        "ua": "§6Party §8| §fВи відхилили запрошення в групу від гравця %s",
+        "en": "§6Party §8| §fYou declined a group invite from a player %s"
+    },
+    "PARTY_INVITE_DESCRIPTION": {
+        "ru": "создать новую группу или пригласить игрока"
+    },
+    "PARTY_INVITE_EXPIRED": {
+        "ru": "§6Party §8| §fПриглашение в группу, отправленное игроку %s §fистекло",
+        "ua": "§6Party §8| §fЗапрошення в групу, відправлене гравцю %s §fминуло",
+        "en": "§6Party §8| §fParty invite sent to player %s §fhas expired"
+    },
+    "PARTY_INVITE_FORMAT": {
+        "ru": "/party invite <ник>",
+        "ua": "/party invite <нік>",
+        "en": "/party invite <nickname>"
+    },
+    "PARTY_INVITE_SENT": {
+        "ru": "§6Party §8| §fПриглашение в группу отправлено игроку %s",
+        "ua": "§6Party §8| §fЗапрошення в групу відправлено гравцю %s",
+        "en": "§6Party §8| §fA group invite has been sent to the player %s"
+    },
+    "PARTY_INVITE_TOO_FAST": {
+        "ru": "§6Party §8| §fВы §cслишком часто §fотправляете §cзапросы§f в группу",
+        "ua": "§6Party §8| §fВи §cзанадто часто §fнадсилаєте §cзапити§f в групу",
+        "en": "§6Party §8| §fYou §csend §frequests §cto groups§f too often"
+    },
+    "PARTY_JOINED_BROADCAST": {
+        "ru": "§6Party §8| %s §fприсоединился к группе",
+        "ua": "§6Party §8| %s §fприєднався до групи",
+        "en": "§6Party §8| %s §fjoined the group"
+    },
+    "PARTY_JOINED_PARTY": {
+        "ru": "§6Party §8| §fВы присоединились к группе игрока %s",
+        "ua": "§6Party §8| §fВи приєдналися до групи гравця %s",
+        "en": "§6Party §8| §fYou joined the player's group %s"
+    },
+    "PARTY_JOIN_DESCRIPTION": {
+        "ru": "присоединиться к публичной группе игрока"
+    },
+    "PARTY_JOIN_FORMAT": {
+        "ru": "/party join <ник игрока>",
+        "ua": "/party join <нік гравця>",
+        "en": "/party join <player's nickname>"
+    },
+    "PARTY_KICKOFFLINE_BROADCAST": {
+        "ru": "§6Party §8| %s §fудалил всех оффлайн игроков из группы",
+        "ua": "§6Party §8| %s §fВи приєдналися до групи гравця",
+        "en": "§6Party §8| %s §fremoved all offline players from the group"
+    },
+    "PARTY_KICKOFFLINE_DESCRIPTION": {
+        "ru": "удалить оффлайн игроков из группы"
+    },
+    "PARTY_KICK_BROADCAST": {
+        "ru": "§6Party §8| %s §fбыл удален лидером группы",
+        "ua": "§6Party §8| %s §fбув видалений лідером групи",
+        "en": "§6Party §8| %s §fhas been deleted by the group leader"
+    },
+    "PARTY_KICK_DESCRIPTION": {
+        "ru": "удалить игрока из группы"
+    },
+    "PARTY_KICK_FORMAT": {
+        "ru": "/party kick <ник>",
+        "ua": "/party kick <нік>",
+        "en": "/party kick <nickname>"
+    },
+    "PARTY_KICK_OFFLINE_NO": {
+        "ru": "§cВсе участники группы онлайн...",
+        "ua": "§cВсі учасники групи онлайн...",
+        "en": "§cAll group members are online..."
+    },
+    "PARTY_LEAVE_BROADCAST": {
+        "ru": "§6Party §8| %s §fпокинул группу",
+        "ua": "§6Party §8| %s §fпокинув групу",
+        "en": "§6Party §8| %s §fleft the group"
+    },
+    "PARTY_LEAVE_DESCRIPTION": {
+        "ru": "покинуть группу"
+    },
+    "PARTY_LEFT_PARTY": {
+        "ru": "§6Party §8| §fВы покинули группу игрока %s",
+        "ua": "§6Party §8| §fВи покинули групу гравця %s",
+        "en": "§6Party §8| §fYou left the player's group %s"
+    },
+    "PARTY_LIMIT": {
+        "ru": "§cОшибка, в вашей группе максимальное кол-во участников",
+        "ua": "§cПомилка, у вашій групі максимальна к-ть учасників",
+        "en": "§cError, your group has the maximum number of members"
+    },
+    "PARTY_LIST": {
+        "ru": [
+            "§6Party §8| §fСписок игроков в группе (§a%s§f\\§a%s§f):",
+            " §c• §fЛидер: §a%s §f(§a%s§f)",
+            " §c• §fУчастники: §a%s"
+        ],
+        "ua": [
+            "§6Party §8| §fСписок гравців в групі (§a%s§f\\§a%s§f):",
+            " §c• §fЛідер: §a%s §f(§a%s§f)",
+            " §c• §fУчасники: §a%s"
+        ],
+        "en": [
+            "§6Party §8| §fList of players in the group (§a%s§f\\§a%s§f):",
+            " §c• §fLeader: §a%s §f(§a%s§f)",
+            " §c• §fMembers: §a%s"
+        ]
+    },
+    "PARTY_MEMBERS_DESCRIPTION": {
+        "ru": "список участников группы"
+    },
+    "PARTY_NEW_GUILD_INVITE": {
+        "ru": " %s §fпригласил вас в группу гильдии",
+        "ua": " %s §fзапросив вас до групи гільдії",
+        "en": " %s §finvited you to the guild group"
+    },
+    "PARTY_NEW_INVITE": {
+        "ru": "   %s §fпригласил вас в группу",
+        "ua": "   %s §fзапросив вас до групи",
+        "en": "   %s §finvited you to the group"
+    },
+    "PARTY_NEW_INVITE_ACCEPT_HOVER": {
+        "ru": "§fНажмите, чтобы принять приглашение",
+        "ua": "§fНатисніть, щоб прийняти запрошення",
+        "en": "§fClick to accept the invitation"
+    },
+    "PARTY_NEW_INVITE_DECLINE_HOVER": {
+        "ru": "§fНажмите, чтобы отклонить приглашение",
+        "ua": "§fНатисніть, щоб відхилити запрошення",
+        "en": "§fClick to decline the invitation"
+    },
+    "PARTY_NEW_PARTY_WITH": {
+        "ru": "§6Party §8| §fВы создали новую группу с игроком %s",
+        "ua": "§6Party §8| §fВи створили нову групу з гравцем %s",
+        "en": "§6Party §8| §fYou have created a new group with a player %s"
+    },
+    "PARTY_NOT_IN_PARTY": {
+        "ru": "§6Party §8| §fОшибка, вы не состоите в группе, видимо вы никому не нужны :(",
+        "ua": "§6Party §8| §fПомилка, ви не перебуваєте в групі, мабуть, ви нікому не потрібні :(",
+        "en": "§6Party §8| §fError, you are not a member of the group, apparently you are not needed :("
+    },
+    "PARTY_NOT_PUBLIC": {
+        "ru": "§cОшибка, группа этого игрока не является публичной",
+        "ua": "§cПомилка, група цього гравця не є публічною",
+        "en": "§cError, this player's group is not public"
+    },
+    "PARTY_NO_INVITES": {
+        "ru": "§cУ вас нет приглашения в эту группу или оно истекло",
+        "ua": "§cУ вас немає запрошення в цю групу або воно минуло",
+        "en": "§cYou do not have an invitation to this group or it has expired"
+    },
+    "PARTY_NO_REQUESTS": {
+        "ru": "§cОшибка, у вас нет приглашений в группы",
+        "ua": "§cПомилка, у вас немає запрошень у групи",
+        "en": "§cError, you have no group invitations"
+    },
+    "PARTY_OWNER_OFFLINE": {
+        "ru": "§cОшибка, отправитель приглашения сейчас оффлайн",
+        "ua": "§cПомилка, відправник запрошення зараз офлайн",
+        "en": "§cError, the sender of the invitation is offline"
+    },
+    "PARTY_PLAYERS_WARPED": {
+        "ru": "§6Party §8| §fВсе онлайн-участники были телепортированы на Ваш сервер",
+        "ua": "§6Party §8| §fВсі онлайн-учасники були телепортовані на ваш сервер",
+        "en": "§6Party §8| §fAll online members have been teleported to your server"
+    },
+    "PARTY_PLAYER_KICKED": {
+        "ru": "§6Party §8| §fВы удалили игрока %s §fиз группы",
+        "ua": "§6Party §8| §fВи видалили гравця %s §fіз групи",
+        "en": "§6Party §8| §fYou removed player %s §ffrom the group"
+    },
+    "PARTY_PLAYER_NOT_IN_YOUR_PARTY": {
+        "ru": "§cОшибка, данный игрок не состоит в Вашей группе",
+        "ua": "§cПомилка, цей гравець не перебуває у вашій групі",
+        "en": "§cError, this player is not a member of your group"
+    },
+    "PARTY_PLAYER_SET_OWNER": {
+        "ru": "§6Party §8| §fВы передали права лидера игроку %s",
+        "ua": "§6Party §8| §fВи передали права лідера гравцю %s",
+        "en": "§6Party §8| §fYou transferred leader rights to a player %s"
+    },
+    "PARTY_PURCHASE_MESSAGES": {
+        "ru": [
+            " ",
+            "                §8-| §6§lГИЛЬДИИ §8|-",
+            " §fПоздравляем! Вы приобрели улучшение §eгрупповая игра",
+            " §fТеперь Вы можете создавать §6Party §6из участников вашей гильдии",
+            " §fДля этого используйте команду §7/guild party",
+            " "
+        ],
+        "ua": [
+            " ",
+            "                §8-| §6§lГІЛЬДІЇ §8|-",
+            " §fВітаємо! Ви придбали поліпшення §eгрупова гра",
+            " §fТепер ви можете створювати §6Party §6з учасників вашої гільдії",
+            " §fДля цього  §7/guild party",
+            " "
+        ],
+        "en": [
+            " ",
+            "                §8-| §6§lGUILDS §8|-",
+            " §fCongratulations! You purchased an upgrade §egroup game",
+            " §fNow you can create §6Party §6with your guild members",
+            " §fTo do this, use the command §7/guild party",
+            " "
+        ]
+    },
+    "PARTY_REQUEST": {
+        "ru": "  §c• §fЗапрос от %s§f, §7§nнажмите чтобы принять",
+        "ua": "  §c• §fЗапит від %s§f, §7§nнатисніть, щоб прийняти",
+        "en": "  §c• §fRequest from %s§f, §7§nclick to accept"
+    },
+    "PARTY_REQUESTS_DESCRIPTION": {
+        "ru": "список приглашений в группу"
+    },
+    "PARTY_REQUESTS_FOOTER": {
+        "ru": " §fНажмите на запрос который Вы хотите принять",
+        "ua": " §fНатисніть на запит, який ви хочете прийняти",
+        "en": " §fClick on the request you want to accept"
+    },
+    "PARTY_REQUESTS_TITLE": {
+        "ru": "§6Party §8| §fСписок приглашений в группы (§a%s§f):",
+        "ua": "§6Party §8| §fСписок запрошень у групи (§a%s§f):",
+        "en": "§6Party §8| §fList of invitations to groups (§a%s§f):"
+    },
+    "PARTY_REQUEST_HOVER": {
+        "ru": "§fНажмите, чтобы присоединиться к группе",
+        "ua": "§fНатисніть, щоб приєднатися до групи",
+        "en": "§fClick to join the group"
+    },
+    "PARTY_REQUEST_SENT_TO_FRIENDS": {
+        "ru": "§6Друзья §8| §fЗапрос в группу отправлен всем друзьям онлайн",
+        "ua": "§6Друзі §8| §fЗапит до групи відправлений всім друзям онлайн",
+        "en": "§6Friends §8| §fGroup request has been sent to all friends online"
+    },
+    "PARTY_SETOWNER_DESCRIPTION": {
+        "ru": "передать права владения группой"
+    },
+    "PARTY_SETOWNER_FORMAT": {
+        "ru": "/party setowner <ник>",
+        "ua": "/party setowner <нік>",
+        "en": "/party setowner <nickname>"
+    },
+    "PARTY_SETOWNER_YOURSELF": {
+        "ru": "§6Party §8| §fВы уже являетесь владельцем группы",
+        "ua": "§6Party §8| §fВи вже є власником групи",
+        "en": "§6Party §8| §fYou are already the owner of the group"
+    },
+    "PARTY_SETTINGS_DESCRIPTION": {
+        "ru": "настройки группы"
+    },
+    "PARTY_SETTINGS_FORMAT": {
+        "ru": "/party setting <настройка> <true/false>",
+        "ua": "/party setting <налалшутвання> <true/false>",
+        "en": "/party setting <setting> <true/false>"
+    },
+    "PARTY_SETTING_ALREADY_SET": {
+        "ru": "§cОшибка, значение данной настройки уже является указанным",
+        "ua": "§cПомилка, значення цього параметра вже є зазначеним",
+        "en": "§cError, the value of this setting is already specified"
+    },
+    "PARTY_SETTING_CHANGED": {
+        "ru": "§6Party §8| §a%s §fобновил значение настройки §a%s§f в группе",
+        "ua": "§6Party §8| §a%s §fоновив значення налаштування §a%s§f в групі",
+        "en": "§6Party §8| §a%s §fupdated setting value §a%s§f in the group"
+    },
+    "PARTY_SETTING_ENTRY": {
+        "ru": " §c• §e%s §f[§a%s§f] - %s",
+        "ua": " §c• §e%s §f[§a%s§f] - %s",
+        "en": " §c• §e%s §f[§a%s§f] - %s"
+    },
+    "PARTY_SETTING_SET": {
+        "ru": "§6Party §8| §fЗначение настройки §a%s§f обновлено",
+        "ua": "§6Party §8| §fЗначення налаштування §a%s§f оновлено",
+        "en": "§6Party §8| §fSetting value §a%s§f is updated"
+    },
+    "PARTY_TARGET_IN_PARTY": {
+        "ru": "§cОшибка, игрок %s §cуже в группе",
+        "ua": "§cПомилка, гравець %s §cвже в групі",
+        "en": "§cError, player %s §cis already a member"
+    },
+    "PARTY_WARP_DESCRIPTION": {
+        "ru": "телепортировать всех участников на текущий сервер"
+    },
+    "PARTY_WARP_NO_MEMBERS": {
+        "ru": "§6Party §8| §fВ группе нет онлайн-участников для телепортации",
+        "ua": "§6Party §8| §fВ групі немає онлайн учасників для телепортування",
+        "en": "§6Party §8| §fThere are no online members in the group."
+    },
+    "PARTY_YOUR_INVITE_DECLINED": {
+        "ru": "§6Party §8| §f%s §fотклонил Ваше приглашение в группу (он просто не знает, что теряет)",
+        "ua": "§6Party §8| §f%s §fвідхилив ваше запрошення в групу (Він просто не знає, що втрачає)",
+        "en": "§6Party §8| §f%s §fdeclined your invitation to the group (he just doesn't know what he's losing)"
+    },
+    "PARTY_YOU_CANT_SENT_INVITES": {
+        "ru": "§6Party §8| §fОтправлять приглашения в группу может только ее создатель!",
+        "ua": "§6Party §8| §fВідправляти запрошення в групу може тільки її творець!",
+        "en": "§6Party §8| §fOnly the creator can send invitations to the group!"
+    },
+    "PARTY_YOU_KICKED": {
+        "ru": "§6Party §8| %s §fудалил Вас из группы",
+        "ua": "§6Party §8| %s §fвидалив вас із групи",
+        "en": "§6Party §8| %s §fremoved you from the group"
+    },
+    "PARTY_YOU_NOW_OWNER": {
+        "ru": "§6Party §8| %s §fпередал Вам права на управление группой",
+        "ua": "§6Party §8| %s §fпередав вам права на управління групою",
+        "en": "§6Party §8| %s §fgave you the rights to manage the group"
+    },
+    "PARTY_YOU_WARPED": {
+        "ru": "§6Party §8| §fЛидер группы %s §fтелепортировал Вас на его сервер",
+        "ua": "§6Party §8| §fЛідер групи %s §fтелепортував вас на його сервер",
+        "en": "§6Party §8| §fGroup leader %s §fteleported you to his server"
+    },
+    "PLAYER_JOINED_PUBLIC_PARTY": {
+        "ru": "§6Party §8| %s §fприсоединился к публичной группе",
+        "ua": "§6Party §8| %s §fприєднався до публічної групи",
+        "en": "§6Party §8| %s §fjoined a public group"
+    },
+    "PUBLIC_PARTY_SETTING": {
+        "ru": "публичность",
+        "ua": "публічність",
+        "en": "publicity"
+    },
+    "PUBLIC_PARTY_SETTING_DESCRIPTION": {
+        "ru": "делает группу публичной и разрешает вступать в нее без приглашения",
+        "ua": "робить групу публічної і дозволяє вступати в неї без запрошення",
+        "en": "makes the group public and allows you to join it without invitation"
+    },
+    "YOU_CANT_DISBAND_PARTY": {
+        "ru": "§cРаспустить группу может только её создатель",
+        "ua": "§cРозпустити групу може тільки її творець",
+        "en": "§cA group can only be disbanded by its creator."
+    },
+    "YOU_CANT_KICK_PARTY": {
+        "ru": "§cУдалять игроков из группы может только её создатель",
+        "ua": "§cВидаляти гравців з групи може тільки її творець",
+        "en": "§cOnly the creator of a group can remove players from a group."
+    },
+    "YOU_CANT_SET_OWNER_PARTY": {
+        "ru": "§cОшибка, передать управление группой может только её владелец",
+        "ua": "§cПомилка, передати управління групою може тільки її власник",
+        "en": "§cError, Only the owner of the group can transfer control of the group"
+    },
+    "YOU_CANT_SET_SETTINGS": {
+        "ru": "§cИзменять настройки группы может только её создатель",
+        "ua": "§cЗмінювати налаштування групи може тільки її творець",
+        "en": "§cOnly the creator of the group can change the settings of the group."
+    },
+    "YOU_CANT_WARP_PARTY": {
+        "ru": "§6Party §8| §fТелепортировать участников на свой сервер может только лидер группы",
+        "ua": "§6Party §8| §fТелепортувати учасників на свій сервер може тільки лідер групи",
+        "en": "§6Party §8| §fLeader only can teleport members to the server"
+    },
+    "YOU_SHOULD_LEAVE_YOUR_PARTY": {
+        "ru": "§cОшибка, Вы должны быть создателем группы в которой состоите. Для использования команды покиньте текущую группу - /party leave",
+        "ua": "§cПомилка, Ви повинні бути творцем групи, в якій перебуваєте. Для використання команди покиньте поточну групу - /party leave",
+        "en": "§cError, you must be the creator of the group you are a part of. To use the command, leave the current group - /party leave"
+    },
+    "YOU_WERE_KICKED_FROM_THIS_PARTY": {
+        "ru": "§6Party §8| §fВы были исключены из этой группы, поэтому больше не можете войти в нее",
+        "ua": "§6Party §8| §fВи були виключені з цієї групи, тому більше не можете увійти в неї",
+        "en": "§6Party §8| §fYou were excluded from this group, therefore you can no longer enter it"
+    }
+}

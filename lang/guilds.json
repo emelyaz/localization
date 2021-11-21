@@ -1,0 +1,2222 @@
+{
+    "CLICK_TO_DELETE_RANK": {
+        "ru": "§e▸ Нажмите, чтобы удалить ранг",
+        "ua": "§e▸ Натисніть, щоб видалити ранг",
+        "en": "§e▸ Click to remove rank"
+    },
+    "COLOR_PERMISSION": {
+        "ru": "Цветной текст",
+        "ua": "Кольоровий текст",
+        "en": "Colored text"
+    },
+    "COLOR_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7смогут писать в чат гильдии",
+            "§7цветным текстом",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7зможуть писати в чат гільдії",
+            "§7кольоровим текстом",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All rank players %s",
+            "§7will be able to write to the guild chat",
+            "§7in colored text",
+            " "
+        ]
+    },
+    "GUILDLIST_GUI_ITEM_LORE": {
+        "ru": [
+            " ",
+            "§7Создатель: §a%s",
+            "§7Участники: §a%s§7/§c%s",
+            " ",
+            "§7%s",
+            "§7%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Творець: §a%s",
+            "§7Учасники: §a%s§7/§c%s",
+            " ",
+            "§7%s",
+            "§7%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Creator: §a%s",
+            "§7Participants: §a%s§7/§c%s",
+            " ",
+            "§7%s",
+            "§7%s",
+            " "
+        ]
+    },
+    "GUILDLIST_GUI_ITEM_NAME": {
+        "ru": "§eГильдия %s",
+        "ua": "§eГільдія %s",
+        "en": "§eGuild %s"
+    },
+    "GUILDLIST_GUI_MAIN_LORE": {
+        "ru": [
+            "",
+            "§7Всего гильдий:",
+            "§a%s"
+        ],
+        "ua": [
+            "",
+            "§7Усього гільдій:",
+            "§a%s"
+        ],
+        "en": [
+            "",
+            "§7Total guilds:",
+            "§a%s"
+        ]
+    },
+    "GUILDLIST_GUI_MAIN_NAME": {
+        "ru": "Гильдии ‣ Список гильдий",
+        "ua": "Гільдії ‣ Список гільдій",
+        "en": "Guilds ‣ Guilds list"
+    },
+    "GUILDLIST_GUI_NULL_SERVER_LORE": {
+        "ru": [
+            " §c✗ Лидер гильдии оффлайн"
+        ],
+        "ua": [
+            " §c✗ Лідер гільдії оффлайн"
+        ],
+        "en": [
+            " §c✗ Guild leader is offline"
+        ]
+    },
+    "GUILDLIST_GUI_SERVER_LORE": {
+        "ru": [
+            "§7Лидер гильдии §aонлайн",
+            "§7на сервере §e%s"
+        ],
+        "ua": [
+            "§7Лідер гільдії §aонлайн",
+            "§7на сервері §e%s"
+        ],
+        "en": [
+            "§7Guild leader §ais online",
+            "§7on server §e%s"
+        ]
+    },
+    "GUILDLIST_PLACE_STRING_NO_COINS": {
+        "ru": "§cНе участвует в топе по монетам",
+        "ua": "§cНе бере участь в топі по монетах",
+        "en": "§cDoesn't take part in coins top"
+    },
+    "GUILDLIST_PLACE_STRING_NO_MEMBERS": {
+        "ru": "§cНе участвует в топе по участникам",
+        "ua": "§cНе бере участі в топі по учасниках",
+        "en": "§cDoesn't take part in participants top"
+    },
+    "GUILDLIST_PLACE_STRING_YES_COINS": {
+        "ru": "§7На §a%s §7месте в топе по монетам",
+        "ua": "§7На §a%s §7місті в топі по монетах",
+        "en": "§7Took the §a%s §7place in coins top"
+    },
+    "GUILDLIST_PLACE_STRING_YES_MEMBERS": {
+        "ru": "§7На §a%s §7месте в топе по участникам",
+        "ua": "§7На §a%s §7в топі по учасниках",
+        "en": "§7Took the §a%s §7place in participants top"
+    },
+    "GUILDS_DONT_HAVE_INVITES_FROM": {
+        "ru": "§cОшибка, этот игрок не отправлял приглашения в гильдию или оно истекло",
+        "ua": "§cПомилка, цей гравець не відправляв запрошення в гільдію або воно минуло",
+        "en": "§cError, this player did not send invitations to the guild or they have expired"
+    },
+    "GUILDS_GUI_MEMBER_LORE": {
+        "ru": [
+            " ",
+            "§7Ранг: §e%s"
+        ],
+        "ua": [
+            " ",
+            "§7Ранг: §e%s"
+        ],
+        "en": [
+            " ",
+            "§7Rank: §e%s"
+        ]
+    },
+    "GUILDS_GUI_NULL_SERVER_LORE": {
+        "ru": [
+            " ",
+            "§7Последний раз был в сети",
+            "§e%s назад",
+            " ",
+            " §c✗ Сейчас оффлайн"
+        ],
+        "ua": [
+            " ",
+            "§7Останній раз був онлайн",
+            "§e%s тому",
+            " ",
+            " §c✗ Зараз оффлайн"
+        ],
+        "en": [
+            " ",
+            "§7Last seen online",
+            "§e%s ago",
+            " ",
+            " §c✗ Now offline"
+        ]
+    },
+    "GUILDS_GUI_SERVER_LORE": {
+        "ru": [
+            "§7Сервер: §a%s"
+        ],
+        "ua": [
+            "§7Сервер: §a%s"
+        ],
+        "en": [
+            "§7Server: §a%s"
+        ]
+    },
+    "GUILDS_INVITE_EXPIRED": {
+        "ru": "§6Гильдии §8| §fПриглашение в гильдию, отправленное игроку %s §fистекло",
+        "ua": "§6Гільдії §8| §fзапрошення до гільдії, що було надіслане гравцю %s §fминуло",
+        "en": "§6Guilds §8| §fA guild invite sent to %s §fhas expired"
+    },
+    "GUILDS_INVITE_SENT": {
+        "ru": "§6Гильдии §8| §fПриглашение в гильдию отправлено игроку %s",
+        "ua": "§6Гільдії §8| §fЗапрошення в гільдію було надіслано гравцю %s",
+        "en": "§6Guilds §8| §fA guild invite sent to %s"
+    },
+    "GUILDS_JOINED_GUILD": {
+        "ru": "§6Гильдии §8| §fВы вступили в гильдию §e%s",
+        "ua": "§6Гільдії §8| §fВи вступили в гільдію §e%s",
+        "en": "§6Guilds §8| §fYou have joined a guild §e%s"
+    },
+    "GUILDS_MEMBER_CONNECTED": {
+        "ru": "§6Гильдии §8| §a%s§f зашел на сервер",
+        "ua": "§6Гільдії §8| §a%s §fзайшов на сервер",
+        "en": "§6Guilds §8| §a%s §fentered the server"
+    },
+    "GUILDS_PLAYER_JOINED": {
+        "ru": "§2Гильдия §8| §fИгрок %s §fприсоединился к гильдии",
+        "ua": "§2Гільдія §8| §fГравець %s §fприєднався до гільдії",
+        "en": "§2Guild §8| §fPlayer %s §fjoined guilds"
+    },
+    "GUILDS_YOU_REJECTED_REQUEST": {
+        "ru": "§6Гильдии §8| §fВы отклонили приглашение игрока %s §fв гильдию",
+        "ua": "§6Гільдії §8| §fВи відхилили запрошення від %s §fв гільдію",
+        "en": "§6Guilds §8| §fYou declined player's invite %s §fto guild"
+    },
+    "GUILD_ACCEPT_DESCRIPTION": {
+        "ru": "принять приглашение в гильдию"
+    },
+    "GUILD_ACCEPT_FORMAT": {
+        "ru": "/guild accept <ник игрока>",
+        "ua": "/guild accept <нік гравця>",
+        "en": "/guild accept <player's nickname>"
+    },
+    "GUILD_ADDRANK_DESCRIPTION": {
+        "ru": "создать ранг гильдии"
+    },
+    "GUILD_ADDRANK_FORMAT": {
+        "ru": "/guild addrank <название>",
+        "ua": "/guild addrank <назва>",
+        "en": "/guild addrank <name>"
+    },
+    "GUILD_ALREADY_EXISTS": {
+        "ru": "§cОшибка, гильдия с таким именем уже существует",
+        "ua": "§cПомилка, гільдія з таким ім'ям вже існує",
+        "en": "§cError, a guild with the same name already exists"
+    },
+    "GUILD_ALREADY_IN_GUILD": {
+        "ru": "§cОшибка, Вы уже состоите в гильдии",
+        "ua": "§cПомилка, Ви вже перебуваєте в гільдії",
+        "en": "§cError, you are a part of the guild already"
+    },
+    "GUILD_ALREADY_MUTED": {
+        "ru": "§cЧат игрока %s §cуже заблокирован",
+        "ua": "§cЧат гравця %s §cвже заблокований",
+        "en": "§cPlayer's chat %s §cis already banned"
+    },
+    "GUILD_BROADCAST_PROMOTE": {
+        "ru": "§2Гильдия §8| §f%s §fизменил ранг игрока %s §fна \"§a%s§f\"",
+        "ua": "§2Гільдія §8| §f%s §fзмінив ранг гравця %s §fна \"§a%s§f\"",
+        "en": "§2Guild §8| §f%s §fchanged player's rank %s §ffor \"§a%s§f\""
+    },
+    "GUILD_CANT_ACCEPT_MEMBERS": {
+        "ru": "§cОшибка, в гильдии уже максимальное количество участников",
+        "ua": "§cПомилка, в гільдії вже максимальна кількість учасників",
+        "en": "§cError, the guild already has the maximum number of participants"
+    },
+    "GUILD_CANT_CHANGE_HIS_RANK": {
+        "ru": "§6Гильдии §8| §fВы не можете управлять рангом данного игрока",
+        "ua": "§6Гільдії §8| §fВи не можете керувати рангом цього гравця",
+        "en": "§6Guilds §8| §fYou cannot control the rank of this player"
+    },
+    "GUILD_CANT_CREATE": {
+        "ru": "§cСоздавать гильдии могут только игроки со статусом §c§lMAGMA §cи выше",
+        "ua": "§cСтворювати гільдії можуть тільки гравці зі статусом §c§lMAGMA §cі вище",
+        "en": "§cOnly players with status can create guilds §c§lMAGMA §cand higher"
+    },
+    "GUILD_CANT_INVITE_YOURSELF": {
+        "ru": "§cТы ебобо? Ты уже в гильдии!",
+        "ua": "§cТи єбобо? Ти вже в гільдії!",
+        "en": "§cAre you crazy? You are a part of the guild already!"
+    },
+    "GUILD_CANT_SET_THIS_RANK": {
+        "ru": "§6Гильдии §8| §fВы не можете установить такой ранг игроку",
+        "ua": "§6Гільдії §8| §fВи не можете встановити такий ранг гравцю",
+        "en": "§6Guilds §8| §fYou cannot assign this rank to a player"
+    },
+    "GUILD_CHANGE_MOTD_BROADCAST": {
+        "ru": "§2Гильдия §8| §fИгрок %s §fобновил приветствие гильдии",
+        "ua": "§2Гільдія §8| §fГравець %s §fоновив вітання гільдії",
+        "en": "§2Guild §8| §fPlayer %s §fupdated the guilds greeting"
+    },
+    "GUILD_CHANGE_RANK_FORMAT": {
+        "ru": "/guild setrank <ник игрока> <ранг>",
+        "ua": "/guild setrank <нік гравця> <ранг>",
+        "en": "/guild setrank <player's nickname> <rank>"
+    },
+    "GUILD_CHANGE_TAG_BROADCAST": {
+        "ru": "§2Гильдия §8| §fИгрок %s §fизменил тэг гильдии на §7%s",
+        "ua": "§2Гільдія §8| §fГравець %s §fзмінив тег гільдії на §7%s",
+        "en": "§2Guild §8| §fPlayer %s §fchanged the guilds tag to §7%s"
+    },
+    "GUILD_CHAT": {
+        "ru": "§2Чат гильдии §8| §f%s§8 » §f%s",
+        "ua": "§2Чат гільдії §8| §f%s§8 » §f%s",
+        "en": "§2Guilds chat §8| §f%s§8 » §f%s"
+    },
+    "GUILD_CHAT_DESCRIPTION": {
+        "ru": "чат гильдии"
+    },
+    "GUILD_CHAT_FORMAT": {
+        "ru": "/gchat <сообщение>",
+        "ua": "/gchat <повідомлення>",
+        "en": "/gchat <message>"
+    },
+    "GUILD_CREATED": {
+        "ru": "§6Гильдии §8| §fВы создали гильдию §e%s",
+        "ua": "§6Гільдії §8| §fВи створили гільдію §e%s",
+        "en": "§6Guilds §8| §fYou created a guild §e%s"
+    },
+    "GUILD_CREATE_DESCRIPTION": {
+        "ru": "создать новую гильдию, (стоимость создания гильдии - §a20,000§f монет)"
+    },
+    "GUILD_CREATE_FORMAT": {
+        "ru": "/guild create <название>, (стоимость создания гильдии - 20,000 монет)",
+        "ua": "/guild create <назва>, (вартість створення гільдії - 20,000 монет)",
+        "en": "/guild create <name>, (guilds creation cost - 20,000 coins)"
+    },
+    "GUILD_CREATION_IS_NOT_FREE": {
+        "ru": "§cОшибка, у Вас недостаточно монет для создания гильдии (требуется %s)",
+        "ua": "§cПомилка, у вас недостатньо монет для створення гільдії (потрібно %s)",
+        "en": "§cError, you don't have enough coins to create guilds (needed %s)"
+    },
+    "GUILD_DAILYLIMITS_MESSAGES": {
+        "ru": [
+            "§6Гильдии §8| §fСтатистика гильдии §e%s§f:",
+            " §c• §fБаланс гильдии: §a%s",
+            " §c• §fЗаработано за день: §e%s",
+            " §c• §fДневной лимит: §c%s",
+            " §c• §fОбнуление лимита через: §e%s"
+        ],
+        "ua": [
+            "§6Гільдії §8| §fСтатистика гільдії §e%s§f:",
+            " §c• §fБаланс гільдії: §a%s",
+            " §c• §fЗароблено за день: §e%s",
+            " §c• §fДенний ліміт: §c%s",
+            " §c• §fОбнулення ліміту через: §e%s"
+        ],
+        "en": [
+            "§6Guilds §8| §fGuilds statistics §e%s§f:",
+            " §c• §fGuilds balance: §a%s",
+            " §c• §fEarned in a day: §e%s",
+            " §c• §fDaily limit: §c%s",
+            " §c• §fResetting the limit in: §e%s"
+        ]
+    },
+    "GUILD_DECLINE_DESCRIPTION": {
+        "ru": "отклонить приглашение в гильдию"
+    },
+    "GUILD_DECLINE_FORMAT": {
+        "ru": "/guild decline <ник игрока>",
+        "ua": "/guild decline <нік гравця>",
+        "en": "/guild decline <player's nickname>"
+    },
+    "GUILD_DELETE_DESCRIPTION": {
+        "ru": "распустить гильдию"
+    },
+    "GUILD_DELETE_NO_SUCH_RANK": {
+        "ru": "§cОшибка, указанного ранга не существует",
+        "ua": "§cПомилка, зазначеного рангу не існує",
+        "en": "§cError, the specified rank does not exist"
+    },
+    "GUILD_DELHOME_DESCRIPTION": {
+        "ru": "удалить точку дома гильдии"
+    },
+    "GUILD_DELRANK_DESCRIPTION": {
+        "ru": "удалить ранг гильдии"
+    },
+    "GUILD_DELRANK_FORMAT": {
+        "ru": "/guild delrank <название>",
+        "ua": "/guild delrank <назва>",
+        "en": "/guild delrank <name>"
+    },
+    "GUILD_DEPOSIT_FORMAT": {
+        "ru": "/guild deposit <ник игрока> <сумма>",
+        "ua": "/guild deposit <нік гравця> <сума>",
+        "en": "/guild deposit <player's nickname> <sum>"
+    },
+    "GUILD_DEPOSIT_LIMIT": {
+        "ru": "§cОшибка, за 1 раз можно вывести максимум 5000 монет",
+        "ua": "§cПомилка, за 1 раз можна вивести максимум 5000 монет",
+        "en": "§cError, a maximum of 5000 coins can be withdrawn at a time"
+    },
+    "GUILD_DEPOSIT_TOO_FAST": {
+        "ru": "§6Гильдии §8| §fВыводить деньги с баланса гильдии можно раз в §a10 §fминут",
+        "ua": "§6Гільдії §8| §fВиводити гроші з балансу гільдії можна раз на §a10 §fхвилин",
+        "en": "§6Guilds §8| §fYou can withdraw money from the guilds balance every §a10 §fminutes"
+    },
+    "GUILD_DISBANDED": {
+        "ru": "§2Гильдия §8| %s §fраспустил гильдию",
+        "ua": "§2Гільдія §8| %s §fрозпустив гільдію",
+        "en": "§2Guild §8| %s §fdisbanded the guild"
+    },
+    "GUILD_DISBAND_WARNING": {
+        "ru": [
+            " ",
+            "              §8-| §6§lГИЛЬДИИ §8|-",
+            " §fВы действительно хотите распустить гильдию?",
+            " §fДанные о ней будут §cбезвозвратно §fудалены",
+            " §fДля подтверждения введите §7/guild delete §fеще раз",
+            " "
+        ],
+        "ua": [
+            " ",
+            "              §8-| §6§lГільдії §8|-",
+            " §fВи дійсно хочете розпустити гільдію?",
+            " §fДані про неї будуть §cбезповоротно §fвидалені",
+            " §fДля підтвердження введіть §7/guild delete §fще раз",
+            " "
+        ],
+        "en": [
+            " ",
+            "              §8-| §6§lGuilds §8|-",
+            " §fDo you really want to disband the guild?",
+            " §fData about it will be §cirrevocably §fdeleted",
+            " §fTo confirm enter §7/guild delete §fonce again",
+            " "
+        ]
+    },
+    "GUILD_DONATEINFO": {
+        "ru": "§6Гильдии §8| §fИгрок §a%s §fвложил в гильдию §a%s §fмонет",
+        "ua": "§6Гільдії §8| §fГравець §a%s §fвклав в гільдію §a%s §fмонет",
+        "en": "§6Guilds §8| §fPlayer §a%s §finvested in the guild §a%s §fcoins"
+    },
+    "GUILD_DONATEINFO_DESCRIPTION": {
+        "ru": "информация о внесенных монетках игроко"
+    },
+    "GUILD_DONATEINFO_FORMAT": {
+        "ru": "/guild donateinfo <ник игрока>",
+        "ua": "/guild donateinfo <нік гравця>",
+        "en": "/guild donateinfo <player's nickname>"
+    },
+    "GUILD_DONATERS_DESCRIPTION": {
+        "ru": "топ участников гильдии"
+    },
+    "GUILD_DONATE_DESCRIPTION": {
+        "ru": "пополнить баланс гильдии"
+    },
+    "GUILD_DONATE_FORMAT": {
+        "ru": "/guild donate <сумма>",
+        "ua": "/guild donate <сумма>",
+        "en": "/guild donate <сумма>"
+    },
+    "GUILD_DONATE_LIMIT": {
+        "ru": "§6Гильдии §8| §fСумма вклада §cбольше дневного лимита §fгильдии",
+        "ua": "§6Гільдії §8| §fСума вкладу §cбільше за денний ліміт §fгільдії",
+        "en": "§6Guilds §8| §fDeposit amount §cis bigger than a daily limit §fGuilds"
+    },
+    "GUILD_DONATE_SUCCESS": {
+        "ru": "§6Гильдии §8| §fВы положили в банк гильдии §a%s §fмонет",
+        "ua": "§6Гільдії §8| §fВи поклали в банк гільдії §a%s §fмонет",
+        "en": "§6Guilds §8| §fYou put in guilds bank §a%s §fcoins"
+    },
+    "GUILD_DONATE_TOO_FAST": {
+        "ru": "§6Гильдии §8| §fПополнять баланс гильдии можно раз в §a1 §fминуту",
+        "ua": "§6Гільдії §8| §fПоповняти баланс гільдії можна раз на §a1 §fхвилин",
+        "en": "§6Guilds §8| §fGuilds can be refilled once every §a1 §fminute"
+    },
+    "GUILD_GUILDS_DESCRIPTION": {
+        "ru": "открыть список гильдий"
+    },
+    "GUILD_GUI_ITEM_NAME": {
+        "ru": "§eИнформация о гильдии",
+        "ua": "§eІнформація о гільдії",
+        "en": "§eInformation about uilds"
+    },
+    "GUILD_GUI_MAIN_LORE": {
+        "ru": [
+            " ",
+            "§7Гильдия: §a%s",
+            " ",
+            "§7Создатель: §a%s",
+            "§7Дата создания:",
+            "§a%s",
+            " ",
+            "§7Участников: §a%s§8/§c%s",
+            " ",
+            "§7Баланс гильдии: §e%s"
+        ],
+        "ua": [
+            " ",
+            "§7Гільдія: §a%s",
+            " ",
+            "§7Творець: §a%s",
+            "§7Дата створення:",
+            "§a%s",
+            " ",
+            "§7Учасників: §a%s§8/§c%s",
+            " ",
+            "§7Баланс гільдії: §e%s"
+        ],
+        "en": [
+            " ",
+            "§7Guild: §a%s",
+            " ",
+            "§7Creator: §a%s",
+            "§7Date of creation:",
+            "§a%s",
+            " ",
+            "§7Members: §a%s§8/§c%s",
+            " ",
+            "§7Guilds balance: §e%s"
+        ]
+    },
+    "GUILD_GUI_NAME": {
+        "ru": "Гильдия ‣ Участники",
+        "ua": "Гільдія ‣ Учасники",
+        "en": "Guild ‣ Members"
+    },
+    "GUILD_HOME_DESCRIPTION": {
+        "ru": "телепортация в дом гильдии"
+    },
+    "GUILD_INFO_DESCRIPTION": {
+        "ru": "просмотреть информацию о балансе гильдии"
+    },
+    "GUILD_INVALID_SUM": {
+        "ru": "§6Гильдии §8| §fУкажите верную сумму",
+        "ua": "§6Гільдії §8| §fУкажіть правильну суму",
+        "en": "§6Guilds §8| §fEnter the correct amount"
+    },
+    "GUILD_INVITE_ALREADY_SENT": {
+        "ru": "§cОшибка, Вы уже отправляли приглашение этому игроку",
+        "ua": "§cПомилка, ви вже надсилали запрошення цьому гравцю",
+        "en": "§cError, you have already sent an invitation to this player"
+    },
+    "GUILD_INVITE_CANCELLED": {
+        "ru": "§6Гильдии §8| §fВы не можете отправить приглашение в гильдию этому игроку, так как он отключил приглашения в гильдии",
+        "ua": "§6Гільдії §8| §fВи не можете відправити запрошення в гільдію уьому гравцю, оскільки він відімкнув повідомлення в гільдії",
+        "en": "§6Guilds §8| §fYou cannot send an invitation to the guild to this player, since he has disabled guilds prompts"
+    },
+    "GUILD_INVITE_DESCRIPTION": {
+        "ru": "пригласить игрока в гильдию"
+    },
+    "GUILD_INVITE_FORMAT": {
+        "ru": "/guild invite <ник игрока>",
+        "ua": "/guild invite <нік гравця>",
+        "en": "/guild invite <player's nickname>"
+    },
+    "GUILD_INVITE_TOO_FAST": {
+        "ru": "§6Гильдии §8| §fВы §cслишком часто §fотправляете §fприглашения в гильдию",
+        "ua": "§6Гільдії §8| §fВи §cзанадто часто §fнадсилаєте §fзапрошення в гільдію",
+        "en": "§6Guilds §8| §fYou §csend invitations §fto the guild §ftoo often"
+    },
+    "GUILD_KICK_BROADCAST": {
+        "ru": "§2Гильдия §8| §fИгрок %s §fудалил %s §fиз гильдии по причине §a%s",
+        "ua": "§2Гільдія §8| §fГравець %s §fвидалив %s §fіз гільдії по причині §a%s",
+        "en": "§2Guils §8| §fPlayer %s §fleft %s §fguilds because of §a%s"
+    },
+    "GUILD_KICK_DESCRIPTION": {
+        "ru": "удалить игрока из гильдии"
+    },
+    "GUILD_KICK_FORMAT": {
+        "ru": "/guild kick <ник игрока> <причина>",
+        "ua": "/guild kick <нік гравця> <причина>",
+        "en": "/guild kick <player's nickname> <reason>"
+    },
+    "GUILD_LEAVE_BROADCAST": {
+        "ru": "§2Гильдия §8| %s §fпокинул гильдию",
+        "ua": "§2Гільдія §8| %s §fпокинув гільдію",
+        "en": "§2Guild §8| %s §fleft the guild"
+    },
+    "GUILD_LEAVE_DESCRIPTION": {
+        "ru": "покинуть гильдию"
+    },
+    "GUILD_LEFT_GUILD": {
+        "ru": "§6Гильдии §8| §fВы покинули гильдию §a%s",
+        "ua": "§6Гільдії §8| §fВи покинули гільдію §a%s",
+        "en": "§6Guilds §8| §fYou left the guild §a%s"
+    },
+    "GUILD_LIST_DESCRIPTION": {
+        "ru": "открыть список участников гильдии"
+    },
+    "GUILD_MAKELEADER_BROADCAST": {
+        "ru": "§2Гильдия §8| §7%s §fпередал §cправа управления §fгильдией игроку %s",
+        "ua": "§2Гільдія §8| §7%s §fпередав §cправа управління §fгільдією гравцю %s",
+        "en": "§2Guild §8| §7%s §ftransferred §cguild control rights §fto the player %s"
+    },
+    "GUILD_MAKELEADER_DESCRIPTION": {
+        "ru": "передать лидерство"
+    },
+    "GUILD_MAKELEADER_FORMAT": {
+        "ru": "/guild makeleader <ник игрока>",
+        "ua": "/guild makeleader <нік гравця>",
+        "en": "/guild makeleader <player's nickname>"
+    },
+    "GUILD_MAKELEADER_NO_RANK": {
+        "ru": "§cОшибка, у нового владельца гильдии должен быть статус §c§lMAGMA §cили выше",
+        "ua": "§cПомилка, у нового власника гільдії повинен бути статус §c§lMAGMA §cабо вище",
+        "en": "§cError, the new owner of Guilds must have a status §c§lMAGMA §cor higher"
+    },
+    "GUILD_MAKELEADER_SUCCESS": {
+        "ru": "§6Гильдии §8| §fВы передали права управления гильдей игроку %s§f. Вы по-прежнему остаетесь в гильдии, но в роли модератора",
+        "ua": "§6Гільдії §8| §fВи передали права керування гільдією гравцю %s§f. Ви як і раніше залишаєтеся в гільдії, але в ролі модератора",
+        "en": "§6Guilds §8| §fYou transferred guild control rights to the player %s§f. You are still in guilds, but as a moderator"
+    },
+    "GUILD_MOTD_ADDLINE_DESCRIPTION": {
+        "ru": "добавить строку в приветствие"
+    },
+    "GUILD_MOTD_ADDLINE_FORMAT": {
+        "ru": "/guild motd addline <текст>",
+        "ua": "/guild motd addline <текст>",
+        "en": "/guild motd addline <text>"
+    },
+    "GUILD_MOTD_ADDLINE_SUCCESS": {
+        "ru": "§6Гильдии §8| §fНовая строка добавлена",
+        "ua": "§6Гільдії §8| §fНовий рядок доданий",
+        "en": "§6Guilds §8| §fNew line added"
+    },
+    "GUILD_MOTD_CLEARED": {
+        "ru": "§6Гильдии §8| §fПриветствие гильдии удалено",
+        "ua": "§6Гільдії §8| §fПривітання гільдії видалено",
+        "en": "§6Guilds §8| §fGuilds greeting is deleted"
+    },
+    "GUILD_MOTD_CLEAR_DESCRIPTION": {
+        "ru": "очистить приветствие"
+    },
+    "GUILD_MOTD_DESCRIPTION": {
+        "ru": "управление приветствием гильдии"
+    },
+    "GUILD_MOTD_EMPTY": {
+        "ru": "§6Гильдии §8| §fВ гильдии не установлено приветствие",
+        "ua": "§6Гільдії §8| §fВ Гільдії не встановлене привітання",
+        "en": "§6Guilds §8| §fGreetings not installed in guilds"
+    },
+    "GUILD_MOTD_INFO_DESCRIPTION": {
+        "ru": "просмотреть текущее приветствие"
+    },
+    "GUILD_MOTD_INVALID_NUMBER": {
+        "ru": "§6Гильдии §8| §fУкажите верный номер строки",
+        "ua": "§6Гільдії §8| §fУкажіть правильний номер рядка",
+        "en": "§6Guilds §8| §fEnter the correct line number"
+    },
+    "GUILD_MOTD_REMOVELINE_DESCRIPTION": {
+        "ru": "удалить линию из приветствия"
+    },
+    "GUILD_MOTD_REMOVELINE_FORMAT": {
+        "ru": "/guild motd removeline <номер строки>",
+        "ua": "/guild motd removeline <номер рядка>",
+        "en": "/guild motd removeline <line number>"
+    },
+    "GUILD_MOTD_REMOVELINE_SUCCESS": {
+        "ru": "§6Гильдии §8| §fСтрока §e№%s §fудалена",
+        "ua": "§6Гільдії §8| §fРядок §e№%s §fвидалений",
+        "en": "§6Guilds §8| §fLine §e№%s §fis deleted"
+    },
+    "GUILD_MOTD_RESENDTOALL_DESCRIPTION": {
+        "ru": "отправить приветствие всем участникам гильдии"
+    },
+    "GUILD_MOTD_SETLINE_DESCRIPTION": {
+        "ru": "изменить текст на строке в приветствии"
+    },
+    "GUILD_MOTD_SETLINE_FORMAT": {
+        "ru": "/guild motd setline <номер строки> <текст>",
+        "ua": "/guild motd setline <номер рядка> <текст>",
+        "en": "/guild motd setline <line number> <text>"
+    },
+    "GUILD_MOTD_SETLINE_SUCCESS": {
+        "ru": "§6Гильдии §8| §fТекст на строке §e№%s §fизменён",
+        "ua": "§6Гільдії §8| §fТекст на рядку §e№%s §fзмінений",
+        "en": "§6Guilds §8| §fText on line §e№%s §fis changed"
+    },
+    "GUILD_MUTE_BROADCAST": {
+        "ru": "§2Гильдия §8| %s §fзаблокировал чат гильдии игроку %s §fна §a%s §fпо причине §a%s",
+        "ua": "§2Гільдія §8| %s §fззаблокував чат гільдії гравцю %s §fна §a%s §fпо причині §a%s",
+        "en": "§2Guild §8| %s §fbanned guilds player's chat %s §ffor §a%s §fbecause of §a%s"
+    },
+    "GUILD_MUTE_FORMAT": {
+        "ru": "/guild mute <ник игрока> <время> <причина>",
+        "ua": "/guild mute <нік гравця> <время> <причина>",
+        "en": "/guild mute <player's nickname> <time> <reason>"
+    },
+    "GUILD_NAME_TOO_LONG": {
+        "ru": "§cОшибка, имя гильдии не может быть длиннее 16 символов",
+        "ua": "§cПомилка, ім'я гільдії не може бути довше за 16 символів",
+        "en": "§cError, guilds name cannot be longer than 16 characters"
+    },
+    "GUILD_NEW_INVITE": {
+        "ru": " %s §fприглашает Вас в гильдию §e%s",
+        "ua": " %s §fзапрошує вас в гільдію §e%s",
+        "en": " %s §finvites you to the guild §e%s"
+    },
+    "GUILD_NEW_INVITE_ACCEPT_HOVER": {
+        "ru": "§fНажмите, чтобы принять приглашение",
+        "ua": "§fНатисніть, щоб прийняти запрошення",
+        "en": "§fClick to accept the invitation"
+    },
+    "GUILD_NEW_INVITE_DECLINE_HOVER": {
+        "ru": "§fНажмите, чтобы отклонить приглашение",
+        "ua": "§fНатисніть, щоб відхилити запрошення",
+        "en": "§fClick to decline the invitation"
+    },
+    "GUILD_NOT_ENOUGH_GUILD_BALANCE": {
+        "ru": "§cОшибка, на балансе гильдии недостаточно монет",
+        "ua": "§cПомилка, на балансі гільдії недостатньо монет",
+        "en": "§cError, there are not enough coins on the guilds balance"
+    },
+    "GUILD_NOT_ENOUGH_MONEY": {
+        "ru": "§cОшибка, у Вас нет такой суммы",
+        "ua": "§cПомилка, у вас немає такої суми",
+        "en": "§cError, you don't have this amount"
+    },
+    "GUILD_NOT_IN_GUILD": {
+        "ru": "§cОшибка, у Вас нет гильдии. %s",
+        "ua": "§Помилка, у вас немає гільдії. %s",
+        "en": "§cError, you have no guilds. %s"
+    },
+    "GUILD_NOT_IN_YOUR_GUILD": {
+        "ru": "§cОшибка, данный игрок не состоит в Вашей гильдии",
+        "ua": "§cПомилка, цей гравець вже не є членом вашої гільдії",
+        "en": "§cError, this player is not a part of your guilds"
+    },
+    "GUILD_NOT_MUTED": {
+        "ru": "§cЧат игрока %s §cне заблокирован",
+        "ua": "§cЧат гравця %s §cне заблокований",
+        "en": "§cPlayer's chat %s §cis banned"
+    },
+    "GUILD_NO_DONATIONS": {
+        "ru": "§6Гильдии §8| §fВ гильдию еще не вкладывали денег",
+        "ua": "§6Гільдії §8| §fУ гільдію ще не вкладали грошей",
+        "en": "§6Guilds §8| §fNo money has been invested in the guild yet"
+    },
+    "GUILD_NO_GUILDS_AT_SERVER": {
+        "ru": "§cОшибка, на сервере еще нет гильдий",
+        "ua": "§cПомилка, на сервері ще немає гільдій",
+        "en": "§cError, there are no guilds on the server yet"
+    },
+    "GUILD_NO_REQUESTS": {
+        "ru": "§6Гильдии §8| §fОжидающих ответа приглашений нет",
+        "ua": "§6Гільдії §8| §fНіхто не очікує відповіді запрошення",
+        "en": "§6Guilds §8| §fNo pending invitations"
+    },
+    "GUILD_NO_SUCH_RANK": {
+        "ru": "§cОшибка, указанного ранга не существует или он еще не настроен. Доступные ранги: §7%s",
+        "ua": "§cПомилка, вказаного вами рангу не існує або він не налаштован. Доступі ранги: §7%s",
+        "en": "§cError, the specified rank does not exist or has not yet been configured. Available ranks: §7%s"
+    },
+    "GUILD_NO_TOP_GUILDS": {
+        "ru": "§cОшибка, на сервере нет гильдий которые могут учавствовать в топе",
+        "ua": "§cПомилка, на сервері немає гільдій, які можуть брати участь в топі",
+        "en": "§cError, there are no guilds on the server that can participate in the top"
+    },
+    "GUILD_NO_TOP_MEMBERS": {
+        "ru": "§cОшибка, в гильдии нет участников, которые вкладывали деньги",
+        "ua": "§cПомилка, в Гільдії нет участников, которые вкладывали деньги",
+        "en": "§cError, there are no donators in the guild"
+    },
+    "GUILD_PARTY_DESCRIPTION": {
+        "ru": "собрать группу гильдии"
+    },
+    "GUILD_PARTY_INVITE_SENT": {
+        "ru": "§6Гильдии §8| §fПриглашение в группу гильдии отправлено всем онлайн-участникам",
+        "ua": "§6Гільдії §8| §fЗапрошення в групу гільдій надіслано всім онлайн-учасникам",
+        "en": "§6Guilds §8| §fGuilds invite sent to every online participant"
+    },
+    "GUILD_PLAYER_ALREADY_LEADER": {
+        "ru": "§6Гильдии §8| §fВы не можете передать права управления гильдией самому себе",
+        "ua": "§6Гільдії §8| §fВи не можете передати права керування гільдією самому собі",
+        "en": "§6Guilds §8| §fYou cannot transfer control rights guild to your own self"
+    },
+    "GUILD_PLAYER_DONATED": {
+        "ru": "§2Гильдия §8| %s §fположил в банк гильдии §a%s §fмонет",
+        "ua": "§2Гільдія §8| %s §fпоклав у банк гільдії §a%s §fмонет",
+        "en": "§2Guild §8| %s §fput in guilds bank §a%s §fcoins"
+    },
+    "GUILD_PLAYER_KICKED": {
+        "ru": "§6Гильдии §8| §fВы удалили игрока %s §fиз гильдии",
+        "ua": "§6Гільдії §8| §fВи видалили гравця %s §fіз гільдії",
+        "en": "§6Guilds §8| §fYou deleted player %s §ffrom guilds"
+    },
+    "GUILD_POINT_CHANGED": {
+        "ru": "§6Гильдии §8| §fТочка дома была установлена",
+        "ua": "§6Гільдії §8| §fТочка будинку була встановлена",
+        "en": "§6Guilds §8| §fA house point has been set"
+    },
+    "GUILD_POINT_CHANGED_BROADCAST": {
+        "ru": "§2Гильдия §8| %s §fустановил точку дома гильдии",
+        "ua": "§2Гільдія §8| %s §fвстановив точку будинку гільдії",
+        "en": "§2Guild §8| %s §fset a guild house point"
+    },
+    "GUILD_POINT_CLEARED": {
+        "ru": "§6Гильдии §8| §fТочка дома была удалена",
+        "ua": "§6Гільдії §8| §fТочка дома убла встановлена",
+        "en": "§6Guilds §8| §fA house point has been deleted"
+    },
+    "GUILD_POINT_NOT_SET": {
+        "ru": "§cОшибка, точка кланового дома еще не установлена",
+        "ua": "§cПомилка, точка кланового будинку ще не встановлена",
+        "en": "§cError, clan house point is not set yet"
+    },
+    "GUILD_POINT_SERVER_NULL": {
+        "ru": "§cОшибка, сервер на котором установлена точка дома не найден",
+        "ua": "§cПомилка, сервер на якому встановлена точка будинку, не знайдено",
+        "en": "§cError, the server on which the house point is set was not found"
+    },
+    "GUILD_RANKS_DESCRIPTION": {
+        "ru": "открыть меню управления рангами"
+    },
+    "GUILD_RANKS_EDIT_NAME": {
+        "ru": "Ранги ‣ %s",
+        "ua": "Ранги ‣ %s",
+        "en": "Ranks ‣ %s"
+    },
+    "GUILD_RANKS_MAIN_NAME": {
+        "ru": "Гильдия ‣ Ранги",
+        "ua": "Гільдія ‣ Ранги",
+        "en": "Guild ‣ Ranks"
+    },
+    "GUILD_RANK_ALREADY_EXISTS": {
+        "ru": "§cОшибка, ранг с таким именем уже существует",
+        "ua": "§cПомилка, ранг с таким іменем вже існує",
+        "en": "§cError, a rank with the same name already exists"
+    },
+    "GUILD_RANK_CREATED": {
+        "ru": "§6Гильдии §8| §fВы создали ранг §a%s§f. Настройте его - §a/guild ranks -> %s",
+        "ua": "§6Гільдії §8| §fВи створили ранг §a%s§f. Налаштуйте його - §a/guild ranks -> %s",
+        "en": "§6Guilds §8| §fYou created a rank §a%s§f. Customize it - §a/guild ranks -> %s"
+    },
+    "GUILD_RANK_DELETED": {
+        "ru": "§6Гильдии §8| §fРанг §e%s §fудален. Все участники с данным рангом потеряли свой статус.",
+        "ua": "§6Гільдії §8| §fРанг §e%s §fвидалений. Усі учасники з цим рангом втратили свій статус.",
+        "en": "§6Guilds §8| §fRank §e%s §fis deleted. All participants with the given rank lost their status."
+    },
+    "GUILD_RANK_LORE": {
+        "ru": [
+            " ",
+            "§7Отображаемое имя:",
+            "%s",
+            " ",
+            "§7Приоритет ранга: §a%s",
+            " ",
+            "§7Разрешения ранга:"
+        ],
+        "ua": [
+            " ",
+            "§7Відображене ім'я:",
+            "%s",
+            " ",
+            "§7Пріоритет рангу: §a%s",
+            " ",
+            "§7Дозволи рангу:"
+        ],
+        "en": [
+            " ",
+            "§7Displayed name:",
+            "%s",
+            " ",
+            "§7Rank's priority: §a%s",
+            " ",
+            "§7Rank permissions:"
+        ]
+    },
+    "GUILD_RANK_LORE_CLICK": {
+        "ru": [
+            " ",
+            "§e▸ Нажмите для управления"
+        ],
+        "ua": [
+            " ",
+            "§e▸ Натисніть для керування"
+        ],
+        "en": [
+            " ",
+            "§e▸ Click to control"
+        ]
+    },
+    "GUILD_RANK_NAME": {
+        "ru": "§eРанг %s",
+        "ua": "§eРанг %s",
+        "en": "§eRank %s"
+    },
+    "GUILD_RANK_PERMISSION_ENTRY": {
+        "ru": " §8• §7%s - %s",
+        "ua": " §8• §7%s - %s",
+        "en": " §8• §7%s - %s"
+    },
+    "GUILD_RANK_REDESIGNED": {
+        "ru": "§6Гильдии §8| §fВы установили отображаемое имя ранга §a%s §fна §a%s",
+        "ua": "§6Гільдії §8| §fВи встановили відображене ім'я рангу §a%s §fна §a%s",
+        "en": "§6Guilds §8| §fYou have set the rank display name §a%s §ffor §a%s"
+    },
+    "GUILD_RANK_RENAMED": {
+        "ru": "§6Гильдии §8| §fВы переименовали ранг §a%s §fв §a%s",
+        "ua": "§6Гільдії §8| §fВи перейменували ранг §a%s §fв §a%s",
+        "en": "§6Guilds §8| §fYou have renamed the rank §a%s §fв §a%s"
+    },
+    "GUILD_RANK_TOO_LONG_NAME": {
+        "ru": "§cОшибка, длина имени ранга должна быть не более 16 символов",
+        "ua": "§cПомилка, довжина імені рангу має бути не більше за 16 символів",
+        "en": "§cError, rank name length must be no more than 16 characters"
+    },
+    "GUILD_RELOADFROMDB_DESCRIPTION": {
+        "ru": "перезагрузить из базы данных"
+    },
+    "GUILD_REQUEST": {
+        "ru": "  §c• §fПриглашение от %s§f в гильдию §e%s§f, §7§nнажмите чтобы принять",
+        "ua": "  §c• §fЗапрошення від %s§f в гільдію §e%s§f, §7§nнатисніть, щоб прийняти",
+        "en": "  §c• §fGuild invitation from %s§f player §e%s§f, §7§nclick to accept"
+    },
+    "GUILD_REQUESTS_DESCRIPTION": {
+        "ru": "список приглашений в гильдии"
+    },
+    "GUILD_REQUESTS_FOOTER": {
+        "ru": " §fНажмите на запрос который Вы хотите принять",
+        "ua": " §fНатисніть на запит, який ви хочете прийняти",
+        "en": " §fClick on the request you want to accept"
+    },
+    "GUILD_REQUESTS_TITLE": {
+        "ru": "§6Гильдии §8| §fСписок приглашений в гильдии (§a%s§f):",
+        "ua": "§6Гільдії §8| §fСписок запрошень в гільдії (§a%s§f):",
+        "en": "§6Guilds §8| §fGuilds Invitation List (§a%s§f):"
+    },
+    "GUILD_REQUEST_HOVER": {
+        "ru": "§fНажмите, чтобы вступить в эту гильдию",
+        "ua": "§fНатисніть, щоб вступити до цієї гільдії",
+        "en": "§fClick to join this guild"
+    },
+    "GUILD_REQUEST_REJECTED": {
+        "ru": "§6Гильдии §8| §f%s §fотклонил §fВаше приглашение в гильдию",
+        "ua": "§6Гільдії §8| §f%s §fвідхилив §fваше запрошення в гільдію",
+        "en": "§6Guilds §8| §f%s §fdeclined §fyour guild invitation"
+    },
+    "GUILD_SETHOME_DESCRIPTION": {
+        "ru": "установить точку дома гильдии"
+    },
+    "GUILD_SETRANK_DESCRIPTION": {
+        "ru": "изменить ранг участника"
+    },
+    "GUILD_SHOP_ALREADY_PURCHASED": {
+        "ru": [
+            " §c▸ Данное улучшение уже приобретено"
+        ],
+        "ua": [
+            " §c▸ Це поліпшення вже придбано"
+        ],
+        "en": [
+            " §c▸ This improvement has already been purchased."
+        ]
+    },
+    "GUILD_SHOP_ALREADY_PURCHASED_MSG": {
+        "ru": "§6Гильдия §8| §fДанное улучшение уже приобретено",
+        "ua": "§6Гільдія §8| §fЦе поліпшення вже придбано",
+        "en": "§6Guild §8| §fThis improvement has already been purchased."
+    },
+    "GUILD_SHOP_CLICK_TO_PURCHASE": {
+        "ru": [
+            " §e▸ Нажмите для приобретения"
+        ],
+        "ua": [
+            " §e▸ Натисність, щоб придбати"
+        ],
+        "en": [
+            " §e▸ Click to purchase"
+        ]
+    },
+    "GUILD_SHOP_DESCRIPTION": {
+        "ru": "открыть магазин гильдии"
+    },
+    "GUILD_SHOP_LIMIT_LEVEL": {
+        "ru": "§eУлучшение банка %s",
+        "ua": "§eПокращення банка %s",
+        "en": "§eBank improvement %s"
+    },
+    "GUILD_SHOP_LIMIT_LEVEL_LORE": {
+        "ru": [
+            " ",
+            "§7Увеличит максимальное",
+            "§7количество монеток в день",
+            "§7для гильдии до §e%s",
+            " ",
+            "§7Стоимость улучшения: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Збільшить максимальну",
+            "§7кількість монеток на день",
+            "§7для гільдії до §e%s",
+            " ",
+            "§7Вартість покращення: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Increases the maximum",
+            "§7amount of coins per day",
+            "§7for guilds up to §e%s",
+            " ",
+            "§7Upgrade cost: §a%s",
+            " "
+        ]
+    },
+    "GUILD_SHOP_MEMBER_LEVEL": {
+        "ru": "§eУлучшение вместительности %s",
+        "ua": "§eПоліпшення місткості %s",
+        "en": "§eImproving spaciousness %s"
+    },
+    "GUILD_SHOP_MEMBER_LEVEL_LORE": {
+        "ru": [
+            " ",
+            "§7Увеличит максимальное",
+            "§7количество участников в",
+            "§7гильдии до §e%s",
+            " ",
+            "§7Стоимость улучшения: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Збільшить максимальну",
+            "§7кількість учасників в",
+            "§7гільдії до §e%s",
+            " ",
+            "§7Вартість покращення: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Increases the maximum",
+            "§7amount of members of",
+            "§7guilds up to §e%s",
+            " ",
+            "§7Upgrade cost: §a%s",
+            " "
+        ]
+    },
+    "GUILD_SHOP_MOTD_LORE": {
+        "ru": [
+            " ",
+            "§7Позволяет задать своё собственное",
+            "§7приветствие гильдии, которое будет",
+            "§7отображено каждому участнику при входе",
+            " ",
+            "§7Стоимость улучшения: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Дозволяє задати своє власне",
+            "§7привітання Гільдії, яке буде",
+            "§7відображене кожному учаснику при вході",
+            " ",
+            "§7Вартість покращення: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Lets you set your own",
+            "§7guilds greeting that will be",
+            "§7displayed to each member upon entrance",
+            " ",
+            "§7Upgrade cost: §a%s",
+            " "
+        ]
+    },
+    "GUILD_SHOP_MOTD_TITLE": {
+        "ru": "§eПриветствие гильдии",
+        "ua": "§eПривітання гільдії",
+        "en": "§eGuilds greeting"
+    },
+    "GUILD_SHOP_NOT_ENOUGH_COINS": {
+        "ru": [
+            " §c▸ На балансе гильдии недостаточно",
+            " §c  монет для покупки этого улучшения"
+        ],
+        "ua": [
+            " §c▸ На балансі гільдії недостатньо",
+            " §c  монет для придбання цього покращення"
+        ],
+        "en": [
+            " §c▸ Not enough coins on guild balance",
+            " §c  to purchase this upgrade"
+        ]
+    },
+    "GUILD_SHOP_NOT_ENOUGH_COINS_MSG": {
+        "ru": "§6Гильдия §8| §fНа счету гильдии недостаточно монет для приобретения данного улучшения",
+        "ua": "§6Гільдія §8| §fНа рахунку гільдії недостатньо монет для придбання цього покращення",
+        "en": "§6Guild §8| §fNot enough coins on guild balance to purchase this upgrade"
+    },
+    "GUILD_SHOP_ONLY_LOBBY": {
+        "ru": "§6Гильдии §8| §fМагазин гильдии доступен только в лобби",
+        "ua": "§6Гільдії §8| §fМагазин гільдії доступний тільки в лобі",
+        "en": "§6Guilds §8| §fThe Guilds Store is only available in the lobby"
+    },
+    "GUILD_SHOP_PARTY_LORE": {
+        "ru": [
+            " ",
+            "§7Разрешает создавать группу (Party)",
+            "§7из всех онлайн участников гильдии",
+            "§7одной командой",
+            " ",
+            "§7Стоимость улучшения: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Дозволяє створювати групу (Party)",
+            "§7зі всіх онлайн учасників гільдії",
+            "§7однією командою",
+            " ",
+            "§7Вартість покращення: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Allows to create a group (Party)",
+            "§7from all online guild players",
+            "§7with one command",
+            " ",
+            "§7Upgrade cost: §a%s",
+            " "
+        ]
+    },
+    "GUILD_SHOP_PARTY_TITLE": {
+        "ru": "§eГрупповая игра",
+        "ua": "§eГрупова гра",
+        "en": "§eGroup game"
+    },
+    "GUILD_SHOP_POINT_LORE": {
+        "ru": [
+            " ",
+            "§7Позволяет установить локацию дома",
+            "§7гильдии, куда можно будет телепортироваться",
+            "§7каждому участнику одной командой. Установить",
+            "§7дом гильдии можно будет на следующих режимах:",
+            " §8• SkyBlock",
+            " §8• Creative",
+            " §8• Anarchy",
+            " ",
+            "§7Стоимость улучшения: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Дозволяю встановити локацію будинку",
+            "§7гільдії, куди можна буде переміщуватися",
+            "§7кожному учаснику однією командою. Встановити",
+            "§7будинок гільдії можна буде на таких режимах:",
+            " §8• SkyBlock",
+            " §8• Creative",
+            " §8• Anarchy",
+            " ",
+            "§7Вартість покращення: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Allows you to set the location of the guilds house",
+            "§7where every member can teleport",
+            "§7with one command. Setting",
+            "§7guild houses will be available in the following modes:",
+            " §8• SkyBlock",
+            " §8• Creative",
+            " §8• Anarchy",
+            " ",
+            "§7Upgrade cost: §a%s",
+            " "
+        ]
+    },
+    "GUILD_SHOP_POINT_TITLE": {
+        "ru": "§eДом гильдии",
+        "ua": "§eБудинок гільдії",
+        "en": "§eGuilds house"
+    },
+    "GUILD_SHOP_PREVIOUS_NOT_PURCHASED": {
+        "ru": [
+            " §c▸ Предыдущее улучшение еще не приобретено"
+        ],
+        "ua": [
+            " §c▸ Попереднє поліпшення ще не придбано"
+        ],
+        "en": [
+            " §c▸ Previous upgrade has not been purchased yet"
+        ]
+    },
+    "GUILD_SHOP_PREVIOUS_NOT_PURCHASED_MSG": {
+        "ru": "§6Гильдия §8| §fПредыдущее улучшение еще не приобретено",
+        "ua": "§6Гільдія §8| §fПопереднє поліпшення ще не придбано",
+        "en": "§6Guild §8| §fPrevious upgrade has not been purchased yet"
+    },
+    "GUILD_SHOP_RANK_LORE": {
+        "ru": [
+            " ",
+            "§7Позволяет лидеру управлять рангами гильдии:",
+            " §8• изменять их название",
+            " §8• управлять их правами",
+            " §8• создавать и удалять их",
+            " ",
+            "§7Можно создавать §cдо 4 §fдополнительных рангов",
+            "§7Стандартные ранги гильдии удалить невозможно,",
+            "§7однако можно изменить их название и права",
+            " ",
+            "§7Стоимость улучшения: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Дозволяє лідеру керувати рангами гільдії:",
+            " §8• змінювати їхні назви",
+            " §8• керувати їхніми правами",
+            " §8• створювати та видаляти їх",
+            " ",
+            "§7Можна створювати §cдо 4 §fдодаткових рангів",
+            "§7Стандартні ранги гільдії видалити неможливо,",
+            "§7проте можна змінити їх назва і права",
+            " ",
+            "§7Вартість покращення: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Allows the leader to manage the guilds ranks:",
+            " §8• change their names",
+            " §8• manage their rights",
+            " §8• create and delete them",
+            " ",
+            "§7Up to §c4 §fadditional ranks can be created",
+            "§7Standard guild ranks cannot be removed,",
+            "§7however, you can change their name and rights",
+            " ",
+            "§7Upgrade cost: §a%s",
+            " "
+        ]
+    },
+    "GUILD_SHOP_RANK_TITLE": {
+        "ru": "§eУправление рангами",
+        "ua": "§eУправління рангами",
+        "en": "§eRank management"
+    },
+    "GUILD_SHOP_TAG_LORE": {
+        "ru": [
+            " ",
+            "§7Позволяет задать тэг (суффикс)",
+            "§7гильдии, который будет отображаться",
+            "§7после ника каждого участника.",
+            " ",
+            "§7Лимит - 10 букв или знаков",
+            " ",
+            "§7Стоимость улучшения: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Дозволяє задати тег (суфікс)",
+            "§7гільдії, який буде відображатися",
+            "§7після ніка кожного учасника.",
+            " ",
+            "§7Ліміт - 10 літер або символів",
+            " ",
+            "§7Вартість покращення: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Allows you to set the tag (suffix)",
+            "§7Guilds to be displayed",
+            "§7after the nickname of each member.",
+            " ",
+            "§7Limit is 10 letters or characters",
+            " ",
+            "§7Upgrade cost: §a%s",
+            " "
+        ]
+    },
+    "GUILD_SHOP_TAG_TITLE": {
+        "ru": "§eТэг гильдии",
+        "ua": "§eТег гільдії",
+        "en": "§eGuilds tags"
+    },
+    "GUILD_SHOP_TITLE": {
+        "ru": "Магазин ‣ %s монет",
+        "ua": "Магазин ‣ %s монет",
+        "en": "Store ‣ %s coins"
+    },
+    "GUILD_SHOP_UNAVAILABLE": {
+        "ru": "§6Гильдии §8| §fВы не можете использовать магазин гильдии",
+        "ua": "§6Гільдії §8| §fВи не можете використовувати магазин гільдії",
+        "en": "§6Guilds §8| §fYou cannot use the guilds store"
+    },
+    "GUILD_TAG_CLEARED": {
+        "ru": "§6Гильдии §8| §fТэг сброшен",
+        "ua": "§6Гільдії §8| §fТег скинутий",
+        "en": "§6Guilds §8| §fTag has been dropped"
+    },
+    "GUILD_TAG_DESCRIPTION": {
+        "ru": "установить тэг гильдии"
+    },
+    "GUILD_TAG_FORMAT": {
+        "ru": "/guild tag <тэг>",
+        "ua": "/guild tag <тег>",
+        "en": "/guild tag <tag>"
+    },
+    "GUILD_TAG_INVALID_LENGTH": {
+        "ru": "§6Гильдии §8| §fДлина тэга должна быть от §a2 §fдо §a10§f символов",
+        "ua": "§6Гільдії §8| §fДовжина тега повинна бути від §a2 §fдо §a10§f символів",
+        "en": "§6Guilds §8| §fTag length must be from §a2 §fto §a10§f characters"
+    },
+    "GUILD_TAG_SET": {
+        "ru": "§6Гильдии §8| §fНовый тэг гильдии установлен",
+        "ua": "§6Гільдії §8| §fНовий тег гільдії встановлений",
+        "en": "§6Guilds §8| §fNew guilds tag set"
+    },
+    "GUILD_TARGET_HAS_GUILD": {
+        "ru": "§cДанный игрок уже состоит в гильдии",
+        "ua": "§cЦей гравець вже є членом гільдії",
+        "en": "§cThis player is already a member of a guild"
+    },
+    "GUILD_TARGET_NO_LEVEL": {
+        "ru": "§cВы не можете пригласить данного игрока в свою гильдию, поскольку его уровень ниже 10",
+        "ua": "§cВи не можете запросити цього гравця в свою гільдію, оскільки його рівень нижче за 10",
+        "en": "§cYou cannot invite this player to your guild, because his/hers level is below 10"
+    },
+    "GUILD_THIS_UPDATE_NOT_PURCHASED": {
+        "ru": "§6Гильдии §8| §cДанное улучшение еще не приобретено",
+        "ua": "§6Гільдії §8| §cЦе поліпшення ще не придбано",
+        "en": "§6Guilds §8| §cThis upgrade has not beee purchased yet"
+    },
+    "GUILD_TITLE": {
+        "ru": "ГИЛЬДИИ",
+        "ua": "Гільдії",
+        "en": "Guilds"
+    },
+    "GUILD_TOO_MANY_RANKS": {
+        "ru": "§cОшибка, можно создавать не более 4 собственных рангов",
+        "ua": "§cПомилка, можна створювати не більше 4 власних рангів",
+        "en": "§cError, you can create no more than 4 of your own ranks"
+    },
+    "GUILD_TOP_DESCRIPTION": {
+        "ru": "просмотреть топ гильдий"
+    },
+    "GUILD_TOP_ENTRY_COINS": {
+        "ru": " §6#%s §f- §e%s §fигрока %s§f, баланс - §a%s",
+        "ua": " §6#%s §f- §e%s §fгравця %s§f, баланс - §a%s",
+        "en": " §6#%s §f- §e%s §fPlayer %s§f, balance - §a%s"
+    },
+    "GUILD_TOP_ENTRY_MEMBERS": {
+        "ru": " §6#%s §f- §e%s §fигрока %s§f, участников - §a%s",
+        "ua": " §6#%s §f- §e%s §fгравця %s§f, учасників - §a%s",
+        "en": " §6#%s §f- §e%s §fPlayer %s§f, members - §a%s"
+    },
+    "GUILD_TOP_FORMAT": {
+        "ru": [
+            "§e▸ Подкоманды для guild top:",
+            "§7/guild top coins §f- топ гильдий по монетам",
+            "§7/guild top members §f- топ гильдий по участникам"
+        ],
+        "ua": [
+            "§e▸ Підкоманди для guild top:",
+            "§7/guild top coins §f- топ гільдій по монетах",
+            "§7/guild top members §f- топ гільдій по учасниках"
+        ],
+        "en": [
+            "§e▸ Subcommands for guild top:",
+            "§7/guild top coins §f- top guild by amount of coins",
+            "§7/guild top members §f- top guilds by players"
+        ]
+    },
+    "GUILD_TOP_MEMBERS_TITLE": {
+        "ru": "§6Гильдии §8| §fТоп §a%s §fучастников:",
+        "ua": "§6Гільдії §8| §fТоп §a%s §fучасників:",
+        "en": "§6Guilds §8| §fTop §a%s §fmembers:"
+    },
+    "GUILD_TOP_MEMBER_ENTRY": {
+        "ru": " §6#%s §f- §e%s§f, вложил в гильдию §a%s §fмонет",
+        "ua": " §6#%s §f- §e%s§f, вклав в гільдію §a%s §fмонет",
+        "en": " §6#%s §f- §e%s§f, invested in the guild §a%s §fcoins"
+    },
+    "GUILD_TOP_TITLE": {
+        "ru": "§6Гильдии §8| §fТоп §a%s §fгильдий:",
+        "ua": "§6Гільдії §8| §fТоп §a%s §fгільдій:",
+        "en": "§6Guilds §8| §fTop §a%s §fguilds"
+    },
+    "GUILD_TYPE_TO_REDESIGN": {
+        "ru": "§6Гильдии §8| §fВведите в чат новое отображаемое имя ранга. Его длина должна быть не более 32 символов. Разрешается использовать цвета",
+        "ua": "§6Гільдії §8| §fВведіть в чат нове ім'я, що відображається як ім'я рангу. Його довжина повинна бути не більше за 32 символів. Дозволяється використовувати кольори",
+        "en": "§6Guilds §8| §fEnter the new rank display name in the chat. Its length must be no more than 32 characters. Colors are allowed"
+    },
+    "GUILD_TYPE_TO_RENAME": {
+        "ru": "§6Гильдии §8| §fВведите в чат новое имя ранга. Его длина должна быть не более 16 символов. Цвета использовать запрещено",
+        "ua": "§6Гільдії §8| §fВведіть в чат нове ім'я рангу. Його довжина повинна бути не більше за 16 символів. Кольори використовувати заборонено",
+        "en": "§6Guilds §8| §fEnter the new rank name in the chat. Its length should be no more than 16 characters. Colors are prohibited"
+    },
+    "GUILD_UNMUTE_BROADCAST": {
+        "ru": "§2Гильдия §8| %s §fразблокировал чат игрока %s",
+        "ua": "§2Гільдія §8| %s §fразблокував чат гравця %s",
+        "en": "§2Guild §8| %s §funbanned player's chat %s"
+    },
+    "GUILD_UNMUTE_FORMAT": {
+        "ru": "/guild unmute <ник игрока>",
+        "ua": "/guild unmute <нік гравця>",
+        "en": "/guild unmute <player's nickname>"
+    },
+    "GUILD_WITHDRAW_BROADCAST": {
+        "ru": "§2Гильдия §8| §fИгрок %s §fвывел §a%s §7монет §fиз банка гильдии игроку §a%s",
+        "ua": "§2Гільдія §8| §fГравець%s §fвивів §a%s §7монет §fз банку гільдії гравцю §a%s",
+        "en": "§2Guild §8| §fPlayer %s §fwithdrew §a%s §7coins §ffrom guilds bank to player §a%s"
+    },
+    "GUILD_YOUR_ENTRY_IS": {
+        "ru": "§fВаша гильдия на §e#%s §fместе в топе",
+        "ua": "§fВаша гільдія на §e#%s §fмісці в топі",
+        "en": "§fYour guild took the §e#%s §fplace in the top"
+    },
+    "GUILD_YOUR_GUILD_CANT_BE_IN_TOP": {
+        "ru": "§cВаша гильдия не может учавствовать в топе (для этого нужно минимум 5 участников)",
+        "ua": "§cВаша гільдія не може брати участь в топі (для цього потрібно мінімум 5 учасників)",
+        "en": "§cYour Guild cannot participate in the top (this requires at least 5 members)"
+    },
+    "GUILD_YOUR_MEMBER_TOP_ENTRY_IS": {
+        "ru": "§fВы находитесь на §e#%s §fместе в топе (§a%s §fмонет)",
+        "ua": "§fВи знаходитесь §e#%s §fмісці в топі (§a%s §fмонет)",
+        "en": "§fYou took the §e#%s §fplace in the top (§a%s §fcoins)"
+    },
+    "GUILD_YOU_ARE_NOW_LEADER": {
+        "ru": "§6Гильдии §8| §f%s §fсделал Вас новым владельцем гильдии. Поздравляем!",
+        "ua": "§6Гільдії §8| §f%s §fзробив вас новим власникм гільдії. Вітаємо!",
+        "en": "§6Guilds §8| §f%s §fmade you the new owner of guilds. Congratulations!"
+    },
+    "GUILD_YOU_CANT_CHANGE_MOTD": {
+        "ru": "§6Гильдии §8| §fВы не можете изменять приветствие гильдии",
+        "ua": "§6Гільдії §8| §fВи не можете використовувати вітання гільдії",
+        "en": "§6Guilds §8| §fYou cannot change the guilds greetings"
+    },
+    "GUILD_YOU_CANT_CHANGE_RANKS": {
+        "ru": "§6Гильдии §8| §fУправлять рангами гильдии может только её лидер",
+        "ua": "§6Гільдії §8| §fКерувати рангами гільдії може тільки її лідер",
+        "en": "§6Guilds §8| §fGuilds can only be managed by their leaders"
+    },
+    "GUILD_YOU_CANT_CHANGE_TAG": {
+        "ru": "§6Гильдии §8| §fВы не можете изменять тэг гильдии",
+        "ua": "§6Гільдії §8| §fВи не можете змінювати тег гільдії",
+        "en": "§6Guilds §8| §fYou cannot change the guild tag"
+    },
+    "GUILD_YOU_CANT_CREATE_PARTY": {
+        "ru": "§6Гильдии §8| §fВы не можете создавать группу из участников гильдии",
+        "ua": "§6Гільдії §8| §fВи не можете створювати групу з учасників Гільдії",
+        "en": "§6Guilds §8| §fYou cannot create a group of guild members"
+    },
+    "GUILD_YOU_CANT_DISBAND": {
+        "ru": "§cОшибка, распустить гильдию может только ее создатель",
+        "ua": "§cПомилка, розпустити гільдію може тільки її творець",
+        "en": "§cError, only its creator can disband a guild"
+    },
+    "GUILD_YOU_CANT_DONATE": {
+        "ru": "§6Гильдии §8| §fКласть монеты на баланс может только владелец",
+        "ua": "§6Гільдії §8| §fКласти монети на баланс може тільки власник",
+        "en": "§6Guilds §8| §fOnly the owner can put coins on the balance"
+    },
+    "GUILD_YOU_CANT_KICK": {
+        "ru": "§6Гильдии §8| §fУдалять игроков из гильдии может только модератор и выше",
+        "ua": "§6Гільдії §8| §fВидаляти гравців з гільдії може тільки модератор і вище",
+        "en": "§6Guilds §8| §fOnly a moderator and higher can remove players from guilds"
+    },
+    "GUILD_YOU_CANT_KICK_HIM": {
+        "ru": "§cОшибка, Вы не можете удалить из гильдии этого игрока",
+        "ua": "§cПомилка, ви не можете видалити із гільдії цього гравця",
+        "en": "§cError, you cannot delete the player"
+    },
+    "GUILD_YOU_CANT_LEAVE": {
+        "ru": "§cОшибка, Вы не можете покинуть свою гильдию",
+        "ua": "§cПомилка, ви не можете покинути свою гільдію",
+        "en": "§cError, you can't leave your guild"
+    },
+    "GUILD_YOU_CANT_MAKELEADER": {
+        "ru": "§6Гильдии §8| §fПередать права управления гильдией может только её владелец",
+        "ua": "§6Гільдії §8| §fПередати права керування гільдією може тільки її власник",
+        "en": "§6Guilds §8| §fOnly owner of the guild can transfer the control rights"
+    },
+    "GUILD_YOU_CANT_MUTE": {
+        "ru": "§6Гильдии §8| §fЗаблокировать чат гильдии игроку может только модератор и выше",
+        "ua": "§6Гільдії §8| §fЗаблокувати чат гільдії гравцеві може тільки модератор і вище",
+        "en": "§6Guilds §8| §fOnly moderator and higher can ban player's chat"
+    },
+    "GUILD_YOU_CANT_MUTE_HIM": {
+        "ru": "§cОшибка, Вы не можете заблокировать чат этого игрока",
+        "ua": "§cПомилка, ви не можете заблокувати чат цього гравця",
+        "en": "§cError, you can't ban this player's chat"
+    },
+    "GUILD_YOU_CANT_OFFKICK": {
+        "ru": "§cОшибка, Вы не можете удалять оффлайн участников гильдии",
+        "ua": "§cПомилка, ви не можете видаляти оффлайн учасників гільдії",
+        "en": "§cError, You cannot remove offline guilds members"
+    },
+    "GUILD_YOU_CANT_SEE_PLAYER_STATS": {
+        "ru": "§6Гильдии §8| §fПросматривать статистику игроков может только §9модератор",
+        "ua": "§6Гільдії §8| §fПродивлятись статистику гравців може тільки §9модератор",
+        "en": "§6Guilds §8| §fPlayers' statisctica can be viewed by a §9moderator only"
+    },
+    "GUILD_YOU_CANT_SET_POINT": {
+        "ru": "§6Гильдии §8| §fВы не можете менять точку кланового дома",
+        "ua": "§6Гільдії §8| §fВи не можете змінювати точку кланового будинку",
+        "en": "§6Guilds §8| §fYou can't change the point of the clan house"
+    },
+    "GUILD_YOU_CANT_SET_POINT_HERE": {
+        "ru": "§cОшибка, Вы не можете установить точку дома на этом сервере",
+        "ua": "§cПомилка, ви не можете встановити точку будинку на цьому сервері",
+        "en": "§cError, you can't set a house point on this server"
+    },
+    "GUILD_YOU_CANT_UNMUTE_HIM": {
+        "ru": "§cОшибка, Вы не можете разблокировать чат этого игрока",
+        "ua": "§cПомилка, ви не можете розблокувати чат цього гравця",
+        "en": "§cError, you cannot unban this layer's chat"
+    },
+    "GUILD_YOU_CAN_CREATE": {
+        "ru": "Вы можете создать её, используя §7/guild create <название>",
+        "ua": "Ви можете створити її, використовуючи §7/guild create <назва>",
+        "en": "You can create it by using §7/guild create <name>"
+    },
+    "GUILD_YOU_DONT_HAVE_PERMISSIONS": {
+        "ru": "§cОшибка, у Вас недостаточно прав",
+        "ua": "§cПомилка, у вас недостатньо прав",
+        "en": "§cError, you don't have enough rights"
+    },
+    "GUILD_YOU_KICKED": {
+        "ru": "§6Гильдии §8| §fИгрок %s §fудалил Вас из гильдии. Причина: §c%s",
+        "ua": "§6Гільдії §8| §fГравець %s §fвидалив вас з гільдії. Причина: §c%s",
+        "en": "§6Guilds §8| §fPlayer %s §fremoved you from guilds. Reason: §c%s"
+    },
+    "GUILD_YOU_OFFLINE_KICKED": {
+        "ru": [
+            "§6Гильдии §8| §fВы были удалены из гильдии §e%s",
+            " §c• §fУдалил: §a%s",
+            " §c• §fПричина: §a%s",
+            " "
+        ],
+        "ua": [
+            "§6Гільдії §8| §fВи були видалені з гільдії §e%s",
+            " §c• §fВидалив: §a%s",
+            " §c• §fПричина: §a%s",
+            " "
+        ],
+        "en": [
+            "§6Guilds §8| §fYou have been remove from guilds §e%s",
+            " §c• §fRemoved by: §a%s",
+            " §c• §fReason: §a%s",
+            " "
+        ]
+    },
+    "GUILD_YOU_RECIEVED_MONEY": {
+        "ru": "§6Гильдии §8| §fВаш баланс был пополнен из банка гильдии игроком %s §fна §a%s §fмонет",
+        "ua": "§6Гільдії §8| §fВаш баланс був поповнений з банку гільдії гравцем %s §fна §a%s §fмонет",
+        "en": "§6Guilds §8| §fYour balance has been funded from guild bank by a player %s §fwith §a%s §fcoins"
+    },
+    "GUILD_YOU_REJECTED_REQUEST": {
+        "ru": "§6Гильдии §8| §fВы отклонили приглашение в гильдию от игрока %s",
+        "ua": "§6Гільдії §8| §fВи відхилили запрошення в гільдію від гравця %s",
+        "en": "§6Guilds §8| §fYou have declined the guild invitation from player %s"
+    },
+    "GUILD_YOU_WERE_PROMOTED": {
+        "ru": "§6Гильдии §8| §fВаш ранг был изменен игроком %s §fна \"§a%s§f\"",
+        "ua": "§6Гільдії §8| §fВаш ранг був змінений гравцем %s §fна \"§a%s§f\"",
+        "en": "§6Guilds §8| §fYour rank has been changed by player %s §ffor \"§a%s§f\""
+    },
+    "GUILD_YOU_WERE_TELEPORTED": {
+        "ru": "§6Гильдии §8| §fВы были телепортированы в дом гильдии",
+        "ua": "§6Гільдії §8| §fВи були телепортовані в будинок гільдії",
+        "en": "§6Guilds §8| §fYou have been teleported to guild house"
+    },
+    "GUILD_YOU_WITHDRAW_MONEY": {
+        "ru": "§6Гильдии §8| §fВы вывели на баланс игрока %s §a%s §fмонет",
+        "ua": "§6Гільдії §8| §fВи вивели на баланс гравця %s §a%s §fмонет",
+        "en": "§6Guilds §8| §fYou have withdrawn to the balance of the player %s §a%s §fcoinsg"
+    },
+    "INVITE_ACCEPT_BUTTON": {
+        "ru": "§a§l[ПРИНЯТЬ]",
+        "ua": "§a§l[ПРИЙНЯТИ]",
+        "en": "§a§l[ACCEPT]"
+    },
+    "INVITE_DECLINE_BUTTON": {
+        "ru": "§c§l[ОТКЛОНИТЬ]",
+        "ua": "§c§l[ВІДХИЛИТИ]",
+        "en": "§c§l[DECLINE]"
+    },
+    "INVITE_PERMISSION": {
+        "ru": "Приглашение игроков",
+        "ua": "Запрошення гравців",
+        "en": "Invite players"
+    },
+    "INVITE_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7получат возможность приглашать",
+            "§7новых игроков в гильдию без Вашего",
+            "§7разрешения (доступ к /guild invite)",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7отримають можливість запрошувати",
+            "§7нових гравців в гільдію без вашого",
+            "§7дозволу (доступ до /guild invite)",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All members of the rank %s",
+            "§7will be able to invite",
+            "§7new guild players without your",
+            "§7permission (access to /guild invite)",
+            " "
+        ]
+    },
+    "INVITE_TITLE": {
+        "ru": "              §8-| §6§l%s §8|-",
+        "ua": "              §8-| §6§l%s §8|-",
+        "en": "              §8-| §6§l%s §8|-"
+    },
+    "KICK_OFFLINE_PERMISSION": {
+        "ru": "Удаление оффлайн игроков",
+        "ua": "Видалення оффлайн гравців",
+        "en": "Removing offline players"
+    },
+    "KICK_OFFLINE_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7получат возможность удалять",
+            "§7оффлайн игроков из гильдии без Вашего",
+            "§7разрешения (доступ к /guild kick)",
+            " ",
+            "§c[!] §7Ранг должен иметь право на",
+            "   §7удаление онлайн игроков",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7отримають можливість видаляти",
+            "§7оффлайн гравців із гільдії без вашого",
+            "§7дозволу (доступ до /guild kick)",
+            " ",
+            "§c[!] §7Ранг повинен мати право на",
+            "   §7видалення онлайн гравців",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All rank players %s",
+            "§7will be able to remove",
+            "§7offline players from guild without",
+            "§7your permission (access to /guild kick)",
+            " ",
+            "§c[!] §7The rank must be eligible to",
+            "   §7remove online players",
+            " "
+        ]
+    },
+    "KICK_PERMISSION": {
+        "ru": "Удаление игроков",
+        "ua": "Видалення гравців",
+        "en": "Games removal"
+    },
+    "KICK_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7получат возможность удалять",
+            "§7онлайн игроков из гильдии без Вашего",
+            "§7разрешения (доступ к /guild kick)",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7отримають можливість видаляти",
+            "§7онлайн гравців із гільдії без вашого",
+            "§7дозволу (доступ до /guild kick)",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All rank players %s",
+            "§7will be able to remove",
+            "§7online players from guild without",
+            "§7your permission (access to /guild kick)",
+            " "
+        ]
+    },
+    "LIMIT_PURCHASE_MESSAGES": {
+        "ru": [
+            "§6Гильдии §8| §fВы приобрели §eулучшение банка %s"
+        ],
+        "ua": [
+            "§6Гильдії §8| §fВи придбали §eполіпшення банку %s"
+        ],
+        "en": [
+            "§6Guilds §8| §fYou have purchased §ea bank upgrade %s"
+        ]
+    },
+    "MEMBER_PURCHASE_MESSAGES": {
+        "ru": [
+            "§6Гильдии §8| §fВы приобрели §eулучшение вместимости %s"
+        ],
+        "ua": [
+            "§6Гільдії §8| §fВи придбали §eполіпшення місткості %s"
+        ],
+        "en": [
+            "§6Guilds §8| §fYou have purchased the §ecapacity upgrade %s"
+        ]
+    },
+    "MOTD_PURCHASE_MESSAGES": {
+        "ru": [
+            " ",
+            "                §8-| §6§lГИЛЬДИИ §8|-",
+            " §fПоздравляем! Вы приобрели улучшение §eприветствие гильдии",
+            " §fДля задания сообщения при входе используйте следующие команды:",
+            " §7/guild motd addline <текст> §f- добавить строку",
+            " §7/guild motd removeline <номер строки> §f- удалить строку",
+            " §7/guild motd §f- просмотреть текущее приветствие гильдии",
+            " "
+        ],
+        "ua": [
+            " ",
+            "                §8-| §6§lГІЛЬДІЇ §8|-",
+            " §fВітаємо! Ви придбали поліпшення §eпривітання гільдії",
+            " §fДля завдання повідомлення при вході використовуйте такі команди:",
+            " §7/guild motd addline <текст> §f- додати рядок",
+            " §7/guild motd removeline <номер рядка> §f- видалити рядок",
+            " §7/guild motd §f- переглянути поточне повідомлення гільдії",
+            " "
+        ],
+        "en": [
+            " ",
+            "                §8-| §6§lGUILDS §8|-",
+            " §fCongratulations! You purchased an upgrade §eguild greeting",
+            " §fUse the following commands to set the greeting message:",
+            " §7/guild motd addline <text> §f- add a line",
+            " §7/guild motd removeline <line number> §f- remove a line",
+            " §7/guild motd §f- view the current guild greeting",
+            " "
+        ]
+    },
+    "MUTE_PERMISSION": {
+        "ru": "Мут игроков",
+        "ua": "Мут гравців",
+        "en": "Mute players"
+    },
+    "MUTE_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7смогут заблокировать чат",
+            "§7другим участникам",
+            "§7(доступ к /guild mute)",
+            " ",
+            "§c[!] §7Дает возможность выдавать мут",
+            "   §7только рангам игроков ниже,",
+            "   §7учитывается приоритет ранга",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7зможуть заблокувати чат",
+            "§7іншим гравцям",
+            "§7(доступ до /guild mute)",
+            " ",
+            "§c[!] §7Дає можливість видавати мут",
+            "   §7тільки рангам гравців нижче,",
+            "   §7враховується пріоритет рангу",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All rank players %s",
+            "§7will be able to block the chat",
+            "§7to other players",
+            "§7(access to /guild mute)",
+            " ",
+            "§c[!] §7Makes it possible to mute",
+            "   §7only to the ranks of players below,",
+            "   §7the priority of the rank is taken into account",
+            " "
+        ]
+    },
+    "PERMISSION_NO": {
+        "ru": "§cзапрещено",
+        "ua": "§cзаборонено",
+        "en": "§cprohibited"
+    },
+    "PERMISSION_YES": {
+        "ru": "§aразрешено",
+        "ua": "§aдозволено",
+        "en": "§aallowed"
+    },
+    "PERM_CLICK_TO_ADD": {
+        "ru": "§e▸ Нажмите, чтобы разрешить",
+        "ua": "§e▸ Натисніть, щоб дозволити",
+        "en": "§e▸ Click to allow"
+    },
+    "PERM_CLICK_TO_REMOVE": {
+        "ru": "§e▸ Нажмите, чтобы запретить",
+        "ua": "§e▸ Натисніть, щоб заборонити",
+        "en": "§e▸ Click to prohibit"
+    },
+    "PERM_YOU_CANT": {
+        "ru": "§c▸ Нельзя изменять права этого ранга",
+        "ua": "§c▸ Не можна змінювати права цього рангу",
+        "en": "§c▸ You cannot change the rights of this rank"
+    },
+    "POINT_PURCHASE_MESSAGES": {
+        "ru": [
+            " ",
+            "                §8-| §6§lГИЛЬДИИ §8|-",
+            " §fПоздравляем! Вы приобрели улучшение §eдом гильдии",
+            " §fТеперь Вы можете устанавливать локацию дома гильдии",
+            " §fДля этого используйте команду §7/guild sethome",
+            " "
+        ],
+        "ua": [
+            " ",
+            "                §8-| §6§lГІЛЬДІЇ §8|-",
+            " §fВітаємо! Ви придбали поліпшення §eбудинок гільдії",
+            " §fТепер ви можете встановлювати локацію будинку гільдії",
+            " §fДля цього використовуйте команду §7/guild sethome",
+            " "
+        ],
+        "en": [
+            " ",
+            "                §8-| §6§lGUILDS §8|-",
+            " §fCongratulations! You purchased an upgrade §eguild house",
+            " §fNow you can set the location of the guild house",
+            " §fTo do this, use the command §7/guild sethome",
+            " "
+        ]
+    },
+    "RANK_DELETE_ICON_LORE": {
+        "ru": [
+            " ",
+            "§7Вы можете удалить созданный",
+            "§7Вами ранг. При этом все участники",
+            "§7данного ранга будут перемещены",
+            "§7в группу по умолчанию (участник)",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Ви можете видалити створений",
+            "§7вами ранг. При цьому всі учасники",
+            "§7цього рангу будуть переміщені",
+            "§7в групу за замовчуванням (учасник)",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7You can delete the rank",
+            "§7you created. In this case, all members",
+            "§7of this rank will be moved",
+            "§7to the default group (member)",
+            " "
+        ]
+    },
+    "RANK_DELETE_ICON_NAME": {
+        "ru": "§cУдаление ранга",
+        "ua": "§cВидалення рангу",
+        "en": "§cRemoving rank"
+    },
+    "RANK_PRIORITY_CHANGED": {
+        "ru": "§6Гильдии §8| §fПриоритет ранга изменен.",
+        "ua": "§6Гільдії §8| §fПріоритет рангу змінений.",
+        "en": "§6Guilds §8| §fRank priority has been changed."
+    },
+    "RANK_PRIORITY_ICON_LORE": {
+        "ru": [
+            " ",
+            "§7Вы можете изменить приоритет ранга",
+            "§7Приоритет определяет уровень прав",
+            "§7ранга по отношению к другим. Например,",
+            "§7ранг с приоритетом §a1 §7не сможет",
+            "§7управлять рангом с приоритетом §a2",
+            " ",
+            "§7Текущий приоритет: §a%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Ви можете змінити пріоритет рангу",
+            "§7Пріоритет визначає рівень прав",
+            "§7рангу по відношенню до інших. Наприклад,",
+            "§7ранг з пріорітетом §a1 §7не зможе",
+            "§7керувати рангом з пріорітетом §a2",
+            " ",
+            "§7Поточний пріоритет: §a%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7You can change the priority of a rank.",
+            "§7Priority determines the level of rank rights",
+            "§7in relation to others. For example,",
+            "§7rank with priority §a1 §7will not be able",
+            "§7to manage rank with priority §a2",
+            " ",
+            "§7Current priority: §a%s",
+            " "
+        ]
+    },
+    "RANK_PRIORITY_ICON_NAME": {
+        "ru": "§aПриоритет ранга",
+        "ua": "§aПріоритет рангу",
+        "en": "§aRank priority"
+    },
+    "RANK_PURCHASE_MESSAGES": {
+        "ru": [
+            " ",
+            "                §8-| §6§lГИЛЬДИИ §8|-",
+            " §fПоздравляем! Вы приобрели улучшение §eуправление рангами",
+            " §fТеперь Вы можете управлять рангами гильдии буквально полностью:",
+            "  §eизменять их название, права, добавлять и удалять собственные",
+            " §fДля этого используйте §7/guild addrank, /guild delrank, /guild ranks",
+            " "
+        ],
+        "ua": [
+            " ",
+            "                §8-| §6§lГІЛЬДІЇ §8|-",
+            " §fВітаємо! Ви придбали поліпшення §eкерування рангами",
+            " §fТепер ви можете управляти рангами гільдії буквально повністю:",
+            "  §eзмінювати їх назву, права, додавати і видаляти власні",
+            " §fДля цього використовуйте §7/guild addrank, /guild delrank, /guild ranks",
+            " "
+        ],
+        "en": [
+            " ",
+            "                §8-| §6§lGUILDS §8|-",
+            " §Congratulations! You purchased an upgrade §erank management",
+            " §fNow you can literally manage the ranks of the guild.:",
+            "  §echange their name, rights, add and remove your own ones",
+            " §fTo do this, use §7/guild addrank, /guild delrank, /guild ranks",
+            " "
+        ]
+    },
+    "RANK_REDESIGN_ICON_LORE": {
+        "ru": [
+            " ",
+            "§7Вы можете кастомизировать имя ранга",
+            "§7Отображаемое имя ранга будет показано",
+            "§7в списке участников, а также в списке рангов",
+            " ",
+            "§7Текущее отображаемое имя:",
+            "§a%s",
+            " ",
+            "§e▸ Нажмите, чтобы переименовать"
+        ],
+        "ua": [
+            " ",
+            "§7Ви можете кастомізувати ім'я рангу",
+            "§7Відображене ім'я рангу буде показано",
+            "§7в списку учасників, а також в списку рангів",
+            " ",
+            "§7Поточне відображене ім'я:",
+            "§a%s",
+            " ",
+            "§e▸ Натисніть, щоб перейменувати"
+        ],
+        "en": [
+            " ",
+            "§7You can customize the rank name",
+            "§7The rank display name will be shown",
+            "§7in the list of members as well as in the list of ranks",
+            " ",
+            "§7Current display name:",
+            "§a%s",
+            " ",
+            "§e▸ Click to rename"
+        ]
+    },
+    "RANK_REDESIGN_ICON_NAME": {
+        "ru": "§eОтображаемое имя ранга",
+        "ua": "§eВідображене ім'я рангу",
+        "en": "§eRank display name"
+    },
+    "RANK_RENAME_ICON_LORE": {
+        "ru": [
+            " ",
+            "§7Вы можете переименовать ранг",
+            "§7После измения имени Вы сможете",
+            "§7обращаться к данному рангу только",
+            "§7по новому имени",
+            " ",
+            "§7Текущее имя ранга:",
+            "§a%s",
+            " ",
+            "§e▸ Нажмите, чтобы переименовать"
+        ],
+        "ua": [
+            " ",
+            "§7Ви можете перейменувати ранг",
+            "§7Після зміни імені ви зможете",
+            "§7звертатися до цього рангу тільки",
+            "§7по новому імені",
+            " ",
+            "§7Поточне ім'я рангу:",
+            "§a%s",
+            " ",
+            "§e▸ Нажмите, чтобы переименовать"
+        ],
+        "en": [
+            " ",
+            "§7You can rename the rank",
+            "§7After changing teh name, you will be able",
+            "§7to refer to this rank only",
+            "§7using its new name",
+            " ",
+            "§7Current rank name:",
+            "§a%s",
+            " ",
+            "§e▸ Click to rename"
+        ]
+    },
+    "RANK_RENAME_ICON_NAME": {
+        "ru": "§eНазвание ранга",
+        "ua": "§eНазва рангу",
+        "en": "§eRank's name"
+    },
+    "RANK_TOO_BIG_PRIORITY": {
+        "ru": "§cОшибка, приоритет ранга не может быть больше 9",
+        "ua": "§cПомилка, пріоритет рангу не може бути більше за 9",
+        "en": "§cError, rank priority cannot be greater than 9"
+    },
+    "RANK_TOO_SMALL_PRIORITY": {
+        "ru": "§cОшибка, приоритет ранга не может быть меньше 0",
+        "ua": "§cПомилка, пріоритет рангу не може бути менше за 0",
+        "en": "§cError, rank priority cannot be less than 0"
+    },
+    "SETRANK_PERMISSION": {
+        "ru": "Управление должностями",
+        "ua": "Управління посадами",
+        "en": "Position management"
+    },
+    "SETRANK_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7смогут управлять рангами",
+            "§7участников гильдии",
+            "§7(доступ к /guild setrank)",
+            " ",
+            "§c[!] §7Дает возможность устанавливать",
+            "   §7ранг не Выше своего, учитывается",
+            "   §7приоритет ранга",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7зможувать керувати рангами",
+            "§7учасників гільдії",
+            "§7(доступ до /guild setrank)",
+            " ",
+            "§c[!] §7Дає можливість встановлювати",
+            "   §7ранг не вище свого, враховується ",
+            "   §7пріоритет рангу",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All rank players %s",
+            "§7will be able to manage the ranks",
+            "§7of guild members",
+            "§7(access to /guild setrank)",
+            " ",
+            "§c[!] §7Allows you to set the rank not higher",
+            "   §7than your own, the 'rank priority'",
+            "   §7is taken into account",
+            " "
+        ]
+    },
+    "TAG_PURCHASE_MESSAGES": {
+        "ru": [
+            " ",
+            "                §8-| §6§lГИЛЬДИИ §8|-",
+            " §fПоздравляем! Вы приобрели улучшение §eтэг гильдии",
+            " §fТеперь Вы можете задать §7суффикс§f, который будет отображен",
+            " §fпосле ника каждого участника Вашей гильдии",
+            " §fДля этого используйте команду §7/guild tag",
+            " "
+        ],
+        "ua": [
+            " ",
+            "                §8-| §6§lГІЛЬДІЇ §8|-",
+            " §fВітаємо! Ви придбали поліпшення §eтег гільдії",
+            " §fТепер іи можете задати §7суфікс§f, який буде відображений",
+            " §fпісля ника кожного учасника вашої гільдії",
+            " §fДля цього використовуйте команду §7/guild tag",
+            " "
+        ],
+        "en": [
+            " ",
+            "                §8-| §6§lGUILDS §8|-",
+            " §fCongratulations! You purchased an upgrade §eguild tag",
+            " §fNow you can set the §7suffix§fwhich will be displayed",
+            " §fafter the nickname of each member of your guild",
+            " §fTo do this, use the command §7/guild tag",
+            " "
+        ]
+    },
+    "TOO_BIG_GUILD_MUTE_TIME": {
+        "ru": "§cОшибка, максимальное время блокировки чата в гильдии - 1 день",
+        "ua": "§cПомилка, максимальний час блокування чату в гільдії - 1 день",
+        "en": "§cError, maximum chat blocking time in guild is 1 day"
+    },
+    "UNMUTE_ALL_PERMISSION": {
+        "ru": "Снятие мута (без ограничений)",
+        "ua": "Зняття мута (без обмежень)",
+        "en": "Removing the mute (no limits)"
+    },
+    "UNMUTE_ALL_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7смогут разблокировать чат",
+            "§7другим участникам гильдии",
+            "§7(доступ к /guild unmute)",
+            " ",
+            "§c[!] §7Ранг должен иметь право на",
+            "   §7снятие своих блокировок чата",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7зможуть заблокувати чат",
+            "§7іншим учасникам гільдії",
+            "§7(доступ до /guild unmute)",
+            " ",
+            "§c[!] §7Ранг повинен мати право на",
+            "   §7зняття своїх блокувань чату",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All rank players %s",
+            "§7will be able to unblock the chat",
+            "§7for other guild members",
+            "§7(access to /guild unmute)",
+            " ",
+            "§c[!] §7Rank must be eligible",
+            "   §7to remove their chat bans",
+            " "
+        ]
+    },
+    "UNMUTE_YOUR_PERMISSION": {
+        "ru": "Снятие мута",
+        "ua": "Зняття мута",
+        "en": "Removing the mut"
+    },
+    "UNMUTE_YOUR_PERMISSION_LORE": {
+        "ru": [
+            " ",
+            "§7Все участники ранга %s",
+            "§7смогут разблокировать чат",
+            "§7другим участникам гильдии",
+            "§7(доступ к /guild unmute)",
+            " ",
+            "§c[!] §7Разрешает разблокировать чат",
+            "   §7только тех игроков, кому сами",
+            "   §7блокировали чат",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Всі учасники рангу %s",
+            "§7зможуть заблокувати чат",
+            "§7іншим учасникам гільдії",
+            "§7(доступ до /guild unmute)",
+            " ",
+            "§c[!] §7Дозволяю розблокувати чат",
+            "   §7тільки тих гравців, яким самі",
+            "   §7блокували чат",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7All rank players %s",
+            "§7will be able to unblock the chat",
+            "§7for other guild members",
+            "§7(access to /guild unmute)",
+            " ",
+            "§c[!] §7Allows to unblock the chat",
+            "   §7only for those players who have ben blocked",
+            "   §7by the player",
+            " "
+        ]
+    },
+    "YOU_CANT_DELETE_RANK": {
+        "ru": "§c▸ Удалять стандартные ранги нельзя",
+        "ua": "§c▸ Видаляти стандартні ранги не можна",
+        "en": "§c▸ You cannot delete standard ranks"
+    },
+    "YOU_CANT_DEPOSIT_MONEY": {
+        "ru": "§6Гильдии §8| §fВыводить деньги из банка гильдии может только лидер",
+        "ua": "§6Гільдії §8| §fВиводити гроші з банку гільдії може тільки лідер",
+        "en": "§6G §8| §fLeader only withdraw money from the guild bank"
+    },
+    "YOU_CANT_REMOVE_THIS_RANK": {
+        "ru": "§cОшибка, Вы не можете удалять стандартные ранги в гильдии",
+        "ua": "§cПомилка, ви не можете видаляти стандартні ранги в гільдії",
+        "en": "§cError, You cannot delete standard ranks in a guild"
+    },
+    "YOU_CAN_DONATE": {
+        "ru": "баланс гильдии еще не пополнялся сегодня",
+        "ua": "баланс гільдії ще не поповнювався сьогодні",
+        "en": "the guild balance has not been replenished yet today"
+    },
+    "YOU_HAVE_GUILD_MUTE": {
+        "ru": "§cЧат гильдии заблокирован для Вас игроком %s по причине %s, времени осталось: %s",
+        "ua": "§cЧат гільдії заблокований для вас гравцем %s з причини %s, часу залишилось: %s",
+        "en": "§cGuild chat is blocked for you by the player %s becausе of %s, time left: %s"
+    },
+    "YOU_WERE_GUILD_MUTED": {
+        "ru": "§c%s §cзаблокировал Вам чат гильдии по причине %s на %s",
+        "ua": "§c%s §cзаблокував вам чат гільдії %s на %s",
+        "en": "§c%s §cvlocked your guild chat because of %s for %s"
+    },
+    "YOU_WERE_GUILD_UNMUTED": {
+        "ru": "§aВам был разблокирован доступ к чату гильдии",
+        "ua": "§aВам було розблоковано доступ до чату гільдії",
+        "en": "§aGuild chat has been unblocked for you"
+    }
+}

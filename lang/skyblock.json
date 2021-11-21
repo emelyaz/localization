@@ -1,0 +1,3536 @@
+{
+    "ISLAND_ACCEPT": {
+        "ru": "$SB_PREFIX$Вы приняли запрос от игрока %s §fи стали участником острова %s",
+        "ua": "Ви прийняли запит від гравця %s §fі стали учасником острова %s",
+        "en": "You have accepted a request from a player %s §fand became a member of the island %s"
+    },
+    "ISLAND_ACCEPT_WHO": {
+        "ru": "$SB_PREFIX$Игрок %s §fпринял ваш запрос и стал участником вашего острова",
+        "ua": "%s §fприйняв ваш запит і став учасником вашого острова",
+        "en": "Player %s §faccepted your request and became a member of your island"
+    },
+    "ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE": {
+        "ru": [
+            "§8 • §7Стоек для брони §fх10"
+        ],
+        "ua": [
+            "§8 • §7Стійок для броні §fх10"
+        ],
+        "en": [
+            "§8 • §7Armor racks §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE": {
+        "ru": [
+            "§8 • §7Картошки §fх32"
+        ],
+        "ua": [
+            "§8 • §7Картоплі §fх32"
+        ],
+        "en": [
+            "§8 • §7Potatoes §fх32"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_BEACON_LORE": {
+        "ru": [
+            "§8 • §7Маяк §fх1"
+        ],
+        "ua": [
+            "§8 • §7Маяк §fх1"
+        ],
+        "en": [
+            "§8 • §7Lighthouse §fх1"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE": {
+        "ru": [
+            "§8 • §7Свекольных супов §fх10"
+        ],
+        "ua": [
+            "§8 • §7Бурякових супів §fх10"
+        ],
+        "en": [
+            "§8 • §7Beet soup §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE": {
+        "ru": [
+            "§8 • §7Костяных блоков §fх20"
+        ],
+        "ua": [
+            "§8 • §7Кістяних блоків §fх20"
+        ],
+        "en": [
+            "§8 • §7Bone blocks §fх20"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_BOOKSHELF_LORE": {
+        "ru": [
+            "§8 • §7Книжных полок §fх32"
+        ],
+        "ua": [
+            "§8 • §7Книжкових полиць §fх32"
+        ],
+        "en": [
+            "§8 • §7Bookshelves §fх32"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_BREAD_LORE": {
+        "ru": [
+            "§8 • §7Хлеба §fх10"
+        ],
+        "ua": [
+            "§8 • §7Хліба §fх10"
+        ],
+        "en": [
+            "§8 • §7Bread §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_BREAK_NAME": {
+        "ru": "Сломать блоки",
+        "ua": "Зламати блоки",
+        "en": "Break blocks"
+    },
+    "ISLAND_ACHIEVEMENT_BREED_NAME": {
+        "ru": "Размножьте",
+        "ua": "Розмножте",
+        "en": "Multiply"
+    },
+    "ISLAND_ACHIEVEMENT_BRICK_LORE": {
+        "ru": [
+            "§8 • §7Блоков из красного кирпича §fх64"
+        ],
+        "ua": [
+            "§8 • §7Блоків з червоної цегли §fх64"
+        ],
+        "en": [
+            "§8 • §7Red brick blocks §fх64"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_CARROT_STICK_LORE": {
+        "ru": [
+            "§8 • §7Удочку с морковью §fх1"
+        ],
+        "ua": [
+            "§8 • §7Вудку з морквою §fх1"
+        ],
+        "en": [
+            "§8 • §7Fishing rod with a carrot §fх1"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_CHICKEN_LORE": {
+        "ru": [
+            "§8 • §7Куриц §fх2"
+        ],
+        "ua": [
+            "§8 • §7Курок §fх2"
+        ],
+        "en": [
+            "§8 • §7Chickens §fх2"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_COBBLE_WALL_LORE": {
+        "ru": [
+            "§8 • §7Стена из булыжника §fх24"
+        ],
+        "ua": [
+            "§8 • §7Стіна з кругляка §fх24"
+        ],
+        "en": [
+            "§8 • §7Cobblestone wall §fх24"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_COMPASS_LORE": {
+        "ru": [
+            "§8 • §7Компасов §fх5"
+        ],
+        "ua": [
+            "§8 • §7Компасів §fх5"
+        ],
+        "en": [
+            "§8 • §7Compasses §fх5"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_CONCRETE_POWDER_LORE": {
+        "ru": [
+            "§8 • §7Цемента §fх8"
+        ],
+        "ua": [
+            "§8 • §7Цементу §fх8"
+        ],
+        "en": [
+            "§8 • §7Cement §fх8"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_COW_LORE": {
+        "ru": [
+            "§8 • §7Коров §fх2"
+        ],
+        "ua": [
+            "§8 • §7Корів §fх2"
+        ],
+        "en": [
+            "§8 • §7Cows §fх2"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_CRAFT_NAME": {
+        "ru": "Скрафтить предметы",
+        "ua": "Скрафтити предмети",
+        "en": "Craft items"
+    },
+    "ISLAND_ACHIEVEMENT_DIODE_LORE": {
+        "ru": [
+            "§8 • §7Повторителей §fх32"
+        ],
+        "ua": [
+            "§8 • §7Повторювачів §fх32"
+        ],
+        "en": [
+            "§8 • §7Repeaters §fх32"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_EMPTY_MAP_LORE": {
+        "ru": [
+            "§8 • §7Пустых карт §fх10"
+        ],
+        "ua": [
+            "§8 • §7Порожніх карт §fх10"
+        ],
+        "en": [
+            "§8 • §7Blank maps §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_ENCHANTMENT_TABLE_LORE": {
+        "ru": [
+            "§8 • §7Стол зачарования §fх1"
+        ],
+        "ua": [
+            "§8 • §7Стіл зачарування §fх1"
+        ],
+        "en": [
+            "§8 • §7Enchantment table §fх1"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE": {
+        "ru": [
+            "§8 • §7Ферментированных глаз пауков §fх10"
+        ],
+        "ua": [
+            "§8 • §7Ферментованих очей павуків §fх10"
+        ],
+        "en": [
+            "§8 • §7Fermented spider eyes §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_FURNACE_LORE": {
+        "ru": [
+            "§8 • §7Печь §fх1"
+        ],
+        "ua": [
+            "§8 • §7Піч §fх1"
+        ],
+        "en": [
+            "§8 • §7Furnace §fх1"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_FURNACE_NAME": {
+        "ru": "Переплавить",
+        "ua": "Переплавити",
+        "en": "Remelt"
+    },
+    "ISLAND_ACHIEVEMENT_GENERATOR_LORE": {
+        "ru": [
+            "§7Постройте генератор булыжника",
+            "§7и добудьте булыжник"
+        ],
+        "ua": [
+            "§7Постройте генератор булыжника",
+            "§7и добудьте булыжник"
+        ],
+        "en": [
+            "§7Build a cobblestone generator",
+            "§7and get the cobblestone"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_GENERATOR_NAME": {
+        "ru": "Создать генератор",
+        "ua": "Створити генератор",
+        "en": "Create a generator"
+    },
+    "ISLAND_ACHIEVEMENT_GLASS_LORE": {
+        "ru": [
+            "§8 • §7Стекло §fх32"
+        ],
+        "ua": [
+            "§8 • §7Скло §fх32"
+        ],
+        "en": [
+            "§8 • §7Glass §fх32"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE": {
+        "ru": [
+            "§8 • §7Золотое яблоко §fх1"
+        ],
+        "ua": [
+            "§8 • §7Золоте яблуко §fх1"
+        ],
+        "en": [
+            "§8 • §7Golden apple §fх1"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE": {
+        "ru": [
+            "§8 • §7Золотых слитков §fх64"
+        ],
+        "ua": [
+            "§8 • §7Золотих злитків §fх64"
+        ],
+        "en": [
+            "§8 • §7Gold ingot §fх64"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_GUI_NAME": {
+        "ru": "Настройки острова ▸ Достижения",
+        "ua": "Налаштування острову ▸ Досягнення",
+        "en": "Island setting ▸ Achievements"
+    },
+    "ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE": {
+        "ru": [
+            "§8 • §7Блоков сена §fх30"
+        ],
+        "ua": [
+            "§8 • §7Блоків сіна §fх30"
+        ],
+        "en": [
+            "§8 • §7Hay blocks §fх30"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_IRON_INGOT_LORE": {
+        "ru": [
+            "§8 • §7Железных слитков §fх64"
+        ],
+        "ua": [
+            "§8 • §7Залізних злитків §fх64"
+        ],
+        "en": [
+            "§8 • §7Iron ingots §fх64"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE": {
+        "ru": [
+            "§8 • §7Лазуритных блоков §fх64"
+        ],
+        "ua": [
+            "§8 • §7Лазурітних блоків §fх64"
+        ],
+        "en": [
+            "§8 • §7Lapis lazuli blocks §fх64"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_LEVER_LORE": {
+        "ru": [
+            "§8 • §7Рычагов §fх10"
+        ],
+        "ua": [
+            "§8 • §7Важелів §fх10"
+        ],
+        "en": [
+            "§8 • §7Levers §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_LORE": {
+        "ru": [
+            "§7Список всех достижений",
+            "§7на этом режиме",
+            " ",
+            "§7Выполнено: §f%s§7/§c%s",
+            " ",
+            " §e▸ Нажмите, чтобы открыть список"
+        ],
+        "ua": [
+            "§7Список всіх досягнень",
+            "§7на цьому режимі",
+            " ",
+            "§7Виконано: §f%s§7/§c%s",
+            " ",
+            " §e▸ Натисніть, щоб відкрити список"
+        ],
+        "en": [
+            "§7List of all achievements",
+            "§7on this mode",
+            " ",
+            "§7Completed: §f%s§7/§c%s",
+            " ",
+            " §e▸ Click to view the list"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_NAME": {
+        "ru": "Достижения",
+        "ua": "Досягнення",
+        "en": "Achievements"
+    },
+    "ISLAND_ACHIEVEMENT_OBSIDIAN_LORE": {
+        "ru": [
+            "§8 • §7Обсидиан §fх32"
+        ],
+        "ua": [
+            "§8 • §7Обсидіан §fх32"
+        ],
+        "en": [
+            "§8 • §7Obsidian §fх32"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_PAINTING_LORE": {
+        "ru": [
+            "§8 • §7Картины §fх10"
+        ],
+        "ua": [
+            "§8 • §7Картини §fх10"
+        ],
+        "en": [
+            "§8 • §7Paintings §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_PIG_LORE": {
+        "ru": [
+            "§8 • §7Свиней §fх2"
+        ],
+        "ua": [
+            "§8 • §7Свиней §fх2"
+        ],
+        "en": [
+            "§8 • §7Pigs §fх2"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_PISTON_BASE_LORE": {
+        "ru": [
+            "§8 • §7Поршней §fх10"
+        ],
+        "ua": [
+            "§8 • §7Поршнів §fх10"
+        ],
+        "en": [
+            "§8 • §7Pistons §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE": {
+        "ru": [
+            "§8 • §7Тыквенных пирогов §fх8"
+        ],
+        "ua": [
+            "§8 • §7Гарбузових пирогів §fх8"
+        ],
+        "en": [
+            "§8 • §7Pumpkin pies §fх8"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE": {
+        "ru": [
+            "§8 • §7Кварцевых блоков §fх64"
+        ],
+        "ua": [
+            "§8 • §7Кварцових блоків §fх64"
+        ],
+        "en": [
+            "§8 • §7Quartz blocks §fх64"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_REDSTONE_COMPARATOR_LORE": {
+        "ru": [
+            "§8 • §7Компараторов §fх24"
+        ],
+        "ua": [
+            "§8 • §7Компараторів §fх24"
+        ],
+        "en": [
+            "§8 • §7Comparators §fх24"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_REDSTONE_LAMP_OFF_LORE": {
+        "ru": [
+            "§8 • §7Редстоун ламп §fх10"
+        ],
+        "ua": [
+            "§8 • §7Редстоун ламп §fх10"
+        ],
+        "en": [
+            "§8 • §7Redstone lamps §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_RESTART_LORE": {
+        "ru": [
+            "§7Пересоздать свой остров"
+        ],
+        "ua": [
+            "§7Перестворити свій острів"
+        ],
+        "en": [
+            "§7Recreate your island"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_RESTART_NAME": {
+        "ru": "Пересоздать",
+        "ua": "Перестворити",
+        "en": "Recreate"
+    },
+    "ISLAND_ACHIEVEMENT_SHEEP_LORE": {
+        "ru": [
+            "§8 • §7Овец §fх2"
+        ],
+        "ua": [
+            "§8 • §7Овець §fх2"
+        ],
+        "en": [
+            "§8 • §7Sheep §fх2"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_SIGN_LORE": {
+        "ru": [
+            "§8 • §7Табличек §fх10"
+        ],
+        "ua": [
+            "§8 • §7Табличок §fх10"
+        ],
+        "en": [
+            "§8 • §7Tablets §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE": {
+        "ru": [
+            "§8 • §7Слаймовый блок §fх1"
+        ],
+        "ua": [
+            "§8 • §7Слаймовий блок §fх1"
+        ],
+        "en": [
+            "§8 • §7Slime block §fх1"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_SMOOTH_BRICK_LORE": {
+        "ru": [
+            "§8 • §7Каменных кирпичей §fх64"
+        ],
+        "ua": [
+            "§8 • §7Кам'яних цегл §fх64"
+        ],
+        "en": [
+            "§8 • §7Stone bricks §fх64"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_START_LORE": {
+        "ru": [
+            "§7Создать остров 1-й раз"
+        ],
+        "ua": [
+            "§7Створити острів 1-й раз"
+        ],
+        "en": [
+            "§7Create an island for the 1st time"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_START_NAME": {
+        "ru": "Старт",
+        "ua": "Старт",
+        "en": "Start"
+    },
+    "ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE": {
+        "ru": [
+            "§8 • §7Каменных кнопок §fх10"
+        ],
+        "ua": [
+            "§8 • §7Кам'яних кнопок §fх10"
+        ],
+        "en": [
+            "§8 • §7Stone buttons §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_STONE_PLATE_LORE": {
+        "ru": [
+            "§8 • §7Каменных напорных пластин §fх10"
+        ],
+        "ua": [
+            "§8 • §7Кам'яних напірних пластин §fх10"
+        ],
+        "en": [
+            "§8 • §7Stone pressure plates §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_TNT_LORE": {
+        "ru": [
+            "§8 • §7TNT §fх10"
+        ],
+        "ua": [
+            "§8 • §7TNT §fх10"
+        ],
+        "en": [
+            "§8 • §7TNT §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_TORCH_LORE": {
+        "ru": [
+            "§8 • §7Факела §fх30"
+        ],
+        "ua": [
+            "§8 • §7Факела §fх30"
+        ],
+        "en": [
+            "§8 • §7Torches §fх30"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_WOOD_BUTTON_LORE": {
+        "ru": [
+            "§8 • §7Деревянных кнопок §fх10"
+        ],
+        "ua": [
+            "§8 • §7Дерев'яних кнопок §fх10"
+        ],
+        "en": [
+            "§8 • §7Wooden buttons §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_WOOD_PLATE_LORE": {
+        "ru": [
+            "§8 • §7Деревянных напорных пластин §fх10"
+        ],
+        "ua": [
+            "§8 • §7Дерев'яних напірних пластин §fх10"
+        ],
+        "en": [
+            "§8 • §7Wooden pressure plates §fх10"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE": {
+        "ru": [
+            "§8 • §7Дубовых ступенек §fх20"
+        ],
+        "ua": [
+            "§8 • §7Дубових сходинок §fх20"
+        ],
+        "en": [
+            "§8 • §7Oak steps §fх20"
+        ]
+    },
+    "ISLAND_ACHIEVEMENT_WOOD_STEP_LORE": {
+        "ru": [
+            "§8 • §7Деревянных плит §fх20"
+        ],
+        "ua": [
+            "§8 • §7Дерев'яних плит §fх20"
+        ],
+        "en": [
+            "§8 • §7Wooden plates §fх20"
+        ]
+    },
+    "ISLAND_ADDLEVEL_ERROR": {
+        "ru": "Простите, но данный предмет §cне подходит§f для повышения уровня острова",
+        "ua": "Вибачте, але цей предмет §cне підходить§f для підвищення рівня острова",
+        "en": "Sorry, but this item §cis not suitable§f for leveling up islands"
+    },
+    "ISLAND_ADDLEVEL_GUI_NAME": {
+        "ru": "Уровень острова",
+        "ua": "Рівень острова",
+        "en": "Island level"
+    },
+    "ISLAND_ADDLEVEL_HELP_LORE": {
+        "ru": [
+            "",
+            "§7Уровень острова: §d%s %s §6%s",
+            "§7До следующего уровня: §a%s XP"
+        ],
+        "ua": [
+            "",
+            "§7Рівень острова: §d%s %s §6%s",
+            "§7До наступного рівня: §a%s XP"
+        ],
+        "en": [
+            "",
+            "§7Island level: §d%s %s §6%s",
+            "§7Till the next level: §a%s XP"
+        ]
+    },
+    "ISLAND_ADDLEVEL_HELP_NAME": {
+        "ru": "Информация",
+        "ua": "Інформація",
+        "en": "Information"
+    },
+    "ISLAND_ADDLEVEL_LORE": {
+        "ru": [
+            "",
+            "§7Как только вы положите нужный",
+            "§7блок в этот слот, он пропадет,",
+            "§7а уровень вашего острова поднимется",
+            "",
+            "§7PS: Можно класть сразу стак блоков §8(х64)"
+        ],
+        "ua": [
+            "",
+            "§7Як тільки ви покладете потрібний",
+            "§7блок в цей слот, він зникне,",
+            "§7а рівень вашого острова підніметься",
+            "",
+            "§7PS: Можна класти відразу стак блоків §8(х64)"
+        ],
+        "en": [
+            "",
+            "§7As soon as you put the necessary",
+            "§7block in this slot, it will disappear,",
+            "§7and the level of your island will increase",
+            "",
+            "§7PS: You can put a stack of blocks at once §8(х64)"
+        ]
+    },
+    "ISLAND_ADDLEVEL_NAME": {
+        "ru": "Перетащите блоки в этот слот",
+        "ua": "Перетягніть блоки в цей слот",
+        "en": "Drag blocks to this slot"
+    },
+    "ISLAND_ADDLEVEL_SUCCES": {
+        "ru": "Игрок %s§f поднял очки опыта вашего острова на §a%s §fпунктов",
+        "ua": "Гравець %s§f підняв окуляри досвіду вашого острова на §a%s §fпунктів",
+        "en": "Player %s§f raised the experience points of your island to §a%s §fpoints"
+    },
+    "ISLAND_ADDMEMBER_ERROR": {
+        "ru": "$SB_PREFIX$§cОшибка, данный игрок уже является участником или владельцем какого-то острова",
+        "ua": "§6SkyBlock §8| §cПомилка, цей гравець вже є учасником або власником якогось острова",
+        "en": "§6SkyBlock §8| §cError, this player is already a member or the owner of some island"
+    },
+    "ISLAND_ADDMEMBER_LIMIT": {
+        "ru": "$SB_PREFIX$§cОшибка, вы привысили лимит на кол-во участников вашего острова, кол-во участников не должно превышать %s",
+        "ua": "§6SkyBlock §8| §cПомилка, ви перевищити ліміт на кількість учасників вашого острова, кількість учасників не повинна перевищувати %s",
+        "en": "§6SkyBlock §8| §cError, you have exceeded the limit on the number of members your island, the number of members should not exceed %s"
+    },
+    "ISLAND_ADDMEMBER_YOU": {
+        "ru": "$SB_PREFIX$§cОшибка, вы не можете кинуть приглашение сами себе",
+        "ua": "§6SkyBlock §8| §cПомилка, ви не можете кинути запрошення самі собі",
+        "en": "§6SkyBlock §8| §cError, you cannot drop the invitation to yourself"
+    },
+    "ISLAND_ADD_IGNORE_PLAYER": {
+        "ru": "$SB_PREFIX$%s §fбыл добавлен участником %s§f в список нежелательных игроков острова",
+        "ua": "§6SkyBlock §8| %s §fбув доданий учасником %s§f в список небажаних гравців острова",
+        "en": "§6SkyBlock §8| %s §fhas been added by the player %s§f to the list of unwanted island players"
+    },
+    "ISLAND_ADD_PLAYER_REQUEST_1": {
+        "ru": " %s §fпредлагает вам играть вместе на своем острове",
+        "ua": " %s §fпропонує вам грати разом на своєму острові",
+        "en": " %s §finvites you to play together on their island"
+    },
+    "ISLAND_ADD_PLAYER_REQUEST_2": {
+        "ru": " §fДля принятия запроса пишите ",
+        "ua": " §fДля прийняття запиту пишіть ",
+        "en": " §fTo accept the request, write "
+    },
+    "ISLAND_ADD_PLAYER_REQUEST_3": {
+        "ru": " §fДля отмены запроса пиши ",
+        "ua": " §fДля скасування запиту пишіть ",
+        "en": " §fTo decline the request, write "
+    },
+    "ISLAND_ADD_PLAYER_REQUEST_4": {
+        "ru": " §fУ вас есть §a120 §fсекунд, чтобы его принять",
+        "ua": " §fУ вас є §a120 §fсекунд, щоб його прийняти",
+        "en": " §fYou have §a120 §fseconds to accept it"
+    },
+    "ISLAND_ADD_REQUEST": {
+        "ru": "$SB_PREFIX$Приглашение отправлено игроку %s",
+        "ua": "§fЗапрошення відправлено гравцеві %s",
+        "en": "§fInvitation sent to player %s"
+    },
+    "ISLAND_ALREADY_CREATE": {
+        "ru": "$SB_PREFIX$Ошибка, у вас уже есть остров. Чтобы попасть на свой остров напишите §7/island home",
+        "ua": "§6SkyBlock §8| §fПомилка, у вас вже є острів. Щоб потрапити на свій острів, напишіть §7/island home",
+        "en": "§6SkyBlock §8| §fError, you already have an island. To get in write to your island §7/island home"
+    },
+    "ISLAND_BASALT_GENERATOR_UPGRADE": {
+        "ru": "Улучшение генератора базальта",
+        "ua": "Поліпшення генератора базальту",
+        "en": "Basalt generator upgrade"
+    },
+    "ISLAND_BASALT_GENERATOR_UPGRADE_MAX": {
+        "ru": [
+            "§7У вас максимальный уровень генератора: §a%s",
+            "§7В данный момент он дает:"
+        ],
+        "ua": [
+            "§7У вас максимальний рівень генератора: §a%s",
+            "§7Зараз він дає:"
+        ],
+        "en": [
+            "§7You have a maximum generator level: §a%s",
+            "§7At moment it gives:"
+        ]
+    },
+    "ISLAND_BEACON_BUY_ALREADY": {
+        "ru": "$SB_PREFIX$Вы уже владеете данным эффектом",
+        "ua": "§6SkyBlock §8| §fВи вже володієте даними ефектом",
+        "en": "§6SkyBlock §8| §fYou already own this effect"
+    },
+    "ISLAND_BEACON_ENABLE_ERROR": {
+        "ru": "$SB_PREFIX$Простите, но вы не можете активировать данный эффект, лимит вашего острова на кол-во эффектов §7%s",
+        "ua": "§6SkyBlock §8| §fВибачте, але ви не можете активувати цей ефект, ліміт вашого острова на к-ть ефектів §7%s",
+        "en": "§6SkyBlock §8| §fSorry, but you cannot activate this effect, the limit of your island on the number of effects is §7%s"
+    },
+    "ISLAND_BEACON_GUI_NAME": {
+        "ru": "Эффекты",
+        "ua": "Ефекти",
+        "en": "Effects"
+    },
+    "ISLAND_BEACON_NOT_OPEN": {
+        "ru": "$SB_PREFIX$Данный эффект вам недоступен, купите его!",
+        "ua": "§6SkyBlock §8| §fЦей ефект вам недоступний, купіть його!",
+        "en": "§6SkyBlock §8| §fThis effect is not available to you, buy it!"
+    },
+    "ISLAND_BIOME_BASALT_DELTAS_LORE": {
+        "ru": [
+            " "
+        ],
+        "ua": [
+            " "
+        ],
+        "en": [
+            " "
+        ]
+    },
+    "ISLAND_BIOME_BASALT_DELTAS_NAME": {
+        "ru": "Базальтовые дельты",
+        "ua": "Базальтові дельти",
+        "en": "Basalt deltas"
+    },
+    "ISLAND_BIOME_BUY": {
+        "ru": "$SB_PREFIX$Вы успешно купили биом §c%s",
+        "ua": "§6SkyBlock §8| §fВи успішно купили біом §c%s",
+        "en": "§6SkyBlock §8| §fYou have successfully purchased a biome §c%s"
+    },
+    "ISLAND_BIOME_BUY_ALREADY": {
+        "ru": "$SB_PREFIX$Вы уже владеете данным биомом",
+        "ua": "§6SkyBlock §8| §fВи вже володієте цим біомом",
+        "en": "§6SkyBlock §8| §fYou already own this biome"
+    },
+    "ISLAND_BIOME_BUY_TO": {
+        "ru": "$SB_PREFIX$Игрок %s §fкупил биом §c%s §fза §a%s изумрудных блока",
+        "ua": "§6SkyBlock §8| §fГравець %s §fкупив біом §c%s §fза §a%s смарагдових блоків",
+        "en": "§6SkyBlock §8| §fPlayer %s §fbought biome §c%s §ffor §a%s emerald blocks"
+    },
+    "ISLAND_BIOME_CRIMSON_FOREST_LORE": {
+        "ru": [
+            " "
+        ],
+        "ua": [
+            " "
+        ],
+        "en": [
+            " "
+        ]
+    },
+    "ISLAND_BIOME_CRIMSON_FOREST_NAME": {
+        "ru": "Багровый лес",
+        "ua": "Багряний ліс",
+        "en": "Crimson forest"
+    },
+    "ISLAND_BIOME_DESERT_LORE": {
+        "ru": [
+            "§7Неплодородный биом. Единственные",
+            "§7дружелюбные существа — золотистые",
+            "§7кролики, чья окраскасливается",
+            "§7с песком. Никогда не идет дождь,",
+            "§7поэтому позаботьтесь о ваших фермах!"
+        ],
+        "ua": [
+            "§7Неродючий біом. Єдині",
+            "§7доброзичливі істоти - золотисті",
+            "§7кролики, чиє забарвлення зливається",
+            "§7з піском. Ніколи не йде дощ,",
+            "§7тому подбайте про ваші ферми!"
+        ],
+        "en": [
+            "§7Infertile biome. The only",
+            "§7friendly creatures are golden",
+            "§7rabbits whose color merges",
+            "§7with the sand. It never rains,",
+            "§7so take care of your farms!"
+        ]
+    },
+    "ISLAND_BIOME_DESERT_NAME": {
+        "ru": "Пустыня",
+        "ua": "Пустеля",
+        "en": "Desert"
+    },
+    "ISLAND_BIOME_FOREST_LORE": {
+        "ru": [
+            "§7Биом, в котором лучше всего растут",
+            "§7деревья, а в редких случаях",
+            "§7и даже грибы!"
+        ],
+        "ua": [
+            "§7Біом, в якому найкраще ростуть",
+            "§7дерева, а в окремих випадках",
+            "§7навіть гриби!"
+        ],
+        "en": [
+            "§7The biome where trees",
+            "§7grow best, and in rare cases",
+            "§7even mushrooms!"
+        ]
+    },
+    "ISLAND_BIOME_FOREST_NAME": {
+        "ru": "Лес",
+        "ua": "Ліс",
+        "en": "Forest"
+    },
+    "ISLAND_BIOME_GUI_NAME": {
+        "ru": "Установка биома",
+        "ua": "Установка біома",
+        "en": "Biome installation"
+    },
+    "ISLAND_BIOME_JUNGLE_LORE": {
+        "ru": [
+            "§7Оцелоты, плоды какао и попугаи встречаются",
+            "§7исключительно в этом биоме, кроме того,",
+            "§7в нем самая зеленая трава."
+        ],
+        "ua": [
+            "§7Оцелоти, плоди какао і папуги зустрічаються",
+            "§7винятково в цьому біомі, крім того,",
+            "§7в ньому найбільш зелена трава."
+        ],
+        "en": [
+            "§7Ocelots, cocoa fruits and parrots meet",
+            "§7exclusively in this biome, moreover,",
+            "§7it has the greenest grass."
+        ]
+    },
+    "ISLAND_BIOME_JUNGLE_NAME": {
+        "ru": "Джунгли",
+        "ua": "Джунглі",
+        "en": "Jungles"
+    },
+    "ISLAND_BIOME_MESA_LORE": {
+        "ru": [
+            "§7Редкий биом, похожий на пустыню,",
+            "§7с самым темным оттенком травы."
+        ],
+        "ua": [
+            "§7Рідкісний біом, схожий на пустелю,",
+            "§7з найбільш темним відтінком трави."
+        ],
+        "en": [
+            "§7A rare desert-like biome",
+            "§7with the darkest shade of grass.."
+        ]
+    },
+    "ISLAND_BIOME_MESA_NAME": {
+        "ru": "Глинянные равнины",
+        "ua": "Глиняні рівнини",
+        "en": "Clay plains"
+    },
+    "ISLAND_BIOME_MUSHROOM_ISLAND_LORE": {
+        "ru": [
+            "§7Самый редкий биом в игре, обычно состоит",
+            "§7из мицелия, но если поставить обычную траву,",
+            "§7она будет ярко зеленого цвета. Кроме грибных",
+            "§7коров здесь не может появиться ни одно существо,",
+            "§7но вы можете размножать их из уже имеющихся!"
+        ],
+        "ua": [
+            "§7Найрідкісніший біом в грі, зазвичай складається",
+            "§7з міцелію, але якщо поставити звичайну траву,",
+            "§7вона буде яскраво зеленого кольору. Крім грибних",
+            "§7корів, тут не може з'явитися жодна істота,",
+            "§7але ви можете розмножувати уже наявних!"
+        ],
+        "en": [
+            "§7The rarest biome in the game, usually consisting of",
+            "§7mycelium, but if you put the usual grass,",
+            "§7it will be bright green. Except for mushroom cows,",
+            "§7not a single creature can appear here,",
+            "§7but you can propagate them from already",
+            "§7available!"
+        ]
+    },
+    "ISLAND_BIOME_MUSHROOM_ISLAND_NAME": {
+        "ru": "Грибной остров",
+        "ua": "Грибний острів",
+        "en": "Mushroom island"
+    },
+    "ISLAND_BIOME_NETHER_WASTES_LORE": {
+        "ru": [
+            " "
+        ],
+        "ua": [
+            " "
+        ],
+        "en": [
+            " "
+        ]
+    },
+    "ISLAND_BIOME_NETHER_WASTES_NAME": {
+        "ru": "Незерские пустоши",
+        "ua": "Незерські пустки",
+        "en": "Nether wastes"
+    },
+    "ISLAND_BIOME_NOT_OPEN": {
+        "ru": "$SB_PREFIX$Данный биом вам недоступен, купите его!",
+        "ua": "§6SkyBlock §8| §fЦей біом вам недоступний, купіть його!",
+        "en": "§6SkyBlock §8| §fThis biome is not available to you, buy it!"
+    },
+    "ISLAND_BIOME_OCEAN_LORE": {
+        "ru": [
+            "§7Обычно океаны расстилаются во все стороны,",
+            "§7и составляют 60% площади от всего мира.",
+            "§7В нем не появляются дружелюбные существа, ",
+            "§7но враждебные могут себе такое позволить."
+        ],
+        "ua": [
+            "§7Зазвичай океани стеляться на всі боки,",
+            "§7і становлять 60% площі від всього світу.",
+            "§7У ньому не з'являються доброзичливі істоти, ",
+            "§7але ворожі можуть собі таке дозволити."
+        ],
+        "en": [
+            "§7Usually the oceans are spread out in all directions,",
+            "§7and make up 60% of the area of the whole world.",
+            "§7Friendly creatures do not appear in it,",
+            "§7but the hostile can."
+        ]
+    },
+    "ISLAND_BIOME_OCEAN_NAME": {
+        "ru": "Океан",
+        "ua": "Океан",
+        "en": "Ocean"
+    },
+    "ISLAND_BIOME_PLAINS_LORE": {
+        "ru": [
+            "§7Равнина. Что тут можно сказать?",
+            "§7На ней появляются лошади и некоторые",
+            "§7другие дружелюбные существа."
+        ],
+        "ua": [
+            "§7Рівнина. Що тут можна сказати?",
+            "§7На ній з'являються коні і деякі",
+            "§7інші доброзичливі істоти."
+        ],
+        "en": [
+            "§7Plain. What can I say here?",
+            "§7Horses appear on it and some",
+            "§7other friendly creatures."
+        ]
+    },
+    "ISLAND_BIOME_PLAINS_NAME": {
+        "ru": "Равнина",
+        "ua": "Рівнина",
+        "en": "Plain"
+    },
+    "ISLAND_BIOME_ROOFED_FOREST_LORE": {
+        "ru": [
+            "§7Темный лес подходит для выращивания грибов,",
+            "§7а еще в нем настолько многочисленны деревья,",
+            "§7что в некоторых местах может стать достаточно",
+            "§7темно, чтобы враждебные существа появились",
+            "§7даже днем!"
+        ],
+        "ua": [
+            "§7Темний ліс підходить для вирощування грибів,",
+            "§7а ще в ньому настільки численні дерева,",
+            "§7що в деяких місцях може стати досить",
+            "§7темно, щоб ворожі істоти з'явилися",
+            "§7навіть удень!"
+        ],
+        "en": [
+            "§7The dark forest is suitable for growing mushrooms,",
+            "§7and there are so many trees in it",
+            "§7that in some places it may be dark enough",
+            "§7for hostile creatures to appear",
+            "§7even in the daytime!"
+        ]
+    },
+    "ISLAND_BIOME_ROOFED_FOREST_NAME": {
+        "ru": "Тёмный лес",
+        "ua": "Темний ліс",
+        "en": "Dark forest"
+    },
+    "ISLAND_BIOME_SET": {
+        "ru": "$SB_PREFIX$Установлен биом §a%s",
+        "ua": "§6SkyBlock §8| §fВстановлений біом §a%s",
+        "en": "§6SkyBlock §8| §fBiome installed §a%s"
+    },
+    "ISLAND_BIOME_SET_ERROR": {
+        "ru": "$SB_PREFIX$Этот биом уже установлен на вашем острове",
+        "ua": "§6SkyBlock §8| §fЦей біом вже встановлений на вашому острові",
+        "en": "§6SkyBlock §8| §fThis biome is already installed on your island"
+    },
+    "ISLAND_BIOME_SOUL_SAND_VALLEY_LORE": {
+        "ru": [
+            " "
+        ],
+        "ua": [
+            " "
+        ],
+        "en": [
+            " "
+        ]
+    },
+    "ISLAND_BIOME_SOUL_SAND_VALLEY_NAME": {
+        "ru": "Долина песка душ",
+        "ua": "Долина піску душ",
+        "en": "Valley of Soul Sand"
+    },
+    "ISLAND_BIOME_SWAMPLAND_LORE": {
+        "ru": [
+            "§7Темная трава, темно-зеленые лозы на деревьях,",
+            "§7именно тут по ночам появляются Слизни."
+        ],
+        "ua": [
+            "§7Темна трава, темно-зелені лози на деревах,",
+            "§7саме тут ночами з'являються Слимаки."
+        ],
+        "en": [
+            "§7Dark grass, dark green vines in the trees -",
+            "§7that's where slimes appear every night."
+        ]
+    },
+    "ISLAND_BIOME_SWAMPLAND_NAME": {
+        "ru": "Болото",
+        "ua": "Болото",
+        "en": "Swamp"
+    },
+    "ISLAND_BIOME_TAIGA_LORE": {
+        "ru": [
+            "§7Единственное место для появления волков,",
+            "§7биом насыщенный хвойными деревьями, цветами",
+            "§7и папоротниками."
+        ],
+        "ua": [
+            "§7Єдине місце для появи вовків,",
+            "§7біом, насичений хвойними деревами, квітами",
+            "§7і папороттям."
+        ],
+        "en": [
+            "§7The only place for wolves to appear",
+            "§7biome saturated with conifers, flowers",
+            "§7and ferns."
+        ]
+    },
+    "ISLAND_BIOME_TAIGA_NAME": {
+        "ru": "Тайга",
+        "ua": "Тайга",
+        "en": "Taiga"
+    },
+    "ISLAND_BIOME_WARPED_FOREST_LORE": {
+        "ru": [
+            " "
+        ],
+        "ua": [
+            " "
+        ],
+        "en": [
+            " "
+        ]
+    },
+    "ISLAND_BIOME_WARPED_FOREST_NAME": {
+        "ru": "Искаженный лес",
+        "ua": "Спотворений ліс",
+        "en": "Distorted forest"
+    },
+    "ISLAND_BOX_SHOP_SELECT_LORE": {
+        "ru": [
+            "§7Покупка ключей происходит на /warp shop",
+            "",
+            "§e▸ Нажмите, чтобы купить ключи"
+        ],
+        "ua": [
+            "§7Купівля ключів відбувається на /warp shop",
+            "",
+            "§e▸ Натисніть, щоб придбати ключі"
+        ],
+        "en": [
+            "§7The purchase of keys takes place at /warp shop",
+            "",
+            "§e▸ Click to purchase keys"
+        ]
+    },
+    "ISLAND_BOX_SHOP_SELECT_NAME": {
+        "ru": "§eПокупка на /warp shop",
+        "ua": "§eПокупка на /warp shop",
+        "en": "§ePurchase at /warp shop"
+    },
+    "ISLAND_BUY_BASALT_GENERATOR": {
+        "ru": "$SB_PREFIX$Игрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня",
+        "ua": "§6SkyBlock §8| §fГравець %s §fполіпшив базальтовий генератор для вашого острова до §a%s §fрівня",
+        "en": "§6SkyBlock §8| §fPlayer %s §fimproved basalt generator for your island to §a%s §flevel"
+    },
+    "ISLAND_BUY_BEACON_ALERT": {
+        "ru": "$SB_PREFIX$Игрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s",
+        "ua": "§6SkyBlock §8| §fГравець %s §fкупив ефект маяка §7%s §fза §e%s §f%s",
+        "en": "§6SkyBlock §8| §fPlayer %s §fbought lighthouse effect §7%s §ffor §e%s §f%s"
+    },
+    "ISLAND_BUY_BEACON_GUI_LORE": {
+        "ru": [
+            "",
+            "§7Вы уверены, что хотите купить",
+            "§7данный эффект для вашего острова",
+            ""
+        ],
+        "ua": [
+            "",
+            "§7Ви впевнені, що хочете купити",
+            "§7цей ефект для вашого острова",
+            ""
+        ],
+        "en": [
+            "",
+            "§7Are you sure you want to buy",
+            "§7this effect for your island?",
+            ""
+        ]
+    },
+    "ISLAND_BUY_BEACON_GUI_NAME": {
+        "ru": "Купить эффект ?",
+        "ua": "Купити ефект?",
+        "en": "Buy effect?"
+    },
+    "ISLAND_BUY_BIOME": {
+        "ru": [
+            " ",
+            "§7Вы уверены, что хотите купить",
+            "§7данный биом ?",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Ви впевнені, що хочете купити",
+            "§7цей біом ?",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Are you sure you want to buy",
+            "§7this biome?",
+            " "
+        ]
+    },
+    "ISLAND_BUY_BIOME_GUI_NAME": {
+        "ru": "Купить биом ?",
+        "ua": "Купити біом?",
+        "en": "Buy biome?"
+    },
+    "ISLAND_BUY_GENERATOR": {
+        "ru": "$SB_PREFIX$Игрок %s §fулучшил генератор для вашего острова до §a%s §fуровня",
+        "ua": "§6SkyBlock §8| §fГравець %s §fполіпшив генератор для вашого острова до §a%s §fрівня",
+        "en": "§6SkyBlock §8| §fPlayer %s §fimproved generator for your island to §a%s §flevel"
+    },
+    "ISLAND_BUY_UPGRADE": {
+        "ru": "$SB_PREFIX$Игрок %s §fкупил улучшение §a%s",
+        "ua": "§6SkyBlock §8| §fГравець %s §fпридбав покращення §a%s",
+        "en": "§6SkyBlock §8| §fPlayer %s §fbought improvement §a%s"
+    },
+    "ISLAND_BUY_UPGRADE_GOLD_LORE": {
+        "ru": [
+            " ",
+            "§7Вы уверены, что хотите купить",
+            "§7данное улучшение зо §eзолото §7?",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Ви впевнені, що хочете купити",
+            "§7це покращення за §eзолото §7?",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Are you sure you want to buy",
+            "§7this upgrade for §egold §7?",
+            " "
+        ]
+    },
+    "ISLAND_BUY_UPGRADE_GUI_NAME": {
+        "ru": "Купить улучшение ?",
+        "ua": "Купити покращення?",
+        "en": "Buy upgrade?"
+    },
+    "ISLAND_BUY_UPGRADE_LORE": {
+        "ru": [
+            " ",
+            "§7Вы уверены, что хотите купить",
+            "§7данное улучшение ?",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Ви впевнені, що хочете купити",
+            "§7це покращення?",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Are you sure you want to buy",
+            "§7this upgrade?",
+            " "
+        ]
+    },
+    "ISLAND_BUY_UPGRADE_PRICE_LORE": {
+        "ru": [
+            "§7Цена: §ax%s изумрудных блоков",
+            "§7Цена: §e%s §7%s",
+            " ",
+            "§e▸ Нажмите ЛКМ, чтобы купить за блоки",
+            "§e▸ Нажмите ПКМ, чтобы купить за золото"
+        ],
+        "ua": [
+            "§7Вартість: §ax%s смарагдових блоків",
+            "§7Вартість: §e%s §7%s",
+            " ",
+            "§e▸ Натисніть ЛКМ, щоб купити за блоки",
+            "§e▸ Натисніть ПКМ, щоб купити за золото"
+        ],
+        "en": [
+            "§7Price: §ax%s emerald blocks",
+            "§7Price: §e%s §7%s",
+            " ",
+            "§e▸ LMC to buy for blocks",
+            "§e▸ RMC to buy for gold"
+        ]
+    },
+    "ISLAND_BUY_UPGRADE_TERRITORY": {
+        "ru": "$SB_PREFIX$Игрок %s §fкупил расширение территории острова",
+        "ua": "§6SkyBlock §8| §fГравець %s §fкупив розширення території острова",
+        "en": "§6SkyBlock §8| §fPlayer %s §fbought an extension of the territory islands"
+    },
+    "ISLAND_CANCEL": {
+        "ru": "$SB_PREFIX$Вы отклонили запрос на совместное сожительство от игрока %s",
+        "ua": "Ви відхилили запит на спільне співжиття від гравця %s",
+        "en": "You have rejected a player's cohabitation request %s"
+    },
+    "ISLAND_CANCEL_YOU": {
+        "ru": "$SB_PREFIX$Игрок %s §fотклонил ваш запрос",
+        "ua": "Гравець %s §fвідхилив ваш запит",
+        "en": "Player %s §fdeclined your request"
+    },
+    "ISLAND_CLASSIC_LORE": {
+        "ru": [
+            " ",
+            "§7Самый обычный остров.",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Найпростіший острів.",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7The most ordinary island.",
+            " ",
+            "§e▸ Click to choose this island"
+        ]
+    },
+    "ISLAND_CLASSIC_NAME": {
+        "ru": "Классический остров",
+        "ua": "Класичний острів",
+        "en": "Classic island"
+    },
+    "ISLAND_CLEAR_STATS_APPLY": {
+        "ru": "$SB_PREFIX$Статистика очищена",
+        "ua": "§6SkyBlock §8| §fСтатистика очищена",
+        "en": "§6SkyBlock §8| §fStatistics cleared"
+    },
+    "ISLAND_CLEAR_STATS_ERROR": {
+        "ru": "$SB_PREFIX$Вы не можете очистить пустую статистику :/",
+        "ua": "§6SkyBlock §8| §fВи не можете очистити порожню статистику :/",
+        "en": "§6SkyBlock §8| §fYou cannot clear empty statistics :/"
+    },
+    "ISLAND_CLEAR_STATS_LORE": {
+        "ru": [
+            "",
+            "§7Очистить вашу личную",
+            "§7статистику убийств и смертей",
+            "",
+            "§7Цена: §ax%s изумрудных блоков",
+            "",
+            "§e▸ Нажмите, чтобы очистить"
+        ],
+        "ua": [
+            "",
+            "§7Очистити вашу особисту",
+            "§7статистику вбивств і смертей",
+            "",
+            "§7Вартість: §ax%s смарагдових блоків",
+            "",
+            "§e▸ Натисніть, щоб очистити"
+        ],
+        "en": [
+            "",
+            "§7Clear your personal",
+            "§7kills and deaths statistics",
+            "",
+            "§7Price: §ax%s emerald blocks",
+            "",
+            "§e▸ Click to clear"
+        ]
+    },
+    "ISLAND_CLEAR_STATS_NAME": {
+        "ru": "Очистить статистику",
+        "ua": "Очистити статистику",
+        "en": "Clear statistics"
+    },
+    "ISLAND_CLICK_TO_BUY_BEACON_ERROR": {
+        "ru": [
+            "§7Цена: §e%s §7золота",
+            "§cДанный эффект вам недоступен!",
+            " ",
+            "§e▸ Нажмите ПКМ, чтобы купить данный эффект"
+        ],
+        "ua": [
+            "§7Вартість: §e%s §7золота",
+            "§cЦей ефект вам недоступний!",
+            " ",
+            "§e▸ Натисніть ПКМ, щоб купити цей ефект"
+        ],
+        "en": [
+            "§7Price: §e%s §7gold",
+            "§cThis effect is not available to you!",
+            " ",
+            "§e▸ RMC to purchase this effect"
+        ]
+    },
+    "ISLAND_CLICK_TO_DISABLE_BEACON": {
+        "ru": [
+            "§e▸ Нажмите, чтобы отключить эффект"
+        ],
+        "ua": [
+            "§e▸ Натисніть, щоб вимкнути ефект"
+        ],
+        "en": [
+            "§e▸ Click to disable effect"
+        ]
+    },
+    "ISLAND_CLICK_TO_ENABLE_BEACON": {
+        "ru": [
+            "§e▸ Нажмите, чтобы включить эффект"
+        ],
+        "ua": [
+            "§e▸ Натисніть, щоб увімкнути ефект"
+        ],
+        "en": [
+            "§e▸ Click to enable effect"
+        ]
+    },
+    "ISLAND_CLICK_TO_ENABLE_BEACON_ERROR": {
+        "ru": [
+            "§cВы не можете активировать данный эффект",
+            "§cУ вас превышен лимит на кол-во",
+            "§cактивированных эффектов!"
+        ],
+        "ua": [
+            "§cВи не можете активувати цей ефект",
+            "§cУ вас перевищений ліміт на кількість",
+            "§cактивованих ефектів!"
+        ],
+        "en": [
+            "§cYou cannot activate this effect.",
+            "§cYou have exceeded the limit on",
+            "§cthe number of activated effects!"
+        ]
+    },
+    "ISLAND_CLICK_TO_SET_BIOME": {
+        "ru": "§e▸ Нажмите, чтобы выбрать биом",
+        "ua": "§e▸ Натисніть, щоб обрати біом",
+        "en": "§e▸ Click to choose biome"
+    },
+    "ISLAND_CLICK_TO_SET_BIOME_ERROR": {
+        "ru": [
+            "§7Цена: §ax%s изумрудных блоков",
+            "§cДанный биом вам недоступен!",
+            " ",
+            "§e▸ Нажмите ПКМ, чтобы купить данный биом"
+        ],
+        "ua": [
+            "§7Вартість: §ax%s смарагдових блоків",
+            "§cЦей біом вам недоступний!",
+            " ",
+            "§e▸ Натисніть ПКМ, щоб купити цей біом"
+        ],
+        "en": [
+            "§7Price: §ax%s emerald blocks",
+            "§cThis biome is not available to you!",
+            " ",
+            "§e▸ RMC to purchase this biome"
+        ]
+    },
+    "ISLAND_CLOSED": {
+        "ru": "$SB_PREFIX$Данный остров закрыт и телепортация на него не возможна! Попросите владельца отключить флаг §cприватность",
+        "ua": "§6SkyBlock §8| §fЦей острів закритий і телепортація на нього неможлива! Попросіть власника відключити прапор §cприватність",
+        "en": "§6SkyBlock §8| §fThis island is closed and teleportation to it is not possible! Ask the owner to turn off the flag §cprivacy"
+    },
+    "ISLAND_CREATE_DESCRIPTION": {
+        "ru": "создать остров"
+    },
+    "ISLAND_DESTROY_DESCRIPTION": {
+        "ru": "удалить остров"
+    },
+    "ISLAND_RESTART_DESCRIPTION": {
+        "ru": "очистить территорию"
+    },
+    "ISLAND_TELEPORT_DESCRIPTION": {
+        "ru": "телепортироваться на открытый остров"
+    },
+    "ISLAND_ISLANDS_DESCRIPTION": {
+        "ru": "список островов"
+    },
+    "ISLAND_INVITE_DESCRIPTION": {
+        "ru": "добавить игрока на остров"
+    },
+    "ISLAND_LEAVE_DESCRIPTION": {
+        "ru": "покинуть остров §c(если вы не его владелец)"
+    },
+    "ISLAND_ACCEPT_DESCRIPTION": {
+        "ru": "принять заявку на добавление в чей-то остров"
+    },
+    "ISLAND_DENY_DESCRIPTION": {
+        "ru": "отменить заявку на добавление в чей-то остров"
+    },
+    "ISLAND_REQUESTS_DESCRIPTION": {
+        "ru": "список заявок на добавление на чьи-то острова"
+    },
+    "ISLAND_BIOME_DESCRIPTION": {
+        "ru": "выбор биома"
+    },
+    "ISLAND_FLAG_DESCRIPTION": {
+        "ru": "настройка флагов"
+    },
+    "ISLAND_IGNORE_DESCRIPTION": {
+        "ru": "добавить игрока в черный список острова"
+    },
+    "ISLAND_HOME_DESCRIPTION": {
+        "ru": "телепортироваться домой"
+    },
+    "ISLAND_SETHOME_DESCRIPTION": {
+        "ru": "установить новую точку дома"
+    },
+    "ISLAND_DELETE_DESCRIPTION": {
+        "ru": "удалить игрока с острова"
+    },
+    "ISLAND_LEVEL_DESCRIPTION": {
+        "ru": "уровень острова"
+    },
+    "ISLAND_DESCRIPTION": {
+        "ru": "управление островом"
+    },
+    "ISLAND_CO_OWNER": {
+        "ru": "Совладелец",
+        "ua": "Співвласник",
+        "en": "Co-owner"
+    },
+    "ISLAND_CREATE_LORE": {
+        "ru": [
+            "",
+            "§7Мне кажется или у вас нет острова ?!",
+            "§7Нажмите на этот предмет и выберите",
+            "§7особую генерацию для своего острова"
+        ],
+        "ua": [
+            "",
+            "§7Мені здається чи у вас немає острова?!",
+            "§7Натисніть на цей предмет та оберіть",
+            "§7особливу генерацію для свого острова"
+        ],
+        "en": [
+            "",
+            "§7It seems to me or you don't have an island?!",
+            "§7Click on this item and select",
+            "§7a special generation for your island"
+        ]
+    },
+    "ISLAND_CREATE_NAME": {
+        "ru": "§eСоздать остров",
+        "ua": "§eСтворити острів",
+        "en": "§eCreate island"
+    },
+    "ISLAND_CREATE_SUBTITLE": {
+        "ru": "§7Подробная информация §f/is",
+        "ua": "§7Детальна інформація §f/is",
+        "en": "§7Detailed information §f/is"
+    },
+    "ISLAND_CREATE_TITLE": {
+        "ru": "§eОстров успешно создан!",
+        "ua": "§eОстрів успішно створений!",
+        "en": "§eIsland successfully created!"
+    },
+    "ISLAND_DEFAULT_BASALT_GENERATOR_LORE": {
+        "ru": "§8 • §7100% Базальт",
+        "ua": "§8 • §7100% Базальт",
+        "en": "§8 • §7100% Basalt"
+    },
+    "ISLAND_DEFAULT_GENERATOR_LORE": {
+        "ru": "§8 • §7100% Булыжник",
+        "ua": "§8 • §7100% Кругляк",
+        "en": "§8 • §7100% Cobblestone"
+    },
+    "ISLAND_DEFAULT_LORE": {
+        "ru": [
+            " ",
+            "§7Обычный остров, в исполнении",
+            "§7нашего сервера, ничего лишнего.",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Звичайний острів, у виконанні",
+            "§7нашого сервера, нічого зайвого.",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7An ordinary island, performed by our server,",
+            "§7nothing superfluous.",
+            " ",
+            "§e▸ Click to choose this island"
+        ]
+    },
+    "ISLAND_DEFAULT_NAME": {
+        "ru": "Стандартный остров",
+        "ua": "Стандартний острів",
+        "en": "Standard island"
+    },
+    "ISLAND_DELETE": {
+        "ru": "$SB_PREFIX$Игрок %s §fбыл успешно удален с вашего острова",
+        "ua": "§6SkyBlock §8| §fГравець %s §fбув успішно видалений з вашого острова",
+        "en": "§6SkyBlock §8| §fPlayer %s §fhas been successfully removed from your island"
+    },
+    "ISLAND_DELETE_GUI_NAME": {
+        "ru": "Удалить остров ?",
+        "ua": "Видалити острів?",
+        "en": "Delete island?"
+    },
+    "ISLAND_DELETE_LORE": {
+        "ru": [
+            "",
+            "§7Вы уверены, что хотите удалить",
+            "§7свой остров ? Все улучшения, уровень",
+            "§7острова и т.д. будут сброшены и удалены",
+            "",
+            "§7PS: Повтороное создание острова - §f/is create",
+            "",
+            "§cВНИМАНИЕ! Действие не обратимо!"
+        ],
+        "ua": [
+            "",
+            "§7Ви впевнені, що хочете видалити",
+            "§7свій острів? Всі поліпшення, рівень",
+            "§7острови і т.д. будуть скинуті і видалені",
+            "",
+            "§7PS: Повторне створення острова - §f/is create",
+            "",
+            "§cУВАГА! Дію не можна зупинити!"
+        ],
+        "en": [
+            "",
+            "§7Are you sure you want to delete",
+            "§7your island? All improvements, island",
+            "§7level and so on will be deleted",
+            "",
+            "§7PS: Re-creating the island - §f/is create",
+            "",
+            "§cATTENTION! The action is not reversible!"
+        ]
+    },
+    "ISLAND_DELETE_MEMBER_ERROR": {
+        "ru": "$SB_PREFIX$§cОшибка, данный игрок не является участником вашего острова",
+        "ua": "§6SkyBlock §8| §cПомилка, цей гравець не є учасником вашого острова",
+        "en": "§6SkyBlock §8| §cError, this player is not a member of your island"
+    },
+    "ISLAND_DELETE_MEMBER_ERROR2": {
+        "ru": "$SB_PREFIX$§cОшибка, данный игрок владелец острова",
+        "ua": "§6SkyBlock §8| §cПомилка, цей гравець власник острова",
+        "en": "§6SkyBlock §8| §cError, this the player is the owner of the island"
+    },
+    "ISLAND_DELETE_MEMBER_OWNER": {
+        "ru": "$SB_PREFIX$§cОшибка, вы не можете удалить сами себя со своего острова",
+        "ua": "§6SkyBlock §8| §cПомилка, ви не можете видалити самі себе зі свого острова",
+        "en": "§6SkyBlock §8| §cError, you cannot delete yourself from your island"
+    },
+    "ISLAND_DELETE_TO": {
+        "ru": "$SB_PREFIX$Игрок %s §fудалил вас с острова %s §fи вы были отправлены на спавн",
+        "ua": "§6SkyBlock §8| §fГравець %s §fвидалив вас з острова %s §fі ви були відправлені на спавн",
+        "en": "§6SkyBlock §8| §fPlayer %s §fremoved you from the island %s §fand you were spawned"
+    },
+    "ISLAND_DESTROY_COOLDOWN": {
+        "ru": "$SB_PREFIX$§cВы не можете так часто делать рестарт острова, вам придется подождать %s",
+        "ua": "§6SkyBlock §8| §cВи не можете так часто робити рестарт острова, вам прийдеться зачекати %s",
+        "en": "§6SkyBlock §8| §cYou cannot restart the island so often, you will have to wait %s"
+    },
+    "ISLAND_END_LORE": {
+        "ru": [
+            " ",
+            "§7Небольшое количество эндерняка",
+            "§7и цветущих корусов немного",
+            "§7скрасят вам геймплей.",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Невелика кількість ендерняка",
+            "§7і квітучих корусів трохи",
+            "§7скрасять вам геймплей.",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7Small amount of endernyak",
+            "§7and flowering corsuses will",
+            "§7brighten up your gameplay a little.",
+            " ",
+            "§e▸ Click to choose this island"
+        ]
+    },
+    "ISLAND_END_NAME": {
+        "ru": "Остров края",
+        "ua": "Остров края",
+        "en": "End Island"
+    },
+    "ISLAND_FLAG_DROP_LEAVES_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить опадение",
+            "§7листвы на территории острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути опадання",
+            "§7листя на території острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable falling",
+            "§7foliage on the island"
+        ]
+    },
+    "ISLAND_FLAG_DROP_LEAVES_NAME": {
+        "ru": "Опадение листвы",
+        "ua": "Опадання листя",
+        "en": "Falling foliage"
+    },
+    "ISLAND_FLAG_DROP_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет влючить или",
+            "§7отключить возможность выбрасывать",
+            "§7предметы посетителям острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути можливість викидати",
+            "§7предмети відвідувачам острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable the ability to drop items",
+            "§7to island visitors"
+        ]
+    },
+    "ISLAND_FLAG_DROP_NAME": {
+        "ru": "Выбрасывание",
+        "ua": "Викидання",
+        "en": "Dropping"
+    },
+    "ISLAND_FLAG_ENTITY_DAMAGE_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить нанесение урона",
+            "§7дружественным мобам",
+            "§7посетителям острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути нанесення шкоди",
+            "§7дружнім мобам",
+            "§7відвідувачам острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable damaging",
+            "§7friendly mobes and",
+            "§7island visitors"
+        ]
+    },
+    "ISLAND_FLAG_ENTITY_DAMAGE_NAME": {
+        "ru": "Урон по мобам",
+        "ua": "Шкода по мобах",
+        "en": "Damage mobs"
+    },
+    "ISLAND_FLAG_ENTITY_EXPLODE_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить взрыв блоков",
+            "§7от энтити на территории острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути вибух блоків",
+            "§7від ентіті на території острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable block explosion",
+            "§7from entities on the island"
+        ]
+    },
+    "ISLAND_FLAG_ENTITY_EXPLODE_NAME": {
+        "ru": "Взрыв блоков",
+        "ua": "Вибух блоків",
+        "en": "Exploding blocks"
+    },
+    "ISLAND_FLAG_ENTITY_GRIEF_LORE": {
+        "ru": [
+            "",
+            "§7Если надоедливые мобы",
+            "§7постоянно воруют блоки,",
+            "§7то данный флаг решит",
+            "§7все ваши проблемы"
+        ],
+        "ua": [
+            "",
+            "§7Якщо докучливі моби",
+            "§7постійно крадуть блоки,",
+            "§7то цей прапор вирішить",
+            "§7всі ваші проблеми"
+        ],
+        "en": [
+            "",
+            "§7If annoying mobs",
+            "§7are constantlyb stealing blocks,",
+            "§7then this flag will solve",
+            "§7all your problems"
+        ]
+    },
+    "ISLAND_FLAG_ENTITY_GRIEF_NAME": {
+        "ru": "Гриферство мобов",
+        "ua": "Гріферство мобів",
+        "en": "Griffing mobs"
+    },
+    "ISLAND_FLAG_FIRE_SPREAD_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить распространение",
+            "§7огня на территории острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути поширення",
+            "§7вогню на території острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable fire spreading",
+            "§7on the island"
+        ]
+    },
+    "ISLAND_FLAG_FIRE_SPREAD_NAME": {
+        "ru": "Распространение огня",
+        "ua": "Поширення вогню",
+        "en": "Fire spreading"
+    },
+    "ISLAND_FLAG_GUI_NAME": {
+        "ru": "Флаги",
+        "ua": "Прапори",
+        "en": "Flags"
+    },
+    "ISLAND_FLAG_HUNGER_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить голод для",
+            "§7всех участников острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути голод для",
+            "§7всіх учасників острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable hunger for",
+            "§7all island members"
+        ]
+    },
+    "ISLAND_FLAG_HUNGER_NAME": {
+        "ru": "Анти голод",
+        "ua": "Антиголод",
+        "en": "Antihunger"
+    },
+    "ISLAND_FLAG_INVINCIBLE_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить Неуязвимость",
+            "§7на территории острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути Невразливість",
+            "§7на території острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable invulnerability",
+            "§7on the island"
+        ]
+    },
+    "ISLAND_FLAG_INVINCIBLE_NAME": {
+        "ru": "Неуязвимость",
+        "ua": "Невразливість",
+        "en": "Invulnerability"
+    },
+    "ISLAND_FLAG_NOT_USED": {
+        "ru": "У вас нет прав на использование этого флага. Владелец острова должен быть %s §fили выше",
+        "ua": "У вас немає прав на використання цього прапора. Власник острова повинен бути %s §fабо вище",
+        "en": "You are not authorized to use this flag. Island owner should be %s §for higher"
+    },
+    "ISLAND_FLAG_NOT_USED_GUI": {
+        "ru": [
+            "§cДоступен для %s §cи выше",
+            "§c(должен быть у владельца острова)"
+        ],
+        "ua": [
+            "§cДоступний для %s §cабо вище",
+            "§c(повинен бути у власника острова)"
+        ],
+        "en": [
+            "§cAvailable for %s §cand higher",
+            "§c(must be with the owner of the island)"
+        ]
+    },
+    "ISLAND_FLAG_OPENED_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет закрыть или",
+            "§7открыть остров для",
+            "§7посещений другими игрока",
+            "",
+            "§7Для посещения чужого острова",
+            "§7пишите: §f/is tp <ник>"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє закрити або",
+            "§7відкрити острів для",
+            "§7відвідувань іншими гравцями",
+            "",
+            "§7Для відвідування чужого острова",
+            "§7пишіть: §f/is tp <нік>"
+        ],
+        "en": [
+            "",
+            "§7Allows you to close or",
+            "§7open the island for",
+            "§7visiting by other players",
+            "",
+            "§7To visit a foreign island",
+            "§7write: §f/is tp <nickname>"
+        ]
+    },
+    "ISLAND_FLAG_OPENED_NAME": {
+        "ru": "Приватность",
+        "ua": "Приватність",
+        "en": "Privacy"
+    },
+    "ISLAND_FLAG_PICKUP_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить поднимание предметов",
+            "§7посетителям острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути піднімання предметів",
+            "§7відвідувачам острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable lifting items",
+            "§7by island visitors"
+        ]
+    },
+    "ISLAND_FLAG_PICKUP_NAME": {
+        "ru": "Поднятия",
+        "ua": "Піднімання",
+        "en": "Uplifts"
+    },
+    "ISLAND_FLAG_PVP_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить ПВП на острове"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути ПВП на острові"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable PVP on the island"
+        ]
+    },
+    "ISLAND_FLAG_PVP_NAME": {
+        "ru": "ПВП",
+        "ua": "ПВП",
+        "en": "PVP"
+    },
+    "ISLAND_FLAG_SNOW_LORE": {
+        "ru": [
+            "",
+            "§7Разрешить/Запретить образование",
+            "§7снега на острове"
+        ],
+        "ua": [
+            "",
+            "§7Дозволити/Заборонити появу",
+            "§7снігу на острові"
+        ],
+        "en": [
+            "",
+            "§7Enable/Disable snow formation",
+            "§7on the island"
+        ]
+    },
+    "ISLAND_FLAG_SNOW_NAME": {
+        "ru": "Образование снега",
+        "ua": "Поява снігу",
+        "en": "Snow formation"
+    },
+    "ISLAND_FLAG_SPAWN_MOB_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить спавн",
+            "§7мобов на территории острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7відімкнути спавн",
+            "§7мобів на території острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable mobes spawn",
+            "§7on the island"
+        ]
+    },
+    "ISLAND_FLAG_SPAWN_MOB_NAME": {
+        "ru": "Спавн мобов",
+        "ua": "Спавн мобів",
+        "en": "Mobes spawn"
+    },
+    "ISLAND_FLAG_TRANSPORT_LORE": {
+        "ru": [
+            "",
+            "§7Разрешить/запретить использовать как транспорт вагонетки,",
+            "§7лодки, свиней и лошадей"
+        ],
+        "ua": [
+            "",
+            "§7Дозволити/заборонити використовувати як транспорт вагонетки,",
+            "§7човни, свиней і коней"
+        ],
+        "en": [
+            "",
+            "§7Allow/prohibit the use of trolleys",
+            "§7boats, pigs and horses as a means of transport."
+        ]
+    },
+    "ISLAND_FLAG_TRANSPORT_NAME": {
+        "ru": "Транспорт",
+        "ua": "Транспорт",
+        "en": "Transport"
+    },
+    "ISLAND_FLAG_USE_LORE": {
+        "ru": [
+            "",
+            "§7Позволяет включить или",
+            "§7отключить использование",
+            "§7верстаков, рычагов и т.д.",
+            "§7для посетителей острова"
+        ],
+        "ua": [
+            "",
+            "§7Дозволяє увімкнути або",
+            "§7вимкнути використання",
+            "§7верстатів, важелів і т.д.",
+            "§7для відвідувачів острова"
+        ],
+        "en": [
+            "",
+            "§7Allows you to enable or",
+            "§7disable using",
+            "§7workbenches, levers, etc.",
+            "§7for island visitors"
+        ]
+    },
+    "ISLAND_FLAG_USE_NAME": {
+        "ru": "Использование",
+        "ua": "Використання",
+        "en": "Usage"
+    },
+    "ISLAND_FLAG_VILLAGERS_LORE": {
+        "ru": [
+            "",
+            "§7Разрешить/запретить торговаться с жителями"
+        ],
+        "ua": [
+            "",
+            "§7Дозволити/заборонити торгуватися з жителями"
+        ],
+        "en": [
+            "",
+            "§7Allow/prohibit bargaining with residents"
+        ]
+    },
+    "ISLAND_FLAG_VILLAGERS_NAME": {
+        "ru": "Торговля",
+        "ua": "Торгівля",
+        "en": "Trade"
+    },
+    "ISLAND_GENERATOR_UPGRADE": {
+        "ru": "Улучшение генератора",
+        "ua": "Покращення генератора",
+        "en": "Generator upgrade"
+    },
+    "ISLAND_GENERATOR_UPGRADE_LEVEL": {
+        "ru": [
+            "§7Текущий уровень генератора: §a%s",
+            "§7Максимальный уровень генератора: §c%s",
+            "§7В данный момент он дает:"
+        ],
+        "ua": [
+            "§7Поточний рівень генератора: §a%s",
+            "§7Максимальний рівень генератора: §c%s",
+            "§7Наразі він дає:"
+        ],
+        "en": [
+            "§7Generator current level: §a%s",
+            "§7Maximum generator level: §c%s",
+            "§7At present it gives:"
+        ]
+    },
+    "ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK": {
+        "ru": [
+            "",
+            "§7Цена: §ax%s изумурудных блоков",
+            "",
+            " §e▸ Нажмите, чтобы купить"
+        ],
+        "ua": [
+            "",
+            "§7Вартість: §ax%s смарагдових блоків",
+            "",
+            " §e▸ Натисніть, щоб купити"
+        ],
+        "en": [
+            "",
+            "§7Price: §ax%s emerald blocks",
+            "",
+            " §e▸ Click to buy"
+        ]
+    },
+    "ISLAND_GENERATOR_UPGRADE_MAX": {
+        "ru": [
+            "§7У вас максимальный уровень генератора: §a%s",
+            "§7В данный момент он дает:"
+        ],
+        "ua": [
+            "§7У вас максимальний рівень генератора: §a%s",
+            "§7Наразі він дає:"
+        ],
+        "en": [
+            "§7You have a maximum generator level: §a%s",
+            "§7At present it gives:"
+        ]
+    },
+    "ISLAND_HELL_LORE": {
+        "ru": [
+            " ",
+            "§7Самый сложный остров для старта,",
+            "§7магмовые блоки и озеро с лавой",
+            "§7дают незабываемые, острые ощущения.",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Найскладніший острів для старту,",
+            "§7магмові блоки і озеро з лавою",
+            "§7дають незабутні, гострі відчуття.",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7The hardest island to start with,",
+            "§7magma blocks and lava lake",
+            "§7give an unforgettable thrill.",
+            " ",
+            "§e▸ Click to choose this island"
+        ]
+    },
+    "ISLAND_HELL_NAME": {
+        "ru": "Адский остров",
+        "ua": "Пекельний острів",
+        "en": "Hellish island"
+    },
+    "ISLAND_HOUSE_LORE": {
+        "ru": [
+            " ",
+            "§7Зачем нужен стандартный остров,",
+            "§7когда есть остров с домом?!",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Навіщо потрібен стандартний острів,",
+            "§7коли є острів з будинком ?!",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7Why do you need a standard island,",
+            "§7when there is an island with a house?!",
+            " ",
+            "§e▸ Click to select this island"
+        ]
+    },
+    "ISLAND_HOUSE_NAME": {
+        "ru": "Остров с домиком",
+        "ua": "Острів з будиночком",
+        "en": "Island with a house"
+    },
+    "ISLAND_IGNORED_GUI_NAME": {
+        "ru": "Заблокированные",
+        "ua": "Заблоковані",
+        "en": "Banned"
+    },
+    "ISLAND_IGNORED_LORE": {
+        "ru": [
+            "",
+            "§7Заблокирован: §f%s",
+            "§7Кто заблокировал: §7%s",
+            "§7Онлайн: %s",
+            "",
+            "§e▸ Нажмите ПКМ, чтобы управлять игроком"
+        ],
+        "ua": [
+            "",
+            "§7Заблокований: §f%s",
+            "§7Хто заблокував: §7%s",
+            "§7Онлайн: %s",
+            "",
+            "§e▸ Натисніть ПКМ, щоб управляти гравцем"
+        ],
+        "en": [
+            "",
+            "§7Banned: §f%s",
+            "§7Banned by: §7%s",
+            "§7Online: %s",
+            "",
+            "§e▸ RMC to control the player"
+        ]
+    },
+    "ISLAND_IGNORED_NOTHING_LORE": {
+        "ru": [
+            "",
+            "§7На вашем острове нет",
+            "§7заблокированных игроков",
+            ""
+        ],
+        "ua": [
+            "",
+            "§7На вашому острові немає",
+            "§7заблокованих гравців",
+            ""
+        ],
+        "en": [
+            "",
+            "§7There are no banned players",
+            "§7on your island",
+            ""
+        ]
+    },
+    "ISLAND_IGNORE_ALREADY": {
+        "ru": "§cОшибка, данный игрок уже в списке!",
+        "ua": "§cПомилка, цей гравець вже в списку!",
+        "en": "§cError, this player is already on the list!"
+    },
+    "ISLAND_IGNORE_MEMBER": {
+        "ru": "§cОшибка, данный игрок является участником острова!",
+        "ua": "§cПомилка, цей гравець є учасником острова!",
+        "en": "§cError, this player is already a member of the island!"
+    },
+    "ISLAND_LEAVE": {
+        "ru": "$SB_PREFIX$Вы покинули остров игрока %s",
+        "ua": "§6SkyBlock §8| §fВи покинули острів гравця %s",
+        "en": "§6SkyBlock §8| §fYou left the island of the player %s"
+    },
+    "ISLAND_LEAVE_GUI_NAME": {
+        "ru": "Покинуть остров ?",
+        "ua": "Покинути острів?",
+        "en": "Leave the island?"
+    },
+    "ISLAND_LEAVE_LORE": {
+        "ru": [
+            "",
+            "§7Вы уверены, что хотите покинуть",
+            "§7остров на котором играете в",
+            "§7данный момент ?",
+            ""
+        ],
+        "ua": [
+            "",
+            "§7Ви впевнені, що хочете залишити",
+            "§7острів на якому граєте",
+            "§7зараз ?",
+            ""
+        ],
+        "en": [
+            "",
+            "§7Are you sure you want to leave",
+            "§7the island on which you are playing",
+            "§7at the moment?",
+            ""
+        ]
+    },
+    "ISLAND_LEAVE_OWNER": {
+        "ru": "$SB_PREFIX$§cОшибка, вы не можете покинуть свой же остров",
+        "ua": "§6SkyBlock §8| §cПомилка, ви не можете залишити свій же острів",
+        "en": "§6SkyBlock §8| §cError, you cannot leave your own island"
+    },
+    "ISLAND_MAX_UPGRADE": {
+        "ru": "$SB_PREFIX$§cОшибка! У вас уже максимальный уровень данного апгрейда",
+        "ua": "§6SkyBlock §8| §cПомилка! У вас вже максимальний рівень цього апгрейда",
+        "en": "§6SkyBlock §8| §cError! You already have the maximum level of this upgrade"
+    },
+    "ISLAND_MEMBER": {
+        "ru": "Участник",
+        "ua": "Учасник",
+        "en": "Member"
+    },
+    "ISLAND_MEMBERS_GUI_NAME": {
+        "ru": "Участники острова",
+        "ua": "Учасники острова",
+        "en": "Island members"
+    },
+    "ISLAND_MEMBER_BLOCKED": {
+        "ru": "$SB_PREFIX$Простите, но вы были внесеты в §cсписок нежелательных игроков §fэтого острова (владелец - %s§f)",
+        "ua": "§6SkyBlock §8| §fВибачте, але ви були внесені в §cсписок небажаних гравців §fцього острова (власник - %s§f)",
+        "en": "§6SkyBlock §8| §fSorry, but you have been listed §cas an unwanted player §fof this island (owner - %s§f)"
+    },
+    "ISLAND_MEMBER_LORE": {
+        "ru": [
+            "",
+            "§7Стал участником острова: §f%s",
+            "§7Ранг: §7%s",
+            "§7На острове игрока: %s",
+            "",
+            "§e▸ Нажмите ПКМ, чтобы управлять игроком"
+        ],
+        "ua": [
+            "",
+            "§7Став учасником острова: §f%s",
+            "§7Ранг: §7%s",
+            "§7На острові гравця: %s",
+            "",
+            "§e▸ Натисніть ПКМ, щоб управляти гравцем"
+        ],
+        "en": [
+            "",
+            "§7Became a member of the island: §f%s",
+            "§7Rank: §7%s",
+            "§7On the player's island: %s",
+            "",
+            "§e▸ RMC to control the player"
+        ]
+    },
+    "ISLAND_MEMBER_OFFLINE": {
+        "ru": "§cоффлайн",
+        "ua": "§cоффлайн",
+        "en": "§coffline"
+    },
+    "ISLAND_MEMBER_REMOVED": {
+        "ru": "$SB_PREFIX$%s §fбыл удален с острова игроком %s",
+        "ua": "§6SkyBlcok §8| %s §fбув видалений з острова гравцем %s",
+        "en": "§6SkyBlcok §8| %s §fhas been removed from the island by the player %s"
+    },
+    "ISLAND_MEMBER_REMOVE_LORE": {
+        "ru": [
+            " ",
+            "§7Удалить участника острова ",
+            "§7и запретить ему любые изменения",
+            "§7вашего острова",
+            " ",
+            "§e▸ Нажмите, чтобы удалить участника"
+        ],
+        "ua": [
+            " ",
+            "§7Видалити учасника острова ",
+            "§7і заборонити йому будь-які зміни",
+            "§7вашого острова",
+            " ",
+            "§e▸ Натисніть, щоб видалити учасника"
+        ],
+        "en": [
+            " ",
+            "§7Remove an island member ",
+            "§7and prohibit him from any changes",
+            "§7to your island",
+            " ",
+            "§e▸ Click to remove a player"
+        ]
+    },
+    "ISLAND_MEMBER_REMOVE_NAME": {
+        "ru": "Удалить участника острова",
+        "ua": "Видалити учасника острова",
+        "en": "Remove an island player"
+    },
+    "ISLAND_MEMBER_SETTINGS_OWNER": {
+        "ru": "$SB_PREFIX$§cОшибка, вы не можете настраивать права владельца острова!",
+        "ua": "§6SkyBlock §8| §cПомилка, ви не можете налаштовувати права власника острова!",
+        "en": "§6SkyBlock §8| §cError, you cannot configure rights of the owner of the island!"
+    },
+    "ISLAND_MEMBER_SET_RANK_ALERT": {
+        "ru": "$SB_PREFIX$§fИгроку %s §fбыли назначены новые права управления островом",
+        "ua": "§6SkyBlcok §8| §fГравцю %s §fбули призначені нові права управління островом",
+        "en": "§6SkyBlcok §8| §fPlayer %s §fhas been assigned new management rights"
+    },
+    "ISLAND_MEMBER_SET_RANK_LORE_OFF": {
+        "ru": [
+            "§7Нажмите, чтобы выдать новые права"
+        ],
+        "ua": [
+            "§7Натисніть, щоб видати нові права"
+        ],
+        "en": [
+            "§7Click to assign new rights"
+        ]
+    },
+    "ISLAND_MEMBER_SET_RANK_LORE_ON": {
+        "ru": [
+            "§7Данные права уже выданы"
+        ],
+        "ua": [
+            "§7Цы права вже виданы"
+        ],
+        "en": [
+            "§7These rights are already assigned"
+        ]
+    },
+    "ISLAND_MEMBER_SET_RANK_NAME_OFF": {
+        "ru": "§aНазначить",
+        "ua": "§aНазначити",
+        "en": "§aAssign"
+    },
+    "ISLAND_MEMBER_SET_RANK_NAME_ON": {
+        "ru": "§7Назначен",
+        "ua": "§7Назначений",
+        "en": "§7Assigned"
+    },
+    "ISLAND_MINE_HOLO": {
+        "ru": "До обновления",
+        "ua": "До оновлення",
+        "en": "Until update"
+    },
+    "ISLAND_MINE_UPDATE": {
+        "ru": "§fАвтошахта обновлена §7/warp mine",
+        "ua": "§fАвтошахта оновлена §7/warp mine",
+        "en": "§fAutomine updated §7/warp mine"
+    },
+    "ISLAND_MINE_UPDATE_HOLO": {
+        "ru": "Обновлено!",
+        "ua": "Оновлено!",
+        "en": "Updated!"
+    },
+    "ISLAND_MINE_UPDATE_NETHER": {
+        "ru": "§fАвтошахта обновлена §7/warp minenether",
+        "ua": "§fАвтошахта оновлена §7/warp minenether",
+        "en": "§fAutomine updated §7/warp minenether"
+    },
+    "ISLAND_MOB_COMMAND": {
+        "ru": [
+            "§fНа вашем острове:",
+            " §c▪ §fЖивотных: §a%s",
+            " §c▪ §fМонстров: §a%s",
+            " §c▪ §fИгроков: §a%s",
+            " §c▪ §fДропнутых айтемов: §a%s",
+            "Ваш лимит мобов §a%s§f/§c%s"
+        ],
+        "ua": [
+            "§fНа вашому острові:",
+            " §c▪ §fТварин: §a%s",
+            " §c▪ §fМонстрів: §a%s",
+            " §c▪ §fГравців: §a%s",
+            " §c▪ §fДропнутих айтемів: §a%s",
+            "Ваш ліміт мобів §a%s§f/§c%s"
+        ],
+        "en": [
+            "§fOn your island there are:",
+            " §c▪ §fAnimals: §a%s",
+            " §c▪ §fMonsters: §a%s",
+            " §c▪ §fPlayers: §a%s",
+            " §c▪ §fDropped items: §a%s",
+            "Your mobes limit §a%s§f/§c%s"
+        ]
+    },
+    "ISLAND_MOB_COMMAND_ERROR": {
+        "ru": "$SB_PREFIX$Вы должны находится на территории своего острова",
+        "ua": "§6SkyBlock §8| §fВи повинні знаходиться на території свого острова",
+        "en": "§6SkyBlock §8| §fYou must be on the territory of your island"
+    },
+    "ISLAND_NETHER_MINE_ERROR": {
+        "ru": "§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение \"АД\"",
+        "ua": "§cВи не можете рити блоки в пекельної шахті, поки не придбаєте покращення \"Пекло\"",
+        "en": "§cYou cannot dig blocks in a hellish mine until you acquire improvement of \"HELL\""
+    },
+    "ISLAND_NOT_CREATE_WARP": {
+        "ru": "§cВы не можете создавать варп на этом острове",
+        "ua": "§cВи не можете створювати варп на цьому острові",
+        "en": "§cYou cannot warp on this island."
+    },
+    "ISLAND_NOT_FOUND": {
+        "ru": "$SB_PREFIX$Остров игрока %s §fне найден",
+        "ua": "§6SkyBlock §8| §fОстрів гравця %s §fне знайдений",
+        "en": "§6SkyBlock §8| §fPlayer's island %s §fnot found"
+    },
+    "ISLAND_NOT_OWNER": {
+        "ru": "§cОшибка, вы не владелец или со-владелец острова!",
+        "ua": "§cПомилка, ви не власник або співвласник острова!",
+        "en": "§cError, you are not the owner or co-owner of the island!"
+    },
+    "ISLAND_NOT_USED": {
+        "ru": "§cОшибка, владелец острова запретил взаимодейстие с подобными предметами",
+        "ua": "§cПомилка, власник острова заборонив взаємодію з подібними предметами",
+        "en": "§cError, the owner of the island has forbidden interaction with similar items"
+    },
+    "ISLAND_NOT_YOU": {
+        "ru": "§cОшибка, вы не можете это сделать, вы не участник острова!",
+        "ua": "§cПомилка, ви не можете це зробити, ви не учасник острова!",
+        "en": "§cError, you cannot do this, you are not a member of the island!"
+    },
+    "ISLAND_NOT_YOU_COMMAND": {
+        "ru": "§cОшибка, вы не можете использовать эту команду на чужом острове!",
+        "ua": "§cПомилка, ви не можете використовувати цю команду на чужому острові!",
+        "en": "§cError, you cannot use this command on a foreign island!"
+    },
+    "ISLAND_NO_ISLAND": {
+        "ru": "$SB_PREFIX$Ошибка, кажется у вас нет острова... Чтобы создать свой остров напишите §7/island create",
+        "ua": "§6SkyBlock §8| §fПомилка, здається у вас немає острова ... Щоб створити свій острів, напишіть §7/island create",
+        "en": "§6SkyBlock §8| §fError, it seems you don't have an island ... To create an island, write §7/island create"
+    },
+    "ISLAND_NO_PVP": {
+        "ru": "§cОшибка, ПВП на этом острове отключено",
+        "ua": "§cПомилка, ПВП на цьому острові вимкнено",
+        "en": "§cError, PVP is disabled on this island"
+    },
+    "ISLAND_OPENED_GUI_LORE": {
+        "ru": [
+            "",
+            "§7Дата создания: §f%s",
+            "§7Биом острова: §c%s",
+            "§7Уровень острова: §d%s",
+            "§7Открыто территории: §a%s",
+            "§7Кол-во участников: §a%s§7/§c%s",
+            "§7Онлайн участников: §a%s"
+        ],
+        "ua": [
+            "",
+            "§7Дата створення: §f%s",
+            "§7Біом острова: §c%s",
+            "§7Рівень острова: §d%s",
+            "§7Відкрито території: §a%s",
+            "§7К-ть учасників: §a%s§7/§c%s",
+            "§7Онлайн учасників: §a%s"
+        ],
+        "en": [
+            "",
+            "§7Creation date: §f%s",
+            "§7Island biome: §c%s",
+            "§7Island level: §d%s",
+            "§7Open territory: §a%s",
+            "§7Amount of members: §a%s§7/§c%s",
+            "§7Members online: §a%s"
+        ]
+    },
+    "ISLAND_OPENED_GUI_NAME": {
+        "ru": "Публичные острова",
+        "ua": "Публічні острови",
+        "en": "Public islands"
+    },
+    "ISLAND_OWNER": {
+        "ru": "Владелец",
+        "ua": "Власник",
+        "en": "Owner"
+    },
+    "ISLAND_PROFILE_ADDLEVEL_LORE": {
+        "ru": [
+            " ",
+            "§7Увеличение уровня вашего",
+            "§7острова путем добавления блоков!",
+            " ",
+            "§8• §fЛазуритовый блок §8- §a2 §fочка",
+            "§8• §fКварцевый блок §8- §a3 §fочка",
+            "§8• §fРедстоун блок §8- §a3 §fочка",
+            "§8• §fУгольный блок §8- §a5 §fочков",
+            "§8• §fЖелезный блок §8- §a4 §fочка",
+            "§8• §fАлмазный блок §8- §a7 §fочков",
+            "§8• §fЗолотой блок §8- §a8 §fочков",
+            "§8• §fИзумрудный блок §8- §a20 §fочков",
+            "§8• §fНезеритовый блок §8- §a2,400 §fочков",
+            " ",
+            "§e▸ Нажмите, чтобы открыть"
+        ],
+        "ua": [
+            " ",
+            "§7Збільшення рівня вашого",
+            "§7острова шляхом додавання блоків!",
+            " ",
+            "§8• §fЛазуритовый блок §8- §a2 §fочки",
+            "§8• §fКварцовий блок §8- §a3 §fочки",
+            "§8• §fРедстоун блок §8- §a3 §fочки",
+            "§8• §fВугільний блок §8- §a5 §fочок",
+            "§8• §fЗалізний блок §8- §a4 §fочки",
+            "§8• §fДіамантовий блок §8- §a7 §fочок",
+            "§8• §fЗолотий блок §8- §a8 §fочок",
+            "§8• §fСмарагдовий блок §8- §a20 §fочок",
+            "§8• §fНезеритовий блок §8- §a2,400 §fочок",
+            " ",
+            "§e▸ Натисніть, щоб відкрити"
+        ],
+        "en": [
+            " ",
+            "§7Increase the level of your",
+            "§7island by adding blocks!",
+            " ",
+            "§8• §fLapis block §8- §a2 §fpoints",
+            "§8• §fQuartz block §8- §a3 §fpoints",
+            "§8• §fRedstone block §8- §a3 §fpoints",
+            "§8• §fCoal block §8- §a5 §fpoints",
+            "§8• §fIron block §8- §a4 §fpoints",
+            "§8• §fDiamond block §8- §a7 §fpoints",
+            "§8• §fGolden block §8- §a8 §fpoints",
+            "§8• §fEmerald block §8- §a20 §fpoints",
+            "§8• §fNetherite block §8- §a2,400 §fpoints",
+            " ",
+            "§e▸ Click to view"
+        ]
+    },
+    "ISLAND_PROFILE_ADDLEVEL_NAME": {
+        "ru": "Уровень острова",
+        "ua": "Рівень острова",
+        "en": "Island level"
+    },
+    "ISLAND_PROFILE_BEACON_LORE": {
+        "ru": [
+            "",
+            "§7Покупка и активация эффектов,",
+            "§7которые будут действовать на весь остров",
+            " ",
+            "§e▸ Нажмите, чтобы открыть"
+        ],
+        "ua": [
+            "",
+            "§7Купівля та активація ефектів,",
+            "§7які будуть діяти на весь острів",
+            " ",
+            "§e▸ Натисніть, щоб відкрити"
+        ],
+        "en": [
+            "",
+            "§7Buying and activating effects",
+            "§7which will be valid for the whole island",
+            " ",
+            "§e▸ Click to view"
+        ]
+    },
+    "ISLAND_PROFILE_BEACON_NAME": {
+        "ru": "Эффекты",
+        "ua": "Ефекти",
+        "en": "Effects"
+    },
+    "ISLAND_PROFILE_BIOME_LORE": {
+        "ru": [
+            " ",
+            "§7Установка и покупка новых биомов",
+            " ",
+            "§cВНИМАНИЕ! Покупать и менять биомы",
+            "§cострова может только владелец или со-владелец",
+            " ",
+            "§e▸ Нажмите, чтобы открыть настройки биома"
+        ],
+        "ua": [
+            " ",
+            "§7Установка і покупка нових біомів",
+            " ",
+            "§cУВАГА! Купувати і міняти біоми",
+            "§cострова може тільки власник або співвласник",
+            " ",
+            "§e▸ Натисніть, щоб відкрити налаштування біома"
+        ],
+        "en": [
+            " ",
+            "§7Installing and buying new biomes",
+            " ",
+            "§cATTENTION! Only the owner or co-owner",
+            "§ccan buy and change biomes of the island",
+            " ",
+            "§e▸ Click to open biome settings"
+        ]
+    },
+    "ISLAND_PROFILE_BIOME_NAME": {
+        "ru": "Выбор биома",
+        "ua": "Вибір біома",
+        "en": "Choose biome"
+    },
+    "ISLAND_PROFILE_BIOME_NETHER_LORE": {
+        "ru": [
+            " ",
+            "§7Установка и покупка новых адских биомов",
+            " ",
+            "§cВНИМАНИЕ! Покупать и менять биомы",
+            "§cострова может только владелец или со-владелец",
+            " ",
+            "§e▸ Нажмите, чтобы открыть настройки биома"
+        ],
+        "ua": [
+            " ",
+            "§7Установка і покупка нових пекельних біомів",
+            " ",
+            "§cВНИМАНИЕ! Купувати і міняти біоми",
+            "§cострова може тільки власник або співвласник",
+            " ",
+            "§e▸ Натисніть, чщоб відкрити налаштування біома"
+        ],
+        "en": [
+            " ",
+            "§7Installing and buying new hellish biomes",
+            " ",
+            "§cATTENTION! Only the owner or co-owner",
+            "§ccan buy and change biomes of the island",
+            " ",
+            "§e▸ Click to open biome settings"
+        ]
+    },
+    "ISLAND_PROFILE_BIOME_NETHER_NAME": {
+        "ru": "Выбор адского биома",
+        "ua": "Вибір пекельного біома",
+        "en": "Choose hellish biome"
+    },
+    "ISLAND_PROFILE_FLAG_LORE": {
+        "ru": [
+            " ",
+            "§7Полная кастомизация настроек",
+            "§7вашего острова",
+            " ",
+            "§cВНИМАНИЕ! Менять настройки флагов",
+            "§cможет только владелец или со-владелец",
+            " ",
+            "§e▸ Нажмите, чтобы открыть настройки флагов"
+        ],
+        "ua": [
+            " ",
+            "§7Повна кастомізація налаштувань",
+            "§7вашого острова",
+            " ",
+            "§cУВАГА! Змінювати налаштування прапорів",
+            "§cможе тільки власник або співвласник",
+            " ",
+            "§e▸ Натисніть, щоб відкрити налаштування прапорів"
+        ],
+        "en": [
+            " ",
+            "§7Full settings customization",
+            "§7your island",
+            " ",
+            "§cATTENTION! Only the owner or co-owner",
+            "§ccan change the flag settings",
+            " ",
+            "§e▸ Click to open flag settings"
+        ]
+    },
+    "ISLAND_PROFILE_FLAG_NAME": {
+        "ru": "Настройки флагов",
+        "ua": "Налаштування прапорів",
+        "en": "Flag settings"
+    },
+    "ISLAND_PROFILE_GUI_NAME": {
+        "ru": "Настройки острова",
+        "ua": "Налаштування острова",
+        "en": "Island settings"
+    },
+    "ISLAND_PROFILE_HOME_LORE": {
+        "ru": [
+            " ",
+            "§7Телепортация на точку дома",
+            " ",
+            "§7PS: Чтобы установить точку дома,",
+            "§7пишите §f/is sethome",
+            " ",
+            "§e▸ Нажмите, чтобы телепортироваться"
+        ],
+        "ua": [
+            " ",
+            "§7Телепортація на точку будинку",
+            " ",
+            "§7PS: Щоб встановити точку будинку,",
+            "§7пишіть §f/is sethome",
+            " ",
+            "§e▸ Натисніть, щоб телепортуватися"
+        ],
+        "en": [
+            " ",
+            "§7Teleport to house point",
+            " ",
+            "§7PS: To set a house point,",
+            "§7write §f/is sethome",
+            " ",
+            "§e▸ Click to teleport"
+        ]
+    },
+    "ISLAND_PROFILE_HOME_NAME": {
+        "ru": "Телепортация домой",
+        "ua": "Телепортація додому",
+        "en": "Teleport home"
+    },
+    "ISLAND_PROFILE_IGNORE_LIST_LORE": {
+        "ru": [
+            " ",
+            "§7Просмотр и удаление заблокированных",
+            "§7игроков вашего острова",
+            " ",
+            "§7Чтобы добавить игрока в данный список,",
+            "§7напишите команду: §f/is ignore <ник игрока>",
+            " ",
+            "§cВНИМАНИЕ! Заблокированные игроки",
+            "§cне смогут попасть на ваш остров!",
+            " ",
+            "§e▸ Нажмите, чтобы открыть список"
+        ],
+        "ua": [
+            " ",
+            "§7Перегляд і видалення заблокованих",
+            "§7гравців вашого острова",
+            " ",
+            "§7Щоб додати гравця в цей список,",
+            "§7напишіть команду: §f/is ignore <нік гравця>",
+            " ",
+            "§cУВАГА! Заблоковані гравці",
+            "§cне зможуть потрапити на ваш острів!",
+            " ",
+            "§e▸ Натисніть, щоб відкрити список"
+        ],
+        "en": [
+            " ",
+            "§7View and remove banned",
+            "§7players of your island",
+            " ",
+            "§7To add a player to this list,",
+            "§7write command: §f/is ignore <player's nickname>",
+            " ",
+            "§cATTENTION! Banned players",
+            "§cwill not be able to get to your island!",
+            " ",
+            "§e▸ Click to view the list"
+        ]
+    },
+    "ISLAND_PROFILE_IGNORE_LIST_NAME": {
+        "ru": "Список заблокированных",
+        "ua": "Список заблокованих",
+        "en": "Banned list"
+    },
+    "ISLAND_PROFILE_LORE": {
+        "ru": [
+            " ",
+            "§7Дата создания: §f%s",
+            "§7Владелец: %s",
+            "§7Ваш ранг: §c%s",
+            "§7Биом острова: §c%s",
+            "§7Уровень острова: §d%s",
+            "§7До следующего уровня: §a%s XP",
+            "§7Лимит мобов: §a%s",
+            "§7Открыто территории: §a%s",
+            "§7Кол-во участников: §a%s§7/§c%s",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Дата створення: §f%s",
+            "§7Власник: %s",
+            "§7Ваш ранг: §c%s",
+            "§7Біом острова: §c%s",
+            "§7Рівень острова: §d%s",
+            "§7До наступного рівня: §a%s XP",
+            "§7Ліміт мобів: §a%s",
+            "§7Відкрито території: §a%s",
+            "§7К-ть учасників: §a%s§7/§c%s",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Creation date: §f%s",
+            "§7Owner: %s",
+            "§7Your rank: §c%s",
+            "§7Island biome: §c%s",
+            "§7Island level: §d%s",
+            "§7Till next level: §a%s XP",
+            "§7Mobes limit: §a%s",
+            "§7Open territories: §a%s",
+            "§7Number of members: §a%s§7/§c%s",
+            " "
+        ]
+    },
+    "ISLAND_PROFILE_MEMBERS_LORE": {
+        "ru": [
+            " ",
+            "§7Просмотр и настройка прав участников острова,",
+            "§7а так же детальная информация о каждом из них",
+            " ",
+            "§e▸ Нажмите, чтобы открыть меню"
+        ],
+        "ua": [
+            " ",
+            "§7Перегляд і настроювання прав учасників острова,",
+            "§7а так само детальна інформація про кожного з них",
+            " ",
+            "§e▸ Натисніть, щоб відкрити меню"
+        ],
+        "en": [
+            " ",
+            "§7Viewing and configuring the rights of island members,",
+            "§7as well as detailed information about each of them",
+            " ",
+            "§e▸ Click to view the menu"
+        ]
+    },
+    "ISLAND_PROFILE_MEMBERS_NAME": {
+        "ru": "Список участников острова",
+        "ua": "Список учасників острова",
+        "en": "List of island members"
+    },
+    "ISLAND_PROFILE_NAME": {
+        "ru": "Полная информация по острову",
+        "ua": "Пповна інформація по острову",
+        "en": "Full information on the island"
+    },
+    "ISLAND_PROFILE_UPGRADE_LORE": {
+        "ru": [
+            " ",
+            "§7Покупка улучшений для вашего острова",
+            " ",
+            "§cВНИМАНИЕ! Улучшать остров может только",
+            "§cвладелец или со-владелец",
+            " ",
+            "§e▸ Нажмите, чтобы улучшить остров"
+        ],
+        "ua": [
+            " ",
+            "§7Купівля покращень для вашого острова",
+            " ",
+            "§cУВАГА! Покращувати острів може тільки",
+            "§cвласник або співвласник",
+            " ",
+            "§e▸ Натисніть, щоб покращити острів"
+        ],
+        "en": [
+            " ",
+            "§7Buying upgrades for your island",
+            " ",
+            "§cATTENTION! Only the owner or co-owner",
+            "§ccan upgrade the island",
+            " ",
+            "§e▸ Click to upgrade the island"
+        ]
+    },
+    "ISLAND_PROFILE_UPGRADE_NAME": {
+        "ru": "Улучшение острова",
+        "ua": "Покращення острова",
+        "en": "Island upgrade"
+    },
+    "ISLAND_RANK_CO_OWNER": {
+        "ru": [
+            " ",
+            "§7Доступные права:",
+            "§8• §7Все права участника острова",
+            "§8• §7Покупка и установка биомов",
+            "§8• §7Управления правами участников острова",
+            "§8• §7Улучшение острова",
+            "§8• §7Управление флагами острова",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Доступні права:",
+            "§8• §7Всі права учасника острова",
+            "§8• §7Купівля і установка біомів",
+            "§8• §7Управління правами користувачів острова",
+            "§8• §7Покращення острова",
+            "§8• §7Керування прапорами острова",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Available rights:",
+            "§8• §7All rights of a member of the island",
+            "§8• §7Buying and installing biomes",
+            "§8• §7Island member rights management",
+            "§8• §7Island upgrade",
+            "§8• §7Island flags management",
+            " "
+        ]
+    },
+    "ISLAND_RANK_MEMBER": {
+        "ru": [
+            " ",
+            "§7Доступные права:",
+            "§8• §7Телепортация на остров",
+            "§8• §7Взаимодействие с территорией острова",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Доступні права:",
+            "§8• §7Телепортація на острів",
+            "§8• §7Взаємодія з територією острова",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Available rights:",
+            "§8• §7Teleport to island",
+            "§8• §7Interaction with the territory of the island",
+            " "
+        ]
+    },
+    "ISLAND_REGUEST_GUI_NAME": {
+        "ru": "Активные приглашения",
+        "ua": "Активні запрошення",
+        "en": "Active invitations"
+    },
+    "ISLAND_REMOVED": {
+        "ru": "$SB_PREFIX$Остров успешно удален, вы были перемещены на спавн",
+        "ua": "§6SkyBlock §8| §fОстрів успішно видалений, ви були переміщені на спавн",
+        "en": "§6SkyBlock §8| §fIsland successfully removed, you have been spawned"
+    },
+    "ISLAND_REMOVED_MEMBER": {
+        "ru": "$SB_PREFIX$Владелец острова удалил свой остров, вы были перемещены на спавн",
+        "ua": "§6SkyBlock §8| §fВласник острова видалив свій острів, ви були переміщені на спавн",
+        "en": "§6SkyBlock §8| §fThe owner of the island has deleted their island, you were moved to spawn"
+    },
+    "ISLAND_REMOVE_IGNORE_PLAYER": {
+        "ru": "$SB_PREFIX$%s §fбыл удален участником %s§f из списка нежелательных игроков острова",
+        "ua": "§6SkyBlock §8| %s §fбув видалений учасником %s§f з списку небажаних гравців острова",
+        "en": "§6SkyBlock §8| %s §fhas been removed by player %s§f from the list of unwanted island players"
+    },
+    "ISLAND_REMOVE_MEMBER_GUI_NAME": {
+        "ru": "Удалить участника ?",
+        "ua": "Видалити учасника?",
+        "en": "Delete a player?"
+    },
+    "ISLAND_REMOVE_MEMBER_LORE": {
+        "ru": [
+            "",
+            "§7Вы уверены, что хотите удалить",
+            "§7с вашего привата данного",
+            "§7участника ?",
+            ""
+        ],
+        "ua": [
+            "",
+            "§7Ви впевнені, що хочете видалити",
+            "§7з вашого привату цього",
+            "§7учасника?",
+            ""
+        ],
+        "en": [
+            "",
+            "§7Are you sure you want to delete",
+            "§7this player from",
+            "§7your private?",
+            ""
+        ]
+    },
+    "ISLAND_REQUESTS_ERROR": {
+        "ru": "$SB_PREFIX$§cОшибка, у вас уже есть остров, приглашения вам не нужны",
+        "ua": "§6SkyBlock §8| §cПомилка, у вас вже є острів, запрошення вам не потрібні",
+        "en": "§6SkyBlock §8| §cError, you already have an island, you don't need invitations"
+    },
+    "ISLAND_REQUESTS_ITEM_HEAD_LORE": {
+        "ru": [
+            "",
+            "§7Заявка будет удалена",
+            "§7через §c%s §7%s",
+            "",
+            "§7Владелец острова:",
+            " §f%s",
+            "",
+            "§e▸ ЛКМ, чтобы принять запрос",
+            "§e▸ ПКМ, чтобы отклонить"
+        ],
+        "ua": [
+            "",
+            "§7Заявка буде видалена",
+            "§7через §c%s §7%s",
+            "",
+            "§7Власник острова:",
+            " §f%s",
+            "",
+            "§e▸ ЛКМ, щоб прийняти запит",
+            "§e▸ ПКМ, щоб відхилити"
+        ],
+        "en": [
+            "",
+            "§7Request will be deleted",
+            "§7in §c%s §7%s",
+            "",
+            "§7Island owner:",
+            " §f%s",
+            "",
+            "§e▸ LMC to accept request",
+            "§e▸ RMC to decline request"
+        ]
+    },
+    "ISLAND_RESET": {
+        "ru": "$SB_PREFIX$Ваш остров был очищен и пересоздан",
+        "ua": "§6SkyBlock §8| §fВаш острів був очищений і перебудований",
+        "en": "§6SkyBlock §8| §fYour island has been cleared and removed"
+    },
+    "ISLAND_RESET_GUI_NAME": {
+        "ru": "Пересоздать остров ?",
+        "ua": "Перестворити острів?",
+        "en": "Recreate the island?"
+    },
+    "ISLAND_RESET_LORE": {
+        "ru": [
+            "",
+            "§7Вы уверены, что хотите очистить",
+            "§7территорию своего острова и начать",
+            "§7все с чистого листа ?",
+            "",
+            "§cВНИМАНИЕ! Действие не обратимо!"
+        ],
+        "ua": [
+            "",
+            "§7Ви впевнені, що хочете очистити",
+            "§7територію свого острова і почати",
+            "§7все з чистого аркуша?",
+            "",
+            "§cУВАГА! Дія не є зворотньою!"
+        ],
+        "en": [
+            "",
+            "§7Are you sure you want to clear",
+            "§7territory of your island",
+            "§7and start all over again?",
+            "",
+            "§cATTENTION! The action is not reversible!"
+        ]
+    },
+    "ISLAND_ROCKS_LORE": {
+        "ru": [
+            " ",
+            "§7Версия острова с небольшими камнями",
+            "§7по всей поверхности и немного отличным",
+            "§7от стандартного оформлением.",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Версія острова з невеликим камінням",
+            "§7по всій поверхні і дещо відмінним",
+            "§7від стандартного оформлення.",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7A version of the island with small stones",
+            "§7all over the surface and a slightly different decoration",
+            "§7from the standard one.",
+            " ",
+            "§e▸ Click to choose this island"
+        ]
+    },
+    "ISLAND_ROCKS_NAME": {
+        "ru": "Каменистый остров",
+        "ua": "Кам'янистий острів",
+        "en": "Rocky island"
+    },
+    "ISLAND_RUINES_LORE": {
+        "ru": [
+            " ",
+            "§7Возможно на этом острове выживал какой-то",
+            "§7другой игрок до тебя... Шутка! ",
+            "§7Еще один неплохой вариант для старта.",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Можливо, на цьому острові виживав якийсь",
+            "§7інший гравець до тебе ... Жарт! ",
+            "§7Ще один непоганий варіант для старту.",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7Perhaps some other player survived",
+            "§7on this island before you ... Just kiding! ",
+            "§7Another good place to start.",
+            " ",
+            "§e▸ Click to choose this island"
+        ]
+    },
+    "ISLAND_RUINES_NAME": {
+        "ru": "Остров в руинах",
+        "ua": "Острів в руїнах",
+        "en": "Island in ruins"
+    },
+    "ISLAND_SETHOME": {
+        "ru": "$SB_PREFIX$Точка дома установлена (§7%s§f)",
+        "ua": "§6SkyBlock §8| §fТочка будинку встановлена (§7%s§f)",
+        "en": "§6SkyBlock §8| §fHouse point is set (§7%s§f)"
+    },
+    "ISLAND_SETHOME_ERROR": {
+        "ru": "$SB_PREFIX$§cВы не можете установить точку дома в этой локации",
+        "ua": "§6SkyBlock §8| §cВи не можете встановити точку будинку в цій локації",
+        "en": "§6SkyBlock §8| §cYou cannot set a house point in this location."
+    },
+    "ISLAND_TAIGA_LORE": {
+        "ru": [
+            " ",
+            "§7Йо-хо-хо, любите снег и мороз?",
+            "§7Тогда данный остров точно для вас,",
+            "§7на нем даже есть столб в виде леденца,",
+            "§7ну не чудо ли?",
+            " ",
+            "§e▸ Нажмите, чтобы выбрать этот остров"
+        ],
+        "ua": [
+            " ",
+            "§7Йо-хо-хо, любите сніг і мороз?",
+            "§7Тоді цей острів точно для вас,",
+            "§7на ньому навіть є стовп у вигляді льодяника,",
+            "§7хіба не диво?",
+            " ",
+            "§e▸ Натисніть, щоб обрати цей острів"
+        ],
+        "en": [
+            " ",
+            "§7Yo-ho-ho, do you like snow and frost?",
+            "§7Then this island is for you,",
+            "§7it even has a pillar in the form of a lollipop,",
+            "§7isn't it wonderful?",
+            " ",
+            "§e▸ Click to choose this island"
+        ]
+    },
+    "ISLAND_TAIGA_NAME": {
+        "ru": "Снежный остров",
+        "ua": "Сніговий острів",
+        "en": "Snow island"
+    },
+    "ISLAND_TELEPORT_HOME": {
+        "ru": "$SB_PREFIX$Вы были телепортированы на остров (владелец - %s§f)",
+        "ua": "§6SkyBlock §8| §fВи були телепортовані на острів (власник - %s§f)",
+        "en": "§6SkyBlock §8| §fYou have been teleported to island (owner - %s§f)"
+    },
+    "ISLAND_TOP_KILLS_HOLO": {
+        "ru": [
+            "§6§lТоп по убийствам",
+            "§fТоп игроков по кол-ву",
+            "§fубитых игроков"
+        ],
+        "ua": [
+            "§6§lТоп по вбивствах",
+            "§fТоп гравців по кількості",
+            "§fвбитих гравців"
+        ],
+        "en": [
+            "§6§lTop kills",
+            "§fTop players by number of",
+            "§fplayers killed"
+        ]
+    },
+    "ISLAND_TOP_LEVEL": {
+        "ru": "уровень",
+        "ua": "рівень",
+        "en": "level"
+    },
+    "ISLAND_TOP_LEVEL_HOLO": {
+        "ru": [
+            "§6§lТоп по уровню острова",
+            "§fТоп владельцев островов",
+            "§fпо уровню их острова"
+        ],
+        "ua": [
+            "§6§lТоп по рівню острова",
+            "§fТоп власників островів",
+            "§fпо по рівню їхнього острова"
+        ],
+        "en": [
+            "§6§lTop by island level",
+            "§fTop island owners by",
+            "§ftheir islands levels"
+        ]
+    },
+    "ISLAND_UPGRADED_TERRITORY_LORE": {
+        "ru": [
+            " ",
+            "§7Увеличение максимального размера вашего острова",
+            " ",
+            "§7Текущий уровень улучшения: §a%s",
+            "§7Максимальный уровень: §c5",
+            " "
+        ],
+        "ua": [
+            " ",
+            "§7Збільшення максимального розміру вашого острова",
+            " ",
+            "§7Поточний рівень покращення: §a%s",
+            "§7Максимальний рівень: §c5",
+            " "
+        ],
+        "en": [
+            " ",
+            "§7Increasing the maximum size of your island",
+            " ",
+            "§7Current upgrade level: §a%s",
+            "§7Maximum level: §c5",
+            " "
+        ]
+    },
+    "ISLAND_UPGRADE_BUY_ERROR": {
+        "ru": "$SB_PREFIX$У вас недостаточно §aизумрудных блоков§f для этой покупки (необходимо §7x%s§f)",
+        "ua": "§6SkyBlock §8| §fУ вас недостатньо §aсмарагдових блоків§f для цієї покупки (необхідно §7x%s§f)",
+        "en": "§6SkyBlock §8| §fYou don't have enough §aemerald blocks§f for this purchase (needed §7x%s§f)"
+    },
+    "ISLAND_UPGRADE_BUY_GOLD_ERROR": {
+        "ru": "$SB_PREFIX$У вас недостаточно §eзолота §f для этой покупки (необходимо §e%s§f)",
+        "ua": "§6SkyBlock §8| §fУ вас недостатньо §eзолота §f для цієї покупки (необхідно §e%s§f)",
+        "en": "§6SkyBlock §8| §fYou don't have enough §egold §f for this purchase (needed §e%s§f)"
+    },
+    "ISLAND_UPGRADE_EFFICIENCY_FURNACE_LORE": {
+        "ru": [
+            "",
+            "§7С шансом 5% печь выдаст в 2 раза",
+            "§7больше ресурсов после плавки"
+        ],
+        "ua": [
+            null,
+            "§7З шансом 5% піч видасть в 2 рази",
+            "§7більше ресурсів після плавки"
+        ],
+        "en": [
+            " ",
+            "§7With a 5% chance, the furnace will give out 2 times",
+            "§7more resources after melting"
+        ]
+    },
+    "ISLAND_UPGRADE_EFFICIENCY_FURNACE_NAME": {
+        "ru": "Двойная печь",
+        "ua": "Подвійна піч",
+        "en": "Double furnace"
+    },
+    "ISLAND_UPGRADE_EXPENSIVE_PLANTS_LORE": {
+        "ru": [
+            "",
+            "§7С шансом 25% ваши культуры будут",
+            "§7расти быстрее",
+            "",
+            "§8Пшеница, Картошка, Морковь, Свекла, Адский нарост"
+        ],
+        "ua": [
+            null,
+            "§7З шансом 25% ваші культури будуть",
+            "§7рости швидше",
+            "",
+            "§8Пшениця, Картопля, Морква, Буряк, Пекельний наріст"
+        ],
+        "en": [
+            " ",
+            "§7With a 25% chance your crops will",
+            "§7grow faster",
+            "",
+            "§8Wheat, Potatoes, Carrots, Beets, Infernal Growth"
+        ]
+    },
+    "ISLAND_UPGRADE_EXPENSIVE_PLANTS_NAME": {
+        "ru": "Тяга к солнцу",
+        "ua": "Тяга до сонця",
+        "en": "Craving for the sun"
+    },
+    "ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE": {
+        "ru": [
+            "",
+            "§7Любое топливо в печи горит в 1.5 раза дольше"
+        ],
+        "ua": [
+            null,
+            "§7Будь-яке паливо в печі горить в 1.5 рази довше"
+        ],
+        "en": [
+            " ",
+            "§7Any fuel in the stove burns 1.5 times longer"
+        ]
+    },
+    "ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME": {
+        "ru": "Топливный барон",
+        "ua": "Паливний барон",
+        "en": "Fuel baron"
+    },
+    "ISLAND_UPGRADE_NETHER_LORE": {
+        "ru": [
+            "",
+            "§7Открывает доступ в ад",
+            "§7и адскую шахту"
+        ],
+        "ua": [
+            null,
+            "§7Відкриває доступ до пекла",
+            "§7та пекельну шахту"
+        ],
+        "en": [
+            " ",
+            "§7Opens access to hell",
+            "§7and hellish mine"
+        ]
+    },
+    "ISLAND_UPGRADE_NETHER_NAME": {
+        "ru": "Адские мелочи",
+        "ua": "Пекельні дрібниці",
+        "en": "Hellish little things"
+    },
+    "ISLAND_UPGRADE_TERRITORY_LORE": {
+        "ru": [
+            " ",
+            "§7Увеличение максимального размера вашего острова",
+            " ",
+            "§7Текущий уровень улучшения: §a%s",
+            "§7Максимальный уровень: §c5",
+            " ",
+            "§7Цена: §ax%s изумрудных блоков",
+            " ",
+            "§e▸ Нажмите, чтобы увеличить размер"
+        ],
+        "ua": [
+            " ",
+            "§7Збільшення максимального розміру вашого острова",
+            " ",
+            "§7Поточний рівень покращення: §a%s",
+            "§7Максимальний рівень: §c5",
+            " ",
+            "§7Вартість: §ax%s смарагдових блоків",
+            " ",
+            "§e▸ Натисніть, щоб збільшити розмір"
+        ],
+        "en": [
+            " ",
+            "§7Increasing the maximum size of your island",
+            " ",
+            "§7Current upgrade level: §a%s",
+            "§7Maximum level: §c5",
+            " ",
+            "§7Price: §ax%s emerald blocks",
+            " ",
+            "§e▸ Click to enlarge"
+        ]
+    },
+    "ISLAND_UPGRADE_TERRITORY_NAME": {
+        "ru": "Улучшение территории",
+        "ua": "Покращення території",
+        "en": "Improvement of the territory"
+    },
+    "ISLAND_WARP_REMOVED": {
+        "ru": "§cВаш варп %s §cбыл удален, т.к. остров на котором он стоял стал приватным или вы были удалены с острова",
+        "ua": "§cВаш варп %s §cбув видалений, тому що острів на якому він стояв став приватним або ви були видалені з острова",
+        "en": "§cYour warp %s §chas been removed because the island on which it stood became private or you have been removed from the island"
+    },
+    "ISLAND_YOU_NOT_OWNER": {
+        "ru": "У вас нет прав на данное действие! Вам нужно быть модератором или владельцем данного острова",
+        "ua": "У вас немає прав на цю дію! Вам потрібно бути модератором або власником цього острова",
+        "en": "You do not have permission to do this! You need to be a moderator or the owner of this island"
+    },
+    "SKYBLOCK_CHOISED_GUI_NAME": {
+        "ru": "Выбор острова",
+        "ua": "Вибір острова",
+        "en": "Choose island"
+    },
+    "SKYBLOCK_SHOP_BLOCKS": {
+        "ru": "Магазин блоков",
+        "ua": "Магазин блоків",
+        "en": "Blocks shop"
+    },
+    "SKYBLOCK_SHOP_CUSTOM": {
+        "ru": "Магазин редкостей",
+        "ua": "Магазин рідкостей",
+        "en": "Rarity shop"
+    },
+    "SKYBLOCK_SHOP_EXCHANGER": {
+        "ru": "Магазин обменник",
+        "ua": "Магазин обмінник",
+        "en": "Exchanger shop"
+    },
+    "SKYBLOCK_SHOP_FARMING": {
+        "ru": "Магазин фермерства",
+        "ua": "Магазин фермерства",
+        "en": "Farming shop"
+    },
+    "SKYBLOCK_SHOP_LOOT": {
+        "ru": "Магазин дропа",
+        "ua": "Магазин дропа",
+        "en": "Drop shop"
+    },
+    "SKYBLOCK_SHOP_OTHER": {
+        "ru": "Магазин разного",
+        "ua": "Магазин різного",
+        "en": "Other shop"
+    },
+    "SKYBLOCK_SHOP_RES": {
+        "ru": "Магазин ресурсов",
+        "ua": "Магазин ресурсів",
+        "en": "Resources shop"
+    },
+    "SKYBLOCK_UPGRADE_GUI_NAME": {
+        "ru": "Улучшения",
+        "ua": "Покращення",
+        "en": "Upgrades"
+    }
+}

@@ -1,0 +1,577 @@
+{
+    "VZ_ZOMBIE_KILLS_STAT": {
+        "ru": "Убито зомби",
+        "ua": "Вбито зомбі",
+        "en": "Zombies killed"
+    },
+    "VZ_WIN_VAMPIRES_TITLE": {
+        "ru": "§cПобедили вампиры",
+        "ua": "§cПеремогли вампіри",
+        "en": "§cVampires won"
+    },
+    "VZ_WIN_VAMPIRES_SUBTITLE": {
+        "ru": "§7Все люди мертвы",
+        "ua": "§7Усі люди мертві",
+        "en": "§7All people are dead"
+    },
+    "VZ_WIN_HUMANS_TITLE": {
+        "ru": "§bПобедили люди",
+        "ua": "§bПеремогли люди",
+        "en": "§bHumans won"
+    },
+    "VZ_WIN_HUMANS_SUBTITLE": {
+        "ru": "§7Вампирам не удалось убить всех",
+        "ua": "§7Вампірам не вдалося вбити всіх",
+        "en": "§7The vampires failed to kill everyone"
+    },
+    "VZ_YOU_ARE_VAMPIRE": {
+        "ru": "§cВы погибли",
+        "ua": "§cВи загинули",
+        "en": "§cYou are dead"
+    },
+    "VZ_YOU_ARE_VAMPIRE_SUBTITLE": {
+        "ru": "§7Теперь Вы вампир",
+        "ua": "§7Тепер Ви вампір",
+        "en": "§7Now you are a vampire"
+    },
+    "VZ_WAVE_START": {
+        "ru": "Волна §a№%s §fначалась!",
+        "ua": "Хвиля §a№%s §fрозпочалась!",
+        "en": "Wave §a№%s §fhas begun!"
+    },
+    "VZ_WAVE_TITLE": {
+        "ru": "§6Волна №%s",
+        "ua": "§6Хвиля №%s",
+        "en": "§6Wave №%s"
+    },
+    "VZ_BOARD_GOLD": {
+        "ru": "§fЗолота: §6%s",
+        "ua": "§fЗолота: §6%s",
+        "en": "§fGold: §6%s"
+    },
+    "VZ_BOARD_BLOOD": {
+        "ru": "§fКрови: §4%s",
+        "ua": "§fКрові: §4%s",
+        "en": "§fBlood: §4%s"
+    },
+    "VZ_BOARD_WAVE": {
+        "ru": "§fВолна: §a%s",
+        "ua": "§fХвиля: §a%s",
+        "en": "§fWave: §a%s"
+    },
+    "VZ_BOARD_WAVE_TIME": {
+        "ru": "§fВремя: §6%s",
+        "ua": "§fЧас: §6%s",
+        "en": "§fTime: §6%s"
+    },
+    "VZ_BOARD_VAMPIRES": {
+        "ru": "§fВампиров: §c%s",
+        "ua": "§fВампірів: §c%s",
+        "en": "§fVampires: §c%s"
+    },
+    "VZ_BOARD_HUMANS": {
+        "ru": "§fВыживших: §b%s",
+        "ua": "§fВижили: §b%s",
+        "en": "§fSurvived: §b%s"
+    },
+    "VZ_BOARD_ROLE": {
+        "ru": "§fВы: §e%s",
+        "ua": "§fВи: §e%s",
+        "en": "§fYou: §e%s"
+    },
+    "VZ_HUMAN_ROLE": {
+        "ru": "§bЧеловек",
+        "ua": "§bЛюдина",
+        "en": "§bHuman"
+    },
+    "VZ_VAMPIRE_ROLE": {
+        "ru": "§cВампир",
+        "ua": "§cВампір",
+        "en": "§cVampire"
+    },
+    "VZ_VAMPIRES_SHOP_ITEM": {
+        "ru": "§eСпособности вампиров",
+        "ua": "§eЗдібності вампірів",
+        "en": "§eVampire's abilities"
+    },
+    "VZ_VAMPIRES_SHOP_ITEM_LORE": {
+        "ru": [
+            "§7Покупка способностей за кровь",
+            "§7Нажмите ПКМ, чтобы открыть"
+        ],
+        "ua": [
+            "§7Купівля здібностей за кров",
+            "§7Натисніть ПКМ, щоб відкрити"
+        ],
+        "en": [
+            "§7Buying abilities for blood",
+            "§7RMC to open"
+        ]
+    },
+    "VZ_HUMANS_SHOP_ITEM": {
+        "ru": "§eМагазин",
+        "ua": "§eМагазин",
+        "en": "§eStore"
+    },
+    "VZ_HUMANS_SHOP_ITEM_LORE": {
+        "ru": [
+            "§7Покупка и прокачка предметов за золото",
+            "§7Нажмите ПКМ, чтобы открыть магазин"
+        ],
+        "ua": [
+            "§7Купівля та прокачування предметів за золото",
+            "§7Натисніть ПКМ, щоб відкрити магазин"
+        ],
+        "en": [
+            "§7Buying and upgrading items for gold",
+            "§7RMC to open store"
+        ]
+    },
+    "VZ_ADD_BLOOD": {
+        "ru": "§4+%s крови",
+        "ua": "§4+%s крови",
+        "en": "§4+%s blood"
+    },
+    "VZ_ADD_GOLD": {
+        "ru": "§6+%s %s",
+        "ua": "§6+%s %s",
+        "en": "§6+%s %s"
+    },
+    "VZ_SHOP_MENU": {
+        "ru": "Магазин",
+        "ua": "Магазин",
+        "en": "Store"
+    },
+    "VZ_SHOP_PURCHASE": {
+        "ru": "§fВы приобрели §a%s",
+        "ua": "§fВи придбали §a%s",
+        "en": "§fYou purchased §a%s"
+    },
+    "VZ_SHOP_MENU_PRICE_GOLD": {
+        "ru": [
+            "§f",
+            "§7Стоимость: §6%s %s"
+        ],
+        "ua": [
+            "§f",
+            "§7Вартість: §6%s %s"
+        ],
+        "en": [
+            "§f",
+            "§7Price: §6%s %s"
+        ]
+    },
+    "VZ_SHOP_MENU_PRICE_BLOOD": {
+        "ru": [
+            "§f",
+            "§7Стоимость: §4%s крови"
+        ],
+        "ua": [
+            "§f",
+            "§7Вартість: §4%s крові"
+        ],
+        "en": [
+            "§f",
+            "§7Price: §4%s blood"
+        ]
+    },
+    "VZ_SHOP_MENU_ALREADY_PURCHASED": {
+        "ru": [
+            "§f",
+            "§cУже приобретено"
+        ],
+        "ua": [
+            "§f",
+            "§cВже придбано"
+        ],
+        "en": [
+            "§f",
+            "§cAlready purchased"
+        ]
+    },
+    "VZ_SHOP_MENU_CLICK": {
+        "ru": [
+            "§f",
+            "§e▸ Нажмите, чтобы приобрести"
+        ],
+        "ua": [
+            "§f",
+            "§e▸ Натисніть, щоб придбати"
+        ],
+        "en": [
+            "§f",
+            "§e▸ Click to purchase"
+        ]
+    },
+    "VZ_SHOP_MENU_NO_BLOOD": {
+        "ru": [
+            "§f",
+            "§cНедостаточно крови для покупки"
+        ],
+        "ua": [
+            "§f",
+            "§cНедостатньо крові для покупки"
+        ],
+        "en": [
+            "§f",
+            "§cNot enough blood to buy"
+        ]
+    },
+    "VZ_SHOP_MENU_NO_GOLD": {
+        "ru": [
+            "§f",
+            "§cНедостаточно золота для покупки"
+        ],
+        "ua": [
+            "§f",
+            "§cНедостатньо золота для покупки"
+        ],
+        "en": [
+            "§f",
+            "§cNot enough gold to buy"
+        ]
+    },
+    "VZ_WAVES_STARTING": {
+        "ru": "Зомби начнут появляться через §a15 §fсекунд...",
+        "ua": "Зомбі почнуть з'являтися через §a15 §fсекунд...",
+        "en": "Zombies will start spawning in §a15 §fseconds..."
+    },
+    "VZ_REINCARNATION_ACTIVATED": {
+        "ru": "Вы превратились в летучую мышь! Чтобы отключить превращение, нажмите на пробел два раза",
+        "ua": "Ви перетворилися на кажана! Щоб вимкнути перетворення, натисніть двічі на пробіл.",
+        "en": "You have turned into a bat! To turn off the transformation, press SPACE twice"
+    },
+    "VZ_REINCARNATION_COOLDOWN": {
+        "ru": "Подождите немного перед следующим превращением",
+        "ua": "Зачекайте трохи перед наступним перетворенням",
+        "en": "Wait a little before the next transformation"
+    },
+    "VZ_ZOMBIE_WAVE_ACTIVATED": {
+        "ru": "§fВампир %s §fпризвал волну зомби возле себя!",
+        "ua": "§fВампір %s §fзакликав хвилю зомбі біля себе!",
+        "en": "§fVanpire %s §fsummoned a wave of zombies around him!"
+    },
+    "VZ_GLOWING_ACTIVATED": {
+        "ru": "§fВампир %s §fподсветил всех выживших игроков на 15 секунд",
+        "ua": "§fВампір %s §fпідсвітив усіх гравців, що вижили, на 15 секунд",
+        "en": "§fVampire %s §fhighlighted all those who survived for 15 seconds"
+    },
+    "VZ_SHOP_HEAL_POTION_NAME": {
+        "ru": "Зелье моментального лечения",
+        "ua": "Зілля моментального лікування",
+        "en": "Instant Heal Potion"
+    },
+    "VZ_SHOP_HEAL_POTION_2_NAME": {
+        "ru": "Зелье моментального лечения (Взрывное)",
+        "ua": "Зілля моментального лікування (Вибухове)",
+        "en": "Instant Heal Potion (Explosive)"
+    },
+    "VZ_SHOP_STRENGTH_POTION_NAME": {
+        "ru": "Зелье силы",
+        "ua": "Зілля сили",
+        "en": "Strength Potion"
+    },
+    "VZ_SHOP_REGEN_POTION_NAME": {
+        "ru": "Зелье регенерации",
+        "ua": "Зілля регенерації",
+        "en": "Regeneration Potion"
+    },
+    "VZ_SHOP_GLOWING_NAME": {
+        "ru": "Вампирское зрение",
+        "ua": "Вампірський зір",
+        "en": "Vampire sight"
+    },
+    "VZ_SHOP_GLOWING_DESCRIPTION": {
+        "ru": [
+            "§7Подсвечивает всех выживших игроков",
+            "§7на 15 секунд"
+        ],
+        "ua": [
+            "§7Підсвічує всіх гравців, що вижили,",
+            "§7на 15 секунд"
+        ],
+        "en": [
+            "§7Highlights all those who survived",
+            "§7for 15 seconds"
+        ]
+    },
+    "VZ_SHOP_ADDITIONAL_HEALTH_NAME": {
+        "ru": "Дополнительное здоровье",
+        "ua": "Додаткове здоров'я",
+        "en": "Additional health"
+    },
+    "VZ_SHOP_ADDITIONAL_HEALTH_DESCRIPTION": {
+        "ru": [
+            "§7Вы получаете в 2 раза больше",
+            "§7здоровья до следующей смерти"
+        ],
+        "ua": [
+            "§7Ви отримуєте в 2 рази більше",
+            "§7здоров'я до наступної смерті"
+        ],
+        "en": [
+            "§7You get 2 times more",
+            "§7health until the next death"
+        ]
+    },
+    "VZ_SHOP_REINCARNATION_NAME": {
+        "ru": "Перевоплощение",
+        "ua": "Перевтілення",
+        "en": "Reincarnation"
+    },
+    "VZ_SHOP_REINCARNATION_DESCRIPTION": {
+        "ru": [
+            "§7До конца игры при нажатии Shift",
+            "§7Вы превращаетесь в летучую мышь",
+            "§7и получаете полет до следующего",
+            "§7нажатия Shift, при этом не можете",
+            "§7 атаковать. Перезарядка 5 секунд"
+        ],
+        "ua": [
+            "§7До кінця гри при натисканні Shift",
+            "§7Ви перетворитесь на кажана",
+            "§7і отримаєте політ до наступного",
+            "§7натискання Shift, при цьому не можете",
+            "§7атакувати. Перезарядження 5 секунд"
+        ],
+        "en": [
+            "§7Until the end of the game, when pressing Shift,",
+            "§7you turn into a bat",
+            "§7and get a flight until the next time you",
+            "§7press Shift, at the same time you cannot",
+            "§7attack. Recharge is 5 secs"
+        ]
+    },
+    "VZ_SHOP_SUPER_STRENGTH_1_NAME": {
+        "ru": "Суперсила",
+        "ua": "Суперсила",
+        "en": "Superpower"
+    },
+    "VZ_SHOP_SUPER_STRENGTH_1_DESCRIPTION": {
+        "ru": [
+            "§7После покупки Вы получите эффект",
+            "§7силы I уровня на 15 секунд"
+        ],
+        "ua": [
+            "§7Після покупки Ви отримаєте ефект",
+            "§7сили I рівня на 15 секунд"
+        ],
+        "en": [
+            "§7After purchase, you will get the",
+            "§7strength effect I for 15 seconds"
+        ]
+    },
+    "VZ_SHOP_SUPER_STRENGTH_2_NAME": {
+        "ru": "Супер-суперсила",
+        "ua": "Супер-суперсила",
+        "en": "Mega-superpower"
+    },
+    "VZ_SHOP_SUPER_STRENGTH_2_DESCRIPTION": {
+        "ru": [
+            "§7После покупки Вы получите эффект",
+            "§7силы II уровня на 25 секунд"
+        ],
+        "ua": [
+            "§7Після покупки Ви отримаєте ефект",
+            "§7сили II рівня на 25 секунд"
+        ],
+        "en": [
+            "§7After purchase, you will get the",
+            "§7strength effect II for 25 seconds"
+        ]
+    },
+    "VZ_SHOP_JUMP_NAME": {
+        "ru": "Неведомая мощь",
+        "ua": "Невідома міць",
+        "en": "Unknown power"
+    },
+    "VZ_SHOP_JUMP_DESCRIPTION": {
+        "ru": [
+            "§7После покупки Вы получите эффект",
+            "§7прыгучести III до следующей смерти"
+        ],
+        "ua": [
+            "§7Після покупки Ви отримаєте ефект",
+            "§7стрибучості III до наступної смерті"
+        ],
+        "en": [
+            "§7After purchase, you will get the",
+            "§7jumping effecr III until the next death"
+        ]
+    },
+    "VZ_SHOP_ZOMBIE_WAVE_NAME": {
+        "ru": "Новая орда",
+        "ua": "Нова орда",
+        "en": "Новая орда"
+    },
+    "VZ_SHOP_ZOMBIE_WAVE_DESCRIPTION": {
+        "ru": [
+            "§7Вы призываете волну зомби на том",
+            "§7месте, где сейчас находитесь",
+            "§7",
+            "§cДоступно только 1 раз за игру"
+        ],
+        "ua": [
+            "§7Ви закликаєте хвилю зомбі на тому",
+            "§7місці, де зараз знаходитесь",
+            "§7",
+            "§cДоступно лише 1 раз за гру"
+        ],
+        "en": [
+            "§7You summon a wave of zombies to",
+            "§7where you are now",
+            "§7",
+            "§cAvailable only once per game"
+        ]
+    },
+    "VZ_SHOP_IRON_HELPER_NAME": {
+        "ru": "Железный помощник",
+        "ua": "Залізний помічник",
+        "en": "Iron helper"
+    },
+    "VZ_SHOP_IRON_HELPER_DESCRIPTION": {
+        "ru": [
+            "§7Вы призываете маленького зомби в",
+            "§7железной броне с железным мечом на",
+            "§7вашей локации"
+        ],
+        "ua": [
+            "§7Ви закликаєте маленького зомбі в",
+            "§7залізній броні із залізним мечем на",
+            "§7вашій локації"
+        ],
+        "en": [
+            "§7You summon a little zombie in",
+            "§7iron armor with an iron sword on",
+            "§7your location"
+        ]
+    },
+    "VZ_SHOP_DIAMOND_HELPER_NAME": {
+        "ru": "Алмазный помощник",
+        "ua": "Алмазний помічник",
+        "en": "Diamond helper"
+    },
+    "VZ_SHOP_DIAMOND_HELPER_DESCRIPTION": {
+        "ru": [
+            "§7Вы призываете маленького зомби в",
+            "§7алмазной броне с алмазным мечом на",
+            "§7вашей локации"
+        ],
+        "ua": [
+            "§7Ви закликаєте маленького зомбі в",
+            "§7алмазній броні із алмазним мечем на",
+            "§7вашій локації"
+        ],
+        "en": [
+            "§7You summon a little zombie in",
+            "§7diamond armor with a diamond sword on",
+            "§7your location"
+        ]
+    },
+    "VZ_VAMPIRES_TEAM": {
+        "ru": "Вампиры",
+        "ua": "Вампіри",
+        "en": "Vampires"
+    },
+    "VZ_HUMANS_TEAM": {
+        "ru": "Игроки",
+        "ua": "Гравці",
+        "en": "Player"
+    },
+    "VZ_VAMPIRE_GAME_DESC": {
+        "ru": [
+            "§cВампиры",
+            "§fВаша задача обратить всех людей в вампиров",
+            "§fс помощью своих способностей и орд зомби"
+        ],
+        "ua": [
+            "§cВампіри",
+            "§fВаше завдання перетворити всіх людей на вампірів",
+            "§fза допомогою своїх здібностей і орд зомбі"
+        ],
+        "en": [
+            "§cVampires",
+            "§fYour task is to turn all people into vampires",
+            "§fusing your abilities and hordes of zombies"
+        ]
+    },
+    "VZ_HUMAN_GAME_DESC": {
+        "ru": [
+            "§bЛюди",
+            "§fВаша задача пережить все волны нападения",
+            "§fзомби и вампиров, получая золото за их",
+            "§fубийство и улучшая свое снаряжение"
+        ],
+        "ua": [
+            "§bЛюди",
+            "§fВаше завдання пережити всі хвилі нападу",
+            "§fзомбі і вампірів, одержуючи золото за їхнє",
+            "§fвбивство та покращуючи своє спорядження"
+        ],
+        "en": [
+            "§bHumans",
+            "§fYour task is to survive all the attack waves of",
+            "§fzombies and vampires, getting gold for ",
+            "§fkilling them and upgrading your armor"
+        ]
+    },
+    "MENU_MODE_VZ": {
+        "ru": "VampireZ",
+        "ua": "VampireZ",
+        "en": "Vampires"
+    },
+    "MENU_MODE_VZ_LORE": {
+        "ru": [
+            "§8Хеллоуинский эксклюзив",
+            "§7",
+            "§7Классическое противостояние вампиров",
+            "§7и людей! Побеждайте за людей, отбиваясь",
+            "§7от орд зомби, или порабощайте всех людей",
+            "§7в вампиров и получайте за это уникальные",
+            "§7хеллоуинские титулы",
+            "§f"
+        ],
+        "ua": [
+            "§8Гелловінський ексклюзив",
+            "§7",
+            "§7Класичне протистояння вампірів",
+            "§7та людей! Перемагайте за людей, відбиваючись",
+            "§7від орд зомбі, або поневолюйте всіх людей",
+            "§7у вампірів і отримуйте за це унікальні",
+            "§7гелловінські титули",
+            "§f"
+        ],
+        "en": [
+            "§8Halloween exclusive",
+            "§7",
+            "§7The classic confrontation between vampires",
+            "§7and humans! Win for people by fighting",
+            "§7hordes of zombies off or enslave all people",
+            "§7into vampires and get unique",
+            "§7Halloween titles",
+            "§f"
+        ]
+    },
+    "VZ_ONLY_FIRST_VAMPIRE_WIN": {
+        "ru": [
+            "§cПобеду и хеллоуинский ключ получают",
+            "§cтолько вампиры, выбранные в самом начале",
+            "§cигры"
+        ],
+        "ua": [
+            "§cПеремогу та гелловінський ключ отримують",
+            "§cтільки вампіри, вибрані на самому початку",
+            "§cгри"
+        ],
+        "en": [
+            "§cVictory and Halloween Key are awarded only",
+            "§cto the vampires chosen in the very beginning",
+            "§cof the game"
+        ]
+    },
+    "VZ_VAMPIRES_SELECTED": {
+        "ru": "Выбранные вампиры в этой игре - %s",
+        "ua": "Вибрані вампіри у цій грі - %s",
+        "en": "Vampires chosen in this game - %s"
+    }
+}
