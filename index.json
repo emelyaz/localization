@@ -1,0 +1,14 @@
+{
+  "location": "lang",
+
+  "exclude-rules": {
+    "version != 1.16": [
+      ":1.16:items",
+      ":1.16:entities"
+    ],
+    "version != 1.12": [
+      ":1.12:items",
+      ":1.12:entities"
+    ]
+  }
+}
