@@ -97,6 +97,8 @@ EW_SHOP_IRON_ARMOR_LORE:
 - ' §8▪ §7Железные поножи'
 - ' §8▪ §7Железные ботинки'
 EW_SHOP_DESTROYER: Уничтожитель 3000
+EW_HASTE_POTION:
+- '§7Избавляет от утомления'
 EW_SHOP_DESTROYER_LORE:
 - ' §8▪ §7Уничтожитель 3000'
 - ''
