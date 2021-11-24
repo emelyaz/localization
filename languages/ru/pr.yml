@@ -67,9 +67,13 @@ PR_MODULE_RETRIES_CHALLENGE_INFO: '$PR_PREFIX$Попыток для прохож
 PR_MODULE_RETRIES_CHALLENGE_FAILED: '$PR_PREFIX$Вы не прошли модуль за 3 попытки, поэтому начинаете весь паркур заново'
 
 TOP_MONTHLY_TRACK_PARKOUR_HOLO: |-
-  §6§lЛучшие игроки
+  §6§lТоп по лучшему времени
   §fПо времени прохождения
   §fежемесячного паркура
+TOP_TOTAL_DAILY_RECORD_PARKOUR_HOLO: |-
+  §6§lТоп по статусу лучшего
+  §fПо количеству трасс
+  §fс лучшим временем
 
 PARKOUR_DIFFICULTY_EASY: '§aЛегкая'
 PARKOUR_DIFFICULTY_NORMAL: '§6Нормальная'
