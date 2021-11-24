@@ -74,7 +74,11 @@ TOP_TOTAL_DAILY_RECORD_PARKOUR_HOLO: |-
   §6§lТоп по статусу лучшего
   §fПо количеству трасс
   §fс лучшим временем
-
+PR_RACE:
+  - трасс
+  - а
+  - ы
+  - ''
 PARKOUR_DIFFICULTY_EASY: '§aЛегкая'
 PARKOUR_DIFFICULTY_NORMAL: '§6Нормальная'
 PARKOUR_DIFFICULTY_HARD: '§cСложная'
