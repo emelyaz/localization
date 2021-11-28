@@ -500,23 +500,23 @@ SURVIVAL_ALCHEMIST_CRAFTING_REACTIVE_ELYTRA: |-
 SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_HOE: |-
   §7 - §eНезеритовая мотыга
   §7 - §eНезеритовый блок §8x4
-  §7 - §eЗвезда ада §8x6
+  §7 - §eЗвезда ада §8x3
 SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SHOVEL: |-
   §7 - §eНезеритовая лопата
   §7 - §eНезеритовый блок §8x4
-  §7 - §eЗвезда ада §8x6
+  §7 - §eЗвезда ада §8x3
 SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_PICKAXE: |-
   §7 - §eНезеритовая кирка
   §7 - §eНезеритовый блок §8x4
-  §7 - §eЗвезда ада §8x6
+  §7 - §eЗвезда ада §8x3
 SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_AXE: |-
   §7 - §eНезеритовый топор
   §7 - §eНезеритовый блок §8x4
-  §7 - §eЗвезда ада §8x6
+  §7 - §eЗвезда ада §8x3
 SURVIVAL_ALCHEMIST_CRAFTING_UNBREAKABLE_SWORD: |-
   §7 - §eНезеритовый меч
   §7 - §eНезеритовый блок §8x4
-  §7 - §eЗвезда ада §8x6
+  §7 - §eЗвезда ада §8x3
 
 SURVIVAL_RACE_COOLDOWN_RESET_NAME: '§cСбросить перезарядку на смену расы'
 
