@@ -1,14 +1,12 @@
 {
-  "location": "lang",
-
   "exclude-rules": {
-    "version != 1.16": [
+    "is not 1.16": [
       ":1.16:items",
       ":1.16:entities",
       ":1.16:enchantments",
       ":1.16:potions"
     ],
-    "version != 1.12": [
+    "is not 1.12": [
       ":1.12:items",
       ":1.12:entities",
       ":1.12:enchantments",
