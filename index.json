@@ -1,6 +1,4 @@
 {
-  "location": "lang",
-
   "exclude-rules": {
     "version != 1.16": [
       ":1.16:items",
