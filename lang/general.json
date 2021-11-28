@@ -1255,9 +1255,9 @@
         "en": "§cWait a little %s before next use"
     },
     "COOLDOWN_SEND_MESSAGE": {
-        "ru": "§cПодождите %s перед следующим использованием оффлайн сообщений (если вы будете писать друзьям, то лимита не будет)",
-        "ua": "§cЗачекайте %s перед наступним використанням оффлайн повідомлень (Якщо ви будете писати друзям, то ліміту не буде)",
-        "en": "§cWait a little %s before the next use of offline messages (if you write to friends, then there will be no limit)"
+        "ru": "§cПодождите %s перед следующим использованием оффлайн сообщений",
+        "ua": "§cЗачекайте %s перед наступним використанням оффлайн повідомлень",
+        "en": "§cWait a little %s before the next use of offline messages"
     },
     "CORE_NAME": {
         "ru": "§cСервер",
