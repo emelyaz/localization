@@ -126,9 +126,9 @@
         ],
         "en": [
             "bronze",
-            null,
-            null,
-            null
+            "",
+            "",
+            ""
         ]
     },
     "BW_DIAMOND": {
@@ -148,7 +148,7 @@
             "diamond",
             "",
             "s",
-            null
+            ""
         ]
     },
     "BW_EMERALD": {
@@ -168,7 +168,7 @@
             "emerald",
             "",
             "s",
-            null
+            ""
         ]
     },
     "BW_GAME_STARTED_SUBTITLE": {
@@ -191,9 +191,9 @@
         ],
         "en": [
             "gold",
-            null,
-            null,
-            null
+            "",
+            "",
+            ""
         ]
     },
     "BW_IRON": {
@@ -211,9 +211,9 @@
         ],
         "en": [
             "iron",
-            null,
-            null,
-            null
+            "",
+            "",
+            ""
         ]
     },
     "BW_NO_PLACE_SPAWN": {

@@ -275,7 +275,7 @@
         "en": [
             "§7Click to upgrade",
             "§7the generator %s to§c %s level",
-            null,
+            "",
             "§7Resource Spawn Interval",
             "§7will be: §e%s",
             "",
