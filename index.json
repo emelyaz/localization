@@ -1,4 +1,6 @@
 {
+  "location": "lang",
+
   "exclude-rules": {
     "is not 1.16": [
       ":1.16:items",
