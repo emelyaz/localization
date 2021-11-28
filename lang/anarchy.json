@@ -1,4 +1,7 @@
 {
+    "ANARCHY_PREFIX": {
+        "ru": "§6Anarchy §8| §f"
+    },
     "AIRDROP_PREFIX": {
         "ru": "§6AirDrop §8| §f"
     },
@@ -24,13 +27,13 @@
     },
     "AIRDROP_APPLY_START": {
         "ru": "$AIRDROP_PREFIX$Вы нашли следующие предметы:",
-        "ua": "§6AirDrop §8| §fВи знайшли такі предмети:",
-        "en": "§6AirDrop §8| §fYou found the following things:"
+        "ua": "$AIRDROP_PREFIX$Ви знайшли такі предмети:",
+        "en": "$AIRDROP_PREFIX$You found the following things:"
     },
     "AIRDROP_COLLECTED": {
         "ru": "$AIRDROP_PREFIX$%s §fнашел и забрал §7Ящик с припасами",
-        "ua": "§6AirDrop §8| %s §fЗнайшов і забрав §7Скриня з припасами",
-        "en": "§6AirDrop §8| %s §fFound and taken §7Supply Chest"
+        "ua": "$AIRDROP_PREFIX$%s §fЗнайшов і забрав §7Скриня з припасами",
+        "en": "$AIRDROP_PREFIX$%s §fFound and taken §7Supply Chest"
     },
     "AIRDROP_DISABLE_REGION": {
         "ru": "$ANARCHY_PREFIX$Вы не можете заприватить территорию §7ящика с припасами",
@@ -39,13 +42,13 @@
     },
     "AIRDROP_NEXT_SPAWN": {
         "ru": "$AIRDROP_PREFIX$Следующий §7Ящик с припасами §fупадет в обычном мире через §7%s",
-        "ua": "§6AirDrop §8| §fНаступна §7Скриня з припасами §fвпаде в звичайному світі через §7%s",
-        "en": "§6AirDrop §8| §fNext §7Supply Chest §fwill fall in the normal world in §7%s"
+        "ua": "$AIRDROP_PREFIX$§fНаступна §7Скриня з припасами §fвпаде в звичайному світі через §7%s",
+        "en": "$AIRDROP_PREFIX$§fNext §7Supply Chest §fwill fall in the normal world in §7%s"
     },
     "AIRDROP_SPAWN": {
         "ru": "$AIRDROP_PREFIX$§7Ящик с припасами §fупал в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s",
-        "ua": "§6AirDrop §8| §7Скриня з §fвпала в звичайному світі на координатах X: §a%s §fY: §a%s §fZ: §a%s",
-        "en": "§6AirDrop §8| §7Supply Chest §fhas fallen in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s"
+        "ua": "$AIRDROP_PREFIX$§7Скриня з §fвпала в звичайному світі на координатах X: §a%s §fY: §a%s §fZ: §a%s",
+        "en": "$AIRDROP_PREFIX$§7Supply Chest §fhas fallen in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s"
     },
     "AIRDROP_SPAWN_TITLE": {
         "ru": "§eЯщик с припасами появился!",
@@ -179,8 +182,8 @@
     },
     "ANARCHY_TPPOS_LOBBY": {
         "ru": "$ANARCHY_PREFIX$§cДанная команда не доступна в мире спавна",
-        "ua": "§6Anarchy §8| §cЦя команда не доступна у світі спавна",
-        "en": "§6Anarchy §8| §cThis command is not available in the Spawn world"
+        "ua": "$ANARCHY_PREFIX$§cЦя команда не доступна у світі спавна",
+        "en": "$ANARCHY_PREFIX$§cThis command is not available in the Spawn world"
     },
     "ANARCHY_TPPOS_NO_LOCATION": {
         "ru": "§cОшибка, не удалось найти подходящую локацию... Попробуй еще раз!",
@@ -189,7 +192,7 @@
     },
     "ANARCHY_WAND": {
         "ru": "$ANARCHY_PREFIX$Приват на сервере осуществляется с помощью §eЗолотого блока §7(10 во все стороны от него) §fили §aИзумрудной руды §7(25 во все стороны)",
-        "ua": "§6Anarchy §8| §fПриват на сервері здійснюється за допомогою §eЗолотого блока §7(10 во всі сторони від нього) §fабо §aСмарагдвої руди §7(25 во всі сторони)",
-        "en": "§6Anarchy §8| §fPrivate on the server is done using §eGolden block §7(10 in all directions from it) §for §aEmerald ore §7(25 in all directions)"
+        "ua": "$ANARCHY_PREFIX$Приват на сервері здійснюється за допомогою §eЗолотого блока §7(10 во всі сторони від нього) §fабо §aСмарагдвої руди §7(25 во всі сторони)",
+        "en": "$ANARCHY_PREFIX$Private on the server is done using §eGolden block §7(10 in all directions from it) §for §aEmerald ore §7(25 in all directions)"
     }
 }

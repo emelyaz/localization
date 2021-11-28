@@ -60,15 +60,6 @@
     "CAGE": {
         "ru": "клетка"
     },
-    "ANARCHY_PREFIX": {
-        "ru": "§6Anarchy §8| §f"
-    },
-    "SB_PREFIX": {
-        "ru": "§6SkyBlock §8| §f"
-    },
-    "CREATIVE_PREFIX": {
-        "ru": "§6Creative §8| §f"
-    },
     "COMMON": {
         "ru": "Обычный"
     },
@@ -104,9 +95,6 @@
     },
     "FREE": {
         "ru": "Бесплатно"
-    },
-    "FURNACE": {
-        "ru": "Печка"
     },
     "FW": {
         "ru": "§aСалют!"
