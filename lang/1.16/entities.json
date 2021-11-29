@@ -414,6 +414,131 @@
       "ru": "Кристалл Энда",
       "ua": "Кристал Енду",
       "en": "End Crystal"
+    },
+    "TURTLE": {
+      "ru": "Черепаха",
+      "ua": "Черепаха",
+      "en": "Turtle"
+    },
+    "PHANTOM": {
+      "ru": "Фантом",
+      "ua": "Фантом",
+      "en": "Phantom"
+    },
+    "TRIDENT": {
+      "ru": "Трезубец",
+      "ua": "Тризуб",
+      "en": "Trident"
+    },
+    "COD": {
+      "ru": "Треска",
+      "ua": "Тріска",
+      "en": "Cod"
+    },
+    "SALMON": {
+      "ru": "Лосось",
+      "ua": "Лосось",
+      "en": "Salmon"
+    },
+    "PUFFERFISH": {
+      "ru": "Иглобрюх",
+      "ua": "Скелезуб",
+      "en": "Pufferfish"
+    },
+    "TROPICAL_FISH": {
+      "ru": "Тропическая рыба",
+      "ua": "Тропічна риба",
+      "en": "Tropical Fish"
+    },
+    "DROWNED": {
+      "ru": "Утопленник",
+      "ua": "Водяник",
+      "en": "Drowned"
+    },
+    "DOLPHIN": {
+      "ru": "Дельфин",
+      "ua": "Дельфін",
+      "en": "Dolphin"
+    },
+    "CAT": {
+      "ru": "Кошка",
+      "ua": "Кіт",
+      "en": "Cat"
+    },
+    "PANDA": {
+      "ru": "Панда",
+      "ua": "Панда",
+      "en": "Panda"
+    },
+    "PILLAGER": {
+      "ru": "Разбойник",
+      "ua": "Розбійник",
+      "en": "Pillager"
+    },
+    "RAVAGER": {
+      "ru": "Разоритель",
+      "ua": "Руйнівник",
+      "en": "Ravager"
+    },
+    "TRADER_LLAMA": {
+      "ru": "Лама торговца",
+      "ua": "Лама торговця",
+      "en": "Trader Llama"
+    },
+    "WANDERING_TRADER": {
+      "ru": "Странствующий торговец",
+      "ua": "Мандрівний торговець",
+      "en": "Wandering Trader"
+    },
+    "FOX": {
+      "ru": "Лисица",
+      "ua": "Лисиця",
+      "en": "Fox"
+    },
+    "BEE": {
+      "ru": "Пчела",
+      "ua": "Бджола",
+      "en": "Bee"
+    },
+    "HOGLIN": {
+      "ru": "Хоглин",
+      "ua": "Гоґлін",
+      "en": "Hoglin"
+    },
+    "PIGLIN": {
+      "ru": "Пиглин",
+      "ua": "Піґлін",
+      "en": "Piglin"
+    },
+    "STRIDER": {
+      "ru": "Лавомерка",
+      "ua": "Блукач",
+      "en": "Strider"
+    },
+    "ZOGLIN": {
+      "ru": "Зоглин",
+      "ua": "Зоґлін",
+      "en": "Zoglin"
+    },
+    "PIGLIN_BRUTE": {
+      "ru": "Брутальный пиглин",
+      "ua": "Жорстокий піґлін",
+      "en": "Piglin Brute"
+    },
+    "FISHING_HOOK": {
+      "ru": "Поплавок",
+      "ua": "Поплавець",
+      "en": "Fishing Bobber"
+    },
+    "LIGHTNING": {
+      "ru": "Молния",
+      "ua": "Блискавка",
+      "en": "Lightning Bolt"
+    },
+    "PLAYER": {
+      "ru": "Игрок",
+      "ua": "Гравець",
+      "en": "Player"
     }
   }
 }
