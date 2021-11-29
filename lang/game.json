@@ -1,2303 +1,2303 @@
 {
-    "ARENA_BUSY": {
-        "ru": "§cАрена заполнена, не хватает слотов? Купите §a§lEMERALD§c или выше",
-        "ua": "§cАрена заповнена, не вистачає слотів? Купіть §a§lEMERALD§c або вище",
-        "en": "§cThe arena is full, not enough slots? Buy §a§lEMERALD§c or higher"
-    },
-    "ARENA_RESTART": {
-        "ru": "§cСервер перезагружается...",
-        "ua": "§cСервер перезавантажується...",
-        "en": "§cServer is rebooting..."
-    },
-    "ARENA_START": {
-        "ru": "§cИгра начинается...",
-        "ua": "§cГра розпочинається...",
-        "en": "§cThe game begins..."
-    },
-    "BREAK_BLOCK_UNDER_TEAM": {
-        "ru": "§cВы не можете ломать блоки под своими тиммейтами",
-        "ua": "§cВи не можете ламати блоки під своїми тіммейтами",
-        "en": "§cYou cannot break blocks under your teammates"
-    },
-    "BREAK_EFFECT": {
-        "ru": "эффект сломанной кровати\\яйца",
-        "ua": "ефект зламаного ліжка \\ яйця",
-        "en": "broken bed/egg effect"
-    },
-    "BREAK_EFFECT_SELECTION_MESSAGE": {
-        "ru": "Вы выбрали эффект §a%s",
-        "ua": "Ви обрали ефект §a%s",
-        "en": "You chose effect §a%s"
-    },
-    "COMPASS_ITEM_LORE": {
-        "ru": [
-            "§7Используй его для телепортации к игрокам"
-        ],
-        "ua": [
-            "§7Використовуй його для телепортації до гравців"
-        ],
-        "en": [
-            "§7Use it to teleport to players"
-        ]
-    },
-    "COMPASS_ITEM_NAME": {
-        "ru": "§eТелепортер",
-        "ua": "§eТелепортер",
-        "en": "§eTeleporter"
-    },
-    "COMPASS_MESSAGE": {
-        "ru": "§fИгрок: %s      §fРасстояние: ",
-        "ua": "§fГравець: %s      §fВідстань: ",
-        "en": "§fPlayer: %s      §fDistance: "
-    },
-    "COMPASS_MESSAGE_SPECTATOR": {
-        "ru": "§fБлижайший игрок: %s      §fРасстояние: §a%s",
-        "ua": "§fНайближчий гравець: %s      §fВідстань: §a%s",
-        "en": "§fNearest player: %s      §fDistance: §a%s"
-    },
-    "COMPASS_MODE_CHANGED": {
-        "ru": "Режим локатора изменен на §e%s",
-        "ua": "Режим локатора змінений на §e%s",
-        "en": "Compass mode changed for §e%s"
-    },
-    "COMPASS_MODE_NEAREST_PLAYER": {
-        "ru": "поиск ближайшего игрока",
-        "ua": "пошук найближчого гравця",
-        "en": "search for the nearest player"
-    },
-    "COMPASS_MODE_TEAMMATE": {
-        "ru": "поиск ближайшего тиммейта",
-        "ua": "пошук найближчого тіммейта",
-        "en": "search for the nearest teammate"
-    },
-    "DEATH_MSG_TITLE": {
-        "ru": "§cВы погибли",
-        "ua": "§cВи загинули",
-        "en": "§cYou died"
-    },
-    "FINAL_KILL": {
-        "ru": "%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!",
-        "ua": "%s §fбув вбитий гравцем %s §bФІНАЛЬНЕ ВБИВСТВО!",
-        "en": "%s §fhas been killed by player %s §bFINAL KILLS!"
-    },
-    "GAMEINFO_FORMAT": {
-        "ru": "/gameinfo [канал]",
-        "ua": "/gameinfo [канал]",
-        "en": "/gameinfo [channel]"
-    },
-    "GAME_COSMETIC_0_LORE": {
-        "ru": [
-            "§7Сыграй мелодию на нотах тетивы"
-        ],
-        "ua": [
-            "§7Зіграй мелодію на нотах тятиви"
-        ],
-        "en": [
-            "§7Play the melody on the notes of the bowstring"
-        ]
-    },
-    "GAME_COSMETIC_0_NAME": {
-        "ru": "Ноты",
-        "ua": "Ноти",
-        "en": "Notes"
-    },
-    "GAME_COSMETIC_100_LORE": {
-        "ru": [
-            "§7Начало игры сопровождается праздничным",
-            "§7взрывом фейерверков!"
-        ],
-        "ua": [
-            "§7Початок гри супроводжується святковим",
-            "§7вибухом феєрверків!"
-        ],
-        "en": [
-            "§7The beginning of the game is accompanied by festive",
-            "§7fireworks!"
-        ]
-    },
-    "GAME_COSMETIC_100_NAME": {
-        "ru": "Фейерверк",
-        "ua": "Феєрверк",
-        "en": "Fireworks"
-    },
-    "GAME_COSMETIC_101_LORE": {
-        "ru": [
-            "§7Специально для заядлых кузнецов",
-            "§7подготовлен комплект любимого звучания",
-            "§7молотка об наковальню"
-        ],
-        "ua": [
-            "§7Спеціально для завзятих ковалів",
-            "§7підготовлений комплект улюбленого звучання",
-            "§7молотка об ковадло"
-        ],
-        "en": [
-            "§7Specially for avid blacksmiths there is",
-            "§7a set of your favorite sound of",
-            "§a hammer on the anvil"
-        ]
-    },
-    "GAME_COSMETIC_101_NAME": {
-        "ru": "Кузнечный мастер",
-        "ua": "Ковальський майстер",
-        "en": "Blacksmith"
-    },
-    "GAME_COSMETIC_102_LORE": {
-        "ru": [
-            "§7Мир Края завораживает своими",
-            "§7звуками прямо перед матчем.",
-            "§7Стоит попробовать!"
-        ],
-        "ua": [
-            "§7Світ Края заворожує своїми",
-            "§7звуками прямо перед матчем.",
-            "§7Варто спробувати!"
-        ],
-        "en": [
-            "§7The End world fascinates with its",
-            "§7sounds just before the match.",
-            "§7Worth trying!"
-        ]
-    },
-    "GAME_COSMETIC_102_NAME": {
-        "ru": "Эндермир",
-        "ua": "Ендерсвіт",
-        "en": "Enderworld"
-    },
-    "GAME_COSMETIC_103_LORE": {
-        "ru": [
-            "§7Раскидайте своих врагов их же оружием"
-        ],
-        "ua": [
-            "§7Розкидайте своїх ворогів їх же зброєю"
-        ],
-        "en": [
-            "§7Scatters your enemies with their own weapon"
-        ]
-    },
-    "GAME_COSMETIC_103_NAME": {
-        "ru": "Яйцемёт",
-        "ua": "Яйцестріл",
-        "en": "Egg launcher"
-    },
-    "GAME_COSMETIC_10_LORE": {
-        "ru": [
-            "§7Эффект бессмертия дарует стреле...",
-            "§7бессмертие. Будто она была смертна!"
-        ],
-        "ua": [
-            "§7Ефект безсмертя дарує стрілі...",
-            "§7безсмертя. Ніби вона була смертна!"
-        ],
-        "en": [
-            "§7Immortality effect gives...",
-            "§7immortality for your arrow. As if it were mortal!"
-        ]
-    },
-    "GAME_COSMETIC_10_NAME": {
-        "ru": "Бессмертие",
-        "ua": "Безсмерт",
-        "en": "Immortality"
-    },
-    "GAME_COSMETIC_110_LORE": {
-        "ru": [
-            "§7Такой же красный, как кровь твоих врагов"
-        ],
-        "ua": [
-            "§7Такий же червоний, як кров твоїх ворогів"
-        ],
-        "en": [
-            "§7As red as the blood of your enemies"
-        ]
-    },
-    "GAME_COSMETIC_110_NAME": {
-        "ru": "Красный",
-        "ua": "Червоний",
-        "en": "Red"
-    },
-    "GAME_COSMETIC_111_LORE": {
-        "ru": [
-            "§7Отлично подходит для маскировки зимой!"
-        ],
-        "ua": [
-            "§7Дуже добре підходить для маскування взимку!"
-        ],
-        "en": [
-            "§7Great for winter camouflage!"
-        ]
-    },
-    "GAME_COSMETIC_111_NAME": {
-        "ru": "Белый",
-        "ua": "Білий",
-        "en": "White"
-    },
-    "GAME_COSMETIC_112_LORE": {
-        "ru": [
-            "§7Апельсиновый окрас придаст вам",
-            "§7кислинки в PvP"
-        ],
-        "ua": [
-            "§7Апельсинове забарвлення додасть вам",
-            "§7кислинки в PvP"
-        ],
-        "en": [
-            "§7Orange color will give you",
-            "§7sourness in PvP"
-        ]
-    },
-    "GAME_COSMETIC_112_NAME": {
-        "ru": "Оранжевый",
-        "ua": "Помаранчевий",
-        "en": "Orange"
-    },
-    "GAME_COSMETIC_113_LORE": {
-        "ru": [
-            "§7Великолепно сделанный пурпурный щит"
-        ],
-        "ua": [
-            "§7Чудово зроблений пурпуровий щит"
-        ],
-        "en": [
-            "§7Superbly crafted purple shield"
-        ]
-    },
-    "GAME_COSMETIC_113_NAME": {
-        "ru": "Пурпурный",
-        "ua": "Пурпуровий",
-        "en": "Purple"
-    },
-    "GAME_COSMETIC_114_LORE": {
-        "ru": [
-            "§7В железной броне вы превращаетесь",
-            "§7в голубой вагон."
-        ],
-        "ua": [
-            "§7У залізної броні ви перетворюєтеся",
-            "§7на блакитний вагон."
-        ],
-        "en": [
-            "§7In iron armor you turn into",
-            "§7a blue carriage."
-        ]
-    },
-    "GAME_COSMETIC_114_NAME": {
-        "ru": "Голубой",
-        "ua": "Блакитний",
-        "en": "Blue"
-    },
-    "GAME_COSMETIC_115_LORE": {
-        "ru": [
-            "§7Солнечный щит ослепит своей красотой!"
-        ],
-        "ua": [
-            "§7Сонячний щит засліпить своєю красою!"
-        ],
-        "en": [
-            "§7The sun shield will blind you with its beauty!"
-        ]
-    },
-    "GAME_COSMETIC_115_NAME": {
-        "ru": "Желтый",
-        "ua": "Жовтий",
-        "en": "Yellow"
-    },
-    "GAME_COSMETIC_116_LORE": {
-        "ru": [
-            "§7Не перепутайте с плодом лайма",
-            "§7Да, было и такое"
-        ],
-        "ua": [
-            "§7Не переплутайте з плодом лайма",
-            "§7Так, бувало і таке"
-        ],
-        "en": [
-            "§7Do not confuse with lime fruit",
-            "§7Yes, it happened before"
-        ]
-    },
-    "GAME_COSMETIC_116_NAME": {
-        "ru": "Светло-зеленый",
-        "ua": "Світло-зелений",
-        "en": "Light green"
-    },
-    "GAME_COSMETIC_117_LORE": {
-        "ru": [
-            "§7Самый гламурный щит"
-        ],
-        "ua": [
-            "§7Найгламурніший щит"
-        ],
-        "en": [
-            "§7The most glamorous shield"
-        ]
-    },
-    "GAME_COSMETIC_117_NAME": {
-        "ru": "Розовый",
-        "ua": "Рожевий",
-        "en": "Pink"
-    },
-    "GAME_COSMETIC_118_LORE": {
-        "ru": [
-            "§7Щит серый, словно мышь",
-            "§7Крадитесь также незаметно!"
-        ],
-        "ua": [
-            "§7Щит сірий, немов миша",
-            "§7Крадьтеся також непомітно!"
-        ],
-        "en": [
-            "§7A gray shield, just like a mouse",
-            "§7Sneak just as discreetly!"
-        ]
-    },
-    "GAME_COSMETIC_118_NAME": {
-        "ru": "Серый",
-        "ua": "Сірий",
-        "en": "Gray"
-    },
-    "GAME_COSMETIC_119_LORE": {
-        "ru": [
-            "§7Этот оттенок получился из пепла",
-            "§7Пироманта на SkyWars."
-        ],
-        "ua": [
-            "§7Цей відтінок вийшов з попелу",
-            "§7Пироманта на SkyWars."
-        ],
-        "en": [
-            "§7This shade came from the ashes",
-            "§7of Pyromancer on SkyWars"
-        ]
-    },
-    "GAME_COSMETIC_119_NAME": {
-        "ru": "Серебрянный",
-        "ua": "Срібний",
-        "en": "Silver"
-    },
-    "GAME_COSMETIC_11_LORE": {
-        "ru": [
-            "§7Волны магических сил всех существ",
-            "§7игры будут следовать за вашей стрелой.",
-            "§7Не злите их"
-        ],
-        "ua": [
-            "§7Хвилі магічних сил всіх істот",
-            "§7гри будуть слідувати за вашою стрілою.",
-            "§7Не злите їх"
-        ],
-        "en": [
-            "§7Waves of magical powers of all creatures",
-            "§7will follow you arrow.",
-            "§7Don't make them angry"
-        ]
-    },
-    "GAME_COSMETIC_11_NAME": {
-        "ru": "Зелья",
-        "ua": "Зілля",
-        "en": "Potions"
-    },
-    "GAME_COSMETIC_120_LORE": {
-        "ru": [
-            "§7Если вы не можете выбрать между",
-            "§7зелёным и синим, то это для вас!"
-        ],
-        "ua": [
-            "§7Якщо ви не можете обрати між",
-            "§7зеленим і синім, то це для вас!"
-        ],
-        "en": [
-            "§7If you can't choose between",
-            "§7a green and a blue one, then this is what you need!"
-        ]
-    },
-    "GAME_COSMETIC_120_NAME": {
-        "ru": "Бирюзовый",
-        "ua": "Бірюзовий",
-        "en": "Turquoise"
-    },
-    "GAME_COSMETIC_121_LORE": {
-        "ru": [
-            "§7Роскошный щит для настоящих королей!"
-        ],
-        "ua": [
-            "§7Розкішний щит для справжніх королів!"
-        ],
-        "en": [
-            "§7A luxurious shield for real kings!"
-        ]
-    },
-    "GAME_COSMETIC_121_NAME": {
-        "ru": "Фиолетовый",
-        "ua": "Фіолетовий",
-        "en": "Violet"
-    },
-    "GAME_COSMETIC_122_LORE": {
-        "ru": [
-            "§7Теперь щит — море! Даже стрелы впитывает также"
-        ],
-        "ua": [
-            "§7Тепер щит - море! Навіть стріли вбирає також"
-        ],
-        "en": [
-            "§7Now the shield is the sea! Even arrows are absorbed just as well"
-        ]
-    },
-    "GAME_COSMETIC_122_NAME": {
-        "ru": "Синий",
-        "ua": "Синій",
-        "en": "Blue"
-    },
-    "GAME_COSMETIC_123_LORE": {
-        "ru": [
-            "§7Надеюсь это не то, о чем мы подумали."
-        ],
-        "ua": [
-            "§7Сподіваюся це не те, про що ми подумали."
-        ],
-        "en": [
-            "§7Hope it's not what you thought it is."
-        ]
-    },
-    "GAME_COSMETIC_123_NAME": {
-        "ru": "Коричневый",
-        "ua": "Коричневий",
-        "en": "Brown"
-    },
-    "GAME_COSMETIC_124_LORE": {
-        "ru": [
-            "§7Говорят, зелёный цвет успокаивает",
-            "§7Проверьте на противниках"
-        ],
-        "ua": [
-            "§7Кажуть, зелений колір заспокоює",
-            "§7Перевірте на супротивниках"
-        ],
-        "en": [
-            "§7They say green is soothing",
-            "§7Test on your enemies"
-        ]
-    },
-    "GAME_COSMETIC_124_NAME": {
-        "ru": "Зеленый",
-        "ua": "Зелений",
-        "en": "Green"
-    },
-    "GAME_COSMETIC_125_LORE": {
-        "ru": [
-            "§7Измажьте щит своей душой!"
-        ],
-        "ua": [
-            "§7Ізмажте щит своєю душею!"
-        ],
-        "en": [
-            "§7Smear the shield with your soul!"
-        ]
-    },
-    "GAME_COSMETIC_125_NAME": {
-        "ru": "Черный",
-        "ua": "Чорний",
-        "en": "Black"
-    },
-    "GAME_COSMETIC_126_LORE": {
-        "ru": [
-            "§7Путин, водка, балалайка"
-        ],
-        "ua": [
-            "§7Путін, горілка, балалайка"
-        ],
-        "en": [
-            "§7Putin, vodka, balalaika"
-        ]
-    },
-    "GAME_COSMETIC_126_NAME": {
-        "ru": "Россия",
-        "ua": "Росія",
-        "en": "Russia"
-    },
-    "GAME_COSMETIC_127_LORE": {
-        "ru": [
-            "§7Це Европа"
-        ],
-        "ua": [
-            "§7Це Європа"
-        ],
-        "en": [
-            "§7This is Europe"
-        ]
-    },
-    "GAME_COSMETIC_127_NAME": {
-        "ru": "Украина",
-        "ua": "Україна",
-        "en": "Ukraine"
-    },
-    "GAME_COSMETIC_128_LORE": {
-        "ru": [
-            "§7Опасный и общительный дракончик"
-        ],
-        "ua": [
-            "§7Небезпечний і товариський дракончик"
-        ],
-        "en": [
-            "§7A dangerous and sociable dragon"
-        ]
-    },
-    "GAME_COSMETIC_128_NAME": {
-        "ru": "Дракончик",
-        "ua": "Дракончик",
-        "en": "Dragon"
-    },
-    "GAME_COSMETIC_129_LORE": {
-        "ru": [
-            "§7Портрет последнего Лорда!"
-        ],
-        "ua": [
-            "§7Портрет останнього Лорда!"
-        ],
-        "en": [
-            "§7The portrait of the last Lord!"
-        ]
-    },
-    "GAME_COSMETIC_129_NAME": {
-        "ru": "Скелет",
-        "ua": "Скелет",
-        "en": "Skeleton"
-    },
-    "GAME_COSMETIC_130_LORE": {
-        "ru": [
-            "§7Но вы не бессмертны, нет"
-        ],
-        "ua": [
-            "§7Але ви не безсмертні, ні"
-        ],
-        "en": [
-            "§7But you are not immortal, no"
-        ]
-    },
-    "GAME_COSMETIC_130_NAME": {
-        "ru": "Деад Пул",
-        "ua": "Деад Пул",
-        "en": "Deadpool"
-    },
-    "GAME_COSMETIC_131_LORE": {
-        "ru": [
-            "§7Для музыкальных ценителей"
-        ],
-        "ua": [
-            "§7Для музичних поціновувачів"
-        ],
-        "en": [
-            "§7For music connoisseurs"
-        ]
-    },
-    "GAME_COSMETIC_131_NAME": {
-        "ru": "Гитара",
-        "ua": "Гітара",
-        "en": "Guitar"
-    },
-    "GAME_COSMETIC_132_LORE": {
-        "ru": [
-            "§7Покажите всем, как вы их любите!"
-        ],
-        "ua": [
-            "§7Покажіть всім, як ви їх любите!"
-        ],
-        "en": [
-            "§7Show everyone how much you love them!"
-        ]
-    },
-    "GAME_COSMETIC_132_NAME": {
-        "ru": "Сердце",
-        "ua": "Серце",
-        "en": "Hearts"
-    },
-    "GAME_COSMETIC_133_LORE": {
-        "ru": [
-            "§7Тот самый олень Санты!"
-        ],
-        "ua": [
-            "§7Той самий олень Санти!"
-        ],
-        "en": [
-            "§7The famous Santa's deer!"
-        ]
-    },
-    "GAME_COSMETIC_133_NAME": {
-        "ru": "Олень",
-        "ua": "Олень",
-        "en": "Deer"
-    },
-    "GAME_COSMETIC_134_LORE": {
-        "ru": [
-            "§7Из него выскочит Пикачу!"
-        ],
-        "ua": [
-            "§7З нього вискочить Пікачу!"
-        ],
-        "en": [
-            "§7Pikachu will come out of it!"
-        ]
-    },
-    "GAME_COSMETIC_134_NAME": {
-        "ru": "Покебол",
-        "ua": "Покебол",
-        "en": "Pokeball"
-    },
-    "GAME_COSMETIC_135_LORE": {
-        "ru": [
-            "§7Всякий раз, когда вы убиваете игрока,",
-            "§7вы делаете это, под эффект музыкальных нот!"
-        ],
-        "ua": [
-            "§7Кожний раз, коли ви вбиваєте гравця,",
-            "§7ви робите це під ефект музичних нот!"
-        ],
-        "en": [
-            "§7Every time you kill a player,",
-            "§7you do it to the effect of musical notes!"
-        ]
-    },
-    "GAME_COSMETIC_135_NAME": {
-        "ru": "Убийственная симфония",
-        "ua": "Убивча симфонія",
-        "en": "Murderous symphony"
-    },
-    "GAME_COSMETIC_136_LORE": {
-        "ru": [
-            "§7Всякий раз, когда вы убиваете игрока,",
-            "§7вы даете ему понять, что любите его!"
-        ],
-        "ua": [
-            "§7Кожний раз, коли ви вбиваєте гравця,",
-            "§7ви даєте йому зрозуміти, що любите його!"
-        ],
-        "en": [
-            "§7Every time you kill a player,",
-            "§7you let him know that you love him!"
-        ]
-    },
-    "GAME_COSMETIC_136_NAME": {
-        "ru": "Ромео",
-        "ua": "Ромео",
-        "en": "Romeo"
-    },
-    "GAME_COSMETIC_137_LORE": {
-        "ru": [
-            "§7Всякий раз, когда вы убиваете игрока,",
-            "§7на его труп снисходит гнев небес!"
-        ],
-        "ua": [
-            "§7Кожний раз, коли ви вбиваєте гравця,",
-            "§7на його труп сходить гнів небес!"
-        ],
-        "en": [
-            "§7Every time you kill a player,",
-            "§7the wrath of heaven descends on his corpse!"
-        ]
-    },
-    "GAME_COSMETIC_137_NAME": {
-        "ru": "Повелитель молний",
-        "ua": "Повелитель блискавок",
-        "en": "Lord of lightnings"
-    },
-    "GAME_COSMETIC_138_LORE": {
-        "ru": [
-            "§7Всякий раз, когда вы убиваете игрока,",
-            "§7на его могиле появляется прощальный фейерверк!"
-        ],
-        "ua": [
-            "§7Кожний раз, коли ви вбиваєте гравця,",
-            "§7на його могилі з'являється прощальний феєрверк!"
-        ],
-        "en": [
-            "§7Every time you kill a player,",
-            "§a farewell firework displays on his grave!"
-        ]
-    },
-    "GAME_COSMETIC_138_NAME": {
-        "ru": "Прощальный фейерверк",
-        "ua": "Прощальний феєерверк",
-        "en": "Farewell fireworks"
-    },
-    "GAME_COSMETIC_1_LORE": {
-        "ru": [
-            "§7Отлично дополнит эффект горящей стрелы!"
-        ],
-        "ua": [
-            "§7Відмінно доповнить ефект палаючої стріли!"
-        ],
-        "en": [
-            "§7Perfectly complements the effect of a burning arrow!"
-        ]
-    },
-    "GAME_COSMETIC_1_NAME": {
-        "ru": "Дым",
-        "ua": "Дим",
-        "en": "Smoke"
-    },
-    "GAME_COSMETIC_2_LORE": {
-        "ru": [
-            "§7..и этот тоже отличное дополнение"
-        ],
-        "ua": [
-            "§7..і це теж відмінне доповнення"
-        ],
-        "en": [
-            "§7..and this one is also a great addition"
-        ]
-    },
-    "GAME_COSMETIC_2_NAME": {
-        "ru": "Огонь",
-        "ua": "Вогонь",
-        "en": "Fire"
-    },
-    "GAME_COSMETIC_3_LORE": {
-        "ru": [
-            "§7Представьте, что вы Амур. Стреляйте."
-        ],
-        "ua": [
-            "§7Уявіть, що ви Амур. Стріляйте."
-        ],
-        "en": [
-            "§7Imagine that you are Cupid. Shoot."
-        ]
-    },
-    "GAME_COSMETIC_3_NAME": {
-        "ru": "Сердечки",
-        "ua": "Сердечка",
-        "en": "Hearts"
-    },
-    "GAME_COSMETIC_4_LORE": {
-        "ru": [
-            "§7Потоки радости мудрейшего жителя",
-            "§7подарят ваши стрелы и",
-            "§7приведут их точно в цель!"
-        ],
-        "ua": [
-            "§7Потоки радості наймудрішого жителя",
-            "§7подарують ваші стріли і",
-            "§7приведуть їх точно в ціль!"
-        ],
-        "en": [
-            "§7Streams of joy from the wisest inhabitant",
-            "§7will lead your arrows",
-            "§7in the right direction!"
-        ]
-    },
-    "GAME_COSMETIC_4_NAME": {
-        "ru": "Изумрудный",
-        "ua": "Смарагдовий",
-        "en": "Emerald"
-    },
-    "GAME_COSMETIC_5_LORE": {
-        "ru": [
-            "§7Отныне ваши стрелы и есть фейерверк"
-        ],
-        "ua": [
-            "§7Відтепер ваші стріли є феєрверком"
-        ],
-        "en": [
-            "§7From now on, your arrows are fireworks"
-        ]
-    },
-    "GAME_COSMETIC_5_NAME": {
-        "ru": "Фейерверк",
-        "ua": "Феєерверк",
-        "en": "Fireworks"
-    },
-    "GAME_COSMETIC_6_LORE": {
-        "ru": [
-            "§7Создай новогоднее настроение",
-            "§7в любое время года!"
-        ],
-        "ua": [
-            "§7Створи новорічний настрій",
-            "§7в будь-який час року!"
-        ],
-        "en": [
-            "§7Create a Christmas mood",
-            "§7at any time of the year!"
-        ]
-    },
-    "GAME_COSMETIC_6_NAME": {
-        "ru": "Гирлянда",
-        "ua": "Гірлянда",
-        "en": "Garland"
-    },
-    "GAME_COSMETIC_7_LORE": {
-        "ru": [
-            "§7Магический поток великой ведьмы",
-            "§7сопровождают каждый ваш выстрел"
-        ],
-        "ua": [
-            "§7Магічний потік великої відьми",
-            "§7супроводжують кожен ваш постріл"
-        ],
-        "en": [
-            "§7Magical stream of the great witch",
-            "§7accompanies your every shot"
-        ]
-    },
-    "GAME_COSMETIC_7_NAME": {
-        "ru": "Ведьма",
-        "ua": "Відьма",
-        "en": "Witch"
-    },
-    "GAME_COSMETIC_8_LORE": {
-        "ru": [
-            "§7На самом деле, житель не злой, а сердитый"
-        ],
-        "ua": [
-            "§7Насправді, житель не злий, а сердитий"
-        ],
-        "en": [
-            "§7In fact, the villager is not angry, but furious"
-        ]
-    },
-    "GAME_COSMETIC_8_NAME": {
-        "ru": "Злой житель",
-        "ua": "Злий житель",
-        "en": "Angry villager"
-    },
-    "GAME_COSMETIC_9_LORE": {
-        "ru": [
-            "§7Если вы не знаете как появляются облака,",
-            "§7то купите этот эффект"
-        ],
-        "ua": [
-            "§7Якщо ви не знаєте як з'являються хмари,",
-            "§7то купіть цей ефект"
-        ],
-        "en": [
-            "§7If you don't know where clouds come from,",
-            "§7then buy this effect"
-        ]
-    },
-    "GAME_COSMETIC_9_NAME": {
-        "ru": "Облако",
-        "ua": "Хмара",
-        "en": "Cloud"
-    },
-    "GAME_COSMETIC_ALREADY_HAVE": {
-        "ru": "§fУ вас уже есть данный предмет, вы получили §b+%s %s",
-        "ua": "§fУ вас вже є цей предмет, ви отримали §b+%s %s",
-        "en": "§fYou already have this item, you received §b+%s %s"
-    },
-    "GAME_COSMETIC_GUI_ARROW_LORE": {
-        "ru": [
-            "",
-            "§7Покупка и активация эффектов",
-            "§7полета стрел, которые действуют",
-            "§7на аренах всех мини-игр.",
-            "",
-            "§7Открыто: §a%s/%s §6%s",
-            "§7Активированный эффект:",
-            "%s",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Купівля та активація ефектів",
-            "§7польоту стріл, які діють",
-            "§7на аренах всіх міні-ігор.",
-            "",
-            "§7Відкрито: §a%s/%s §6%s",
-            "§7Активований ефект:",
-            "%s",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Buying and activating flying arrows effects",
-            "§7which are activated",
-            "§7on arenas of all mini-games.",
-            "",
-            "§7Unlocked: §a%s/%s §6%s",
-            "§7Activated effect:",
-            "%s",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "GAME_COSMETIC_GUI_ARROW_NAME": {
-        "ru": "Эффекты стрел",
-        "ua": "Ефекти стріл",
-        "en": "Arrows effects"
-    },
-    "GAME_COSMETIC_GUI_COLORABLE_LORE": {
-        "ru": [
-            "",
-            "§7Покупка и активация цветов",
-            "§7в которые будут окращены ваши",
-            "§7щиты и коженная броня.",
-            "",
-            "§7Открыто: §a%s/%s §6%s",
-            "§7Активированный цвет:",
-            "%s",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Купівля та активація кольорів,",
-            "§7в які будуть пофарбовані ваші",
-            "§7щити і шкіряна броня.",
-            "",
-            "§7Відкрито: §a%s/%s §6%s",
-            "§7Активований колір:",
-            "%s",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Buying and activating the colors",
-            "§7in which your shields",
-            "§7and leather armor will be painted..",
-            "",
-            "§7Unlocked: §a%s/%s §6%s",
-            "§7Activated color:",
-            "%s",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "GAME_COSMETIC_GUI_COLORABLE_NAME": {
-        "ru": "Цветные щиты и броня",
-        "ua": "Кольорові щити та броня",
-        "en": "Colored shields and armor"
-    },
-    "GAME_COSMETIC_GUI_KILL_EFFECT_LORE": {
-        "ru": [
-            "",
-            "§7Покупка и активация эффектов",
-            "§7которые будут воспроизводиться",
-            "§7около убитого вами игрока.",
-            "",
-            "§7Открыто: §a%s/%s §6%s",
-            "§7Активированный эффект:",
-            "%s",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Купівля та активація ефектів,",
-            "§7які будуть відтворюватися",
-            "§7біля вбитого вами гравця.",
-            "",
-            "§7Відкрито: §a%s/%s §6%s",
-            "§7Активований ефект:",
-            "%s",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Buying and activating the effects",
-            "§7which will be played",
-            "§7next to a player you kill.",
-            "",
-            "§7Unlocked: §a%s/%s §6%s",
-            "§7Activated effect:",
-            "%s",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "GAME_COSMETIC_GUI_KILL_EFFECT_NAME": {
-        "ru": "Эффекты убийств",
-        "ua": "Ефекти вбивств",
-        "en": "Kill effects"
-    },
-    "GAME_COSMETIC_GUI_START_SOUND_LORE": {
-        "ru": [
-            "",
-            "§7Покупка и активация звуков",
-            "§7которые вы услышите при",
-            "§7старте игры.",
-            "",
-            "§7Открыто: §a%s/%s §6%s",
-            "§7Активированный звук:",
-            "%s",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Купівля та активація звуків,",
-            "§7які ви почуєте на",
-            "§7старті гри.",
-            "",
-            "§7Відкрито: §a%s/%s §6%s",
-            "§7Активований звук:",
-            "%s",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Buying and activating sounds",
-            "§7which you will hear at the",
-            "§7beginning of the game.",
-            "",
-            "§7Unlocked: §a%s/%s §6%s",
-            "§7Activated sound:",
-            "%s",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "GAME_COSMETIC_GUI_START_SOUND_NAME": {
-        "ru": "Звук старта",
-        "ua": "Звук старта",
-        "en": "Start sound"
-    },
-    "GAME_COSMETIC_KEY": {
-        "ru": "§aКосметико-игровой ключ",
-        "ua": "§aКосметично-ігровий ключ",
-        "en": "§aCosmetic gaming key"
-    },
-    "GAME_COSMETIC_KEY_LORE": {
-        "ru": [
-            "",
-            "§7Используется для получения",
-            "§7эффектов стрел, предсмертных хрипов и другой",
-            "§7визуальной \"фигни\" на аренах",
-            "",
-            "§cВнимание! При выбивании уже существующего",
-            "§cпредмета вы получите пыль (10% от стоимости)"
-        ],
-        "ua": [
-            "",
-            "§7Використовується для отримання",
-            "§7ефектів стріл, передсмертних хрипів і іншої",
-            "§7визуальної \"фігні\" на аренах",
-            "",
-            "§cУвага! При вибиванні вже існуючого",
-            "§cпредмета ви отримаєте пил (10% від вартості)"
-        ],
-        "en": [
-            "",
-            "§7Is used for receiving",
-            "§7arrow effects, death rales and other",
-            "§7visual stuff on arenas",
-            "",
-            "§cAttention! When knocking out an already existing",
-            "§citem, you will get dust (10% of the cost)"
-        ]
-    },
-    "GAME_COSMETIC_LEVEL_ERROR": {
-        "ru": [
-            "§cВНИМАНИЕ! Для использования этой вещи",
-            "§cвам нужно иметь %s уровень или любой",
-            "§cиз доступных донат-статусов!"
-        ],
-        "ua": [
-            "§cУВАГА! Для використання цієї речі",
-            "§cви повинні мати %s рівень або інший",
-            "§cз доступних донат-статусів!"
-        ],
-        "en": [
-            "§cATTENTION! T0 use this item,",
-            "§cyou must have %s level or any other of",
-            "§cthe available donate statuses!"
-        ]
-    },
-    "GAME_COSMETIC_MAIN_GUI_NAME": {
-        "ru": "Косметика",
-        "ua": "Косметика",
-        "en": "Cosmetics"
-    },
-    "GAME_COSMETIC_NO_LEVEL": {
-        "ru": "§cОшибка, у вас нет %s уровня для активации (",
-        "ua": "§cПомилка, у вас немає %s рівня для активації (",
-        "en": "§cError, you don't have %s level for activation ("
-    },
-    "GAME_END_BOARD_DESC": {
-        "ru": "Игра окончена!",
-        "ua": "Гра закінчена!",
-        "en": "Game over!"
-    },
-    "GAME_END_BOARD_NO_WINNER": {
-        "ru": "§cНичья",
-        "ua": "§cНічия",
-        "en": "§cDraw"
-    },
-    "GAME_END_BOARD_TITLE": {
-        "ru": "§fИгра окончена",
-        "ua": "§fГра закінчена!",
-        "en": "§fGame over"
-    },
-    "GAME_END_BOARD_TITLE_WINNER": {
-        "ru": "§fПобедитель:",
-        "ua": "§fПережемоць:",
-        "en": "§fWinner:"
-    },
-    "GAME_END_BOARD_TITLE_WINNERS": {
-        "ru": "§fПобедители:",
-        "ua": "§fПереможці:",
-        "en": "§fWinners:"
-    },
-    "GAME_END_BOARD_WINNER": {
-        "ru": "Победитель:",
-        "ua": "Переможець:",
-        "en": "Winner:"
-    },
-    "GAME_END_BOARD_WINNERS": {
-        "ru": "Победители:",
-        "ua": "Переможці:",
-        "en": "Winners:"
-    },
-    "GAME_NO_WINNER": {
-        "ru": "§cИгра закончилась в ничью",
-        "ua": "§cГра закінчилась в нічию",
-        "en": "§cThe game ended in a draw"
-    },
-    "GAME_PLACE": {
-        "ru": "%s%s место §8- §e%s",
-        "ua": "%s%s місце §8- §e%s",
-        "en": "%s%s place §8- §e%s"
-    },
-    "GAME_REJOIN": {
-        "ru": "§fВы перезашли в игру",
-        "ua": "§fВи перезайшли в гру",
-        "en": "§fYou reentered the game"
-    },
-    "GAME_SHOP_GUI_ADD_FAVOURITE": {
-        "ru": "§aПКМ, чтобы добавить в избранное",
-        "ua": "§aПКМ, щоб додати в обране",
-        "en": "§aRMC to add to favorites"
-    },
-    "GAME_SHOP_GUI_FAVOURITE": {
-        "ru": "Пустой слот для избранного",
-        "ua": "Порожній слот для обраного",
-        "en": "Empty slot for favorites"
-    },
-    "GAME_SHOP_GUI_FAVOURITE_LOER": {
-        "ru": [
-            "",
-            "§cДанный слот заблокирован",
-            "§cКупите %s §cили выше, чтобы разблокировать"
-        ],
-        "ua": [
-            "",
-            "§cЦей слот заблокований",
-            "§cНеобхідно придбати %s §cабо вище, щоб розблокувати"
-        ],
-        "en": [
-            "",
-            "§cThis slot is blocked",
-            "§cPurchase %s §cor higher to unblock"
-        ]
-    },
-    "GAME_SHOP_GUI_ITEMS_BUY": {
-        "ru": "§e▸ Нажмите ЛКМ, чтобы купить",
-        "ua": "§e▸ Натисніть ЛКМ, щоб придбати",
-        "en": "§e▸ Click LMC to purchase"
-    },
-    "GAME_SHOP_GUI_ITEMS_FIRST_LORE": {
-        "ru": [
-            "",
-            "§8Предметы:"
-        ],
-        "ua": [
-            "",
-            "§8Предмети:"
-        ],
-        "en": [
-            "",
-            "§8Items:"
-        ]
-    },
-    "GAME_SHOP_GUI_ITEMS_NO_ITEMS": {
-        "ru": "§cУ вас недостаточно ресурсов!",
-        "ua": "§cУ вас недостатньо ресурсів!",
-        "en": "§cYou don't have enough resources!"
-    },
-    "GAME_SHOP_GUI_ITEMS_SECOND_LORE": {
-        "ru": [
-            "",
-            "§7Цена: %s %s",
-            "",
-            "§8Нажмите SHIFT чтобы",
-            "§8купить в 5 раз больше",
-            " "
-        ],
-        "ua": [
-            "",
-            "§7Вартість: %s %s",
-            "",
-            "§8Натисніть SHIFT, щоб",
-            "§8придбати в 5 разів більше",
-            " "
-        ],
-        "en": [
-            "",
-            "§7Price: %s %s",
-            "",
-            "§8Press SHIFT to",
-            "§8buy 5 times more",
-            " "
-        ]
-    },
-    "GAME_SHOP_GUI_NAME": {
-        "ru": "Магазин",
-        "ua": "Магазин",
-        "en": "Store"
-    },
-    "GAME_SHOP_GUI_NO_SLOTS_FAVOURITE": {
-        "ru": "§cУ вас нет свободных слотов для добавления в избранное!",
-        "ua": "§cУ вас немає вільних слотів для додавання в обране!",
-        "en": "§cYou have no free slots to add to favorites!"
-    },
-    "GAME_SHOP_GUI_REMOVE_FAVOURITE": {
-        "ru": "§cПКМ, чтобы удалить из избранного",
-        "ua": "§cПКМ, щоб видалити із обраного",
-        "en": "§cRMC to delete from favorites"
-    },
-    "GAME_SHOP_NO_SLOTS": {
-        "ru": "§cУ вас недостаточно места в инвентаре!",
-        "ua": "§cУ вас недостатньо місця в інвентарі!",
-        "en": "§cYou don't have enough space in your inventory!"
-    },
-    "GAME_SHOP_NPC_HOLO": {
-        "ru": [
-            "§eМагазин",
-            "§fНажмите, чтобы открыть!"
-        ],
-        "ua": [
-            "§eМагазин",
-            "§fНатисніть, щоб відкрити!"
-        ],
-        "en": [
-            "§eStore",
-            "§fClick to open!"
-        ]
-    },
-    "GAME_SPECTATOR_MESSAGE": {
-        "ru": "Вы погибли и теперь вы можете только наблюдать за игровым процессом.",
-        "ua": "Ви загинули і тепер ви можете тільки спостерігати за ігровим процесом.",
-        "en": "You died and now you can only watch the game process."
-    },
-    "GAME_TITLE_NOT_WINNER": {
-        "ru": "§7Вы проиграли в этой игре",
-        "ua": "§7Ви програли в цій грі",
-        "en": "§7You lost in this game"
-    },
-    "GAME_TITLE_OVER": {
-        "ru": "§c§lИГРА ОКОНЧЕНА",
-        "ua": "§c§lГРА ЗАКІНЧЕНА",
-        "en": "§c§lGAME OVER"
-    },
-    "GAME_TITLE_SOLO_WIN": {
-        "ru": "§7Вы остались последним выжившим игроком",
-        "ua": "§7Ви залишилися останнім гравцем, що вижив",
-        "en": "§7You are the last player standing"
-    },
-    "GAME_TITLE_TEAM_WIN": {
-        "ru": "§7Ваша команда победила в этой игре",
-        "ua": "§7Ваша команда перемогла в цій грі",
-        "en": "§7Your team won this game"
-    },
-    "GAME_TITLE_WIN": {
-        "ru": "§6§lПОБЕДА",
-        "ua": "§6§lПЕРЕМОГА",
-        "en": "§6§lVICTORY"
-    },
-    "GAME_TITLE_WIN_PLACE": {
-        "ru": "§7Вы заняли %s место в этой игре",
-        "ua": "§7Ви посіли %s місце в цій грі",
-        "en": "§7You took the %s place in the game"
-    },
-    "GAME_UPGRADE_NPC_HOLO": {
-        "ru": [
-            "§eМагазин улучшений",
-            "§fНажмите, чтобы открыть!"
-        ],
-        "ua": [
-            "§eМагазин покращений",
-            "§fНатисніть, щоб відкрити!"
-        ],
-        "en": [
-            "§eUpgrade store",
-            "§fClick to open!"
-        ]
-    },
-    "GAME_WINNER": {
-        "ru": "Победитель - %s",
-        "ua": "Переможець - %s",
-        "en": "Winner - %s"
-    },
-    "GAME_WINNERS": {
-        "ru": "Победители - %s",
-        "ua": "Переможці - %s",
-        "en": "Winners - %s"
-    },
-    "GLOBAL_TEAM_GAME_CHAT_FORMAT": {
-        "ru": " §8[§cВсем§8] ",
-        "ua": " §8[§cУсім§8] ",
-        "en": " §8[§cTo all§8] "
-    },
-    "JOIN_GAMER_ARENA": {
-        "ru": "%s§f зашел в игру (§a%s§f/§a%s§f)",
-        "ua": "%s§f зайшов в гру (§a%s§f/§a%s§f)",
-        "en": "%s§f entered the game (§a%s§f/§a%s§f)"
-    },
-    "JOIN_SPEC_MSG_SUBTITLE": {
-        "ru": "§7Вы можете только следить за игровым процессом",
-        "ua": "§7Ви можете тільки стежити за ігровим процесом",
-        "en": "§7You can only watch the gameplay"
-    },
-    "JOIN_SPEC_MSG_TITLE": {
-        "ru": "§cИгра уже началась",
-        "ua": "§cГра вже розпочалась",
-        "en": "§cThe game has already started"
-    },
-    "KIT_PURCHASE_MESSAGE": {
-        "ru": "Вы приобрели набор §a%s §fза §a%s §f%s",
-        "ua": "Ви придбали набір §a%s §fза §a%s §f%s",
-        "en": "You purchased set §a%s §ffor §a%s §f%s"
-    },
-    "KIT_SELECTION_MESSAGE": {
-        "ru": "Вы выбрали набор §a%s",
-        "ua": "Ви обрали набір §a%s",
-        "en": "You chose set §a%s"
-    },
-    "LOCAL_TEAM_GAME_CHAT_FORMAT": {
-        "ru": " §8[§aКоманде§8] ",
-        "ua": " §8[§aКоманді§8] ",
-        "en": " §8[§aTo team§8] "
-    },
-    "LOCATOR_ITEM_NAME": {
-        "ru": "§aЛокатор",
-        "ua": "§aЛокатор",
-        "en": "§aLocator"
-    },
-    "NO_PREFIX_SET": {
-        "ru": "§6Сервер §8| §cВы не можете сменить префикс во время игры",
-        "ua": "§6Сервер §8| §cВи не можете змінити префікс під час гри",
-        "en": "§6Server §8| §cYou cannot change the prefix while playing"
-    },
-    "ONLY_DONATOR": {
-        "ru": "§cОшибка, на арене только донатеры",
-        "ua": "§cПомилка, на арені тільки донатери",
-        "en": "§cError, only donators are in the arena"
-    },
-    "PERK_ITEM_LORE": {
-        "ru": [
-            "§7Используйте этот предмет,",
-            "§7чтобы выбрать один из всевозможных",
-            "§7умений на эту игру"
-        ],
-        "ua": [
-            "§7Використовуйте цей предмет,",
-            "§7щоб вибрати одне з усіляких",
-            "§7вмінь на цю гру"
-        ],
-        "en": [
-            "§7Use this item",
-            "§7to choose one of the various",
-            "§7skills for this game"
-        ]
-    },
-    "PERK_ITEM_NAME": {
-        "ru": "§eУмения",
-        "ua": "§eВміння",
-        "en": "§eSkills"
-    },
-    "PERK_PURCHASE_MESSAGE": {
-        "ru": "Вы приобрели умение §a%s §fза §a%s §f%s",
-        "ua": "Ви придбали вміння §a%s §fза §a%s §f%s",
-        "en": "You have acquired the skill §a%s §ffor §a%s §f%s"
-    },
-    "PERK_SELECTION_MESSAGE": {
-        "ru": "Вы выбрали умение §a%s",
-        "ua": "Ви вибрали вміння §a%s",
-        "en": "You chose skill §a%s"
-    },
-    "PLAYER_ALIVE_GAME": {
-        "ru": "§fНа карте осталось §a%s§f %s",
-        "ua": "§fНа карті залишилось §a%s§f %s",
-        "en": "§fRemained on the map §a%s§f %s"
-    },
-    "PLAYER_LEFT": {
-        "ru": "§fИгрок %s§f покинул игру",
-        "ua": "§fГравець %s§f покинув гру",
-        "en": "§fPlayer %s§f left the game"
-    },
-    "QUIT_GAMER_ARENA": {
-        "ru": "%s§f покинул игру (§c%s§f/§a%s§f)",
-        "ua": "%s§f залишив гру (§c%s§f/§a%s§f)",
-        "en": "%s§f left the game (§c%s§f/§a%s§f)"
-    },
-    "RESPAWN_SUBTITLE": {
-        "ru": "§7Вы возродитесь через §c%s §7%s",
-        "ua": "§7Ви будете відроджені через §c%s §7%s",
-        "en": "§7You will be reborn in §c%s §7%s"
-    },
-    "RESPAWN_TITLE": {
-        "ru": "§aВы возродились",
-        "ua": "§aВи блуи відроджені",
-        "en": "§aYou were reborn"
-    },
-    "RESTART_ARENA_MSG": {
-        "ru": "§cРестарт арены, через 5 секунд вы будете перемещены в лобби",
-        "ua": "§cРестарт арени, через 5 секунд ви будете переміщені в лобі",
-        "en": "§cRestart arena, after 5 seconds you will be moved to the lobby"
-    },
-    "SELECTOR_TEAM_NAME_INV": {
-        "ru": "Выбор команды: %s",
-        "ua": "Вибір команди: %s",
-        "en": "Choose players: %s"
-    },
-    "SELECTOR_TEAM_NO_PLAYERS": {
-        "ru": "§7Нет игроков...",
-        "ua": "§7Немає гравців...",
-        "en": "§7No players..."
-    },
-    "SELECTOR_TEAM_PLAYERS": {
-        "ru": "§7Игроки:",
-        "ua": "§7Гравці:",
-        "en": "§7Players:"
-    },
-    "SLOT_BUSY": {
-        "ru": "§cПростите, но вы были перемещены в лобби, ваше место занял §r%s",
-        "ua": "§cВибачте, але ви були переміщені в лобі, ваше місце зайняв §r%s",
-        "en": "§cSorry, but you were moved to the lobby, your seat was taken by §r%s"
-    },
-    "SOLO_NO_TEAM": {
-        "ru": "§c§lВнимание! §cКомандная игра запрещена на Solo режиме.",
-        "ua": "§c§lУвага! §cКомандна гра заборонена на Solo режимі.",
-        "en": "§c§lAttention! §cTeam play is prohibited in Solo mode."
-    },
-    "SPECTATOR_CAMERA_ACTIONBAR": {
-        "ru": "§fНажмите §aSHIFT §fчтобы покинуть режим наблюдателя",
-        "ua": "§fНатисніть §aSHIFT §fщоб покинути режим спостерігача",
-        "en": "§fPress §aSHIFT §fto leave spectator mode"
-    },
-    "SPECTATOR_CAMERA_OFF": {
-        "ru": "§cВы покинули режим наблюдателя",
-        "ua": "§cВи покинули режим спостерігача",
-        "en": "§cYou left spectator mode"
-    },
-    "SPECTATOR_CAMERA_SUBTITLE": {
-        "ru": "Наблюдаем за игроком: %s",
-        "ua": "Спостерігаємо за гравцем: %s",
-        "en": "Watching the player: %s"
-    },
-    "SPECTATOR_CAMERA_TITLE": {
-        "ru": "§eРежим наблюдения",
-        "ua": "§eРежим спостереження",
-        "en": "§eSpectator mode"
-    },
-    "SPECTATOR_INVENTORY_SEE_GUI_TITLE": {
-        "ru": "Инвентарь ► %s",
-        "ua": "Інвентар ► %s",
-        "en": "Inventory ► %s"
-    },
-    "SPECTATOR_KILLS_LORE": {
-        "ru": "§7Убийств: §c%s",
-        "ua": "§7Вбивств: §c%s",
-        "en": "§7Kills: §c%s"
-    },
-    "SPECTATOR_MAIN_LORE": {
-        "ru": [
-            "§7Здоровье: §e%s",
-            "§7Голод: §e%s",
-            "",
-            "§e▸ ЛКМ, чтобы телепортироваться",
-            "§e▸ ПКМ, чтобы наблюдать от 1-ого лица"
-        ],
-        "ua": [
-            "§7Здоров'я: §e%s",
-            "§7Голод: §e%s",
-            "",
-            "§e▸ ЛКМ, щоб телепортуватися",
-            "§e▸ ПКМ, щоб спостерігати від першої особи"
-        ],
-        "en": [
-            "§7Health: §e%s",
-            "§7Hunger: §e%s",
-            "",
-            "§e▸ LMC to teleport",
-            "§e▸ RMC to observe from the 1st person"
-        ]
-    },
-    "SPECTATOR_MENU_ITEM_LORE": {
-        "ru": [
-            "§7Используйте этот предмет,",
-            "§7чтобы наблюдать за игроками"
-        ],
-        "ua": [
-            "§7Використовуйте цей предмет,",
-            "§7щоб спостерігати за гравцями"
-        ],
-        "en": [
-            "§7Use this item",
-            "§7to watch the players"
-        ]
-    },
-    "SPECTATOR_MENU_ITEM_NAME": {
-        "ru": "§eТелепортер",
-        "ua": "§eТелепортер",
-        "en": "§eTeleporter"
-    },
-    "SPECTATOR_MENU_NAME": {
-        "ru": "Телепортер",
-        "ua": "Телепортер",
-        "en": "Teleporter"
-    },
-    "SPECTATOR_MODE": {
-        "ru": "Спектатор",
-        "ua": "Спектатор",
-        "en": "Spectator"
-    },
-    "SPECTATOR_NO_PERK_LORE": {
-        "ru": "§cНе выбран",
-        "ua": "§cНе обраний",
-        "en": "§cNot chosen"
-    },
-    "SPECTATOR_PERK_LORE": {
-        "ru": "§7Выбранный навык: §a%s",
-        "ua": "§7Обране вміння: §a%s",
-        "en": "§7Language chosen: §a%s"
-    },
-    "SPECTATOR_SETTINGS_FLY_OFF": {
-        "ru": "§cВыключить постоянный полет",
-        "ua": "§cВимкнути постійний політ",
-        "en": "§cTurn off constant flight"
-    },
-    "SPECTATOR_SETTINGS_FLY_ON": {
-        "ru": "§aВключить постоянный полет",
-        "ua": "§aУвімкнути постійний політ",
-        "en": "§aTurn on constant flight"
-    },
-    "SPECTATOR_SETTINGS_GUI_NAME": {
-        "ru": "Настройки наблюдателя",
-        "ua": "Налаштування спостерігача",
-        "en": "Spectator's settings"
-    },
-    "SPECTATOR_SETTINGS_HIDE": {
-        "ru": "§cСкрыть наблюдателей",
-        "ua": "§cПриховати спостерігачів",
-        "en": "§cHide spectators"
-    },
-    "SPECTATOR_SETTINGS_ITEM_LORE": {
-        "ru": [
-            "§7Используйте этот предмет,",
-            "§7чтобы изменить настройки",
-            "§7наблюдателя"
-        ],
-        "ua": [
-            "§7Використовуйте цей предмет,",
-            "§7щоб змінити налаштування",
-            "§7спостерігача"
-        ],
-        "en": [
-            "§7Use this item",
-            "§7to change settings",
-            "§7of spectator"
-        ]
-    },
-    "SPECTATOR_SETTINGS_ITEM_NAME": {
-        "ru": "§eНастройки наблюдателя",
-        "ua": "§eНалаштування спостерігача",
-        "en": "§eSpectator's settings"
-    },
-    "SPECTATOR_SETTINGS_NO_SPEED": {
-        "ru": "Без скорости",
-        "ua": "Без швидкості",
-        "en": "No speed"
-    },
-    "SPECTATOR_SETTINGS_SHOW": {
-        "ru": "§aПоказать наблюдателей",
-        "ua": "§aПоказати спостерігачів",
-        "en": "§aShow spectators"
-    },
-    "SPECTATOR_SETTINGS_SPEED": {
-        "ru": "Скорость",
-        "ua": "Швидкість",
-        "en": "Speed"
-    },
-    "SPECTATOR_SETTINGS_VISION_OFF": {
-        "ru": "§cВыключить ночное видение",
-        "ua": "§cВимкнути нічне бачення",
-        "en": "§cTurn off night vision"
-    },
-    "SPECTATOR_SETTINGS_VISION_ON": {
-        "ru": "§aВключить ночное видение",
-        "ua": "§aУвімкнути нічне бачення",
-        "en": "§aTurn on night vision"
-    },
-    "SPECTATOR_SETTING_CHANGED": {
-        "ru": "§6Наблюдение §8| §fСкорость передвижения изменена",
-        "ua": "§6Спостерігання §8| §fШвидкість пересування змінена",
-        "en": "§6Observation §8| §fMovement speed changed"
-    },
-    "SPECTATOR_SETTING_FLY_LORE": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы выключить"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб вимкнути"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to turn off"
-        ]
-    },
-    "SPECTATOR_SETTING_FLY_NAME": {
-        "ru": "§cВыключить постоянный полет",
-        "ua": "§cВимкнути постійний політ",
-        "en": "§cTurn off constant flight"
-    },
-    "SPECTATOR_SETTING_FLY_OFF": {
-        "ru": "§6Наблюдение §8| §fВы выключили постоянный полет",
-        "ua": "§6Спостерігання §8| §fВи вимкнули постійний політ",
-        "en": "§6Observer §8| §fYou turned off constant flight"
-    },
-    "SPECTATOR_SETTING_FLY_ON": {
-        "ru": "§6Наблюдение §8| §fВы включили постоянный полет",
-        "ua": "§6Спостерігання §8| §fВи увімкнули постійний політ",
-        "en": "§6Observer §8| §fYou have turned on constant flight"
-    },
-    "SPECTATOR_SETTING_GLOWING_LORE": {
-        "ru": [
-            " ",
-            "§7Данная настройка отключит подсветку",
-            "§7всех игроков на арене",
-            " ",
-            "§e▸ Нажмите, чтобы выключить"
-        ],
-        "ua": [
-            " ",
-            "§7Ця установка вимкне підсвічування",
-            "§7всіх гравців на арені",
-            " ",
-            "§e▸ Натисніть, щоб вимкнути"
-        ],
-        "en": [
-            " ",
-            "§7This setting will turn off the glowing",
-            "§7of all players on the arena",
-            " ",
-            "§e▸ Click to turn off"
-        ]
-    },
-    "SPECTATOR_SETTING_GLOWING_NAME": {
-        "ru": "§cОтключить подсвечивание игроков",
-        "ua": "§cВимкнути підсвічування гравців",
-        "en": "§cDisable player glowing"
-    },
-    "SPECTATOR_SETTING_GLOW_HIDE": {
-        "ru": "§6Наблюдение §8| §fВы подсветили всех игроков",
-        "ua": "§6Спостерігання §8| §fВи підсвітили всіх гравців",
-        "en": "§6Observer §8| §fGlow all players"
-    },
-    "SPECTATOR_SETTING_GLOW_SHOW": {
-        "ru": "§6Наблюдение §8| §fВы перестали подсвечивать всех игроков",
-        "ua": "§6Спостерігання §8| §fВи перестали підсвічувати всіх гравців",
-        "en": "§6Observer §8| §fYou have stopped glowing all players"
-    },
-    "SPECTATOR_SETTING_GUI_TITLE": {
-        "ru": "Настройки наблюдателя",
-        "ua": "Налаштування спостерігача",
-        "en": "Spectator's settings"
-    },
-    "SPECTATOR_SETTING_HIDE_LORE": {
-        "ru": [
-            " ",
-            "§7Сейчас Вы видите других",
-            "§7наблюдателей. После изменения",
-            "§7этой настройки они будут скрыты",
-            "§7для Вас.",
-            " ",
-            "§e▸ Нажмите, чтобы скрыть"
-        ],
-        "ua": [
-            " ",
-            "§7Зараз ви бачите інших",
-            "§7спостерігачів. Після зміни",
-            "§7цього налуштавання вони будуть приховані",
-            "§7для вас.",
-            " ",
-            "§e▸ Натисніть, щоб приховати"
-        ],
-        "en": [
-            " ",
-            "§Now you see other",
-            "§7spectators. After changing",
-            "§7this setting they will be hidden",
-            "§7from you.",
-            " ",
-            "§e▸ Click to hide"
-        ]
-    },
-    "SPECTATOR_SETTING_HIDE_NAME": {
-        "ru": "§cСкрыть наблюдателей",
-        "ua": "§cПриховати спостерігачів",
-        "en": "§cHide spectators"
-    },
-    "SPECTATOR_SETTING_HIDING": {
-        "ru": "§6Наблюдение §8| §fВы не видите других наблюдателей",
-        "ua": "§6Спостерігання §8| §fВи не бачите інших спостерігачів",
-        "en": "§6Observer §8| §fYou don't see other spectators"
-    },
-    "SPECTATOR_SETTING_NOFLY_LORE": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы включить"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб увімкнути"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to enable"
-        ]
-    },
-    "SPECTATOR_SETTING_NOFLY_NAME": {
-        "ru": "§aВключить постоянный полет",
-        "ua": "§aУвімкнути постійний політ",
-        "en": "§aEnable constant flight"
-    },
-    "SPECTATOR_SETTING_NOSPEED_LORE": {
-        "ru": [
-            " ",
-            "§7Убирает скорость передвижения"
-        ],
-        "ua": [
-            " ",
-            "§7Прибирає швидкість пересування"
-        ],
-        "en": [
-            " ",
-            "§7Removes movement speed"
-        ]
-    },
-    "SPECTATOR_SETTING_NOSPEED_NAME": {
-        "ru": "§cБез скорости",
-        "ua": "§cБез швидкості",
-        "en": "§cNo speed"
-    },
-    "SPECTATOR_SETTING_NO_GLOWING_LORE": {
-        "ru": [
-            " ",
-            "§7Данная настройка включит подсветку",
-            "§7всех игроков на арене",
-            " ",
-            "§e▸ Нажмите, чтобы включить"
-        ],
-        "ua": [
-            " ",
-            "§7Ця установка підсвічуватиме",
-            "§7всіх гравців на арені",
-            " ",
-            "§e▸ Натисніть, щоб увімкнути"
-        ],
-        "en": [
-            " ",
-            "§7This setting will turn on the glowing",
-            "§7of all players on the arena",
-            " ",
-            "§e▸ Click to enable"
-        ]
-    },
-    "SPECTATOR_SETTING_NO_GLOWING_NAME": {
-        "ru": "§aВключить подсвечивание игроков",
-        "ua": "§aУвімкнути підсвічування гравців",
-        "en": "§aTurn on player glowing"
-    },
-    "SPECTATOR_SETTING_NO_VISION_LORE": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы включить"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб увімкнути"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to enable"
-        ]
-    },
-    "SPECTATOR_SETTING_NO_VISION_NAME": {
-        "ru": "§aВключить ночное видение",
-        "ua": "§aУвімкнути нічне бачення",
-        "en": "§aTurn on night vision"
-    },
-    "SPECTATOR_SETTING_SHOWN": {
-        "ru": "§6Наблюдение §8| §fВы снова видите других наблюдателей",
-        "ua": "§6Спостерігання §8| §fВи знову бачите інших спостерігачів",
-        "en": "§6Observer §8| §fYou see other spectators again"
-    },
-    "SPECTATOR_SETTING_SHOW_LORE": {
-        "ru": [
-            " ",
-            "§7Сейчас Вы не видите других",
-            "§7наблюдателей. После изменения",
-            "§7этой настройки Вы снова сможете",
-            "§7их видеть",
-            " ",
-            "§e▸ Нажмите, чтобы показать"
-        ],
-        "ua": [
-            " ",
-            "§7Зараз ви не бачите інших",
-            "§7спостерігачів. Після зміни",
-            "§7цього налаштування ви знову зможете",
-            "§7бачити їх",
-            " ",
-            "§e▸ Натисніть, щоб показати"
-        ],
-        "en": [
-            " ",
-            "§7Now you do not see other",
-            "§7spectators. After changing",
-            "§7this setting you'll be able",
-            "§7to see them again",
-            " ",
-            "§e▸ Click to show"
-        ]
-    },
-    "SPECTATOR_SETTING_SHOW_NAME": {
-        "ru": "§aПоказать наблюдателей",
-        "ua": "§aПоказати спостерігачів",
-        "en": "§aShow spectators"
-    },
-    "SPECTATOR_SETTING_SPEED_ALREADY": {
-        "ru": [
-            " ",
-            "§c▸ Вы уже выбрали эту скорость"
-        ],
-        "ua": [
-            " ",
-            "§c▸ Ви вже обрали цю швидкість"
-        ],
-        "en": [
-            " ",
-            "§c▸ You have already selected this speed"
-        ]
-    },
-    "SPECTATOR_SETTING_SPEED_CLICK": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы изменить скорость"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб змінити швидкість"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to change speed"
-        ]
-    },
-    "SPECTATOR_SETTING_SPEED_LORE": {
-        "ru": [
-            " ",
-            "§7Изменяет скорость передвижения",
-            "§7в зависимости от выбранного",
-            "§7уровня"
-        ],
-        "ua": [
-            " ",
-            "§7Змінює швидкість пересування",
-            "§7в залежності від обраного",
-            "§7рівня"
-        ],
-        "en": [
-            " ",
-            "§7Changes movement speed",
-            "§7depending on the chosen",
-            "§7level"
-        ]
-    },
-    "SPECTATOR_SETTING_SPEED_NAME": {
-        "ru": "§eСкорость %s",
-        "ua": "§eШвидкість %s",
-        "en": "§eSpeed %s"
-    },
-    "SPECTATOR_SETTING_VISION_LORE": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы выключить"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб вимкнути"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to disable"
-        ]
-    },
-    "SPECTATOR_SETTING_VISION_NAME": {
-        "ru": "§cВыключить ночное видение",
-        "ua": "§cВимкнути нічне бачення",
-        "en": "§cTurn off night vision"
-    },
-    "SPECTATOR_SETTING_VISION_OFF": {
-        "ru": "§6Наблюдение §8| §fНочное видение выключено",
-        "ua": "§6Спостерігання §8| §fНічне бачення вимкнено",
-        "en": "§6Observer §8| §fNight vision off"
-    },
-    "SPECTATOR_SETTING_VISION_ON": {
-        "ru": "§6Наблюдение §8| §fНочное видение включено",
-        "ua": "§6Спостерігання §8| §fНічне бачення увімкнено",
-        "en": "§6Observer §8| §fNight vision on"
-    },
-    "SPECTATOR_TEAM_LORE": {
-        "ru": "§7Команда: %s",
-        "ua": "§7Команда: %s",
-        "en": "§7Team: %s"
-    },
-    "START_CHANNEL_GUI_NAME": {
-        "ru": "Выбор карты",
-        "ua": "Вибір карти",
-        "en": "Choose map"
-    },
-    "START_GAME_ARENA": {
-        "ru": "§fИгра начнется через §a%s §f%s",
-        "ua": "§fГра розпочнеться через §a%s §f%s",
-        "en": "§fThe game will start in §a%s §f%s"
-    },
-    "START_GAME_SKYWARS_SOLO": {
-        "ru": [
-            "§eВаша задача скинуть всех игроков",
-            "§eи остаться на острове. Упал? Ну все, ты проиграл!"
-        ],
-        "ua": [
-            "§eВаше завдання скинути всіх гравців",
-            "§eі залишитися на острові. Упав? Ну все, ти програв!"
-        ],
-        "en": [
-            "§eYour task is to throw off all players",
-            "§eand stay on the island. Fell down? All right, you lost!"
-        ]
-    },
-    "START_GAME_TITLE": {
-        "ru": "Останьтесь последним выжившим",
-        "ua": "Залиштесь останнім, хто вижив",
-        "en": "Be the last survivor"
-    },
-    "START_GUI_NAME": {
-        "ru": "Выберите тип игры",
-        "ua": "Оберіть тип гри",
-        "en": "Choose game type"
-    },
-    "START_GUI_NO_SERVER1": {
-        "ru": "§cОшибка, не могу найти",
-        "ua": "§cПомилка, не можу знайти",
-        "en": "§cError, can't find"
-    },
-    "START_GUI_NO_SERVER2": {
-        "ru": "§cподходящие сервера",
-        "ua": "§cвідповідні сервери",
-        "en": "§cmatching servers"
-    },
-    "START_SPECTATE_GUI_NAME": {
-        "ru": "Наблюдение за игрой",
-        "ua": "Спостерігання за грою",
-        "en": "Watching the game"
-    },
-    "START_TITLE_MSG": {
-        "ru": "СТАРТ",
-        "ua": "СТАРТ",
-        "en": "START"
-    },
-    "TEAM_AQUA": {
-        "ru": "Голубые",
-        "ua": "Блакитні",
-        "en": "Aqua"
-    },
-    "TEAM_BLUE": {
-        "ru": "Синие",
-        "ua": "Сині",
-        "en": "Blue"
-    },
-    "TEAM_DARK_AQUA": {
-        "ru": "Бирюзовые",
-        "ua": "Бірюзові",
-        "en": "Turquoise"
-    },
-    "TEAM_GAME_GLOBAL_CHAT_FORMAT": {
-        "ru": " §8[%sВсем§8] ",
-        "ua": " §8[%sВсім§8] ",
-        "en": " §8[%sAll§8] "
-    },
-    "TEAM_GAME_LOCAL_CHAT_FORMAT": {
-        "ru": " §8[%sКоманде§8] ",
-        "ua": " §8[%sКоманді§8] ",
-        "en": " §8[%sTeam§8] "
-    },
-    "TEAM_GRAY": {
-        "ru": "Серые",
-        "ua": "Сірі",
-        "en": "Gray"
-    },
-    "TEAM_GREEN": {
-        "ru": "Зелёные",
-        "ua": "Зелені",
-        "en": "Green"
-    },
-    "TEAM_IS_BANABLE": {
-        "ru": "§cКомандная игра запрещена у нас. Вы были исключены из игры",
-        "ua": "§cКомандна гра заборонена у нас. Ви були виключені з гри",
-        "en": "§cTeam play is prohibited here. You were excluded from the game"
-    },
-    "TEAM_ITEM_LORE": {
-        "ru": [
-            "§7Используйте этот предмет,",
-            "§7чтобы выбрать свою команду"
-        ],
-        "ua": [
-            "§7Використовуйте цей предмет,",
-            "§7щоб обрати свою команду"
-        ],
-        "en": [
-            "§7Use this item",
-            "§7to choose your team"
-        ]
-    },
-    "TEAM_ITEM_NAME": {
-        "ru": "§eВыбор команды",
-        "ua": "§eВибір команди",
-        "en": "§eChoose team"
-    },
-    "TEAM_LIGHT_GREEN": {
-        "ru": "Салатовые",
-        "ua": "Салатові",
-        "en": "Light green"
-    },
-    "TEAM_LOSE": {
-        "ru": "§fКоманда %s §fпроиграла (последний игрок погиб или покинул игру)",
-        "ua": "§fКоманда %s §fпрограла (останній гравець загинув або покинув гру)",
-        "en": "§fTeam %s §flost (the last player died or left the game)"
-    },
-    "TEAM_NAME": {
-        "ru": "Команда",
-        "ua": "Команда",
-        "en": "Team"
-    },
-    "TEAM_NO_TEAM": {
-        "ru": "§c§lВнимание! §cОбразование союзов из нескольких команд запрещено.",
-        "ua": "§c§lУвага! §cСтворення спілок з декількох команд заборонено.",
-        "en": "§c§lAttention! §cFormation of alliances from several teams is prohibited."
-    },
-    "TEAM_ORANGE": {
-        "ru": "Оранжевые",
-        "ua": "Помаранчеві",
-        "en": "Orange"
-    },
-    "TEAM_PINK": {
-        "ru": "Розовые",
-        "ua": "Рожеві",
-        "en": "Pink"
-    },
-    "TEAM_PURPLE": {
-        "ru": "Фиолетовые",
-        "ua": "Фіолетові",
-        "en": "Purple"
-    },
-    "TEAM_RED": {
-        "ru": "Красные",
-        "ua": "Червоні",
-        "en": "Red"
-    },
-    "TEAM_SELECTED": {
-        "ru": "§fВы выбрали команду %s",
-        "ua": "§fВи обрали команду %s",
-        "en": "§fYou chose team %s"
-    },
-    "TEAM_SELECTOR_ALREADYIN": {
-        "ru": [
-            " ",
-            "§c▸ Вы уже в этой команде"
-        ],
-        "ua": [
-            " ",
-            "§c▸ Ви вже в цій команді"
-        ],
-        "en": [
-            " ",
-            "§c▸ You are a part of this team already"
-        ]
-    },
-    "TEAM_SELECTOR_EMPTY": {
-        "ru": "§7Игроков нет",
-        "ua": "§7Гравців немає",
-        "en": "§7There are no players"
-    },
-    "TEAM_SELECTOR_ENTRY": {
-        "ru": "%s [%s/%s]",
-        "ua": "%s [%s/%s]",
-        "en": "%s [%s/%s]"
-    },
-    "TEAM_SELECTOR_FULL": {
-        "ru": [
-            " ",
-            "§c▸ В команде нет мест"
-        ],
-        "ua": [
-            " ",
-            "§c▸ В команді немає місць"
-        ],
-        "en": [
-            " ",
-            "§c▸ There are no places in the team"
-        ]
-    },
-    "TEAM_SELECTOR_GUI_TITLE": {
-        "ru": "Выбор команды",
-        "ua": "Вибір команди",
-        "en": "Choose team"
-    },
-    "TEAM_SELECTOR_PLAYERS": {
-        "ru": "§7Игроки в команде:",
-        "ua": "§7Гравці в команді:",
-        "en": "§7Players on the team:"
-    },
-    "TEAM_SELECTOR_SELECT": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы выбрать"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб обрати"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to choose"
-        ]
-    },
-    "TEAM_WHITE": {
-        "ru": "Белые",
-        "ua": "Білі",
-        "en": "White"
-    },
-    "TEAM_YELLOW": {
-        "ru": "Жёлтые",
-        "ua": "Жовті",
-        "en": "Yellow"
-    },
-    "TELEPORTER_CLICK_TO_TELEPORT": {
-        "ru": [
-            " ",
-            "§e▸ ЛКМ, чтобы телепортироваться",
-            "§e▸ ПКМ, чтобы следить от 1-ого лица"
-        ],
-        "ua": [
-            " ",
-            "§e▸ ЛКМ, щоб телепортуватися",
-            "§e▸ ПКМ, щоб спостерігати від 1ї особи"
-        ],
-        "en": [
-            " ",
-            "§e▸ LMC to teleport",
-            "§e▸ RMC to watch from the 1st person"
-        ]
-    },
-    "TELEPORTER_GUI_TITLE": {
-        "ru": "Телепортер",
-        "ua": "Телепортер",
-        "en": "Телепортер"
-    },
-    "TELEPORTER_PLAYER_DISTANCE": {
-        "ru": "§7Расстояние: §a%s §7блоков",
-        "ua": "§7Відстань: §a%s §7блоків",
-        "en": "§7Distance: §a%s §7blocks"
-    },
-    "TELEPORTER_PLAYER_HEALTH": {
-        "ru": "§7Здоровье: §a%s§4❤",
-        "ua": "§7Здоров'я: §a%s§4❤",
-        "en": "§7Health: §a%s§4❤"
-    },
-    "TELEPORTER_PLAYER_KIT": {
-        "ru": "§7Выбранный набор: §e%s",
-        "ua": "§7Обраний набір: §e%s",
-        "en": "§7Set chosen: §e%s"
-    },
-    "TELEPORTER_PLAYER_PERK": {
-        "ru": "§7Выбранное умение: §e%s",
-        "ua": "§7Обране вміння: §e%s",
-        "en": "§7Skill chosen: §e%s"
-    },
-    "TO_START_TITLE": {
-        "ru": "§fДо старта",
-        "ua": "§fДо старта",
-        "en": "§fBefore the start"
-    },
-    "TYPE_DOUBLES": {
-        "ru": "Парный режим",
-        "ua": "Парний режим",
-        "en": "Pair mode"
-    },
-    "TYPE_ERROR": {
-        "ru": "§cError!",
-        "ua": "§cError!",
-        "en": "§cError!"
-    },
-    "TYPE_MEGA": {
-        "ru": "Командный режим",
-        "ua": "Командний режим",
-        "en": "Team mode"
-    },
-    "TYPE_SOLO": {
-        "ru": "Одиночный режим",
-        "ua": "Одиночний режим",
-        "en": "Single mode"
-    },
-    "TYPE_TEAM": {
-        "ru": "Командный режим",
-        "ua": "Командний режим",
-        "en": "Team mode"
-    },
-    "WIN_PLAYER_BOARD": {
-        "ru": "Победил игрок",
-        "ua": "Переміг гравець",
-        "en": "The player won"
-    },
-    "WIN_TEAM_BOARD": {
-        "ru": "Победила команда",
-        "ua": "Перемогла команда команда",
-        "en": "The team won"
-    },
-    "YOU_CANNOT_RESUME": {
-        "ru": "§cОшибка, Вы нигде не играли или сервер был перезагружен",
-        "ua": "§cПомилка, ви ніде не грали або сервер був перезавантажений",
-        "en": "§cError, you haven't played anywhere or the server has been restarted"
-    },
-    "YOU_CAN_REJOIN": {
-        "ru": "§fЕсли Вы были §cкикнуты§f, напишите §7/rejoin§f для повторного входа в игру",
-        "ua": "§fЯкщо вас §cкікнули§f, напишіть §7/rejoin§f для повторного входу у гру",
-        "en": "§fIf you were §ckicked out§f, write §7/rejoin§f to reentry the game"
-    },
-    "YOU_DEAD": {
-        "ru": "§cВы погибли",
-        "ua": "§cВи загинули",
-        "en": "§cYou are dead"
-    },
-    "YOU_DEAD_SPECTATOR": {
-        "ru": "§7Теперь вы наблюдатель",
-        "ua": "§7Тепер ви спостерігач",
-        "en": "§7Now you are a spectator"
-    },
-    "YOU_DIED_CLICK_TO_VOTE": {
-        "ru": "%s§fОцените карту, на которой Вы играли: ",
-        "ua": "%s§fОцініть карту, на якій ви грали: ",
-        "en": "%s§fRate the map you played on: "
-    },
-    "YOU_WERE_REJOINED": {
-        "ru": "§aВы повторно вошли в игру на сервере %s",
-        "ua": "§aВи повторно увійшли в гру на сервері %s",
-        "en": "§aYou have re-entered the game on the server %s"
-    }
+  "ARENA_BUSY": {
+    "ru": "§cАрена заполнена, не хватает слотов? Купите §a§lEMERALD§c или выше",
+    "ua": "§cАрена заповнена, не вистачає слотів? Купіть §a§lEMERALD§c або вище",
+    "en": "§cThe arena is full, not enough slots? Buy §a§lEMERALD§c or higher"
+  },
+  "ARENA_RESTART": {
+    "ru": "§cСервер перезагружается...",
+    "ua": "§cСервер перезавантажується...",
+    "en": "§cServer is rebooting..."
+  },
+  "ARENA_START": {
+    "ru": "§cИгра начинается...",
+    "ua": "§cГра розпочинається...",
+    "en": "§cThe game begins..."
+  },
+  "BREAK_BLOCK_UNDER_TEAM": {
+    "ru": "§cВы не можете ломать блоки под своими тиммейтами",
+    "ua": "§cВи не можете ламати блоки під своїми тіммейтами",
+    "en": "§cYou cannot break blocks under your teammates"
+  },
+  "BREAK_EFFECT": {
+    "ru": "эффект сломанной кровати\\яйца",
+    "ua": "ефект зламаного ліжка \\ яйця",
+    "en": "broken bed/egg effect"
+  },
+  "BREAK_EFFECT_SELECTION_MESSAGE": {
+    "ru": "Вы выбрали эффект §a%s",
+    "ua": "Ви обрали ефект §a%s",
+    "en": "You chose effect §a%s"
+  },
+  "COMPASS_ITEM_LORE": {
+    "ru": [
+      "§7Используй его для телепортации к игрокам"
+    ],
+    "ua": [
+      "§7Використовуй його для телепортації до гравців"
+    ],
+    "en": [
+      "§7Use it to teleport to players"
+    ]
+  },
+  "COMPASS_ITEM_NAME": {
+    "ru": "§eТелепортер",
+    "ua": "§eТелепортер",
+    "en": "§eTeleporter"
+  },
+  "COMPASS_MESSAGE": {
+    "ru": "§fИгрок: %s      §fРасстояние: ",
+    "ua": "§fГравець: %s      §fВідстань: ",
+    "en": "§fPlayer: %s      §fDistance: "
+  },
+  "COMPASS_MESSAGE_SPECTATOR": {
+    "ru": "§fБлижайший игрок: %s      §fРасстояние: §a%s",
+    "ua": "§fНайближчий гравець: %s      §fВідстань: §a%s",
+    "en": "§fNearest player: %s      §fDistance: §a%s"
+  },
+  "COMPASS_MODE_CHANGED": {
+    "ru": "Режим локатора изменен на §e%s",
+    "ua": "Режим локатора змінений на §e%s",
+    "en": "Compass mode changed for §e%s"
+  },
+  "COMPASS_MODE_NEAREST_PLAYER": {
+    "ru": "поиск ближайшего игрока",
+    "ua": "пошук найближчого гравця",
+    "en": "search for the nearest player"
+  },
+  "COMPASS_MODE_TEAMMATE": {
+    "ru": "поиск ближайшего тиммейта",
+    "ua": "пошук найближчого тіммейта",
+    "en": "search for the nearest teammate"
+  },
+  "DEATH_MSG_TITLE": {
+    "ru": "§cВы погибли",
+    "ua": "§cВи загинули",
+    "en": "§cYou died"
+  },
+  "FINAL_KILL": {
+    "ru": "%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!",
+    "ua": "%s §fбув вбитий гравцем %s §bФІНАЛЬНЕ ВБИВСТВО!",
+    "en": "%s §fhas been killed by player %s §bFINAL KILLS!"
+  },
+  "GAMEINFO_FORMAT": {
+    "ru": "/gameinfo [канал]",
+    "ua": "/gameinfo [канал]",
+    "en": "/gameinfo [channel]"
+  },
+  "GAME_COSMETIC_0_LORE": {
+    "ru": [
+      "§7Сыграй мелодию на нотах тетивы"
+    ],
+    "ua": [
+      "§7Зіграй мелодію на нотах тятиви"
+    ],
+    "en": [
+      "§7Play the melody on the notes of the bowstring"
+    ]
+  },
+  "GAME_COSMETIC_0_NAME": {
+    "ru": "Ноты",
+    "ua": "Ноти",
+    "en": "Notes"
+  },
+  "GAME_COSMETIC_100_LORE": {
+    "ru": [
+      "§7Начало игры сопровождается праздничным",
+      "§7взрывом фейерверков!"
+    ],
+    "ua": [
+      "§7Початок гри супроводжується святковим",
+      "§7вибухом феєрверків!"
+    ],
+    "en": [
+      "§7The beginning of the game is accompanied by festive",
+      "§7fireworks!"
+    ]
+  },
+  "GAME_COSMETIC_100_NAME": {
+    "ru": "Фейерверк",
+    "ua": "Феєрверк",
+    "en": "Fireworks"
+  },
+  "GAME_COSMETIC_101_LORE": {
+    "ru": [
+      "§7Специально для заядлых кузнецов",
+      "§7подготовлен комплект любимого звучания",
+      "§7молотка об наковальню"
+    ],
+    "ua": [
+      "§7Спеціально для завзятих ковалів",
+      "§7підготовлений комплект улюбленого звучання",
+      "§7молотка об ковадло"
+    ],
+    "en": [
+      "§7Specially for avid blacksmiths there is",
+      "§7a set of your favorite sound of",
+      "§a hammer on the anvil"
+    ]
+  },
+  "GAME_COSMETIC_101_NAME": {
+    "ru": "Кузнечный мастер",
+    "ua": "Ковальський майстер",
+    "en": "Blacksmith"
+  },
+  "GAME_COSMETIC_102_LORE": {
+    "ru": [
+      "§7Мир Края завораживает своими",
+      "§7звуками прямо перед матчем.",
+      "§7Стоит попробовать!"
+    ],
+    "ua": [
+      "§7Світ Края заворожує своїми",
+      "§7звуками прямо перед матчем.",
+      "§7Варто спробувати!"
+    ],
+    "en": [
+      "§7The End world fascinates with its",
+      "§7sounds just before the match.",
+      "§7Worth trying!"
+    ]
+  },
+  "GAME_COSMETIC_102_NAME": {
+    "ru": "Эндермир",
+    "ua": "Ендерсвіт",
+    "en": "Enderworld"
+  },
+  "GAME_COSMETIC_103_LORE": {
+    "ru": [
+      "§7Раскидайте своих врагов их же оружием"
+    ],
+    "ua": [
+      "§7Розкидайте своїх ворогів їх же зброєю"
+    ],
+    "en": [
+      "§7Scatters your enemies with their own weapon"
+    ]
+  },
+  "GAME_COSMETIC_103_NAME": {
+    "ru": "Яйцемёт",
+    "ua": "Яйцестріл",
+    "en": "Egg launcher"
+  },
+  "GAME_COSMETIC_10_LORE": {
+    "ru": [
+      "§7Эффект бессмертия дарует стреле...",
+      "§7бессмертие. Будто она была смертна!"
+    ],
+    "ua": [
+      "§7Ефект безсмертя дарує стрілі...",
+      "§7безсмертя. Ніби вона була смертна!"
+    ],
+    "en": [
+      "§7Immortality effect gives...",
+      "§7immortality for your arrow. As if it were mortal!"
+    ]
+  },
+  "GAME_COSMETIC_10_NAME": {
+    "ru": "Бессмертие",
+    "ua": "Безсмерт",
+    "en": "Immortality"
+  },
+  "GAME_COSMETIC_110_LORE": {
+    "ru": [
+      "§7Такой же красный, как кровь твоих врагов"
+    ],
+    "ua": [
+      "§7Такий же червоний, як кров твоїх ворогів"
+    ],
+    "en": [
+      "§7As red as the blood of your enemies"
+    ]
+  },
+  "GAME_COSMETIC_110_NAME": {
+    "ru": "Красный",
+    "ua": "Червоний",
+    "en": "Red"
+  },
+  "GAME_COSMETIC_111_LORE": {
+    "ru": [
+      "§7Отлично подходит для маскировки зимой!"
+    ],
+    "ua": [
+      "§7Дуже добре підходить для маскування взимку!"
+    ],
+    "en": [
+      "§7Great for winter camouflage!"
+    ]
+  },
+  "GAME_COSMETIC_111_NAME": {
+    "ru": "Белый",
+    "ua": "Білий",
+    "en": "White"
+  },
+  "GAME_COSMETIC_112_LORE": {
+    "ru": [
+      "§7Апельсиновый окрас придаст вам",
+      "§7кислинки в PvP"
+    ],
+    "ua": [
+      "§7Апельсинове забарвлення додасть вам",
+      "§7кислинки в PvP"
+    ],
+    "en": [
+      "§7Orange color will give you",
+      "§7sourness in PvP"
+    ]
+  },
+  "GAME_COSMETIC_112_NAME": {
+    "ru": "Оранжевый",
+    "ua": "Помаранчевий",
+    "en": "Orange"
+  },
+  "GAME_COSMETIC_113_LORE": {
+    "ru": [
+      "§7Великолепно сделанный пурпурный щит"
+    ],
+    "ua": [
+      "§7Чудово зроблений пурпуровий щит"
+    ],
+    "en": [
+      "§7Superbly crafted purple shield"
+    ]
+  },
+  "GAME_COSMETIC_113_NAME": {
+    "ru": "Пурпурный",
+    "ua": "Пурпуровий",
+    "en": "Purple"
+  },
+  "GAME_COSMETIC_114_LORE": {
+    "ru": [
+      "§7В железной броне вы превращаетесь",
+      "§7в голубой вагон."
+    ],
+    "ua": [
+      "§7У залізної броні ви перетворюєтеся",
+      "§7на блакитний вагон."
+    ],
+    "en": [
+      "§7In iron armor you turn into",
+      "§7a blue carriage."
+    ]
+  },
+  "GAME_COSMETIC_114_NAME": {
+    "ru": "Голубой",
+    "ua": "Блакитний",
+    "en": "Blue"
+  },
+  "GAME_COSMETIC_115_LORE": {
+    "ru": [
+      "§7Солнечный щит ослепит своей красотой!"
+    ],
+    "ua": [
+      "§7Сонячний щит засліпить своєю красою!"
+    ],
+    "en": [
+      "§7The sun shield will blind you with its beauty!"
+    ]
+  },
+  "GAME_COSMETIC_115_NAME": {
+    "ru": "Желтый",
+    "ua": "Жовтий",
+    "en": "Yellow"
+  },
+  "GAME_COSMETIC_116_LORE": {
+    "ru": [
+      "§7Не перепутайте с плодом лайма",
+      "§7Да, было и такое"
+    ],
+    "ua": [
+      "§7Не переплутайте з плодом лайма",
+      "§7Так, бувало і таке"
+    ],
+    "en": [
+      "§7Do not confuse with lime fruit",
+      "§7Yes, it happened before"
+    ]
+  },
+  "GAME_COSMETIC_116_NAME": {
+    "ru": "Светло-зеленый",
+    "ua": "Світло-зелений",
+    "en": "Light green"
+  },
+  "GAME_COSMETIC_117_LORE": {
+    "ru": [
+      "§7Самый гламурный щит"
+    ],
+    "ua": [
+      "§7Найгламурніший щит"
+    ],
+    "en": [
+      "§7The most glamorous shield"
+    ]
+  },
+  "GAME_COSMETIC_117_NAME": {
+    "ru": "Розовый",
+    "ua": "Рожевий",
+    "en": "Pink"
+  },
+  "GAME_COSMETIC_118_LORE": {
+    "ru": [
+      "§7Щит серый, словно мышь",
+      "§7Крадитесь также незаметно!"
+    ],
+    "ua": [
+      "§7Щит сірий, немов миша",
+      "§7Крадьтеся також непомітно!"
+    ],
+    "en": [
+      "§7A gray shield, just like a mouse",
+      "§7Sneak just as discreetly!"
+    ]
+  },
+  "GAME_COSMETIC_118_NAME": {
+    "ru": "Серый",
+    "ua": "Сірий",
+    "en": "Gray"
+  },
+  "GAME_COSMETIC_119_LORE": {
+    "ru": [
+      "§7Этот оттенок получился из пепла",
+      "§7Пироманта на SkyWars."
+    ],
+    "ua": [
+      "§7Цей відтінок вийшов з попелу",
+      "§7Пироманта на SkyWars."
+    ],
+    "en": [
+      "§7This shade came from the ashes",
+      "§7of Pyromancer on SkyWars"
+    ]
+  },
+  "GAME_COSMETIC_119_NAME": {
+    "ru": "Серебрянный",
+    "ua": "Срібний",
+    "en": "Silver"
+  },
+  "GAME_COSMETIC_11_LORE": {
+    "ru": [
+      "§7Волны магических сил всех существ",
+      "§7игры будут следовать за вашей стрелой.",
+      "§7Не злите их"
+    ],
+    "ua": [
+      "§7Хвилі магічних сил всіх істот",
+      "§7гри будуть слідувати за вашою стрілою.",
+      "§7Не злите їх"
+    ],
+    "en": [
+      "§7Waves of magical powers of all creatures",
+      "§7will follow you arrow.",
+      "§7Don't make them angry"
+    ]
+  },
+  "GAME_COSMETIC_11_NAME": {
+    "ru": "Зелья",
+    "ua": "Зілля",
+    "en": "Potions"
+  },
+  "GAME_COSMETIC_120_LORE": {
+    "ru": [
+      "§7Если вы не можете выбрать между",
+      "§7зелёным и синим, то это для вас!"
+    ],
+    "ua": [
+      "§7Якщо ви не можете обрати між",
+      "§7зеленим і синім, то це для вас!"
+    ],
+    "en": [
+      "§7If you can't choose between",
+      "§7a green and a blue one, then this is what you need!"
+    ]
+  },
+  "GAME_COSMETIC_120_NAME": {
+    "ru": "Бирюзовый",
+    "ua": "Бірюзовий",
+    "en": "Turquoise"
+  },
+  "GAME_COSMETIC_121_LORE": {
+    "ru": [
+      "§7Роскошный щит для настоящих королей!"
+    ],
+    "ua": [
+      "§7Розкішний щит для справжніх королів!"
+    ],
+    "en": [
+      "§7A luxurious shield for real kings!"
+    ]
+  },
+  "GAME_COSMETIC_121_NAME": {
+    "ru": "Фиолетовый",
+    "ua": "Фіолетовий",
+    "en": "Violet"
+  },
+  "GAME_COSMETIC_122_LORE": {
+    "ru": [
+      "§7Теперь щит — море! Даже стрелы впитывает также"
+    ],
+    "ua": [
+      "§7Тепер щит - море! Навіть стріли вбирає також"
+    ],
+    "en": [
+      "§7Now the shield is the sea! Even arrows are absorbed just as well"
+    ]
+  },
+  "GAME_COSMETIC_122_NAME": {
+    "ru": "Синий",
+    "ua": "Синій",
+    "en": "Blue"
+  },
+  "GAME_COSMETIC_123_LORE": {
+    "ru": [
+      "§7Надеюсь это не то, о чем мы подумали."
+    ],
+    "ua": [
+      "§7Сподіваюся це не те, про що ми подумали."
+    ],
+    "en": [
+      "§7Hope it's not what you thought it is."
+    ]
+  },
+  "GAME_COSMETIC_123_NAME": {
+    "ru": "Коричневый",
+    "ua": "Коричневий",
+    "en": "Brown"
+  },
+  "GAME_COSMETIC_124_LORE": {
+    "ru": [
+      "§7Говорят, зелёный цвет успокаивает",
+      "§7Проверьте на противниках"
+    ],
+    "ua": [
+      "§7Кажуть, зелений колір заспокоює",
+      "§7Перевірте на супротивниках"
+    ],
+    "en": [
+      "§7They say green is soothing",
+      "§7Test on your enemies"
+    ]
+  },
+  "GAME_COSMETIC_124_NAME": {
+    "ru": "Зеленый",
+    "ua": "Зелений",
+    "en": "Green"
+  },
+  "GAME_COSMETIC_125_LORE": {
+    "ru": [
+      "§7Измажьте щит своей душой!"
+    ],
+    "ua": [
+      "§7Ізмажте щит своєю душею!"
+    ],
+    "en": [
+      "§7Smear the shield with your soul!"
+    ]
+  },
+  "GAME_COSMETIC_125_NAME": {
+    "ru": "Черный",
+    "ua": "Чорний",
+    "en": "Black"
+  },
+  "GAME_COSMETIC_126_LORE": {
+    "ru": [
+      "§7Путин, водка, балалайка"
+    ],
+    "ua": [
+      "§7Путін, горілка, балалайка"
+    ],
+    "en": [
+      "§7Putin, vodka, balalaika"
+    ]
+  },
+  "GAME_COSMETIC_126_NAME": {
+    "ru": "Россия",
+    "ua": "Росія",
+    "en": "Russia"
+  },
+  "GAME_COSMETIC_127_LORE": {
+    "ru": [
+      "§7Це Европа"
+    ],
+    "ua": [
+      "§7Це Європа"
+    ],
+    "en": [
+      "§7This is Europe"
+    ]
+  },
+  "GAME_COSMETIC_127_NAME": {
+    "ru": "Украина",
+    "ua": "Україна",
+    "en": "Ukraine"
+  },
+  "GAME_COSMETIC_128_LORE": {
+    "ru": [
+      "§7Опасный и общительный дракончик"
+    ],
+    "ua": [
+      "§7Небезпечний і товариський дракончик"
+    ],
+    "en": [
+      "§7A dangerous and sociable dragon"
+    ]
+  },
+  "GAME_COSMETIC_128_NAME": {
+    "ru": "Дракончик",
+    "ua": "Дракончик",
+    "en": "Dragon"
+  },
+  "GAME_COSMETIC_129_LORE": {
+    "ru": [
+      "§7Портрет последнего Лорда!"
+    ],
+    "ua": [
+      "§7Портрет останнього Лорда!"
+    ],
+    "en": [
+      "§7The portrait of the last Lord!"
+    ]
+  },
+  "GAME_COSMETIC_129_NAME": {
+    "ru": "Скелет",
+    "ua": "Скелет",
+    "en": "Skeleton"
+  },
+  "GAME_COSMETIC_130_LORE": {
+    "ru": [
+      "§7Но вы не бессмертны, нет"
+    ],
+    "ua": [
+      "§7Але ви не безсмертні, ні"
+    ],
+    "en": [
+      "§7But you are not immortal, no"
+    ]
+  },
+  "GAME_COSMETIC_130_NAME": {
+    "ru": "Деад Пул",
+    "ua": "Деад Пул",
+    "en": "Deadpool"
+  },
+  "GAME_COSMETIC_131_LORE": {
+    "ru": [
+      "§7Для музыкальных ценителей"
+    ],
+    "ua": [
+      "§7Для музичних поціновувачів"
+    ],
+    "en": [
+      "§7For music connoisseurs"
+    ]
+  },
+  "GAME_COSMETIC_131_NAME": {
+    "ru": "Гитара",
+    "ua": "Гітара",
+    "en": "Guitar"
+  },
+  "GAME_COSMETIC_132_LORE": {
+    "ru": [
+      "§7Покажите всем, как вы их любите!"
+    ],
+    "ua": [
+      "§7Покажіть всім, як ви їх любите!"
+    ],
+    "en": [
+      "§7Show everyone how much you love them!"
+    ]
+  },
+  "GAME_COSMETIC_132_NAME": {
+    "ru": "Сердце",
+    "ua": "Серце",
+    "en": "Hearts"
+  },
+  "GAME_COSMETIC_133_LORE": {
+    "ru": [
+      "§7Тот самый олень Санты!"
+    ],
+    "ua": [
+      "§7Той самий олень Санти!"
+    ],
+    "en": [
+      "§7The famous Santa's deer!"
+    ]
+  },
+  "GAME_COSMETIC_133_NAME": {
+    "ru": "Олень",
+    "ua": "Олень",
+    "en": "Deer"
+  },
+  "GAME_COSMETIC_134_LORE": {
+    "ru": [
+      "§7Из него выскочит Пикачу!"
+    ],
+    "ua": [
+      "§7З нього вискочить Пікачу!"
+    ],
+    "en": [
+      "§7Pikachu will come out of it!"
+    ]
+  },
+  "GAME_COSMETIC_134_NAME": {
+    "ru": "Покебол",
+    "ua": "Покебол",
+    "en": "Pokeball"
+  },
+  "GAME_COSMETIC_135_LORE": {
+    "ru": [
+      "§7Всякий раз, когда вы убиваете игрока,",
+      "§7вы делаете это, под эффект музыкальных нот!"
+    ],
+    "ua": [
+      "§7Кожний раз, коли ви вбиваєте гравця,",
+      "§7ви робите це під ефект музичних нот!"
+    ],
+    "en": [
+      "§7Every time you kill a player,",
+      "§7you do it to the effect of musical notes!"
+    ]
+  },
+  "GAME_COSMETIC_135_NAME": {
+    "ru": "Убийственная симфония",
+    "ua": "Убивча симфонія",
+    "en": "Murderous symphony"
+  },
+  "GAME_COSMETIC_136_LORE": {
+    "ru": [
+      "§7Всякий раз, когда вы убиваете игрока,",
+      "§7вы даете ему понять, что любите его!"
+    ],
+    "ua": [
+      "§7Кожний раз, коли ви вбиваєте гравця,",
+      "§7ви даєте йому зрозуміти, що любите його!"
+    ],
+    "en": [
+      "§7Every time you kill a player,",
+      "§7you let him know that you love him!"
+    ]
+  },
+  "GAME_COSMETIC_136_NAME": {
+    "ru": "Ромео",
+    "ua": "Ромео",
+    "en": "Romeo"
+  },
+  "GAME_COSMETIC_137_LORE": {
+    "ru": [
+      "§7Всякий раз, когда вы убиваете игрока,",
+      "§7на его труп снисходит гнев небес!"
+    ],
+    "ua": [
+      "§7Кожний раз, коли ви вбиваєте гравця,",
+      "§7на його труп сходить гнів небес!"
+    ],
+    "en": [
+      "§7Every time you kill a player,",
+      "§7the wrath of heaven descends on his corpse!"
+    ]
+  },
+  "GAME_COSMETIC_137_NAME": {
+    "ru": "Повелитель молний",
+    "ua": "Повелитель блискавок",
+    "en": "Lord of lightnings"
+  },
+  "GAME_COSMETIC_138_LORE": {
+    "ru": [
+      "§7Всякий раз, когда вы убиваете игрока,",
+      "§7на его могиле появляется прощальный фейерверк!"
+    ],
+    "ua": [
+      "§7Кожний раз, коли ви вбиваєте гравця,",
+      "§7на його могилі з'являється прощальний феєрверк!"
+    ],
+    "en": [
+      "§7Every time you kill a player,",
+      "§a farewell firework displays on his grave!"
+    ]
+  },
+  "GAME_COSMETIC_138_NAME": {
+    "ru": "Прощальный фейерверк",
+    "ua": "Прощальний феєерверк",
+    "en": "Farewell fireworks"
+  },
+  "GAME_COSMETIC_1_LORE": {
+    "ru": [
+      "§7Отлично дополнит эффект горящей стрелы!"
+    ],
+    "ua": [
+      "§7Відмінно доповнить ефект палаючої стріли!"
+    ],
+    "en": [
+      "§7Perfectly complements the effect of a burning arrow!"
+    ]
+  },
+  "GAME_COSMETIC_1_NAME": {
+    "ru": "Дым",
+    "ua": "Дим",
+    "en": "Smoke"
+  },
+  "GAME_COSMETIC_2_LORE": {
+    "ru": [
+      "§7..и этот тоже отличное дополнение"
+    ],
+    "ua": [
+      "§7..і це теж відмінне доповнення"
+    ],
+    "en": [
+      "§7..and this one is also a great addition"
+    ]
+  },
+  "GAME_COSMETIC_2_NAME": {
+    "ru": "Огонь",
+    "ua": "Вогонь",
+    "en": "Fire"
+  },
+  "GAME_COSMETIC_3_LORE": {
+    "ru": [
+      "§7Представьте, что вы Амур. Стреляйте."
+    ],
+    "ua": [
+      "§7Уявіть, що ви Амур. Стріляйте."
+    ],
+    "en": [
+      "§7Imagine that you are Cupid. Shoot."
+    ]
+  },
+  "GAME_COSMETIC_3_NAME": {
+    "ru": "Сердечки",
+    "ua": "Сердечка",
+    "en": "Hearts"
+  },
+  "GAME_COSMETIC_4_LORE": {
+    "ru": [
+      "§7Потоки радости мудрейшего жителя",
+      "§7подарят ваши стрелы и",
+      "§7приведут их точно в цель!"
+    ],
+    "ua": [
+      "§7Потоки радості наймудрішого жителя",
+      "§7подарують ваші стріли і",
+      "§7приведуть їх точно в ціль!"
+    ],
+    "en": [
+      "§7Streams of joy from the wisest inhabitant",
+      "§7will lead your arrows",
+      "§7in the right direction!"
+    ]
+  },
+  "GAME_COSMETIC_4_NAME": {
+    "ru": "Изумрудный",
+    "ua": "Смарагдовий",
+    "en": "Emerald"
+  },
+  "GAME_COSMETIC_5_LORE": {
+    "ru": [
+      "§7Отныне ваши стрелы и есть фейерверк"
+    ],
+    "ua": [
+      "§7Відтепер ваші стріли є феєрверком"
+    ],
+    "en": [
+      "§7From now on, your arrows are fireworks"
+    ]
+  },
+  "GAME_COSMETIC_5_NAME": {
+    "ru": "Фейерверк",
+    "ua": "Феєерверк",
+    "en": "Fireworks"
+  },
+  "GAME_COSMETIC_6_LORE": {
+    "ru": [
+      "§7Создай новогоднее настроение",
+      "§7в любое время года!"
+    ],
+    "ua": [
+      "§7Створи новорічний настрій",
+      "§7в будь-який час року!"
+    ],
+    "en": [
+      "§7Create a Christmas mood",
+      "§7at any time of the year!"
+    ]
+  },
+  "GAME_COSMETIC_6_NAME": {
+    "ru": "Гирлянда",
+    "ua": "Гірлянда",
+    "en": "Garland"
+  },
+  "GAME_COSMETIC_7_LORE": {
+    "ru": [
+      "§7Магический поток великой ведьмы",
+      "§7сопровождают каждый ваш выстрел"
+    ],
+    "ua": [
+      "§7Магічний потік великої відьми",
+      "§7супроводжують кожен ваш постріл"
+    ],
+    "en": [
+      "§7Magical stream of the great witch",
+      "§7accompanies your every shot"
+    ]
+  },
+  "GAME_COSMETIC_7_NAME": {
+    "ru": "Ведьма",
+    "ua": "Відьма",
+    "en": "Witch"
+  },
+  "GAME_COSMETIC_8_LORE": {
+    "ru": [
+      "§7На самом деле, житель не злой, а сердитый"
+    ],
+    "ua": [
+      "§7Насправді, житель не злий, а сердитий"
+    ],
+    "en": [
+      "§7In fact, the villager is not angry, but furious"
+    ]
+  },
+  "GAME_COSMETIC_8_NAME": {
+    "ru": "Злой житель",
+    "ua": "Злий житель",
+    "en": "Angry villager"
+  },
+  "GAME_COSMETIC_9_LORE": {
+    "ru": [
+      "§7Если вы не знаете как появляются облака,",
+      "§7то купите этот эффект"
+    ],
+    "ua": [
+      "§7Якщо ви не знаєте як з'являються хмари,",
+      "§7то купіть цей ефект"
+    ],
+    "en": [
+      "§7If you don't know where clouds come from,",
+      "§7then buy this effect"
+    ]
+  },
+  "GAME_COSMETIC_9_NAME": {
+    "ru": "Облако",
+    "ua": "Хмара",
+    "en": "Cloud"
+  },
+  "GAME_COSMETIC_ALREADY_HAVE": {
+    "ru": "§fУ вас уже есть данный предмет, вы получили §b+%s %s",
+    "ua": "§fУ вас вже є цей предмет, ви отримали §b+%s %s",
+    "en": "§fYou already have this item, you received §b+%s %s"
+  },
+  "GAME_COSMETIC_GUI_ARROW_LORE": {
+    "ru": [
+      "",
+      "§7Покупка и активация эффектов",
+      "§7полета стрел, которые действуют",
+      "§7на аренах всех мини-игр.",
+      "",
+      "§7Открыто: §a%s/%s §6%s",
+      "§7Активированный эффект:",
+      "%s",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Купівля та активація ефектів",
+      "§7польоту стріл, які діють",
+      "§7на аренах всіх міні-ігор.",
+      "",
+      "§7Відкрито: §a%s/%s §6%s",
+      "§7Активований ефект:",
+      "%s",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Buying and activating flying arrows effects",
+      "§7which are activated",
+      "§7on arenas of all mini-games.",
+      "",
+      "§7Unlocked: §a%s/%s §6%s",
+      "§7Activated effect:",
+      "%s",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "GAME_COSMETIC_GUI_ARROW_NAME": {
+    "ru": "Эффекты стрел",
+    "ua": "Ефекти стріл",
+    "en": "Arrows effects"
+  },
+  "GAME_COSMETIC_GUI_COLORABLE_LORE": {
+    "ru": [
+      "",
+      "§7Покупка и активация цветов",
+      "§7в которые будут окращены ваши",
+      "§7щиты и коженная броня.",
+      "",
+      "§7Открыто: §a%s/%s §6%s",
+      "§7Активированный цвет:",
+      "%s",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Купівля та активація кольорів,",
+      "§7в які будуть пофарбовані ваші",
+      "§7щити і шкіряна броня.",
+      "",
+      "§7Відкрито: §a%s/%s §6%s",
+      "§7Активований колір:",
+      "%s",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Buying and activating the colors",
+      "§7in which your shields",
+      "§7and leather armor will be painted..",
+      "",
+      "§7Unlocked: §a%s/%s §6%s",
+      "§7Activated color:",
+      "%s",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "GAME_COSMETIC_GUI_COLORABLE_NAME": {
+    "ru": "Цветные щиты и броня",
+    "ua": "Кольорові щити та броня",
+    "en": "Colored shields and armor"
+  },
+  "GAME_COSMETIC_GUI_KILL_EFFECT_LORE": {
+    "ru": [
+      "",
+      "§7Покупка и активация эффектов",
+      "§7которые будут воспроизводиться",
+      "§7около убитого вами игрока.",
+      "",
+      "§7Открыто: §a%s/%s §6%s",
+      "§7Активированный эффект:",
+      "%s",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Купівля та активація ефектів,",
+      "§7які будуть відтворюватися",
+      "§7біля вбитого вами гравця.",
+      "",
+      "§7Відкрито: §a%s/%s §6%s",
+      "§7Активований ефект:",
+      "%s",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Buying and activating the effects",
+      "§7which will be played",
+      "§7next to a player you kill.",
+      "",
+      "§7Unlocked: §a%s/%s §6%s",
+      "§7Activated effect:",
+      "%s",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "GAME_COSMETIC_GUI_KILL_EFFECT_NAME": {
+    "ru": "Эффекты убийств",
+    "ua": "Ефекти вбивств",
+    "en": "Kill effects"
+  },
+  "GAME_COSMETIC_GUI_START_SOUND_LORE": {
+    "ru": [
+      "",
+      "§7Покупка и активация звуков",
+      "§7которые вы услышите при",
+      "§7старте игры.",
+      "",
+      "§7Открыто: §a%s/%s §6%s",
+      "§7Активированный звук:",
+      "%s",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Купівля та активація звуків,",
+      "§7які ви почуєте на",
+      "§7старті гри.",
+      "",
+      "§7Відкрито: §a%s/%s §6%s",
+      "§7Активований звук:",
+      "%s",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Buying and activating sounds",
+      "§7which you will hear at the",
+      "§7beginning of the game.",
+      "",
+      "§7Unlocked: §a%s/%s §6%s",
+      "§7Activated sound:",
+      "%s",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "GAME_COSMETIC_GUI_START_SOUND_NAME": {
+    "ru": "Звук старта",
+    "ua": "Звук старта",
+    "en": "Start sound"
+  },
+  "GAME_COSMETIC_KEY": {
+    "ru": "§aКосметико-игровой ключ",
+    "ua": "§aКосметично-ігровий ключ",
+    "en": "§aCosmetic gaming key"
+  },
+  "GAME_COSMETIC_KEY_LORE": {
+    "ru": [
+      "",
+      "§7Используется для получения",
+      "§7эффектов стрел, предсмертных хрипов и другой",
+      "§7визуальной \"фигни\" на аренах",
+      "",
+      "§cВнимание! При выбивании уже существующего",
+      "§cпредмета вы получите пыль (10% от стоимости)"
+    ],
+    "ua": [
+      "",
+      "§7Використовується для отримання",
+      "§7ефектів стріл, передсмертних хрипів і іншої",
+      "§7визуальної \"фігні\" на аренах",
+      "",
+      "§cУвага! При вибиванні вже існуючого",
+      "§cпредмета ви отримаєте пил (10% від вартості)"
+    ],
+    "en": [
+      "",
+      "§7Is used for receiving",
+      "§7arrow effects, death rales and other",
+      "§7visual stuff on arenas",
+      "",
+      "§cAttention! When knocking out an already existing",
+      "§citem, you will get dust (10% of the cost)"
+    ]
+  },
+  "GAME_COSMETIC_LEVEL_ERROR": {
+    "ru": [
+      "§cВНИМАНИЕ! Для использования этой вещи",
+      "§cвам нужно иметь %s уровень или любой",
+      "§cиз доступных донат-статусов!"
+    ],
+    "ua": [
+      "§cУВАГА! Для використання цієї речі",
+      "§cви повинні мати %s рівень або інший",
+      "§cз доступних донат-статусів!"
+    ],
+    "en": [
+      "§cATTENTION! T0 use this item,",
+      "§cyou must have %s level or any other of",
+      "§cthe available donate statuses!"
+    ]
+  },
+  "GAME_COSMETIC_MAIN_GUI_NAME": {
+    "ru": "Косметика",
+    "ua": "Косметика",
+    "en": "Cosmetics"
+  },
+  "GAME_COSMETIC_NO_LEVEL": {
+    "ru": "§cОшибка, у вас нет %s уровня для активации (",
+    "ua": "§cПомилка, у вас немає %s рівня для активації (",
+    "en": "§cError, you don't have %s level for activation ("
+  },
+  "GAME_END_BOARD_DESC": {
+    "ru": "Игра окончена!",
+    "ua": "Гра закінчена!",
+    "en": "Game over!"
+  },
+  "GAME_END_BOARD_NO_WINNER": {
+    "ru": "§cНичья",
+    "ua": "§cНічия",
+    "en": "§cDraw"
+  },
+  "GAME_END_BOARD_TITLE": {
+    "ru": "§fИгра окончена",
+    "ua": "§fГра закінчена!",
+    "en": "§fGame over"
+  },
+  "GAME_END_BOARD_TITLE_WINNER": {
+    "ru": "§fПобедитель:",
+    "ua": "§fПережемоць:",
+    "en": "§fWinner:"
+  },
+  "GAME_END_BOARD_TITLE_WINNERS": {
+    "ru": "§fПобедители:",
+    "ua": "§fПереможці:",
+    "en": "§fWinners:"
+  },
+  "GAME_END_BOARD_WINNER": {
+    "ru": "Победитель:",
+    "ua": "Переможець:",
+    "en": "Winner:"
+  },
+  "GAME_END_BOARD_WINNERS": {
+    "ru": "Победители:",
+    "ua": "Переможці:",
+    "en": "Winners:"
+  },
+  "GAME_NO_WINNER": {
+    "ru": "§cИгра закончилась в ничью",
+    "ua": "§cГра закінчилась в нічию",
+    "en": "§cThe game ended in a draw"
+  },
+  "GAME_PLACE": {
+    "ru": "%s%s место §8- §e%s",
+    "ua": "%s%s місце §8- §e%s",
+    "en": "%s%s place §8- §e%s"
+  },
+  "GAME_REJOIN": {
+    "ru": "§fВы перезашли в игру",
+    "ua": "§fВи перезайшли в гру",
+    "en": "§fYou reentered the game"
+  },
+  "GAME_SHOP_GUI_ADD_FAVOURITE": {
+    "ru": "§aПКМ, чтобы добавить в избранное",
+    "ua": "§aПКМ, щоб додати в обране",
+    "en": "§aRMC to add to favorites"
+  },
+  "GAME_SHOP_GUI_FAVOURITE": {
+    "ru": "Пустой слот для избранного",
+    "ua": "Порожній слот для обраного",
+    "en": "Empty slot for favorites"
+  },
+  "GAME_SHOP_GUI_FAVOURITE_LOER": {
+    "ru": [
+      "",
+      "§cДанный слот заблокирован",
+      "§cКупите %s §cили выше, чтобы разблокировать"
+    ],
+    "ua": [
+      "",
+      "§cЦей слот заблокований",
+      "§cНеобхідно придбати %s §cабо вище, щоб розблокувати"
+    ],
+    "en": [
+      "",
+      "§cThis slot is blocked",
+      "§cPurchase %s §cor higher to unblock"
+    ]
+  },
+  "GAME_SHOP_GUI_ITEMS_BUY": {
+    "ru": "§e▸ Нажмите ЛКМ, чтобы купить",
+    "ua": "§e▸ Натисніть ЛКМ, щоб придбати",
+    "en": "§e▸ Click LMC to purchase"
+  },
+  "GAME_SHOP_GUI_ITEMS_FIRST_LORE": {
+    "ru": [
+      "",
+      "§8Предметы:"
+    ],
+    "ua": [
+      "",
+      "§8Предмети:"
+    ],
+    "en": [
+      "",
+      "§8Items:"
+    ]
+  },
+  "GAME_SHOP_GUI_ITEMS_NO_ITEMS": {
+    "ru": "§cУ вас недостаточно ресурсов!",
+    "ua": "§cУ вас недостатньо ресурсів!",
+    "en": "§cYou don't have enough resources!"
+  },
+  "GAME_SHOP_GUI_ITEMS_SECOND_LORE": {
+    "ru": [
+      "",
+      "§7Цена: %s %s",
+      "",
+      "§8Нажмите SHIFT чтобы",
+      "§8купить в 5 раз больше",
+      " "
+    ],
+    "ua": [
+      "",
+      "§7Вартість: %s %s",
+      "",
+      "§8Натисніть SHIFT, щоб",
+      "§8придбати в 5 разів більше",
+      " "
+    ],
+    "en": [
+      "",
+      "§7Price: %s %s",
+      "",
+      "§8Press SHIFT to",
+      "§8buy 5 times more",
+      " "
+    ]
+  },
+  "GAME_SHOP_GUI_NAME": {
+    "ru": "Магазин",
+    "ua": "Магазин",
+    "en": "Store"
+  },
+  "GAME_SHOP_GUI_NO_SLOTS_FAVOURITE": {
+    "ru": "§cУ вас нет свободных слотов для добавления в избранное!",
+    "ua": "§cУ вас немає вільних слотів для додавання в обране!",
+    "en": "§cYou have no free slots to add to favorites!"
+  },
+  "GAME_SHOP_GUI_REMOVE_FAVOURITE": {
+    "ru": "§cПКМ, чтобы удалить из избранного",
+    "ua": "§cПКМ, щоб видалити із обраного",
+    "en": "§cRMC to delete from favorites"
+  },
+  "GAME_SHOP_NO_SLOTS": {
+    "ru": "§cУ вас недостаточно места в инвентаре!",
+    "ua": "§cУ вас недостатньо місця в інвентарі!",
+    "en": "§cYou don't have enough space in your inventory!"
+  },
+  "GAME_SHOP_NPC_HOLO": {
+    "ru": [
+      "§eМагазин",
+      "§fНажмите, чтобы открыть!"
+    ],
+    "ua": [
+      "§eМагазин",
+      "§fНатисніть, щоб відкрити!"
+    ],
+    "en": [
+      "§eStore",
+      "§fClick to open!"
+    ]
+  },
+  "GAME_SPECTATOR_MESSAGE": {
+    "ru": "Вы погибли и теперь вы можете только наблюдать за игровым процессом.",
+    "ua": "Ви загинули і тепер ви можете тільки спостерігати за ігровим процесом.",
+    "en": "You died and now you can only watch the game process."
+  },
+  "GAME_TITLE_NOT_WINNER": {
+    "ru": "§7Вы проиграли в этой игре",
+    "ua": "§7Ви програли в цій грі",
+    "en": "§7You lost in this game"
+  },
+  "GAME_TITLE_OVER": {
+    "ru": "§c§lИГРА ОКОНЧЕНА",
+    "ua": "§c§lГРА ЗАКІНЧЕНА",
+    "en": "§c§lGAME OVER"
+  },
+  "GAME_TITLE_SOLO_WIN": {
+    "ru": "§7Вы остались последним выжившим игроком",
+    "ua": "§7Ви залишилися останнім гравцем, що вижив",
+    "en": "§7You are the last player standing"
+  },
+  "GAME_TITLE_TEAM_WIN": {
+    "ru": "§7Ваша команда победила в этой игре",
+    "ua": "§7Ваша команда перемогла в цій грі",
+    "en": "§7Your team won this game"
+  },
+  "GAME_TITLE_WIN": {
+    "ru": "§6§lПОБЕДА",
+    "ua": "§6§lПЕРЕМОГА",
+    "en": "§6§lVICTORY"
+  },
+  "GAME_TITLE_WIN_PLACE": {
+    "ru": "§7Вы заняли %s место в этой игре",
+    "ua": "§7Ви посіли %s місце в цій грі",
+    "en": "§7You took the %s place in the game"
+  },
+  "GAME_UPGRADE_NPC_HOLO": {
+    "ru": [
+      "§eМагазин улучшений",
+      "§fНажмите, чтобы открыть!"
+    ],
+    "ua": [
+      "§eМагазин покращений",
+      "§fНатисніть, щоб відкрити!"
+    ],
+    "en": [
+      "§eUpgrade store",
+      "§fClick to open!"
+    ]
+  },
+  "GAME_WINNER": {
+    "ru": "Победитель - %s",
+    "ua": "Переможець - %s",
+    "en": "Winner - %s"
+  },
+  "GAME_WINNERS": {
+    "ru": "Победители - %s",
+    "ua": "Переможці - %s",
+    "en": "Winners - %s"
+  },
+  "GLOBAL_TEAM_GAME_CHAT_FORMAT": {
+    "ru": " §8[§cВсем§8] ",
+    "ua": " §8[§cУсім§8] ",
+    "en": " §8[§cTo all§8] "
+  },
+  "JOIN_GAMER_ARENA": {
+    "ru": "%s§f зашел в игру (§a%s§f/§a%s§f)",
+    "ua": "%s§f зайшов в гру (§a%s§f/§a%s§f)",
+    "en": "%s§f entered the game (§a%s§f/§a%s§f)"
+  },
+  "JOIN_SPEC_MSG_SUBTITLE": {
+    "ru": "§7Вы можете только следить за игровым процессом",
+    "ua": "§7Ви можете тільки стежити за ігровим процесом",
+    "en": "§7You can only watch the gameplay"
+  },
+  "JOIN_SPEC_MSG_TITLE": {
+    "ru": "§cИгра уже началась",
+    "ua": "§cГра вже розпочалась",
+    "en": "§cThe game has already started"
+  },
+  "KIT_PURCHASE_MESSAGE": {
+    "ru": "Вы приобрели набор §a%s §fза §a%s §f%s",
+    "ua": "Ви придбали набір §a%s §fза §a%s §f%s",
+    "en": "You purchased set §a%s §ffor §a%s §f%s"
+  },
+  "KIT_SELECTION_MESSAGE": {
+    "ru": "Вы выбрали набор §a%s",
+    "ua": "Ви обрали набір §a%s",
+    "en": "You chose set §a%s"
+  },
+  "LOCAL_TEAM_GAME_CHAT_FORMAT": {
+    "ru": " §8[§aКоманде§8] ",
+    "ua": " §8[§aКоманді§8] ",
+    "en": " §8[§aTo team§8] "
+  },
+  "LOCATOR_ITEM_NAME": {
+    "ru": "§aЛокатор",
+    "ua": "§aЛокатор",
+    "en": "§aLocator"
+  },
+  "NO_PREFIX_SET": {
+    "ru": "§6Сервер §8| §cВы не можете сменить префикс во время игры",
+    "ua": "§6Сервер §8| §cВи не можете змінити префікс під час гри",
+    "en": "§6Server §8| §cYou cannot change the prefix while playing"
+  },
+  "ONLY_DONATOR": {
+    "ru": "§cОшибка, на арене только донатеры",
+    "ua": "§cПомилка, на арені тільки донатери",
+    "en": "§cError, only donators are in the arena"
+  },
+  "PERK_ITEM_LORE": {
+    "ru": [
+      "§7Используйте этот предмет,",
+      "§7чтобы выбрать один из всевозможных",
+      "§7умений на эту игру"
+    ],
+    "ua": [
+      "§7Використовуйте цей предмет,",
+      "§7щоб вибрати одне з усіляких",
+      "§7вмінь на цю гру"
+    ],
+    "en": [
+      "§7Use this item",
+      "§7to choose one of the various",
+      "§7skills for this game"
+    ]
+  },
+  "PERK_ITEM_NAME": {
+    "ru": "§eУмения",
+    "ua": "§eВміння",
+    "en": "§eSkills"
+  },
+  "PERK_PURCHASE_MESSAGE": {
+    "ru": "Вы приобрели умение §a%s §fза §a%s §f%s",
+    "ua": "Ви придбали вміння §a%s §fза §a%s §f%s",
+    "en": "You have acquired the skill §a%s §ffor §a%s §f%s"
+  },
+  "PERK_SELECTION_MESSAGE": {
+    "ru": "Вы выбрали умение §a%s",
+    "ua": "Ви вибрали вміння §a%s",
+    "en": "You chose skill §a%s"
+  },
+  "PLAYER_ALIVE_GAME": {
+    "ru": "§fНа карте осталось §a%s§f %s",
+    "ua": "§fНа карті залишилось §a%s§f %s",
+    "en": "§fRemained on the map §a%s§f %s"
+  },
+  "PLAYER_LEFT": {
+    "ru": "§fИгрок %s§f покинул игру",
+    "ua": "§fГравець %s§f покинув гру",
+    "en": "§fPlayer %s§f left the game"
+  },
+  "QUIT_GAMER_ARENA": {
+    "ru": "%s§f покинул игру (§c%s§f/§a%s§f)",
+    "ua": "%s§f залишив гру (§c%s§f/§a%s§f)",
+    "en": "%s§f left the game (§c%s§f/§a%s§f)"
+  },
+  "RESPAWN_SUBTITLE": {
+    "ru": "§7Вы возродитесь через §c%s §7%s",
+    "ua": "§7Ви будете відроджені через §c%s §7%s",
+    "en": "§7You will be reborn in §c%s §7%s"
+  },
+  "RESPAWN_TITLE": {
+    "ru": "§aВы возродились",
+    "ua": "§aВи блуи відроджені",
+    "en": "§aYou were reborn"
+  },
+  "RESTART_ARENA_MSG": {
+    "ru": "§cРестарт арены, через 5 секунд вы будете перемещены в лобби",
+    "ua": "§cРестарт арени, через 5 секунд ви будете переміщені в лобі",
+    "en": "§cRestart arena, after 5 seconds you will be moved to the lobby"
+  },
+  "SELECTOR_TEAM_NAME_INV": {
+    "ru": "Выбор команды: %s",
+    "ua": "Вибір команди: %s",
+    "en": "Choose players: %s"
+  },
+  "SELECTOR_TEAM_NO_PLAYERS": {
+    "ru": "§7Нет игроков...",
+    "ua": "§7Немає гравців...",
+    "en": "§7No players..."
+  },
+  "SELECTOR_TEAM_PLAYERS": {
+    "ru": "§7Игроки:",
+    "ua": "§7Гравці:",
+    "en": "§7Players:"
+  },
+  "SLOT_BUSY": {
+    "ru": "§cПростите, но вы были перемещены в лобби, ваше место занял §r%s",
+    "ua": "§cВибачте, але ви були переміщені в лобі, ваше місце зайняв §r%s",
+    "en": "§cSorry, but you were moved to the lobby, your seat was taken by §r%s"
+  },
+  "SOLO_NO_TEAM": {
+    "ru": "§c§lВнимание! §cКомандная игра запрещена на Solo режиме.",
+    "ua": "§c§lУвага! §cКомандна гра заборонена на Solo режимі.",
+    "en": "§c§lAttention! §cTeam play is prohibited in Solo mode."
+  },
+  "SPECTATOR_CAMERA_ACTIONBAR": {
+    "ru": "§fНажмите §aSHIFT §fчтобы покинуть режим наблюдателя",
+    "ua": "§fНатисніть §aSHIFT §fщоб покинути режим спостерігача",
+    "en": "§fPress §aSHIFT §fto leave spectator mode"
+  },
+  "SPECTATOR_CAMERA_OFF": {
+    "ru": "§cВы покинули режим наблюдателя",
+    "ua": "§cВи покинули режим спостерігача",
+    "en": "§cYou left spectator mode"
+  },
+  "SPECTATOR_CAMERA_SUBTITLE": {
+    "ru": "Наблюдаем за игроком: %s",
+    "ua": "Спостерігаємо за гравцем: %s",
+    "en": "Watching the player: %s"
+  },
+  "SPECTATOR_CAMERA_TITLE": {
+    "ru": "§eРежим наблюдения",
+    "ua": "§eРежим спостереження",
+    "en": "§eSpectator mode"
+  },
+  "SPECTATOR_INVENTORY_SEE_GUI_TITLE": {
+    "ru": "Инвентарь ► %s",
+    "ua": "Інвентар ► %s",
+    "en": "Inventory ► %s"
+  },
+  "SPECTATOR_KILLS_LORE": {
+    "ru": "§7Убийств: §c%s",
+    "ua": "§7Вбивств: §c%s",
+    "en": "§7Kills: §c%s"
+  },
+  "SPECTATOR_MAIN_LORE": {
+    "ru": [
+      "§7Здоровье: §e%s",
+      "§7Голод: §e%s",
+      "",
+      "§e▸ ЛКМ, чтобы телепортироваться",
+      "§e▸ ПКМ, чтобы наблюдать от 1-ого лица"
+    ],
+    "ua": [
+      "§7Здоров'я: §e%s",
+      "§7Голод: §e%s",
+      "",
+      "§e▸ ЛКМ, щоб телепортуватися",
+      "§e▸ ПКМ, щоб спостерігати від першої особи"
+    ],
+    "en": [
+      "§7Health: §e%s",
+      "§7Hunger: §e%s",
+      "",
+      "§e▸ LMC to teleport",
+      "§e▸ RMC to observe from the 1st person"
+    ]
+  },
+  "SPECTATOR_MENU_ITEM_LORE": {
+    "ru": [
+      "§7Используйте этот предмет,",
+      "§7чтобы наблюдать за игроками"
+    ],
+    "ua": [
+      "§7Використовуйте цей предмет,",
+      "§7щоб спостерігати за гравцями"
+    ],
+    "en": [
+      "§7Use this item",
+      "§7to watch the players"
+    ]
+  },
+  "SPECTATOR_MENU_ITEM_NAME": {
+    "ru": "§eТелепортер",
+    "ua": "§eТелепортер",
+    "en": "§eTeleporter"
+  },
+  "SPECTATOR_MENU_NAME": {
+    "ru": "Телепортер",
+    "ua": "Телепортер",
+    "en": "Teleporter"
+  },
+  "SPECTATOR_MODE": {
+    "ru": "Спектатор",
+    "ua": "Спектатор",
+    "en": "Spectator"
+  },
+  "SPECTATOR_NO_PERK_LORE": {
+    "ru": "§cНе выбран",
+    "ua": "§cНе обраний",
+    "en": "§cNot chosen"
+  },
+  "SPECTATOR_PERK_LORE": {
+    "ru": "§7Выбранный навык: §a%s",
+    "ua": "§7Обране вміння: §a%s",
+    "en": "§7Language chosen: §a%s"
+  },
+  "SPECTATOR_SETTINGS_FLY_OFF": {
+    "ru": "§cВыключить постоянный полет",
+    "ua": "§cВимкнути постійний політ",
+    "en": "§cTurn off constant flight"
+  },
+  "SPECTATOR_SETTINGS_FLY_ON": {
+    "ru": "§aВключить постоянный полет",
+    "ua": "§aУвімкнути постійний політ",
+    "en": "§aTurn on constant flight"
+  },
+  "SPECTATOR_SETTINGS_GUI_NAME": {
+    "ru": "Настройки наблюдателя",
+    "ua": "Налаштування спостерігача",
+    "en": "Spectator's settings"
+  },
+  "SPECTATOR_SETTINGS_HIDE": {
+    "ru": "§cСкрыть наблюдателей",
+    "ua": "§cПриховати спостерігачів",
+    "en": "§cHide spectators"
+  },
+  "SPECTATOR_SETTINGS_ITEM_LORE": {
+    "ru": [
+      "§7Используйте этот предмет,",
+      "§7чтобы изменить настройки",
+      "§7наблюдателя"
+    ],
+    "ua": [
+      "§7Використовуйте цей предмет,",
+      "§7щоб змінити налаштування",
+      "§7спостерігача"
+    ],
+    "en": [
+      "§7Use this item",
+      "§7to change settings",
+      "§7of spectator"
+    ]
+  },
+  "SPECTATOR_SETTINGS_ITEM_NAME": {
+    "ru": "§eНастройки наблюдателя",
+    "ua": "§eНалаштування спостерігача",
+    "en": "§eSpectator's settings"
+  },
+  "SPECTATOR_SETTINGS_NO_SPEED": {
+    "ru": "Без скорости",
+    "ua": "Без швидкості",
+    "en": "No speed"
+  },
+  "SPECTATOR_SETTINGS_SHOW": {
+    "ru": "§aПоказать наблюдателей",
+    "ua": "§aПоказати спостерігачів",
+    "en": "§aShow spectators"
+  },
+  "SPECTATOR_SETTINGS_SPEED": {
+    "ru": "Скорость",
+    "ua": "Швидкість",
+    "en": "Speed"
+  },
+  "SPECTATOR_SETTINGS_VISION_OFF": {
+    "ru": "§cВыключить ночное видение",
+    "ua": "§cВимкнути нічне бачення",
+    "en": "§cTurn off night vision"
+  },
+  "SPECTATOR_SETTINGS_VISION_ON": {
+    "ru": "§aВключить ночное видение",
+    "ua": "§aУвімкнути нічне бачення",
+    "en": "§aTurn on night vision"
+  },
+  "SPECTATOR_SETTING_CHANGED": {
+    "ru": "§6Наблюдение §8| §fСкорость передвижения изменена",
+    "ua": "§6Спостерігання §8| §fШвидкість пересування змінена",
+    "en": "§6Observation §8| §fMovement speed changed"
+  },
+  "SPECTATOR_SETTING_FLY_LORE": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы выключить"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб вимкнути"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to turn off"
+    ]
+  },
+  "SPECTATOR_SETTING_FLY_NAME": {
+    "ru": "§cВыключить постоянный полет",
+    "ua": "§cВимкнути постійний політ",
+    "en": "§cTurn off constant flight"
+  },
+  "SPECTATOR_SETTING_FLY_OFF": {
+    "ru": "§6Наблюдение §8| §fВы выключили постоянный полет",
+    "ua": "§6Спостерігання §8| §fВи вимкнули постійний політ",
+    "en": "§6Observer §8| §fYou turned off constant flight"
+  },
+  "SPECTATOR_SETTING_FLY_ON": {
+    "ru": "§6Наблюдение §8| §fВы включили постоянный полет",
+    "ua": "§6Спостерігання §8| §fВи увімкнули постійний політ",
+    "en": "§6Observer §8| §fYou have turned on constant flight"
+  },
+  "SPECTATOR_SETTING_GLOWING_LORE": {
+    "ru": [
+      " ",
+      "§7Данная настройка отключит подсветку",
+      "§7всех игроков на арене",
+      " ",
+      "§e▸ Нажмите, чтобы выключить"
+    ],
+    "ua": [
+      " ",
+      "§7Ця установка вимкне підсвічування",
+      "§7всіх гравців на арені",
+      " ",
+      "§e▸ Натисніть, щоб вимкнути"
+    ],
+    "en": [
+      " ",
+      "§7This setting will turn off the glowing",
+      "§7of all players on the arena",
+      " ",
+      "§e▸ Click to turn off"
+    ]
+  },
+  "SPECTATOR_SETTING_GLOWING_NAME": {
+    "ru": "§cОтключить подсвечивание игроков",
+    "ua": "§cВимкнути підсвічування гравців",
+    "en": "§cDisable player glowing"
+  },
+  "SPECTATOR_SETTING_GLOW_HIDE": {
+    "ru": "§6Наблюдение §8| §fВы подсветили всех игроков",
+    "ua": "§6Спостерігання §8| §fВи підсвітили всіх гравців",
+    "en": "§6Observer §8| §fGlow all players"
+  },
+  "SPECTATOR_SETTING_GLOW_SHOW": {
+    "ru": "§6Наблюдение §8| §fВы перестали подсвечивать всех игроков",
+    "ua": "§6Спостерігання §8| §fВи перестали підсвічувати всіх гравців",
+    "en": "§6Observer §8| §fYou have stopped glowing all players"
+  },
+  "SPECTATOR_SETTING_GUI_TITLE": {
+    "ru": "Настройки наблюдателя",
+    "ua": "Налаштування спостерігача",
+    "en": "Spectator's settings"
+  },
+  "SPECTATOR_SETTING_HIDE_LORE": {
+    "ru": [
+      " ",
+      "§7Сейчас Вы видите других",
+      "§7наблюдателей. После изменения",
+      "§7этой настройки они будут скрыты",
+      "§7для Вас.",
+      " ",
+      "§e▸ Нажмите, чтобы скрыть"
+    ],
+    "ua": [
+      " ",
+      "§7Зараз ви бачите інших",
+      "§7спостерігачів. Після зміни",
+      "§7цього налуштавання вони будуть приховані",
+      "§7для вас.",
+      " ",
+      "§e▸ Натисніть, щоб приховати"
+    ],
+    "en": [
+      " ",
+      "§Now you see other",
+      "§7spectators. After changing",
+      "§7this setting they will be hidden",
+      "§7from you.",
+      " ",
+      "§e▸ Click to hide"
+    ]
+  },
+  "SPECTATOR_SETTING_HIDE_NAME": {
+    "ru": "§cСкрыть наблюдателей",
+    "ua": "§cПриховати спостерігачів",
+    "en": "§cHide spectators"
+  },
+  "SPECTATOR_SETTING_HIDING": {
+    "ru": "§6Наблюдение §8| §fВы не видите других наблюдателей",
+    "ua": "§6Спостерігання §8| §fВи не бачите інших спостерігачів",
+    "en": "§6Observer §8| §fYou don't see other spectators"
+  },
+  "SPECTATOR_SETTING_NOFLY_LORE": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы включить"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб увімкнути"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to enable"
+    ]
+  },
+  "SPECTATOR_SETTING_NOFLY_NAME": {
+    "ru": "§aВключить постоянный полет",
+    "ua": "§aУвімкнути постійний політ",
+    "en": "§aEnable constant flight"
+  },
+  "SPECTATOR_SETTING_NOSPEED_LORE": {
+    "ru": [
+      " ",
+      "§7Убирает скорость передвижения"
+    ],
+    "ua": [
+      " ",
+      "§7Прибирає швидкість пересування"
+    ],
+    "en": [
+      " ",
+      "§7Removes movement speed"
+    ]
+  },
+  "SPECTATOR_SETTING_NOSPEED_NAME": {
+    "ru": "§cБез скорости",
+    "ua": "§cБез швидкості",
+    "en": "§cNo speed"
+  },
+  "SPECTATOR_SETTING_NO_GLOWING_LORE": {
+    "ru": [
+      " ",
+      "§7Данная настройка включит подсветку",
+      "§7всех игроков на арене",
+      " ",
+      "§e▸ Нажмите, чтобы включить"
+    ],
+    "ua": [
+      " ",
+      "§7Ця установка підсвічуватиме",
+      "§7всіх гравців на арені",
+      " ",
+      "§e▸ Натисніть, щоб увімкнути"
+    ],
+    "en": [
+      " ",
+      "§7This setting will turn on the glowing",
+      "§7of all players on the arena",
+      " ",
+      "§e▸ Click to enable"
+    ]
+  },
+  "SPECTATOR_SETTING_NO_GLOWING_NAME": {
+    "ru": "§aВключить подсвечивание игроков",
+    "ua": "§aУвімкнути підсвічування гравців",
+    "en": "§aTurn on player glowing"
+  },
+  "SPECTATOR_SETTING_NO_VISION_LORE": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы включить"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб увімкнути"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to enable"
+    ]
+  },
+  "SPECTATOR_SETTING_NO_VISION_NAME": {
+    "ru": "§aВключить ночное видение",
+    "ua": "§aУвімкнути нічне бачення",
+    "en": "§aTurn on night vision"
+  },
+  "SPECTATOR_SETTING_SHOWN": {
+    "ru": "§6Наблюдение §8| §fВы снова видите других наблюдателей",
+    "ua": "§6Спостерігання §8| §fВи знову бачите інших спостерігачів",
+    "en": "§6Observer §8| §fYou see other spectators again"
+  },
+  "SPECTATOR_SETTING_SHOW_LORE": {
+    "ru": [
+      " ",
+      "§7Сейчас Вы не видите других",
+      "§7наблюдателей. После изменения",
+      "§7этой настройки Вы снова сможете",
+      "§7их видеть",
+      " ",
+      "§e▸ Нажмите, чтобы показать"
+    ],
+    "ua": [
+      " ",
+      "§7Зараз ви не бачите інших",
+      "§7спостерігачів. Після зміни",
+      "§7цього налаштування ви знову зможете",
+      "§7бачити їх",
+      " ",
+      "§e▸ Натисніть, щоб показати"
+    ],
+    "en": [
+      " ",
+      "§7Now you do not see other",
+      "§7spectators. After changing",
+      "§7this setting you'll be able",
+      "§7to see them again",
+      " ",
+      "§e▸ Click to show"
+    ]
+  },
+  "SPECTATOR_SETTING_SHOW_NAME": {
+    "ru": "§aПоказать наблюдателей",
+    "ua": "§aПоказати спостерігачів",
+    "en": "§aShow spectators"
+  },
+  "SPECTATOR_SETTING_SPEED_ALREADY": {
+    "ru": [
+      " ",
+      "§c▸ Вы уже выбрали эту скорость"
+    ],
+    "ua": [
+      " ",
+      "§c▸ Ви вже обрали цю швидкість"
+    ],
+    "en": [
+      " ",
+      "§c▸ You have already selected this speed"
+    ]
+  },
+  "SPECTATOR_SETTING_SPEED_CLICK": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы изменить скорость"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб змінити швидкість"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to change speed"
+    ]
+  },
+  "SPECTATOR_SETTING_SPEED_LORE": {
+    "ru": [
+      " ",
+      "§7Изменяет скорость передвижения",
+      "§7в зависимости от выбранного",
+      "§7уровня"
+    ],
+    "ua": [
+      " ",
+      "§7Змінює швидкість пересування",
+      "§7в залежності від обраного",
+      "§7рівня"
+    ],
+    "en": [
+      " ",
+      "§7Changes movement speed",
+      "§7depending on the chosen",
+      "§7level"
+    ]
+  },
+  "SPECTATOR_SETTING_SPEED_NAME": {
+    "ru": "§eСкорость %s",
+    "ua": "§eШвидкість %s",
+    "en": "§eSpeed %s"
+  },
+  "SPECTATOR_SETTING_VISION_LORE": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы выключить"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб вимкнути"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to disable"
+    ]
+  },
+  "SPECTATOR_SETTING_VISION_NAME": {
+    "ru": "§cВыключить ночное видение",
+    "ua": "§cВимкнути нічне бачення",
+    "en": "§cTurn off night vision"
+  },
+  "SPECTATOR_SETTING_VISION_OFF": {
+    "ru": "§6Наблюдение §8| §fНочное видение выключено",
+    "ua": "§6Спостерігання §8| §fНічне бачення вимкнено",
+    "en": "§6Observer §8| §fNight vision off"
+  },
+  "SPECTATOR_SETTING_VISION_ON": {
+    "ru": "§6Наблюдение §8| §fНочное видение включено",
+    "ua": "§6Спостерігання §8| §fНічне бачення увімкнено",
+    "en": "§6Observer §8| §fNight vision on"
+  },
+  "SPECTATOR_TEAM_LORE": {
+    "ru": "§7Команда: %s",
+    "ua": "§7Команда: %s",
+    "en": "§7Team: %s"
+  },
+  "START_CHANNEL_GUI_NAME": {
+    "ru": "Выбор карты",
+    "ua": "Вибір карти",
+    "en": "Choose map"
+  },
+  "START_GAME_ARENA": {
+    "ru": "§fИгра начнется через §a%s §f%s",
+    "ua": "§fГра розпочнеться через §a%s §f%s",
+    "en": "§fThe game will start in §a%s §f%s"
+  },
+  "START_GAME_SKYWARS_SOLO": {
+    "ru": [
+      "§eВаша задача скинуть всех игроков",
+      "§eи остаться на острове. Упал? Ну все, ты проиграл!"
+    ],
+    "ua": [
+      "§eВаше завдання скинути всіх гравців",
+      "§eі залишитися на острові. Упав? Ну все, ти програв!"
+    ],
+    "en": [
+      "§eYour task is to throw off all players",
+      "§eand stay on the island. Fell down? All right, you lost!"
+    ]
+  },
+  "START_GAME_TITLE": {
+    "ru": "Останьтесь последним выжившим",
+    "ua": "Залиштесь останнім, хто вижив",
+    "en": "Be the last survivor"
+  },
+  "START_GUI_NAME": {
+    "ru": "Выберите тип игры",
+    "ua": "Оберіть тип гри",
+    "en": "Choose game type"
+  },
+  "START_GUI_NO_SERVER1": {
+    "ru": "§cОшибка, не могу найти",
+    "ua": "§cПомилка, не можу знайти",
+    "en": "§cError, can't find"
+  },
+  "START_GUI_NO_SERVER2": {
+    "ru": "§cподходящие сервера",
+    "ua": "§cвідповідні сервери",
+    "en": "§cmatching servers"
+  },
+  "START_SPECTATE_GUI_NAME": {
+    "ru": "Наблюдение за игрой",
+    "ua": "Спостерігання за грою",
+    "en": "Watching the game"
+  },
+  "START_TITLE_MSG": {
+    "ru": "СТАРТ",
+    "ua": "СТАРТ",
+    "en": "START"
+  },
+  "TEAM_AQUA": {
+    "ru": "Голубые",
+    "ua": "Блакитні",
+    "en": "Aqua"
+  },
+  "TEAM_BLUE": {
+    "ru": "Синие",
+    "ua": "Сині",
+    "en": "Blue"
+  },
+  "TEAM_DARK_AQUA": {
+    "ru": "Бирюзовые",
+    "ua": "Бірюзові",
+    "en": "Turquoise"
+  },
+  "TEAM_GAME_GLOBAL_CHAT_FORMAT": {
+    "ru": " §8[%sВсем§8] ",
+    "ua": " §8[%sВсім§8] ",
+    "en": " §8[%sAll§8] "
+  },
+  "TEAM_GAME_LOCAL_CHAT_FORMAT": {
+    "ru": " §8[%sКоманде§8] ",
+    "ua": " §8[%sКоманді§8] ",
+    "en": " §8[%sTeam§8] "
+  },
+  "TEAM_GRAY": {
+    "ru": "Серые",
+    "ua": "Сірі",
+    "en": "Gray"
+  },
+  "TEAM_GREEN": {
+    "ru": "Зелёные",
+    "ua": "Зелені",
+    "en": "Green"
+  },
+  "TEAM_IS_BANABLE": {
+    "ru": "§cКомандная игра запрещена у нас. Вы были исключены из игры",
+    "ua": "§cКомандна гра заборонена у нас. Ви були виключені з гри",
+    "en": "§cTeam play is prohibited here. You were excluded from the game"
+  },
+  "TEAM_ITEM_LORE": {
+    "ru": [
+      "§7Используйте этот предмет,",
+      "§7чтобы выбрать свою команду"
+    ],
+    "ua": [
+      "§7Використовуйте цей предмет,",
+      "§7щоб обрати свою команду"
+    ],
+    "en": [
+      "§7Use this item",
+      "§7to choose your team"
+    ]
+  },
+  "TEAM_ITEM_NAME": {
+    "ru": "§eВыбор команды",
+    "ua": "§eВибір команди",
+    "en": "§eChoose team"
+  },
+  "TEAM_LIGHT_GREEN": {
+    "ru": "Салатовые",
+    "ua": "Салатові",
+    "en": "Light green"
+  },
+  "TEAM_LOSE": {
+    "ru": "§fКоманда %s §fпроиграла (последний игрок погиб или покинул игру)",
+    "ua": "§fКоманда %s §fпрограла (останній гравець загинув або покинув гру)",
+    "en": "§fTeam %s §flost (the last player died or left the game)"
+  },
+  "TEAM_NAME": {
+    "ru": "Команда",
+    "ua": "Команда",
+    "en": "Team"
+  },
+  "TEAM_NO_TEAM": {
+    "ru": "§c§lВнимание! §cОбразование союзов из нескольких команд запрещено.",
+    "ua": "§c§lУвага! §cСтворення спілок з декількох команд заборонено.",
+    "en": "§c§lAttention! §cFormation of alliances from several teams is prohibited."
+  },
+  "TEAM_ORANGE": {
+    "ru": "Оранжевые",
+    "ua": "Помаранчеві",
+    "en": "Orange"
+  },
+  "TEAM_PINK": {
+    "ru": "Розовые",
+    "ua": "Рожеві",
+    "en": "Pink"
+  },
+  "TEAM_PURPLE": {
+    "ru": "Фиолетовые",
+    "ua": "Фіолетові",
+    "en": "Purple"
+  },
+  "TEAM_RED": {
+    "ru": "Красные",
+    "ua": "Червоні",
+    "en": "Red"
+  },
+  "TEAM_SELECTED": {
+    "ru": "§fВы выбрали команду %s",
+    "ua": "§fВи обрали команду %s",
+    "en": "§fYou chose team %s"
+  },
+  "TEAM_SELECTOR_ALREADYIN": {
+    "ru": [
+      " ",
+      "§c▸ Вы уже в этой команде"
+    ],
+    "ua": [
+      " ",
+      "§c▸ Ви вже в цій команді"
+    ],
+    "en": [
+      " ",
+      "§c▸ You are a part of this team already"
+    ]
+  },
+  "TEAM_SELECTOR_EMPTY": {
+    "ru": "§7Игроков нет",
+    "ua": "§7Гравців немає",
+    "en": "§7There are no players"
+  },
+  "TEAM_SELECTOR_ENTRY": {
+    "ru": "%s [%s/%s]",
+    "ua": "%s [%s/%s]",
+    "en": "%s [%s/%s]"
+  },
+  "TEAM_SELECTOR_FULL": {
+    "ru": [
+      " ",
+      "§c▸ В команде нет мест"
+    ],
+    "ua": [
+      " ",
+      "§c▸ В команді немає місць"
+    ],
+    "en": [
+      " ",
+      "§c▸ There are no places in the team"
+    ]
+  },
+  "TEAM_SELECTOR_GUI_TITLE": {
+    "ru": "Выбор команды",
+    "ua": "Вибір команди",
+    "en": "Choose team"
+  },
+  "TEAM_SELECTOR_PLAYERS": {
+    "ru": "§7Игроки в команде:",
+    "ua": "§7Гравці в команді:",
+    "en": "§7Players on the team:"
+  },
+  "TEAM_SELECTOR_SELECT": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы выбрать"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб обрати"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to choose"
+    ]
+  },
+  "TEAM_WHITE": {
+    "ru": "Белые",
+    "ua": "Білі",
+    "en": "White"
+  },
+  "TEAM_YELLOW": {
+    "ru": "Жёлтые",
+    "ua": "Жовті",
+    "en": "Yellow"
+  },
+  "TELEPORTER_CLICK_TO_TELEPORT": {
+    "ru": [
+      " ",
+      "§e▸ ЛКМ, чтобы телепортироваться",
+      "§e▸ ПКМ, чтобы следить от 1-ого лица"
+    ],
+    "ua": [
+      " ",
+      "§e▸ ЛКМ, щоб телепортуватися",
+      "§e▸ ПКМ, щоб спостерігати від 1ї особи"
+    ],
+    "en": [
+      " ",
+      "§e▸ LMC to teleport",
+      "§e▸ RMC to watch from the 1st person"
+    ]
+  },
+  "TELEPORTER_GUI_TITLE": {
+    "ru": "Телепортер",
+    "ua": "Телепортер",
+    "en": "Телепортер"
+  },
+  "TELEPORTER_PLAYER_DISTANCE": {
+    "ru": "§7Расстояние: §a%s §7блоков",
+    "ua": "§7Відстань: §a%s §7блоків",
+    "en": "§7Distance: §a%s §7blocks"
+  },
+  "TELEPORTER_PLAYER_HEALTH": {
+    "ru": "§7Здоровье: §a%s§4❤",
+    "ua": "§7Здоров'я: §a%s§4❤",
+    "en": "§7Health: §a%s§4❤"
+  },
+  "TELEPORTER_PLAYER_KIT": {
+    "ru": "§7Выбранный набор: §e%s",
+    "ua": "§7Обраний набір: §e%s",
+    "en": "§7Set chosen: §e%s"
+  },
+  "TELEPORTER_PLAYER_PERK": {
+    "ru": "§7Выбранное умение: §e%s",
+    "ua": "§7Обране вміння: §e%s",
+    "en": "§7Skill chosen: §e%s"
+  },
+  "TO_START_TITLE": {
+    "ru": "§fДо старта",
+    "ua": "§fДо старта",
+    "en": "§fBefore the start"
+  },
+  "TYPE_DOUBLES": {
+    "ru": "Парный режим",
+    "ua": "Парний режим",
+    "en": "Pair mode"
+  },
+  "TYPE_ERROR": {
+    "ru": "§cError!",
+    "ua": "§cError!",
+    "en": "§cError!"
+  },
+  "TYPE_MEGA": {
+    "ru": "Командный режим",
+    "ua": "Командний режим",
+    "en": "Team mode"
+  },
+  "TYPE_SOLO": {
+    "ru": "Одиночный режим",
+    "ua": "Одиночний режим",
+    "en": "Single mode"
+  },
+  "TYPE_TEAM": {
+    "ru": "Командный режим",
+    "ua": "Командний режим",
+    "en": "Team mode"
+  },
+  "WIN_PLAYER_BOARD": {
+    "ru": "Победил игрок",
+    "ua": "Переміг гравець",
+    "en": "The player won"
+  },
+  "WIN_TEAM_BOARD": {
+    "ru": "Победила команда",
+    "ua": "Перемогла команда команда",
+    "en": "The team won"
+  },
+  "YOU_CANNOT_RESUME": {
+    "ru": "§cОшибка, Вы нигде не играли или сервер был перезагружен",
+    "ua": "§cПомилка, ви ніде не грали або сервер був перезавантажений",
+    "en": "§cError, you haven't played anywhere or the server has been restarted"
+  },
+  "YOU_CAN_REJOIN": {
+    "ru": "§fЕсли Вы были §cкикнуты§f, напишите §7/rejoin§f для повторного входа в игру",
+    "ua": "§fЯкщо вас §cкікнули§f, напишіть §7/rejoin§f для повторного входу у гру",
+    "en": "§fIf you were §ckicked out§f, write §7/rejoin§f to reentry the game"
+  },
+  "YOU_DEAD": {
+    "ru": "§cВы погибли",
+    "ua": "§cВи загинули",
+    "en": "§cYou are dead"
+  },
+  "YOU_DEAD_SPECTATOR": {
+    "ru": "§7Теперь вы наблюдатель",
+    "ua": "§7Тепер ви спостерігач",
+    "en": "§7Now you are a spectator"
+  },
+  "YOU_DIED_CLICK_TO_VOTE": {
+    "ru": "%s§fОцените карту, на которой Вы играли: ",
+    "ua": "%s§fОцініть карту, на якій ви грали: ",
+    "en": "%s§fRate the map you played on: "
+  },
+  "YOU_WERE_REJOINED": {
+    "ru": "§aВы повторно вошли в игру на сервере %s",
+    "ua": "§aВи повторно увійшли в гру на сервері %s",
+    "en": "§aYou have re-entered the game on the server %s"
+  }
 }

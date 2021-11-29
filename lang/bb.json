@@ -1,3015 +1,3015 @@
 {
-    "BAD_VOTING_ITEM": {
-        "ru": "§cПлохо",
-        "ua": "§cПогано",
-        "en": "§cPoor"
-    },
-    "BAD_VOTING_ITEM_LORE": {
-        "ru": [
-            "§7Нажмите, чтобы поставить оценку",
-            "§cплохо"
-        ],
-        "ua": [
-            "§7Натисніть, щоб поставити оцінку",
-            "§cпогано"
-        ],
-        "en": [
-            "§7Click to rate as",
-            "§cpoor"
-        ]
-    },
-    "BB_EFFECT": {
-        "ru": "эффект",
-        "ua": "Ефект",
-        "en": "Effect"
-    },
-    "BB_EFFECT_ANGRY_VILLAGER": {
-        "ru": "Злой житель",
-        "ua": "Злий житель",
-        "en": "Angry villager"
-    },
-    "BB_EFFECT_ANGRY_VILLAGER_LORE": {},
-    "BB_EFFECT_CLOUD": {
-        "ru": "Облака",
-        "ua": "Хмари",
-        "en": "Clouds"
-    },
-    "BB_EFFECT_CLOUD_LORE": {},
-    "BB_EFFECT_CRIT_DEFAULT": {
-        "ru": "Вспышки",
-        "ua": "Спалахи",
-        "en": "Flashes"
-    },
-    "BB_EFFECT_CRIT_DEFAULT_LORE": {},
-    "BB_EFFECT_CRIT_MAGIC": {
-        "ru": "Криты",
-        "ua": "Крити",
-        "en": "Crits"
-    },
-    "BB_EFFECT_CRIT_MAGIC_LORE": {},
-    "BB_EFFECT_DAMAGE_INDICATOR": {
-        "ru": "Темные сердечки",
-        "ua": "Темні сердечка",
-        "en": "Dark hearts"
-    },
-    "BB_EFFECT_DAMAGE_INDICATOR_LORE": {},
-    "BB_EFFECT_EXPLOSION": {
-        "ru": "Взрыв",
-        "ua": "Вибух",
-        "en": "Explosion"
-    },
-    "BB_EFFECT_EXPLOSION_LORE": {},
-    "BB_EFFECT_HAPPY_VILLAGER": {
-        "ru": "Счастливый житель",
-        "ua": "Щасливий житель",
-        "en": "Happy villager"
-    },
-    "BB_EFFECT_HAPPY_VILLAGER_LORE": {},
-    "BB_EFFECT_HEART": {
-        "ru": "Сердечки",
-        "ua": "Сердечка",
-        "en": "Hearts"
-    },
-    "BB_EFFECT_HEART_LORE": {},
-    "BB_EFFECT_LAVA": {
-        "ru": "Лава",
-        "ua": "Лава",
-        "en": "Lava"
-    },
-    "BB_EFFECT_LAVA_LORE": {},
-    "BB_EFFECT_MAGIC": {
-        "ru": "Заклинание",
-        "ua": "Зачарування",
-        "en": "Spell"
-    },
-    "BB_EFFECT_MAGIC_LORE": {},
-    "BB_EFFECT_NOTE": {
-        "ru": "Ноты",
-        "ua": "Ноти",
-        "en": "Notes"
-    },
-    "BB_EFFECT_NOTE_LORE": {},
-    "BB_EFFECT_PURCHASE_MESSAGE": {
-        "ru": "Вы приобрели эффект §a%s §fза §a%s §f%s. Теперь его можно будет добавлять на свой участок в игре.",
-        "ua": "Ви придбали ефект §a%s §fза §a%s §f%s. Тепер його можна буде додавати на свою ділянку в грі.",
-        "en": "You have purchased effect §a%s §ffor §a%s §f%s. Now you can add to your site in the game."
-    },
-    "BB_EFFECT_REDSTONE": {
-        "ru": "Редстоун",
-        "ua": "Редстоун",
-        "en": "Redstone"
-    },
-    "BB_EFFECT_REDSTONE_LORE": {},
-    "BB_EFFECT_SELECTION_MESSAGE": {
-        "ru": "Вы получили предмет для установки эффекта §a%s §fна участок. Нажмите ПКМ на нужный блок, чтобы установить его",
-        "ua": "Ви отримали предмет для установки ефекту §a%s §fна ділянку. Натисніть ПКМ на необхідний блок, щоб установити його",
-        "en": "You have received an item to set an effect §a%s §fon the site. RMC on the desired block to install it"
-    },
-    "BB_EFFECT_SNOW": {
-        "ru": "Снег",
-        "ua": "Сніг",
-        "en": "Snow"
-    },
-    "BB_EFFECT_SNOW_LORE": {},
-    "BB_EFFECT_SPELL_MOB": {
-        "ru": "Искры",
-        "ua": "Іскри",
-        "en": "Sparks"
-    },
-    "BB_EFFECT_SPELL_MOB_LORE": {},
-    "BB_EFFECT_SPELL_WITCH": {
-        "ru": "Магия",
-        "ua": "Магія",
-        "en": "Magic"
-    },
-    "BB_EFFECT_SPELL_WITCH_LORE": {},
-    "BB_EFFECT_WATER": {
-        "ru": "Вода",
-        "ua": "Вода",
-        "en": "Water"
-    },
-    "BB_EFFECT_WATER_BUBBLE": {
-        "ru": "Пузыри",
-        "ua": "Бульбашки",
-        "en": "Bubbles"
-    },
-    "BB_EFFECT_WATER_BUBBLE_LORE": {},
-    "BB_EFFECT_WATER_LORE": {},
-    "BB_HEAD": {
-        "ru": "голова",
-        "ua": "Голова",
-        "en": "Head"
-    },
-    "BB_HEAD_ANDESITE": {
-        "ru": "Andesite",
-        "ua": "Андезит",
-        "en": "Andesite"
-    },
-    "BB_HEAD_ANDESITE_LORE": {},
-    "BB_HEAD_ANGEL": {
-        "ru": "Angel",
-        "ua": "Янгол",
-        "en": "Angel"
-    },
-    "BB_HEAD_ANGEL_LORE": {},
-    "BB_HEAD_ANGRY_WOLF": {
-        "ru": "Angry Wolf",
-        "ua": "Злий вовк",
-        "en": "Angry Wolf"
-    },
-    "BB_HEAD_ANGRY_WOLF_LORE": {},
-    "BB_HEAD_APPLE": {
-        "ru": "Apple",
-        "ua": "Яблуко",
-        "en": "Apple"
-    },
-    "BB_HEAD_APPLE_LORE": {},
-    "BB_HEAD_BABY_BLUE": {
-        "ru": "Baby Blue",
-        "ua": "Блакитний",
-        "en": "Baby Blue"
-    },
-    "BB_HEAD_BABY_BLUE_LORE": {},
-    "BB_HEAD_BACON": {
-        "ru": "Bacon",
-        "ua": "Бекон",
-        "en": "Bacon"
-    },
-    "BB_HEAD_BACON_LORE": {},
-    "BB_HEAD_BASKETBALL": {
-        "ru": "Basketball",
-        "ua": "Баскетбол",
-        "en": "Basketball"
-    },
-    "BB_HEAD_BASKETBALL_LORE": {},
-    "BB_HEAD_BATMAN": {
-        "ru": "Batman",
-        "ua": "Бетмен",
-        "en": "Batman"
-    },
-    "BB_HEAD_BATMAN_LORE": {},
-    "BB_HEAD_BEACHBALL": {
-        "ru": "Beachball",
-        "ua": "Пляжний м'яч",
-        "en": "Beachball"
-    },
-    "BB_HEAD_BEACHBALL_LORE": {},
-    "BB_HEAD_BEACON": {
-        "ru": "Beacon",
-        "ua": "Маяк",
-        "en": "Beacon"
-    },
-    "BB_HEAD_BEACON_LORE": {},
-    "BB_HEAD_BEDROCK": {
-        "ru": "Bedrock",
-        "ua": "Основа",
-        "en": "Bedrock"
-    },
-    "BB_HEAD_BEDROCK_LORE": {},
-    "BB_HEAD_BEE": {
-        "ru": "Bee",
-        "ua": "Бджола",
-        "en": "Bee"
-    },
-    "BB_HEAD_BEE_LORE": {},
-    "BB_HEAD_BIG_GRIN": {
-        "ru": "Big Grin",
-        "ua": "Велика усмішка",
-        "en": "Big Grin"
-    },
-    "BB_HEAD_BIG_GRIN_LORE": {},
-    "BB_HEAD_BIRD": {
-        "ru": "Bird",
-        "ua": "Птах",
-        "en": "Bird"
-    },
-    "BB_HEAD_BIRD_LORE": {},
-    "BB_HEAD_BLACK": {
-        "ru": "Black",
-        "ua": "Чорний",
-        "en": "Black"
-    },
-    "BB_HEAD_BLACK_DICE": {
-        "ru": "Black Dice",
-        "ua": "Чорні кубик",
-        "en": "Black Dice"
-    },
-    "BB_HEAD_BLACK_DICE_LORE": {},
-    "BB_HEAD_BLACK_LORE": {},
-    "BB_HEAD_BLACK_WOOL": {
-        "ru": "Black Wool",
-        "ua": "Чорна вовна",
-        "en": "Black Wool"
-    },
-    "BB_HEAD_BLACK_WOOL_LORE": {},
-    "BB_HEAD_BLAZE": {
-        "ru": "Blaze",
-        "ua": "Полум'я",
-        "en": "Blaze"
-    },
-    "BB_HEAD_BLAZE_LORE": {},
-    "BB_HEAD_BLUE": {
-        "ru": "Blue",
-        "ua": "Блакитний",
-        "en": "Blue"
-    },
-    "BB_HEAD_BLUE_LORE": {},
-    "BB_HEAD_BLUE_WOOL": {
-        "ru": "Blue Wool",
-        "ua": "Блакитна вовна",
-        "en": "Blue Wool"
-    },
-    "BB_HEAD_BLUE_WOOL_LORE": {},
-    "BB_HEAD_BOWLINGBALL": {
-        "ru": "Bowlingball",
-        "ua": "М'яч для боулінгу",
-        "en": "Bowlingball"
-    },
-    "BB_HEAD_BOWLINGBALL_LORE": {},
-    "BB_HEAD_BREAD": {
-        "ru": "Bread",
-        "ua": "Хліб",
-        "en": "Bread"
-    },
-    "BB_HEAD_BREAD_LORE": {},
-    "BB_HEAD_BRICK": {
-        "ru": "Brick",
-        "ua": "Цегла",
-        "en": "Brick"
-    },
-    "BB_HEAD_BRICK_LORE": {},
-    "BB_HEAD_BRIGHT_GREEN": {
-        "ru": "Bright Green",
-        "ua": "Яскраво-зелений",
-        "en": "Bright Green"
-    },
-    "BB_HEAD_BRIGHT_GREEN_LORE": {},
-    "BB_HEAD_BROWN": {
-        "ru": "Brown",
-        "ua": "Коричневий",
-        "en": "Brown"
-    },
-    "BB_HEAD_BROWN_LORE": {},
-    "BB_HEAD_BROWN_MUSHROOM": {
-        "ru": "Brown Mushroom",
-        "ua": "Коричневий гриб",
-        "en": "Brown Mushroom"
-    },
-    "BB_HEAD_BROWN_MUSHROOM_LORE": {},
-    "BB_HEAD_BROWN_WOOL": {
-        "ru": "Brown Wool",
-        "ua": "Коричнева вовна",
-        "en": "Brown Wool"
-    },
-    "BB_HEAD_BROWN_WOOL_LORE": {},
-    "BB_HEAD_BUNDLE_OF_BURNT_TORCHES": {
-        "ru": "Bundle of Burnt Torches",
-        "ua": "Пачка спалених смолоскипів",
-        "en": "Bundle of Burnt Torches"
-    },
-    "BB_HEAD_BUNDLE_OF_BURNT_TORCHES_LORE": {},
-    "BB_HEAD_CACTUS": {
-        "ru": "Cactus",
-        "ua": "Кактус",
-        "en": "Cactus"
-    },
-    "BB_HEAD_CACTUS_FLOWER": {
-        "ru": "Cactus Flower",
-        "ua": "Квітка кактуса",
-        "en": "Cactus Flower"
-    },
-    "BB_HEAD_CACTUS_FLOWER_LORE": {},
-    "BB_HEAD_CACTUS_LORE": {},
-    "BB_HEAD_CAKE": {
-        "ru": "Cake",
-        "ua": "Торт",
-        "en": "Cake"
-    },
-    "BB_HEAD_CAKE_LORE": {},
-    "BB_HEAD_CANDY_CANE": {
-        "ru": "Candy Cane",
-        "ua": "Карамельна паличка",
-        "en": "Candy Cane"
-    },
-    "BB_HEAD_CANDY_CANE_LORE": {},
-    "BB_HEAD_CANNONBALL": {
-        "ru": "Cannonball",
-        "ua": "Гарматне ядро",
-        "en": "Cannonball"
-    },
-    "BB_HEAD_CANNONBALL_LORE": {},
-    "BB_HEAD_CARROT": {
-        "ru": "Carrot",
-        "ua": "Морква",
-        "en": "Carrot"
-    },
-    "BB_HEAD_CARROT_LORE": {},
-    "BB_HEAD_CARVED_PUMPKIN": {
-        "ru": "Carved Pumpkin",
-        "ua": "Різьблений гарбуз",
-        "en": "Carved Pumpkin"
-    },
-    "BB_HEAD_CARVED_PUMPKIN_LORE": {},
-    "BB_HEAD_CAT": {
-        "ru": "Cat",
-        "ua": "Кіт",
-        "en": "Cat"
-    },
-    "BB_HEAD_CAT_LORE": {},
-    "BB_HEAD_CAVE_SPIDER": {
-        "ru": "Cave Spider",
-        "ua": "Печерний павук",
-        "en": "Cave Spider"
-    },
-    "BB_HEAD_CAVE_SPIDER_LORE": {},
-    "BB_HEAD_CHECKERBOARD": {
-        "ru": "Checkerboard",
-        "ua": "Шашкова дошка",
-        "en": "Checkerboard"
-    },
-    "BB_HEAD_CHECKERBOARD_LORE": {},
-    "BB_HEAD_CHEESE": {
-        "ru": "Cheese",
-        "ua": "Сир",
-        "en": "Cheese"
-    },
-    "BB_HEAD_CHEESE_LORE": {},
-    "BB_HEAD_CHERRY_PIE": {
-        "ru": "Cherry Pie",
-        "ua": "Вишневий пиріг",
-        "en": "Cherry Pie"
-    },
-    "BB_HEAD_CHERRY_PIE_LORE": {},
-    "BB_HEAD_CHESS_BOARD": {
-        "ru": "Chess Board",
-        "ua": "Шахова дошка",
-        "en": "Chess Board"
-    },
-    "BB_HEAD_CHESS_BOARD_LORE": {},
-    "BB_HEAD_CHEST_MINECART": {
-        "ru": "Chest Minecart",
-        "ua": "Скриня",
-        "en": "Chest Minecart"
-    },
-    "BB_HEAD_CHEST_MINECART_LORE": {},
-    "BB_HEAD_CHICKEN": {
-        "ru": "Chicken",
-        "ua": "Курка",
-        "en": "Chicken"
-    },
-    "BB_HEAD_CHICKEN_LORE": {},
-    "BB_HEAD_CHIMNEY": {
-        "ru": "Chimney",
-        "ua": "Димохід",
-        "en": "Chimney"
-    },
-    "BB_HEAD_CHIMNEY_LORE": {},
-    "BB_HEAD_CHINESE_DRAGON": {
-        "ru": "Chinese Dragon",
-        "ua": "Китайський дракон",
-        "en": "Chinese Dragon"
-    },
-    "BB_HEAD_CHINESE_DRAGON_LORE": {},
-    "BB_HEAD_CHISELED_QUARTZ_BLOCK": {
-        "ru": "Chiseled Quartz Block",
-        "ua": "Витончений кварцовий блок",
-        "en": "Chiseled Quartz Block"
-    },
-    "BB_HEAD_CHISELED_QUARTZ_BLOCK_LORE": {},
-    "BB_HEAD_CHOCOLATEBAR": {
-        "ru": "Chocolatebar",
-        "ua": "Плитка шоколаду",
-        "en": "Chocolatebar"
-    },
-    "BB_HEAD_CHOCOLATEBAR_LORE": {},
-    "BB_HEAD_CHOCOLATE_CAKE": {
-        "ru": "Chocolate Cake",
-        "ua": "Шоколадний торт",
-        "en": "Chocolate Cake"
-    },
-    "BB_HEAD_CHOCOLATE_CAKE_LORE": {},
-    "BB_HEAD_CHOCOLATE_FROSTED_DONUT": {
-        "ru": "Chocolate Frosted Donut",
-        "ua": "Пончик з матовим шоколадом",
-        "en": "Chocolate Frosted Donut"
-    },
-    "BB_HEAD_CHOCOLATE_FROSTED_DONUT_LORE": {},
-    "BB_HEAD_CHOCOLATE_MUFFIN": {
-        "ru": "Chocolate Muffin",
-        "ua": "Шоколадний кекс",
-        "en": "Chocolate Muffin"
-    },
-    "BB_HEAD_CHOCOLATE_MUFFIN_LORE": {},
-    "BB_HEAD_CLAY": {
-        "ru": "Clay",
-        "ua": "Глина",
-        "en": "Clay"
-    },
-    "BB_HEAD_CLAY_LORE": {},
-    "BB_HEAD_CLOWNFISH": {
-        "ru": "Clownfish",
-        "ua": "Риба-клоун",
-        "en": "Clownfish"
-    },
-    "BB_HEAD_CLOWNFISH_LORE": {},
-    "BB_HEAD_COAL_BLOCK": {
-        "ru": "Coal Block",
-        "ua": "Вугільний блок",
-        "en": "Coal Block"
-    },
-    "BB_HEAD_COAL_BLOCK_LORE": {},
-    "BB_HEAD_COAL_ORE": {
-        "ru": "Coal Ore",
-        "ua": "Вугільна руда",
-        "en": "Coal Ore"
-    },
-    "BB_HEAD_COAL_ORE_LORE": {},
-    "BB_HEAD_COBBLESTONE": {
-        "ru": "Cobblestone",
-        "ua": "Бруківка",
-        "en": "Cobblestone"
-    },
-    "BB_HEAD_COBBLESTONE_LORE": {},
-    "BB_HEAD_COCA_COLA_CAN": {
-        "ru": "Coca Cola Can",
-        "ua": "Баночка Кока-Коли",
-        "en": "Coca Cola Can"
-    },
-    "BB_HEAD_COCA_COLA_CAN_LORE": {},
-    "BB_HEAD_COCOA_BEAN": {
-        "ru": "Cocoa Bean",
-        "ua": "Какао-боби",
-        "en": "Cocoa Bean"
-    },
-    "BB_HEAD_COCOA_BEAN_LORE": {},
-    "BB_HEAD_COCOA_POD": {
-        "ru": "Cocoa Pod",
-        "ua": "Какао-стручок",
-        "en": "Cocoa Pod"
-    },
-    "BB_HEAD_COCOA_POD_LORE": {},
-    "BB_HEAD_COCONUT": {
-        "ru": "Coconut",
-        "ua": "Кокос",
-        "en": "Coconut"
-    },
-    "BB_HEAD_COCONUT_LORE": {},
-    "BB_HEAD_COMMAND_BLOCK": {
-        "ru": "Command Block",
-        "ua": "Командний блок",
-        "en": "Command Block"
-    },
-    "BB_HEAD_COMMAND_BLOCK_LORE": {},
-    "BB_HEAD_COMMAND_BLOCK_MINECART": {
-        "ru": "Command Block Minecart",
-        "ua": "Командний блок",
-        "en": "Command Block Minecart"
-    },
-    "BB_HEAD_COMMAND_BLOCK_MINECART_LORE": {},
-    "BB_HEAD_COMPANION_CUBE": {
-        "ru": "Companion Cube",
-        "ua": "Компаньйон куб",
-        "en": "Companion Cube"
-    },
-    "BB_HEAD_COMPANION_CUBE_LORE": {},
-    "BB_HEAD_COOKIE": {
-        "ru": "Cookie",
-        "ua": "Печиво",
-        "en": "Cookie"
-    },
-    "BB_HEAD_COOKIE_LORE": {},
-    "BB_HEAD_COOL": {
-        "ru": "Cool",
-        "ua": "Прохолода",
-        "en": "Cool"
-    },
-    "BB_HEAD_COOL_LORE": {},
-    "BB_HEAD_COW": {
-        "ru": "Cow",
-        "ua": "Корова",
-        "en": "Cow"
-    },
-    "BB_HEAD_COW_LORE": {},
-    "BB_HEAD_CRACKED_STONE_BRICK": {
-        "ru": "Cracked Stone Brick",
-        "ua": "Тріснута кам'яна цегла",
-        "en": "Cracked Stone Brick"
-    },
-    "BB_HEAD_CRACKED_STONE_BRICK_LORE": {},
-    "BB_HEAD_CUP_OF_MILK": {
-        "ru": "Cup of Milk",
-        "ua": "Чашка молока",
-        "en": "Cup of Milk"
-    },
-    "BB_HEAD_CUP_OF_MILK_LORE": {},
-    "BB_HEAD_CUP_OF_TEA": {
-        "ru": "Cup of Tea",
-        "ua": "Чашка чаю",
-        "en": "Cup of Tea"
-    },
-    "BB_HEAD_CUP_OF_TEA_LORE": {},
-    "BB_HEAD_CYAN_WOOL": {
-        "ru": "Cyan Wool",
-        "ua": "Синя вовна",
-        "en": "Cyan Wool"
-    },
-    "BB_HEAD_CYAN_WOOL_LORE": {},
-    "BB_HEAD_DARK_BLUE": {
-        "ru": "Dark Blue",
-        "ua": "Темно-синій",
-        "en": "Dark Blue"
-    },
-    "BB_HEAD_DARK_BLUE_LORE": {},
-    "BB_HEAD_DARK_GREEN": {
-        "ru": "Dark Green",
-        "ua": "Темно-зелений",
-        "en": "Dark Green"
-    },
-    "BB_HEAD_DARK_GREEN_LORE": {},
-    "BB_HEAD_DARK_PRISMARINE": {
-        "ru": "Dark Prismarine",
-        "ua": "Темний Присмарин",
-        "en": "Dark Prismarine"
-    },
-    "BB_HEAD_DARK_PRISMARINE_LORE": {},
-    "BB_HEAD_DARK_RED": {
-        "ru": "Dark Red",
-        "ua": "Темно-червоний",
-        "en": "Dark Red"
-    },
-    "BB_HEAD_DARK_RED_LORE": {},
-    "BB_HEAD_DARK_YELLOW": {
-        "ru": "Dark Yellow",
-        "ua": "Темно-жовтий",
-        "en": "Dark Yellow"
-    },
-    "BB_HEAD_DARK_YELLOW_LORE": {},
-    "BB_HEAD_DEAD": {
-        "ru": "Dead",
-        "ua": "Мертвий",
-        "en": "Dead"
-    },
-    "BB_HEAD_DEAD_LORE": {},
-    "BB_HEAD_DERP": {
-        "ru": "Derp",
-        "ua": "Дерп",
-        "en": "Derp"
-    },
-    "BB_HEAD_DERP_LORE": {},
-    "BB_HEAD_DIAMOND_BLOCK": {
-        "ru": "Diamond Block",
-        "ua": "Алмазний блок",
-        "en": "Diamond Block"
-    },
-    "BB_HEAD_DIAMOND_BLOCK_LORE": {},
-    "BB_HEAD_DIAMOND_ORE": {
-        "ru": "Diamond Ore",
-        "ua": "Алмазна руда",
-        "en": "Diamond Ore"
-    },
-    "BB_HEAD_DIAMOND_ORE_LORE": {},
-    "BB_HEAD_DIAMOND_STEVE_HEAD": {
-        "ru": "Diamond Steve Head",
-        "ua": "Алмазна голова Стіва",
-        "en": "Diamond Steve Head"
-    },
-    "BB_HEAD_DIAMOND_STEVE_HEAD_LORE": {},
-    "BB_HEAD_DIORITE": {
-        "ru": "Diorite",
-        "ua": "Діорит",
-        "en": "Diorite"
-    },
-    "BB_HEAD_DIORITE_LORE": {},
-    "BB_HEAD_DIRT": {
-        "ru": "Dirt",
-        "ua": "Бруд",
-        "en": "Dirt"
-    },
-    "BB_HEAD_DIRT_LORE": {},
-    "BB_HEAD_DISPENSER": {
-        "ru": "Dispenser",
-        "ua": "Диспенсер",
-        "en": "Dispenser"
-    },
-    "BB_HEAD_DISPENSER_LORE": {},
-    "BB_HEAD_DRAGON_BALL_#1": {
-        "ru": "Dragon Ball #1",
-        "ua": "М'яч дракона #1",
-        "en": "Dragon Ball #1"
-    },
-    "BB_HEAD_DRAGON_BALL_#1_LORE": {},
-    "BB_HEAD_DROPPER": {
-        "ru": "Dropper",
-        "ua": "Крапельниця",
-        "en": "Dropper"
-    },
-    "BB_HEAD_DROPPER_LORE": {},
-    "BB_HEAD_DRY_FARMLAND": {
-        "ru": "Dry Farmland",
-        "ua": "Сухі сільськогосподарські угіддя",
-        "en": "Dry Farmland"
-    },
-    "BB_HEAD_DRY_FARMLAND_LORE": {},
-    "BB_HEAD_EMBARRASED": {
-        "ru": "Embarrased",
-        "ua": "Збентежений",
-        "en": "Embarrased"
-    },
-    "BB_HEAD_EMBARRASED_LORE": {},
-    "BB_HEAD_EMERALD_BLOCK": {
-        "ru": "Emerald Block",
-        "ua": "Смарагдовий блок",
-        "en": "Emerald Block"
-    },
-    "BB_HEAD_EMERALD_BLOCK_LORE": {},
-    "BB_HEAD_EMERALD_ORE": {
-        "ru": "Emerald Ore",
-        "ua": "Смарагдова руда",
-        "en": "Emerald Ore"
-    },
-    "BB_HEAD_EMERALD_ORE_LORE": {},
-    "BB_HEAD_EMPTY_BUCKET": {
-        "ru": "Empty Bucket",
-        "ua": "Порожнє відро",
-        "en": "Empty Bucket"
-    },
-    "BB_HEAD_EMPTY_BUCKET_LORE": {},
-    "BB_HEAD_ENCHANTMENT_TABLE": {
-        "ru": "Enchantment Table",
-        "ua": "Зачарований стіл",
-        "en": "Enchantment Table"
-    },
-    "BB_HEAD_ENCHANTMENT_TABLE_LORE": {},
-    "BB_HEAD_ENDERDRAGON": {
-        "ru": "Enderdragon",
-        "ua": "Ендердракон",
-        "en": "Enderdragon"
-    },
-    "BB_HEAD_ENDERDRAGON_LORE": {},
-    "BB_HEAD_ENDEREYE": {
-        "ru": "Endereye",
-        "ua": "Око Ендера",
-        "en": "Endereye"
-    },
-    "BB_HEAD_ENDEREYE_LORE": {},
-    "BB_HEAD_ENDERMAN": {
-        "ru": "Enderman",
-        "ua": "Ендермен",
-        "en": "Enderman"
-    },
-    "BB_HEAD_ENDERMAN_LORE": {},
-    "BB_HEAD_ENDERPEARL": {
-        "ru": "Enderpearl",
-        "ua": "Перлина Ендера",
-        "en": "Enderpearl"
-    },
-    "BB_HEAD_ENDERPEARL_LORE": {},
-    "BB_HEAD_ENDER_PORTAL": {
-        "ru": "Ender Portal",
-        "ua": "Портал Ендера",
-        "en": "Ender Portal"
-    },
-    "BB_HEAD_ENDER_PORTAL_LORE": {},
-    "BB_HEAD_END_STONE": {
-        "ru": "End Stone",
-        "ua": "Кінцевий камінь",
-        "en": "End Stone"
-    },
-    "BB_HEAD_END_STONE_LORE": {},
-    "BB_HEAD_EYE": {
-        "ru": "Eye",
-        "ua": "Око",
-        "en": "Eye"
-    },
-    "BB_HEAD_EYE_LORE": {},
-    "BB_HEAD_FACEBOOK": {
-        "ru": "Facebook",
-        "ua": "Facebook",
-        "en": "Facebook"
-    },
-    "BB_HEAD_FACEBOOK_LORE": {},
-    "BB_HEAD_FERRET": {
-        "ru": "Ferret",
-        "ua": "Тхір",
-        "en": "Ferret"
-    },
-    "BB_HEAD_FERRET_LORE": {},
-    "BB_HEAD_FIRECHARGE": {
-        "ru": "Firecharge",
-        "ua": "Пожежна зарядка",
-        "en": "Firecharge"
-    },
-    "BB_HEAD_FIRECHARGE_LORE": {},
-    "BB_HEAD_FOOTBALL_HELMET": {
-        "ru": "Football Helmet",
-        "ua": "Футбольний шолом",
-        "en": "Football Helmet"
-    },
-    "BB_HEAD_FOOTBALL_HELMET_LORE": {},
-    "BB_HEAD_FOREVER_CRYING": {
-        "ru": "Forever Crying",
-        "ua": "Завжди плачущий",
-        "en": "Forever Crying"
-    },
-    "BB_HEAD_FOREVER_CRYING_LORE": {},
-    "BB_HEAD_FURNACE_MINECART": {
-        "ru": "Furnace Minecart",
-        "ua": "Піч на копальному кошику",
-        "en": "Furnace Minecart"
-    },
-    "BB_HEAD_FURNACE_MINECART_LORE": {},
-    "BB_HEAD_GHAST": {
-        "ru": "Ghast",
-        "ua": "Привид",
-        "en": "Ghast"
-    },
-    "BB_HEAD_GHAST_LORE": {},
-    "BB_HEAD_GLADOS": {
-        "ru": "Glados",
-        "ua": "Гладос",
-        "en": "Glados"
-    },
-    "BB_HEAD_GLADOS_LORE": {},
-    "BB_HEAD_GLOWSTONE": {
-        "ru": "Glowstone",
-        "ua": "Сяючий камінь",
-        "en": "Glowstone"
-    },
-    "BB_HEAD_GLOWSTONE_LORE": {},
-    "BB_HEAD_GOLD_BLOCK": {
-        "ru": "Gold Block",
-        "ua": "Золотий блок",
-        "en": "Gold Block"
-    },
-    "BB_HEAD_GOLD_BLOCK_LORE": {},
-    "BB_HEAD_GOLD_ORE": {
-        "ru": "Gold Ore",
-        "ua": "Золота руда",
-        "en": "Gold Ore"
-    },
-    "BB_HEAD_GOLD_ORE_LORE": {},
-    "BB_HEAD_GOLD_POT": {
-        "ru": "Gold Pot",
-        "ua": "Золотий горщик",
-        "en": "Gold Pot"
-    },
-    "BB_HEAD_GOLD_POT_LORE": {},
-    "BB_HEAD_GOLD_STEVE_HEAD": {
-        "ru": "Gold Steve Head",
-        "ua": "Золота голова Стіва",
-        "en": "Gold Steve Head"
-    },
-    "BB_HEAD_GOLD_STEVE_HEAD_LORE": {},
-    "BB_HEAD_GOLEM": {
-        "ru": "Golem",
-        "ua": "Голем",
-        "en": "Golem"
-    },
-    "BB_HEAD_GOLEM_LORE": {},
-    "BB_HEAD_GOOMBA": {
-        "ru": "Goomba",
-        "ua": "Гумба",
-        "en": "Goomba"
-    },
-    "BB_HEAD_GOOMBA_LORE": {},
-    "BB_HEAD_GRANITE": {
-        "ru": "Granite",
-        "ua": "Граніт",
-        "en": "Granite"
-    },
-    "BB_HEAD_GRANITE_LORE": {},
-    "BB_HEAD_GRAPE": {
-        "ru": "Grape",
-        "ua": "Виноград",
-        "en": "Grape"
-    },
-    "BB_HEAD_GRAPE_LORE": {},
-    "BB_HEAD_GRASS": {
-        "ru": "Grass",
-        "ua": "Трава",
-        "en": "Grass"
-    },
-    "BB_HEAD_GRASS_GREEN": {
-        "ru": "Grass Green",
-        "ua": "Зелена трава",
-        "en": "Grass Green"
-    },
-    "BB_HEAD_GRASS_GREEN_LORE": {},
-    "BB_HEAD_GRASS_LORE": {},
-    "BB_HEAD_GRAVEL": {
-        "ru": "Gravel",
-        "ua": "Гравій",
-        "en": "Gravel"
-    },
-    "BB_HEAD_GRAVEL_LORE": {},
-    "BB_HEAD_GRAY_WOOL": {
-        "ru": "Gray Wool",
-        "ua": "Сіра вовна",
-        "en": "Gray Wool"
-    },
-    "BB_HEAD_GRAY_WOOL_LORE": {},
-    "BB_HEAD_GREAT_BALL": {
-        "ru": "Great Ball",
-        "ua": "Великий м'яч",
-        "en": "Great Ball"
-    },
-    "BB_HEAD_GREAT_BALL_LORE": {},
-    "BB_HEAD_GREEN": {
-        "ru": "Green",
-        "ua": "Зелений",
-        "en": "Green"
-    },
-    "BB_HEAD_GREEN_APPLE": {
-        "ru": "Green Apple",
-        "ua": "Зелене яблуко",
-        "en": "Green Apple"
-    },
-    "BB_HEAD_GREEN_APPLE_LORE": {},
-    "BB_HEAD_GREEN_CORE": {
-        "ru": "Green Core",
-        "ua": "Зелене ядро",
-        "en": "Green Core"
-    },
-    "BB_HEAD_GREEN_CORE_LORE": {},
-    "BB_HEAD_GREEN_GRAPES": {
-        "ru": "Green Grapes",
-        "ua": "Зелений виноград",
-        "en": "Green Grapes"
-    },
-    "BB_HEAD_GREEN_GRAPES_LORE": {},
-    "BB_HEAD_GREEN_LORE": {},
-    "BB_HEAD_GREEN_ORE": {
-        "ru": "Green Ore",
-        "ua": "Зелена руда",
-        "en": "Green Ore"
-    },
-    "BB_HEAD_GREEN_ORE_LORE": {},
-    "BB_HEAD_GREEN_WOOL": {
-        "ru": "Green Wool",
-        "ua": "Зелена вовна",
-        "en": "Green Wool"
-    },
-    "BB_HEAD_GREEN_WOOL_LORE": {},
-    "BB_HEAD_GREY": {
-        "ru": "Grey",
-        "ua": "Сірий",
-        "en": "Grey"
-    },
-    "BB_HEAD_GREY_LORE": {},
-    "BB_HEAD_GUARDIAN": {
-        "ru": "Guardian",
-        "ua": "Охоронець",
-        "en": "Guardian"
-    },
-    "BB_HEAD_GUARDIAN_LORE": {},
-    "BB_HEAD_HALF_PISTON": {
-        "ru": "Half Piston",
-        "ua": "Половина поршня",
-        "en": "Half Piston"
-    },
-    "BB_HEAD_HALF_PISTON_LORE": {},
-    "BB_HEAD_HAM": {
-        "ru": "Ham",
-        "ua": "Шинка",
-        "en": "Ham"
-    },
-    "BB_HEAD_HAMBURGER": {
-        "ru": "Hamburger",
-        "ua": "Гамбургер",
-        "en": "Hamburger"
-    },
-    "BB_HEAD_HAMBURGER_LORE": {},
-    "BB_HEAD_HAM_LORE": {},
-    "BB_HEAD_HAY_BALE": {
-        "ru": "Hay Bale",
-        "ua": "Сіно Бейл",
-        "en": "Hay Bale"
-    },
-    "BB_HEAD_HAY_BALE_LORE": {},
-    "BB_HEAD_HERMIT_CRAB": {
-        "ru": "Hermit Crab",
-        "ua": "Рак-відлюдник",
-        "en": "Hermit Crab"
-    },
-    "BB_HEAD_HERMIT_CRAB_LORE": {},
-    "BB_HEAD_HEROBRINE": {
-        "ru": "Herobrine",
-        "ua": "Геробрін",
-        "en": "Herobrine"
-    },
-    "BB_HEAD_HEROBRINE_LORE": {},
-    "BB_HEAD_HORSE": {
-        "ru": "Horse",
-        "ua": "Кінь",
-        "en": "Horse"
-    },
-    "BB_HEAD_HORSE_LORE": {},
-    "BB_HEAD_HOT_CHOCOLATE": {
-        "ru": "Hot Chocolate",
-        "ua": "Гарячий шоколад",
-        "en": "Hot Chocolate"
-    },
-    "BB_HEAD_HOT_CHOCOLATE_LORE": {},
-    "BB_HEAD_HYDRATED_FARMLAND": {
-        "ru": "Hydrated Farmland",
-        "ua": "Зволожені сільськогосподарські угіддя",
-        "en": "Hydrated Farmland"
-    },
-    "BB_HEAD_HYDRATED_FARMLAND_LORE": {},
-    "BB_HEAD_ICE_BLOCK": {
-        "ru": "Ice Block",
-        "ua": "Крижаний блок",
-        "en": "Ice Block"
-    },
-    "BB_HEAD_ICE_BLOCK_LORE": {},
-    "BB_HEAD_ILLUSION_BLOCK": {
-        "ru": "Illusion Block",
-        "ua": "Блок ілюзій",
-        "en": "Illusion Block"
-    },
-    "BB_HEAD_ILLUSION_BLOCK_LORE": {},
-    "BB_HEAD_IRON_BLOCK": {
-        "ru": "Iron Block",
-        "ua": "Залізний блок",
-        "en": "Iron Block"
-    },
-    "BB_HEAD_IRON_BLOCK_LORE": {},
-    "BB_HEAD_IRON_ORE": {
-        "ru": "Iron Ore",
-        "ua": "Залізна руда",
-        "en": "Iron Ore"
-    },
-    "BB_HEAD_IRON_ORE_LORE": {},
-    "BB_HEAD_JUKEBOX": {
-        "ru": "Jukebox",
-        "ua": "Музична скринька",
-        "en": "Jukebox"
-    },
-    "BB_HEAD_JUKEBOX_LORE": {},
-    "BB_HEAD_KISSY": {
-        "ru": "Kissy",
-        "ua": "Поцілунок",
-        "en": "Kissy"
-    },
-    "BB_HEAD_KISSY_LORE": {},
-    "BB_HEAD_KOALA": {
-        "ru": "Koala",
-        "ua": "Коала",
-        "en": "Koala"
-    },
-    "BB_HEAD_KOALA_LORE": {},
-    "BB_HEAD_LAPIS_LAZULI_BLOCK": {
-        "ru": "Lapis Lazuli Block",
-        "ua": "Блок лазуриту",
-        "en": "Lapis Lazuli Block"
-    },
-    "BB_HEAD_LAPIS_LAZULI_BLOCK_LORE": {},
-    "BB_HEAD_LAPIS_LAZULI_ORE": {
-        "ru": "Lapis Lazuli Ore",
-        "ua": "Руда лазуриту",
-        "en": "Lapis Lazuli Ore"
-    },
-    "BB_HEAD_LAPIS_LAZULI_ORE_LORE": {},
-    "BB_HEAD_LAVA": {
-        "ru": "Lava",
-        "ua": "Лава",
-        "en": "Lava"
-    },
-    "BB_HEAD_LAVA_BUCKET": {
-        "ru": "Lava Bucket",
-        "ua": "Відро лави",
-        "en": "Lava Bucket"
-    },
-    "BB_HEAD_LAVA_BUCKET_LORE": {},
-    "BB_HEAD_LAVA_LORE": {},
-    "BB_HEAD_LAVA_SLIME": {
-        "ru": "Lava Slime",
-        "ua": "Лавовий слизь",
-        "en": "Lava Slime"
-    },
-    "BB_HEAD_LAVA_SLIME_LORE": {},
-    "BB_HEAD_LEMON": {
-        "ru": "Lemon",
-        "ua": "Лимон",
-        "en": "Lemon"
-    },
-    "BB_HEAD_LEMON_LORE": {},
-    "BB_HEAD_LETTUCE": {
-        "ru": "Lettuce",
-        "ua": "Салат",
-        "en": "Lettuce"
-    },
-    "BB_HEAD_LETTUCE_LORE": {},
-    "BB_HEAD_LIGHT_BLUE_STAINED_CLAY": {
-        "ru": "Light Blue Stained Clay",
-        "ua": "Світло-синя вітражна глина",
-        "en": "Light Blue Stained Clay"
-    },
-    "BB_HEAD_LIGHT_BLUE_STAINED_CLAY_LORE": {},
-    "BB_HEAD_LIGHT_BLUE_WOOL": {
-        "ru": "Light Blue Wool",
-        "ua": "Світло-синя вовна",
-        "en": "Light Blue Wool"
-    },
-    "BB_HEAD_LIGHT_BLUE_WOOL_LORE": {},
-    "BB_HEAD_LIGHT_BROWN_MUSHROOM": {
-        "ru": "Light Brown Mushroom",
-        "ua": "Світло-коричневий гриб",
-        "en": "Light Brown Mushroom"
-    },
-    "BB_HEAD_LIGHT_BROWN_MUSHROOM_LORE": {},
-    "BB_HEAD_LIGHT_GRAY_WOOL": {
-        "ru": "Light Gray Wool",
-        "ua": "Світло-сіра вовна",
-        "en": "Light Gray Wool"
-    },
-    "BB_HEAD_LIGHT_GRAY_WOOL_LORE": {},
-    "BB_HEAD_LIGHT_GREY": {
-        "ru": "Light Grey",
-        "ua": "Світло-сірий",
-        "en": "Light Grey"
-    },
-    "BB_HEAD_LIGHT_GREY_LORE": {},
-    "BB_HEAD_LIGHT_ORANGE": {
-        "ru": "Light Orange",
-        "ua": "Світло-помаранчевий",
-        "en": "Light Orange"
-    },
-    "BB_HEAD_LIGHT_ORANGE_LORE": {},
-    "BB_HEAD_LIGHT_RED": {
-        "ru": "Light Red",
-        "ua": "Світло-червоний",
-        "en": "Light Red"
-    },
-    "BB_HEAD_LIGHT_RED_LORE": {},
-    "BB_HEAD_LIME_WOOL": {
-        "ru": "Lime Wool",
-        "ua": "Липова шерсть",
-        "en": "Lime Wool"
-    },
-    "BB_HEAD_LIME_WOOL_LORE": {},
-    "BB_HEAD_LUIGI": {
-        "ru": "Luigi",
-        "ua": "Луїджі",
-        "en": "Luigi"
-    },
-    "BB_HEAD_LUIGI_LORE": {},
-    "BB_HEAD_MAGENTA_WOOL": {
-        "ru": "Magenta Wool",
-        "ua": "Пурпурова вовна",
-        "en": "Magenta Wool"
-    },
-    "BB_HEAD_MAGENTA_WOOL_LORE": {},
-    "BB_HEAD_MAILBOX": {
-        "ru": "Mailbox",
-        "ua": "Поштова скриня",
-        "en": "Mailbox"
-    },
-    "BB_HEAD_MAILBOX_LORE": {},
-    "BB_HEAD_MARIO": {
-        "ru": "Mario",
-        "ua": "Маріо",
-        "en": "Mario"
-    },
-    "BB_HEAD_MARIO_LORE": {},
-    "BB_HEAD_MASTERCHIEF_-_HALO": {
-        "ru": "Masterchief - Halo",
-        "ua": "Майстер-начальник - Halo",
-        "en": "Masterchief - Halo"
-    },
-    "BB_HEAD_MASTERCHIEF_-_HALO_LORE": {},
-    "BB_HEAD_MASTER_BALL": {
-        "ru": "Master Ball",
-        "ua": "М'яч майстра",
-        "en": "Master Ball"
-    },
-    "BB_HEAD_MASTER_BALL_LORE": {},
-    "BB_HEAD_MEDIUM_GREEN": {
-        "ru": "Medium Green",
-        "ua": "Середньо-зелений",
-        "en": "Medium Green"
-    },
-    "BB_HEAD_MEDIUM_GREEN_LORE": {},
-    "BB_HEAD_MELON": {
-        "ru": "Melon",
-        "ua": "Диня",
-        "en": "Melon"
-    },
-    "BB_HEAD_MELON_LORE": {},
-    "BB_HEAD_MILK_BUCKET": {
-        "ru": "Milk Bucket",
-        "ua": "Відро молока",
-        "en": "Milk Bucket"
-    },
-    "BB_HEAD_MILK_BUCKET_LORE": {},
-    "BB_HEAD_MISSING_TEXTURE": {
-        "ru": "Missing Texture",
-        "ua": "Відсутня текстура",
-        "en": "Missing Texture"
-    },
-    "BB_HEAD_MISSING_TEXTURE_LORE": {},
-    "BB_HEAD_MOB_SPAWNER": {
-        "ru": "Mob Spawner",
-        "ua": "Моб Спавнер",
-        "en": "Mob Spawner"
-    },
-    "BB_HEAD_MOB_SPAWNER_LORE": {},
-    "BB_HEAD_MOLTEN_CORE": {
-        "ru": "Molten Core",
-        "ua": "Розплавлене ядро",
-        "en": "Molten Core"
-    },
-    "BB_HEAD_MOLTEN_CORE_LORE": {},
-    "BB_HEAD_MONKEY": {
-        "ru": "Monkey",
-        "ua": "Мавпа",
-        "en": "Monkey"
-    },
-    "BB_HEAD_MONKEY_LORE": {},
-    "BB_HEAD_MOSSY_COBBLESTONE": {
-        "ru": "Mossy Cobblestone",
-        "ua": "Розплавлене ядро",
-        "en": "Mossy Cobblestone"
-    },
-    "BB_HEAD_MOSSY_COBBLESTONE_LORE": {},
-    "BB_HEAD_MOSSY_STONE_BRICK": {
-        "ru": "Mossy Stone Brick",
-        "ua": "Моховий кам'яна цегла",
-        "en": "Mossy Stone Brick"
-    },
-    "BB_HEAD_MOSSY_STONE_BRICK_LORE": {},
-    "BB_HEAD_MUSHROOM_COW": {
-        "ru": "Mushroom Cow",
-        "ua": "Грибна корова",
-        "en": "Mushroom Cow"
-    },
-    "BB_HEAD_MUSHROOM_COW_LORE": {},
-    "BB_HEAD_MUSHROOM_STEM": {
-        "ru": "Mushroom Stem",
-        "ua": "Стебло гриба",
-        "en": "Mushroom Stem"
-    },
-    "BB_HEAD_MUSHROOM_STEM_LORE": {},
-    "BB_HEAD_MUSTACHE": {
-        "ru": "Mustache",
-        "ua": "Вуса",
-        "en": "Mustache"
-    },
-    "BB_HEAD_MUSTACHE_LORE": {},
-    "BB_HEAD_MYCELLIUM": {
-        "ru": "Mycellium",
-        "ua": "Міцелій",
-        "en": "Mycellium"
-    },
-    "BB_HEAD_MYCELLIUM_LORE": {},
-    "BB_HEAD_NETHERBRICK": {
-        "ru": "Netherbrick",
-        "ua": "Адська цегла",
-        "en": "Netherbrick"
-    },
-    "BB_HEAD_NETHERBRICK_LORE": {},
-    "BB_HEAD_NETHERRACK": {
-        "ru": "Netherrack",
-        "ua": "Адська доріжка",
-        "en": "Netherrack"
-    },
-    "BB_HEAD_NETHERRACK_LORE": {},
-    "BB_HEAD_NETHER_PORTAL": {
-        "ru": "Nether Portal",
-        "ua": "Портал в ад",
-        "en": "Nether Portal"
-    },
-    "BB_HEAD_NETHER_PORTAL_LORE": {},
-    "BB_HEAD_NOTE_BLOCK": {
-        "ru": "Note Block",
-        "ua": "Блок з нотами",
-        "en": "Note Block"
-    },
-    "BB_HEAD_NOTE_BLOCK_LORE": {},
-    "BB_HEAD_NUTELLA": {
-        "ru": "Nutella",
-        "ua": "Нутелла",
-        "en": "Nutella"
-    },
-    "BB_HEAD_NUTELLA_LORE": {},
-    "BB_HEAD_OBSIDIAN": {
-        "ru": "Obsidian",
-        "ua": "Обсидіан",
-        "en": "Obsidian"
-    },
-    "BB_HEAD_OBSIDIAN_LORE": {},
-    "BB_HEAD_OCELOT": {
-        "ru": "Ocelot",
-        "ua": "Оцелот",
-        "en": "Ocelot"
-    },
-    "BB_HEAD_OCELOT_LORE": {},
-    "BB_HEAD_ORANGE": {
-        "ru": "Orange",
-        "ua": "Помаранчевий",
-        "en": "Orange"
-    },
-    "BB_HEAD_ORANGE_CORE": {
-        "ru": "Orange Core",
-        "ua": "Помаранчеве ядро",
-        "en": "Orange Core"
-    },
-    "BB_HEAD_ORANGE_CORE_LORE": {},
-    "BB_HEAD_ORANGE_LORE": {},
-    "BB_HEAD_ORANGE_WOOL": {
-        "ru": "Orange Wool",
-        "ua": "Помаранчева вовна",
-        "en": "Orange Wool"
-    },
-    "BB_HEAD_ORANGE_WOOL_LORE": {},
-    "BB_HEAD_PACKED_ICE_BLOCK": {
-        "ru": "Packed Ice Block",
-        "ua": "Упакований льодовий блок",
-        "en": "Packed Ice Block"
-    },
-    "BB_HEAD_PACKED_ICE_BLOCK_LORE": {},
-    "BB_HEAD_PANCAKES": {
-        "ru": "Pancakes",
-        "ua": "Млинці",
-        "en": "Pancakes"
-    },
-    "BB_HEAD_PANCAKES_LORE": {},
-    "BB_HEAD_PANDA": {
-        "ru": "Panda",
-        "ua": "Панда",
-        "en": "Panda"
-    },
-    "BB_HEAD_PANDA_LORE": {},
-    "BB_HEAD_PENGUIN": {
-        "ru": "Penguin",
-        "ua": "Пінгвін",
-        "en": "Penguin"
-    },
-    "BB_HEAD_PENGUIN_LORE": {},
-    "BB_HEAD_PIE": {
-        "ru": "Pie",
-        "ua": "Пиріг",
-        "en": "Pie"
-    },
-    "BB_HEAD_PIE_LORE": {},
-    "BB_HEAD_PIG": {
-        "ru": "Pig",
-        "ua": "Свиня",
-        "en": "Pig"
-    },
-    "BB_HEAD_PIGZOMBIE": {
-        "ru": "Pigzombie",
-        "ua": "Свиня-зомбі",
-        "en": "Pigzombie"
-    },
-    "BB_HEAD_PIGZOMBIE_LORE": {},
-    "BB_HEAD_PIG_LORE": {},
-    "BB_HEAD_PILLAR_QUARTZ_BLOCK": {
-        "ru": "Pillar Quartz Block",
-        "ua": "Стовповий кварцовий блок",
-        "en": "Pillar Quartz Block"
-    },
-    "BB_HEAD_PILLAR_QUARTZ_BLOCK_LORE": {},
-    "BB_HEAD_PINE_CONE": {
-        "ru": "Pine Cone",
-        "ua": "Соснова шишка",
-        "en": "Pine Cone"
-    },
-    "BB_HEAD_PINE_CONE_LORE": {},
-    "BB_HEAD_PINK": {
-        "ru": "Pink",
-        "ua": "Рожевий",
-        "en": "Pink"
-    },
-    "BB_HEAD_PINK_LORE": {},
-    "BB_HEAD_PINK_WOOL": {
-        "ru": "Pink Wool",
-        "ua": "Рожева вовна",
-        "en": "Pink Wool"
-    },
-    "BB_HEAD_PINK_WOOL_LORE": {},
-    "BB_HEAD_PISTON": {
-        "ru": "Piston",
-        "ua": "Поршень",
-        "en": "Piston"
-    },
-    "BB_HEAD_PISTON_LORE": {},
-    "BB_HEAD_PODZOL": {
-        "ru": "Podzol",
-        "ua": "Подзол",
-        "en": "Podzol"
-    },
-    "BB_HEAD_PODZOL_LORE": {},
-    "BB_HEAD_POKE_BALL": {
-        "ru": "Poke Ball",
-        "ua": "Поке м'яч",
-        "en": "Poke Ball"
-    },
-    "BB_HEAD_POKE_BALL_LORE": {},
-    "BB_HEAD_POLAR_BEAR": {
-        "ru": "Polar Bear",
-        "ua": "Полярний ведмідь",
-        "en": "Polar Bear"
-    },
-    "BB_HEAD_POLAR_BEAR_LORE": {},
-    "BB_HEAD_POLISHED_ANDESITE": {
-        "ru": "Polished Andesite",
-        "ua": "Полірований андезит",
-        "en": "Polished Andesite"
-    },
-    "BB_HEAD_POLISHED_ANDESITE_LORE": {},
-    "BB_HEAD_POLISHED_DIORITE": {
-        "ru": "Polished Diorite",
-        "ua": "Полірований діорит",
-        "en": "Polished Diorite"
-    },
-    "BB_HEAD_POLISHED_DIORITE_LORE": {},
-    "BB_HEAD_POLISHED_GRANITE": {
-        "ru": "Polished Granite",
-        "ua": "Полірований граніт",
-        "en": "Polished Granite"
-    },
-    "BB_HEAD_POLISHED_GRANITE_LORE": {},
-    "BB_HEAD_POPCORN": {
-        "ru": "Popcorn",
-        "ua": "Попкорн",
-        "en": "Popcorn"
-    },
-    "BB_HEAD_POPCORN_LORE": {},
-    "BB_HEAD_PORTABLE_GRILL": {
-        "ru": "Portable Grill",
-        "ua": "Портативний гриль",
-        "en": "Portable Grill"
-    },
-    "BB_HEAD_PORTABLE_GRILL_LORE": {},
-    "BB_HEAD_PORTAL_CORE": {
-        "ru": "Portal Core",
-        "ua": "Ядро порталу",
-        "en": "Portal Core"
-    },
-    "BB_HEAD_PORTAL_CORE_LORE": {},
-    "BB_HEAD_PREMIER_BALL": {
-        "ru": "Premier Ball",
-        "ua": "Прем'єр -м'яч",
-        "en": "Premier Ball"
-    },
-    "BB_HEAD_PREMIER_BALL_LORE": {},
-    "BB_HEAD_PRISMARINE": {
-        "ru": "Prismarine",
-        "ua": "Присмарин",
-        "en": "Prismarine"
-    },
-    "BB_HEAD_PRISMARINE_BRICK": {
-        "ru": "Prismarine Brick",
-        "ua": "Присмарінова цегла",
-        "en": "Prismarine Brick"
-    },
-    "BB_HEAD_PRISMARINE_BRICK_LORE": {},
-    "BB_HEAD_PRISMARINE_LORE": {},
-    "BB_HEAD_PUFFERFUSH": {
-        "ru": "Pufferfush",
-        "ua": "Риба фугу",
-        "en": "Pufferfush"
-    },
-    "BB_HEAD_PUFFERFUSH_LORE": {},
-    "BB_HEAD_PUMPKIN": {
-        "ru": "Pumpkin",
-        "ua": "Гарбуз",
-        "en": "Pumpkin"
-    },
-    "BB_HEAD_PUMPKIN_LORE": {},
-    "BB_HEAD_PURCHASE_MESSAGE": {
-        "ru": "Вы приобрели голову §a%s §fза §a%s §f%s. Теперь её можно будет использовать в игре на своем участке.",
-        "ua": "Ви придбали голову §a%s §fза §a%s §f%s. Тепер її можна буде використовувати в грі на своїй ділянці.",
-        "en": "You have purchased the head §a%s §ffor §a%s §f%s. Now you can use it in your site in the game."
-    },
-    "BB_HEAD_PURPLE_GRAPES": {
-        "ru": "Purple Grapes",
-        "ua": "Фіолетовий виноград",
-        "en": "Purple Grapes"
-    },
-    "BB_HEAD_PURPLE_GRAPES_LORE": {},
-    "BB_HEAD_PURPLE_WOOL": {
-        "ru": "Purple Wool",
-        "ua": "Фіолетова вовна",
-        "en": "Purple Wool"
-    },
-    "BB_HEAD_PURPLE_WOOL_LORE": {},
-    "BB_HEAD_QUARTZ_BLOCK": {
-        "ru": "Quartz Block",
-        "ua": "Кварцовий блок",
-        "en": "Quartz Block"
-    },
-    "BB_HEAD_QUARTZ_BLOCK_LORE": {},
-    "BB_HEAD_QUARTZ_ORE": {
-        "ru": "Quartz Ore",
-        "ua": "Кварцова руда",
-        "en": "Quartz Ore"
-    },
-    "BB_HEAD_QUARTZ_ORE_LORE": {},
-    "BB_HEAD_RABBIT": {
-        "ru": "Rabbit",
-        "ua": "Кролик",
-        "en": "Rabbit"
-    },
-    "BB_HEAD_RABBIT_LORE": {},
-    "BB_HEAD_RED": {
-        "ru": "Red",
-        "ua": "Червоний",
-        "en": "Red"
-    },
-    "BB_HEAD_REDDIT": {
-        "ru": "Reddit",
-        "ua": "Reddit",
-        "en": "Reddit"
-    },
-    "BB_HEAD_REDDIT_LORE": {},
-    "BB_HEAD_REDSTONE_BLOCK": {
-        "ru": "Redstone Block",
-        "ua": "Редстоун Блок",
-        "en": "Redstone Block"
-    },
-    "BB_HEAD_REDSTONE_BLOCK_LORE": {},
-    "BB_HEAD_REDSTONE_LAMP": {
-        "ru": "Redstone Lamp",
-        "ua": "Лампа Редстоун",
-        "en": "Redstone Lamp"
-    },
-    "BB_HEAD_REDSTONE_LAMP_LORE": {},
-    "BB_HEAD_REDSTONE_ORE": {
-        "ru": "Redstone Ore",
-        "ua": "Редстоунська руда",
-        "en": "Redstone Ore"
-    },
-    "BB_HEAD_REDSTONE_ORE_LORE": {},
-    "BB_HEAD_REDSTONE_TORCH": {
-        "ru": "Redstone Torch",
-        "ua": "Факел Редстоун",
-        "en": "Redstone Torch"
-    },
-    "BB_HEAD_REDSTONE_TORCH_LORE": {},
-    "BB_HEAD_RED_DICE": {
-        "ru": "Red Dice",
-        "ua": "Червоний кубик",
-        "en": "Red Dice"
-    },
-    "BB_HEAD_RED_DICE_LORE": {},
-    "BB_HEAD_RED_GRAPES": {
-        "ru": "Red Grapes",
-        "ua": "Червоний виноград",
-        "en": "Red Grapes"
-    },
-    "BB_HEAD_RED_GRAPES_LORE": {},
-    "BB_HEAD_RED_LORE": {},
-    "BB_HEAD_RED_MUSHROOM": {
-        "ru": "Red Mushroom",
-        "ua": "Червоний гриб",
-        "en": "Red Mushroom"
-    },
-    "BB_HEAD_RED_MUSHROOM_LORE": {},
-    "BB_HEAD_RED_SAND": {
-        "ru": "Red Sand",
-        "ua": "Червоний пісок",
-        "en": "Red Sand"
-    },
-    "BB_HEAD_RED_SANDSTONE": {
-        "ru": "Red Sandstone",
-        "ua": "Червоний піщаник",
-        "en": "Red Sandstone"
-    },
-    "BB_HEAD_RED_SANDSTONE_LORE": {},
-    "BB_HEAD_RED_SAND_LORE": {},
-    "BB_HEAD_RED_WOOL": {
-        "ru": "Red Wool",
-        "ua": "Червона вовна",
-        "en": "Red Wool"
-    },
-    "BB_HEAD_RED_WOOL_LORE": {},
-    "BB_HEAD_REGULAR_FISH": {
-        "ru": "Regular Fish",
-        "ua": "Звичайна риба",
-        "en": "Regular Fish"
-    },
-    "BB_HEAD_REGULAR_FISH_LORE": {},
-    "BB_HEAD_SAD": {
-        "ru": "Sad",
-        "ua": "Сумний",
-        "en": "Sad"
-    },
-    "BB_HEAD_SAD_LORE": {},
-    "BB_HEAD_SAFARI_BALL": {
-        "ru": "Safari Ball",
-        "ua": "М'яч для сафарі",
-        "en": "Safari Ball"
-    },
-    "BB_HEAD_SAFARI_BALL_LORE": {},
-    "BB_HEAD_SALAD": {
-        "ru": "Salad",
-        "ua": "Салад",
-        "en": "Salad"
-    },
-    "BB_HEAD_SALAD_LORE": {},
-    "BB_HEAD_SALMON_FISH": {
-        "ru": "Salmon Fish",
-        "ua": "Лосось",
-        "en": "Salmon Fish"
-    },
-    "BB_HEAD_SALMON_FISH_LORE": {},
-    "BB_HEAD_SAND": {
-        "ru": "Sand",
-        "ua": "Пісок",
-        "en": "Sand"
-    },
-    "BB_HEAD_SANDSTONE": {
-        "ru": "Sandstone",
-        "ua": "Піщаник",
-        "en": "Sandstone"
-    },
-    "BB_HEAD_SANDSTONE_LORE": {},
-    "BB_HEAD_SANDWICH": {
-        "ru": "Sandwich",
-        "ua": "Сендвіч",
-        "en": "Sandwich"
-    },
-    "BB_HEAD_SANDWICH_LORE": {},
-    "BB_HEAD_SAND_LORE": {},
-    "BB_HEAD_SCARED": {
-        "ru": "Scared",
-        "ua": "Наляканий",
-        "en": "Scared"
-    },
-    "BB_HEAD_SCARED_LORE": {},
-    "BB_HEAD_SCRAMBLED_RUBIK'S_CUBE": {
-        "ru": "Scrambled Rubiks Cube",
-        "ua": "Запутаний кубик Рубіка",
-        "en": "Scrambled Rubiks Cube"
-    },
-    "BB_HEAD_SCRAMBLED_RUBIK'S_CUBE_LORE": {},
-    "BB_HEAD_SEAGULL": {
-        "ru": "Seagull",
-        "ua": "Чайка",
-        "en": "Seagull"
-    },
-    "BB_HEAD_SEAGULL_LORE": {},
-    "BB_HEAD_SEA_LANTERN": {
-        "ru": "Sea Lantern",
-        "ua": "Морський ліхтар",
-        "en": "Sea Lantern"
-    },
-    "BB_HEAD_SEA_LANTERN_LORE": {},
-    "BB_HEAD_SELECTION_MESSAGE": {
-        "ru": "Вы получили голову §a%s",
-        "ua": "Ви отримали голову §a%s",
-        "en": "You received  a head §a%s"
-    },
-    "BB_HEAD_SHEEP": {
-        "ru": "Sheep",
-        "ua": "Вівця",
-        "en": "Sheep"
-    },
-    "BB_HEAD_SHEEP_LORE": {},
-    "BB_HEAD_SKULL": {
-        "ru": "Skull",
-        "ua": "Череп",
-        "en": "Skull"
-    },
-    "BB_HEAD_SKULL_LORE": {},
-    "BB_HEAD_SKYPE": {
-        "ru": "Skype",
-        "ua": "Skype",
-        "en": "Skype"
-    },
-    "BB_HEAD_SKYPE_LORE": {},
-    "BB_HEAD_SLIME": {
-        "ru": "Slime",
-        "ua": "Слизень",
-        "en": "Slime"
-    },
-    "BB_HEAD_SLIME_BALL": {
-        "ru": "Slime Ball",
-        "ua": "Слизовий м'яч",
-        "en": "Slime Ball"
-    },
-    "BB_HEAD_SLIME_BALL_LORE": {},
-    "BB_HEAD_SLIME_BLOCK": {
-        "ru": "Slime Block",
-        "ua": "Слизовий блок",
-        "en": "Slime Block"
-    },
-    "BB_HEAD_SLIME_BLOCK_LORE": {},
-    "BB_HEAD_SLIME_LORE": {},
-    "BB_HEAD_SLIME_PISTON": {
-        "ru": "Slime Piston",
-        "ua": "Слизовий порошень",
-        "en": "Slime Piston"
-    },
-    "BB_HEAD_SLIME_PISTON_LORE": {},
-    "BB_HEAD_SMILE": {
-        "ru": "Smile",
-        "ua": "Усмішка",
-        "en": "Smile"
-    },
-    "BB_HEAD_SMILE_LORE": {},
-    "BB_HEAD_SMOOTH_SANDSTONE": {
-        "ru": "Smooth Sandstone",
-        "ua": "Гладкий піщаник",
-        "en": "Smooth Sandstone"
-    },
-    "BB_HEAD_SMOOTH_SANDSTONE_LORE": {},
-    "BB_HEAD_SNOWHEAD": {
-        "ru": "Snowhead",
-        "ua": "Сніжна голова",
-        "en": "Snowhead"
-    },
-    "BB_HEAD_SNOWHEAD_LORE": {},
-    "BB_HEAD_SNOW_BLOCK": {
-        "ru": "Snow Block",
-        "ua": "Сніжний блок",
-        "en": "Snow Block"
-    },
-    "BB_HEAD_SNOW_BLOCK_LORE": {},
-    "BB_HEAD_SNOW_GRASS": {
-        "ru": "Snow Grass",
-        "ua": "Сніжна трава",
-        "en": "Snow Grass"
-    },
-    "BB_HEAD_SNOW_GRASS_LORE": {},
-    "BB_HEAD_SOCCERBALL": {
-        "ru": "Soccerball",
-        "ua": "Футбольний м'яч",
-        "en": "Soccerball"
-    },
-    "BB_HEAD_SOCCERBALL_LORE": {},
-    "BB_HEAD_SOLVED_RUBIK'S_CUBE": {
-        "ru": "Solved Rubiks Cube",
-        "ua": "Зібраний кубик Рубіка",
-        "en": "Solved Rubiks Cube"
-    },
-    "BB_HEAD_SOLVED_RUBIK'S_CUBE_LORE": {},
-    "BB_HEAD_SOULSAND": {
-        "ru": "Soulsand",
-        "ua": "Пісок душ",
-        "en": "Soulsand"
-    },
-    "BB_HEAD_SOULSAND_LORE": {},
-    "BB_HEAD_SPACE_HELMET": {
-        "ru": "Space Helmet",
-        "ua": "Космічний шолом",
-        "en": "Space Helmet"
-    },
-    "BB_HEAD_SPACE_HELMET_LORE": {},
-    "BB_HEAD_SPIDER": {
-        "ru": "Spider",
-        "ua": "Павук",
-        "en": "Spider"
-    },
-    "BB_HEAD_SPIDER_LORE": {},
-    "BB_HEAD_SPONGE": {
-        "ru": "Sponge",
-        "ua": "Губка",
-        "en": "Sponge"
-    },
-    "BB_HEAD_SPONGE_LORE": {},
-    "BB_HEAD_SQUID": {
-        "ru": "Squid",
-        "ua": "Восьминіг",
-        "en": "Squid"
-    },
-    "BB_HEAD_SQUID_LORE": {},
-    "BB_HEAD_STICKY_PISTON": {
-        "ru": "Sticky Piston",
-        "ua": "Липкий поршень",
-        "en": "Sticky Piston"
-    },
-    "BB_HEAD_STICKY_PISTON_LORE": {},
-    "BB_HEAD_STONE": {
-        "ru": "Stone",
-        "ua": "Камінь",
-        "en": "Stone"
-    },
-    "BB_HEAD_STONE_BRICK": {
-        "ru": "Stone Brick",
-        "ua": "Кам'яна цегла",
-        "en": "Stone Brick"
-    },
-    "BB_HEAD_STONE_BRICK_LORE": {},
-    "BB_HEAD_STONE_LORE": {},
-    "BB_HEAD_STONE_SLAB": {
-        "ru": "Stone Slab",
-        "ua": "Кам'яна плита",
-        "en": "Stone Slab"
-    },
-    "BB_HEAD_STONE_SLAB_LORE": {},
-    "BB_HEAD_STRAWBERRY": {
-        "ru": "Strawberry",
-        "ua": "Полуниця",
-        "en": "Strawberry"
-    },
-    "BB_HEAD_STRAWBERRY_LORE": {},
-    "BB_HEAD_SUGARCANE": {
-        "ru": "Sugarcane",
-        "ua": "Цукровий очерет",
-        "en": "Sugarcane"
-    },
-    "BB_HEAD_SUGARCANE_LORE": {},
-    "BB_HEAD_SUPRISED": {
-        "ru": "Suprised",
-        "ua": "Здивований",
-        "en": "Suprised"
-    },
-    "BB_HEAD_SUPRISED_LORE": {},
-    "BB_HEAD_SUSHI_ROLL": {
-        "ru": "Sushi Roll",
-        "ua": "Суші-рол",
-        "en": "Sushi Roll"
-    },
-    "BB_HEAD_SUSHI_ROLL_LORE": {},
-    "BB_HEAD_TACO": {
-        "ru": "Taco",
-        "ua": "Тако",
-        "en": "Taco"
-    },
-    "BB_HEAD_TACO_LORE": {},
-    "BB_HEAD_TARGET": {
-        "ru": "Target",
-        "ua": "Мішень",
-        "en": "Target"
-    },
-    "BB_HEAD_TARGET_LORE": {},
-    "BB_HEAD_TIGER": {
-        "ru": "Tiger",
-        "ua": "Тигр",
-        "en": "Tiger"
-    },
-    "BB_HEAD_TIGER_LORE": {},
-    "BB_HEAD_TNT": {
-        "ru": "TNT",
-        "ua": "TNT",
-        "en": "TNT"
-    },
-    "BB_HEAD_TNT_LORE": {},
-    "BB_HEAD_TNT_MINECART": {
-        "ru": "TNT Minecart",
-        "ua": "TNT Кошик для копалень",
-        "en": "TNT Minecart"
-    },
-    "BB_HEAD_TNT_MINECART_LORE": {},
-    "BB_HEAD_TOMATO": {
-        "ru": "Tomato",
-        "ua": "Помідор",
-        "en": "Tomato"
-    },
-    "BB_HEAD_TOMATO_LORE": {},
-    "BB_HEAD_TORTOISE": {
-        "ru": "Tortoise",
-        "ua": "Черепаха",
-        "en": "Tortoise"
-    },
-    "BB_HEAD_TORTOISE_LORE": {},
-    "BB_HEAD_TURRET": {
-        "ru": "Turret",
-        "ua": "Башта",
-        "en": "Turret"
-    },
-    "BB_HEAD_TURRET_LORE": {},
-    "BB_HEAD_TWITTER": {
-        "ru": "Twitter",
-        "ua": "Twitter",
-        "en": "Twitter"
-    },
-    "BB_HEAD_TWITTER_LORE": {},
-    "BB_HEAD_ULTRA_BALL": {
-        "ru": "Ultra Ball",
-        "ua": "Ультра м'яч",
-        "en": "Ultra Ball"
-    },
-    "BB_HEAD_ULTRA_BALL_LORE": {},
-    "BB_HEAD_VILLAGER": {
-        "ru": "Villager",
-        "ua": "Житель",
-        "en": "Villager"
-    },
-    "BB_HEAD_VILLAGER_HEAD": {
-        "ru": "Villager head",
-        "ua": "Голова жителя",
-        "en": "Villager head"
-    },
-    "BB_HEAD_VILLAGER_HEAD_LORE": {},
-    "BB_HEAD_VILLAGER_LORE": {},
-    "BB_HEAD_WALRUS": {
-        "ru": "Walrus",
-        "ua": "Морж",
-        "en": "Walrus"
-    },
-    "BB_HEAD_WALRUS_LORE": {},
-    "BB_HEAD_WARP_PIPE": {
-        "ru": "Warp Pipe",
-        "ua": "Труба",
-        "en": "Warp Pipe"
-    },
-    "BB_HEAD_WARP_PIPE_LORE": {},
-    "BB_HEAD_WATER": {
-        "ru": "Water",
-        "ua": "Вода",
-        "en": "Water"
-    },
-    "BB_HEAD_WATER_BUCKET": {
-        "ru": "Water Bucket",
-        "ua": "Відро води",
-        "en": "Water Bucket"
-    },
-    "BB_HEAD_WATER_BUCKET_LORE": {},
-    "BB_HEAD_WATER_LORE": {},
-    "BB_HEAD_WEIGHTED_CUBE": {
-        "ru": "Weighted Cube",
-        "ua": "Зважений куб",
-        "en": "Weighted Cube"
-    },
-    "BB_HEAD_WEIGHTED_CUBE_LORE": {},
-    "BB_HEAD_WET_SPONGE": {
-        "ru": "Wet Sponge",
-        "ua": "Мокра губка",
-        "en": "Wet Sponge"
-    },
-    "BB_HEAD_WET_SPONGE_LORE": {},
-    "BB_HEAD_WHITE_BLOCK": {
-        "ru": "White Block",
-        "ua": "Білий блок",
-        "en": "White Block"
-    },
-    "BB_HEAD_WHITE_BLOCK_LORE": {},
-    "BB_HEAD_WHITE_DICE": {
-        "ru": "White Dice",
-        "ua": "Білий кубик",
-        "en": "White Dice"
-    },
-    "BB_HEAD_WHITE_DICE_LORE": {},
-    "BB_HEAD_WHITE_WOOL": {
-        "ru": "White Wool",
-        "ua": "Біла вовна",
-        "en": "White Wool"
-    },
-    "BB_HEAD_WHITE_WOOL_LORE": {},
-    "BB_HEAD_WILSON_-_CASTAWAY": {
-        "ru": "Wilson - Castaway",
-        "ua": "Wilson - Castaway",
-        "en": "Wilson - Castaway"
-    },
-    "BB_HEAD_WILSON_-_CASTAWAY_LORE": {},
-    "BB_HEAD_WINK": {
-        "ru": "Wink",
-        "ua": "Підморговування",
-        "en": "Wink"
-    },
-    "BB_HEAD_WINK_LORE": {},
-    "BB_HEAD_WITHER_BOSS": {
-        "ru": "Wither Boss",
-        "ua": "Чахлий бос",
-        "en": "Wither Boss"
-    },
-    "BB_HEAD_WITHER_BOSS_LORE": {},
-    "BB_HEAD_WOOD_PLANK": {
-        "ru": "Wood Plank",
-        "ua": "Дерев'яна дошка",
-        "en": "Wood Plank"
-    },
-    "BB_HEAD_WOOD_PLANK_LORE": {},
-    "BB_HEAD_YELLOW": {
-        "ru": "Yellow",
-        "ua": "Жовтий",
-        "en": "Yellow"
-    },
-    "BB_HEAD_YELLOW_LORE": {},
-    "BB_HEAD_YELLOW_WOOL": {
-        "ru": "Yellow Wool",
-        "ua": "Жовта вовна",
-        "en": "Yellow Wool"
-    },
-    "BB_HEAD_YELLOW_WOOL_LORE": {},
-    "BB_HEAD_YOSHI": {
-        "ru": "Yoshi",
-        "ua": "Йоші",
-        "en": "Yoshi"
-    },
-    "BB_HEAD_YOSHI_LORE": {},
-    "BB_HEAD_YOUTUBE": {
-        "ru": "Youtube",
-        "ua": "Youtube",
-        "en": "Youtube"
-    },
-    "BB_HEAD_YOUTUBE_LORE": {},
-    "BUILDBATTLE_ADD_FLOOR_BLOCK_LORE": {
-        "ru": [
-            " ",
-            "§7Нажмите сюда предметом,",
-            "§7который Вы хотите добавить",
-            "§7как материал пола"
-        ],
-        "ua": [
-            " ",
-            "§7Натисніть сюди предметом,",
-            "§7що ви хочете додати",
-            "§7як матеріал підлоги"
-        ],
-        "en": [
-            " ",
-            "§7Click here with the item",
-            "§7which you want to add",
-            "§7as the floor material"
-        ]
-    },
-    "BUILDBATTLE_ADD_FLOOR_BLOCK_NAME": {
-        "ru": "§eДобавить материал",
-        "ua": "§eДодати матеріал",
-        "en": "§eAdd material"
-    },
-    "BUILDBATTLE_ADD_PARTICLES_LORE": {
-        "ru": [
-            "§e► Нажмите, чтобы добавить эффект"
-        ],
-        "ua": [
-            "§e► Натисніть, щоб додати"
-        ],
-        "en": [
-            "§e► Click to add effect"
-        ]
-    },
-    "BUILDBATTLE_ANIMAL_THEME_LORE": {
-        "ru": [
-            "§7Включается в себя множество",
-            "§7зверей, насекомых и птиц ⇩"
-        ],
-        "ua": [
-            "§7Містить в собі безліч",
-            "§7звірів, комах і птахів ⇩"
-        ],
-        "en": [
-            "§7Includes many",
-            "§7animals, insects and birds ⇩"
-        ]
-    },
-    "BUILDBATTLE_ANIMAL_THEME_NAME": {
-        "ru": "Животные",
-        "ua": "Тварини",
-        "en": "Animals"
-    },
-    "BUILDBATTLE_BANNER_FINISH_LORE": {
-        "ru": [
-            "§7Кликните сюда, чтобы завершить",
-            "§7создание баннера и получить его",
-            "§7к себе в инвентарь"
-        ],
-        "ua": [
-            "§7Натисніть сюди, щоб завершити",
-            "§7створення банера і отримати його",
-            "§7до себе в інвентар"
-        ],
-        "en": [
-            "§7Click here to finish",
-            "§7banner creating and add it",
-            "§7to your inventory"
-        ]
-    },
-    "BUILDBATTLE_BANNER_FINISH_NAME": {
-        "ru": "§bЗавершить создание",
-        "ua": "§bЗавершити створення",
-        "en": "§bFinish creating"
-    },
-    "BUILDBATTLE_BANNER_MENU_LORE": {
-        "ru": [
-            " ",
-            "§7Создание собственного баннера",
-            " ",
-            "§e► Нажмите, чтобы начать"
-        ],
-        "ua": [
-            " ",
-            "§7Створення власного банера",
-            " ",
-            "§e► Натисніть, щоб розпочати"
-        ],
-        "en": [
-            " ",
-            "§7Banner creating",
-            " ",
-            "§e► Click to begin"
-        ]
-    },
-    "BUILDBATTLE_BANNER_MENU_TITLE": {
-        "ru": "Создание баннера",
-        "ua": "Створення банеру",
-        "en": "Banner creating"
-    },
-    "BUILDBATTLE_BANNER_PATTERN": {
-        "ru": "Узор №%s",
-        "ua": "Візерунок №%s",
-        "en": "Pattern №%s"
-    },
-    "BUILDBATTLE_BIOME_CHANGED": {
-        "ru": "§fБиом изменен",
-        "ua": "§fБіом змінений",
-        "en": "§fBiome changed"
-    },
-    "BUILDBATTLE_BIOME_MENU_LORE": {
-        "ru": [
-            " ",
-            "§7Выбор биома на Вашем участке",
-            " ",
-            "§e► Нажмите, чтобы выбрать"
-        ],
-        "ua": [
-            " ",
-            "§7Вибір біома на вашій ділянці",
-            " ",
-            "§e► Натисніть, щоб обрати"
-        ],
-        "en": [
-            " ",
-            "§7Biome selection on your site",
-            " ",
-            "§e► Click to choose"
-        ]
-    },
-    "BUILDBATTLE_BIOME_MENU_TITLE": {
-        "ru": "Смена биома",
-        "ua": "Зміна біома",
-        "en": "Biome change"
-    },
-    "BUILDBATTLE_BIOME_SELECTED_LORE": {
-        "ru": [
-            " ",
-            "§c► Биом уже выбран"
-        ],
-        "ua": [
-            " ",
-            "§c► Біом вже обраний"
-        ],
-        "en": [
-            " ",
-            "§c► Biome is already selected"
-        ]
-    },
-    "BUILDBATTLE_BIOME_SELECTION_LORE": {
-        "ru": [
-            " ",
-            "§e► Нажмите, чтобы выбрать биом"
-        ],
-        "ua": [
-            " ",
-            "§e► Натисніть, щоб обрати біом"
-        ],
-        "en": [
-            " ",
-            "§e► Click to choose biome"
-        ]
-    },
-    "BUILDBATTLE_BLOCKS_HEADS": {
-        "ru": "Блоки",
-        "ua": "Блоки",
-        "en": "Blocks"
-    },
-    "BUILDBATTLE_BOARD_PLAYERS_PLOT": {
-        "ru": "Участок игроков:",
-        "ua": "Ділянка гравців:",
-        "en": "Players' site:"
-    },
-    "BUILDBATTLE_BOARD_PLAYER_PLOT": {
-        "ru": "Участок игрока:",
-        "ua": "Ділянка гравців:",
-        "en": "Player's site:"
-    },
-    "BUILDBATTLE_BOARD_THEME": {
-        "ru": "Выбранная тема:",
-        "ua": "Обрана тема:",
-        "en": "Selected theme:"
-    },
-    "BUILDBATTLE_BOARD_VOTING": {
-        "ru": "Идет голосование",
-        "ua": "Триває голосування",
-        "en": "Voting is in progress"
-    },
-    "BUILDBATTLE_BOARD_VOTING_1": {
-        "ru": "за тему постройки",
-        "ua": "за тему споруди",
-        "en": "for the topic of construction"
-    },
-    "BUILDBATTLE_BOARD_WORD": {
-        "ru": "Задание:",
-        "ua": "Завдання:",
-        "en": "Task:"
-    },
-    "BUILDBATTLE_BUILDINGS_THEME_LORE": {
-        "ru": [
-            "§7Множество зданий и построек!",
-            "§7Рекомендуется всем начинающим архитекторам ⇩"
-        ],
-        "ua": [
-            "§7Безліч будівель і споруд!",
-            "§7Рекомендується всім початківцям-архітекторам ⇩"
-        ],
-        "en": [
-            "§7Many buildings and structures!",
-            "§7Recommended for all budding architects ⇩"
-        ]
-    },
-    "BUILDBATTLE_BUILDINGS_THEME_NAME": {
-        "ru": "Постройки",
-        "ua": "Споруди",
-        "en": "Constructions"
-    },
-    "BUILDBATTLE_BUILDING_COUNTDOWN": {
-        "ru": "§cОсталось %s %s",
-        "ua": "§cЗалишилось %s %s",
-        "en": "§cTime left %s %s"
-    },
-    "BUILDBATTLE_BUILDING_COUNTDOWN_CHAT": {
-        "ru": "Голосование начнется через §a%s §f%s",
-        "ua": "Голосування розпочнеться через §a%s §f%s",
-        "en": "Voting will start in §a%s §f%s"
-    },
-    "BUILDBATTLE_BUILDING_END_PLACE": {
-        "ru": "§fВы заняли §a%s §fместо §7(%s очков)",
-        "ua": "§fВи посіли §a%s §fмісце §7(%s очок)",
-        "en": "§fYou took §a%s §fplace §7(%s points)"
-    },
-    "BUILDBATTLE_BUILDING_END_POINTS": {
-        "ru": "§fВаша постройка набрала §a%s §fочков",
-        "ua": "§fВаша споруда набрала §a%s §fочок",
-        "en": "§fYour construction has scored §a%s §fpoints"
-    },
-    "BUILDBATTLE_BUILD_TIME_END": {
-        "ru": "Время вышло. Начинается голосование за лучшую постройку!",
-        "ua": "Час вийшов. Починається голосування за кращу споруду!",
-        "en": "Time's out. Vo  ting for the best construction begins!"
-    },
-    "BUILDBATTLE_CANT_CLEAR": {
-        "ru": [
-            " ",
-            "§c► Все участники должны подтвердить",
-            "  §cпредыдущий запрос на очистку"
-        ],
-        "ua": [
-            " ",
-            "§c► Всі учасники повинні підтвердити",
-            "  §cпопередній запит на очистку"
-        ],
-        "en": [
-            " ",
-            "§c► All participants must confirm",
-            "  §cthe previous cleanup request"
-        ]
-    },
-    "BUILDBATTLE_CHARACTER_THEME_LORE": {
-        "ru": [
-            "§7Человек-Паук, Супермен, Волшебник?",
-            "§7а может быть.. пожарный и ковбой? ⇩"
-        ],
-        "ua": [
-            "§7Людина-Павук, Супермен, Чарівник?",
-            "§7а може бути .. пожежний і ковбой? ⇩"
-        ],
-        "en": [
-            "§7Spider-Man, Superman, Wizard?",
-            "§7or maybe .. fireman and cowboy? ⇩"
-        ]
-    },
-    "BUILDBATTLE_CHARACTER_THEME_NAME": {
-        "ru": "Персонажи",
-        "ua": "Персонажі",
-        "en": "Characters"
-    },
-    "BUILDBATTLE_CLEAR_PLOT_CANCELLED": {
-        "ru": "§fНикто не запрашивал очистку участка",
-        "ua": "§fНіхто не запитував очистку ділянки",
-        "en": "§fNobody requested site cleanup"
-    },
-    "BUILDBATTLE_CLEAR_PLOT_CLICK_TO_CONFIRM": {
-        "ru": "§7Нажмите, чтобы подтвердить очистку участка",
-        "ua": "§7Натисніть, щоб підтвердити очищення ділянки",
-        "en": "§7Click to confirm the site clenup"
-    },
-    "BUILDBATTLE_CLEAR_PLOT_CLICK_TO_DECLINE": {
-        "ru": "§7Нажмите, чтобы отказаться",
-        "ua": "§7Натисніть, щоб відмовитися",
-        "en": "§7Click to decline"
-    },
-    "BUILDBATTLE_CLEAR_PLOT_LORE": {
-        "ru": [
-            " ",
-            "§7Полная очистка участка",
-            "§cВнимание! Вернуть удаленные",
-            "§cпостройки будет невозможно"
-        ],
-        "ua": [
-            " ",
-            "§7Повне очищення ділянки",
-            "§cУвага! повернути видалені",
-            "§cспоруди буде неможливо"
-        ],
-        "en": [
-            " ",
-            "§7Full site cleanup",
-            "§cAttention! Revert deleted",
-            "§cconstrions won't be possible"
-        ]
-    },
-    "BUILDBATTLE_CLEAR_PLOT_NOT_CONFIRMED": {
-        "ru": "§fВы отказались от очистки Вашего участка",
-        "ua": "§fВи відмовилися від очищення вашої ділянки",
-        "en": "§fYou have declined cleaning your site"
-    },
-    "BUILDBATTLE_CLEAR_PLOT_TITLE": {
-        "ru": "§cОчистить участок",
-        "ua": "§cОчистити ділянку",
-        "en": "§cClean the site"
-    },
-    "BUILDBATTLE_CLEAR_PLOT_WAITING": {
-        "ru": "§fПожалуйста, подождите, пока Ваш тиммейт ответит на запрос об очистке участка",
-        "ua": "§fБудь ласка, зачекайте, поки ваш тіммейто відповість на запит про очищення ділянки",
-        "en": "§fPlease, wait, until your teammate responds to a request to clean up the site"
-    },
-    "BUILDBATTLE_CLICK_TO_CLEAR": {
-        "ru": [
-            " ",
-            "§e► Нажмите, чтобы очистить участок"
-        ],
-        "ua": [
-            " ",
-            "§e► Натисніть, щоб очистити ділянку"
-        ],
-        "en": [
-            " ",
-            "§e► Click to clean the site"
-        ]
-    },
-    "BUILDBATTLE_CLOTHES_THEME_LORE": {
-        "ru": [
-            "§7Содержит модные, и не очень,",
-            "§7вещи всех разновидностей ⇩"
-        ],
-        "ua": [
-            "§7Містить модні, і не дуже,",
-            "§7речі всіх різновидів ⇩"
-        ],
-        "en": [
-            "§7Includes trendy, and not very much so,",
-            "§7things of all kinds ⇩"
-        ]
-    },
-    "BUILDBATTLE_CLOTHES_THEME_NAME": {
-        "ru": "Одежда",
-        "ua": "Одяг",
-        "en": "Cloths"
-    },
-    "BUILDBATTLE_COLOR_HEADS": {
-        "ru": "Цвета",
-        "ua": "Кольори",
-        "en": "Colors"
-    },
-    "BUILDBATTLE_DUO_TYPE": {
-        "ru": "§eBuildBattle Doubles",
-        "ua": "§eBuildBattle Doubles",
-        "en": "§eBuildBattle Doubles"
-    },
-    "BUILDBATTLE_EFFECT_ADDED": {
-        "ru": "§fВы добавили эффект §e%s §fна участок",
-        "ua": "§fВи додали ефект §e%s §fна ділянку",
-        "en": "§fYou added the effect §e%s §fon the site"
-    },
-    "BUILDBATTLE_ELECTRONIC_THEME_LORE": {
-        "ru": [
-            "§7Электирические и цифровые приборы",
-            "§7Строго 6+! ⇩"
-        ],
-        "ua": [
-            "§7Електричні і цифрові прилади",
-            "§7Строго 6+! ⇩"
-        ],
-        "en": [
-            "§7Electrical and digital devices",
-            "§7Strictly 6+! ⇩"
-        ]
-    },
-    "BUILDBATTLE_ELECTRONIC_THEME_NAME": {
-        "ru": "Техника",
-        "ua": "Техніка",
-        "en": "Technologies"
-    },
-    "BUILDBATTLE_FLOOR_LIMIT_REACHED": {
-        "ru": [
-            " ",
-            "§c► Достигнут лимит блоков (21)"
-        ],
-        "ua": [
-            " ",
-            "§c► Досягнуто ліміт блоків (21)"
-        ],
-        "en": [
-            " ",
-            "§c► Blocks limit reached (21)"
-        ]
-    },
-    "BUILDBATTLE_FLOOR_MENU_LORE": {
-        "ru": [
-            " ",
-            "§7Выбор материалов, которыми будет",
-            "§7заменен весь пол на Вашем участке",
-            " ",
-            "§e► Нажмите, чтобы изменить материалы"
-        ],
-        "ua": [
-            " ",
-            "§7Вибір матеріалів, якими буде",
-            "§7замінена вся підлога на вашій ділянці",
-            " ",
-            "§e► Натисніть, щоб змінити матеріали"
-        ],
-        "en": [
-            " ",
-            "§7Select materials which will",
-            "§7cove rthe floor on your site",
-            " ",
-            "§e► Click to change materials"
-        ]
-    },
-    "BUILDBATTLE_FLOOR_MENU_TITLE": {
-        "ru": "Изменение материалов пола",
-        "ua": "Зміна матеріалів підлоги",
-        "en": "Floor materials change"
-    },
-    "BUILDBATTLE_FOOD_HEADS": {
-        "ru": "Еда",
-        "ua": "Їжа",
-        "en": "Food"
-    },
-    "BUILDBATTLE_FOOD_THEME_LORE": {
-        "ru": [
-            "§7Любите поесть, или же вы кулинар?",
-            "§7Тогда вам лучше обойти эту тему стороной.. ⇩"
-        ],
-        "ua": [
-            "§7Любите поїсти, або ж ви кулінар?",
-            "§7Тоді вам краще обійти цю тему стороною.. ⇩"
-        ],
-        "en": [
-            "§7Do you like to eat, or are you a culinary specialist?",
-            "§7Then you better get around this topic... ⇩"
-        ]
-    },
-    "BUILDBATTLE_FOOD_THEME_NAME": {
-        "ru": "Еда",
-        "ua": "Їжа",
-        "en": "Еда"
-    },
-    "BUILDBATTLE_FURNITURE_THEME_LORE": {
-        "ru": [
-            "§7То, что есть почти у каждого в комнате:",
-            "§7кровать, диван и многое другое ⇩"
-        ],
-        "ua": [
-            "§7Те, що є майже у кожного в кімнаті:",
-            "§7ліжко, диван і багато іншого ⇩"
-        ],
-        "en": [
-            "§7What almost everyone has in the room:",
-            "§7a bed, a sofa and more ⇩"
-        ]
-    },
-    "BUILDBATTLE_FURNITURE_THEME_NAME": {
-        "ru": "Мебель",
-        "ua": "Меблі",
-        "en": "Furniture"
-    },
-    "BUILDBATTLE_GAMES_HEADS": {
-        "ru": "Игры",
-        "ua": "Ігри",
-        "en": "Games"
-    },
-    "BUILDBATTLE_GET_HEAD_LORE": {
-        "ru": [
-            " ",
-            "§e► Нажмите, чтобы получить голову"
-        ],
-        "ua": [
-            " ",
-            "§e► Натисніть, щоб отримати голову"
-        ],
-        "en": [
-            " ",
-            "§e► Click to receive a head"
-        ]
-    },
-    "BUILDBATTLE_HEADS_MENU_LORE": {
-        "ru": [
-            " ",
-            "§7Широкий выбор самых разных голов",
-            "§7для украшения вашего участка",
-            " ",
-            "§e► Нажмите, чтобы открыть меню голов"
-        ],
-        "ua": [
-            " ",
-            "§7Широкий вибір самих різних голів",
-            "§7для прикраси вашої ділянки",
-            " ",
-            "§e► Натисніть, щоб відкрити меню голів"
-        ],
-        "en": [
-            " ",
-            "§7Wide range of different heads",
-            "§7for decorating your site",
-            " ",
-            "§e► Click to open the head menu"
-        ]
-    },
-    "BUILDBATTLE_HEADS_MENU_TITLE": {
-        "ru": "Головы",
-        "ua": "Голови",
-        "en": "Heads"
-    },
-    "BUILDBATTLE_ITEMS_THEME_LORE": {
-        "ru": [
-            "§7То, что окружает нас в повседневности",
-            "§7Или что не окружает.."
-        ],
-        "ua": [
-            "§7Те, що оточує нас в повсякденності",
-            "§7Або те, що не оточує.."
-        ],
-        "en": [
-            "§7What surrounds us in everyday life",
-            "§7Or doesn't.."
-        ]
-    },
-    "BUILDBATTLE_ITEMS_THEME_NAME": {
-        "ru": "Предметы",
-        "ua": "Предмети",
-        "en": "Items"
-    },
-    "BUILDBATTLE_MAX_PLOT_EFFECTS": {
-        "ru": "§cВы превысили максимальное число эффектов на Вашем участке",
-        "ua": "§cВи перевищили максимальну кількість ефектів на Вашому ділянці",
-        "en": "§cYou have exceeded the maximum number of effects on your site"
-    },
-    "BUILDBATTLE_MENU_ITEM_LORE": {
-        "ru": [
-            "§7Нажмите, чтобы открыть меню",
-            "§7управления Вашим участком",
-            "§7Там Вы сможете изменить материалы",
-            "§7пола, время, погоду, добавить эффекты",
-            "§7а также найти различные головы"
-        ],
-        "ua": [
-            "§7Натисніть, щоб відкрити меню",
-            "§7управління вашою ділянкою",
-            "§7Там ви зможете змінити матеріали",
-            "§7підлоги, час, погоду, додати ефекти",
-            "§7а також знайти різні голови"
-        ],
-        "en": [
-            "§7Click to open the control menu",
-            "§7for your site",
-            "§7There you can change materials",
-            "§7of the floor, time, weather, add effects",
-            "§7and also find different heads"
-        ]
-    },
-    "BUILDBATTLE_MENU_TITLE": {
-        "ru": "Управление участком",
-        "ua": "Управління ділянкою",
-        "en": "Site control"
-    },
-    "BUILDBATTLE_MOB_HEADS": {
-        "ru": "Мобы",
-        "ua": "Моби",
-        "en": "Mons"
-    },
-    "BUILDBATTLE_NATURE_THEME_LORE": {
-        "ru": [
-            "§7То, что создано, разрушено природой,",
-            "§7а также её различные проявления ⇩"
-        ],
-        "ua": [
-            "§7Те, що створено, зруйновано природою,",
-            "§7а також її різні прояви ⇩"
-        ],
-        "en": [
-            "§7What is created and destroyed by nature,",
-            "§7as well as its various manifestations ⇩"
-        ]
-    },
-    "BUILDBATTLE_NATURE_THEME_NAME": {
-        "ru": "Природа",
-        "ua": "Природа",
-        "en": "Nature"
-    },
-    "BUILDBATTLE_OTHER_HEADS": {
-        "ru": "Прочее",
-        "ua": "Інше",
-        "en": "Other"
-    },
-    "BUILDBATTLE_PARTICLES_MENU_LORE": {
-        "ru": [
-            " ",
-            "§7Управление различными эффектами",
-            "§7на Вашем участке",
-            " ",
-            "§e► ЛКМ, чтобы открыть меню эффектов",
-            "§e► ПКМ, чтобы управлять активными эффектами"
-        ],
-        "ua": [
-            " ",
-            "§7Управління різними ефектами",
-            "§7на вашій ділянці",
-            " ",
-            "§e► ЛКМ, щоб відкрити меню ефектів",
-            "§e► ПКМ, щоб управляти активними ефектами"
-        ],
-        "en": [
-            " ",
-            "§7Various effect control",
-            "§7on your site",
-            " ",
-            "§e► LMC to open the effect menu",
-            "§e► RMC to control active effects"
-        ]
-    },
-    "BUILDBATTLE_PARTICLES_MENU_TITLE": {
-        "ru": "Эффекты",
-        "ua": "Ефекти",
-        "en": "Effects"
-    },
-    "BUILDBATTLE_PLOT_CLEARED": {
-        "ru": "§fВаш участок очищен!",
-        "ua": "§fВаша ділянка очищена!",
-        "en": "§fYour site is cleared!"
-    },
-    "BUILDBATTLE_REJOIN_TITLE": {
-        "ru": "§aВы повторно вошли в игру на арене %s",
-        "ua": "§aВи повторно увійшли в гру на арені %s",
-        "en": "§aYou have re-entered the arena game %s"
-    },
-    "BUILDBATTLE_REMOVE_FLOOR_BLOCK_LORE": {
-        "ru": [
-            " ",
-            "§e► ПКМ, чтобы удалить материал"
-        ],
-        "ua": [
-            " ",
-            "§e► ПКМ, щоб видалити матеріал"
-        ],
-        "en": [
-            " ",
-            "§e► RMC to delete material"
-        ]
-    },
-    "BUILDBATTLE_REMOVE_PARTICLES_LORE": {
-        "ru": [
-            "§e► Нажмите, чтобы удалить эффект"
-        ],
-        "ua": [
-            "§e► Натисніть, щоб видалити ефект"
-        ],
-        "en": [
-            "§e► Click to delete the effect"
-        ]
-    },
-    "BUILDBATTLE_SHOW_HEADS_LORE": {
-        "ru": [
-            " ",
-            "§e► Нажмите, чтобы посмотреть головы"
-        ],
-        "ua": [
-            " ",
-            "§e► Натисніть, щоб подивитися голови"
-        ],
-        "en": [
-            " ",
-            "§e► Click to view heads"
-        ]
-    },
-    "BUILDBATTLE_SOLO_CLEAR_PLOT_CONFIRMATION": {
-        "ru": "§fВы действительно хотите очистить участок? Отменить это действие будет невозможно. ",
-        "ua": "§fВи дійсно хочете очистити ділянку? Скасувати цю дію буде неможливо. ",
-        "en": "§fDo you really want to clear the site? It will be impossible to undo this action.. "
-    },
-    "BUILDBATTLE_SOLO_TYPE": {
-        "ru": "§eBuildBattle Solo",
-        "ua": "§eBuildBattle Solo",
-        "en": "§eBuildBattle Solo"
-    },
-    "BUILDBATTLE_START_TITLE": {
-        "ru": "§7Тема постройки - §a%s",
-        "ua": "§7Тема споруди - §a%s",
-        "en": "§7Construction theme - §a%s"
-    },
-    "BUILDBATTLE_TEAM_CLEAR_PLOT_CONFIRMATION": {
-        "ru": "%s §fхочет очистить участок. Согласны ли Вы сделать это? ",
-        "ua": "%s §fхоче очистити ділянку. Чи згодні ви зробити це? ",
-        "en": "%s §fwants to clear the site. Do you agree to do this? "
-    },
-    "BUILDBATTLE_THEME_NOT_FOUND": {
-        "ru": "§cПроизошла ошибка при попытке выбрать слово для строительства.",
-        "ua": "§cСталася помилка під час спроби вибрати слово для будівництва.",
-        "en": "§cAn error occurred while trying to select a word for construction."
-    },
-    "BUILDBATTLE_THEME_VOTING_TITLE": {
-        "ru": "Голосование за тему постройки",
-        "ua": "Голосування за тему споруди",
-        "en": "Voting for the construction theme"
-    },
-    "BUILDBATTLE_TIME_CHANGED": {
-        "ru": "§fВремя изменено",
-        "ua": "§fЧас змінено",
-        "en": "§fTime is changed"
-    },
-    "BUILDBATTLE_TIME_DAY": {
-        "ru": "День",
-        "ua": "День",
-        "en": "Daylight"
-    },
-    "BUILDBATTLE_TIME_MENU_LORE": {
-        "ru": [
-            " ",
-            "§7Выбор времени, которое будет",
-            "§7закреплено на Вашем участке",
-            " ",
-            "§e► Нажмите, чтобы выбрать"
-        ],
-        "ua": [
-            " ",
-            "§7Вибір часу, який буде",
-            "§7закріплено на вашій ділянці",
-            " ",
-            "§e► Натисніть, щоб вибрати"
-        ],
-        "en": [
-            " ",
-            "§7Choose time which will be",
-            "§7on your site",
-            " ",
-            "§e► Click to choose"
-        ]
-    },
-    "BUILDBATTLE_TIME_MENU_TITLE": {
-        "ru": "Изменение времени",
-        "ua": "Зміна часу",
-        "en": "Time change"
-    },
-    "BUILDBATTLE_TIME_NIGHT": {
-        "ru": "Ночь",
-        "ua": "Ніч",
-        "en": "Night"
-    },
-    "BUILDBATTLE_TIME_SELECTED_LORE": {
-        "ru": [
-            "§c► Время уже выбрано"
-        ],
-        "ua": [
-            "§c► Час вже обраний"
-        ],
-        "en": [
-            "§c► Time is already selected"
-        ]
-    },
-    "BUILDBATTLE_TIME_SELECTION_LORE": {
-        "ru": [
-            "§e► Нажмите, чтобы выбрать время"
-        ],
-        "ua": [
-            "§e► Натисніть, щоб обрати час"
-        ],
-        "en": [
-            "§e► Click to choose the time"
-        ]
-    },
-    "BUILDBATTLE_TIME_SUNRISE": {
-        "ru": "Восход",
-        "ua": "Схід",
-        "en": "Dawn"
-    },
-    "BUILDBATTLE_TIME_SUNSET": {
-        "ru": "Закат",
-        "ua": "Захід",
-        "en": "Dusk"
-    },
-    "BUILDBATTLE_TIME_WORLD_TIME": {
-        "ru": "Сбросить настройки времени",
-        "ua": "Скинути настройки часу",
-        "en": "Reset time settings"
-    },
-    "BUILDBATTLE_TOYS_THEME_LORE": {
-        "ru": [
-            "§7Игрушечные машинки, мишки и",
-            "§7другие детские мечты ⇩"
-        ],
-        "ua": [
-            "§7Іграшкові машинки, ведмедики і",
-            "§7інші дитячі мрії ⇩"
-        ],
-        "en": [
-            "§7Toy cars, teddy bears and",
-            "§7other childhood dreams ⇩"
-        ]
-    },
-    "BUILDBATTLE_TOYS_THEME_NAME": {
-        "ru": "Игрушки",
-        "ua": "Іграшки",
-        "en": "Toys"
-    },
-    "BUILDBATTLE_TRANSPORT_THEME_LORE": {
-        "ru": [
-            "§7Автомобили, мотоциклы, вертолёты, а также",
-            "§7прочие прелести современности и не только ⇩"
-        ],
-        "ua": [
-            "§7Автомобілі, мотоцикли, вертольоти, а також",
-            "§7інші принадності сучасності і не тільки ⇩"
-        ],
-        "en": [
-            "§7Cars, motorcycles, helicopters, and",
-            "§7other delights of our time and not only ⇩"
-        ]
-    },
-    "BUILDBATTLE_TRANSPORT_THEME_NAME": {
-        "ru": "Транспорт",
-        "ua": "Транспорт",
-        "en": "Transport"
-    },
-    "BUILDBATTLE_VOTING_END_BAR": {
-        "ru": "§eДо окончания голосования за этот участок осталось §c%sс",
-        "ua": "§eДо закінчення голосування за цю ділянку залишилося §c%sс",
-        "en": "§eUntil the end of voting for this site, there are §c%sс"
-    },
-    "BUILDBATTLE_VOTING_PLAYERS": {
-        "ru": "§7Участок %s",
-        "ua": "§7Ділянка %s",
-        "en": "§7Site %s"
-    },
-    "BUILDBATTLE_VOTING_STARTED": {
-        "ru": "§aГолосование началось",
-        "ua": "§aГолосування розпочалось",
-        "en": "§aVoting has started"
-    },
-    "BUILDBATTLE_WEATHER_CHANGED": {
-        "ru": "§fПогода изменена",
-        "ua": "§fПогода змінена",
-        "en": "§fWeather is changed"
-    },
-    "BUILDBATTLE_WEATHER_MENU_LORE": {
-        "ru": [
-            " ",
-            "§7Выбор погоды, которая будет",
-            "§7на Вашем участке",
-            " ",
-            "§e► Нажмите, чтобы выбрать"
-        ],
-        "ua": [
-            " ",
-            "§7Вибір погоди, яка буде",
-            "§7на вашій ділянці",
-            " ",
-            "§e► Натисніть, щоб вибрати"
-        ],
-        "en": [
-            " ",
-            "§7Select weather which will be",
-            "§7on your site",
-            " ",
-            "§e► Click to choose"
-        ]
-    },
-    "BUILDBATTLE_WEATHER_MENU_TITLE": {
-        "ru": "Смена погоды",
-        "ua": "Зміна погоди",
-        "en": "Weather change"
-    },
-    "BUILDBATTLE_WEATHER_RAINY": {
-        "ru": "Дождь",
-        "ua": "Дощ",
-        "en": "Rain"
-    },
-    "BUILDBATTLE_WEATHER_SELECTED_LORE": {
-        "ru": [
-            "§c► Погода уже выбрана"
-        ],
-        "ua": [
-            "§c► Погода вже обрана"
-        ],
-        "en": [
-            "§c► Weather is chosen"
-        ]
-    },
-    "BUILDBATTLE_WEATHER_SELECTION_LORE": {
-        "ru": [
-            "§e► Нажмите, чтобы выбрать погоду"
-        ],
-        "ua": [
-            "§e► Натисніть, щоб вибрати погоду"
-        ],
-        "en": [
-            "§e► Click to choose weather"
-        ]
-    },
-    "BUILDBATTLE_WEATHER_SNOWY": {
-        "ru": "Снег",
-        "ua": "Сніг",
-        "en": "Snow"
-    },
-    "BUILDBATTLE_WEATHER_SUNNY": {
-        "ru": "Солнечно",
-        "ua": "Сонячно",
-        "en": "Sunny"
-    },
-    "BUILDBATTLE_WORLDS_THEME_LORE": {
-        "ru": [
-            "§7Предметы, постройки и существа",
-            "§7из других миров: ада, рая и края ⇩"
-        ],
-        "ua": [
-            "§7Предмети, споруди та істоти",
-            "§7з інших світів: пекла, раю і краю ⇩"
-        ],
-        "en": [
-            "§7Items, buildings and creatures",
-            "§7from other worlds: hell, heaven and lands ⇩"
-        ]
-    },
-    "BUILDBATTLE_WORLDS_THEME_NAME": {
-        "ru": "Иные миры",
-        "ua": "Інші світи",
-        "en": "Other worlds"
-    },
-    "CATEGORY_BB_EFFECT_LORE": {
-        "ru": [
-            " ",
-            "§7Хотите, чтобы Ваша постройка",
-            "§7выглядела эффектно? Приобретайте",
-            "§7эффекты, которые Вы сможете использовать",
-            "§7потом в игре!"
-        ],
-        "ua": [
-            " ",
-            "§7Хочете, щоб ваша споруда",
-            "§7виглядала ефектно? Купуйте",
-            "§7ефекти, які ви зможете використовувати",
-            "§7потім в грі!"
-        ],
-        "en": [
-            " ",
-            "§7Do you want your construction",
-            "§7to look spectacular? Purchase",
-            "§7effect which you'll be able to use",
-            "§7later on in the game!"
-        ]
-    },
-    "CATEGORY_BB_EFFECT_NAME": {
-        "ru": "Эффекты",
-        "ua": "Ефекти",
-        "en": "Effects"
-    },
-    "CATEGORY_BB_HEAD_LORE": {
-        "ru": [
-            " ",
-            "§7Широкий выбор различных,",
-            "§7голов, которые можно будет",
-            "§7использовать при строительстве",
-            "§7в игре"
-        ],
-        "ua": [
-            " ",
-            "§7Широкий вибір різних",
-            "§7голів, які можна буде",
-            "§7використовувати при будівництві",
-            "§7в грі"
-        ],
-        "en": [
-            " ",
-            "§7A wide range of different,",
-            "§7heads which can be",
-            "§7used while constructing",
-            "§7in the game"
-        ]
-    },
-    "CATEGORY_BB_HEAD_NAME": {
-        "ru": "Головы",
-        "ua": "Голови",
-        "en": "Heads"
-    },
-    "GOOD_VOTING_ITEM": {
-        "ru": "§aХорошо",
-        "ua": "§aДобре",
-        "en": "§aGood"
-    },
-    "GOOD_VOTING_ITEM_LORE": {
-        "ru": [
-            "§7Нажмите, чтобы поставить оценку",
-            "§aхорошо"
-        ],
-        "ua": [
-            "§7Натисніть, щоб поставити оцінку",
-            "§aдобре"
-        ],
-        "en": [
-            "§7Click to rate as",
-            "§agood"
-        ]
-    },
-    "NORMAL_VOTING_ITEM": {
-        "ru": "§eНормально",
-        "ua": "§eНормально",
-        "en": "§eOkay"
-    },
-    "NORMAL_VOTING_ITEM_LORE": {
-        "ru": [
-            "§7Нажмите, чтобы поставить оценку",
-            "§eнормально"
-        ],
-        "ua": [
-            "§7Натисніть, щоб поставити оцінку",
-            "§eнормально"
-        ],
-        "en": [
-            "§7Click to rate as",
-            "§eokay"
-        ]
-    },
-    "VERY_BAD_VOTING_ITEM": {
-        "ru": "§4Отвратительно",
-        "ua": "§4Огидно",
-        "en": "§4Awful"
-    },
-    "VERY_BAD_VOTING_ITEM_LORE": {
-        "ru": [
-            "§7Нажмите, чтобы поставить оценку",
-            "§4отвратительно"
-        ],
-        "ua": [
-            "§7Натисніть, щоб поставити оцінку",
-            "§4огидно"
-        ],
-        "en": [
-            "§7Click to rate as",
-            "§4awful"
-        ]
-    },
-    "VERY_GOOD_VOTING_ITEM": {
-        "ru": "§2Отлично",
-        "ua": "§2Відмінно",
-        "en": "§2Excellent"
-    },
-    "VERY_GOOD_VOTING_ITEM_LORE": {
-        "ru": [
-            "§7Нажмите, чтобы поставить оценку",
-            "§2отлично"
-        ],
-        "ua": [
-            "§7Натисніть, щоб поставити оцінку",
-            "§2відмінно"
-        ],
-        "en": [
-            "§7Click to rate as",
-            "§2excellent"
-        ]
-    }
+  "BAD_VOTING_ITEM": {
+    "ru": "§cПлохо",
+    "ua": "§cПогано",
+    "en": "§cPoor"
+  },
+  "BAD_VOTING_ITEM_LORE": {
+    "ru": [
+      "§7Нажмите, чтобы поставить оценку",
+      "§cплохо"
+    ],
+    "ua": [
+      "§7Натисніть, щоб поставити оцінку",
+      "§cпогано"
+    ],
+    "en": [
+      "§7Click to rate as",
+      "§cpoor"
+    ]
+  },
+  "BB_EFFECT": {
+    "ru": "эффект",
+    "ua": "Ефект",
+    "en": "Effect"
+  },
+  "BB_EFFECT_ANGRY_VILLAGER": {
+    "ru": "Злой житель",
+    "ua": "Злий житель",
+    "en": "Angry villager"
+  },
+  "BB_EFFECT_ANGRY_VILLAGER_LORE": {},
+  "BB_EFFECT_CLOUD": {
+    "ru": "Облака",
+    "ua": "Хмари",
+    "en": "Clouds"
+  },
+  "BB_EFFECT_CLOUD_LORE": {},
+  "BB_EFFECT_CRIT_DEFAULT": {
+    "ru": "Вспышки",
+    "ua": "Спалахи",
+    "en": "Flashes"
+  },
+  "BB_EFFECT_CRIT_DEFAULT_LORE": {},
+  "BB_EFFECT_CRIT_MAGIC": {
+    "ru": "Криты",
+    "ua": "Крити",
+    "en": "Crits"
+  },
+  "BB_EFFECT_CRIT_MAGIC_LORE": {},
+  "BB_EFFECT_DAMAGE_INDICATOR": {
+    "ru": "Темные сердечки",
+    "ua": "Темні сердечка",
+    "en": "Dark hearts"
+  },
+  "BB_EFFECT_DAMAGE_INDICATOR_LORE": {},
+  "BB_EFFECT_EXPLOSION": {
+    "ru": "Взрыв",
+    "ua": "Вибух",
+    "en": "Explosion"
+  },
+  "BB_EFFECT_EXPLOSION_LORE": {},
+  "BB_EFFECT_HAPPY_VILLAGER": {
+    "ru": "Счастливый житель",
+    "ua": "Щасливий житель",
+    "en": "Happy villager"
+  },
+  "BB_EFFECT_HAPPY_VILLAGER_LORE": {},
+  "BB_EFFECT_HEART": {
+    "ru": "Сердечки",
+    "ua": "Сердечка",
+    "en": "Hearts"
+  },
+  "BB_EFFECT_HEART_LORE": {},
+  "BB_EFFECT_LAVA": {
+    "ru": "Лава",
+    "ua": "Лава",
+    "en": "Lava"
+  },
+  "BB_EFFECT_LAVA_LORE": {},
+  "BB_EFFECT_MAGIC": {
+    "ru": "Заклинание",
+    "ua": "Зачарування",
+    "en": "Spell"
+  },
+  "BB_EFFECT_MAGIC_LORE": {},
+  "BB_EFFECT_NOTE": {
+    "ru": "Ноты",
+    "ua": "Ноти",
+    "en": "Notes"
+  },
+  "BB_EFFECT_NOTE_LORE": {},
+  "BB_EFFECT_PURCHASE_MESSAGE": {
+    "ru": "Вы приобрели эффект §a%s §fза §a%s §f%s. Теперь его можно будет добавлять на свой участок в игре.",
+    "ua": "Ви придбали ефект §a%s §fза §a%s §f%s. Тепер його можна буде додавати на свою ділянку в грі.",
+    "en": "You have purchased effect §a%s §ffor §a%s §f%s. Now you can add to your site in the game."
+  },
+  "BB_EFFECT_REDSTONE": {
+    "ru": "Редстоун",
+    "ua": "Редстоун",
+    "en": "Redstone"
+  },
+  "BB_EFFECT_REDSTONE_LORE": {},
+  "BB_EFFECT_SELECTION_MESSAGE": {
+    "ru": "Вы получили предмет для установки эффекта §a%s §fна участок. Нажмите ПКМ на нужный блок, чтобы установить его",
+    "ua": "Ви отримали предмет для установки ефекту §a%s §fна ділянку. Натисніть ПКМ на необхідний блок, щоб установити його",
+    "en": "You have received an item to set an effect §a%s §fon the site. RMC on the desired block to install it"
+  },
+  "BB_EFFECT_SNOW": {
+    "ru": "Снег",
+    "ua": "Сніг",
+    "en": "Snow"
+  },
+  "BB_EFFECT_SNOW_LORE": {},
+  "BB_EFFECT_SPELL_MOB": {
+    "ru": "Искры",
+    "ua": "Іскри",
+    "en": "Sparks"
+  },
+  "BB_EFFECT_SPELL_MOB_LORE": {},
+  "BB_EFFECT_SPELL_WITCH": {
+    "ru": "Магия",
+    "ua": "Магія",
+    "en": "Magic"
+  },
+  "BB_EFFECT_SPELL_WITCH_LORE": {},
+  "BB_EFFECT_WATER": {
+    "ru": "Вода",
+    "ua": "Вода",
+    "en": "Water"
+  },
+  "BB_EFFECT_WATER_BUBBLE": {
+    "ru": "Пузыри",
+    "ua": "Бульбашки",
+    "en": "Bubbles"
+  },
+  "BB_EFFECT_WATER_BUBBLE_LORE": {},
+  "BB_EFFECT_WATER_LORE": {},
+  "BB_HEAD": {
+    "ru": "голова",
+    "ua": "Голова",
+    "en": "Head"
+  },
+  "BB_HEAD_ANDESITE": {
+    "ru": "Andesite",
+    "ua": "Андезит",
+    "en": "Andesite"
+  },
+  "BB_HEAD_ANDESITE_LORE": {},
+  "BB_HEAD_ANGEL": {
+    "ru": "Angel",
+    "ua": "Янгол",
+    "en": "Angel"
+  },
+  "BB_HEAD_ANGEL_LORE": {},
+  "BB_HEAD_ANGRY_WOLF": {
+    "ru": "Angry Wolf",
+    "ua": "Злий вовк",
+    "en": "Angry Wolf"
+  },
+  "BB_HEAD_ANGRY_WOLF_LORE": {},
+  "BB_HEAD_APPLE": {
+    "ru": "Apple",
+    "ua": "Яблуко",
+    "en": "Apple"
+  },
+  "BB_HEAD_APPLE_LORE": {},
+  "BB_HEAD_BABY_BLUE": {
+    "ru": "Baby Blue",
+    "ua": "Блакитний",
+    "en": "Baby Blue"
+  },
+  "BB_HEAD_BABY_BLUE_LORE": {},
+  "BB_HEAD_BACON": {
+    "ru": "Bacon",
+    "ua": "Бекон",
+    "en": "Bacon"
+  },
+  "BB_HEAD_BACON_LORE": {},
+  "BB_HEAD_BASKETBALL": {
+    "ru": "Basketball",
+    "ua": "Баскетбол",
+    "en": "Basketball"
+  },
+  "BB_HEAD_BASKETBALL_LORE": {},
+  "BB_HEAD_BATMAN": {
+    "ru": "Batman",
+    "ua": "Бетмен",
+    "en": "Batman"
+  },
+  "BB_HEAD_BATMAN_LORE": {},
+  "BB_HEAD_BEACHBALL": {
+    "ru": "Beachball",
+    "ua": "Пляжний м'яч",
+    "en": "Beachball"
+  },
+  "BB_HEAD_BEACHBALL_LORE": {},
+  "BB_HEAD_BEACON": {
+    "ru": "Beacon",
+    "ua": "Маяк",
+    "en": "Beacon"
+  },
+  "BB_HEAD_BEACON_LORE": {},
+  "BB_HEAD_BEDROCK": {
+    "ru": "Bedrock",
+    "ua": "Основа",
+    "en": "Bedrock"
+  },
+  "BB_HEAD_BEDROCK_LORE": {},
+  "BB_HEAD_BEE": {
+    "ru": "Bee",
+    "ua": "Бджола",
+    "en": "Bee"
+  },
+  "BB_HEAD_BEE_LORE": {},
+  "BB_HEAD_BIG_GRIN": {
+    "ru": "Big Grin",
+    "ua": "Велика усмішка",
+    "en": "Big Grin"
+  },
+  "BB_HEAD_BIG_GRIN_LORE": {},
+  "BB_HEAD_BIRD": {
+    "ru": "Bird",
+    "ua": "Птах",
+    "en": "Bird"
+  },
+  "BB_HEAD_BIRD_LORE": {},
+  "BB_HEAD_BLACK": {
+    "ru": "Black",
+    "ua": "Чорний",
+    "en": "Black"
+  },
+  "BB_HEAD_BLACK_DICE": {
+    "ru": "Black Dice",
+    "ua": "Чорні кубик",
+    "en": "Black Dice"
+  },
+  "BB_HEAD_BLACK_DICE_LORE": {},
+  "BB_HEAD_BLACK_LORE": {},
+  "BB_HEAD_BLACK_WOOL": {
+    "ru": "Black Wool",
+    "ua": "Чорна вовна",
+    "en": "Black Wool"
+  },
+  "BB_HEAD_BLACK_WOOL_LORE": {},
+  "BB_HEAD_BLAZE": {
+    "ru": "Blaze",
+    "ua": "Полум'я",
+    "en": "Blaze"
+  },
+  "BB_HEAD_BLAZE_LORE": {},
+  "BB_HEAD_BLUE": {
+    "ru": "Blue",
+    "ua": "Блакитний",
+    "en": "Blue"
+  },
+  "BB_HEAD_BLUE_LORE": {},
+  "BB_HEAD_BLUE_WOOL": {
+    "ru": "Blue Wool",
+    "ua": "Блакитна вовна",
+    "en": "Blue Wool"
+  },
+  "BB_HEAD_BLUE_WOOL_LORE": {},
+  "BB_HEAD_BOWLINGBALL": {
+    "ru": "Bowlingball",
+    "ua": "М'яч для боулінгу",
+    "en": "Bowlingball"
+  },
+  "BB_HEAD_BOWLINGBALL_LORE": {},
+  "BB_HEAD_BREAD": {
+    "ru": "Bread",
+    "ua": "Хліб",
+    "en": "Bread"
+  },
+  "BB_HEAD_BREAD_LORE": {},
+  "BB_HEAD_BRICK": {
+    "ru": "Brick",
+    "ua": "Цегла",
+    "en": "Brick"
+  },
+  "BB_HEAD_BRICK_LORE": {},
+  "BB_HEAD_BRIGHT_GREEN": {
+    "ru": "Bright Green",
+    "ua": "Яскраво-зелений",
+    "en": "Bright Green"
+  },
+  "BB_HEAD_BRIGHT_GREEN_LORE": {},
+  "BB_HEAD_BROWN": {
+    "ru": "Brown",
+    "ua": "Коричневий",
+    "en": "Brown"
+  },
+  "BB_HEAD_BROWN_LORE": {},
+  "BB_HEAD_BROWN_MUSHROOM": {
+    "ru": "Brown Mushroom",
+    "ua": "Коричневий гриб",
+    "en": "Brown Mushroom"
+  },
+  "BB_HEAD_BROWN_MUSHROOM_LORE": {},
+  "BB_HEAD_BROWN_WOOL": {
+    "ru": "Brown Wool",
+    "ua": "Коричнева вовна",
+    "en": "Brown Wool"
+  },
+  "BB_HEAD_BROWN_WOOL_LORE": {},
+  "BB_HEAD_BUNDLE_OF_BURNT_TORCHES": {
+    "ru": "Bundle of Burnt Torches",
+    "ua": "Пачка спалених смолоскипів",
+    "en": "Bundle of Burnt Torches"
+  },
+  "BB_HEAD_BUNDLE_OF_BURNT_TORCHES_LORE": {},
+  "BB_HEAD_CACTUS": {
+    "ru": "Cactus",
+    "ua": "Кактус",
+    "en": "Cactus"
+  },
+  "BB_HEAD_CACTUS_FLOWER": {
+    "ru": "Cactus Flower",
+    "ua": "Квітка кактуса",
+    "en": "Cactus Flower"
+  },
+  "BB_HEAD_CACTUS_FLOWER_LORE": {},
+  "BB_HEAD_CACTUS_LORE": {},
+  "BB_HEAD_CAKE": {
+    "ru": "Cake",
+    "ua": "Торт",
+    "en": "Cake"
+  },
+  "BB_HEAD_CAKE_LORE": {},
+  "BB_HEAD_CANDY_CANE": {
+    "ru": "Candy Cane",
+    "ua": "Карамельна паличка",
+    "en": "Candy Cane"
+  },
+  "BB_HEAD_CANDY_CANE_LORE": {},
+  "BB_HEAD_CANNONBALL": {
+    "ru": "Cannonball",
+    "ua": "Гарматне ядро",
+    "en": "Cannonball"
+  },
+  "BB_HEAD_CANNONBALL_LORE": {},
+  "BB_HEAD_CARROT": {
+    "ru": "Carrot",
+    "ua": "Морква",
+    "en": "Carrot"
+  },
+  "BB_HEAD_CARROT_LORE": {},
+  "BB_HEAD_CARVED_PUMPKIN": {
+    "ru": "Carved Pumpkin",
+    "ua": "Різьблений гарбуз",
+    "en": "Carved Pumpkin"
+  },
+  "BB_HEAD_CARVED_PUMPKIN_LORE": {},
+  "BB_HEAD_CAT": {
+    "ru": "Cat",
+    "ua": "Кіт",
+    "en": "Cat"
+  },
+  "BB_HEAD_CAT_LORE": {},
+  "BB_HEAD_CAVE_SPIDER": {
+    "ru": "Cave Spider",
+    "ua": "Печерний павук",
+    "en": "Cave Spider"
+  },
+  "BB_HEAD_CAVE_SPIDER_LORE": {},
+  "BB_HEAD_CHECKERBOARD": {
+    "ru": "Checkerboard",
+    "ua": "Шашкова дошка",
+    "en": "Checkerboard"
+  },
+  "BB_HEAD_CHECKERBOARD_LORE": {},
+  "BB_HEAD_CHEESE": {
+    "ru": "Cheese",
+    "ua": "Сир",
+    "en": "Cheese"
+  },
+  "BB_HEAD_CHEESE_LORE": {},
+  "BB_HEAD_CHERRY_PIE": {
+    "ru": "Cherry Pie",
+    "ua": "Вишневий пиріг",
+    "en": "Cherry Pie"
+  },
+  "BB_HEAD_CHERRY_PIE_LORE": {},
+  "BB_HEAD_CHESS_BOARD": {
+    "ru": "Chess Board",
+    "ua": "Шахова дошка",
+    "en": "Chess Board"
+  },
+  "BB_HEAD_CHESS_BOARD_LORE": {},
+  "BB_HEAD_CHEST_MINECART": {
+    "ru": "Chest Minecart",
+    "ua": "Скриня",
+    "en": "Chest Minecart"
+  },
+  "BB_HEAD_CHEST_MINECART_LORE": {},
+  "BB_HEAD_CHICKEN": {
+    "ru": "Chicken",
+    "ua": "Курка",
+    "en": "Chicken"
+  },
+  "BB_HEAD_CHICKEN_LORE": {},
+  "BB_HEAD_CHIMNEY": {
+    "ru": "Chimney",
+    "ua": "Димохід",
+    "en": "Chimney"
+  },
+  "BB_HEAD_CHIMNEY_LORE": {},
+  "BB_HEAD_CHINESE_DRAGON": {
+    "ru": "Chinese Dragon",
+    "ua": "Китайський дракон",
+    "en": "Chinese Dragon"
+  },
+  "BB_HEAD_CHINESE_DRAGON_LORE": {},
+  "BB_HEAD_CHISELED_QUARTZ_BLOCK": {
+    "ru": "Chiseled Quartz Block",
+    "ua": "Витончений кварцовий блок",
+    "en": "Chiseled Quartz Block"
+  },
+  "BB_HEAD_CHISELED_QUARTZ_BLOCK_LORE": {},
+  "BB_HEAD_CHOCOLATEBAR": {
+    "ru": "Chocolatebar",
+    "ua": "Плитка шоколаду",
+    "en": "Chocolatebar"
+  },
+  "BB_HEAD_CHOCOLATEBAR_LORE": {},
+  "BB_HEAD_CHOCOLATE_CAKE": {
+    "ru": "Chocolate Cake",
+    "ua": "Шоколадний торт",
+    "en": "Chocolate Cake"
+  },
+  "BB_HEAD_CHOCOLATE_CAKE_LORE": {},
+  "BB_HEAD_CHOCOLATE_FROSTED_DONUT": {
+    "ru": "Chocolate Frosted Donut",
+    "ua": "Пончик з матовим шоколадом",
+    "en": "Chocolate Frosted Donut"
+  },
+  "BB_HEAD_CHOCOLATE_FROSTED_DONUT_LORE": {},
+  "BB_HEAD_CHOCOLATE_MUFFIN": {
+    "ru": "Chocolate Muffin",
+    "ua": "Шоколадний кекс",
+    "en": "Chocolate Muffin"
+  },
+  "BB_HEAD_CHOCOLATE_MUFFIN_LORE": {},
+  "BB_HEAD_CLAY": {
+    "ru": "Clay",
+    "ua": "Глина",
+    "en": "Clay"
+  },
+  "BB_HEAD_CLAY_LORE": {},
+  "BB_HEAD_CLOWNFISH": {
+    "ru": "Clownfish",
+    "ua": "Риба-клоун",
+    "en": "Clownfish"
+  },
+  "BB_HEAD_CLOWNFISH_LORE": {},
+  "BB_HEAD_COAL_BLOCK": {
+    "ru": "Coal Block",
+    "ua": "Вугільний блок",
+    "en": "Coal Block"
+  },
+  "BB_HEAD_COAL_BLOCK_LORE": {},
+  "BB_HEAD_COAL_ORE": {
+    "ru": "Coal Ore",
+    "ua": "Вугільна руда",
+    "en": "Coal Ore"
+  },
+  "BB_HEAD_COAL_ORE_LORE": {},
+  "BB_HEAD_COBBLESTONE": {
+    "ru": "Cobblestone",
+    "ua": "Бруківка",
+    "en": "Cobblestone"
+  },
+  "BB_HEAD_COBBLESTONE_LORE": {},
+  "BB_HEAD_COCA_COLA_CAN": {
+    "ru": "Coca Cola Can",
+    "ua": "Баночка Кока-Коли",
+    "en": "Coca Cola Can"
+  },
+  "BB_HEAD_COCA_COLA_CAN_LORE": {},
+  "BB_HEAD_COCOA_BEAN": {
+    "ru": "Cocoa Bean",
+    "ua": "Какао-боби",
+    "en": "Cocoa Bean"
+  },
+  "BB_HEAD_COCOA_BEAN_LORE": {},
+  "BB_HEAD_COCOA_POD": {
+    "ru": "Cocoa Pod",
+    "ua": "Какао-стручок",
+    "en": "Cocoa Pod"
+  },
+  "BB_HEAD_COCOA_POD_LORE": {},
+  "BB_HEAD_COCONUT": {
+    "ru": "Coconut",
+    "ua": "Кокос",
+    "en": "Coconut"
+  },
+  "BB_HEAD_COCONUT_LORE": {},
+  "BB_HEAD_COMMAND_BLOCK": {
+    "ru": "Command Block",
+    "ua": "Командний блок",
+    "en": "Command Block"
+  },
+  "BB_HEAD_COMMAND_BLOCK_LORE": {},
+  "BB_HEAD_COMMAND_BLOCK_MINECART": {
+    "ru": "Command Block Minecart",
+    "ua": "Командний блок",
+    "en": "Command Block Minecart"
+  },
+  "BB_HEAD_COMMAND_BLOCK_MINECART_LORE": {},
+  "BB_HEAD_COMPANION_CUBE": {
+    "ru": "Companion Cube",
+    "ua": "Компаньйон куб",
+    "en": "Companion Cube"
+  },
+  "BB_HEAD_COMPANION_CUBE_LORE": {},
+  "BB_HEAD_COOKIE": {
+    "ru": "Cookie",
+    "ua": "Печиво",
+    "en": "Cookie"
+  },
+  "BB_HEAD_COOKIE_LORE": {},
+  "BB_HEAD_COOL": {
+    "ru": "Cool",
+    "ua": "Прохолода",
+    "en": "Cool"
+  },
+  "BB_HEAD_COOL_LORE": {},
+  "BB_HEAD_COW": {
+    "ru": "Cow",
+    "ua": "Корова",
+    "en": "Cow"
+  },
+  "BB_HEAD_COW_LORE": {},
+  "BB_HEAD_CRACKED_STONE_BRICK": {
+    "ru": "Cracked Stone Brick",
+    "ua": "Тріснута кам'яна цегла",
+    "en": "Cracked Stone Brick"
+  },
+  "BB_HEAD_CRACKED_STONE_BRICK_LORE": {},
+  "BB_HEAD_CUP_OF_MILK": {
+    "ru": "Cup of Milk",
+    "ua": "Чашка молока",
+    "en": "Cup of Milk"
+  },
+  "BB_HEAD_CUP_OF_MILK_LORE": {},
+  "BB_HEAD_CUP_OF_TEA": {
+    "ru": "Cup of Tea",
+    "ua": "Чашка чаю",
+    "en": "Cup of Tea"
+  },
+  "BB_HEAD_CUP_OF_TEA_LORE": {},
+  "BB_HEAD_CYAN_WOOL": {
+    "ru": "Cyan Wool",
+    "ua": "Синя вовна",
+    "en": "Cyan Wool"
+  },
+  "BB_HEAD_CYAN_WOOL_LORE": {},
+  "BB_HEAD_DARK_BLUE": {
+    "ru": "Dark Blue",
+    "ua": "Темно-синій",
+    "en": "Dark Blue"
+  },
+  "BB_HEAD_DARK_BLUE_LORE": {},
+  "BB_HEAD_DARK_GREEN": {
+    "ru": "Dark Green",
+    "ua": "Темно-зелений",
+    "en": "Dark Green"
+  },
+  "BB_HEAD_DARK_GREEN_LORE": {},
+  "BB_HEAD_DARK_PRISMARINE": {
+    "ru": "Dark Prismarine",
+    "ua": "Темний Присмарин",
+    "en": "Dark Prismarine"
+  },
+  "BB_HEAD_DARK_PRISMARINE_LORE": {},
+  "BB_HEAD_DARK_RED": {
+    "ru": "Dark Red",
+    "ua": "Темно-червоний",
+    "en": "Dark Red"
+  },
+  "BB_HEAD_DARK_RED_LORE": {},
+  "BB_HEAD_DARK_YELLOW": {
+    "ru": "Dark Yellow",
+    "ua": "Темно-жовтий",
+    "en": "Dark Yellow"
+  },
+  "BB_HEAD_DARK_YELLOW_LORE": {},
+  "BB_HEAD_DEAD": {
+    "ru": "Dead",
+    "ua": "Мертвий",
+    "en": "Dead"
+  },
+  "BB_HEAD_DEAD_LORE": {},
+  "BB_HEAD_DERP": {
+    "ru": "Derp",
+    "ua": "Дерп",
+    "en": "Derp"
+  },
+  "BB_HEAD_DERP_LORE": {},
+  "BB_HEAD_DIAMOND_BLOCK": {
+    "ru": "Diamond Block",
+    "ua": "Алмазний блок",
+    "en": "Diamond Block"
+  },
+  "BB_HEAD_DIAMOND_BLOCK_LORE": {},
+  "BB_HEAD_DIAMOND_ORE": {
+    "ru": "Diamond Ore",
+    "ua": "Алмазна руда",
+    "en": "Diamond Ore"
+  },
+  "BB_HEAD_DIAMOND_ORE_LORE": {},
+  "BB_HEAD_DIAMOND_STEVE_HEAD": {
+    "ru": "Diamond Steve Head",
+    "ua": "Алмазна голова Стіва",
+    "en": "Diamond Steve Head"
+  },
+  "BB_HEAD_DIAMOND_STEVE_HEAD_LORE": {},
+  "BB_HEAD_DIORITE": {
+    "ru": "Diorite",
+    "ua": "Діорит",
+    "en": "Diorite"
+  },
+  "BB_HEAD_DIORITE_LORE": {},
+  "BB_HEAD_DIRT": {
+    "ru": "Dirt",
+    "ua": "Бруд",
+    "en": "Dirt"
+  },
+  "BB_HEAD_DIRT_LORE": {},
+  "BB_HEAD_DISPENSER": {
+    "ru": "Dispenser",
+    "ua": "Диспенсер",
+    "en": "Dispenser"
+  },
+  "BB_HEAD_DISPENSER_LORE": {},
+  "BB_HEAD_DRAGON_BALL_#1": {
+    "ru": "Dragon Ball #1",
+    "ua": "М'яч дракона #1",
+    "en": "Dragon Ball #1"
+  },
+  "BB_HEAD_DRAGON_BALL_#1_LORE": {},
+  "BB_HEAD_DROPPER": {
+    "ru": "Dropper",
+    "ua": "Крапельниця",
+    "en": "Dropper"
+  },
+  "BB_HEAD_DROPPER_LORE": {},
+  "BB_HEAD_DRY_FARMLAND": {
+    "ru": "Dry Farmland",
+    "ua": "Сухі сільськогосподарські угіддя",
+    "en": "Dry Farmland"
+  },
+  "BB_HEAD_DRY_FARMLAND_LORE": {},
+  "BB_HEAD_EMBARRASED": {
+    "ru": "Embarrased",
+    "ua": "Збентежений",
+    "en": "Embarrased"
+  },
+  "BB_HEAD_EMBARRASED_LORE": {},
+  "BB_HEAD_EMERALD_BLOCK": {
+    "ru": "Emerald Block",
+    "ua": "Смарагдовий блок",
+    "en": "Emerald Block"
+  },
+  "BB_HEAD_EMERALD_BLOCK_LORE": {},
+  "BB_HEAD_EMERALD_ORE": {
+    "ru": "Emerald Ore",
+    "ua": "Смарагдова руда",
+    "en": "Emerald Ore"
+  },
+  "BB_HEAD_EMERALD_ORE_LORE": {},
+  "BB_HEAD_EMPTY_BUCKET": {
+    "ru": "Empty Bucket",
+    "ua": "Порожнє відро",
+    "en": "Empty Bucket"
+  },
+  "BB_HEAD_EMPTY_BUCKET_LORE": {},
+  "BB_HEAD_ENCHANTMENT_TABLE": {
+    "ru": "Enchantment Table",
+    "ua": "Зачарований стіл",
+    "en": "Enchantment Table"
+  },
+  "BB_HEAD_ENCHANTMENT_TABLE_LORE": {},
+  "BB_HEAD_ENDERDRAGON": {
+    "ru": "Enderdragon",
+    "ua": "Ендердракон",
+    "en": "Enderdragon"
+  },
+  "BB_HEAD_ENDERDRAGON_LORE": {},
+  "BB_HEAD_ENDEREYE": {
+    "ru": "Endereye",
+    "ua": "Око Ендера",
+    "en": "Endereye"
+  },
+  "BB_HEAD_ENDEREYE_LORE": {},
+  "BB_HEAD_ENDERMAN": {
+    "ru": "Enderman",
+    "ua": "Ендермен",
+    "en": "Enderman"
+  },
+  "BB_HEAD_ENDERMAN_LORE": {},
+  "BB_HEAD_ENDERPEARL": {
+    "ru": "Enderpearl",
+    "ua": "Перлина Ендера",
+    "en": "Enderpearl"
+  },
+  "BB_HEAD_ENDERPEARL_LORE": {},
+  "BB_HEAD_ENDER_PORTAL": {
+    "ru": "Ender Portal",
+    "ua": "Портал Ендера",
+    "en": "Ender Portal"
+  },
+  "BB_HEAD_ENDER_PORTAL_LORE": {},
+  "BB_HEAD_END_STONE": {
+    "ru": "End Stone",
+    "ua": "Кінцевий камінь",
+    "en": "End Stone"
+  },
+  "BB_HEAD_END_STONE_LORE": {},
+  "BB_HEAD_EYE": {
+    "ru": "Eye",
+    "ua": "Око",
+    "en": "Eye"
+  },
+  "BB_HEAD_EYE_LORE": {},
+  "BB_HEAD_FACEBOOK": {
+    "ru": "Facebook",
+    "ua": "Facebook",
+    "en": "Facebook"
+  },
+  "BB_HEAD_FACEBOOK_LORE": {},
+  "BB_HEAD_FERRET": {
+    "ru": "Ferret",
+    "ua": "Тхір",
+    "en": "Ferret"
+  },
+  "BB_HEAD_FERRET_LORE": {},
+  "BB_HEAD_FIRECHARGE": {
+    "ru": "Firecharge",
+    "ua": "Пожежна зарядка",
+    "en": "Firecharge"
+  },
+  "BB_HEAD_FIRECHARGE_LORE": {},
+  "BB_HEAD_FOOTBALL_HELMET": {
+    "ru": "Football Helmet",
+    "ua": "Футбольний шолом",
+    "en": "Football Helmet"
+  },
+  "BB_HEAD_FOOTBALL_HELMET_LORE": {},
+  "BB_HEAD_FOREVER_CRYING": {
+    "ru": "Forever Crying",
+    "ua": "Завжди плачущий",
+    "en": "Forever Crying"
+  },
+  "BB_HEAD_FOREVER_CRYING_LORE": {},
+  "BB_HEAD_FURNACE_MINECART": {
+    "ru": "Furnace Minecart",
+    "ua": "Піч на копальному кошику",
+    "en": "Furnace Minecart"
+  },
+  "BB_HEAD_FURNACE_MINECART_LORE": {},
+  "BB_HEAD_GHAST": {
+    "ru": "Ghast",
+    "ua": "Привид",
+    "en": "Ghast"
+  },
+  "BB_HEAD_GHAST_LORE": {},
+  "BB_HEAD_GLADOS": {
+    "ru": "Glados",
+    "ua": "Гладос",
+    "en": "Glados"
+  },
+  "BB_HEAD_GLADOS_LORE": {},
+  "BB_HEAD_GLOWSTONE": {
+    "ru": "Glowstone",
+    "ua": "Сяючий камінь",
+    "en": "Glowstone"
+  },
+  "BB_HEAD_GLOWSTONE_LORE": {},
+  "BB_HEAD_GOLD_BLOCK": {
+    "ru": "Gold Block",
+    "ua": "Золотий блок",
+    "en": "Gold Block"
+  },
+  "BB_HEAD_GOLD_BLOCK_LORE": {},
+  "BB_HEAD_GOLD_ORE": {
+    "ru": "Gold Ore",
+    "ua": "Золота руда",
+    "en": "Gold Ore"
+  },
+  "BB_HEAD_GOLD_ORE_LORE": {},
+  "BB_HEAD_GOLD_POT": {
+    "ru": "Gold Pot",
+    "ua": "Золотий горщик",
+    "en": "Gold Pot"
+  },
+  "BB_HEAD_GOLD_POT_LORE": {},
+  "BB_HEAD_GOLD_STEVE_HEAD": {
+    "ru": "Gold Steve Head",
+    "ua": "Золота голова Стіва",
+    "en": "Gold Steve Head"
+  },
+  "BB_HEAD_GOLD_STEVE_HEAD_LORE": {},
+  "BB_HEAD_GOLEM": {
+    "ru": "Golem",
+    "ua": "Голем",
+    "en": "Golem"
+  },
+  "BB_HEAD_GOLEM_LORE": {},
+  "BB_HEAD_GOOMBA": {
+    "ru": "Goomba",
+    "ua": "Гумба",
+    "en": "Goomba"
+  },
+  "BB_HEAD_GOOMBA_LORE": {},
+  "BB_HEAD_GRANITE": {
+    "ru": "Granite",
+    "ua": "Граніт",
+    "en": "Granite"
+  },
+  "BB_HEAD_GRANITE_LORE": {},
+  "BB_HEAD_GRAPE": {
+    "ru": "Grape",
+    "ua": "Виноград",
+    "en": "Grape"
+  },
+  "BB_HEAD_GRAPE_LORE": {},
+  "BB_HEAD_GRASS": {
+    "ru": "Grass",
+    "ua": "Трава",
+    "en": "Grass"
+  },
+  "BB_HEAD_GRASS_GREEN": {
+    "ru": "Grass Green",
+    "ua": "Зелена трава",
+    "en": "Grass Green"
+  },
+  "BB_HEAD_GRASS_GREEN_LORE": {},
+  "BB_HEAD_GRASS_LORE": {},
+  "BB_HEAD_GRAVEL": {
+    "ru": "Gravel",
+    "ua": "Гравій",
+    "en": "Gravel"
+  },
+  "BB_HEAD_GRAVEL_LORE": {},
+  "BB_HEAD_GRAY_WOOL": {
+    "ru": "Gray Wool",
+    "ua": "Сіра вовна",
+    "en": "Gray Wool"
+  },
+  "BB_HEAD_GRAY_WOOL_LORE": {},
+  "BB_HEAD_GREAT_BALL": {
+    "ru": "Great Ball",
+    "ua": "Великий м'яч",
+    "en": "Great Ball"
+  },
+  "BB_HEAD_GREAT_BALL_LORE": {},
+  "BB_HEAD_GREEN": {
+    "ru": "Green",
+    "ua": "Зелений",
+    "en": "Green"
+  },
+  "BB_HEAD_GREEN_APPLE": {
+    "ru": "Green Apple",
+    "ua": "Зелене яблуко",
+    "en": "Green Apple"
+  },
+  "BB_HEAD_GREEN_APPLE_LORE": {},
+  "BB_HEAD_GREEN_CORE": {
+    "ru": "Green Core",
+    "ua": "Зелене ядро",
+    "en": "Green Core"
+  },
+  "BB_HEAD_GREEN_CORE_LORE": {},
+  "BB_HEAD_GREEN_GRAPES": {
+    "ru": "Green Grapes",
+    "ua": "Зелений виноград",
+    "en": "Green Grapes"
+  },
+  "BB_HEAD_GREEN_GRAPES_LORE": {},
+  "BB_HEAD_GREEN_LORE": {},
+  "BB_HEAD_GREEN_ORE": {
+    "ru": "Green Ore",
+    "ua": "Зелена руда",
+    "en": "Green Ore"
+  },
+  "BB_HEAD_GREEN_ORE_LORE": {},
+  "BB_HEAD_GREEN_WOOL": {
+    "ru": "Green Wool",
+    "ua": "Зелена вовна",
+    "en": "Green Wool"
+  },
+  "BB_HEAD_GREEN_WOOL_LORE": {},
+  "BB_HEAD_GREY": {
+    "ru": "Grey",
+    "ua": "Сірий",
+    "en": "Grey"
+  },
+  "BB_HEAD_GREY_LORE": {},
+  "BB_HEAD_GUARDIAN": {
+    "ru": "Guardian",
+    "ua": "Охоронець",
+    "en": "Guardian"
+  },
+  "BB_HEAD_GUARDIAN_LORE": {},
+  "BB_HEAD_HALF_PISTON": {
+    "ru": "Half Piston",
+    "ua": "Половина поршня",
+    "en": "Half Piston"
+  },
+  "BB_HEAD_HALF_PISTON_LORE": {},
+  "BB_HEAD_HAM": {
+    "ru": "Ham",
+    "ua": "Шинка",
+    "en": "Ham"
+  },
+  "BB_HEAD_HAMBURGER": {
+    "ru": "Hamburger",
+    "ua": "Гамбургер",
+    "en": "Hamburger"
+  },
+  "BB_HEAD_HAMBURGER_LORE": {},
+  "BB_HEAD_HAM_LORE": {},
+  "BB_HEAD_HAY_BALE": {
+    "ru": "Hay Bale",
+    "ua": "Сіно Бейл",
+    "en": "Hay Bale"
+  },
+  "BB_HEAD_HAY_BALE_LORE": {},
+  "BB_HEAD_HERMIT_CRAB": {
+    "ru": "Hermit Crab",
+    "ua": "Рак-відлюдник",
+    "en": "Hermit Crab"
+  },
+  "BB_HEAD_HERMIT_CRAB_LORE": {},
+  "BB_HEAD_HEROBRINE": {
+    "ru": "Herobrine",
+    "ua": "Геробрін",
+    "en": "Herobrine"
+  },
+  "BB_HEAD_HEROBRINE_LORE": {},
+  "BB_HEAD_HORSE": {
+    "ru": "Horse",
+    "ua": "Кінь",
+    "en": "Horse"
+  },
+  "BB_HEAD_HORSE_LORE": {},
+  "BB_HEAD_HOT_CHOCOLATE": {
+    "ru": "Hot Chocolate",
+    "ua": "Гарячий шоколад",
+    "en": "Hot Chocolate"
+  },
+  "BB_HEAD_HOT_CHOCOLATE_LORE": {},
+  "BB_HEAD_HYDRATED_FARMLAND": {
+    "ru": "Hydrated Farmland",
+    "ua": "Зволожені сільськогосподарські угіддя",
+    "en": "Hydrated Farmland"
+  },
+  "BB_HEAD_HYDRATED_FARMLAND_LORE": {},
+  "BB_HEAD_ICE_BLOCK": {
+    "ru": "Ice Block",
+    "ua": "Крижаний блок",
+    "en": "Ice Block"
+  },
+  "BB_HEAD_ICE_BLOCK_LORE": {},
+  "BB_HEAD_ILLUSION_BLOCK": {
+    "ru": "Illusion Block",
+    "ua": "Блок ілюзій",
+    "en": "Illusion Block"
+  },
+  "BB_HEAD_ILLUSION_BLOCK_LORE": {},
+  "BB_HEAD_IRON_BLOCK": {
+    "ru": "Iron Block",
+    "ua": "Залізний блок",
+    "en": "Iron Block"
+  },
+  "BB_HEAD_IRON_BLOCK_LORE": {},
+  "BB_HEAD_IRON_ORE": {
+    "ru": "Iron Ore",
+    "ua": "Залізна руда",
+    "en": "Iron Ore"
+  },
+  "BB_HEAD_IRON_ORE_LORE": {},
+  "BB_HEAD_JUKEBOX": {
+    "ru": "Jukebox",
+    "ua": "Музична скринька",
+    "en": "Jukebox"
+  },
+  "BB_HEAD_JUKEBOX_LORE": {},
+  "BB_HEAD_KISSY": {
+    "ru": "Kissy",
+    "ua": "Поцілунок",
+    "en": "Kissy"
+  },
+  "BB_HEAD_KISSY_LORE": {},
+  "BB_HEAD_KOALA": {
+    "ru": "Koala",
+    "ua": "Коала",
+    "en": "Koala"
+  },
+  "BB_HEAD_KOALA_LORE": {},
+  "BB_HEAD_LAPIS_LAZULI_BLOCK": {
+    "ru": "Lapis Lazuli Block",
+    "ua": "Блок лазуриту",
+    "en": "Lapis Lazuli Block"
+  },
+  "BB_HEAD_LAPIS_LAZULI_BLOCK_LORE": {},
+  "BB_HEAD_LAPIS_LAZULI_ORE": {
+    "ru": "Lapis Lazuli Ore",
+    "ua": "Руда лазуриту",
+    "en": "Lapis Lazuli Ore"
+  },
+  "BB_HEAD_LAPIS_LAZULI_ORE_LORE": {},
+  "BB_HEAD_LAVA": {
+    "ru": "Lava",
+    "ua": "Лава",
+    "en": "Lava"
+  },
+  "BB_HEAD_LAVA_BUCKET": {
+    "ru": "Lava Bucket",
+    "ua": "Відро лави",
+    "en": "Lava Bucket"
+  },
+  "BB_HEAD_LAVA_BUCKET_LORE": {},
+  "BB_HEAD_LAVA_LORE": {},
+  "BB_HEAD_LAVA_SLIME": {
+    "ru": "Lava Slime",
+    "ua": "Лавовий слизь",
+    "en": "Lava Slime"
+  },
+  "BB_HEAD_LAVA_SLIME_LORE": {},
+  "BB_HEAD_LEMON": {
+    "ru": "Lemon",
+    "ua": "Лимон",
+    "en": "Lemon"
+  },
+  "BB_HEAD_LEMON_LORE": {},
+  "BB_HEAD_LETTUCE": {
+    "ru": "Lettuce",
+    "ua": "Салат",
+    "en": "Lettuce"
+  },
+  "BB_HEAD_LETTUCE_LORE": {},
+  "BB_HEAD_LIGHT_BLUE_STAINED_CLAY": {
+    "ru": "Light Blue Stained Clay",
+    "ua": "Світло-синя вітражна глина",
+    "en": "Light Blue Stained Clay"
+  },
+  "BB_HEAD_LIGHT_BLUE_STAINED_CLAY_LORE": {},
+  "BB_HEAD_LIGHT_BLUE_WOOL": {
+    "ru": "Light Blue Wool",
+    "ua": "Світло-синя вовна",
+    "en": "Light Blue Wool"
+  },
+  "BB_HEAD_LIGHT_BLUE_WOOL_LORE": {},
+  "BB_HEAD_LIGHT_BROWN_MUSHROOM": {
+    "ru": "Light Brown Mushroom",
+    "ua": "Світло-коричневий гриб",
+    "en": "Light Brown Mushroom"
+  },
+  "BB_HEAD_LIGHT_BROWN_MUSHROOM_LORE": {},
+  "BB_HEAD_LIGHT_GRAY_WOOL": {
+    "ru": "Light Gray Wool",
+    "ua": "Світло-сіра вовна",
+    "en": "Light Gray Wool"
+  },
+  "BB_HEAD_LIGHT_GRAY_WOOL_LORE": {},
+  "BB_HEAD_LIGHT_GREY": {
+    "ru": "Light Grey",
+    "ua": "Світло-сірий",
+    "en": "Light Grey"
+  },
+  "BB_HEAD_LIGHT_GREY_LORE": {},
+  "BB_HEAD_LIGHT_ORANGE": {
+    "ru": "Light Orange",
+    "ua": "Світло-помаранчевий",
+    "en": "Light Orange"
+  },
+  "BB_HEAD_LIGHT_ORANGE_LORE": {},
+  "BB_HEAD_LIGHT_RED": {
+    "ru": "Light Red",
+    "ua": "Світло-червоний",
+    "en": "Light Red"
+  },
+  "BB_HEAD_LIGHT_RED_LORE": {},
+  "BB_HEAD_LIME_WOOL": {
+    "ru": "Lime Wool",
+    "ua": "Липова шерсть",
+    "en": "Lime Wool"
+  },
+  "BB_HEAD_LIME_WOOL_LORE": {},
+  "BB_HEAD_LUIGI": {
+    "ru": "Luigi",
+    "ua": "Луїджі",
+    "en": "Luigi"
+  },
+  "BB_HEAD_LUIGI_LORE": {},
+  "BB_HEAD_MAGENTA_WOOL": {
+    "ru": "Magenta Wool",
+    "ua": "Пурпурова вовна",
+    "en": "Magenta Wool"
+  },
+  "BB_HEAD_MAGENTA_WOOL_LORE": {},
+  "BB_HEAD_MAILBOX": {
+    "ru": "Mailbox",
+    "ua": "Поштова скриня",
+    "en": "Mailbox"
+  },
+  "BB_HEAD_MAILBOX_LORE": {},
+  "BB_HEAD_MARIO": {
+    "ru": "Mario",
+    "ua": "Маріо",
+    "en": "Mario"
+  },
+  "BB_HEAD_MARIO_LORE": {},
+  "BB_HEAD_MASTERCHIEF_-_HALO": {
+    "ru": "Masterchief - Halo",
+    "ua": "Майстер-начальник - Halo",
+    "en": "Masterchief - Halo"
+  },
+  "BB_HEAD_MASTERCHIEF_-_HALO_LORE": {},
+  "BB_HEAD_MASTER_BALL": {
+    "ru": "Master Ball",
+    "ua": "М'яч майстра",
+    "en": "Master Ball"
+  },
+  "BB_HEAD_MASTER_BALL_LORE": {},
+  "BB_HEAD_MEDIUM_GREEN": {
+    "ru": "Medium Green",
+    "ua": "Середньо-зелений",
+    "en": "Medium Green"
+  },
+  "BB_HEAD_MEDIUM_GREEN_LORE": {},
+  "BB_HEAD_MELON": {
+    "ru": "Melon",
+    "ua": "Диня",
+    "en": "Melon"
+  },
+  "BB_HEAD_MELON_LORE": {},
+  "BB_HEAD_MILK_BUCKET": {
+    "ru": "Milk Bucket",
+    "ua": "Відро молока",
+    "en": "Milk Bucket"
+  },
+  "BB_HEAD_MILK_BUCKET_LORE": {},
+  "BB_HEAD_MISSING_TEXTURE": {
+    "ru": "Missing Texture",
+    "ua": "Відсутня текстура",
+    "en": "Missing Texture"
+  },
+  "BB_HEAD_MISSING_TEXTURE_LORE": {},
+  "BB_HEAD_MOB_SPAWNER": {
+    "ru": "Mob Spawner",
+    "ua": "Моб Спавнер",
+    "en": "Mob Spawner"
+  },
+  "BB_HEAD_MOB_SPAWNER_LORE": {},
+  "BB_HEAD_MOLTEN_CORE": {
+    "ru": "Molten Core",
+    "ua": "Розплавлене ядро",
+    "en": "Molten Core"
+  },
+  "BB_HEAD_MOLTEN_CORE_LORE": {},
+  "BB_HEAD_MONKEY": {
+    "ru": "Monkey",
+    "ua": "Мавпа",
+    "en": "Monkey"
+  },
+  "BB_HEAD_MONKEY_LORE": {},
+  "BB_HEAD_MOSSY_COBBLESTONE": {
+    "ru": "Mossy Cobblestone",
+    "ua": "Розплавлене ядро",
+    "en": "Mossy Cobblestone"
+  },
+  "BB_HEAD_MOSSY_COBBLESTONE_LORE": {},
+  "BB_HEAD_MOSSY_STONE_BRICK": {
+    "ru": "Mossy Stone Brick",
+    "ua": "Моховий кам'яна цегла",
+    "en": "Mossy Stone Brick"
+  },
+  "BB_HEAD_MOSSY_STONE_BRICK_LORE": {},
+  "BB_HEAD_MUSHROOM_COW": {
+    "ru": "Mushroom Cow",
+    "ua": "Грибна корова",
+    "en": "Mushroom Cow"
+  },
+  "BB_HEAD_MUSHROOM_COW_LORE": {},
+  "BB_HEAD_MUSHROOM_STEM": {
+    "ru": "Mushroom Stem",
+    "ua": "Стебло гриба",
+    "en": "Mushroom Stem"
+  },
+  "BB_HEAD_MUSHROOM_STEM_LORE": {},
+  "BB_HEAD_MUSTACHE": {
+    "ru": "Mustache",
+    "ua": "Вуса",
+    "en": "Mustache"
+  },
+  "BB_HEAD_MUSTACHE_LORE": {},
+  "BB_HEAD_MYCELLIUM": {
+    "ru": "Mycellium",
+    "ua": "Міцелій",
+    "en": "Mycellium"
+  },
+  "BB_HEAD_MYCELLIUM_LORE": {},
+  "BB_HEAD_NETHERBRICK": {
+    "ru": "Netherbrick",
+    "ua": "Адська цегла",
+    "en": "Netherbrick"
+  },
+  "BB_HEAD_NETHERBRICK_LORE": {},
+  "BB_HEAD_NETHERRACK": {
+    "ru": "Netherrack",
+    "ua": "Адська доріжка",
+    "en": "Netherrack"
+  },
+  "BB_HEAD_NETHERRACK_LORE": {},
+  "BB_HEAD_NETHER_PORTAL": {
+    "ru": "Nether Portal",
+    "ua": "Портал в ад",
+    "en": "Nether Portal"
+  },
+  "BB_HEAD_NETHER_PORTAL_LORE": {},
+  "BB_HEAD_NOTE_BLOCK": {
+    "ru": "Note Block",
+    "ua": "Блок з нотами",
+    "en": "Note Block"
+  },
+  "BB_HEAD_NOTE_BLOCK_LORE": {},
+  "BB_HEAD_NUTELLA": {
+    "ru": "Nutella",
+    "ua": "Нутелла",
+    "en": "Nutella"
+  },
+  "BB_HEAD_NUTELLA_LORE": {},
+  "BB_HEAD_OBSIDIAN": {
+    "ru": "Obsidian",
+    "ua": "Обсидіан",
+    "en": "Obsidian"
+  },
+  "BB_HEAD_OBSIDIAN_LORE": {},
+  "BB_HEAD_OCELOT": {
+    "ru": "Ocelot",
+    "ua": "Оцелот",
+    "en": "Ocelot"
+  },
+  "BB_HEAD_OCELOT_LORE": {},
+  "BB_HEAD_ORANGE": {
+    "ru": "Orange",
+    "ua": "Помаранчевий",
+    "en": "Orange"
+  },
+  "BB_HEAD_ORANGE_CORE": {
+    "ru": "Orange Core",
+    "ua": "Помаранчеве ядро",
+    "en": "Orange Core"
+  },
+  "BB_HEAD_ORANGE_CORE_LORE": {},
+  "BB_HEAD_ORANGE_LORE": {},
+  "BB_HEAD_ORANGE_WOOL": {
+    "ru": "Orange Wool",
+    "ua": "Помаранчева вовна",
+    "en": "Orange Wool"
+  },
+  "BB_HEAD_ORANGE_WOOL_LORE": {},
+  "BB_HEAD_PACKED_ICE_BLOCK": {
+    "ru": "Packed Ice Block",
+    "ua": "Упакований льодовий блок",
+    "en": "Packed Ice Block"
+  },
+  "BB_HEAD_PACKED_ICE_BLOCK_LORE": {},
+  "BB_HEAD_PANCAKES": {
+    "ru": "Pancakes",
+    "ua": "Млинці",
+    "en": "Pancakes"
+  },
+  "BB_HEAD_PANCAKES_LORE": {},
+  "BB_HEAD_PANDA": {
+    "ru": "Panda",
+    "ua": "Панда",
+    "en": "Panda"
+  },
+  "BB_HEAD_PANDA_LORE": {},
+  "BB_HEAD_PENGUIN": {
+    "ru": "Penguin",
+    "ua": "Пінгвін",
+    "en": "Penguin"
+  },
+  "BB_HEAD_PENGUIN_LORE": {},
+  "BB_HEAD_PIE": {
+    "ru": "Pie",
+    "ua": "Пиріг",
+    "en": "Pie"
+  },
+  "BB_HEAD_PIE_LORE": {},
+  "BB_HEAD_PIG": {
+    "ru": "Pig",
+    "ua": "Свиня",
+    "en": "Pig"
+  },
+  "BB_HEAD_PIGZOMBIE": {
+    "ru": "Pigzombie",
+    "ua": "Свиня-зомбі",
+    "en": "Pigzombie"
+  },
+  "BB_HEAD_PIGZOMBIE_LORE": {},
+  "BB_HEAD_PIG_LORE": {},
+  "BB_HEAD_PILLAR_QUARTZ_BLOCK": {
+    "ru": "Pillar Quartz Block",
+    "ua": "Стовповий кварцовий блок",
+    "en": "Pillar Quartz Block"
+  },
+  "BB_HEAD_PILLAR_QUARTZ_BLOCK_LORE": {},
+  "BB_HEAD_PINE_CONE": {
+    "ru": "Pine Cone",
+    "ua": "Соснова шишка",
+    "en": "Pine Cone"
+  },
+  "BB_HEAD_PINE_CONE_LORE": {},
+  "BB_HEAD_PINK": {
+    "ru": "Pink",
+    "ua": "Рожевий",
+    "en": "Pink"
+  },
+  "BB_HEAD_PINK_LORE": {},
+  "BB_HEAD_PINK_WOOL": {
+    "ru": "Pink Wool",
+    "ua": "Рожева вовна",
+    "en": "Pink Wool"
+  },
+  "BB_HEAD_PINK_WOOL_LORE": {},
+  "BB_HEAD_PISTON": {
+    "ru": "Piston",
+    "ua": "Поршень",
+    "en": "Piston"
+  },
+  "BB_HEAD_PISTON_LORE": {},
+  "BB_HEAD_PODZOL": {
+    "ru": "Podzol",
+    "ua": "Подзол",
+    "en": "Podzol"
+  },
+  "BB_HEAD_PODZOL_LORE": {},
+  "BB_HEAD_POKE_BALL": {
+    "ru": "Poke Ball",
+    "ua": "Поке м'яч",
+    "en": "Poke Ball"
+  },
+  "BB_HEAD_POKE_BALL_LORE": {},
+  "BB_HEAD_POLAR_BEAR": {
+    "ru": "Polar Bear",
+    "ua": "Полярний ведмідь",
+    "en": "Polar Bear"
+  },
+  "BB_HEAD_POLAR_BEAR_LORE": {},
+  "BB_HEAD_POLISHED_ANDESITE": {
+    "ru": "Polished Andesite",
+    "ua": "Полірований андезит",
+    "en": "Polished Andesite"
+  },
+  "BB_HEAD_POLISHED_ANDESITE_LORE": {},
+  "BB_HEAD_POLISHED_DIORITE": {
+    "ru": "Polished Diorite",
+    "ua": "Полірований діорит",
+    "en": "Polished Diorite"
+  },
+  "BB_HEAD_POLISHED_DIORITE_LORE": {},
+  "BB_HEAD_POLISHED_GRANITE": {
+    "ru": "Polished Granite",
+    "ua": "Полірований граніт",
+    "en": "Polished Granite"
+  },
+  "BB_HEAD_POLISHED_GRANITE_LORE": {},
+  "BB_HEAD_POPCORN": {
+    "ru": "Popcorn",
+    "ua": "Попкорн",
+    "en": "Popcorn"
+  },
+  "BB_HEAD_POPCORN_LORE": {},
+  "BB_HEAD_PORTABLE_GRILL": {
+    "ru": "Portable Grill",
+    "ua": "Портативний гриль",
+    "en": "Portable Grill"
+  },
+  "BB_HEAD_PORTABLE_GRILL_LORE": {},
+  "BB_HEAD_PORTAL_CORE": {
+    "ru": "Portal Core",
+    "ua": "Ядро порталу",
+    "en": "Portal Core"
+  },
+  "BB_HEAD_PORTAL_CORE_LORE": {},
+  "BB_HEAD_PREMIER_BALL": {
+    "ru": "Premier Ball",
+    "ua": "Прем'єр -м'яч",
+    "en": "Premier Ball"
+  },
+  "BB_HEAD_PREMIER_BALL_LORE": {},
+  "BB_HEAD_PRISMARINE": {
+    "ru": "Prismarine",
+    "ua": "Присмарин",
+    "en": "Prismarine"
+  },
+  "BB_HEAD_PRISMARINE_BRICK": {
+    "ru": "Prismarine Brick",
+    "ua": "Присмарінова цегла",
+    "en": "Prismarine Brick"
+  },
+  "BB_HEAD_PRISMARINE_BRICK_LORE": {},
+  "BB_HEAD_PRISMARINE_LORE": {},
+  "BB_HEAD_PUFFERFUSH": {
+    "ru": "Pufferfush",
+    "ua": "Риба фугу",
+    "en": "Pufferfush"
+  },
+  "BB_HEAD_PUFFERFUSH_LORE": {},
+  "BB_HEAD_PUMPKIN": {
+    "ru": "Pumpkin",
+    "ua": "Гарбуз",
+    "en": "Pumpkin"
+  },
+  "BB_HEAD_PUMPKIN_LORE": {},
+  "BB_HEAD_PURCHASE_MESSAGE": {
+    "ru": "Вы приобрели голову §a%s §fза §a%s §f%s. Теперь её можно будет использовать в игре на своем участке.",
+    "ua": "Ви придбали голову §a%s §fза §a%s §f%s. Тепер її можна буде використовувати в грі на своїй ділянці.",
+    "en": "You have purchased the head §a%s §ffor §a%s §f%s. Now you can use it in your site in the game."
+  },
+  "BB_HEAD_PURPLE_GRAPES": {
+    "ru": "Purple Grapes",
+    "ua": "Фіолетовий виноград",
+    "en": "Purple Grapes"
+  },
+  "BB_HEAD_PURPLE_GRAPES_LORE": {},
+  "BB_HEAD_PURPLE_WOOL": {
+    "ru": "Purple Wool",
+    "ua": "Фіолетова вовна",
+    "en": "Purple Wool"
+  },
+  "BB_HEAD_PURPLE_WOOL_LORE": {},
+  "BB_HEAD_QUARTZ_BLOCK": {
+    "ru": "Quartz Block",
+    "ua": "Кварцовий блок",
+    "en": "Quartz Block"
+  },
+  "BB_HEAD_QUARTZ_BLOCK_LORE": {},
+  "BB_HEAD_QUARTZ_ORE": {
+    "ru": "Quartz Ore",
+    "ua": "Кварцова руда",
+    "en": "Quartz Ore"
+  },
+  "BB_HEAD_QUARTZ_ORE_LORE": {},
+  "BB_HEAD_RABBIT": {
+    "ru": "Rabbit",
+    "ua": "Кролик",
+    "en": "Rabbit"
+  },
+  "BB_HEAD_RABBIT_LORE": {},
+  "BB_HEAD_RED": {
+    "ru": "Red",
+    "ua": "Червоний",
+    "en": "Red"
+  },
+  "BB_HEAD_REDDIT": {
+    "ru": "Reddit",
+    "ua": "Reddit",
+    "en": "Reddit"
+  },
+  "BB_HEAD_REDDIT_LORE": {},
+  "BB_HEAD_REDSTONE_BLOCK": {
+    "ru": "Redstone Block",
+    "ua": "Редстоун Блок",
+    "en": "Redstone Block"
+  },
+  "BB_HEAD_REDSTONE_BLOCK_LORE": {},
+  "BB_HEAD_REDSTONE_LAMP": {
+    "ru": "Redstone Lamp",
+    "ua": "Лампа Редстоун",
+    "en": "Redstone Lamp"
+  },
+  "BB_HEAD_REDSTONE_LAMP_LORE": {},
+  "BB_HEAD_REDSTONE_ORE": {
+    "ru": "Redstone Ore",
+    "ua": "Редстоунська руда",
+    "en": "Redstone Ore"
+  },
+  "BB_HEAD_REDSTONE_ORE_LORE": {},
+  "BB_HEAD_REDSTONE_TORCH": {
+    "ru": "Redstone Torch",
+    "ua": "Факел Редстоун",
+    "en": "Redstone Torch"
+  },
+  "BB_HEAD_REDSTONE_TORCH_LORE": {},
+  "BB_HEAD_RED_DICE": {
+    "ru": "Red Dice",
+    "ua": "Червоний кубик",
+    "en": "Red Dice"
+  },
+  "BB_HEAD_RED_DICE_LORE": {},
+  "BB_HEAD_RED_GRAPES": {
+    "ru": "Red Grapes",
+    "ua": "Червоний виноград",
+    "en": "Red Grapes"
+  },
+  "BB_HEAD_RED_GRAPES_LORE": {},
+  "BB_HEAD_RED_LORE": {},
+  "BB_HEAD_RED_MUSHROOM": {
+    "ru": "Red Mushroom",
+    "ua": "Червоний гриб",
+    "en": "Red Mushroom"
+  },
+  "BB_HEAD_RED_MUSHROOM_LORE": {},
+  "BB_HEAD_RED_SAND": {
+    "ru": "Red Sand",
+    "ua": "Червоний пісок",
+    "en": "Red Sand"
+  },
+  "BB_HEAD_RED_SANDSTONE": {
+    "ru": "Red Sandstone",
+    "ua": "Червоний піщаник",
+    "en": "Red Sandstone"
+  },
+  "BB_HEAD_RED_SANDSTONE_LORE": {},
+  "BB_HEAD_RED_SAND_LORE": {},
+  "BB_HEAD_RED_WOOL": {
+    "ru": "Red Wool",
+    "ua": "Червона вовна",
+    "en": "Red Wool"
+  },
+  "BB_HEAD_RED_WOOL_LORE": {},
+  "BB_HEAD_REGULAR_FISH": {
+    "ru": "Regular Fish",
+    "ua": "Звичайна риба",
+    "en": "Regular Fish"
+  },
+  "BB_HEAD_REGULAR_FISH_LORE": {},
+  "BB_HEAD_SAD": {
+    "ru": "Sad",
+    "ua": "Сумний",
+    "en": "Sad"
+  },
+  "BB_HEAD_SAD_LORE": {},
+  "BB_HEAD_SAFARI_BALL": {
+    "ru": "Safari Ball",
+    "ua": "М'яч для сафарі",
+    "en": "Safari Ball"
+  },
+  "BB_HEAD_SAFARI_BALL_LORE": {},
+  "BB_HEAD_SALAD": {
+    "ru": "Salad",
+    "ua": "Салад",
+    "en": "Salad"
+  },
+  "BB_HEAD_SALAD_LORE": {},
+  "BB_HEAD_SALMON_FISH": {
+    "ru": "Salmon Fish",
+    "ua": "Лосось",
+    "en": "Salmon Fish"
+  },
+  "BB_HEAD_SALMON_FISH_LORE": {},
+  "BB_HEAD_SAND": {
+    "ru": "Sand",
+    "ua": "Пісок",
+    "en": "Sand"
+  },
+  "BB_HEAD_SANDSTONE": {
+    "ru": "Sandstone",
+    "ua": "Піщаник",
+    "en": "Sandstone"
+  },
+  "BB_HEAD_SANDSTONE_LORE": {},
+  "BB_HEAD_SANDWICH": {
+    "ru": "Sandwich",
+    "ua": "Сендвіч",
+    "en": "Sandwich"
+  },
+  "BB_HEAD_SANDWICH_LORE": {},
+  "BB_HEAD_SAND_LORE": {},
+  "BB_HEAD_SCARED": {
+    "ru": "Scared",
+    "ua": "Наляканий",
+    "en": "Scared"
+  },
+  "BB_HEAD_SCARED_LORE": {},
+  "BB_HEAD_SCRAMBLED_RUBIK'S_CUBE": {
+    "ru": "Scrambled Rubiks Cube",
+    "ua": "Запутаний кубик Рубіка",
+    "en": "Scrambled Rubiks Cube"
+  },
+  "BB_HEAD_SCRAMBLED_RUBIK'S_CUBE_LORE": {},
+  "BB_HEAD_SEAGULL": {
+    "ru": "Seagull",
+    "ua": "Чайка",
+    "en": "Seagull"
+  },
+  "BB_HEAD_SEAGULL_LORE": {},
+  "BB_HEAD_SEA_LANTERN": {
+    "ru": "Sea Lantern",
+    "ua": "Морський ліхтар",
+    "en": "Sea Lantern"
+  },
+  "BB_HEAD_SEA_LANTERN_LORE": {},
+  "BB_HEAD_SELECTION_MESSAGE": {
+    "ru": "Вы получили голову §a%s",
+    "ua": "Ви отримали голову §a%s",
+    "en": "You received  a head §a%s"
+  },
+  "BB_HEAD_SHEEP": {
+    "ru": "Sheep",
+    "ua": "Вівця",
+    "en": "Sheep"
+  },
+  "BB_HEAD_SHEEP_LORE": {},
+  "BB_HEAD_SKULL": {
+    "ru": "Skull",
+    "ua": "Череп",
+    "en": "Skull"
+  },
+  "BB_HEAD_SKULL_LORE": {},
+  "BB_HEAD_SKYPE": {
+    "ru": "Skype",
+    "ua": "Skype",
+    "en": "Skype"
+  },
+  "BB_HEAD_SKYPE_LORE": {},
+  "BB_HEAD_SLIME": {
+    "ru": "Slime",
+    "ua": "Слизень",
+    "en": "Slime"
+  },
+  "BB_HEAD_SLIME_BALL": {
+    "ru": "Slime Ball",
+    "ua": "Слизовий м'яч",
+    "en": "Slime Ball"
+  },
+  "BB_HEAD_SLIME_BALL_LORE": {},
+  "BB_HEAD_SLIME_BLOCK": {
+    "ru": "Slime Block",
+    "ua": "Слизовий блок",
+    "en": "Slime Block"
+  },
+  "BB_HEAD_SLIME_BLOCK_LORE": {},
+  "BB_HEAD_SLIME_LORE": {},
+  "BB_HEAD_SLIME_PISTON": {
+    "ru": "Slime Piston",
+    "ua": "Слизовий порошень",
+    "en": "Slime Piston"
+  },
+  "BB_HEAD_SLIME_PISTON_LORE": {},
+  "BB_HEAD_SMILE": {
+    "ru": "Smile",
+    "ua": "Усмішка",
+    "en": "Smile"
+  },
+  "BB_HEAD_SMILE_LORE": {},
+  "BB_HEAD_SMOOTH_SANDSTONE": {
+    "ru": "Smooth Sandstone",
+    "ua": "Гладкий піщаник",
+    "en": "Smooth Sandstone"
+  },
+  "BB_HEAD_SMOOTH_SANDSTONE_LORE": {},
+  "BB_HEAD_SNOWHEAD": {
+    "ru": "Snowhead",
+    "ua": "Сніжна голова",
+    "en": "Snowhead"
+  },
+  "BB_HEAD_SNOWHEAD_LORE": {},
+  "BB_HEAD_SNOW_BLOCK": {
+    "ru": "Snow Block",
+    "ua": "Сніжний блок",
+    "en": "Snow Block"
+  },
+  "BB_HEAD_SNOW_BLOCK_LORE": {},
+  "BB_HEAD_SNOW_GRASS": {
+    "ru": "Snow Grass",
+    "ua": "Сніжна трава",
+    "en": "Snow Grass"
+  },
+  "BB_HEAD_SNOW_GRASS_LORE": {},
+  "BB_HEAD_SOCCERBALL": {
+    "ru": "Soccerball",
+    "ua": "Футбольний м'яч",
+    "en": "Soccerball"
+  },
+  "BB_HEAD_SOCCERBALL_LORE": {},
+  "BB_HEAD_SOLVED_RUBIK'S_CUBE": {
+    "ru": "Solved Rubiks Cube",
+    "ua": "Зібраний кубик Рубіка",
+    "en": "Solved Rubiks Cube"
+  },
+  "BB_HEAD_SOLVED_RUBIK'S_CUBE_LORE": {},
+  "BB_HEAD_SOULSAND": {
+    "ru": "Soulsand",
+    "ua": "Пісок душ",
+    "en": "Soulsand"
+  },
+  "BB_HEAD_SOULSAND_LORE": {},
+  "BB_HEAD_SPACE_HELMET": {
+    "ru": "Space Helmet",
+    "ua": "Космічний шолом",
+    "en": "Space Helmet"
+  },
+  "BB_HEAD_SPACE_HELMET_LORE": {},
+  "BB_HEAD_SPIDER": {
+    "ru": "Spider",
+    "ua": "Павук",
+    "en": "Spider"
+  },
+  "BB_HEAD_SPIDER_LORE": {},
+  "BB_HEAD_SPONGE": {
+    "ru": "Sponge",
+    "ua": "Губка",
+    "en": "Sponge"
+  },
+  "BB_HEAD_SPONGE_LORE": {},
+  "BB_HEAD_SQUID": {
+    "ru": "Squid",
+    "ua": "Восьминіг",
+    "en": "Squid"
+  },
+  "BB_HEAD_SQUID_LORE": {},
+  "BB_HEAD_STICKY_PISTON": {
+    "ru": "Sticky Piston",
+    "ua": "Липкий поршень",
+    "en": "Sticky Piston"
+  },
+  "BB_HEAD_STICKY_PISTON_LORE": {},
+  "BB_HEAD_STONE": {
+    "ru": "Stone",
+    "ua": "Камінь",
+    "en": "Stone"
+  },
+  "BB_HEAD_STONE_BRICK": {
+    "ru": "Stone Brick",
+    "ua": "Кам'яна цегла",
+    "en": "Stone Brick"
+  },
+  "BB_HEAD_STONE_BRICK_LORE": {},
+  "BB_HEAD_STONE_LORE": {},
+  "BB_HEAD_STONE_SLAB": {
+    "ru": "Stone Slab",
+    "ua": "Кам'яна плита",
+    "en": "Stone Slab"
+  },
+  "BB_HEAD_STONE_SLAB_LORE": {},
+  "BB_HEAD_STRAWBERRY": {
+    "ru": "Strawberry",
+    "ua": "Полуниця",
+    "en": "Strawberry"
+  },
+  "BB_HEAD_STRAWBERRY_LORE": {},
+  "BB_HEAD_SUGARCANE": {
+    "ru": "Sugarcane",
+    "ua": "Цукровий очерет",
+    "en": "Sugarcane"
+  },
+  "BB_HEAD_SUGARCANE_LORE": {},
+  "BB_HEAD_SUPRISED": {
+    "ru": "Suprised",
+    "ua": "Здивований",
+    "en": "Suprised"
+  },
+  "BB_HEAD_SUPRISED_LORE": {},
+  "BB_HEAD_SUSHI_ROLL": {
+    "ru": "Sushi Roll",
+    "ua": "Суші-рол",
+    "en": "Sushi Roll"
+  },
+  "BB_HEAD_SUSHI_ROLL_LORE": {},
+  "BB_HEAD_TACO": {
+    "ru": "Taco",
+    "ua": "Тако",
+    "en": "Taco"
+  },
+  "BB_HEAD_TACO_LORE": {},
+  "BB_HEAD_TARGET": {
+    "ru": "Target",
+    "ua": "Мішень",
+    "en": "Target"
+  },
+  "BB_HEAD_TARGET_LORE": {},
+  "BB_HEAD_TIGER": {
+    "ru": "Tiger",
+    "ua": "Тигр",
+    "en": "Tiger"
+  },
+  "BB_HEAD_TIGER_LORE": {},
+  "BB_HEAD_TNT": {
+    "ru": "TNT",
+    "ua": "TNT",
+    "en": "TNT"
+  },
+  "BB_HEAD_TNT_LORE": {},
+  "BB_HEAD_TNT_MINECART": {
+    "ru": "TNT Minecart",
+    "ua": "TNT Кошик для копалень",
+    "en": "TNT Minecart"
+  },
+  "BB_HEAD_TNT_MINECART_LORE": {},
+  "BB_HEAD_TOMATO": {
+    "ru": "Tomato",
+    "ua": "Помідор",
+    "en": "Tomato"
+  },
+  "BB_HEAD_TOMATO_LORE": {},
+  "BB_HEAD_TORTOISE": {
+    "ru": "Tortoise",
+    "ua": "Черепаха",
+    "en": "Tortoise"
+  },
+  "BB_HEAD_TORTOISE_LORE": {},
+  "BB_HEAD_TURRET": {
+    "ru": "Turret",
+    "ua": "Башта",
+    "en": "Turret"
+  },
+  "BB_HEAD_TURRET_LORE": {},
+  "BB_HEAD_TWITTER": {
+    "ru": "Twitter",
+    "ua": "Twitter",
+    "en": "Twitter"
+  },
+  "BB_HEAD_TWITTER_LORE": {},
+  "BB_HEAD_ULTRA_BALL": {
+    "ru": "Ultra Ball",
+    "ua": "Ультра м'яч",
+    "en": "Ultra Ball"
+  },
+  "BB_HEAD_ULTRA_BALL_LORE": {},
+  "BB_HEAD_VILLAGER": {
+    "ru": "Villager",
+    "ua": "Житель",
+    "en": "Villager"
+  },
+  "BB_HEAD_VILLAGER_HEAD": {
+    "ru": "Villager head",
+    "ua": "Голова жителя",
+    "en": "Villager head"
+  },
+  "BB_HEAD_VILLAGER_HEAD_LORE": {},
+  "BB_HEAD_VILLAGER_LORE": {},
+  "BB_HEAD_WALRUS": {
+    "ru": "Walrus",
+    "ua": "Морж",
+    "en": "Walrus"
+  },
+  "BB_HEAD_WALRUS_LORE": {},
+  "BB_HEAD_WARP_PIPE": {
+    "ru": "Warp Pipe",
+    "ua": "Труба",
+    "en": "Warp Pipe"
+  },
+  "BB_HEAD_WARP_PIPE_LORE": {},
+  "BB_HEAD_WATER": {
+    "ru": "Water",
+    "ua": "Вода",
+    "en": "Water"
+  },
+  "BB_HEAD_WATER_BUCKET": {
+    "ru": "Water Bucket",
+    "ua": "Відро води",
+    "en": "Water Bucket"
+  },
+  "BB_HEAD_WATER_BUCKET_LORE": {},
+  "BB_HEAD_WATER_LORE": {},
+  "BB_HEAD_WEIGHTED_CUBE": {
+    "ru": "Weighted Cube",
+    "ua": "Зважений куб",
+    "en": "Weighted Cube"
+  },
+  "BB_HEAD_WEIGHTED_CUBE_LORE": {},
+  "BB_HEAD_WET_SPONGE": {
+    "ru": "Wet Sponge",
+    "ua": "Мокра губка",
+    "en": "Wet Sponge"
+  },
+  "BB_HEAD_WET_SPONGE_LORE": {},
+  "BB_HEAD_WHITE_BLOCK": {
+    "ru": "White Block",
+    "ua": "Білий блок",
+    "en": "White Block"
+  },
+  "BB_HEAD_WHITE_BLOCK_LORE": {},
+  "BB_HEAD_WHITE_DICE": {
+    "ru": "White Dice",
+    "ua": "Білий кубик",
+    "en": "White Dice"
+  },
+  "BB_HEAD_WHITE_DICE_LORE": {},
+  "BB_HEAD_WHITE_WOOL": {
+    "ru": "White Wool",
+    "ua": "Біла вовна",
+    "en": "White Wool"
+  },
+  "BB_HEAD_WHITE_WOOL_LORE": {},
+  "BB_HEAD_WILSON_-_CASTAWAY": {
+    "ru": "Wilson - Castaway",
+    "ua": "Wilson - Castaway",
+    "en": "Wilson - Castaway"
+  },
+  "BB_HEAD_WILSON_-_CASTAWAY_LORE": {},
+  "BB_HEAD_WINK": {
+    "ru": "Wink",
+    "ua": "Підморговування",
+    "en": "Wink"
+  },
+  "BB_HEAD_WINK_LORE": {},
+  "BB_HEAD_WITHER_BOSS": {
+    "ru": "Wither Boss",
+    "ua": "Чахлий бос",
+    "en": "Wither Boss"
+  },
+  "BB_HEAD_WITHER_BOSS_LORE": {},
+  "BB_HEAD_WOOD_PLANK": {
+    "ru": "Wood Plank",
+    "ua": "Дерев'яна дошка",
+    "en": "Wood Plank"
+  },
+  "BB_HEAD_WOOD_PLANK_LORE": {},
+  "BB_HEAD_YELLOW": {
+    "ru": "Yellow",
+    "ua": "Жовтий",
+    "en": "Yellow"
+  },
+  "BB_HEAD_YELLOW_LORE": {},
+  "BB_HEAD_YELLOW_WOOL": {
+    "ru": "Yellow Wool",
+    "ua": "Жовта вовна",
+    "en": "Yellow Wool"
+  },
+  "BB_HEAD_YELLOW_WOOL_LORE": {},
+  "BB_HEAD_YOSHI": {
+    "ru": "Yoshi",
+    "ua": "Йоші",
+    "en": "Yoshi"
+  },
+  "BB_HEAD_YOSHI_LORE": {},
+  "BB_HEAD_YOUTUBE": {
+    "ru": "Youtube",
+    "ua": "Youtube",
+    "en": "Youtube"
+  },
+  "BB_HEAD_YOUTUBE_LORE": {},
+  "BUILDBATTLE_ADD_FLOOR_BLOCK_LORE": {
+    "ru": [
+      " ",
+      "§7Нажмите сюда предметом,",
+      "§7который Вы хотите добавить",
+      "§7как материал пола"
+    ],
+    "ua": [
+      " ",
+      "§7Натисніть сюди предметом,",
+      "§7що ви хочете додати",
+      "§7як матеріал підлоги"
+    ],
+    "en": [
+      " ",
+      "§7Click here with the item",
+      "§7which you want to add",
+      "§7as the floor material"
+    ]
+  },
+  "BUILDBATTLE_ADD_FLOOR_BLOCK_NAME": {
+    "ru": "§eДобавить материал",
+    "ua": "§eДодати матеріал",
+    "en": "§eAdd material"
+  },
+  "BUILDBATTLE_ADD_PARTICLES_LORE": {
+    "ru": [
+      "§e► Нажмите, чтобы добавить эффект"
+    ],
+    "ua": [
+      "§e► Натисніть, щоб додати"
+    ],
+    "en": [
+      "§e► Click to add effect"
+    ]
+  },
+  "BUILDBATTLE_ANIMAL_THEME_LORE": {
+    "ru": [
+      "§7Включается в себя множество",
+      "§7зверей, насекомых и птиц ⇩"
+    ],
+    "ua": [
+      "§7Містить в собі безліч",
+      "§7звірів, комах і птахів ⇩"
+    ],
+    "en": [
+      "§7Includes many",
+      "§7animals, insects and birds ⇩"
+    ]
+  },
+  "BUILDBATTLE_ANIMAL_THEME_NAME": {
+    "ru": "Животные",
+    "ua": "Тварини",
+    "en": "Animals"
+  },
+  "BUILDBATTLE_BANNER_FINISH_LORE": {
+    "ru": [
+      "§7Кликните сюда, чтобы завершить",
+      "§7создание баннера и получить его",
+      "§7к себе в инвентарь"
+    ],
+    "ua": [
+      "§7Натисніть сюди, щоб завершити",
+      "§7створення банера і отримати його",
+      "§7до себе в інвентар"
+    ],
+    "en": [
+      "§7Click here to finish",
+      "§7banner creating and add it",
+      "§7to your inventory"
+    ]
+  },
+  "BUILDBATTLE_BANNER_FINISH_NAME": {
+    "ru": "§bЗавершить создание",
+    "ua": "§bЗавершити створення",
+    "en": "§bFinish creating"
+  },
+  "BUILDBATTLE_BANNER_MENU_LORE": {
+    "ru": [
+      " ",
+      "§7Создание собственного баннера",
+      " ",
+      "§e► Нажмите, чтобы начать"
+    ],
+    "ua": [
+      " ",
+      "§7Створення власного банера",
+      " ",
+      "§e► Натисніть, щоб розпочати"
+    ],
+    "en": [
+      " ",
+      "§7Banner creating",
+      " ",
+      "§e► Click to begin"
+    ]
+  },
+  "BUILDBATTLE_BANNER_MENU_TITLE": {
+    "ru": "Создание баннера",
+    "ua": "Створення банеру",
+    "en": "Banner creating"
+  },
+  "BUILDBATTLE_BANNER_PATTERN": {
+    "ru": "Узор №%s",
+    "ua": "Візерунок №%s",
+    "en": "Pattern №%s"
+  },
+  "BUILDBATTLE_BIOME_CHANGED": {
+    "ru": "§fБиом изменен",
+    "ua": "§fБіом змінений",
+    "en": "§fBiome changed"
+  },
+  "BUILDBATTLE_BIOME_MENU_LORE": {
+    "ru": [
+      " ",
+      "§7Выбор биома на Вашем участке",
+      " ",
+      "§e► Нажмите, чтобы выбрать"
+    ],
+    "ua": [
+      " ",
+      "§7Вибір біома на вашій ділянці",
+      " ",
+      "§e► Натисніть, щоб обрати"
+    ],
+    "en": [
+      " ",
+      "§7Biome selection on your site",
+      " ",
+      "§e► Click to choose"
+    ]
+  },
+  "BUILDBATTLE_BIOME_MENU_TITLE": {
+    "ru": "Смена биома",
+    "ua": "Зміна біома",
+    "en": "Biome change"
+  },
+  "BUILDBATTLE_BIOME_SELECTED_LORE": {
+    "ru": [
+      " ",
+      "§c► Биом уже выбран"
+    ],
+    "ua": [
+      " ",
+      "§c► Біом вже обраний"
+    ],
+    "en": [
+      " ",
+      "§c► Biome is already selected"
+    ]
+  },
+  "BUILDBATTLE_BIOME_SELECTION_LORE": {
+    "ru": [
+      " ",
+      "§e► Нажмите, чтобы выбрать биом"
+    ],
+    "ua": [
+      " ",
+      "§e► Натисніть, щоб обрати біом"
+    ],
+    "en": [
+      " ",
+      "§e► Click to choose biome"
+    ]
+  },
+  "BUILDBATTLE_BLOCKS_HEADS": {
+    "ru": "Блоки",
+    "ua": "Блоки",
+    "en": "Blocks"
+  },
+  "BUILDBATTLE_BOARD_PLAYERS_PLOT": {
+    "ru": "Участок игроков:",
+    "ua": "Ділянка гравців:",
+    "en": "Players' site:"
+  },
+  "BUILDBATTLE_BOARD_PLAYER_PLOT": {
+    "ru": "Участок игрока:",
+    "ua": "Ділянка гравців:",
+    "en": "Player's site:"
+  },
+  "BUILDBATTLE_BOARD_THEME": {
+    "ru": "Выбранная тема:",
+    "ua": "Обрана тема:",
+    "en": "Selected theme:"
+  },
+  "BUILDBATTLE_BOARD_VOTING": {
+    "ru": "Идет голосование",
+    "ua": "Триває голосування",
+    "en": "Voting is in progress"
+  },
+  "BUILDBATTLE_BOARD_VOTING_1": {
+    "ru": "за тему постройки",
+    "ua": "за тему споруди",
+    "en": "for the topic of construction"
+  },
+  "BUILDBATTLE_BOARD_WORD": {
+    "ru": "Задание:",
+    "ua": "Завдання:",
+    "en": "Task:"
+  },
+  "BUILDBATTLE_BUILDINGS_THEME_LORE": {
+    "ru": [
+      "§7Множество зданий и построек!",
+      "§7Рекомендуется всем начинающим архитекторам ⇩"
+    ],
+    "ua": [
+      "§7Безліч будівель і споруд!",
+      "§7Рекомендується всім початківцям-архітекторам ⇩"
+    ],
+    "en": [
+      "§7Many buildings and structures!",
+      "§7Recommended for all budding architects ⇩"
+    ]
+  },
+  "BUILDBATTLE_BUILDINGS_THEME_NAME": {
+    "ru": "Постройки",
+    "ua": "Споруди",
+    "en": "Constructions"
+  },
+  "BUILDBATTLE_BUILDING_COUNTDOWN": {
+    "ru": "§cОсталось %s %s",
+    "ua": "§cЗалишилось %s %s",
+    "en": "§cTime left %s %s"
+  },
+  "BUILDBATTLE_BUILDING_COUNTDOWN_CHAT": {
+    "ru": "Голосование начнется через §a%s §f%s",
+    "ua": "Голосування розпочнеться через §a%s §f%s",
+    "en": "Voting will start in §a%s §f%s"
+  },
+  "BUILDBATTLE_BUILDING_END_PLACE": {
+    "ru": "§fВы заняли §a%s §fместо §7(%s очков)",
+    "ua": "§fВи посіли §a%s §fмісце §7(%s очок)",
+    "en": "§fYou took §a%s §fplace §7(%s points)"
+  },
+  "BUILDBATTLE_BUILDING_END_POINTS": {
+    "ru": "§fВаша постройка набрала §a%s §fочков",
+    "ua": "§fВаша споруда набрала §a%s §fочок",
+    "en": "§fYour construction has scored §a%s §fpoints"
+  },
+  "BUILDBATTLE_BUILD_TIME_END": {
+    "ru": "Время вышло. Начинается голосование за лучшую постройку!",
+    "ua": "Час вийшов. Починається голосування за кращу споруду!",
+    "en": "Time's out. Vo  ting for the best construction begins!"
+  },
+  "BUILDBATTLE_CANT_CLEAR": {
+    "ru": [
+      " ",
+      "§c► Все участники должны подтвердить",
+      "  §cпредыдущий запрос на очистку"
+    ],
+    "ua": [
+      " ",
+      "§c► Всі учасники повинні підтвердити",
+      "  §cпопередній запит на очистку"
+    ],
+    "en": [
+      " ",
+      "§c► All participants must confirm",
+      "  §cthe previous cleanup request"
+    ]
+  },
+  "BUILDBATTLE_CHARACTER_THEME_LORE": {
+    "ru": [
+      "§7Человек-Паук, Супермен, Волшебник?",
+      "§7а может быть.. пожарный и ковбой? ⇩"
+    ],
+    "ua": [
+      "§7Людина-Павук, Супермен, Чарівник?",
+      "§7а може бути .. пожежний і ковбой? ⇩"
+    ],
+    "en": [
+      "§7Spider-Man, Superman, Wizard?",
+      "§7or maybe .. fireman and cowboy? ⇩"
+    ]
+  },
+  "BUILDBATTLE_CHARACTER_THEME_NAME": {
+    "ru": "Персонажи",
+    "ua": "Персонажі",
+    "en": "Characters"
+  },
+  "BUILDBATTLE_CLEAR_PLOT_CANCELLED": {
+    "ru": "§fНикто не запрашивал очистку участка",
+    "ua": "§fНіхто не запитував очистку ділянки",
+    "en": "§fNobody requested site cleanup"
+  },
+  "BUILDBATTLE_CLEAR_PLOT_CLICK_TO_CONFIRM": {
+    "ru": "§7Нажмите, чтобы подтвердить очистку участка",
+    "ua": "§7Натисніть, щоб підтвердити очищення ділянки",
+    "en": "§7Click to confirm the site clenup"
+  },
+  "BUILDBATTLE_CLEAR_PLOT_CLICK_TO_DECLINE": {
+    "ru": "§7Нажмите, чтобы отказаться",
+    "ua": "§7Натисніть, щоб відмовитися",
+    "en": "§7Click to decline"
+  },
+  "BUILDBATTLE_CLEAR_PLOT_LORE": {
+    "ru": [
+      " ",
+      "§7Полная очистка участка",
+      "§cВнимание! Вернуть удаленные",
+      "§cпостройки будет невозможно"
+    ],
+    "ua": [
+      " ",
+      "§7Повне очищення ділянки",
+      "§cУвага! повернути видалені",
+      "§cспоруди буде неможливо"
+    ],
+    "en": [
+      " ",
+      "§7Full site cleanup",
+      "§cAttention! Revert deleted",
+      "§cconstrions won't be possible"
+    ]
+  },
+  "BUILDBATTLE_CLEAR_PLOT_NOT_CONFIRMED": {
+    "ru": "§fВы отказались от очистки Вашего участка",
+    "ua": "§fВи відмовилися від очищення вашої ділянки",
+    "en": "§fYou have declined cleaning your site"
+  },
+  "BUILDBATTLE_CLEAR_PLOT_TITLE": {
+    "ru": "§cОчистить участок",
+    "ua": "§cОчистити ділянку",
+    "en": "§cClean the site"
+  },
+  "BUILDBATTLE_CLEAR_PLOT_WAITING": {
+    "ru": "§fПожалуйста, подождите, пока Ваш тиммейт ответит на запрос об очистке участка",
+    "ua": "§fБудь ласка, зачекайте, поки ваш тіммейто відповість на запит про очищення ділянки",
+    "en": "§fPlease, wait, until your teammate responds to a request to clean up the site"
+  },
+  "BUILDBATTLE_CLICK_TO_CLEAR": {
+    "ru": [
+      " ",
+      "§e► Нажмите, чтобы очистить участок"
+    ],
+    "ua": [
+      " ",
+      "§e► Натисніть, щоб очистити ділянку"
+    ],
+    "en": [
+      " ",
+      "§e► Click to clean the site"
+    ]
+  },
+  "BUILDBATTLE_CLOTHES_THEME_LORE": {
+    "ru": [
+      "§7Содержит модные, и не очень,",
+      "§7вещи всех разновидностей ⇩"
+    ],
+    "ua": [
+      "§7Містить модні, і не дуже,",
+      "§7речі всіх різновидів ⇩"
+    ],
+    "en": [
+      "§7Includes trendy, and not very much so,",
+      "§7things of all kinds ⇩"
+    ]
+  },
+  "BUILDBATTLE_CLOTHES_THEME_NAME": {
+    "ru": "Одежда",
+    "ua": "Одяг",
+    "en": "Cloths"
+  },
+  "BUILDBATTLE_COLOR_HEADS": {
+    "ru": "Цвета",
+    "ua": "Кольори",
+    "en": "Colors"
+  },
+  "BUILDBATTLE_DUO_TYPE": {
+    "ru": "§eBuildBattle Doubles",
+    "ua": "§eBuildBattle Doubles",
+    "en": "§eBuildBattle Doubles"
+  },
+  "BUILDBATTLE_EFFECT_ADDED": {
+    "ru": "§fВы добавили эффект §e%s §fна участок",
+    "ua": "§fВи додали ефект §e%s §fна ділянку",
+    "en": "§fYou added the effect §e%s §fon the site"
+  },
+  "BUILDBATTLE_ELECTRONIC_THEME_LORE": {
+    "ru": [
+      "§7Электирические и цифровые приборы",
+      "§7Строго 6+! ⇩"
+    ],
+    "ua": [
+      "§7Електричні і цифрові прилади",
+      "§7Строго 6+! ⇩"
+    ],
+    "en": [
+      "§7Electrical and digital devices",
+      "§7Strictly 6+! ⇩"
+    ]
+  },
+  "BUILDBATTLE_ELECTRONIC_THEME_NAME": {
+    "ru": "Техника",
+    "ua": "Техніка",
+    "en": "Technologies"
+  },
+  "BUILDBATTLE_FLOOR_LIMIT_REACHED": {
+    "ru": [
+      " ",
+      "§c► Достигнут лимит блоков (21)"
+    ],
+    "ua": [
+      " ",
+      "§c► Досягнуто ліміт блоків (21)"
+    ],
+    "en": [
+      " ",
+      "§c► Blocks limit reached (21)"
+    ]
+  },
+  "BUILDBATTLE_FLOOR_MENU_LORE": {
+    "ru": [
+      " ",
+      "§7Выбор материалов, которыми будет",
+      "§7заменен весь пол на Вашем участке",
+      " ",
+      "§e► Нажмите, чтобы изменить материалы"
+    ],
+    "ua": [
+      " ",
+      "§7Вибір матеріалів, якими буде",
+      "§7замінена вся підлога на вашій ділянці",
+      " ",
+      "§e► Натисніть, щоб змінити матеріали"
+    ],
+    "en": [
+      " ",
+      "§7Select materials which will",
+      "§7cove rthe floor on your site",
+      " ",
+      "§e► Click to change materials"
+    ]
+  },
+  "BUILDBATTLE_FLOOR_MENU_TITLE": {
+    "ru": "Изменение материалов пола",
+    "ua": "Зміна матеріалів підлоги",
+    "en": "Floor materials change"
+  },
+  "BUILDBATTLE_FOOD_HEADS": {
+    "ru": "Еда",
+    "ua": "Їжа",
+    "en": "Food"
+  },
+  "BUILDBATTLE_FOOD_THEME_LORE": {
+    "ru": [
+      "§7Любите поесть, или же вы кулинар?",
+      "§7Тогда вам лучше обойти эту тему стороной.. ⇩"
+    ],
+    "ua": [
+      "§7Любите поїсти, або ж ви кулінар?",
+      "§7Тоді вам краще обійти цю тему стороною.. ⇩"
+    ],
+    "en": [
+      "§7Do you like to eat, or are you a culinary specialist?",
+      "§7Then you better get around this topic... ⇩"
+    ]
+  },
+  "BUILDBATTLE_FOOD_THEME_NAME": {
+    "ru": "Еда",
+    "ua": "Їжа",
+    "en": "Еда"
+  },
+  "BUILDBATTLE_FURNITURE_THEME_LORE": {
+    "ru": [
+      "§7То, что есть почти у каждого в комнате:",
+      "§7кровать, диван и многое другое ⇩"
+    ],
+    "ua": [
+      "§7Те, що є майже у кожного в кімнаті:",
+      "§7ліжко, диван і багато іншого ⇩"
+    ],
+    "en": [
+      "§7What almost everyone has in the room:",
+      "§7a bed, a sofa and more ⇩"
+    ]
+  },
+  "BUILDBATTLE_FURNITURE_THEME_NAME": {
+    "ru": "Мебель",
+    "ua": "Меблі",
+    "en": "Furniture"
+  },
+  "BUILDBATTLE_GAMES_HEADS": {
+    "ru": "Игры",
+    "ua": "Ігри",
+    "en": "Games"
+  },
+  "BUILDBATTLE_GET_HEAD_LORE": {
+    "ru": [
+      " ",
+      "§e► Нажмите, чтобы получить голову"
+    ],
+    "ua": [
+      " ",
+      "§e► Натисніть, щоб отримати голову"
+    ],
+    "en": [
+      " ",
+      "§e► Click to receive a head"
+    ]
+  },
+  "BUILDBATTLE_HEADS_MENU_LORE": {
+    "ru": [
+      " ",
+      "§7Широкий выбор самых разных голов",
+      "§7для украшения вашего участка",
+      " ",
+      "§e► Нажмите, чтобы открыть меню голов"
+    ],
+    "ua": [
+      " ",
+      "§7Широкий вибір самих різних голів",
+      "§7для прикраси вашої ділянки",
+      " ",
+      "§e► Натисніть, щоб відкрити меню голів"
+    ],
+    "en": [
+      " ",
+      "§7Wide range of different heads",
+      "§7for decorating your site",
+      " ",
+      "§e► Click to open the head menu"
+    ]
+  },
+  "BUILDBATTLE_HEADS_MENU_TITLE": {
+    "ru": "Головы",
+    "ua": "Голови",
+    "en": "Heads"
+  },
+  "BUILDBATTLE_ITEMS_THEME_LORE": {
+    "ru": [
+      "§7То, что окружает нас в повседневности",
+      "§7Или что не окружает.."
+    ],
+    "ua": [
+      "§7Те, що оточує нас в повсякденності",
+      "§7Або те, що не оточує.."
+    ],
+    "en": [
+      "§7What surrounds us in everyday life",
+      "§7Or doesn't.."
+    ]
+  },
+  "BUILDBATTLE_ITEMS_THEME_NAME": {
+    "ru": "Предметы",
+    "ua": "Предмети",
+    "en": "Items"
+  },
+  "BUILDBATTLE_MAX_PLOT_EFFECTS": {
+    "ru": "§cВы превысили максимальное число эффектов на Вашем участке",
+    "ua": "§cВи перевищили максимальну кількість ефектів на Вашому ділянці",
+    "en": "§cYou have exceeded the maximum number of effects on your site"
+  },
+  "BUILDBATTLE_MENU_ITEM_LORE": {
+    "ru": [
+      "§7Нажмите, чтобы открыть меню",
+      "§7управления Вашим участком",
+      "§7Там Вы сможете изменить материалы",
+      "§7пола, время, погоду, добавить эффекты",
+      "§7а также найти различные головы"
+    ],
+    "ua": [
+      "§7Натисніть, щоб відкрити меню",
+      "§7управління вашою ділянкою",
+      "§7Там ви зможете змінити матеріали",
+      "§7підлоги, час, погоду, додати ефекти",
+      "§7а також знайти різні голови"
+    ],
+    "en": [
+      "§7Click to open the control menu",
+      "§7for your site",
+      "§7There you can change materials",
+      "§7of the floor, time, weather, add effects",
+      "§7and also find different heads"
+    ]
+  },
+  "BUILDBATTLE_MENU_TITLE": {
+    "ru": "Управление участком",
+    "ua": "Управління ділянкою",
+    "en": "Site control"
+  },
+  "BUILDBATTLE_MOB_HEADS": {
+    "ru": "Мобы",
+    "ua": "Моби",
+    "en": "Mons"
+  },
+  "BUILDBATTLE_NATURE_THEME_LORE": {
+    "ru": [
+      "§7То, что создано, разрушено природой,",
+      "§7а также её различные проявления ⇩"
+    ],
+    "ua": [
+      "§7Те, що створено, зруйновано природою,",
+      "§7а також її різні прояви ⇩"
+    ],
+    "en": [
+      "§7What is created and destroyed by nature,",
+      "§7as well as its various manifestations ⇩"
+    ]
+  },
+  "BUILDBATTLE_NATURE_THEME_NAME": {
+    "ru": "Природа",
+    "ua": "Природа",
+    "en": "Nature"
+  },
+  "BUILDBATTLE_OTHER_HEADS": {
+    "ru": "Прочее",
+    "ua": "Інше",
+    "en": "Other"
+  },
+  "BUILDBATTLE_PARTICLES_MENU_LORE": {
+    "ru": [
+      " ",
+      "§7Управление различными эффектами",
+      "§7на Вашем участке",
+      " ",
+      "§e► ЛКМ, чтобы открыть меню эффектов",
+      "§e► ПКМ, чтобы управлять активными эффектами"
+    ],
+    "ua": [
+      " ",
+      "§7Управління різними ефектами",
+      "§7на вашій ділянці",
+      " ",
+      "§e► ЛКМ, щоб відкрити меню ефектів",
+      "§e► ПКМ, щоб управляти активними ефектами"
+    ],
+    "en": [
+      " ",
+      "§7Various effect control",
+      "§7on your site",
+      " ",
+      "§e► LMC to open the effect menu",
+      "§e► RMC to control active effects"
+    ]
+  },
+  "BUILDBATTLE_PARTICLES_MENU_TITLE": {
+    "ru": "Эффекты",
+    "ua": "Ефекти",
+    "en": "Effects"
+  },
+  "BUILDBATTLE_PLOT_CLEARED": {
+    "ru": "§fВаш участок очищен!",
+    "ua": "§fВаша ділянка очищена!",
+    "en": "§fYour site is cleared!"
+  },
+  "BUILDBATTLE_REJOIN_TITLE": {
+    "ru": "§aВы повторно вошли в игру на арене %s",
+    "ua": "§aВи повторно увійшли в гру на арені %s",
+    "en": "§aYou have re-entered the arena game %s"
+  },
+  "BUILDBATTLE_REMOVE_FLOOR_BLOCK_LORE": {
+    "ru": [
+      " ",
+      "§e► ПКМ, чтобы удалить материал"
+    ],
+    "ua": [
+      " ",
+      "§e► ПКМ, щоб видалити матеріал"
+    ],
+    "en": [
+      " ",
+      "§e► RMC to delete material"
+    ]
+  },
+  "BUILDBATTLE_REMOVE_PARTICLES_LORE": {
+    "ru": [
+      "§e► Нажмите, чтобы удалить эффект"
+    ],
+    "ua": [
+      "§e► Натисніть, щоб видалити ефект"
+    ],
+    "en": [
+      "§e► Click to delete the effect"
+    ]
+  },
+  "BUILDBATTLE_SHOW_HEADS_LORE": {
+    "ru": [
+      " ",
+      "§e► Нажмите, чтобы посмотреть головы"
+    ],
+    "ua": [
+      " ",
+      "§e► Натисніть, щоб подивитися голови"
+    ],
+    "en": [
+      " ",
+      "§e► Click to view heads"
+    ]
+  },
+  "BUILDBATTLE_SOLO_CLEAR_PLOT_CONFIRMATION": {
+    "ru": "§fВы действительно хотите очистить участок? Отменить это действие будет невозможно. ",
+    "ua": "§fВи дійсно хочете очистити ділянку? Скасувати цю дію буде неможливо. ",
+    "en": "§fDo you really want to clear the site? It will be impossible to undo this action.. "
+  },
+  "BUILDBATTLE_SOLO_TYPE": {
+    "ru": "§eBuildBattle Solo",
+    "ua": "§eBuildBattle Solo",
+    "en": "§eBuildBattle Solo"
+  },
+  "BUILDBATTLE_START_TITLE": {
+    "ru": "§7Тема постройки - §a%s",
+    "ua": "§7Тема споруди - §a%s",
+    "en": "§7Construction theme - §a%s"
+  },
+  "BUILDBATTLE_TEAM_CLEAR_PLOT_CONFIRMATION": {
+    "ru": "%s §fхочет очистить участок. Согласны ли Вы сделать это? ",
+    "ua": "%s §fхоче очистити ділянку. Чи згодні ви зробити це? ",
+    "en": "%s §fwants to clear the site. Do you agree to do this? "
+  },
+  "BUILDBATTLE_THEME_NOT_FOUND": {
+    "ru": "§cПроизошла ошибка при попытке выбрать слово для строительства.",
+    "ua": "§cСталася помилка під час спроби вибрати слово для будівництва.",
+    "en": "§cAn error occurred while trying to select a word for construction."
+  },
+  "BUILDBATTLE_THEME_VOTING_TITLE": {
+    "ru": "Голосование за тему постройки",
+    "ua": "Голосування за тему споруди",
+    "en": "Voting for the construction theme"
+  },
+  "BUILDBATTLE_TIME_CHANGED": {
+    "ru": "§fВремя изменено",
+    "ua": "§fЧас змінено",
+    "en": "§fTime is changed"
+  },
+  "BUILDBATTLE_TIME_DAY": {
+    "ru": "День",
+    "ua": "День",
+    "en": "Daylight"
+  },
+  "BUILDBATTLE_TIME_MENU_LORE": {
+    "ru": [
+      " ",
+      "§7Выбор времени, которое будет",
+      "§7закреплено на Вашем участке",
+      " ",
+      "§e► Нажмите, чтобы выбрать"
+    ],
+    "ua": [
+      " ",
+      "§7Вибір часу, який буде",
+      "§7закріплено на вашій ділянці",
+      " ",
+      "§e► Натисніть, щоб вибрати"
+    ],
+    "en": [
+      " ",
+      "§7Choose time which will be",
+      "§7on your site",
+      " ",
+      "§e► Click to choose"
+    ]
+  },
+  "BUILDBATTLE_TIME_MENU_TITLE": {
+    "ru": "Изменение времени",
+    "ua": "Зміна часу",
+    "en": "Time change"
+  },
+  "BUILDBATTLE_TIME_NIGHT": {
+    "ru": "Ночь",
+    "ua": "Ніч",
+    "en": "Night"
+  },
+  "BUILDBATTLE_TIME_SELECTED_LORE": {
+    "ru": [
+      "§c► Время уже выбрано"
+    ],
+    "ua": [
+      "§c► Час вже обраний"
+    ],
+    "en": [
+      "§c► Time is already selected"
+    ]
+  },
+  "BUILDBATTLE_TIME_SELECTION_LORE": {
+    "ru": [
+      "§e► Нажмите, чтобы выбрать время"
+    ],
+    "ua": [
+      "§e► Натисніть, щоб обрати час"
+    ],
+    "en": [
+      "§e► Click to choose the time"
+    ]
+  },
+  "BUILDBATTLE_TIME_SUNRISE": {
+    "ru": "Восход",
+    "ua": "Схід",
+    "en": "Dawn"
+  },
+  "BUILDBATTLE_TIME_SUNSET": {
+    "ru": "Закат",
+    "ua": "Захід",
+    "en": "Dusk"
+  },
+  "BUILDBATTLE_TIME_WORLD_TIME": {
+    "ru": "Сбросить настройки времени",
+    "ua": "Скинути настройки часу",
+    "en": "Reset time settings"
+  },
+  "BUILDBATTLE_TOYS_THEME_LORE": {
+    "ru": [
+      "§7Игрушечные машинки, мишки и",
+      "§7другие детские мечты ⇩"
+    ],
+    "ua": [
+      "§7Іграшкові машинки, ведмедики і",
+      "§7інші дитячі мрії ⇩"
+    ],
+    "en": [
+      "§7Toy cars, teddy bears and",
+      "§7other childhood dreams ⇩"
+    ]
+  },
+  "BUILDBATTLE_TOYS_THEME_NAME": {
+    "ru": "Игрушки",
+    "ua": "Іграшки",
+    "en": "Toys"
+  },
+  "BUILDBATTLE_TRANSPORT_THEME_LORE": {
+    "ru": [
+      "§7Автомобили, мотоциклы, вертолёты, а также",
+      "§7прочие прелести современности и не только ⇩"
+    ],
+    "ua": [
+      "§7Автомобілі, мотоцикли, вертольоти, а також",
+      "§7інші принадності сучасності і не тільки ⇩"
+    ],
+    "en": [
+      "§7Cars, motorcycles, helicopters, and",
+      "§7other delights of our time and not only ⇩"
+    ]
+  },
+  "BUILDBATTLE_TRANSPORT_THEME_NAME": {
+    "ru": "Транспорт",
+    "ua": "Транспорт",
+    "en": "Transport"
+  },
+  "BUILDBATTLE_VOTING_END_BAR": {
+    "ru": "§eДо окончания голосования за этот участок осталось §c%sс",
+    "ua": "§eДо закінчення голосування за цю ділянку залишилося §c%sс",
+    "en": "§eUntil the end of voting for this site, there are §c%sс"
+  },
+  "BUILDBATTLE_VOTING_PLAYERS": {
+    "ru": "§7Участок %s",
+    "ua": "§7Ділянка %s",
+    "en": "§7Site %s"
+  },
+  "BUILDBATTLE_VOTING_STARTED": {
+    "ru": "§aГолосование началось",
+    "ua": "§aГолосування розпочалось",
+    "en": "§aVoting has started"
+  },
+  "BUILDBATTLE_WEATHER_CHANGED": {
+    "ru": "§fПогода изменена",
+    "ua": "§fПогода змінена",
+    "en": "§fWeather is changed"
+  },
+  "BUILDBATTLE_WEATHER_MENU_LORE": {
+    "ru": [
+      " ",
+      "§7Выбор погоды, которая будет",
+      "§7на Вашем участке",
+      " ",
+      "§e► Нажмите, чтобы выбрать"
+    ],
+    "ua": [
+      " ",
+      "§7Вибір погоди, яка буде",
+      "§7на вашій ділянці",
+      " ",
+      "§e► Натисніть, щоб вибрати"
+    ],
+    "en": [
+      " ",
+      "§7Select weather which will be",
+      "§7on your site",
+      " ",
+      "§e► Click to choose"
+    ]
+  },
+  "BUILDBATTLE_WEATHER_MENU_TITLE": {
+    "ru": "Смена погоды",
+    "ua": "Зміна погоди",
+    "en": "Weather change"
+  },
+  "BUILDBATTLE_WEATHER_RAINY": {
+    "ru": "Дождь",
+    "ua": "Дощ",
+    "en": "Rain"
+  },
+  "BUILDBATTLE_WEATHER_SELECTED_LORE": {
+    "ru": [
+      "§c► Погода уже выбрана"
+    ],
+    "ua": [
+      "§c► Погода вже обрана"
+    ],
+    "en": [
+      "§c► Weather is chosen"
+    ]
+  },
+  "BUILDBATTLE_WEATHER_SELECTION_LORE": {
+    "ru": [
+      "§e► Нажмите, чтобы выбрать погоду"
+    ],
+    "ua": [
+      "§e► Натисніть, щоб вибрати погоду"
+    ],
+    "en": [
+      "§e► Click to choose weather"
+    ]
+  },
+  "BUILDBATTLE_WEATHER_SNOWY": {
+    "ru": "Снег",
+    "ua": "Сніг",
+    "en": "Snow"
+  },
+  "BUILDBATTLE_WEATHER_SUNNY": {
+    "ru": "Солнечно",
+    "ua": "Сонячно",
+    "en": "Sunny"
+  },
+  "BUILDBATTLE_WORLDS_THEME_LORE": {
+    "ru": [
+      "§7Предметы, постройки и существа",
+      "§7из других миров: ада, рая и края ⇩"
+    ],
+    "ua": [
+      "§7Предмети, споруди та істоти",
+      "§7з інших світів: пекла, раю і краю ⇩"
+    ],
+    "en": [
+      "§7Items, buildings and creatures",
+      "§7from other worlds: hell, heaven and lands ⇩"
+    ]
+  },
+  "BUILDBATTLE_WORLDS_THEME_NAME": {
+    "ru": "Иные миры",
+    "ua": "Інші світи",
+    "en": "Other worlds"
+  },
+  "CATEGORY_BB_EFFECT_LORE": {
+    "ru": [
+      " ",
+      "§7Хотите, чтобы Ваша постройка",
+      "§7выглядела эффектно? Приобретайте",
+      "§7эффекты, которые Вы сможете использовать",
+      "§7потом в игре!"
+    ],
+    "ua": [
+      " ",
+      "§7Хочете, щоб ваша споруда",
+      "§7виглядала ефектно? Купуйте",
+      "§7ефекти, які ви зможете використовувати",
+      "§7потім в грі!"
+    ],
+    "en": [
+      " ",
+      "§7Do you want your construction",
+      "§7to look spectacular? Purchase",
+      "§7effect which you'll be able to use",
+      "§7later on in the game!"
+    ]
+  },
+  "CATEGORY_BB_EFFECT_NAME": {
+    "ru": "Эффекты",
+    "ua": "Ефекти",
+    "en": "Effects"
+  },
+  "CATEGORY_BB_HEAD_LORE": {
+    "ru": [
+      " ",
+      "§7Широкий выбор различных,",
+      "§7голов, которые можно будет",
+      "§7использовать при строительстве",
+      "§7в игре"
+    ],
+    "ua": [
+      " ",
+      "§7Широкий вибір різних",
+      "§7голів, які можна буде",
+      "§7використовувати при будівництві",
+      "§7в грі"
+    ],
+    "en": [
+      " ",
+      "§7A wide range of different,",
+      "§7heads which can be",
+      "§7used while constructing",
+      "§7in the game"
+    ]
+  },
+  "CATEGORY_BB_HEAD_NAME": {
+    "ru": "Головы",
+    "ua": "Голови",
+    "en": "Heads"
+  },
+  "GOOD_VOTING_ITEM": {
+    "ru": "§aХорошо",
+    "ua": "§aДобре",
+    "en": "§aGood"
+  },
+  "GOOD_VOTING_ITEM_LORE": {
+    "ru": [
+      "§7Нажмите, чтобы поставить оценку",
+      "§aхорошо"
+    ],
+    "ua": [
+      "§7Натисніть, щоб поставити оцінку",
+      "§aдобре"
+    ],
+    "en": [
+      "§7Click to rate as",
+      "§agood"
+    ]
+  },
+  "NORMAL_VOTING_ITEM": {
+    "ru": "§eНормально",
+    "ua": "§eНормально",
+    "en": "§eOkay"
+  },
+  "NORMAL_VOTING_ITEM_LORE": {
+    "ru": [
+      "§7Нажмите, чтобы поставить оценку",
+      "§eнормально"
+    ],
+    "ua": [
+      "§7Натисніть, щоб поставити оцінку",
+      "§eнормально"
+    ],
+    "en": [
+      "§7Click to rate as",
+      "§eokay"
+    ]
+  },
+  "VERY_BAD_VOTING_ITEM": {
+    "ru": "§4Отвратительно",
+    "ua": "§4Огидно",
+    "en": "§4Awful"
+  },
+  "VERY_BAD_VOTING_ITEM_LORE": {
+    "ru": [
+      "§7Нажмите, чтобы поставить оценку",
+      "§4отвратительно"
+    ],
+    "ua": [
+      "§7Натисніть, щоб поставити оцінку",
+      "§4огидно"
+    ],
+    "en": [
+      "§7Click to rate as",
+      "§4awful"
+    ]
+  },
+  "VERY_GOOD_VOTING_ITEM": {
+    "ru": "§2Отлично",
+    "ua": "§2Відмінно",
+    "en": "§2Excellent"
+  },
+  "VERY_GOOD_VOTING_ITEM_LORE": {
+    "ru": [
+      "§7Нажмите, чтобы поставить оценку",
+      "§2отлично"
+    ],
+    "ua": [
+      "§7Натисніть, щоб поставити оцінку",
+      "§2відмінно"
+    ],
+    "en": [
+      "§7Click to rate as",
+      "§2excellent"
+    ]
+  }
 }

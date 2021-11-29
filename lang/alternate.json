@@ -1,2981 +1,2981 @@
 {
-    "ALTERNATE_GUI_NAME": {
-        "ru": "Меню",
-        "ua": "Меню",
-        "en": "Menu"
-    },
-    "AUCTION_ACCEPT_ALL_LORE": {
-        "ru": [
-            "",
-            "§e▸ Нажмите, чтобы подвердить"
-        ],
-        "ua": [
-            "",
-            "§e▸ Натисніть, щоб підтвердити"
-        ],
-        "en": [
-            "",
-            "§e▸ Click to confirm"
-        ]
-    },
-    "AUCTION_ACCEPT_WAIT_LORE": {
-        "ru": [
-            "",
-            "§7Вложите предметы в верхние слоты",
-            "§7чтобы выставить их на продажу"
-        ],
-        "ua": [
-            "",
-            "§7Вкладіть предмети в верхні слоти",
-            "§7щоб виставити їх на продаж"
-        ],
-        "en": [
-            "",
-            "§7Place items in the top slots",
-            "§7to put them up for sale"
-        ]
-    },
-    "AUCTION_ADD_TO_SELL": {
-        "ru": "Предмет §7%s §fбыл выложен на продажу за §a%s",
-        "ua": "§6Аукціон §8| §fПредмет §7%s §fбув викладений на продаж за§a%s",
-        "en": "§6Auction §8| §fItem §7%s §fhas been put up for sale for §a%s"
-    },
-    "AUCTION_ADD_TO_SELL_ERROR": {
-        "ru": "$AUCTION_PREFIX$Ошибка, в вашей руке недостаточное кол-во предметов",
-        "ua": "§6Аукціон §8| §fПомилка, у вашій руці недостатня кількість предметів",
-        "en": "§6Auction §8| §fError, there are nor enough items in your hand"
-    },
-    "AUCTION_BUY": {
-        "ru": "$AUCTION_PREFIX$Вы успешно купили §7%s §fx §7%s §fза §a%s$",
-        "ua": "§6Аукціон §8| §fВи успішно купили §7%s §fx §7%s §fза §a%s$",
-        "en": "§6Auction §8| §fYou have successfuly bought §7%s §fx §7%s §ffor §a%s$"
-    },
-    "AUCTION_BUY_GUI_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7Продавец: %s",
-            "",
-            "§e▸ Нажмите, чтобы купить"
-        ],
-        "ua": [
-            "",
-            "§7Продавець: %s",
-            "",
-            "§e▸ Натисніть, щоб купити"
-        ],
-        "en": [
-            "",
-            "§7ПSeller: %s",
-            "",
-            "§e▸ Click to purchase"
-        ]
-    },
-    "AUCTION_BUY_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7То, что вы покупаете"
-        ],
-        "ua": [
-            "",
-            "§7Те, що ви купуєте"
-        ],
-        "en": [
-            "",
-            "§7What you are buying"
-        ]
-    },
-    "AUCTION_BUY_PRICE_LORE": {
-        "ru": [
-            "",
-            "§7То, что вы отдаете"
-        ],
-        "ua": [
-            "",
-            "§7Те, що ви віддаєте"
-        ],
-        "en": [
-            "",
-            "§7What you are giving"
-        ]
-    },
-    "AUCTION_BUY_SELLER": {
-        "ru": "$AUCTION_PREFIX$Игрок %s §fкупил у вас §7%s §fx §7%s §fза §a%s",
-        "ua": "§6Аукціон §8| §fГравець %s §fкупив у вас §7%s §fx §7%s §fза §a%s",
-        "en": "§6Auction §8| §fPlayer %s §fbought your §7%s §fx §7%s §ffor §a%s"
-    },
-    "AUCTION_BUY_YOU_ERROR": {
-        "ru": "$AUCTION_PREFIX$Ошибка, вы не можете купить сами у себя...",
-        "ua": "§6Аукціон §8| §fПомилка, ви не можете купити самі у себе...",
-        "en": "§6Auction §8| §fError, you cannot buy from yourself..."
-    },
-    "AUCTION_CATEGORY_LORE": {
-        "ru": [
-            "",
-            "§7В данный момент вы включили",
-            "§7отображение предметов - §f%s",
-            "",
-            "§e▸ Нажмите, чтобы сменить категорию"
-        ],
-        "ua": [
-            "",
-            "§7В даний момент ви ввімкнули",
-            "§7відображення предметів - §f%s",
-            "",
-            "§e▸ Натисніть, щоб змінити категорію"
-        ],
-        "en": [
-            "",
-            "§7At this point, you have enabled",
-            "§7display items - §f%s",
-            "",
-            "§e▸ Click to change category"
-        ]
-    },
-    "AUCTION_CATEGORY_NAME": {
-        "ru": "Текующая категория предметов",
-        "ua": "Поточна категорія предметів",
-        "en": "Current Item Category"
-    },
-    "AUCTION_CHEST_AVAILABLE_LORE": {
-        "ru": [
-            "",
-            "§e▸ Нажмите, чтобы снять с продажи"
-        ],
-        "ua": [
-            "",
-            "§e▸ Натисніть, щоб зняти з продажу"
-        ],
-        "en": [
-            "",
-            "§e▸ Click to withdraw from sale"
-        ]
-    },
-    "AUCTION_CHEST_NOT_AVAILABLE_LORE": {
-        "ru": [
-            "",
-            "§7Время истекло, предмет снят с продажи"
-        ],
-        "ua": [
-            "",
-            "§7Час минув, предмет знятий з продажу"
-        ],
-        "en": [
-            "",
-            "§7Time has expired, item has been discontinued"
-        ]
-    },
-    "AUCTION_CHEST_SELLED_LORE": {
-        "ru": [
-            "",
-            "§7То, что вы получили за",
-            "§7продажу §c%s"
-        ],
-        "ua": [
-            "",
-            "§7Те, що ви отримали за",
-            "§7продаж §c%s"
-        ],
-        "en": [
-            "",
-            "§7What you have received for",
-            "§7selling §c%s"
-        ]
-    },
-    "AUCTION_COMMAND_ERROR": {
-        "ru": "§cОшибка, цена предмета должна быть только числом",
-        "ua": "§cПомилка, ціна предмета повинна бути тільки числом",
-        "en": "§cError, item price should only be a number"
-    },
-    "AUCTION_COMMAND_ERROR1": {
-        "ru": "§cОшибка, цена и кол-во предмета не может быть равна 0",
-        "ua": "§cПомилка, ціна і кількість предмета не може дорівнювати 0",
-        "en": "§cError, the price and quantity of an item cannot be equal to 0"
-    },
-    "AUCTION_COMMAND_ERROR2": {
-        "ru": "§cОшибка, кол-во предметов для продажи должно быть числом",
-        "ua": "§cПомилка, кількість предметів для продажу повинна бути числом",
-        "en": "§cError, the number of items to sell must be a number"
-    },
-    "AUCTION_COMMAND_ERROR3": {
-        "ru": "§cОшибка, вы не можете продать данный айтем пока он находится во 2й руке",
-        "ua": "§cПомилка, ви не можете продати даний айтем поки він знаходиться у 2й руці",
-        "en": "§cError, you cannot sell this item while it is in your second hand"
-    },
-    "AUCTION_COMMAND_HELP": {
-        "ru": [
-            "§7/ah §f- открыть аукцион",
-            "§7/ah sell <цена> [кол-во] §f- выставить предметы в руке на продажу",
-            "§7/ah show <ник игрока> §f- посмотреть продаевые предметы этим игроком"
-        ],
-        "ua": [
-            "§7/ah §f- відкрити аукціон",
-            "§7/ah sell <ціна> [кол-во] §f- виставити предмети в руці на продаж",
-            "§7/ah show <нік гравця> §f- подивитися предмети, що продає цей гравець"
-        ],
-        "en": [
-            "§7/ah §f- open an auction",
-            "§7/ah sell <price> [amount] §f- put items in hand for sale",
-            "§7/ah show <player's nickname> §f- view items being sold by this player"
-        ]
-    },
-    "AUCTION_CONFIRMED_GUI": {
-        "ru": "Подтверждение покупки",
-        "ua": "Підтвердження покупки",
-        "en": "Confirmation of purchase"
-    },
-    "AUCTION_CONFIRMED_GUI_LORE": {
-        "ru": [
-            "",
-            "§7Вы уверены, что хотите",
-            "§7купить §f%s §7x §f%s ",
-            "§7за §a%s$ §7у игрока %s",
-            ""
-        ],
-        "ua": [
-            "",
-            "§7Ви впевнені, що хочете",
-            "§7купити §f%s §7x §f%s ",
-            "§7за §a%s$ §7у гравця %s",
-            ""
-        ],
-        "en": [
-            "",
-            "§7ВAre you sure you want to",
-            "§7buy §f%s §7x §f%s ",
-            "§7for §a%s$ §7from player %s",
-            ""
-        ]
-    },
-    "AUCTION_FORMAT": {
-        "ru": "/ah buy <цена> [кол-во]",
-        "ua": "/ah buy <ціна> [кіл-сть]",
-        "en": "/ah buy <price> [amount]"
-    },
-    "AUCTION_GUI_BUY_NAME": {
-        "ru": "Покупка",
-        "ua": "Покупка",
-        "en": "Purchase"
-    },
-    "AUCTION_GUI_NAME": {
-        "ru": "Мои предметы",
-        "ua": "Мої предмети",
-        "en": "My items"
-    },
-    "AUCTION_GUI_SELL_NAME": {
-        "ru": "Продажа",
-        "ua": "Продаж",
-        "en": "Sell"
-    },
-    "AUCTION_ITEM_ALLREADY_SELLED": {
-        "ru": "$AUCTION_PREFIX$Ошибка, предмет был продан, сожалеем...",
-        "ua": "§6Аукціон §8| §fПомилка, предмет був проданий, шкодуємо...",
-        "en": "§6Auction §8| §fError, the item has been sold, sorry..."
-    },
-    "AUCTION_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7Данный предмет продает",
-            "§a%s §7%s",
-            "",
-            "§e▸ Нажмите, чтобы купить"
-        ],
-        "ua": [
-            "",
-            "§7Даний предмет продає",
-            "§a%s §7%s",
-            "",
-            "§e▸ Натисніть, щоб купити"
-        ],
-        "en": [
-            "",
-            "§7This item is being sold by",
-            "§a%s §7%s",
-            "",
-            "§e▸ Click to purchase"
-        ]
-    },
-    "AUCTION_LIMIT_ERROR": {
-        "ru": "$AUCTION_PREFIX$Ошибка, у вас превышен лимит на кол-во активных предметов. Ваш текущий лимит §a%s §fпредметов",
-        "ua": "§6Аукціон §8| §fПомилка, у вас перевищений ліміт на кількість активних предметів. Ваш поточний ліміт §a%s §fпредметів",
-        "en": "§6Auction §8| §fError, you have exceeded the limit on the number of active items. Your current item is §a%s §fitems"
-    },
-    "AUCTION_LORE_ITEM": {
-        "ru": [
-            "",
-            "§7Продавец: %s",
-            "§7Цена: §a%s$",
-            "§7Истекает через:",
-            "§c%s",
-            "",
-            "§e▸ ЛКМ, чтобы купить",
-            "§e▸ ПКМ, чтобы открыть все товары продавца"
-        ],
-        "ua": [
-            "",
-            "§7Продавець: %s",
-            "§7Ціна: §a%s$",
-            "§7Завершується через:",
-            "§c%s",
-            "",
-            "§e▸ ЛКМ, щоб купити",
-            "§e▸ ПКМ, щоб відкрити всі товари продавця"
-        ],
-        "en": [
-            "",
-            "§7Seller: %s",
-            "§7Price: §a%s$",
-            "§7Expires in:",
-            "§c%s",
-            "",
-            "§e▸ LMC to purchase",
-            "§e▸ RMC to open all items of the seller"
-        ]
-    },
-    "AUCTION_LORE_MYGUI": {
-        "ru": [
-            "",
-            "§7Цена продажи: §a%s$",
-            "§7Истекает через:",
-            "§c%s",
-            "",
-            "§e▸ ПКМ, чтобы снять с торгов"
-        ],
-        "ua": [
-            "",
-            "§7Ціна продажу: §a%s$",
-            "§7Завершується через:",
-            "§c%s",
-            "",
-            "§e▸ ПКМ, щоб зняти з торгів"
-        ],
-        "en": [
-            "",
-            "§7Price: §a%s$",
-            "§7Expires in:",
-            "§c%s",
-            "",
-            "§e▸ RMC to withdraw from the auction"
-        ]
-    },
-    "AUCTION_MAINGUI_NAME": {
-        "ru": "Аукцион",
-        "ua": "Аукціон",
-        "en": "Auction"
-    },
-    "AUCTION_MAIN_CHEST_LORE": {
-        "ru": [
-            "",
-            "§7Забрать ваши предметы с аукциона",
-            "§7или получить обменные товары",
-            "§7за ваши предметы",
-            "",
-            "§e▸ Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "",
-            "§7Забрати ваші предмети з аукціону",
-            "§7або отримати обмінні товари",
-            "§7за ваші предмети",
-            "",
-            "§e▸ Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "",
-            "§7Withdraw your items from the auction",
-            "§7or receive exchange items",
-            "§7for your items",
-            "",
-            "§e▸ Click to open"
-        ]
-    },
-    "AUCTION_MAIN_HELP_LORE": {
-        "ru": [
-            "",
-            "§7В первом разделе вы можете продавать",
-            "§7любые вещи за ресурсы, которые вам необходимы",
-            "",
-            "§7Второй раздел в меню отвечает",
-            "§7за покупку любых товаров, которые",
-            "§7были заранее выставлены на продажу",
-            "§7другими игроками",
-            "",
-            "§7С помощью третьего раздела вы можете",
-            "§7забрать ваши не проданные или купленные вещи"
-        ],
-        "ua": [
-            "",
-            "§7У першому розділі ви можете продавати",
-            "§7будь-які речі за ресурси, які вам необхідні",
-            "",
-            "§7Другий розділ в меню відповідає",
-            "§7за покупку будь-яких товарів, які",
-            "§7були заздалегідь виставлені на продаж",
-            "§7іншими гравцями",
-            "",
-            "§7За допомогою третього розділу ви можете",
-            "§7забрати ваші не продані або куплені речі"
-        ],
-        "en": [
-            "",
-            "§7In the first section, you can sell",
-            "§7any things for the resources you need",
-            "",
-            "§7The second section in the menu is responsible",
-            "§7for purchase of any goods that",
-            "§7were put up for sale in advance",
-            "§7by other players",
-            "",
-            "§7With the third section, you can",
-            "§7withdraw your unsold or purchased items"
-        ]
-    },
-    "AUCTION_MAIN_LORE": {
-        "ru": [
-            "",
-            "§7Покупка предметов",
-            "§7выставленных на аукцион",
-            "",
-            "§7В данный момент продается",
-            "§c%s §7товаров",
-            "",
-            "§e▸ Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "",
-            "§7Купівля предметів",
-            "§7виставлених на аукціон",
-            "",
-            "§7В даний момент продається",
-            "§c%s §7товарів",
-            "",
-            "§e▸ Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "",
-            "§7Buying items",
-            "§7put up for auction",
-            "",
-            "§7At present there are",
-            "§c%s §7items being sold",
-            "",
-            "§e▸ Click to open"
-        ]
-    },
-    "AUCTION_MAIN_SELL_LORE": {
-        "ru": [
-            "",
-            "§7Выложить на продажу ваши",
-            "§7вещи и предметы",
-            "",
-            "§e▸ Нажмите, чтобы продать"
-        ],
-        "ua": [
-            "",
-            "§7Викласти на продаж ваші",
-            "§7речі і предмети",
-            "",
-            "§e▸ Натисніть, щоб продати"
-        ],
-        "en": [
-            "",
-            "§7Put up for sale your",
-            "§7things and items",
-            "",
-            "§e▸ Click to sell"
-        ]
-    },
-    "AUCTION_MYGUI_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7Открыть список моих товаров,",
-            "§7которые выставленны на торги",
-            "",
-            "§e▸ Нажмите, чтобы открыть список"
-        ],
-        "ua": [
-            "",
-            "§7Відкрити список моїх товарів,",
-            "§7які виставлені на торги",
-            "",
-            "§e▸ Натисніть, щоб відкрити список"
-        ],
-        "en": [
-            "",
-            "§7Open the list of my goods,",
-            "§7which are put up for auction",
-            "",
-            "§e▸ Click to open the list"
-        ]
-    },
-    "AUCTION_MYGUI_ITEM_NAME": {
-        "ru": "§aМои товары",
-        "ua": "§aМої товари",
-        "en": "§aMy goods"
-    },
-    "AUCTION_NO_AUCTION": {
-        "ru": "Снят с продажи",
-        "ua": "Знятий з продажу",
-        "en": "Discontinued"
-    },
-    "AUCTION_NO_ITEMS_LORE": {
-        "ru": [
-            "",
-            "§7Кажется я ничего не нашел",
-            "§7или предметы отсутствуют"
-        ],
-        "ua": [
-            "",
-            "§7Здається, я нічого не знайшов",
-            "§7або предмети відсутні"
-        ],
-        "en": [
-            "",
-            "§7I don't seem to find anything",
-            "§7or the items are absent"
-        ]
-    },
-    "AUCTION_NO_ITEMS_NAME": {
-        "ru": "Ничего не найдено (",
-        "ua": "Нічого не знайдено (",
-        "en": "Nothing is found ("
-    },
-    "AUCTION_NO_MONEY": {
-        "ru": "$AUCTION_PREFIX$Ошибка, у вас недостаточно денег для покупки предмета",
-        "ua": "§6Аукціон §8| §fПомилка, у вас недостатньо грошей для покупки предмета",
-        "en": "§6Auction §8| §fError, you don't have enough money for buying the item"
-    },
-    "AUCTION_NO_RESOURCES_NAME": {
-        "ru": "§cУ вас недостаточно ресурсов!",
-        "ua": "§cУ вас недостатньо ресурсів!",
-        "en": "§cYou don't have enough resources!"
-    },
-    "AUCTION_PLAYERGUI_NAME": {
-        "ru": "Аукцион %s",
-        "ua": "Аукціон %s",
-        "en": "Auction %s"
-    },
-    "AUCTION_PREFIX": {
-        "ru": "§6Аукцион §8| §f"
-    },
-    "AUCTION_REMOVED_ITEM": {
-        "ru": "$AUCTION_PREFIX$Вы успешно сняли свой лот с аукциона",
-        "ua": "§6Аукціон §8| §fВи успішно зняли свій лот з аукціону",
-        "en": "§6Auction §8| §fYou have successfully withdrawn your item from the auction"
-    },
-    "AUCTION_SELECTED_BLOCK_LORE": {
-        "ru": [
-            "",
-            "§7Данный предмет будет в качестве цены"
-        ],
-        "ua": [
-            "",
-            "§7Даний предмет буде в якості ціни"
-        ],
-        "en": [
-            "",
-            "§7This item will be used as a price"
-        ]
-    },
-    "AUCTION_SELECT_BLOCK_GUI": {
-        "ru": "Выбор блока",
-        "ua": "Вибір блоку",
-        "en": "Block selection"
-    },
-    "AUCTION_SELECT_BLOCK_LORE": {
-        "ru": [
-            "",
-            "§e▸ Нажмите, чтобы выбрать данный предмет"
-        ],
-        "ua": [
-            "",
-            "§e▸ Натисніть, щоб вибрати даний предмет"
-        ],
-        "en": [
-            "",
-            "§e▸ Click to choose this item"
-        ]
-    },
-    "AUCTION_SELL_AIR": {
-        "ru": "$AUCTION_PREFIX$Ошибка, вы не можете продавать воздух (",
-        "ua": "§6Аукціон §8| §fПомилка, ви не можете продавати повітря (",
-        "en": "§6Auction §8| §fError, you can't sell air ("
-    },
-    "AUCTION_SELL_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7Вложите в этот слот предмет,",
-            "§7который хотите продать",
-            ""
-        ],
-        "ua": [
-            "",
-            "§7Вкладіть в цей слот предмет,",
-            "§7який хочете продати",
-            ""
-        ],
-        "en": [
-            "",
-            "§7Place in the slot an item,",
-            "§7which you want to sell",
-            ""
-        ]
-    },
-    "AUCTION_SELL_PRICE_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7Вложите в этот слот предмет,",
-            "§7который хотите получить после",
-            "§7или нажмите, чтобы открыть меню выбора",
-            ""
-        ],
-        "ua": [
-            "",
-            "§7Вкладіть в цей слот предмет,",
-            "§7який хочете отримати після",
-            "§7або натисніть, щоб відкрити меню вибору",
-            ""
-        ],
-        "en": [
-            "",
-            "§7Place in the slot an item,",
-            "§7which you want to receive",
-            "§7or click to open the selection menu",
-            ""
-        ]
-    },
-    "AUCTION_SHOW_ERROR": {
-        "ru": "$AUCTION_PREFIX$Ошибка, у игрока %s §fнет активных товаров для продажи",
-        "ua": "§6Аукціон §8| §fПомилка, у гравця %s §fнемає активних товарів для продажу",
-        "en": "§6Auction §8| §fError, player %s §fhas no active items for sales"
-    },
-    "AUCTION_SHOW_FORMAT": {
-        "ru": "/ah show <ник>",
-        "ua": "/ah show <нік>",
-        "en": "/ah show <nickname>"
-    },
-    "AUCTION_SUB_TYPE_LORE": {
-        "ru": [
-            "",
-            "§7Отсортировать все предметы",
-            "§7по данному типу",
-            "",
-            "§e▸ Нажмите, чтобы выбрать этот тип"
-        ],
-        "ua": [
-            "",
-            "§7Відсортувати всі предмети",
-            "§7за даним типом",
-            "",
-            "§e▸ Натисніть, щоб вибрати цей тип"
-        ],
-        "en": [
-            "",
-            "§7Sort all items",
-            "§7by this type",
-            "",
-            "§e▸ Click to select this type"
-        ]
-    },
-    "AUCTION_TYPE_ALL_NAME": {
-        "ru": "Все",
-        "ua": "Все",
-        "en": "All"
-    },
-    "AUCTION_TYPE_ARMOR_NAME": {
-        "ru": "Броня",
-        "ua": "броня",
-        "en": "Armor"
-    },
-    "AUCTION_TYPE_BLOCKS_NAME": {
-        "ru": "Блоки",
-        "ua": "Блоки",
-        "en": "Blocks"
-    },
-    "AUCTION_TYPE_ENCHANTING_NAME": {
-        "ru": "Зачарования",
-        "ua": "Зачарування",
-        "en": "Enchantments"
-    },
-    "AUCTION_TYPE_FARMING_NAME": {
-        "ru": "Растения",
-        "ua": "Рослини",
-        "en": "Plants"
-    },
-    "AUCTION_TYPE_FOOD_NAME": {
-        "ru": "Еда",
-        "ua": "Їжа",
-        "en": "Food"
-    },
-    "AUCTION_TYPE_OTHER_NAME": {
-        "ru": "Остальное",
-        "ua": "Решта",
-        "en": "Rest"
-    },
-    "AUCTION_TYPE_POTION_NAME": {
-        "ru": "Зелья",
-        "ua": "Зілля",
-        "en": "Potions"
-    },
-    "AUCTION_TYPE_RESOURCES_NAME": {
-        "ru": "Ресурсы",
-        "ua": "Ресурси",
-        "en": "Resources"
-    },
-    "AUCTION_TYPE_TOOLS_NAME": {
-        "ru": "Инструменты",
-        "ua": "Інструменти",
-        "en": "Instruments"
-    },
-    "AUCTION_TYPE_WEAPON_NAME": {
-        "ru": "Оружие",
-        "ua": "Зброя",
-        "en": "Weapons"
-    },
-    "BED_BROKEN": {
-        "ru": "§cКровать\\якорь отсутствует или был(а) уничтожена",
-        "ua": "§cЛіжко\\якір відсутні або були знищені",
-        "en": "§cBed/anchor is missing or has been destroyed"
-    },
-    "BETTER_SURVIVAL_COMPASS": {
-        "ru": "$@MODE_PREFIX$§fВаш компас указывает на координаты §ax: %s §az: %s",
-        "ua": "§fВаш компас вказує на координати §ax: %s §az: %s",
-        "en": "§fYour compass points to coordinates §ax: %s §az: %s"
-    },
-    "BETTER_SURVIVAL_COMPASS_ERROR_FORMAT": {
-        "ru": "$@MODE_PREFIX$§cОшибка в написании координат! §fНастроить компас на координаты §7/compass <x> <z>",
-        "ua": "§fПомилка в написанні координат! §fНалаштувати компас на координати §7/compass <x> <z>",
-        "en": "§fCoordinate spelling error! §fAdjust compass to coordinates §7/compass <x> <z>"
-    },
-    "BETTER_SURVIVAL_COMPASS_FORMAT": {
-        "ru": "$@MODE_PREFIX$Вы можете настроить компасс на любые координаты §7/compass <x> <z>",
-        "ua": "§fВи можете налаштувати компас на будь-які координати §7/compass <x> <z>",
-        "en": "§fYou can adjust the compass to any coordinates §7/compass <x> <z>"
-    },
-    "BETTER_SURVIVAL_COMPASS_TO": {
-        "ru": "Расстояние до цели: §a%s",
-        "ua": "Відстань до мети: §a%s",
-        "en": "Target distance: §a%s"
-    },
-    "BETTER_SURVIVAL_COMPASS_WITHOUT_BED": {
-        "ru": "$@MODE_PREFIX$Ваш компас указывает на центр мира, так как у вас нет кровати!",
-        "ua": "§fВаш компас вказує на центр світу, так як у вас немає ліжка!",
-        "en": "§fYour compass points to the center of the world because you don't have a bed!"
-    },
-    "BETTER_SURVIVAL_PVP_BAR": {
-        "ru": "§fРежим боя %s §f%s %s",
-        "ua": "§fРежим бою %s §f%s %s",
-        "en": "§fBattle mode %s §f%s %s"
-    },
-    "BETTER_SURVIVAL_PVP_COMMAND": {
-        "ru": "$@MODE_PREFIX$Нельзя использовать эту команду во время PVP!",
-        "ua": "§fНе можна використовувати цю команду під час PVP!",
-        "en": "§fYou cannot use this command during PVP!"
-    },
-    "BETTER_SURVIVAL_PVP_ACTION": {
-        "ru": "$@MODE_PREFIX$Нельзя совершить это действие во время PVP!"
-    },
-    "BETTER_SURVIVAL_PVP_END": {
-        "ru": "$@MODE_PREFIX$Вы вышли из боя! Теперь можно спокойно перезайти на сервер!",
-        "ua": "§fВи вийшли з бою! Тепер можна спокійно зайти на сервер знов!",
-        "en": "§fYou are out of the battle! Now you can safely reentry to the server!"
-    },
-    "BETTER_SURVIVAL_PVP_START": {
-        "ru": "$@MODE_PREFIX$Вы вступили в бой! Не покидайте игру в течении §c%s §fсекунд",
-        "ua": "§fВи вступили в бій! Не покидайте гру протягом §c%s §fсекунд",
-        "en": "§fYou have entered the battle! Do not leave the game during §c%s §fseconds"
-    },
-    "BETTER_SURVIVAL_PVP_TELEPORT": {
-        "ru": "$@MODE_PREFIX$Телепортации во время PVP запрещены!",
-        "ua": "§fТелепортації під час PVP заборонені!",
-        "en": "§fTeleportations during PVP are forbidden!"
-    },
-    "BETTER_SURVIVAL_SLEEP": {
-        "ru": "§fСпят: §a%s§f/§a%s §f- §a%s",
-        "ua": "§fСплять: §a%s§f/§a%s §f- §a%s",
-        "en": "§fSleeping: §a%s§f/§a%s §f- §a%s"
-    },
-    "CLEARLAG_PREFIX": {
-        "ru": "§6Очистка §8| §f"
-    },
-    "CLEARLAG_TIMER": {
-        "ru": "$CLEARLAG_PREFIX$Весь мусор будет удалён через §c%s§f!"
-    },
-    "CLEARLAG": {
-        "ru": "$CLEARLAG_PREFIX$Удалено §c%s §fпредметов"
-    },
-    "CALL_ERROR": {
-        "ru": "§cОшибка, вы уже отправили заявку этому игроку",
-        "ua": "§Помилка, ви вже відправили заявку цьому гравцю",
-        "en": "§cError, you have already sent a request to this player"
-    },
-    "CALL_FORMAT": {
-        "ru": "/call <ник игрока>",
-        "ua": "/call <нік гравця>",
-        "en": "/call <player's nickname>"
-    },
-    "CALL_GUI_LORE": {
-        "ru": [
-            "",
-            "§7Получить список",
-            "§7ожидающих заявок от игроков",
-            "§7которые хотят",
-            "§7телепортироваться к вам",
-            "",
-            "§7Ожидает ответа §a%s §7%s",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Отримати список",
-            "§7активних заявок від гравців,",
-            "§7які хочуть",
-            "§7телепортуватись до вас",
-            "",
-            "§7Очікує відповіді §a%s §7%s",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Get the list",
-            "§7of pending requests from players",
-            "§7who want",
-            "§7to teleport to you",
-            "",
-            "§7Waiting for a response §a%s §7%s",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "CALL_GUI_NAME": {
-        "ru": "Запросы на тп",
-        "ua": "Запити на телепортацію",
-        "en": "Teleportation requests"
-    },
-    "CALL_HOVER_ACCEPT": {
-        "ru": [
-            "§fНажмите сюда, чтобы §aпринять",
-            "§fзапрос от игрока %s"
-        ],
-        "ua": [
-            "§fНатисніть сюди,щоб §aприйняти",
-            "§fзапит від гравця %s"
-        ],
-        "en": [
-            "§fClick here to §aaccept",
-            "§fa request from player %s"
-        ]
-    },
-    "CALL_HOVER_IGNORE": {
-        "ru": [
-            "§fНажмите сюда, чтобы §cотклонить",
-            "§fзапрос от игрока %s"
-        ],
-        "ua": [
-            "§fНатисніть сюди,щоб §cвідхилити",
-            "§fзапит від гравця %s"
-        ],
-        "en": [
-            "§fClick here to §cdecline",
-            "§fa request from player %s"
-        ]
-    },
-    "CALL_INVITE_1": {
-        "ru": " %s §fзапросил телепортацию к вам",
-        "ua": " %s §fзапросив телепортацію до вас",
-        "en": " %s §frequested teleportation to you"
-    },
-    "CALL_INVITE_2": {
-        "ru": " §fДля принятия запроса пишите §c",
-        "ua": " §fДля прийняття запиту пишіть §c",
-        "en": " §fTo confirm the request write §c"
-    },
-    "CALL_INVITE_3": {
-        "ru": " §fДля отмены запроса пиши §c",
-        "ua": " §fДля скасування запиту пиши §c",
-        "en": " §fTo decline the request write §c"
-    },
-    "CALL_INVITE_4": {
-        "ru": " §fУ вас есть §a120 §fсекунд, чтобы его принять",
-        "ua": " §fУ вас є §a120 §fсекунд, щоб його прийняти",
-        "en": " §fYou have §a120 §fseconds to accept it"
-    },
-    "CALL_ITEM_EMPTY_LORE": {
-        "ru": [
-            "§7В данный момент к вам",
-            "§7никто не хочет телепортироваться",
-            "§7You alone my friend("
-        ],
-        "ua": [
-            "§7В даний момент до вас",
-            "§7ніхто не хоче телепортуватися...",
-            "§7You are lonely, my friend("
-        ],
-        "en": [
-            "§7At present nobody",
-            "§7wants to teleport to you",
-            "§7You are lonely, my friend("
-        ]
-    },
-    "CALL_ITEM_EMPTY_NAME": {
-        "ru": "§cУ вас нет активных заявок",
-        "ua": "§cУ вас немає активних заявок",
-        "en": "§cYou have no active requests"
-    },
-    "CALL_ITEM_HEAD_LORE": {
-        "ru": [
-            "",
-            "§7Заявка будет удалена",
-            "§7через §c%s §7%s",
-            "",
-            "§e▸ ЛКМ, чтобы принять запрос",
-            "§e▸ ПКМ, чтобы отклонить"
-        ],
-        "ua": [
-            "",
-            "§7Заявка буде видалена",
-            "§7через §c%s §7%s",
-            "",
-            "§e▸ ЛКМ, щоб прийняти запит",
-            "§e▸ ПКМ, щоб відхилити"
-        ],
-        "en": [
-            "",
-            "§7Заявка будет удалена",
-            "§7через §c%s §7%s",
-            "",
-            "§e▸ LMC to accept the request",
-            "§e▸ RMC to decline"
-        ]
-    },
-    "CALL_YOU": {
-        "ru": "§cОшибка, вы не можете отправить запрос самому себе",
-        "ua": "§cПомилка, ви не можете відправити запит самому собі",
-        "en": "§cError, you cannot send a request to yourself"
-    },
-    "CHUNK_FORMAT": {
-        "ru": "/chunk <x> <z>",
-        "ua": "/chunk <x> <z>",
-        "en": "/chunk <x> <z>"
-    },
-    "CLEAR_INV": {
-        "ru": "$@MODE_PREFIX$Все предметы удалены",
-        "ua": "Всі предмети вилучені",
-        "en": "All items are removed"
-    },
-    "CLEAR_INV_TO": {
-        "ru": "$@MODE_PREFIX$У игрока %s §fудалены все предметы",
-        "ua": "У гравця %s §fвидалені всі предмети",
-        "en": "Player %s §fremoved all items"
-    },
-    "CREATE_WARP_FORMAT": {
-        "ru": "/createwarp <название>",
-        "ua": "/createwarp <назва>",
-        "en": "/createwarp <name>"
-    },
-    "DELHOME_FORMAT": {
-        "ru": "/delhome <название>",
-        "ua": "/delhome <назва>",
-        "en": "/delhome <name>"
-    },
-    "DEL_WARP_FORMAT": {
-        "ru": "/delwarp <название>",
-        "ua": "/delwarp <назва>",
-        "en": "/delwarp <name>"
-    },
-    "DISPELL_ERROR": {
-        "ru": "$@MODE_PREFIX$§cЭтот предмет не содержит чары",
-        "ua": "§cЦей предмет не містить чари",
-        "en": "§cThis item does not contain enchantment"
-    },
-    "ENCHANTED_BOOK_ERROR": {
-        "ru": "$@MODE_PREFIX$§cОшибка, вам нужно иметь §a%s §fуровень, чтобы наложить эти чары на предмет",
-        "ua": "§6Enchanted §8| §fПомилка, вам потрібно мати §a%s §fрівень, щоб накласти ці чари на предмет",
-        "en": "§6Enchanted §8| §fError, you need to have §a%s §flevel to cast this enchantment on an item"
-    },
-    "EXT_TO": {
-        "ru": "$@MODE_PREFIX$Вы пошушили игрока %s",
-        "ua": "Ви пошушили гравця %s",
-        "en": "You smacked a player %s"
-    },
-    "FEED_TO": {
-        "ru": "$@MODE_PREFIX$Голод восстановлен игроку %s",
-        "ua": "Голод відновлений гравцеві %s",
-        "en": "Hunger restored to the player %s"
-    },
-    "FLY_DISABLE": {
-        "ru": "$@MODE_PREFIX$Режим полета - §cотключен",
-        "ua": "Режим польоту - §cвідключений",
-        "en": "Flying mode - §cis turned off"
-    },
-    "FLY_DISABLE_TO": {
-        "ru": "$@MODE_PREFIX$Для игрока %s §fрежим полета - §cотключен",
-        "ua": "Для гравця %s §fрежим польоту - §cвідключений",
-        "en": "For player %s §fflying mode - §cis turned off"
-    },
-    "FLY_ENABLE": {
-        "ru": "$@MODE_PREFIX$Режим полета - §aвключен",
-        "ua": "Режим польоту - §aувімкнений",
-        "en": "Flying mode - §ais turned on"
-    },
-    "FLY_ENABLE_TO": {
-        "ru": "$@MODE_PREFIX$Для игрока %s §fрежим полета - §aвключен",
-        "ua": "Для гравця %s §fрежим польоту - §aувімкнений",
-        "en": "For player %s §fflying mode - §ais turned on"
-    },
-    "FLY_GOD_PVP_DISABLE": {
-        "ru": "$@MODE_PREFIX$§cОшибка, вы не можете атаковать игроков в режиме бога или полета",
-        "ua": "§cПомилка, ви не можете атакувати гравців в режимі бога або польоту",
-        "en": "§cError, you cannot attack players in god or flying mode"
-    },
-    "GOD_DISABLE": {
-        "ru": "$@MODE_PREFIX$Режим бога - §cотключен",
-        "ua": "Режим бога - §cвимкнений",
-        "en": "God's mode - §cdisabled"
-    },
-    "GOD_DISABLE_TO": {
-        "ru": "$@MODE_PREFIX$Для игрока %s §fрежим бога - §cотключен",
-        "ua": "Для гравця %s §fрежим бога - §cвимкнений",
-        "en": "For player %s §fgod's mode - §cdisabled"
-    },
-    "GOD_ENABLE": {
-        "ru": "$@MODE_PREFIX$Режим бога - §aвключен",
-        "ua": "Режим бога - §aувімкнений",
-        "en": "God's mode - §aenabled"
-    },
-    "GOD_ENABLE_TO": {
-        "ru": "$@MODE_PREFIX$Для игрока %s §fрежим бога - §aвключен",
-        "ua": "Для гравця %s §fрежим бога - §aувімкнений",
-        "en": "For player %s §fgod'a mode - §aenabled"
-    },
-    "HAT_ERROR": {
-        "ru": "$@MODE_PREFIX$§cВы должны что-то держать в руке, чтобы одеть это на голову",
-        "ua": "§cВи повинні щось тримати в руці, щоб одягнути це на голову",
-        "en": "§cYou have to hold something in your hand to put it on your head"
-    },
-    "HAT_ERROR_ENCHANT": {
-        "ru": "$@MODE_PREFIX$§cОшибка, вы должны снять текущий головной убор",
-        "ua": "§cПомилка, ви повинні зняти поточний головний убір",
-        "en": "§cError, you must take off your current headgear"
-    },
-    "HEAL_TO": {
-        "ru": "$@MODE_PREFIX$Хп и голод восстановлены игроку %s",
-        "ua": "Хп і голод відновлені гравцю %s",
-        "en": "HP and hunger restored to the player %s"
-    },
-    "HOME_CREATE": {
-        "ru": "$@MODE_PREFIX$Точка дома §a%s §fустановлена",
-        "ua": "Точка будинку §a%s §fвстановлена",
-        "en": "House point §a%s §fis set"
-    },
-    "HOME_EMPTY": {
-        "ru": "$@MODE_PREFIX$§cОшибка, у вас нет установленных точек дома",
-        "ua": "§cПомилка, у вас немає встановлених точок будинку",
-        "en": "§cError, you have no house points set"
-    },
-    "HOME_ERROR": {
-        "ru": "$@MODE_PREFIX$§cОшибка, у вас уже есть точка дома с именем %s",
-        "ua": "§cПомилка, у вас вже є точка будинку з ім'ям %s",
-        "en": "§cError, you already have a house point named like this %s"
-    },
-    "HOME_GUI_LORE": {
-        "ru": [
-            "",
-            "§7Получить список",
-            "§7своих домов и полное",
-            "§7управление над ними",
-            "",
-            "§7В данный момент у вас §a%s §7%s",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Отримати список",
-            "§7своїх будинків і повний",
-            "§7контроль над ними",
-            "",
-            "§7Зараз у вас §a%s §7%s",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Get a list",
-            "§7of your houses and absolute",
-            "§7control over them",
-            "",
-            "§7Currently you have §a%s §7%s",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "HOME_GUI_NAME": {
-        "ru": "Точки дома",
-        "ua": "Точки дома",
-        "en": "House points"
-    },
-    "HOME_ITEM_EMPTY_LORE": {
-        "ru": [
-            "§7В данный момент у вас",
-            "§7нет установленных",
-            "§7точек дома"
-        ],
-        "ua": [
-            "§7Зараз у вас",
-            "§7немає встановлених",
-            "§7точок будинку"
-        ],
-        "en": [
-            "§7Currently you have no",
-            "§7house points",
-            "§7set"
-        ]
-    },
-    "HOME_ITEM_EMPTY_NAME": {
-        "ru": "§cУ вас нет точек дома",
-        "ua": "§cУ вас немає точок будинку",
-        "en": "§cYou have no house points"
-    },
-    "HOME_LORE": {
-        "ru": [
-            "",
-            "§7Координаты дома:",
-            " §7Мир: §c%s",
-            " §7X: §c%s",
-            " §7Y: §c%s",
-            " §7Z: §c%s",
-            "",
-            "§e▸ Нажмите, чтобы телепортироваться"
-        ],
-        "ua": [
-            "",
-            "§7Координаты будинку:",
-            " §7Світ: §c%s",
-            " §7X: §c%s",
-            " §7Y: §c%s",
-            " §7Z: §c%s",
-            "",
-            "§e▸ Натисніть, щоб телепортуватися"
-        ],
-        "en": [
-            "",
-            "§7Home coordinates:",
-            " §7World: §c%s",
-            " §7X: §c%s",
-            " §7Y: §c%s",
-            " §7Z: §c%s",
-            "",
-            "§e▸ Click to teleport"
-        ]
-    },
-    "HOME_NOT_FOUND": {
-        "ru": "§cТочка дома %s не найдена",
-        "ua": "§cТочка будинку %s не знайдена",
-        "en": "§cHouse point %s is not found"
-    },
-    "HOME_REMOVE": {
-        "ru": "Точка дома §a%s §fудалена",
-        "ua": "Точка будинку §a%s §fвидалена",
-        "en": "House point §a%s §fis deleted"
-    },
-    "HOME_TO": {
-        "ru": "Вы были телепортированы на точку дома §a%s",
-        "ua": "Ви були телепортовані на точку будинку §a%s",
-        "en": "You have been teleported to house point §a%s"
-    },
-    "HOME_WARP_LIMIT": {
-        "ru": "§cОшибка, вы не можете создать более %s %s",
-        "ua": "§cПомилка, ви не можете створити більше, ніж %s %s",
-        "en": "§cError, you can't create more than %s %s"
-    },
-    "ITEMS_GUI_AVAILABLE_ITEMS_PERCENTAGE": {
-        "ru": "§7Открыто: §a%s%% §8(§e%s§f/§e%s§8)",
-        "ua": "§7Відкрито: §a%s%% §8(§e%s§f/§e%s§8)",
-        "en": "§7Open: §a%s%% §8(§e%s§f/§e%s§8)"
-    },
-    "ITEMS_GUI_BACK_LORE": {
-        "ru": [
-            "§7Нажмите, чтобы вернуться назад"
-        ],
-        "ua": [
-            "§7Натисніть, щоб повернутися назад"
-        ],
-        "en": [
-            "§7Click to go back"
-        ]
-    },
-    "ITEMS_GUI_BACK_NAME": {
-        "ru": "§cНазад",
-        "ua": "§cНазад",
-        "en": "§cBack"
-    },
-    "ITEMS_GUI_CONFIRMATION_LORE": {
-        "ru": [
-            " ",
-            "§7Вы уверены, что хотите",
-            "§7приобрести этот предмет?",
-            " ",
-            "§cЭто действие необратимо"
-        ],
-        "ua": [
-            " ",
-            "§7Ви впевнені, що хочете",
-            "§7придбати цей предмет?",
-            " ",
-            "§cЦя дія незворотня"
-        ],
-        "en": [
-            " ",
-            "§7Are you sure you want",
-            "§7to purchase this item?",
-            " ",
-            "§cThis action is irreversible"
-        ]
-    },
-    "ITEMS_GUI_CONFIRMATION_TITLE": {
-        "ru": "Подтверждение покупки",
-        "ua": "Підтвердження покупки",
-        "en": "Confirmation of purchase"
-    },
-    "ITEMS_GUI_COST_FORMAT": {
-        "ru": "§7Цена: %s %s",
-        "ua": "§7Ціна: %s %s",
-        "en": "§7Price: %s %s"
-    },
-    "ITEMS_GUI_DISCOUNTED_COST_FORMAT": {
-        "ru": "§7Цена (со скидкой): %s %s",
-        "ua": "§7Ціна (зі знижкою): %s %s",
-        "en": "§7Price (with discount): %s %s"
-    },
-    "ITEMS_SHOP_GUI_TITLE": {
-        "ru": "Магазин предметов",
-        "ua": "Магазин предметів",
-        "en": "Items store"
-    },
-    "ITEM_ALREADY_HAVE": {
-        "ru": "§fУ вас уже есть данный предмет, вы получили §b+%s %s",
-        "ua": "§fВи вже маєте цей предмет, ви отримали §b+%s %s",
-        "en": "§fYou already own this item, you have received §b+%s %s"
-    },
-    "ITEM_ALREADY_HAVE_NO_MONEY": {
-        "ru": "§fУ вас уже есть данный предмет, вы получили свой ключ назад",
-        "ua": "§fВи вже маєте цей предмет, ви отримали свій ключ назад",
-        "en": "§fYou already have this item, you received your key back"
-    },
-    "ITEM_CANT_PURCHASE": {
-        "ru": [
-            " ",
-            "§cВы не можете купить этот предмет",
-            "§7Для его покупки Вам необходимо:"
-        ],
-        "ua": [
-            " ",
-            "§cВи не можете придбати цей предмет",
-            "§7Для його покупки вам необхідно:"
-        ],
-        "en": [
-            " ",
-            "§cYou cannot buy this item",
-            "§7To buy it you need:"
-        ]
-    },
-    "ITEM_CANT_SELECT": {
-        "ru": [
-            " ",
-            "§cВы не можете выбрать этот предмет",
-            "§7Для его выбора Вам необходимо:"
-        ],
-        "ua": [
-            " ",
-            "§cВи не можете вибрати цей предмет",
-            "§7Для його вибору вам необхідно:"
-        ],
-        "en": [
-            " ",
-            "§cYou cannot select this item",
-            "§7To select it, you need:"
-        ]
-    },
-    "ITEM_CATEGORY_GUI_NAME": {
-        "ru": "Игровые предметы",
-        "ua": "Ігрові предмети",
-        "en": "Game items"
-    },
-    "ITEM_CLICK_TO_PURCHASE": {
-        "ru": [
-            " ",
-            "%s",
-            " ",
-            "§e▸ Нажмите, чтобы приобрести"
-        ],
-        "ua": [
-            " ",
-            "%s",
-            " ",
-            "§e▸ Натисніть, щоб придбати"
-        ],
-        "en": [
-            " ",
-            "%s",
-            " ",
-            "§e▸ Clikc to purchase"
-        ]
-    },
-    "ITEM_CLICK_TO_PURCHASE_WITH_DISCOUNT": {
-        "ru": [
-            " ",
-            "%s",
-            " ",
-            "§fВаша скидка составляет %s%%",
-            "§e▸ Нажмите, чтобы приобрести"
-        ],
-        "ua": [
-            " ",
-            "%s",
-            " ",
-            "§fВаша знижка становить %s%%",
-            "§e▸ Натисніть, щоб придбати"
-        ],
-        "en": [
-            " ",
-            "%s",
-            " ",
-            "§fYour discount is %s%%",
-            "§e▸ Click to purchase"
-        ]
-    },
-    "ITEM_CLICK_TO_SELECT": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы выбрать"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб обрати"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to select"
-        ]
-    },
-    "ITEM_CLICK_TO_UNSELECT": {
-        "ru": [
-            " ",
-            "§e▸ Нажмите, чтобы снять выбор"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Натисніть, щоб скасувати вибір"
-        ],
-        "en": [
-            " ",
-            "§e▸ Click to deselect"
-        ]
-    },
-    "ITEM_IS_FREE_FOR_YOU": {
-        "ru": [
-            " ",
-            "§7Предмет бесплатный для Вас"
-        ],
-        "ua": [
-            " ",
-            "§7Предмет безкоштовний для вас"
-        ],
-        "en": [
-            " ",
-            "§7The subject is free for you"
-        ]
-    },
-    "ITEM_IS_FREE_WITH_PREDICATES": {
-        "ru": [
-            " ",
-            "§7Предмет является бесплатным для:"
-        ],
-        "ua": [
-            " ",
-            "§7Предмет є безкоштовним для:"
-        ],
-        "en": [
-            " ",
-            "§7The subject is free:"
-        ]
-    },
-    "ITEM_IS_NOT_CHOSEN": {
-        "ru": "§cНичего не выбрано",
-        "ua": "§cНічого не обрано",
-        "en": "§cNothing selected"
-    },
-    "ITEM_IS_NOT_PURCHASEABLE": {
-        "ru": [
-            " ",
-            "§cУ Вас нет этого предмета",
-            "§7Вы можете получить его:",
-            " §8• §7открывая сундук удачи",
-            " §8• §7приобретая в онлайн-магазине"
-        ],
-        "ua": [
-            " ",
-            "§cУ вас немає цього предмету",
-            "§7Ви можете отримати його:",
-            " §8• §7відкриваючи скриню удачі",
-            " §8• §7набуваючи в онлайн-магазині"
-        ],
-        "en": [
-            " ",
-            "§cYou do not have this item",
-            "§7You can get it:",
-            " §8• §7opening the chest of luck",
-            " §8• §7by purchasing in the online store"
-        ]
-    },
-    "ITEM_IS_SELECTED": {
-        "ru": [
-            " ",
-            "§c▸ Этот предмет уже выбран"
-        ],
-        "ua": [
-            " ",
-            "§c▸ Цей предмет вже обраний"
-        ],
-        "en": [
-            " ",
-            "§c▸ This item has already been selected"
-        ]
-    },
-    "ITEM_MODES_ALL": {
-        "ru": [
-            " ",
-            "§8Доступен на всех подрежимах"
-        ],
-        "ua": [
-            " ",
-            "§8Доступний на всіх підрежимах"
-        ],
-        "en": [
-            " ",
-            "§8Available in all sub-modes"
-        ]
-    },
-    "ITEM_MODES_AVAILABLE": {
-        "ru": [
-            " ",
-            "§8Доступен на режимах:",
-            "§8%s"
-        ],
-        "ua": [
-            " ",
-            "§8Доступний на режимах:",
-            "§8%s"
-        ],
-        "en": [
-            " ",
-            "§8Available on modes:",
-            "§8%s"
-        ]
-    },
-    "ITEM_SELECT_ALREADY": {
-        "ru": [
-            " ",
-            "§e▸ Вы выбрали этот предмет"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Ви обрали цей предмет"
-        ],
-        "en": [
-            " ",
-            "§e▸ You have selected this item"
-        ]
-    },
-    "ITEM_SELECT_IN_GAME": {
-        "ru": [
-            " ",
-            "§c▸ Выбрать предмет можно в игре"
-        ],
-        "ua": [
-            " ",
-            "§c▸ Обрати предмет можна в грі"
-        ],
-        "en": [
-            " ",
-            "§c▸ You can select an item in the game"
-        ]
-    },
-    "ITEM_UNSELECTED": {
-        "ru": "Выбор снят с текущего предмета",
-        "ua": "Вибір знятий з поточного предмета",
-        "en": "The selection is cleared from the current item"
-    },
-    "KIT_GUI_LORE": {
-        "ru": [
-            "",
-            "§7Получить список",
-            "§7доступных китов и",
-            "§7выбрать доступные из них",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Отримати список",
-            "§7доступних китів",
-            "§7вибрати доступні з них",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Get the list",
-            "§7of available sets and",
-            "§7choose",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "KIT_GUI_NAME": {
-        "ru": "Выбор набора",
-        "ua": "Вибір набору",
-        "en": "Chose set"
-    },
-    "KIT_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:"
-        ],
-        "en": [
-            "",
-            "§7Includes:"
-        ]
-    },
-    "KIT_LORE_DISABLE": {
-        "ru": [
-            "",
-            "§cНабор будет доступен через",
-            "§c%s"
-        ],
-        "ua": [
-            "",
-            "§cНабір буде доступний через",
-            "§c%s"
-        ],
-        "en": [
-            "",
-            "§cSet will be available in",
-            "§c%s"
-        ]
-    },
-    "KIT_LORE_ENABLE": {
-        "ru": [
-            "",
-            "§e▸ Нажмите, чтобы выбрать набор"
-        ],
-        "ua": [
-            "",
-            "§e▸ Натисніть, щоб обрати набір"
-        ],
-        "en": [
-            "",
-            "§e▸ Click to choose set"
-        ]
-    },
-    "KIT_NOT_FOUND": {
-        "ru": "§cНабор %s не найден",
-        "ua": "§cНабір %s не знайдений",
-        "en": "§cSet %s Not found"
-    },
-    "KIT_SELECT": {
-        "ru": "$@MODE_PREFIX$Вам был выдан набор §a%s",
-        "ua": "Вам був виданий набір §a%s",
-        "en": "You have been given a set §a%s"
-    },
-    "MYWARP_ITEM_CHANGER_LORE": {
-        "ru": [
-            "",
-            "§7Показать список личных варпов",
-            "",
-            "§e▸ Нажмите, чтобы переключиться"
-        ],
-        "ua": [
-            "",
-            "§7Показати список особистих варпів",
-            "",
-            "§e▸ Натисніть, щоб переключитися"
-        ],
-        "en": [
-            "",
-            "§7Show list of personal warps",
-            "",
-            "§e▸ Click to switch"
-        ]
-    },
-    "MYWARP_ITEM_CHANGER_NAME": {
-        "ru": "Личные варпы",
-        "ua": "Особисті варпи",
-        "en": "Personal warps"
-    },
-    "MYWARP_ITEM_EMPTY_LORE": {
-        "ru": [
-            "§7В данный момент у вас нет",
-            "§7личных варпов"
-        ],
-        "ua": [
-            "§7Зараз у вас немає",
-            "§7особистіх варпів"
-        ],
-        "en": [
-            "§7At present you have no",
-            "§7personal warps"
-        ]
-    },
-    "MYWARP_ITEM_EMPTY_NAME": {
-        "ru": "§cУ вас нет личных варпов",
-        "ua": "§cУ вас немає особистіх варпів",
-        "en": "§cYou have no personal warps"
-    },
-    "MYWARP_ITEM_LORE_PRIVATE": {
-        "ru": [
-            "",
-            "§7В данный момент этот варп",
-            "§7приватный. Он отсутствует в",
-            "§7общем списке варпов и доступен",
-            "§7только для друзей (/f list)",
-            "",
-            "§e▸ Нажмите, чтобы открыть варп"
-        ],
-        "ua": [
-            "",
-            "§7Зараз цей варп є",
-            "§7приватним. Він відсутній в",
-            "§7загальному списку варпа і доступний",
-            "§7тільки для друзів (/f list)",
-            "",
-            "§e▸ Натисніть, щоб відкрити варп"
-        ],
-        "en": [
-            "",
-            "§7At present this warp",
-            "§7is private. It's is absent in",
-            "§7the general list of warps and available",
-            "§7for friends only (/f list)",
-            "",
-            "§e▸ Click to open the warp"
-        ]
-    },
-    "MYWARP_ITEM_LORE_PUBLIC": {
-        "ru": [
-            "",
-            "§7В данный момент этот варп",
-            "§7публичный. Он доступен",
-            "§7для всех и каждого",
-            "",
-            "§e▸ Нажмите, чтобы закрыть варп"
-        ],
-        "ua": [
-            "",
-            "§7Зараз цей варп",
-            "§7публічний. Він доступний",
-            "§7для всіх і кожного.",
-            "",
-            "§e▸ Натисніть, щоб закрити варп"
-        ],
-        "en": [
-            "",
-            "§7At present this warp",
-            "§7is public. It's available",
-            "§7for everybody",
-            "",
-            "§e▸ Click to close the warp"
-        ]
-    },
-    "NO_PERMS_KIT": {
-        "ru": [
-            "",
-            "§cУ вас нет прав на этот набор",
-            "§cкупите %s§c или выше"
-        ],
-        "ua": [
-            "",
-            "§cУ вас немає прав на цей набір",
-            "§cкупіть %s§c або вище"
-        ],
-        "en": [
-            "",
-            "§cYou are not licensed to this set",
-            "§cpurchase %s§c or higher"
-        ]
-    },
-    "NO_PERMS_KIT_ONLY": {
-        "ru": [
-            "",
-            "§cУ вас нет прав на этот набор,",
-            "§cон доступен только для %s"
-        ],
-        "ua": [
-            "",
-            "§cУ вас немає прав на цей набір,",
-            "§cвін доступний лише для %s"
-        ],
-        "en": [
-            "",
-            "§cYou are not licensed to this set,",
-            "§cit's only available to %s"
-        ]
-    },
-    "PLAYER_WARP_FORMAT": {
-        "ru": "/playerwarp <имя игрока>",
-        "ua": "/playerwarp <ім'я гравця>",
-        "en": "/playerwarp <player's nickname>"
-    },
-    "PLAYER_WARP_GUI_NAME": {
-        "ru": "Список варпов - %s",
-        "ua": "Список варпів - %s",
-        "en": "Warp list - %s"
-    },
-    "PLAYER_WARP_ITEM_EMPTY_LORE": {
-        "ru": [
-            "§7В данный момент у игрока %s",
-            "§7нет доступных публичных варпов",
-            "§7или они отсутствуют вовсе"
-        ],
-        "ua": [
-            "§7Зараз у гравця %s",
-            "§7немає доступних публічних варпів",
-            "§7або вони не знайдені"
-        ],
-        "en": [
-            "§7At present player %s",
-            "§7has no available public warps",
-            "§7or they are absent altogether"
-        ]
-    },
-    "PLAYER_WARP_ITEM_EMPTY_NAME": {
-        "ru": "§cВарпы игрока не найдены",
-        "ua": "§cВарпи гравця не знайдені",
-        "en": "§cPlayer's warps not found"
-    },
-    "PTIME_ERROR": {
-        "ru": "§cОшибка, вы должны вводить число",
-        "ua": "§cПомилка, ви повинні вводити число",
-        "en": "§cError, you must enter a number"
-    },
-    "PTIME_GUI_NAME": {
-        "ru": "Смена времени",
-        "ua": "Зміна часу",
-        "en": "Time change"
-    },
-    "PTIME_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7Управление погодой и",
-            "§7личным временем на этом",
-            "§7режиме",
-            "",
-            "§7Только для %s §7и выше",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "",
-            "§7Управління погодою і",
-            "§7особистим часом на цьому",
-            "§7режимі",
-            "",
-            "§7Тільки для %s §7і вище",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "",
-            "§7Weather and personal",
-            "§7time management on this",
-            "§7mode",
-            "",
-            "§7Only for %s §7and higher",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "PTIME_ITEM_RESET_LORE": {
-        "ru": [
-            "",
-            "§7Вернуть игроку серверное",
-            "§7время и погоду",
-            "",
-            "§e▸ Нажмите, чтобы сменить"
-        ],
-        "ua": [
-            "",
-            "§7Повернути гравцеві серверний",
-            "§7час і погоду",
-            "",
-            "§e▸ Натисніть, щоб змінити"
-        ],
-        "en": [
-            "",
-            "§7Return server time",
-            "§7and weather to the player",
-            "",
-            "§e▸ Click to change"
-        ]
-    },
-    "PTIME_ITEM_RESET_NAME": {
-        "ru": "§aОбнулить время",
-        "ua": "§aОбнулити час",
-        "en": "§aReset time"
-    },
-    "PTIME_ITEM_WATCH_LORE": {
-        "ru": [
-            "",
-            "§7Установить личное время",
-            "§7игрока на §c%s ",
-            "",
-            "§7Только для %s §7и выше",
-            "",
-            "§e▸ Нажмите, чтобы сменить"
-        ],
-        "ua": [
-            "",
-            "§7Встановити особистий час",
-            "§7гравця на §c%s ",
-            "",
-            "§7Тільки для %s §7і вище",
-            "",
-            "§e▸ Натисніть, щоб змінити"
-        ],
-        "en": [
-            "",
-            "§7Set player's personal",
-            "§7time to §c%s ",
-            "",
-            "§7Only for %s §7and higher",
-            "",
-            "§e▸ Click to change"
-        ]
-    },
-    "PTIME_ITEM_WATCH_NAME": {
-        "ru": "§aСменить время",
-        "ua": "§aЗмінити час",
-        "en": "§aChange time"
-    },
-    "PTIME_ITEM_WEATHER_LORE": {
-        "ru": [
-            "",
-            "§7Сменить погоду",
-            "§7на §c%s §7(только для себя)",
-            "",
-            "§7Только для %s §7и выше",
-            "",
-            "§e▸ Нажмите, чтобы сменить"
-        ],
-        "ua": [
-            "",
-            "§7Змінити погоду",
-            "§7на §c%s §7(тільки для себе)",
-            "",
-            "§7Тільки для %s §7і вище",
-            "",
-            "§e▸ Натисніть, щоб змінити"
-        ],
-        "en": [
-            "",
-            "§7Change weather",
-            "§7на §c%s §7(Only for yourself)",
-            "",
-            "§7Only for %s §7and higher",
-            "",
-            "§e▸ Click to change"
-        ]
-    },
-    "PTIME_ITEM_WEATHER_NAME": {
-        "ru": "§aСменить погоду",
-        "ua": "§aЗмінити погоду",
-        "en": "§aChange weather"
-    },
-    "PTIME_RESET": {
-        "ru": "Время и погода сброшены до серверного",
-        "ua": "Час і погода скинуті до серверного",
-        "en": "Time and weather reset to server"
-    },
-    "PTIME_WEATHER_CHANGED": {
-        "ru": "Погода изменена",
-        "ua": "Погода змінена",
-        "en": "Weather changed"
-    },
-    "REPAIR_ERROR": {
-        "ru": "§cЭтот предмет не может быть отремонтирован",
-        "ua": "§cЦей предмет не може бути відремонтований",
-        "en": "§cThis item cannot be repaired"
-    },
-    "SETHOME_FORMAT": {
-        "ru": "/sethome <название>",
-        "ua": "/sethome <назва>",
-        "en": "/sethome <name>"
-    },
-    "SET_BED_ERROR": {
-        "ru": "§cОшибка, вы не можете установить точку дома в этом мире",
-        "ua": "§cПомилка, ви не можете встановити точку будинку в цьому світі",
-        "en": "§cMistake, you cannot set the house point in this world"
-    },
-    "SHOP_ALL_ITEMS_BUY": {
-        "ru": "§6Магазин §8| §fВы успешно купили §7%s §fx §7%s §fза §a%s$",
-        "ua": "§6Магазин §8| §fВи успішно придбали §7%s §fx §7%s §fза §a%s$",
-        "en": "§6Store §8| §fYou have successfully bought §7%s §fx §7%s §ffor §a%s$"
-    },
-    "SHOP_ALL_ITEMS_SELLED": {
-        "ru": "§6Магазин §8| §fВы успешно продали §7%s §fx §7%s §fза §a%s$",
-        "ua": "§6Магазин §8| §fВи успішно продали §7%s §fx §7%s §fза §a%s$",
-        "en": "§6Store §8| §fYou have successfully sold §7%s §fx §7%s §ffor §a%s$"
-    },
-    "SHOP_FORMAT": {
-        "ru": "/shop <название магазина>",
-        "ua": "/shop <назва магазина>",
-        "en": "/shop <store's name>"
-    },
-    "SHOP_GUIBUY_NAME": {
-        "ru": "Покупка %s",
-        "ua": "Покупка %s",
-        "en": "Purchase %s"
-    },
-    "SHOP_GUISELL_NAME": {
-        "ru": "Продажа %s",
-        "ua": "Продаж %s",
-        "en": "Sale %s"
-    },
-    "SHOP_HOVER_TEST": {
-        "ru": "§fНажмите сюда, §fчтобы открыть этот магазин",
-        "ua": "§fНатисни сюди, §fщоб відкрити цей магазин",
-        "en": "§fClick here §fto open this store"
-    },
-    "SHOP_ITEMBUY_LORE": {
-        "ru": [
-            "",
-            "§7Цена покупки §c%s"
-        ],
-        "ua": [
-            "",
-            "§7Вартість покупки §c%s"
-        ],
-        "en": [
-            "",
-            "§7Purchase price §c%s"
-        ]
-    },
-    "SHOP_ITEMSELL_LORE": {
-        "ru": [
-            "",
-            "§7Получите после продажи §a%s"
-        ],
-        "ua": [
-            "",
-            "§7Отримаєете після продажу §a%s"
-        ],
-        "en": [
-            "",
-            "§7Receive after sale §a%s"
-        ]
-    },
-    "SHOP_ITEM_NO_ITEMS": {
-        "ru": [
-            "",
-            "§cОшибка, у вас недостаточно предметов"
-        ],
-        "ua": [
-            "",
-            "§cПомилка, у вас недостатньо предметів"
-        ],
-        "en": [
-            "",
-            "§cError, you don't have enough items"
-        ]
-    },
-    "SHOP_ITEM_NO_MONEY": {
-        "ru": [
-            "",
-            "§cОшибка, у вас недостаточно средств"
-        ],
-        "ua": [
-            "",
-            "§cПомилка, у вас недостатньо коштів"
-        ],
-        "en": [
-            "",
-            "§cError, you don't have enough funds"
-        ]
-    },
-    "SHOP_LORE_CHANGED": {
-        "ru": [
-            "",
-            "§7Сменить кол-во предметов",
-            "",
-            "§e▸ Нажмите, чтобы сменить"
-        ],
-        "ua": [
-            "",
-            "§7Змінити кількість предметів",
-            "",
-            "§e▸ Натисніть, щоб змінити"
-        ],
-        "en": [
-            "",
-            "§7Change the number of items",
-            "",
-            "§e▸ Click to change"
-        ]
-    },
-    "SHOP_LORE_CLICK_ITEM": {
-        "ru": [
-            "",
-            "§7Цена покупки: §a%s",
-            "",
-            "§e▸ Нажмите, чтобы купить"
-        ],
-        "ua": [
-            "",
-            "§7Вартість покупки: §a%s",
-            "",
-            "§e▸ Натисніть, щоб придбати"
-        ],
-        "en": [
-            "",
-            "§7Purchase price: §a%s",
-            "",
-            "§e▸ Click to buy"
-        ]
-    },
-    "SHOP_LORE_FIXED_ITEM": {
-        "ru": [
-            "",
-            "§7Цена покупки: §a%s",
-            "§7Получите после продажи: §c%s",
-            "",
-            "§7Нажмите на §fколесико мыши,",
-            "§7чтобы продать все %s",
-            "",
-            "§e▸ ЛКМ, чтобы купить",
-            "§e▸ ПКМ, чтобы продать"
-        ],
-        "ua": [
-            "",
-            "§7Вартість покупки: §a%s",
-            "§7Отримаєте після продажу: §c%s",
-            "",
-            "§7Натисніть на §fколіщатко миші,",
-            "§7щоб продати все %s",
-            "",
-            "§e▸ ЛКМ, щоб придбати",
-            "§e▸ ПКМ, щоб продати"
-        ],
-        "en": [
-            "",
-            "§7Purchase price: §a%s",
-            "§7Receive after sale: §c%s",
-            "",
-            "§7Click on §fthe mouse wheel",
-            "§7to sell everything %s",
-            "",
-            "§e▸ LMC to sell",
-            "§e▸ RMC to buy"
-        ]
-    },
-    "SHOP_LORE_FIXED_ITEM_BUY": {
-        "ru": [
-            "",
-            "§7Цена покупки: §a%s",
-            "",
-            "§e▸ Нажмите, чтобы купить"
-        ],
-        "ua": [
-            "",
-            "§7Вартість покупки: §a%s",
-            "",
-            "§e▸ Натисніть, щоб придбати"
-        ],
-        "en": [
-            "",
-            "§7Purchase price: §a%s",
-            "",
-            "§e▸ Click to purchase"
-        ]
-    },
-    "SHOP_LORE_FIXED_ITEM_SELL": {
-        "ru": [
-            "",
-            "§7Получите после продажи: §a%s",
-            "",
-            "§7Нажмите на §fколесико мыши,",
-            "§7чтобы продать все %s",
-            "",
-            "§e▸ Нажмите, чтобы продать"
-        ],
-        "ua": [
-            "",
-            "§7Отримаєте після продажу: §a%s",
-            "",
-            "§7Натисніть на §fколіщатко миші,",
-            "§7щоб продати все %s",
-            "",
-            "§e▸ Натисніть, щоб продати"
-        ],
-        "en": [
-            "",
-            "§7Receive after sale: §a%s",
-            "",
-            "§7Click on §fthe mouse wheel,",
-            "§7to sell everything %s",
-            "",
-            "§e▸ Click to sell"
-        ]
-    },
-    "SHOP_LORE_ITEM": {
-        "ru": [
-            "",
-            "§7Цена покупки: §a%s",
-            "§7Получите после продажи: §c%s",
-            "",
-            "§7Нажмите на §fколесико мыши,",
-            "§7чтобы продать все %s",
-            "",
-            "§e▸ ЛКМ, чтобы открыть меню покупок",
-            "§e▸ ПКМ, чтобы открыть меню продаж"
-        ],
-        "ua": [
-            "",
-            "§7Вартість покупки: §a%s",
-            "§7Отримаєте після продажу: §c%s",
-            "",
-            "§7Натисніть на §fколіщатко миші,",
-            "§7щоб проадти все %s",
-            "",
-            "§e▸ ЛКМ, щоб відкрити меню покупок",
-            "§e▸ ПКМ, щоб відкрити меню продажів"
-        ],
-        "en": [
-            "",
-            "§7Purchase price: §a%s",
-            "§7Receive after sale: §c%s",
-            "",
-            "§7Click on §fthe mouse wheel,",
-            "§7to sell everything %s",
-            "",
-            "§e▸ LMC to open the shopping menu",
-            "§e▸ RMC to open the sales menu"
-        ]
-    },
-    "SHOP_LORE_SELL_ALL": {
-        "ru": [
-            "",
-            "§7После продажи всех предметов",
-            "§7вы получите §c%s",
-            "",
-            "§e▸ Нажмите, чтобы продать"
-        ],
-        "ua": [
-            "",
-            "§Після продажу всіх предметів",
-            "§7ви отримаєте §c%s",
-            "",
-            "§e▸ Натисніть, щоб продати"
-        ],
-        "en": [
-            "",
-            "§7After selling all items",
-            "§7you'll get §c%s",
-            "",
-            "§e▸ Click to sell"
-        ]
-    },
-    "SHOP_NAMES": {
-        "ru": "§6Магазин §8| §fДоступные магазины: ",
-        "ua": "§6Магазин §8| §fДоступні магазини: ",
-        "en": "§6Store §8| §fAvailable stores: "
-    },
-    "SHOP_NAME_ADD_1": {
-        "ru": "§aДобавить 1",
-        "ua": "§aДодати 1",
-        "en": "§aAdd 1"
-    },
-    "SHOP_NAME_ADD_2": {
-        "ru": "§aДобавить 10",
-        "ua": "§aДодати 10",
-        "en": "§aAdd 10"
-    },
-    "SHOP_NAME_ADD_3": {
-        "ru": "§aУстановить максимум",
-        "ua": "§aУстановити максимум",
-        "en": "§aSet maximum"
-    },
-    "SHOP_NAME_REMOVE_1": {
-        "ru": "§cУстановить 1",
-        "ua": "§cУстановити 1",
-        "en": "§cSet 1"
-    },
-    "SHOP_NAME_REMOVE_2": {
-        "ru": "§cОтнять 10",
-        "ua": "§cВідняти 10",
-        "en": "§cSubtract 10"
-    },
-    "SHOP_NAME_REMOVE_3": {
-        "ru": "§cОтнять 1",
-        "ua": "§cВідняти 1",
-        "en": "§cSubtract 1"
-    },
-    "SHOP_NAME_SELL_ALL": {
-        "ru": "Продать все предметы",
-        "ua": "Продати всі предмети",
-        "en": "Sell all items"
-    },
-    "SHOP_NOT_FOUND": {
-        "ru": "§cОшибка, магазин %s не найден",
-        "ua": "§cПомилка, магазин %s не знайден",
-        "en": "§cError, store %s not found"
-    },
-    "SHOP_PERMISSION": {
-        "ru": "Менеджмент",
-        "ua": "Менеджмент",
-        "en": "Management"
-    },
-    "SHOP_PERMISSION_LORE": {
-        "ru": [
-            " ",
-            "§7Все участники ранга %s",
-            "§7смогут использовать магазин",
-            "§7гильдии, в том числе управлять",
-            "§aтэгом, приветствием, точкой дома",
-            "§7гильдии без Вашего разрешения",
-            "§7(полный доступ к /guild shop)",
-            " ",
-            "§c[!] §7Будьте осторожны с данным правом",
-            "   §7Мы не сможем восстановить потраченные",
-            "   §7средства на улучшения гильдии",
-            " "
-        ],
-        "ua": [
-            " ",
-            "§7Всі учасники рангу %s",
-            "§7зможуть використовувати магазин",
-            "§7гільдії, в тому числі управляти",
-            "§aтегом, вітанням, точкою будинку",
-            "§7гільдії без вашого дозволу",
-            "§7(повний доступ до /guild shop)",
-            " ",
-            "§c[!] §7Будьте обережні з цим правом",
-            "   §7Ми не зможемо відновити витрачені",
-            "   §7кошти на покращення гільдії",
-            " "
-        ],
-        "en": [
-            " ",
-            "§7All rank players %s",
-            "§7will be able to use the guild store",
-            "§7including managing",
-            "§atag, greeting, guild house point",
-            "§7without your permission",
-            "§7(full access to /guild shop)",
-            " ",
-            "§c[!] §7Be careful with this right",
-            "   §7We will not be able to recover the funds",
-            "   §7spent on improving the guild",
-            " "
-        ]
-    },
-    "SITE_SHOP_DISABLE_SPAWNERS": {
-        "ru": "§cСмена существа в рассаднике монстров отключена!",
-        "ua": "§cЗміна істоти в розсаднику монстрів вимкнена!",
-        "en": "§cThe creature change in the monster nursery is disabled!"
-    },
-    "SITE_SHOP_ITEMS_GUI_NAME": {
-        "ru": "Доступные предметы",
-        "ua": "Доступні предмети",
-        "en": "Available items"
-    },
-    "SITE_SHOP_ITEMS_NAME": {
-        "ru": "Предметы",
-        "ua": "Предмети",
-        "en": "Items"
-    },
-    "SITE_SHOP_ITEM_ALERT": {
-        "ru": "§6Магазин §8| §fВсе предметы успешно выданы!",
-        "ua": "§6Магазин §8| §fУсі предмети успішно видані!",
-        "en": "§6Shop §8| §fAll items have been successfully given out!"
-    },
-    "SITE_SHOP_ITEM_EMPTY_LORE": {
-        "ru": [
-            "§7У вас нет доступных предметов",
-            "§7Покупка на сайте §dlast-craft.com"
-        ],
-        "ua": [
-            "§7У вас немає доступних предметів",
-            "§7Покупка на сайті §dlast-craft.com"
-        ],
-        "en": [
-            "§7You have no items available",
-            "§7Purchase online §dlast-craft.com"
-        ]
-    },
-    "SITE_SHOP_ITEM_EMPTY_NAME": {
-        "ru": "§cНет доступных предметов",
-        "ua": "§cНемає доступних предметів",
-        "en": "§cNo items available"
-    },
-    "SITE_SHOP_ITEM_LORE_1": {
-        "ru": [
-            "§7Получить следующие предметы:"
-        ],
-        "ua": [
-            "§7Отримати наступні предмети:"
-        ],
-        "en": [
-            "§7Receive the following items:"
-        ]
-    },
-    "SITE_SHOP_ITEM_LORE_2": {
-        "ru": [
-            " ",
-            "§cВНИМАНИЕ! У вас должно быть %s",
-            "§cсвободных слотов в вашем инвентаре!",
-            " "
-        ],
-        "ua": [
-            " ",
-            "§cУВАГА! У вас повинно бути %s",
-            "§cвільних слотів в вашому інвентарі!",
-            " "
-        ],
-        "en": [
-            " ",
-            "§cAttention! You must have %s",
-            "§cfree slots in your inventory!",
-            " "
-        ]
-    },
-    "SITE_SHOP_ITEM_LORE_3": {
-        "ru": "§e▸ Нажмите, чтобы получить",
-        "ua": "§e▸ Натисніть, щоб отримати",
-        "en": "§e▸ Click to receive"
-    },
-    "SITE_SHOP_ITEM_LORE_4": {
-        "ru": [
-            "§7Цена: §e%s §7золота",
-            "",
-            "§e▸ Нажмите, чтобы купить"
-        ],
-        "ua": [
-            "§7Вартість: §e%s §7золота",
-            "",
-            "§e▸ Натисніть, щоб придбати"
-        ],
-        "en": [
-            "§7Price: §e%s §7of gold",
-            "",
-            "§e▸ Click to purchase"
-        ]
-    },
-    "SITE_SHOP_WAIT_MESSAGE": {
-        "ru": "§6Магазин §8| §fУ вас есть §a%s §fпредметов, которые вы не забрали после покупки! Чтобы их забрать, напишите §7/give",
-        "ua": "§6Магазин §8| §fУ вас є §a%s §fпредметів, які ви не забрали після покупки! Щоб забрати їх, напишіть §7/give",
-        "en": "§6Shop §8| §fYou have §a%s §fitems that you did not pick up after purchase! To pick them up, write §7/give"
-    },
-    "SPAWNER_CHANGED": {
-        "ru": "%s §fТип спавнера изменен на §a%s",
-        "ua": "%s §fТип спавнера змінено на §a%s",
-        "en": "%s §fSpawner type changed to §a%s"
-    },
-    "SPAWNER_CHANGE_TYPE": {
-        "ru": [
-            "",
-            "§7Сменить тип спавнера на §f%s",
-            "§7за §e%s §7%s §f(скидка %s)",
-            "",
-            "§e▸ Нажмите, чтобы сменить тип"
-        ],
-        "ua": [
-            "",
-            "§7Змінити тип спавнера на §f%s",
-            "§7за §e%s §7%s §f(знижка %s)",
-            "",
-            "§e▸ Натисніть, щоб змінити тип"
-        ],
-        "en": [
-            "",
-            "§7Change spawner type to §f%s",
-            "§7for §e%s §7%s §f(discount %s)",
-            "",
-            "§e▸ Click to change type"
-        ]
-    },
-    "SPAWNER_DROPPED": {
-        "ru": "%s §fСпавнер успешно удален и дропнут в ваш инвентарь",
-        "ua": "%s §fСпавнер успішно видалений і дропнут у ваш інвентар ",
-        "en": "%s §fThe spawner has been successfully removed and dropped into your inventory"
-    },
-    "SPAWNER_DROP_ERROR": {
-        "ru": "%s §cВы не можете дропнуть сломанный спавнер, почините его",
-        "ua": "%s §cВи не можете дропнути зламаний спавнер, спочатку необхідно полагодити його",
-        "en": "%s §cYou cannot drop a broken spawner, fix it up"
-    },
-    "SPAWNER_DROP_LORE": {
-        "ru": [
-            "",
-            "§7Чтобы сломать этот спавнер",
-            "§7и дропнуть его как блок",
-            "§7вам нужно заплатить",
-            "§e%s §7%s",
-            "",
-            "§cВНИМАНИЕ! После данного действия,",
-            "§cвсе купленные флаги будут отключены",
-            "§cи их придется покупать заново!",
-            "",
-            "§e▸ Нажмите, чтобы дропнуть спавнер"
-        ],
-        "ua": [
-            "",
-            "§7Щоб зламати цей спавнер",
-            "§7та дропнути його як блок,",
-            "§7вам потрібно заплатити",
-            "§e%s §7%s",
-            "",
-            "§cУВАГА! Після цієї дії",
-            "§cвсі куплені прапори будуть вимкнені",
-            "§cі придеться купляти їх знову!",
-            "",
-            "§e▸ Натисніть, щоб дропнути спавнер"
-        ],
-        "en": [
-            "",
-            "§7To break this spawner",
-            "§7and drop it as a block,",
-            "§7you have to pay",
-            "§e%s §7%s",
-            "",
-            "§cATTENTION! After this action,",
-            "§call purchased flags will be disabled",
-            "§cand you will have to buy them again!",
-            "",
-            "§e▸ Click to drop a spawner"
-        ]
-    },
-    "SPAWNER_DROP_NAME": {
-        "ru": "Дропнуть спавнер",
-        "ua": "Дропнути спавнер",
-        "en": "Drop spawner"
-    },
-    "SPAWNER_FIXED": {
-        "ru": "%s §fВы успешно починили спавнер §a%s",
-        "ua": "%s §fВи успішно полагодили спавнер §a%s",
-        "en": "%s §fYou have successfully repaired the spawner §a%s"
-    },
-    "SPAWNER_FIXED_LORE": {
-        "ru": [
-            "",
-            "§7Ремонт данного спавнера составит",
-            "§e%s §7%s",
-            "",
-            "§e▸ Нажмите, чтобы починить"
-        ],
-        "ua": [
-            "",
-            "§7Ремонт цього спавнера складе",
-            "§e%s §7%s",
-            "",
-            "§e▸ Натисніть, щоб полагодити"
-        ],
-        "en": [
-            "",
-            "§7The repair of this spawner will take",
-            "§e%s §7%s",
-            "",
-            "§e▸ Click to fix"
-        ]
-    },
-    "SPAWNER_FIXED_NAME": {
-        "ru": "Починить спавнер",
-        "ua": "Полагодити спавнер",
-        "en": "Fix spawner"
-    },
-    "SPAWNER_FLAG_DURABILITY_LORE": {
-        "ru": [
-            "",
-            "§7Спавнер нельзя разрушить взрывом"
-        ],
-        "ua": [
-            "",
-            "§7Спавнер не можна зруйнувати вибухом"
-        ],
-        "en": [
-            "",
-            "§7Spawner cannot be destroyed by explosion"
-        ]
-    },
-    "SPAWNER_FLAG_DURABILITY_NAME": {
-        "ru": "Защита от взрывов",
-        "ua": "Захист від вибухів",
-        "en": "Explosion protection"
-    },
-    "SPAWNER_FLAG_ENABLED": {
-        "ru": "%s §fВы успешно купили флаг %s §fдля своего спавнера",
-        "ua": "%s §fВи успішно придбали флаг %s §fдля свого спавнера",
-        "en": "%s §fYou have successfully bought a flag %s §ffor your spawner"
-    },
-    "SPAWNER_FLAG_INTELLIGENT_LORE": {
-        "ru": [
-            "",
-            "§7Включает мозги у всех мобов,",
-            "§7которые будут заспавнены из спавнера"
-        ],
-        "ua": [
-            "",
-            "§7Включає мізки у всіх мобів,",
-            "§7які будуть заспавнені зі спавнера"
-        ],
-        "en": [
-            "",
-            "§7Turns on the brains of all mobs,",
-            "§7which will be spawned from the spawner"
-        ]
-    },
-    "SPAWNER_FLAG_INTELLIGENT_NAME": {
-        "ru": "Мозги",
-        "ua": "Мізки",
-        "en": "Brains"
-    },
-    "SPAWNER_FLAG_LORE": {
-        "ru": [
-            "",
-            "§7Цена за золото: §e%s §f(%s)",
-            "",
-            "§7Данный флаг истекает:",
-            "%s",
-            "",
-            "§e▸ Нажмите, чтобы купить"
-        ],
-        "ua": [
-            "",
-            "§7Вартість за золото: §e%s §f(%s)",
-            "",
-            "§7У цього прапора закінчується строк дії:",
-            "%s",
-            "",
-            "§e▸ Натисніть, щоб придбати"
-        ],
-        "en": [
-            "",
-            "§7Gold price: §e%s §f(%s)",
-            "",
-            "§7This flag expires:",
-            "%s",
-            "",
-            "§e▸ Click to purchase"
-        ]
-    },
-    "SPAWNER_FLAG_SPEED_LORE": {
-        "ru": [
-            "",
-            "§7Все мобы будут появляться в 2 раза быстрее"
-        ],
-        "ua": [
-            "",
-            "§7Всі моби будуть з'являтися в 2 рази швидше"
-        ],
-        "en": [
-            "",
-            "§7All mobs will spawn 2 times faster"
-        ]
-    },
-    "SPAWNER_FLAG_SPEED_NAME": {
-        "ru": "Скоростной спавн",
-        "ua": "Швидкісний спавн",
-        "en": "Speed spawn"
-    },
-    "SPAWNER_FLAG_TOO_MANY_MOBS_LORE": {
-        "ru": [
-            "",
-            "§7С вероятностью 50% спавнит",
-            "§7дополнительную сущность из спавнера"
-        ],
-        "ua": [
-            "",
-            "§7З ймовірністю 50% спавнить",
-            "§7додаткову сутність зі спавнера"
-        ],
-        "en": [
-            "",
-            "§7Has a 50% chance to spawn",
-            "§7additional entity from the spawner"
-        ]
-    },
-    "SPAWNER_FLAG_TOO_MANY_MOBS_NAME": {
-        "ru": "Дополнительная сущность",
-        "ua": "Додаткова сутність",
-        "en": "Additional entity"
-    },
-    "SPAWNER_IS_ALREADY_SELECT": {
-        "ru": "%s §cЭтот спавнер уже спавнит данный тип энтити",
-        "ua": "%s §cЦей спавнер вже спавнить цей тип ентіті",
-        "en": "%s §cThis spawner will already spawn this entity type"
-    },
-    "SPAWNER_IS_BROKEN": {
-        "ru": "%s §cВы не можете поменять сущность в сломанном спавнере, почините его",
-        "ua": "%s §cВи не можете змінити сутність в зламаному спавнере, полагодіть його",
-        "en": "%s §cYou cannot change an entity in a broken spawner, fix it"
-    },
-    "SPAWN_TO": {
-        "ru": "$@MODE_PREFIX$Игрок %s §fперемещен на спавн",
-        "ua": "Гравець %s §fпреміщений на спавн",
-        "en": "Play %s §fhas been teleported to spawn"
-    },
-    "SPEED_TO": {
-        "ru": "$@MODE_PREFIX$§fУстановлена скорость §a%s §fдля игрока %s",
-        "ua": "§fВстановлена швидкість §a%s §fдля гравця %s",
-        "en": "§fSpeed set §a%s §ffor player %s"
-    },
-    "S_FORMAT": {
-        "ru": "/s <ник игрока>",
-        "ua": "/s <нік гравця>",
-        "en": "/s <player's nickname>"
-    },
-    "TELEPORTING_RUNNING": {
-        "ru": "$@MODE_PREFIX$§cПроцесс телепортации уже запущен!",
-        "ua": "§cПроцес телепортації вже запущений!",
-        "en": "§cThe teleportation process has already started!"
-    },
-    "TELEPORT_MOVE_ERROR": {
-        "ru": "$@MODE_PREFIX$§cОшибка, вы двинулись, телепортация отменена",
-        "ua": "§cПомилка, ви рушили, телепортація скасована",
-        "en": "§cError, you moved, teleportation is canceled"
-    },
-    "TELEPORT_TO": {
-        "ru": "$@MODE_PREFIX$Игрок %s §fбыл телепортирован к игроку %s",
-        "ua": "Гравець %s §fбув телепортований до гравця %s",
-        "en": "Player %s §fhas been teleported to player %s"
-    },
-    "TPACCEPT_ERROR": {
-        "ru": "$@MODE_PREFIX$У вас нет ожидающих заявок",
-        "ua": "У вас немає запитів",
-        "en": "You have no pending requests"
-    },
-    "TPACCEPT_ERROR_PLAYER": {
-        "ru": "$@MODE_PREFIX$У вас нет ожидающих заявок от игрока %s",
-        "ua": "У вас немає запитів від гравця %s",
-        "en": "You have no pending requests from a player %s"
-    },
-    "TPACCEPT_SENDER": {
-        "ru": "$@MODE_PREFIX$Вы приняли запрос от игрока %s",
-        "ua": "Ви прийняли запит від гравця %s",
-        "en": "You have accepted a request from a player %s"
-    },
-    "TPACCEPT_WHO": {
-        "ru": "$@MODE_PREFIX$Игрок %s §fпринял ваш запрос на телепортацию",
-        "ua": "Гравець %s §fприйняв ваш запит на телепортацію",
-        "en": "Player %s §faccepted your teleportation request"
-    },
-    "TPDENY_YOU": {
-        "ru": "$@MODE_PREFIX$Игрок %s §fотклонил ваш запрос на телепортарацию",
-        "ua": "Гравець %s §fвідхилив ваш запит на телепортацію",
-        "en": "Player %s §fdeclined your teleportation request"
-    },
-    "TPPOS_ERROR": {
-        "ru": "§cАргументы не верны, должны быть цифры",
-        "ua": "§cАргументи не правильні, повинні бути цифри",
-        "en": "§cArguments are not correct, there must be numbers"
-    },
-    "TPPOS_ERROR_BORDER": {
-        "ru": "$@MODE_PREFIX$§cВы не можете телепортироваться в данную локацию, она находится за пределами границы мира",
-        "ua": "§cВи не можете телепортуватися на цю локацію, вона знаходиться за межами кордону світу",
-        "en": "§cYou cannot teleport to this location, it is beyond the border of the world"
-    },
-    "TPPOS_FORMAT": {
-        "ru": "/tppos <x> <y> <z>",
-        "ua": "/tppos <x> <y> <z>",
-        "en": "/tppos <x> <y> <z>"
-    },
-    "TPTOGGLE_DISABLE": {
-        "ru": "$@MODE_PREFIX$Телепортации - §cотключены",
-        "ua": "Телепортації - §cвимкнені",
-        "en": "Teleports - §cdisabled"
-    },
-    "TPTOGGLE_ENABLE": {
-        "ru": "$@MODE_PREFIX$Телепортации - §aвключены",
-        "ua": "Телепортації - §aувімкнені",
-        "en": "Teleports - §aenabled"
-    },
-    "TPTOGGLE_ITEM_NAME": {
-        "ru": "§aТелепортации §f- §a%s",
-        "ua": "§aТелепортації §f- §a%s",
-        "en": "§aTeleports §f- §a%s"
-    },
-    "TRADE_ERROR": {
-        "ru": "$TRADE_PREFIX$С вами еще никто не хотел поменяться",
-        "ua": "§6Trade §8| §fЗ вами ще ніхто не хотів помінятися",
-        "en": "§6Trade §8| §fNobody wanted to trade with you yet"
-    },
-    "TRADE_ERROR2": {
-        "ru": "$TRADE_PREFIX$У вас нет ожидающих заявок от игрока %s",
-        "ua": "§6Trade §8| §fУ вас немає заявок від гравця %s",
-        "en": "§6Trade §8| §fYou have no pending requests from player %s"
-    },
-    "TRADE_ERROR_YOU": {
-        "ru": "§cВы не можете принимать запросы сами от себя :/",
-        "ua": "§cВи не можете приймати запити самі від себе :/",
-        "en": "§cYou can't accept your own requests :/"
-    },
-    "TRADE_FORMAT": {
-        "ru": "/trade <ник игрока>",
-        "ua": "/trade <нік гравця>",
-        "en": "/trade <player's nickname>"
-    },
-    "TRADE_HELP": {
-        "ru": [
-            "§7/trade <ник> §f- предложить обмен",
-            "§7/trade accept <ник> §f- принять обмен"
-        ],
-        "ua": [
-            "§7/trade <нік> §f- запропонувати обмін",
-            "§7/trade accept <нік> §f- прийняти обмін"
-        ],
-        "en": [
-            "§7/trade <nickname> §f- offer trade",
-            "§7/trade accept <nickname> §f- accept trade"
-        ]
-    },
-    "TRADE_INVITE_1": {
-        "ru": "%s §fпредложил вам обмен",
-        "ua": " %s §fзапропонував вам обмін",
-        "en": " %s §foffered you to trade"
-    },
-    "TRADE_PREFIX": {
-        "ru": "§6Trade §8| §f"
-    },
-    "USER_SETBED": {
-        "ru": "$@MODE_PREFIX$Точка §aдома §fустановлена",
-        "ua": "Точка §aбудинку §fвстановлена",
-        "en": "House §apoint §fis set"
-    },
-    "USER_SETHOME_BED": {
-        "ru": "$@MODE_PREFIX$Чтобы установить §aточку дома§f, кликните §7ПКМ §fпо кровати",
-        "ua": "Щоб встановити §aточку будинку§f, клікніть §7ПКМ §fпо ліжку",
-        "en": "To set a §ahouse point§f, §7RMC §fon the bed"
-    },
-    "WARPINFO_FORMAT": {
-        "ru": "/warpinfo <название варпа>",
-        "ua": "/warpinfo <назва варпа>",
-        "en": "/warpinfo <warp name>"
-    },
-    "WARP_CLOSE": {
-        "ru": "$@MODE_PREFIX$§cВарп %s закрыт, т.к. он является приватным!",
-        "ua": "§cВарп %s закритий, тому що він є приватним!",
-        "en": "§cWarp %s is closed because it is private!"
-    },
-    "WARP_CREATE": {
-        "ru": "$@MODE_PREFIX$Варп §a%s §fуспешно создан",
-        "ua": "Варп §a%s §fуспішно створений",
-        "en": "Warp §a%s §fhas been successfully created!"
-    },
-    "WARP_CREATE_ERROR": {
-        "ru": "$@MODE_PREFIX$§cВарп %s уже существует",
-        "ua": "§cВарп %s вже існує",
-        "en": "§cWarp %s already exists"
-    },
-    "WARP_CREATE_NAME_ERROR": {
-        "ru": "$@MODE_PREFIX$§cОшибка, длина варпа не может превышать 32 символа",
-        "ua": "§cПомилка, довжина варпа не може перевищувати 32 символу",
-        "en": "§cError, Warp length cannot exceed 32 characters"
-    },
-    "WARP_GUI_LORE": {
-        "ru": [
-            "",
-            "§7управление своими",
-            "§7варпами или просмотр публичных",
-            "",
-            "§7Всего варпов: §c%s",
-            "",
-            "§e▸ ЛКМ, чтобы открыть меню публичных варпов",
-            "§e▸ ПКМ, чтобы открыть меню своих варпов"
-        ],
-        "ua": [
-            "",
-            "§7управління своїми",
-            "§7варпами або перегляд публічних",
-            "",
-            "§7Всього варпів: §c%s",
-            "",
-            "§e▸ ЛКМ, щоб відкрити меню публічних варпів",
-            "§e▸ ПКМ, щоб відкрити меню своїх варпів"
-        ],
-        "en": [
-            "",
-            "§7Manage your",
-            "§7Warps or view public",
-            "",
-            "§7Total Warps: §c%s",
-            "",
-            "§e▸ LMC TO open the public warp menu",
-            "§e▸ RMC to open your Warp menu"
-        ]
-    },
-    "WARP_GUI_NAME": {
-        "ru": "Список варпов",
-        "ua": "Список варпів",
-        "en": "Warps list"
-    },
-    "WARP_ITEM_CHANGER_LORE": {
-        "ru": [
-            "",
-            "§7Показать список публичных варпов",
-            "",
-            "§e▸ Нажмите, чтобы переключиться"
-        ],
-        "ua": [
-            "",
-            "§7Показати список публічних варпів",
-            "",
-            "§e▸ Натисніть, щоб переключитися"
-        ],
-        "en": [
-            "",
-            "§7Show list of public Warps",
-            "",
-            "§e▸ Click to switch"
-        ]
-    },
-    "WARP_ITEM_CHANGER_NAME": {
-        "ru": "Публичные варпы",
-        "ua": "Публічні варпи",
-        "en": "Public Warps"
-    },
-    "WARP_ITEM_EMPTY_LORE": {
-        "ru": [
-            "§7В данный момент на сервере",
-            "§7нет доступных публичных варпов"
-        ],
-        "ua": [
-            "§7Зараз на сервері",
-            "§7немає доступних публічних варпів"
-        ],
-        "en": [
-            "§7Currently on the server",
-            "§7there are no availavle public warps"
-        ]
-    },
-    "WARP_ITEM_EMPTY_NAME": {
-        "ru": "§cНа сервере нет активных варпов",
-        "ua": "§cНа сервері немає активних варпів",
-        "en": "§cThere are no active Warps on the server"
-    },
-    "WARP_ITEM_LORE": {
-        "ru": [
-            "",
-            "§7Владелец: %s",
-            "§7Дата создания: §f%s",
-            "§7Координаты варпа:",
-            " §7Мир: §c%s",
-            " §7X: §c%s",
-            " §7Y: §c%s",
-            " §7Z: §c%s",
-            "",
-            "§e▸ Нажмите, чтобы телепортироваться"
-        ],
-        "ua": [
-            "",
-            "§7Власник: %s",
-            "§7Дата створення: §f%s",
-            "§7Координати варпа:",
-            " §7Світ: §c%s",
-            " §7X: §c%s",
-            " §7Y: §c%s",
-            " §7Z: §c%s",
-            "",
-            "§e▸ Натисніть, щоб телепортуватися"
-        ],
-        "en": [
-            "",
-            "§7Owner: %s",
-            "§7Creation date: §f%s",
-            "§7Warp coordinates:",
-            " §7World: §c%s",
-            " §7X: §c%s",
-            " §7Y: §c%s",
-            " §7Z: §c%s",
-            "",
-            "§e▸ Click to teleport"
-        ]
-    },
-    "WARP_NOT_FOUND": {
-        "ru": "$@MODE_PREFIX$§cВарп %s не найден",
-        "ua": "§cВарп %s не знайдений",
-        "en": "§cWarp %s not found"
-    },
-    "WARP_NOT_YOUR": {
-        "ru": "$@MODE_PREFIX$§cДанный варп вам не принадлежит",
-        "ua": "§cЦей варп не принадлежить вам",
-        "en": "§cThis warp doesn't belong to you"
-    },
-    "WARP_REMOVED": {
-        "ru": "$@MODE_PREFIX$Варп §a%s §fудален",
-        "ua": "§fВарп §a%s §fвидалений",
-        "en": "§fWarp §a%s §fis removed"
-    },
-    "WARP_TO": {
-        "ru": "$@MODE_PREFIX$Вы были телепортированы на варп §a%s",
-        "ua": "Ви були телепортовані на варп §a%s",
-        "en": "You have been teleported to Warp §a%s"
-    },
-    "WEB_BUY_ITEMS": {
-        "ru": "§6Сервер §8| §fПоздравляем с покупкой %s §8x%s",
-        "ua": "§6Сервер §8| §fВітаємо вас із покупкою %s §8x%s",
-        "en": "§6Server §8| §fCongratulations on your purchase %s §8x%s"
-    },
-    "TPDENY": {
-        "ru": "$@MODE_PREFIX$Вы отклонили запрос на телепортацию от игрока %s"
-    },
-    "TPPOS": {
-        "ru": "$@MODE_PREFIX$Телепортируем на координаты: %s"
-    },
-    "TPTOGGLE": {
-        "ru": "$@MODE_PREFIX$§cИгрок %s §cотключил все запросы на телепортации"
-    },
-    "TRADE": {
-        "ru": "$@MODE_PREFIX$§fЗапрос на обмен отправлен игроку %s"
-    },
-    "BACK": {
-        "ru": "$@MODE_PREFIX$Телепортируем на предыдущую локацию"
-    },
-    "CALL": {
-        "ru": "$@MODE_PREFIX$Запрос на телепортацию отправлен игроку %s"
-    },
-    "TELEPORT": {
-        "ru": "$@MODE_PREFIX$Вы были телепортированы к игроку %s"
-    },
-    "TELEPORTING": {
-        "ru": "$@MODE_PREFIX$Телепортируем, не двигайтесь §a%s §f%s"
-    },
-    "SPEED": {
-        "ru": "$@MODE_PREFIX$Установлена скорость §a%s"
-    },
-    "SPAWN": {
-        "ru": "$@MODE_PREFIX$Телепортируем на спавн..."
-    },
-    "REPAIR": {
-        "ru": "$@MODE_PREFIX$Предмет отремонтирован"
-    },
-    "PTIME": {
-        "ru": "$@MODE_PREFIX$Время установлено на §a%s"
-    },
-    "HAT": {
-        "ru": "$@MODE_PREFIX$Наслаждайтесь своим головным убором!"
-    },
-    "HEAL": {
-        "ru": "$@MODE_PREFIX$Хп и голод восстановлены"
-    },
-    "FEED": {
-        "ru": "$@MODE_PREFIX$Голод восстановлен"
-    },
-    "EXT": {
-        "ru": "$@MODE_PREFIX$Вы были потушены"
-    }
+  "ALTERNATE_GUI_NAME": {
+    "ru": "Меню",
+    "ua": "Меню",
+    "en": "Menu"
+  },
+  "AUCTION_ACCEPT_ALL_LORE": {
+    "ru": [
+      "",
+      "§e▸ Нажмите, чтобы подвердить"
+    ],
+    "ua": [
+      "",
+      "§e▸ Натисніть, щоб підтвердити"
+    ],
+    "en": [
+      "",
+      "§e▸ Click to confirm"
+    ]
+  },
+  "AUCTION_ACCEPT_WAIT_LORE": {
+    "ru": [
+      "",
+      "§7Вложите предметы в верхние слоты",
+      "§7чтобы выставить их на продажу"
+    ],
+    "ua": [
+      "",
+      "§7Вкладіть предмети в верхні слоти",
+      "§7щоб виставити їх на продаж"
+    ],
+    "en": [
+      "",
+      "§7Place items in the top slots",
+      "§7to put them up for sale"
+    ]
+  },
+  "AUCTION_ADD_TO_SELL": {
+    "ru": "Предмет §7%s §fбыл выложен на продажу за §a%s",
+    "ua": "§6Аукціон §8| §fПредмет §7%s §fбув викладений на продаж за§a%s",
+    "en": "§6Auction §8| §fItem §7%s §fhas been put up for sale for §a%s"
+  },
+  "AUCTION_ADD_TO_SELL_ERROR": {
+    "ru": "$AUCTION_PREFIX$Ошибка, в вашей руке недостаточное кол-во предметов",
+    "ua": "§6Аукціон §8| §fПомилка, у вашій руці недостатня кількість предметів",
+    "en": "§6Auction §8| §fError, there are nor enough items in your hand"
+  },
+  "AUCTION_BUY": {
+    "ru": "$AUCTION_PREFIX$Вы успешно купили §7%s §fx §7%s §fза §a%s$",
+    "ua": "§6Аукціон §8| §fВи успішно купили §7%s §fx §7%s §fза §a%s$",
+    "en": "§6Auction §8| §fYou have successfuly bought §7%s §fx §7%s §ffor §a%s$"
+  },
+  "AUCTION_BUY_GUI_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Продавец: %s",
+      "",
+      "§e▸ Нажмите, чтобы купить"
+    ],
+    "ua": [
+      "",
+      "§7Продавець: %s",
+      "",
+      "§e▸ Натисніть, щоб купити"
+    ],
+    "en": [
+      "",
+      "§7ПSeller: %s",
+      "",
+      "§e▸ Click to purchase"
+    ]
+  },
+  "AUCTION_BUY_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7То, что вы покупаете"
+    ],
+    "ua": [
+      "",
+      "§7Те, що ви купуєте"
+    ],
+    "en": [
+      "",
+      "§7What you are buying"
+    ]
+  },
+  "AUCTION_BUY_PRICE_LORE": {
+    "ru": [
+      "",
+      "§7То, что вы отдаете"
+    ],
+    "ua": [
+      "",
+      "§7Те, що ви віддаєте"
+    ],
+    "en": [
+      "",
+      "§7What you are giving"
+    ]
+  },
+  "AUCTION_BUY_SELLER": {
+    "ru": "$AUCTION_PREFIX$Игрок %s §fкупил у вас §7%s §fx §7%s §fза §a%s",
+    "ua": "§6Аукціон §8| §fГравець %s §fкупив у вас §7%s §fx §7%s §fза §a%s",
+    "en": "§6Auction §8| §fPlayer %s §fbought your §7%s §fx §7%s §ffor §a%s"
+  },
+  "AUCTION_BUY_YOU_ERROR": {
+    "ru": "$AUCTION_PREFIX$Ошибка, вы не можете купить сами у себя...",
+    "ua": "§6Аукціон §8| §fПомилка, ви не можете купити самі у себе...",
+    "en": "§6Auction §8| §fError, you cannot buy from yourself..."
+  },
+  "AUCTION_CATEGORY_LORE": {
+    "ru": [
+      "",
+      "§7В данный момент вы включили",
+      "§7отображение предметов - §f%s",
+      "",
+      "§e▸ Нажмите, чтобы сменить категорию"
+    ],
+    "ua": [
+      "",
+      "§7В даний момент ви ввімкнули",
+      "§7відображення предметів - §f%s",
+      "",
+      "§e▸ Натисніть, щоб змінити категорію"
+    ],
+    "en": [
+      "",
+      "§7At this point, you have enabled",
+      "§7display items - §f%s",
+      "",
+      "§e▸ Click to change category"
+    ]
+  },
+  "AUCTION_CATEGORY_NAME": {
+    "ru": "Текующая категория предметов",
+    "ua": "Поточна категорія предметів",
+    "en": "Current Item Category"
+  },
+  "AUCTION_CHEST_AVAILABLE_LORE": {
+    "ru": [
+      "",
+      "§e▸ Нажмите, чтобы снять с продажи"
+    ],
+    "ua": [
+      "",
+      "§e▸ Натисніть, щоб зняти з продажу"
+    ],
+    "en": [
+      "",
+      "§e▸ Click to withdraw from sale"
+    ]
+  },
+  "AUCTION_CHEST_NOT_AVAILABLE_LORE": {
+    "ru": [
+      "",
+      "§7Время истекло, предмет снят с продажи"
+    ],
+    "ua": [
+      "",
+      "§7Час минув, предмет знятий з продажу"
+    ],
+    "en": [
+      "",
+      "§7Time has expired, item has been discontinued"
+    ]
+  },
+  "AUCTION_CHEST_SELLED_LORE": {
+    "ru": [
+      "",
+      "§7То, что вы получили за",
+      "§7продажу §c%s"
+    ],
+    "ua": [
+      "",
+      "§7Те, що ви отримали за",
+      "§7продаж §c%s"
+    ],
+    "en": [
+      "",
+      "§7What you have received for",
+      "§7selling §c%s"
+    ]
+  },
+  "AUCTION_COMMAND_ERROR": {
+    "ru": "§cОшибка, цена предмета должна быть только числом",
+    "ua": "§cПомилка, ціна предмета повинна бути тільки числом",
+    "en": "§cError, item price should only be a number"
+  },
+  "AUCTION_COMMAND_ERROR1": {
+    "ru": "§cОшибка, цена и кол-во предмета не может быть равна 0",
+    "ua": "§cПомилка, ціна і кількість предмета не може дорівнювати 0",
+    "en": "§cError, the price and quantity of an item cannot be equal to 0"
+  },
+  "AUCTION_COMMAND_ERROR2": {
+    "ru": "§cОшибка, кол-во предметов для продажи должно быть числом",
+    "ua": "§cПомилка, кількість предметів для продажу повинна бути числом",
+    "en": "§cError, the number of items to sell must be a number"
+  },
+  "AUCTION_COMMAND_ERROR3": {
+    "ru": "§cОшибка, вы не можете продать данный айтем пока он находится во 2й руке",
+    "ua": "§cПомилка, ви не можете продати даний айтем поки він знаходиться у 2й руці",
+    "en": "§cError, you cannot sell this item while it is in your second hand"
+  },
+  "AUCTION_COMMAND_HELP": {
+    "ru": [
+      "§7/ah §f- открыть аукцион",
+      "§7/ah sell <цена> [кол-во] §f- выставить предметы в руке на продажу",
+      "§7/ah show <ник игрока> §f- посмотреть продаевые предметы этим игроком"
+    ],
+    "ua": [
+      "§7/ah §f- відкрити аукціон",
+      "§7/ah sell <ціна> [кол-во] §f- виставити предмети в руці на продаж",
+      "§7/ah show <нік гравця> §f- подивитися предмети, що продає цей гравець"
+    ],
+    "en": [
+      "§7/ah §f- open an auction",
+      "§7/ah sell <price> [amount] §f- put items in hand for sale",
+      "§7/ah show <player's nickname> §f- view items being sold by this player"
+    ]
+  },
+  "AUCTION_CONFIRMED_GUI": {
+    "ru": "Подтверждение покупки",
+    "ua": "Підтвердження покупки",
+    "en": "Confirmation of purchase"
+  },
+  "AUCTION_CONFIRMED_GUI_LORE": {
+    "ru": [
+      "",
+      "§7Вы уверены, что хотите",
+      "§7купить §f%s §7x §f%s ",
+      "§7за §a%s$ §7у игрока %s",
+      ""
+    ],
+    "ua": [
+      "",
+      "§7Ви впевнені, що хочете",
+      "§7купити §f%s §7x §f%s ",
+      "§7за §a%s$ §7у гравця %s",
+      ""
+    ],
+    "en": [
+      "",
+      "§7ВAre you sure you want to",
+      "§7buy §f%s §7x §f%s ",
+      "§7for §a%s$ §7from player %s",
+      ""
+    ]
+  },
+  "AUCTION_FORMAT": {
+    "ru": "/ah buy <цена> [кол-во]",
+    "ua": "/ah buy <ціна> [кіл-сть]",
+    "en": "/ah buy <price> [amount]"
+  },
+  "AUCTION_GUI_BUY_NAME": {
+    "ru": "Покупка",
+    "ua": "Покупка",
+    "en": "Purchase"
+  },
+  "AUCTION_GUI_NAME": {
+    "ru": "Мои предметы",
+    "ua": "Мої предмети",
+    "en": "My items"
+  },
+  "AUCTION_GUI_SELL_NAME": {
+    "ru": "Продажа",
+    "ua": "Продаж",
+    "en": "Sell"
+  },
+  "AUCTION_ITEM_ALLREADY_SELLED": {
+    "ru": "$AUCTION_PREFIX$Ошибка, предмет был продан, сожалеем...",
+    "ua": "§6Аукціон §8| §fПомилка, предмет був проданий, шкодуємо...",
+    "en": "§6Auction §8| §fError, the item has been sold, sorry..."
+  },
+  "AUCTION_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Данный предмет продает",
+      "§a%s §7%s",
+      "",
+      "§e▸ Нажмите, чтобы купить"
+    ],
+    "ua": [
+      "",
+      "§7Даний предмет продає",
+      "§a%s §7%s",
+      "",
+      "§e▸ Натисніть, щоб купити"
+    ],
+    "en": [
+      "",
+      "§7This item is being sold by",
+      "§a%s §7%s",
+      "",
+      "§e▸ Click to purchase"
+    ]
+  },
+  "AUCTION_LIMIT_ERROR": {
+    "ru": "$AUCTION_PREFIX$Ошибка, у вас превышен лимит на кол-во активных предметов. Ваш текущий лимит §a%s §fпредметов",
+    "ua": "§6Аукціон §8| §fПомилка, у вас перевищений ліміт на кількість активних предметів. Ваш поточний ліміт §a%s §fпредметів",
+    "en": "§6Auction §8| §fError, you have exceeded the limit on the number of active items. Your current item is §a%s §fitems"
+  },
+  "AUCTION_LORE_ITEM": {
+    "ru": [
+      "",
+      "§7Продавец: %s",
+      "§7Цена: §a%s$",
+      "§7Истекает через:",
+      "§c%s",
+      "",
+      "§e▸ ЛКМ, чтобы купить",
+      "§e▸ ПКМ, чтобы открыть все товары продавца"
+    ],
+    "ua": [
+      "",
+      "§7Продавець: %s",
+      "§7Ціна: §a%s$",
+      "§7Завершується через:",
+      "§c%s",
+      "",
+      "§e▸ ЛКМ, щоб купити",
+      "§e▸ ПКМ, щоб відкрити всі товари продавця"
+    ],
+    "en": [
+      "",
+      "§7Seller: %s",
+      "§7Price: §a%s$",
+      "§7Expires in:",
+      "§c%s",
+      "",
+      "§e▸ LMC to purchase",
+      "§e▸ RMC to open all items of the seller"
+    ]
+  },
+  "AUCTION_LORE_MYGUI": {
+    "ru": [
+      "",
+      "§7Цена продажи: §a%s$",
+      "§7Истекает через:",
+      "§c%s",
+      "",
+      "§e▸ ПКМ, чтобы снять с торгов"
+    ],
+    "ua": [
+      "",
+      "§7Ціна продажу: §a%s$",
+      "§7Завершується через:",
+      "§c%s",
+      "",
+      "§e▸ ПКМ, щоб зняти з торгів"
+    ],
+    "en": [
+      "",
+      "§7Price: §a%s$",
+      "§7Expires in:",
+      "§c%s",
+      "",
+      "§e▸ RMC to withdraw from the auction"
+    ]
+  },
+  "AUCTION_MAINGUI_NAME": {
+    "ru": "Аукцион",
+    "ua": "Аукціон",
+    "en": "Auction"
+  },
+  "AUCTION_MAIN_CHEST_LORE": {
+    "ru": [
+      "",
+      "§7Забрать ваши предметы с аукциона",
+      "§7или получить обменные товары",
+      "§7за ваши предметы",
+      "",
+      "§e▸ Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "",
+      "§7Забрати ваші предмети з аукціону",
+      "§7або отримати обмінні товари",
+      "§7за ваші предмети",
+      "",
+      "§e▸ Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "",
+      "§7Withdraw your items from the auction",
+      "§7or receive exchange items",
+      "§7for your items",
+      "",
+      "§e▸ Click to open"
+    ]
+  },
+  "AUCTION_MAIN_HELP_LORE": {
+    "ru": [
+      "",
+      "§7В первом разделе вы можете продавать",
+      "§7любые вещи за ресурсы, которые вам необходимы",
+      "",
+      "§7Второй раздел в меню отвечает",
+      "§7за покупку любых товаров, которые",
+      "§7были заранее выставлены на продажу",
+      "§7другими игроками",
+      "",
+      "§7С помощью третьего раздела вы можете",
+      "§7забрать ваши не проданные или купленные вещи"
+    ],
+    "ua": [
+      "",
+      "§7У першому розділі ви можете продавати",
+      "§7будь-які речі за ресурси, які вам необхідні",
+      "",
+      "§7Другий розділ в меню відповідає",
+      "§7за покупку будь-яких товарів, які",
+      "§7були заздалегідь виставлені на продаж",
+      "§7іншими гравцями",
+      "",
+      "§7За допомогою третього розділу ви можете",
+      "§7забрати ваші не продані або куплені речі"
+    ],
+    "en": [
+      "",
+      "§7In the first section, you can sell",
+      "§7any things for the resources you need",
+      "",
+      "§7The second section in the menu is responsible",
+      "§7for purchase of any goods that",
+      "§7were put up for sale in advance",
+      "§7by other players",
+      "",
+      "§7With the third section, you can",
+      "§7withdraw your unsold or purchased items"
+    ]
+  },
+  "AUCTION_MAIN_LORE": {
+    "ru": [
+      "",
+      "§7Покупка предметов",
+      "§7выставленных на аукцион",
+      "",
+      "§7В данный момент продается",
+      "§c%s §7товаров",
+      "",
+      "§e▸ Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "",
+      "§7Купівля предметів",
+      "§7виставлених на аукціон",
+      "",
+      "§7В даний момент продається",
+      "§c%s §7товарів",
+      "",
+      "§e▸ Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "",
+      "§7Buying items",
+      "§7put up for auction",
+      "",
+      "§7At present there are",
+      "§c%s §7items being sold",
+      "",
+      "§e▸ Click to open"
+    ]
+  },
+  "AUCTION_MAIN_SELL_LORE": {
+    "ru": [
+      "",
+      "§7Выложить на продажу ваши",
+      "§7вещи и предметы",
+      "",
+      "§e▸ Нажмите, чтобы продать"
+    ],
+    "ua": [
+      "",
+      "§7Викласти на продаж ваші",
+      "§7речі і предмети",
+      "",
+      "§e▸ Натисніть, щоб продати"
+    ],
+    "en": [
+      "",
+      "§7Put up for sale your",
+      "§7things and items",
+      "",
+      "§e▸ Click to sell"
+    ]
+  },
+  "AUCTION_MYGUI_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Открыть список моих товаров,",
+      "§7которые выставленны на торги",
+      "",
+      "§e▸ Нажмите, чтобы открыть список"
+    ],
+    "ua": [
+      "",
+      "§7Відкрити список моїх товарів,",
+      "§7які виставлені на торги",
+      "",
+      "§e▸ Натисніть, щоб відкрити список"
+    ],
+    "en": [
+      "",
+      "§7Open the list of my goods,",
+      "§7which are put up for auction",
+      "",
+      "§e▸ Click to open the list"
+    ]
+  },
+  "AUCTION_MYGUI_ITEM_NAME": {
+    "ru": "§aМои товары",
+    "ua": "§aМої товари",
+    "en": "§aMy goods"
+  },
+  "AUCTION_NO_AUCTION": {
+    "ru": "Снят с продажи",
+    "ua": "Знятий з продажу",
+    "en": "Discontinued"
+  },
+  "AUCTION_NO_ITEMS_LORE": {
+    "ru": [
+      "",
+      "§7Кажется я ничего не нашел",
+      "§7или предметы отсутствуют"
+    ],
+    "ua": [
+      "",
+      "§7Здається, я нічого не знайшов",
+      "§7або предмети відсутні"
+    ],
+    "en": [
+      "",
+      "§7I don't seem to find anything",
+      "§7or the items are absent"
+    ]
+  },
+  "AUCTION_NO_ITEMS_NAME": {
+    "ru": "Ничего не найдено (",
+    "ua": "Нічого не знайдено (",
+    "en": "Nothing is found ("
+  },
+  "AUCTION_NO_MONEY": {
+    "ru": "$AUCTION_PREFIX$Ошибка, у вас недостаточно денег для покупки предмета",
+    "ua": "§6Аукціон §8| §fПомилка, у вас недостатньо грошей для покупки предмета",
+    "en": "§6Auction §8| §fError, you don't have enough money for buying the item"
+  },
+  "AUCTION_NO_RESOURCES_NAME": {
+    "ru": "§cУ вас недостаточно ресурсов!",
+    "ua": "§cУ вас недостатньо ресурсів!",
+    "en": "§cYou don't have enough resources!"
+  },
+  "AUCTION_PLAYERGUI_NAME": {
+    "ru": "Аукцион %s",
+    "ua": "Аукціон %s",
+    "en": "Auction %s"
+  },
+  "AUCTION_PREFIX": {
+    "ru": "§6Аукцион §8| §f"
+  },
+  "AUCTION_REMOVED_ITEM": {
+    "ru": "$AUCTION_PREFIX$Вы успешно сняли свой лот с аукциона",
+    "ua": "§6Аукціон §8| §fВи успішно зняли свій лот з аукціону",
+    "en": "§6Auction §8| §fYou have successfully withdrawn your item from the auction"
+  },
+  "AUCTION_SELECTED_BLOCK_LORE": {
+    "ru": [
+      "",
+      "§7Данный предмет будет в качестве цены"
+    ],
+    "ua": [
+      "",
+      "§7Даний предмет буде в якості ціни"
+    ],
+    "en": [
+      "",
+      "§7This item will be used as a price"
+    ]
+  },
+  "AUCTION_SELECT_BLOCK_GUI": {
+    "ru": "Выбор блока",
+    "ua": "Вибір блоку",
+    "en": "Block selection"
+  },
+  "AUCTION_SELECT_BLOCK_LORE": {
+    "ru": [
+      "",
+      "§e▸ Нажмите, чтобы выбрать данный предмет"
+    ],
+    "ua": [
+      "",
+      "§e▸ Натисніть, щоб вибрати даний предмет"
+    ],
+    "en": [
+      "",
+      "§e▸ Click to choose this item"
+    ]
+  },
+  "AUCTION_SELL_AIR": {
+    "ru": "$AUCTION_PREFIX$Ошибка, вы не можете продавать воздух (",
+    "ua": "§6Аукціон §8| §fПомилка, ви не можете продавати повітря (",
+    "en": "§6Auction §8| §fError, you can't sell air ("
+  },
+  "AUCTION_SELL_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Вложите в этот слот предмет,",
+      "§7который хотите продать",
+      ""
+    ],
+    "ua": [
+      "",
+      "§7Вкладіть в цей слот предмет,",
+      "§7який хочете продати",
+      ""
+    ],
+    "en": [
+      "",
+      "§7Place in the slot an item,",
+      "§7which you want to sell",
+      ""
+    ]
+  },
+  "AUCTION_SELL_PRICE_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Вложите в этот слот предмет,",
+      "§7который хотите получить после",
+      "§7или нажмите, чтобы открыть меню выбора",
+      ""
+    ],
+    "ua": [
+      "",
+      "§7Вкладіть в цей слот предмет,",
+      "§7який хочете отримати після",
+      "§7або натисніть, щоб відкрити меню вибору",
+      ""
+    ],
+    "en": [
+      "",
+      "§7Place in the slot an item,",
+      "§7which you want to receive",
+      "§7or click to open the selection menu",
+      ""
+    ]
+  },
+  "AUCTION_SHOW_ERROR": {
+    "ru": "$AUCTION_PREFIX$Ошибка, у игрока %s §fнет активных товаров для продажи",
+    "ua": "§6Аукціон §8| §fПомилка, у гравця %s §fнемає активних товарів для продажу",
+    "en": "§6Auction §8| §fError, player %s §fhas no active items for sales"
+  },
+  "AUCTION_SHOW_FORMAT": {
+    "ru": "/ah show <ник>",
+    "ua": "/ah show <нік>",
+    "en": "/ah show <nickname>"
+  },
+  "AUCTION_SUB_TYPE_LORE": {
+    "ru": [
+      "",
+      "§7Отсортировать все предметы",
+      "§7по данному типу",
+      "",
+      "§e▸ Нажмите, чтобы выбрать этот тип"
+    ],
+    "ua": [
+      "",
+      "§7Відсортувати всі предмети",
+      "§7за даним типом",
+      "",
+      "§e▸ Натисніть, щоб вибрати цей тип"
+    ],
+    "en": [
+      "",
+      "§7Sort all items",
+      "§7by this type",
+      "",
+      "§e▸ Click to select this type"
+    ]
+  },
+  "AUCTION_TYPE_ALL_NAME": {
+    "ru": "Все",
+    "ua": "Все",
+    "en": "All"
+  },
+  "AUCTION_TYPE_ARMOR_NAME": {
+    "ru": "Броня",
+    "ua": "броня",
+    "en": "Armor"
+  },
+  "AUCTION_TYPE_BLOCKS_NAME": {
+    "ru": "Блоки",
+    "ua": "Блоки",
+    "en": "Blocks"
+  },
+  "AUCTION_TYPE_ENCHANTING_NAME": {
+    "ru": "Зачарования",
+    "ua": "Зачарування",
+    "en": "Enchantments"
+  },
+  "AUCTION_TYPE_FARMING_NAME": {
+    "ru": "Растения",
+    "ua": "Рослини",
+    "en": "Plants"
+  },
+  "AUCTION_TYPE_FOOD_NAME": {
+    "ru": "Еда",
+    "ua": "Їжа",
+    "en": "Food"
+  },
+  "AUCTION_TYPE_OTHER_NAME": {
+    "ru": "Остальное",
+    "ua": "Решта",
+    "en": "Rest"
+  },
+  "AUCTION_TYPE_POTION_NAME": {
+    "ru": "Зелья",
+    "ua": "Зілля",
+    "en": "Potions"
+  },
+  "AUCTION_TYPE_RESOURCES_NAME": {
+    "ru": "Ресурсы",
+    "ua": "Ресурси",
+    "en": "Resources"
+  },
+  "AUCTION_TYPE_TOOLS_NAME": {
+    "ru": "Инструменты",
+    "ua": "Інструменти",
+    "en": "Instruments"
+  },
+  "AUCTION_TYPE_WEAPON_NAME": {
+    "ru": "Оружие",
+    "ua": "Зброя",
+    "en": "Weapons"
+  },
+  "BED_BROKEN": {
+    "ru": "§cКровать\\якорь отсутствует или был(а) уничтожена",
+    "ua": "§cЛіжко\\якір відсутні або були знищені",
+    "en": "§cBed/anchor is missing or has been destroyed"
+  },
+  "BETTER_SURVIVAL_COMPASS": {
+    "ru": "$@MODE_PREFIX$§fВаш компас указывает на координаты §ax: %s §az: %s",
+    "ua": "§fВаш компас вказує на координати §ax: %s §az: %s",
+    "en": "§fYour compass points to coordinates §ax: %s §az: %s"
+  },
+  "BETTER_SURVIVAL_COMPASS_ERROR_FORMAT": {
+    "ru": "$@MODE_PREFIX$§cОшибка в написании координат! §fНастроить компас на координаты §7/compass <x> <z>",
+    "ua": "§fПомилка в написанні координат! §fНалаштувати компас на координати §7/compass <x> <z>",
+    "en": "§fCoordinate spelling error! §fAdjust compass to coordinates §7/compass <x> <z>"
+  },
+  "BETTER_SURVIVAL_COMPASS_FORMAT": {
+    "ru": "$@MODE_PREFIX$Вы можете настроить компасс на любые координаты §7/compass <x> <z>",
+    "ua": "§fВи можете налаштувати компас на будь-які координати §7/compass <x> <z>",
+    "en": "§fYou can adjust the compass to any coordinates §7/compass <x> <z>"
+  },
+  "BETTER_SURVIVAL_COMPASS_TO": {
+    "ru": "Расстояние до цели: §a%s",
+    "ua": "Відстань до мети: §a%s",
+    "en": "Target distance: §a%s"
+  },
+  "BETTER_SURVIVAL_COMPASS_WITHOUT_BED": {
+    "ru": "$@MODE_PREFIX$Ваш компас указывает на центр мира, так как у вас нет кровати!",
+    "ua": "§fВаш компас вказує на центр світу, так як у вас немає ліжка!",
+    "en": "§fYour compass points to the center of the world because you don't have a bed!"
+  },
+  "BETTER_SURVIVAL_PVP_BAR": {
+    "ru": "§fРежим боя %s §f%s %s",
+    "ua": "§fРежим бою %s §f%s %s",
+    "en": "§fBattle mode %s §f%s %s"
+  },
+  "BETTER_SURVIVAL_PVP_COMMAND": {
+    "ru": "$@MODE_PREFIX$Нельзя использовать эту команду во время PVP!",
+    "ua": "§fНе можна використовувати цю команду під час PVP!",
+    "en": "§fYou cannot use this command during PVP!"
+  },
+  "BETTER_SURVIVAL_PVP_ACTION": {
+    "ru": "$@MODE_PREFIX$Нельзя совершить это действие во время PVP!"
+  },
+  "BETTER_SURVIVAL_PVP_END": {
+    "ru": "$@MODE_PREFIX$Вы вышли из боя! Теперь можно спокойно перезайти на сервер!",
+    "ua": "§fВи вийшли з бою! Тепер можна спокійно зайти на сервер знов!",
+    "en": "§fYou are out of the battle! Now you can safely reentry to the server!"
+  },
+  "BETTER_SURVIVAL_PVP_START": {
+    "ru": "$@MODE_PREFIX$Вы вступили в бой! Не покидайте игру в течении §c%s §fсекунд",
+    "ua": "§fВи вступили в бій! Не покидайте гру протягом §c%s §fсекунд",
+    "en": "§fYou have entered the battle! Do not leave the game during §c%s §fseconds"
+  },
+  "BETTER_SURVIVAL_PVP_TELEPORT": {
+    "ru": "$@MODE_PREFIX$Телепортации во время PVP запрещены!",
+    "ua": "§fТелепортації під час PVP заборонені!",
+    "en": "§fTeleportations during PVP are forbidden!"
+  },
+  "BETTER_SURVIVAL_SLEEP": {
+    "ru": "§fСпят: §a%s§f/§a%s §f- §a%s",
+    "ua": "§fСплять: §a%s§f/§a%s §f- §a%s",
+    "en": "§fSleeping: §a%s§f/§a%s §f- §a%s"
+  },
+  "CLEARLAG_PREFIX": {
+    "ru": "§6Очистка §8| §f"
+  },
+  "CLEARLAG_TIMER": {
+    "ru": "$CLEARLAG_PREFIX$Весь мусор будет удалён через §c%s§f!"
+  },
+  "CLEARLAG": {
+    "ru": "$CLEARLAG_PREFIX$Удалено §c%s §fпредметов"
+  },
+  "CALL_ERROR": {
+    "ru": "§cОшибка, вы уже отправили заявку этому игроку",
+    "ua": "§Помилка, ви вже відправили заявку цьому гравцю",
+    "en": "§cError, you have already sent a request to this player"
+  },
+  "CALL_FORMAT": {
+    "ru": "/call <ник игрока>",
+    "ua": "/call <нік гравця>",
+    "en": "/call <player's nickname>"
+  },
+  "CALL_GUI_LORE": {
+    "ru": [
+      "",
+      "§7Получить список",
+      "§7ожидающих заявок от игроков",
+      "§7которые хотят",
+      "§7телепортироваться к вам",
+      "",
+      "§7Ожидает ответа §a%s §7%s",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Отримати список",
+      "§7активних заявок від гравців,",
+      "§7які хочуть",
+      "§7телепортуватись до вас",
+      "",
+      "§7Очікує відповіді §a%s §7%s",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Get the list",
+      "§7of pending requests from players",
+      "§7who want",
+      "§7to teleport to you",
+      "",
+      "§7Waiting for a response §a%s §7%s",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "CALL_GUI_NAME": {
+    "ru": "Запросы на тп",
+    "ua": "Запити на телепортацію",
+    "en": "Teleportation requests"
+  },
+  "CALL_HOVER_ACCEPT": {
+    "ru": [
+      "§fНажмите сюда, чтобы §aпринять",
+      "§fзапрос от игрока %s"
+    ],
+    "ua": [
+      "§fНатисніть сюди,щоб §aприйняти",
+      "§fзапит від гравця %s"
+    ],
+    "en": [
+      "§fClick here to §aaccept",
+      "§fa request from player %s"
+    ]
+  },
+  "CALL_HOVER_IGNORE": {
+    "ru": [
+      "§fНажмите сюда, чтобы §cотклонить",
+      "§fзапрос от игрока %s"
+    ],
+    "ua": [
+      "§fНатисніть сюди,щоб §cвідхилити",
+      "§fзапит від гравця %s"
+    ],
+    "en": [
+      "§fClick here to §cdecline",
+      "§fa request from player %s"
+    ]
+  },
+  "CALL_INVITE_1": {
+    "ru": " %s §fзапросил телепортацию к вам",
+    "ua": " %s §fзапросив телепортацію до вас",
+    "en": " %s §frequested teleportation to you"
+  },
+  "CALL_INVITE_2": {
+    "ru": " §fДля принятия запроса пишите §c",
+    "ua": " §fДля прийняття запиту пишіть §c",
+    "en": " §fTo confirm the request write §c"
+  },
+  "CALL_INVITE_3": {
+    "ru": " §fДля отмены запроса пиши §c",
+    "ua": " §fДля скасування запиту пиши §c",
+    "en": " §fTo decline the request write §c"
+  },
+  "CALL_INVITE_4": {
+    "ru": " §fУ вас есть §a120 §fсекунд, чтобы его принять",
+    "ua": " §fУ вас є §a120 §fсекунд, щоб його прийняти",
+    "en": " §fYou have §a120 §fseconds to accept it"
+  },
+  "CALL_ITEM_EMPTY_LORE": {
+    "ru": [
+      "§7В данный момент к вам",
+      "§7никто не хочет телепортироваться",
+      "§7You alone my friend("
+    ],
+    "ua": [
+      "§7В даний момент до вас",
+      "§7ніхто не хоче телепортуватися...",
+      "§7You are lonely, my friend("
+    ],
+    "en": [
+      "§7At present nobody",
+      "§7wants to teleport to you",
+      "§7You are lonely, my friend("
+    ]
+  },
+  "CALL_ITEM_EMPTY_NAME": {
+    "ru": "§cУ вас нет активных заявок",
+    "ua": "§cУ вас немає активних заявок",
+    "en": "§cYou have no active requests"
+  },
+  "CALL_ITEM_HEAD_LORE": {
+    "ru": [
+      "",
+      "§7Заявка будет удалена",
+      "§7через §c%s §7%s",
+      "",
+      "§e▸ ЛКМ, чтобы принять запрос",
+      "§e▸ ПКМ, чтобы отклонить"
+    ],
+    "ua": [
+      "",
+      "§7Заявка буде видалена",
+      "§7через §c%s §7%s",
+      "",
+      "§e▸ ЛКМ, щоб прийняти запит",
+      "§e▸ ПКМ, щоб відхилити"
+    ],
+    "en": [
+      "",
+      "§7Заявка будет удалена",
+      "§7через §c%s §7%s",
+      "",
+      "§e▸ LMC to accept the request",
+      "§e▸ RMC to decline"
+    ]
+  },
+  "CALL_YOU": {
+    "ru": "§cОшибка, вы не можете отправить запрос самому себе",
+    "ua": "§cПомилка, ви не можете відправити запит самому собі",
+    "en": "§cError, you cannot send a request to yourself"
+  },
+  "CHUNK_FORMAT": {
+    "ru": "/chunk <x> <z>",
+    "ua": "/chunk <x> <z>",
+    "en": "/chunk <x> <z>"
+  },
+  "CLEAR_INV": {
+    "ru": "$@MODE_PREFIX$Все предметы удалены",
+    "ua": "Всі предмети вилучені",
+    "en": "All items are removed"
+  },
+  "CLEAR_INV_TO": {
+    "ru": "$@MODE_PREFIX$У игрока %s §fудалены все предметы",
+    "ua": "У гравця %s §fвидалені всі предмети",
+    "en": "Player %s §fremoved all items"
+  },
+  "CREATE_WARP_FORMAT": {
+    "ru": "/createwarp <название>",
+    "ua": "/createwarp <назва>",
+    "en": "/createwarp <name>"
+  },
+  "DELHOME_FORMAT": {
+    "ru": "/delhome <название>",
+    "ua": "/delhome <назва>",
+    "en": "/delhome <name>"
+  },
+  "DEL_WARP_FORMAT": {
+    "ru": "/delwarp <название>",
+    "ua": "/delwarp <назва>",
+    "en": "/delwarp <name>"
+  },
+  "DISPELL_ERROR": {
+    "ru": "$@MODE_PREFIX$§cЭтот предмет не содержит чары",
+    "ua": "§cЦей предмет не містить чари",
+    "en": "§cThis item does not contain enchantment"
+  },
+  "ENCHANTED_BOOK_ERROR": {
+    "ru": "$@MODE_PREFIX$§cОшибка, вам нужно иметь §a%s §fуровень, чтобы наложить эти чары на предмет",
+    "ua": "§6Enchanted §8| §fПомилка, вам потрібно мати §a%s §fрівень, щоб накласти ці чари на предмет",
+    "en": "§6Enchanted §8| §fError, you need to have §a%s §flevel to cast this enchantment on an item"
+  },
+  "EXT_TO": {
+    "ru": "$@MODE_PREFIX$Вы пошушили игрока %s",
+    "ua": "Ви пошушили гравця %s",
+    "en": "You smacked a player %s"
+  },
+  "FEED_TO": {
+    "ru": "$@MODE_PREFIX$Голод восстановлен игроку %s",
+    "ua": "Голод відновлений гравцеві %s",
+    "en": "Hunger restored to the player %s"
+  },
+  "FLY_DISABLE": {
+    "ru": "$@MODE_PREFIX$Режим полета - §cотключен",
+    "ua": "Режим польоту - §cвідключений",
+    "en": "Flying mode - §cis turned off"
+  },
+  "FLY_DISABLE_TO": {
+    "ru": "$@MODE_PREFIX$Для игрока %s §fрежим полета - §cотключен",
+    "ua": "Для гравця %s §fрежим польоту - §cвідключений",
+    "en": "For player %s §fflying mode - §cis turned off"
+  },
+  "FLY_ENABLE": {
+    "ru": "$@MODE_PREFIX$Режим полета - §aвключен",
+    "ua": "Режим польоту - §aувімкнений",
+    "en": "Flying mode - §ais turned on"
+  },
+  "FLY_ENABLE_TO": {
+    "ru": "$@MODE_PREFIX$Для игрока %s §fрежим полета - §aвключен",
+    "ua": "Для гравця %s §fрежим польоту - §aувімкнений",
+    "en": "For player %s §fflying mode - §ais turned on"
+  },
+  "FLY_GOD_PVP_DISABLE": {
+    "ru": "$@MODE_PREFIX$§cОшибка, вы не можете атаковать игроков в режиме бога или полета",
+    "ua": "§cПомилка, ви не можете атакувати гравців в режимі бога або польоту",
+    "en": "§cError, you cannot attack players in god or flying mode"
+  },
+  "GOD_DISABLE": {
+    "ru": "$@MODE_PREFIX$Режим бога - §cотключен",
+    "ua": "Режим бога - §cвимкнений",
+    "en": "God's mode - §cdisabled"
+  },
+  "GOD_DISABLE_TO": {
+    "ru": "$@MODE_PREFIX$Для игрока %s §fрежим бога - §cотключен",
+    "ua": "Для гравця %s §fрежим бога - §cвимкнений",
+    "en": "For player %s §fgod's mode - §cdisabled"
+  },
+  "GOD_ENABLE": {
+    "ru": "$@MODE_PREFIX$Режим бога - §aвключен",
+    "ua": "Режим бога - §aувімкнений",
+    "en": "God's mode - §aenabled"
+  },
+  "GOD_ENABLE_TO": {
+    "ru": "$@MODE_PREFIX$Для игрока %s §fрежим бога - §aвключен",
+    "ua": "Для гравця %s §fрежим бога - §aувімкнений",
+    "en": "For player %s §fgod'a mode - §aenabled"
+  },
+  "HAT_ERROR": {
+    "ru": "$@MODE_PREFIX$§cВы должны что-то держать в руке, чтобы одеть это на голову",
+    "ua": "§cВи повинні щось тримати в руці, щоб одягнути це на голову",
+    "en": "§cYou have to hold something in your hand to put it on your head"
+  },
+  "HAT_ERROR_ENCHANT": {
+    "ru": "$@MODE_PREFIX$§cОшибка, вы должны снять текущий головной убор",
+    "ua": "§cПомилка, ви повинні зняти поточний головний убір",
+    "en": "§cError, you must take off your current headgear"
+  },
+  "HEAL_TO": {
+    "ru": "$@MODE_PREFIX$Хп и голод восстановлены игроку %s",
+    "ua": "Хп і голод відновлені гравцю %s",
+    "en": "HP and hunger restored to the player %s"
+  },
+  "HOME_CREATE": {
+    "ru": "$@MODE_PREFIX$Точка дома §a%s §fустановлена",
+    "ua": "Точка будинку §a%s §fвстановлена",
+    "en": "House point §a%s §fis set"
+  },
+  "HOME_EMPTY": {
+    "ru": "$@MODE_PREFIX$§cОшибка, у вас нет установленных точек дома",
+    "ua": "§cПомилка, у вас немає встановлених точок будинку",
+    "en": "§cError, you have no house points set"
+  },
+  "HOME_ERROR": {
+    "ru": "$@MODE_PREFIX$§cОшибка, у вас уже есть точка дома с именем %s",
+    "ua": "§cПомилка, у вас вже є точка будинку з ім'ям %s",
+    "en": "§cError, you already have a house point named like this %s"
+  },
+  "HOME_GUI_LORE": {
+    "ru": [
+      "",
+      "§7Получить список",
+      "§7своих домов и полное",
+      "§7управление над ними",
+      "",
+      "§7В данный момент у вас §a%s §7%s",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Отримати список",
+      "§7своїх будинків і повний",
+      "§7контроль над ними",
+      "",
+      "§7Зараз у вас §a%s §7%s",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Get a list",
+      "§7of your houses and absolute",
+      "§7control over them",
+      "",
+      "§7Currently you have §a%s §7%s",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "HOME_GUI_NAME": {
+    "ru": "Точки дома",
+    "ua": "Точки дома",
+    "en": "House points"
+  },
+  "HOME_ITEM_EMPTY_LORE": {
+    "ru": [
+      "§7В данный момент у вас",
+      "§7нет установленных",
+      "§7точек дома"
+    ],
+    "ua": [
+      "§7Зараз у вас",
+      "§7немає встановлених",
+      "§7точок будинку"
+    ],
+    "en": [
+      "§7Currently you have no",
+      "§7house points",
+      "§7set"
+    ]
+  },
+  "HOME_ITEM_EMPTY_NAME": {
+    "ru": "§cУ вас нет точек дома",
+    "ua": "§cУ вас немає точок будинку",
+    "en": "§cYou have no house points"
+  },
+  "HOME_LORE": {
+    "ru": [
+      "",
+      "§7Координаты дома:",
+      " §7Мир: §c%s",
+      " §7X: §c%s",
+      " §7Y: §c%s",
+      " §7Z: §c%s",
+      "",
+      "§e▸ Нажмите, чтобы телепортироваться"
+    ],
+    "ua": [
+      "",
+      "§7Координаты будинку:",
+      " §7Світ: §c%s",
+      " §7X: §c%s",
+      " §7Y: §c%s",
+      " §7Z: §c%s",
+      "",
+      "§e▸ Натисніть, щоб телепортуватися"
+    ],
+    "en": [
+      "",
+      "§7Home coordinates:",
+      " §7World: §c%s",
+      " §7X: §c%s",
+      " §7Y: §c%s",
+      " §7Z: §c%s",
+      "",
+      "§e▸ Click to teleport"
+    ]
+  },
+  "HOME_NOT_FOUND": {
+    "ru": "§cТочка дома %s не найдена",
+    "ua": "§cТочка будинку %s не знайдена",
+    "en": "§cHouse point %s is not found"
+  },
+  "HOME_REMOVE": {
+    "ru": "Точка дома §a%s §fудалена",
+    "ua": "Точка будинку §a%s §fвидалена",
+    "en": "House point §a%s §fis deleted"
+  },
+  "HOME_TO": {
+    "ru": "Вы были телепортированы на точку дома §a%s",
+    "ua": "Ви були телепортовані на точку будинку §a%s",
+    "en": "You have been teleported to house point §a%s"
+  },
+  "HOME_WARP_LIMIT": {
+    "ru": "§cОшибка, вы не можете создать более %s %s",
+    "ua": "§cПомилка, ви не можете створити більше, ніж %s %s",
+    "en": "§cError, you can't create more than %s %s"
+  },
+  "ITEMS_GUI_AVAILABLE_ITEMS_PERCENTAGE": {
+    "ru": "§7Открыто: §a%s%% §8(§e%s§f/§e%s§8)",
+    "ua": "§7Відкрито: §a%s%% §8(§e%s§f/§e%s§8)",
+    "en": "§7Open: §a%s%% §8(§e%s§f/§e%s§8)"
+  },
+  "ITEMS_GUI_BACK_LORE": {
+    "ru": [
+      "§7Нажмите, чтобы вернуться назад"
+    ],
+    "ua": [
+      "§7Натисніть, щоб повернутися назад"
+    ],
+    "en": [
+      "§7Click to go back"
+    ]
+  },
+  "ITEMS_GUI_BACK_NAME": {
+    "ru": "§cНазад",
+    "ua": "§cНазад",
+    "en": "§cBack"
+  },
+  "ITEMS_GUI_CONFIRMATION_LORE": {
+    "ru": [
+      " ",
+      "§7Вы уверены, что хотите",
+      "§7приобрести этот предмет?",
+      " ",
+      "§cЭто действие необратимо"
+    ],
+    "ua": [
+      " ",
+      "§7Ви впевнені, що хочете",
+      "§7придбати цей предмет?",
+      " ",
+      "§cЦя дія незворотня"
+    ],
+    "en": [
+      " ",
+      "§7Are you sure you want",
+      "§7to purchase this item?",
+      " ",
+      "§cThis action is irreversible"
+    ]
+  },
+  "ITEMS_GUI_CONFIRMATION_TITLE": {
+    "ru": "Подтверждение покупки",
+    "ua": "Підтвердження покупки",
+    "en": "Confirmation of purchase"
+  },
+  "ITEMS_GUI_COST_FORMAT": {
+    "ru": "§7Цена: %s %s",
+    "ua": "§7Ціна: %s %s",
+    "en": "§7Price: %s %s"
+  },
+  "ITEMS_GUI_DISCOUNTED_COST_FORMAT": {
+    "ru": "§7Цена (со скидкой): %s %s",
+    "ua": "§7Ціна (зі знижкою): %s %s",
+    "en": "§7Price (with discount): %s %s"
+  },
+  "ITEMS_SHOP_GUI_TITLE": {
+    "ru": "Магазин предметов",
+    "ua": "Магазин предметів",
+    "en": "Items store"
+  },
+  "ITEM_ALREADY_HAVE": {
+    "ru": "§fУ вас уже есть данный предмет, вы получили §b+%s %s",
+    "ua": "§fВи вже маєте цей предмет, ви отримали §b+%s %s",
+    "en": "§fYou already own this item, you have received §b+%s %s"
+  },
+  "ITEM_ALREADY_HAVE_NO_MONEY": {
+    "ru": "§fУ вас уже есть данный предмет, вы получили свой ключ назад",
+    "ua": "§fВи вже маєте цей предмет, ви отримали свій ключ назад",
+    "en": "§fYou already have this item, you received your key back"
+  },
+  "ITEM_CANT_PURCHASE": {
+    "ru": [
+      " ",
+      "§cВы не можете купить этот предмет",
+      "§7Для его покупки Вам необходимо:"
+    ],
+    "ua": [
+      " ",
+      "§cВи не можете придбати цей предмет",
+      "§7Для його покупки вам необхідно:"
+    ],
+    "en": [
+      " ",
+      "§cYou cannot buy this item",
+      "§7To buy it you need:"
+    ]
+  },
+  "ITEM_CANT_SELECT": {
+    "ru": [
+      " ",
+      "§cВы не можете выбрать этот предмет",
+      "§7Для его выбора Вам необходимо:"
+    ],
+    "ua": [
+      " ",
+      "§cВи не можете вибрати цей предмет",
+      "§7Для його вибору вам необхідно:"
+    ],
+    "en": [
+      " ",
+      "§cYou cannot select this item",
+      "§7To select it, you need:"
+    ]
+  },
+  "ITEM_CATEGORY_GUI_NAME": {
+    "ru": "Игровые предметы",
+    "ua": "Ігрові предмети",
+    "en": "Game items"
+  },
+  "ITEM_CLICK_TO_PURCHASE": {
+    "ru": [
+      " ",
+      "%s",
+      " ",
+      "§e▸ Нажмите, чтобы приобрести"
+    ],
+    "ua": [
+      " ",
+      "%s",
+      " ",
+      "§e▸ Натисніть, щоб придбати"
+    ],
+    "en": [
+      " ",
+      "%s",
+      " ",
+      "§e▸ Clikc to purchase"
+    ]
+  },
+  "ITEM_CLICK_TO_PURCHASE_WITH_DISCOUNT": {
+    "ru": [
+      " ",
+      "%s",
+      " ",
+      "§fВаша скидка составляет %s%%",
+      "§e▸ Нажмите, чтобы приобрести"
+    ],
+    "ua": [
+      " ",
+      "%s",
+      " ",
+      "§fВаша знижка становить %s%%",
+      "§e▸ Натисніть, щоб придбати"
+    ],
+    "en": [
+      " ",
+      "%s",
+      " ",
+      "§fYour discount is %s%%",
+      "§e▸ Click to purchase"
+    ]
+  },
+  "ITEM_CLICK_TO_SELECT": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы выбрать"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб обрати"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to select"
+    ]
+  },
+  "ITEM_CLICK_TO_UNSELECT": {
+    "ru": [
+      " ",
+      "§e▸ Нажмите, чтобы снять выбор"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Натисніть, щоб скасувати вибір"
+    ],
+    "en": [
+      " ",
+      "§e▸ Click to deselect"
+    ]
+  },
+  "ITEM_IS_FREE_FOR_YOU": {
+    "ru": [
+      " ",
+      "§7Предмет бесплатный для Вас"
+    ],
+    "ua": [
+      " ",
+      "§7Предмет безкоштовний для вас"
+    ],
+    "en": [
+      " ",
+      "§7The subject is free for you"
+    ]
+  },
+  "ITEM_IS_FREE_WITH_PREDICATES": {
+    "ru": [
+      " ",
+      "§7Предмет является бесплатным для:"
+    ],
+    "ua": [
+      " ",
+      "§7Предмет є безкоштовним для:"
+    ],
+    "en": [
+      " ",
+      "§7The subject is free:"
+    ]
+  },
+  "ITEM_IS_NOT_CHOSEN": {
+    "ru": "§cНичего не выбрано",
+    "ua": "§cНічого не обрано",
+    "en": "§cNothing selected"
+  },
+  "ITEM_IS_NOT_PURCHASEABLE": {
+    "ru": [
+      " ",
+      "§cУ Вас нет этого предмета",
+      "§7Вы можете получить его:",
+      " §8• §7открывая сундук удачи",
+      " §8• §7приобретая в онлайн-магазине"
+    ],
+    "ua": [
+      " ",
+      "§cУ вас немає цього предмету",
+      "§7Ви можете отримати його:",
+      " §8• §7відкриваючи скриню удачі",
+      " §8• §7набуваючи в онлайн-магазині"
+    ],
+    "en": [
+      " ",
+      "§cYou do not have this item",
+      "§7You can get it:",
+      " §8• §7opening the chest of luck",
+      " §8• §7by purchasing in the online store"
+    ]
+  },
+  "ITEM_IS_SELECTED": {
+    "ru": [
+      " ",
+      "§c▸ Этот предмет уже выбран"
+    ],
+    "ua": [
+      " ",
+      "§c▸ Цей предмет вже обраний"
+    ],
+    "en": [
+      " ",
+      "§c▸ This item has already been selected"
+    ]
+  },
+  "ITEM_MODES_ALL": {
+    "ru": [
+      " ",
+      "§8Доступен на всех подрежимах"
+    ],
+    "ua": [
+      " ",
+      "§8Доступний на всіх підрежимах"
+    ],
+    "en": [
+      " ",
+      "§8Available in all sub-modes"
+    ]
+  },
+  "ITEM_MODES_AVAILABLE": {
+    "ru": [
+      " ",
+      "§8Доступен на режимах:",
+      "§8%s"
+    ],
+    "ua": [
+      " ",
+      "§8Доступний на режимах:",
+      "§8%s"
+    ],
+    "en": [
+      " ",
+      "§8Available on modes:",
+      "§8%s"
+    ]
+  },
+  "ITEM_SELECT_ALREADY": {
+    "ru": [
+      " ",
+      "§e▸ Вы выбрали этот предмет"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Ви обрали цей предмет"
+    ],
+    "en": [
+      " ",
+      "§e▸ You have selected this item"
+    ]
+  },
+  "ITEM_SELECT_IN_GAME": {
+    "ru": [
+      " ",
+      "§c▸ Выбрать предмет можно в игре"
+    ],
+    "ua": [
+      " ",
+      "§c▸ Обрати предмет можна в грі"
+    ],
+    "en": [
+      " ",
+      "§c▸ You can select an item in the game"
+    ]
+  },
+  "ITEM_UNSELECTED": {
+    "ru": "Выбор снят с текущего предмета",
+    "ua": "Вибір знятий з поточного предмета",
+    "en": "The selection is cleared from the current item"
+  },
+  "KIT_GUI_LORE": {
+    "ru": [
+      "",
+      "§7Получить список",
+      "§7доступных китов и",
+      "§7выбрать доступные из них",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Отримати список",
+      "§7доступних китів",
+      "§7вибрати доступні з них",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Get the list",
+      "§7of available sets and",
+      "§7choose",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "KIT_GUI_NAME": {
+    "ru": "Выбор набора",
+    "ua": "Вибір набору",
+    "en": "Chose set"
+  },
+  "KIT_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:"
+    ],
+    "en": [
+      "",
+      "§7Includes:"
+    ]
+  },
+  "KIT_LORE_DISABLE": {
+    "ru": [
+      "",
+      "§cНабор будет доступен через",
+      "§c%s"
+    ],
+    "ua": [
+      "",
+      "§cНабір буде доступний через",
+      "§c%s"
+    ],
+    "en": [
+      "",
+      "§cSet will be available in",
+      "§c%s"
+    ]
+  },
+  "KIT_LORE_ENABLE": {
+    "ru": [
+      "",
+      "§e▸ Нажмите, чтобы выбрать набор"
+    ],
+    "ua": [
+      "",
+      "§e▸ Натисніть, щоб обрати набір"
+    ],
+    "en": [
+      "",
+      "§e▸ Click to choose set"
+    ]
+  },
+  "KIT_NOT_FOUND": {
+    "ru": "§cНабор %s не найден",
+    "ua": "§cНабір %s не знайдений",
+    "en": "§cSet %s Not found"
+  },
+  "KIT_SELECT": {
+    "ru": "$@MODE_PREFIX$Вам был выдан набор §a%s",
+    "ua": "Вам був виданий набір §a%s",
+    "en": "You have been given a set §a%s"
+  },
+  "MYWARP_ITEM_CHANGER_LORE": {
+    "ru": [
+      "",
+      "§7Показать список личных варпов",
+      "",
+      "§e▸ Нажмите, чтобы переключиться"
+    ],
+    "ua": [
+      "",
+      "§7Показати список особистих варпів",
+      "",
+      "§e▸ Натисніть, щоб переключитися"
+    ],
+    "en": [
+      "",
+      "§7Show list of personal warps",
+      "",
+      "§e▸ Click to switch"
+    ]
+  },
+  "MYWARP_ITEM_CHANGER_NAME": {
+    "ru": "Личные варпы",
+    "ua": "Особисті варпи",
+    "en": "Personal warps"
+  },
+  "MYWARP_ITEM_EMPTY_LORE": {
+    "ru": [
+      "§7В данный момент у вас нет",
+      "§7личных варпов"
+    ],
+    "ua": [
+      "§7Зараз у вас немає",
+      "§7особистіх варпів"
+    ],
+    "en": [
+      "§7At present you have no",
+      "§7personal warps"
+    ]
+  },
+  "MYWARP_ITEM_EMPTY_NAME": {
+    "ru": "§cУ вас нет личных варпов",
+    "ua": "§cУ вас немає особистіх варпів",
+    "en": "§cYou have no personal warps"
+  },
+  "MYWARP_ITEM_LORE_PRIVATE": {
+    "ru": [
+      "",
+      "§7В данный момент этот варп",
+      "§7приватный. Он отсутствует в",
+      "§7общем списке варпов и доступен",
+      "§7только для друзей (/f list)",
+      "",
+      "§e▸ Нажмите, чтобы открыть варп"
+    ],
+    "ua": [
+      "",
+      "§7Зараз цей варп є",
+      "§7приватним. Він відсутній в",
+      "§7загальному списку варпа і доступний",
+      "§7тільки для друзів (/f list)",
+      "",
+      "§e▸ Натисніть, щоб відкрити варп"
+    ],
+    "en": [
+      "",
+      "§7At present this warp",
+      "§7is private. It's is absent in",
+      "§7the general list of warps and available",
+      "§7for friends only (/f list)",
+      "",
+      "§e▸ Click to open the warp"
+    ]
+  },
+  "MYWARP_ITEM_LORE_PUBLIC": {
+    "ru": [
+      "",
+      "§7В данный момент этот варп",
+      "§7публичный. Он доступен",
+      "§7для всех и каждого",
+      "",
+      "§e▸ Нажмите, чтобы закрыть варп"
+    ],
+    "ua": [
+      "",
+      "§7Зараз цей варп",
+      "§7публічний. Він доступний",
+      "§7для всіх і кожного.",
+      "",
+      "§e▸ Натисніть, щоб закрити варп"
+    ],
+    "en": [
+      "",
+      "§7At present this warp",
+      "§7is public. It's available",
+      "§7for everybody",
+      "",
+      "§e▸ Click to close the warp"
+    ]
+  },
+  "NO_PERMS_KIT": {
+    "ru": [
+      "",
+      "§cУ вас нет прав на этот набор",
+      "§cкупите %s§c или выше"
+    ],
+    "ua": [
+      "",
+      "§cУ вас немає прав на цей набір",
+      "§cкупіть %s§c або вище"
+    ],
+    "en": [
+      "",
+      "§cYou are not licensed to this set",
+      "§cpurchase %s§c or higher"
+    ]
+  },
+  "NO_PERMS_KIT_ONLY": {
+    "ru": [
+      "",
+      "§cУ вас нет прав на этот набор,",
+      "§cон доступен только для %s"
+    ],
+    "ua": [
+      "",
+      "§cУ вас немає прав на цей набір,",
+      "§cвін доступний лише для %s"
+    ],
+    "en": [
+      "",
+      "§cYou are not licensed to this set,",
+      "§cit's only available to %s"
+    ]
+  },
+  "PLAYER_WARP_FORMAT": {
+    "ru": "/playerwarp <имя игрока>",
+    "ua": "/playerwarp <ім'я гравця>",
+    "en": "/playerwarp <player's nickname>"
+  },
+  "PLAYER_WARP_GUI_NAME": {
+    "ru": "Список варпов - %s",
+    "ua": "Список варпів - %s",
+    "en": "Warp list - %s"
+  },
+  "PLAYER_WARP_ITEM_EMPTY_LORE": {
+    "ru": [
+      "§7В данный момент у игрока %s",
+      "§7нет доступных публичных варпов",
+      "§7или они отсутствуют вовсе"
+    ],
+    "ua": [
+      "§7Зараз у гравця %s",
+      "§7немає доступних публічних варпів",
+      "§7або вони не знайдені"
+    ],
+    "en": [
+      "§7At present player %s",
+      "§7has no available public warps",
+      "§7or they are absent altogether"
+    ]
+  },
+  "PLAYER_WARP_ITEM_EMPTY_NAME": {
+    "ru": "§cВарпы игрока не найдены",
+    "ua": "§cВарпи гравця не знайдені",
+    "en": "§cPlayer's warps not found"
+  },
+  "PTIME_ERROR": {
+    "ru": "§cОшибка, вы должны вводить число",
+    "ua": "§cПомилка, ви повинні вводити число",
+    "en": "§cError, you must enter a number"
+  },
+  "PTIME_GUI_NAME": {
+    "ru": "Смена времени",
+    "ua": "Зміна часу",
+    "en": "Time change"
+  },
+  "PTIME_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Управление погодой и",
+      "§7личным временем на этом",
+      "§7режиме",
+      "",
+      "§7Только для %s §7и выше",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "",
+      "§7Управління погодою і",
+      "§7особистим часом на цьому",
+      "§7режимі",
+      "",
+      "§7Тільки для %s §7і вище",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "",
+      "§7Weather and personal",
+      "§7time management on this",
+      "§7mode",
+      "",
+      "§7Only for %s §7and higher",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "PTIME_ITEM_RESET_LORE": {
+    "ru": [
+      "",
+      "§7Вернуть игроку серверное",
+      "§7время и погоду",
+      "",
+      "§e▸ Нажмите, чтобы сменить"
+    ],
+    "ua": [
+      "",
+      "§7Повернути гравцеві серверний",
+      "§7час і погоду",
+      "",
+      "§e▸ Натисніть, щоб змінити"
+    ],
+    "en": [
+      "",
+      "§7Return server time",
+      "§7and weather to the player",
+      "",
+      "§e▸ Click to change"
+    ]
+  },
+  "PTIME_ITEM_RESET_NAME": {
+    "ru": "§aОбнулить время",
+    "ua": "§aОбнулити час",
+    "en": "§aReset time"
+  },
+  "PTIME_ITEM_WATCH_LORE": {
+    "ru": [
+      "",
+      "§7Установить личное время",
+      "§7игрока на §c%s ",
+      "",
+      "§7Только для %s §7и выше",
+      "",
+      "§e▸ Нажмите, чтобы сменить"
+    ],
+    "ua": [
+      "",
+      "§7Встановити особистий час",
+      "§7гравця на §c%s ",
+      "",
+      "§7Тільки для %s §7і вище",
+      "",
+      "§e▸ Натисніть, щоб змінити"
+    ],
+    "en": [
+      "",
+      "§7Set player's personal",
+      "§7time to §c%s ",
+      "",
+      "§7Only for %s §7and higher",
+      "",
+      "§e▸ Click to change"
+    ]
+  },
+  "PTIME_ITEM_WATCH_NAME": {
+    "ru": "§aСменить время",
+    "ua": "§aЗмінити час",
+    "en": "§aChange time"
+  },
+  "PTIME_ITEM_WEATHER_LORE": {
+    "ru": [
+      "",
+      "§7Сменить погоду",
+      "§7на §c%s §7(только для себя)",
+      "",
+      "§7Только для %s §7и выше",
+      "",
+      "§e▸ Нажмите, чтобы сменить"
+    ],
+    "ua": [
+      "",
+      "§7Змінити погоду",
+      "§7на §c%s §7(тільки для себе)",
+      "",
+      "§7Тільки для %s §7і вище",
+      "",
+      "§e▸ Натисніть, щоб змінити"
+    ],
+    "en": [
+      "",
+      "§7Change weather",
+      "§7на §c%s §7(Only for yourself)",
+      "",
+      "§7Only for %s §7and higher",
+      "",
+      "§e▸ Click to change"
+    ]
+  },
+  "PTIME_ITEM_WEATHER_NAME": {
+    "ru": "§aСменить погоду",
+    "ua": "§aЗмінити погоду",
+    "en": "§aChange weather"
+  },
+  "PTIME_RESET": {
+    "ru": "Время и погода сброшены до серверного",
+    "ua": "Час і погода скинуті до серверного",
+    "en": "Time and weather reset to server"
+  },
+  "PTIME_WEATHER_CHANGED": {
+    "ru": "Погода изменена",
+    "ua": "Погода змінена",
+    "en": "Weather changed"
+  },
+  "REPAIR_ERROR": {
+    "ru": "§cЭтот предмет не может быть отремонтирован",
+    "ua": "§cЦей предмет не може бути відремонтований",
+    "en": "§cThis item cannot be repaired"
+  },
+  "SETHOME_FORMAT": {
+    "ru": "/sethome <название>",
+    "ua": "/sethome <назва>",
+    "en": "/sethome <name>"
+  },
+  "SET_BED_ERROR": {
+    "ru": "§cОшибка, вы не можете установить точку дома в этом мире",
+    "ua": "§cПомилка, ви не можете встановити точку будинку в цьому світі",
+    "en": "§cMistake, you cannot set the house point in this world"
+  },
+  "SHOP_ALL_ITEMS_BUY": {
+    "ru": "§6Магазин §8| §fВы успешно купили §7%s §fx §7%s §fза §a%s$",
+    "ua": "§6Магазин §8| §fВи успішно придбали §7%s §fx §7%s §fза §a%s$",
+    "en": "§6Store §8| §fYou have successfully bought §7%s §fx §7%s §ffor §a%s$"
+  },
+  "SHOP_ALL_ITEMS_SELLED": {
+    "ru": "§6Магазин §8| §fВы успешно продали §7%s §fx §7%s §fза §a%s$",
+    "ua": "§6Магазин §8| §fВи успішно продали §7%s §fx §7%s §fза §a%s$",
+    "en": "§6Store §8| §fYou have successfully sold §7%s §fx §7%s §ffor §a%s$"
+  },
+  "SHOP_FORMAT": {
+    "ru": "/shop <название магазина>",
+    "ua": "/shop <назва магазина>",
+    "en": "/shop <store's name>"
+  },
+  "SHOP_GUIBUY_NAME": {
+    "ru": "Покупка %s",
+    "ua": "Покупка %s",
+    "en": "Purchase %s"
+  },
+  "SHOP_GUISELL_NAME": {
+    "ru": "Продажа %s",
+    "ua": "Продаж %s",
+    "en": "Sale %s"
+  },
+  "SHOP_HOVER_TEST": {
+    "ru": "§fНажмите сюда, §fчтобы открыть этот магазин",
+    "ua": "§fНатисни сюди, §fщоб відкрити цей магазин",
+    "en": "§fClick here §fto open this store"
+  },
+  "SHOP_ITEMBUY_LORE": {
+    "ru": [
+      "",
+      "§7Цена покупки §c%s"
+    ],
+    "ua": [
+      "",
+      "§7Вартість покупки §c%s"
+    ],
+    "en": [
+      "",
+      "§7Purchase price §c%s"
+    ]
+  },
+  "SHOP_ITEMSELL_LORE": {
+    "ru": [
+      "",
+      "§7Получите после продажи §a%s"
+    ],
+    "ua": [
+      "",
+      "§7Отримаєете після продажу §a%s"
+    ],
+    "en": [
+      "",
+      "§7Receive after sale §a%s"
+    ]
+  },
+  "SHOP_ITEM_NO_ITEMS": {
+    "ru": [
+      "",
+      "§cОшибка, у вас недостаточно предметов"
+    ],
+    "ua": [
+      "",
+      "§cПомилка, у вас недостатньо предметів"
+    ],
+    "en": [
+      "",
+      "§cError, you don't have enough items"
+    ]
+  },
+  "SHOP_ITEM_NO_MONEY": {
+    "ru": [
+      "",
+      "§cОшибка, у вас недостаточно средств"
+    ],
+    "ua": [
+      "",
+      "§cПомилка, у вас недостатньо коштів"
+    ],
+    "en": [
+      "",
+      "§cError, you don't have enough funds"
+    ]
+  },
+  "SHOP_LORE_CHANGED": {
+    "ru": [
+      "",
+      "§7Сменить кол-во предметов",
+      "",
+      "§e▸ Нажмите, чтобы сменить"
+    ],
+    "ua": [
+      "",
+      "§7Змінити кількість предметів",
+      "",
+      "§e▸ Натисніть, щоб змінити"
+    ],
+    "en": [
+      "",
+      "§7Change the number of items",
+      "",
+      "§e▸ Click to change"
+    ]
+  },
+  "SHOP_LORE_CLICK_ITEM": {
+    "ru": [
+      "",
+      "§7Цена покупки: §a%s",
+      "",
+      "§e▸ Нажмите, чтобы купить"
+    ],
+    "ua": [
+      "",
+      "§7Вартість покупки: §a%s",
+      "",
+      "§e▸ Натисніть, щоб придбати"
+    ],
+    "en": [
+      "",
+      "§7Purchase price: §a%s",
+      "",
+      "§e▸ Click to buy"
+    ]
+  },
+  "SHOP_LORE_FIXED_ITEM": {
+    "ru": [
+      "",
+      "§7Цена покупки: §a%s",
+      "§7Получите после продажи: §c%s",
+      "",
+      "§7Нажмите на §fколесико мыши,",
+      "§7чтобы продать все %s",
+      "",
+      "§e▸ ЛКМ, чтобы купить",
+      "§e▸ ПКМ, чтобы продать"
+    ],
+    "ua": [
+      "",
+      "§7Вартість покупки: §a%s",
+      "§7Отримаєте після продажу: §c%s",
+      "",
+      "§7Натисніть на §fколіщатко миші,",
+      "§7щоб продати все %s",
+      "",
+      "§e▸ ЛКМ, щоб придбати",
+      "§e▸ ПКМ, щоб продати"
+    ],
+    "en": [
+      "",
+      "§7Purchase price: §a%s",
+      "§7Receive after sale: §c%s",
+      "",
+      "§7Click on §fthe mouse wheel",
+      "§7to sell everything %s",
+      "",
+      "§e▸ LMC to sell",
+      "§e▸ RMC to buy"
+    ]
+  },
+  "SHOP_LORE_FIXED_ITEM_BUY": {
+    "ru": [
+      "",
+      "§7Цена покупки: §a%s",
+      "",
+      "§e▸ Нажмите, чтобы купить"
+    ],
+    "ua": [
+      "",
+      "§7Вартість покупки: §a%s",
+      "",
+      "§e▸ Натисніть, щоб придбати"
+    ],
+    "en": [
+      "",
+      "§7Purchase price: §a%s",
+      "",
+      "§e▸ Click to purchase"
+    ]
+  },
+  "SHOP_LORE_FIXED_ITEM_SELL": {
+    "ru": [
+      "",
+      "§7Получите после продажи: §a%s",
+      "",
+      "§7Нажмите на §fколесико мыши,",
+      "§7чтобы продать все %s",
+      "",
+      "§e▸ Нажмите, чтобы продать"
+    ],
+    "ua": [
+      "",
+      "§7Отримаєте після продажу: §a%s",
+      "",
+      "§7Натисніть на §fколіщатко миші,",
+      "§7щоб продати все %s",
+      "",
+      "§e▸ Натисніть, щоб продати"
+    ],
+    "en": [
+      "",
+      "§7Receive after sale: §a%s",
+      "",
+      "§7Click on §fthe mouse wheel,",
+      "§7to sell everything %s",
+      "",
+      "§e▸ Click to sell"
+    ]
+  },
+  "SHOP_LORE_ITEM": {
+    "ru": [
+      "",
+      "§7Цена покупки: §a%s",
+      "§7Получите после продажи: §c%s",
+      "",
+      "§7Нажмите на §fколесико мыши,",
+      "§7чтобы продать все %s",
+      "",
+      "§e▸ ЛКМ, чтобы открыть меню покупок",
+      "§e▸ ПКМ, чтобы открыть меню продаж"
+    ],
+    "ua": [
+      "",
+      "§7Вартість покупки: §a%s",
+      "§7Отримаєте після продажу: §c%s",
+      "",
+      "§7Натисніть на §fколіщатко миші,",
+      "§7щоб проадти все %s",
+      "",
+      "§e▸ ЛКМ, щоб відкрити меню покупок",
+      "§e▸ ПКМ, щоб відкрити меню продажів"
+    ],
+    "en": [
+      "",
+      "§7Purchase price: §a%s",
+      "§7Receive after sale: §c%s",
+      "",
+      "§7Click on §fthe mouse wheel,",
+      "§7to sell everything %s",
+      "",
+      "§e▸ LMC to open the shopping menu",
+      "§e▸ RMC to open the sales menu"
+    ]
+  },
+  "SHOP_LORE_SELL_ALL": {
+    "ru": [
+      "",
+      "§7После продажи всех предметов",
+      "§7вы получите §c%s",
+      "",
+      "§e▸ Нажмите, чтобы продать"
+    ],
+    "ua": [
+      "",
+      "§Після продажу всіх предметів",
+      "§7ви отримаєте §c%s",
+      "",
+      "§e▸ Натисніть, щоб продати"
+    ],
+    "en": [
+      "",
+      "§7After selling all items",
+      "§7you'll get §c%s",
+      "",
+      "§e▸ Click to sell"
+    ]
+  },
+  "SHOP_NAMES": {
+    "ru": "§6Магазин §8| §fДоступные магазины: ",
+    "ua": "§6Магазин §8| §fДоступні магазини: ",
+    "en": "§6Store §8| §fAvailable stores: "
+  },
+  "SHOP_NAME_ADD_1": {
+    "ru": "§aДобавить 1",
+    "ua": "§aДодати 1",
+    "en": "§aAdd 1"
+  },
+  "SHOP_NAME_ADD_2": {
+    "ru": "§aДобавить 10",
+    "ua": "§aДодати 10",
+    "en": "§aAdd 10"
+  },
+  "SHOP_NAME_ADD_3": {
+    "ru": "§aУстановить максимум",
+    "ua": "§aУстановити максимум",
+    "en": "§aSet maximum"
+  },
+  "SHOP_NAME_REMOVE_1": {
+    "ru": "§cУстановить 1",
+    "ua": "§cУстановити 1",
+    "en": "§cSet 1"
+  },
+  "SHOP_NAME_REMOVE_2": {
+    "ru": "§cОтнять 10",
+    "ua": "§cВідняти 10",
+    "en": "§cSubtract 10"
+  },
+  "SHOP_NAME_REMOVE_3": {
+    "ru": "§cОтнять 1",
+    "ua": "§cВідняти 1",
+    "en": "§cSubtract 1"
+  },
+  "SHOP_NAME_SELL_ALL": {
+    "ru": "Продать все предметы",
+    "ua": "Продати всі предмети",
+    "en": "Sell all items"
+  },
+  "SHOP_NOT_FOUND": {
+    "ru": "§cОшибка, магазин %s не найден",
+    "ua": "§cПомилка, магазин %s не знайден",
+    "en": "§cError, store %s not found"
+  },
+  "SHOP_PERMISSION": {
+    "ru": "Менеджмент",
+    "ua": "Менеджмент",
+    "en": "Management"
+  },
+  "SHOP_PERMISSION_LORE": {
+    "ru": [
+      " ",
+      "§7Все участники ранга %s",
+      "§7смогут использовать магазин",
+      "§7гильдии, в том числе управлять",
+      "§aтэгом, приветствием, точкой дома",
+      "§7гильдии без Вашего разрешения",
+      "§7(полный доступ к /guild shop)",
+      " ",
+      "§c[!] §7Будьте осторожны с данным правом",
+      "   §7Мы не сможем восстановить потраченные",
+      "   §7средства на улучшения гильдии",
+      " "
+    ],
+    "ua": [
+      " ",
+      "§7Всі учасники рангу %s",
+      "§7зможуть використовувати магазин",
+      "§7гільдії, в тому числі управляти",
+      "§aтегом, вітанням, точкою будинку",
+      "§7гільдії без вашого дозволу",
+      "§7(повний доступ до /guild shop)",
+      " ",
+      "§c[!] §7Будьте обережні з цим правом",
+      "   §7Ми не зможемо відновити витрачені",
+      "   §7кошти на покращення гільдії",
+      " "
+    ],
+    "en": [
+      " ",
+      "§7All rank players %s",
+      "§7will be able to use the guild store",
+      "§7including managing",
+      "§atag, greeting, guild house point",
+      "§7without your permission",
+      "§7(full access to /guild shop)",
+      " ",
+      "§c[!] §7Be careful with this right",
+      "   §7We will not be able to recover the funds",
+      "   §7spent on improving the guild",
+      " "
+    ]
+  },
+  "SITE_SHOP_DISABLE_SPAWNERS": {
+    "ru": "§cСмена существа в рассаднике монстров отключена!",
+    "ua": "§cЗміна істоти в розсаднику монстрів вимкнена!",
+    "en": "§cThe creature change in the monster nursery is disabled!"
+  },
+  "SITE_SHOP_ITEMS_GUI_NAME": {
+    "ru": "Доступные предметы",
+    "ua": "Доступні предмети",
+    "en": "Available items"
+  },
+  "SITE_SHOP_ITEMS_NAME": {
+    "ru": "Предметы",
+    "ua": "Предмети",
+    "en": "Items"
+  },
+  "SITE_SHOP_ITEM_ALERT": {
+    "ru": "§6Магазин §8| §fВсе предметы успешно выданы!",
+    "ua": "§6Магазин §8| §fУсі предмети успішно видані!",
+    "en": "§6Shop §8| §fAll items have been successfully given out!"
+  },
+  "SITE_SHOP_ITEM_EMPTY_LORE": {
+    "ru": [
+      "§7У вас нет доступных предметов",
+      "§7Покупка на сайте §dlast-craft.com"
+    ],
+    "ua": [
+      "§7У вас немає доступних предметів",
+      "§7Покупка на сайті §dlast-craft.com"
+    ],
+    "en": [
+      "§7You have no items available",
+      "§7Purchase online §dlast-craft.com"
+    ]
+  },
+  "SITE_SHOP_ITEM_EMPTY_NAME": {
+    "ru": "§cНет доступных предметов",
+    "ua": "§cНемає доступних предметів",
+    "en": "§cNo items available"
+  },
+  "SITE_SHOP_ITEM_LORE_1": {
+    "ru": [
+      "§7Получить следующие предметы:"
+    ],
+    "ua": [
+      "§7Отримати наступні предмети:"
+    ],
+    "en": [
+      "§7Receive the following items:"
+    ]
+  },
+  "SITE_SHOP_ITEM_LORE_2": {
+    "ru": [
+      " ",
+      "§cВНИМАНИЕ! У вас должно быть %s",
+      "§cсвободных слотов в вашем инвентаре!",
+      " "
+    ],
+    "ua": [
+      " ",
+      "§cУВАГА! У вас повинно бути %s",
+      "§cвільних слотів в вашому інвентарі!",
+      " "
+    ],
+    "en": [
+      " ",
+      "§cAttention! You must have %s",
+      "§cfree slots in your inventory!",
+      " "
+    ]
+  },
+  "SITE_SHOP_ITEM_LORE_3": {
+    "ru": "§e▸ Нажмите, чтобы получить",
+    "ua": "§e▸ Натисніть, щоб отримати",
+    "en": "§e▸ Click to receive"
+  },
+  "SITE_SHOP_ITEM_LORE_4": {
+    "ru": [
+      "§7Цена: §e%s §7золота",
+      "",
+      "§e▸ Нажмите, чтобы купить"
+    ],
+    "ua": [
+      "§7Вартість: §e%s §7золота",
+      "",
+      "§e▸ Натисніть, щоб придбати"
+    ],
+    "en": [
+      "§7Price: §e%s §7of gold",
+      "",
+      "§e▸ Click to purchase"
+    ]
+  },
+  "SITE_SHOP_WAIT_MESSAGE": {
+    "ru": "§6Магазин §8| §fУ вас есть §a%s §fпредметов, которые вы не забрали после покупки! Чтобы их забрать, напишите §7/give",
+    "ua": "§6Магазин §8| §fУ вас є §a%s §fпредметів, які ви не забрали після покупки! Щоб забрати їх, напишіть §7/give",
+    "en": "§6Shop §8| §fYou have §a%s §fitems that you did not pick up after purchase! To pick them up, write §7/give"
+  },
+  "SPAWNER_CHANGED": {
+    "ru": "%s §fТип спавнера изменен на §a%s",
+    "ua": "%s §fТип спавнера змінено на §a%s",
+    "en": "%s §fSpawner type changed to §a%s"
+  },
+  "SPAWNER_CHANGE_TYPE": {
+    "ru": [
+      "",
+      "§7Сменить тип спавнера на §f%s",
+      "§7за §e%s §7%s §f(скидка %s)",
+      "",
+      "§e▸ Нажмите, чтобы сменить тип"
+    ],
+    "ua": [
+      "",
+      "§7Змінити тип спавнера на §f%s",
+      "§7за §e%s §7%s §f(знижка %s)",
+      "",
+      "§e▸ Натисніть, щоб змінити тип"
+    ],
+    "en": [
+      "",
+      "§7Change spawner type to §f%s",
+      "§7for §e%s §7%s §f(discount %s)",
+      "",
+      "§e▸ Click to change type"
+    ]
+  },
+  "SPAWNER_DROPPED": {
+    "ru": "%s §fСпавнер успешно удален и дропнут в ваш инвентарь",
+    "ua": "%s §fСпавнер успішно видалений і дропнут у ваш інвентар ",
+    "en": "%s §fThe spawner has been successfully removed and dropped into your inventory"
+  },
+  "SPAWNER_DROP_ERROR": {
+    "ru": "%s §cВы не можете дропнуть сломанный спавнер, почините его",
+    "ua": "%s §cВи не можете дропнути зламаний спавнер, спочатку необхідно полагодити його",
+    "en": "%s §cYou cannot drop a broken spawner, fix it up"
+  },
+  "SPAWNER_DROP_LORE": {
+    "ru": [
+      "",
+      "§7Чтобы сломать этот спавнер",
+      "§7и дропнуть его как блок",
+      "§7вам нужно заплатить",
+      "§e%s §7%s",
+      "",
+      "§cВНИМАНИЕ! После данного действия,",
+      "§cвсе купленные флаги будут отключены",
+      "§cи их придется покупать заново!",
+      "",
+      "§e▸ Нажмите, чтобы дропнуть спавнер"
+    ],
+    "ua": [
+      "",
+      "§7Щоб зламати цей спавнер",
+      "§7та дропнути його як блок,",
+      "§7вам потрібно заплатити",
+      "§e%s §7%s",
+      "",
+      "§cУВАГА! Після цієї дії",
+      "§cвсі куплені прапори будуть вимкнені",
+      "§cі придеться купляти їх знову!",
+      "",
+      "§e▸ Натисніть, щоб дропнути спавнер"
+    ],
+    "en": [
+      "",
+      "§7To break this spawner",
+      "§7and drop it as a block,",
+      "§7you have to pay",
+      "§e%s §7%s",
+      "",
+      "§cATTENTION! After this action,",
+      "§call purchased flags will be disabled",
+      "§cand you will have to buy them again!",
+      "",
+      "§e▸ Click to drop a spawner"
+    ]
+  },
+  "SPAWNER_DROP_NAME": {
+    "ru": "Дропнуть спавнер",
+    "ua": "Дропнути спавнер",
+    "en": "Drop spawner"
+  },
+  "SPAWNER_FIXED": {
+    "ru": "%s §fВы успешно починили спавнер §a%s",
+    "ua": "%s §fВи успішно полагодили спавнер §a%s",
+    "en": "%s §fYou have successfully repaired the spawner §a%s"
+  },
+  "SPAWNER_FIXED_LORE": {
+    "ru": [
+      "",
+      "§7Ремонт данного спавнера составит",
+      "§e%s §7%s",
+      "",
+      "§e▸ Нажмите, чтобы починить"
+    ],
+    "ua": [
+      "",
+      "§7Ремонт цього спавнера складе",
+      "§e%s §7%s",
+      "",
+      "§e▸ Натисніть, щоб полагодити"
+    ],
+    "en": [
+      "",
+      "§7The repair of this spawner will take",
+      "§e%s §7%s",
+      "",
+      "§e▸ Click to fix"
+    ]
+  },
+  "SPAWNER_FIXED_NAME": {
+    "ru": "Починить спавнер",
+    "ua": "Полагодити спавнер",
+    "en": "Fix spawner"
+  },
+  "SPAWNER_FLAG_DURABILITY_LORE": {
+    "ru": [
+      "",
+      "§7Спавнер нельзя разрушить взрывом"
+    ],
+    "ua": [
+      "",
+      "§7Спавнер не можна зруйнувати вибухом"
+    ],
+    "en": [
+      "",
+      "§7Spawner cannot be destroyed by explosion"
+    ]
+  },
+  "SPAWNER_FLAG_DURABILITY_NAME": {
+    "ru": "Защита от взрывов",
+    "ua": "Захист від вибухів",
+    "en": "Explosion protection"
+  },
+  "SPAWNER_FLAG_ENABLED": {
+    "ru": "%s §fВы успешно купили флаг %s §fдля своего спавнера",
+    "ua": "%s §fВи успішно придбали флаг %s §fдля свого спавнера",
+    "en": "%s §fYou have successfully bought a flag %s §ffor your spawner"
+  },
+  "SPAWNER_FLAG_INTELLIGENT_LORE": {
+    "ru": [
+      "",
+      "§7Включает мозги у всех мобов,",
+      "§7которые будут заспавнены из спавнера"
+    ],
+    "ua": [
+      "",
+      "§7Включає мізки у всіх мобів,",
+      "§7які будуть заспавнені зі спавнера"
+    ],
+    "en": [
+      "",
+      "§7Turns on the brains of all mobs,",
+      "§7which will be spawned from the spawner"
+    ]
+  },
+  "SPAWNER_FLAG_INTELLIGENT_NAME": {
+    "ru": "Мозги",
+    "ua": "Мізки",
+    "en": "Brains"
+  },
+  "SPAWNER_FLAG_LORE": {
+    "ru": [
+      "",
+      "§7Цена за золото: §e%s §f(%s)",
+      "",
+      "§7Данный флаг истекает:",
+      "%s",
+      "",
+      "§e▸ Нажмите, чтобы купить"
+    ],
+    "ua": [
+      "",
+      "§7Вартість за золото: §e%s §f(%s)",
+      "",
+      "§7У цього прапора закінчується строк дії:",
+      "%s",
+      "",
+      "§e▸ Натисніть, щоб придбати"
+    ],
+    "en": [
+      "",
+      "§7Gold price: §e%s §f(%s)",
+      "",
+      "§7This flag expires:",
+      "%s",
+      "",
+      "§e▸ Click to purchase"
+    ]
+  },
+  "SPAWNER_FLAG_SPEED_LORE": {
+    "ru": [
+      "",
+      "§7Все мобы будут появляться в 2 раза быстрее"
+    ],
+    "ua": [
+      "",
+      "§7Всі моби будуть з'являтися в 2 рази швидше"
+    ],
+    "en": [
+      "",
+      "§7All mobs will spawn 2 times faster"
+    ]
+  },
+  "SPAWNER_FLAG_SPEED_NAME": {
+    "ru": "Скоростной спавн",
+    "ua": "Швидкісний спавн",
+    "en": "Speed spawn"
+  },
+  "SPAWNER_FLAG_TOO_MANY_MOBS_LORE": {
+    "ru": [
+      "",
+      "§7С вероятностью 50% спавнит",
+      "§7дополнительную сущность из спавнера"
+    ],
+    "ua": [
+      "",
+      "§7З ймовірністю 50% спавнить",
+      "§7додаткову сутність зі спавнера"
+    ],
+    "en": [
+      "",
+      "§7Has a 50% chance to spawn",
+      "§7additional entity from the spawner"
+    ]
+  },
+  "SPAWNER_FLAG_TOO_MANY_MOBS_NAME": {
+    "ru": "Дополнительная сущность",
+    "ua": "Додаткова сутність",
+    "en": "Additional entity"
+  },
+  "SPAWNER_IS_ALREADY_SELECT": {
+    "ru": "%s §cЭтот спавнер уже спавнит данный тип энтити",
+    "ua": "%s §cЦей спавнер вже спавнить цей тип ентіті",
+    "en": "%s §cThis spawner will already spawn this entity type"
+  },
+  "SPAWNER_IS_BROKEN": {
+    "ru": "%s §cВы не можете поменять сущность в сломанном спавнере, почините его",
+    "ua": "%s §cВи не можете змінити сутність в зламаному спавнере, полагодіть його",
+    "en": "%s §cYou cannot change an entity in a broken spawner, fix it"
+  },
+  "SPAWN_TO": {
+    "ru": "$@MODE_PREFIX$Игрок %s §fперемещен на спавн",
+    "ua": "Гравець %s §fпреміщений на спавн",
+    "en": "Play %s §fhas been teleported to spawn"
+  },
+  "SPEED_TO": {
+    "ru": "$@MODE_PREFIX$§fУстановлена скорость §a%s §fдля игрока %s",
+    "ua": "§fВстановлена швидкість §a%s §fдля гравця %s",
+    "en": "§fSpeed set §a%s §ffor player %s"
+  },
+  "S_FORMAT": {
+    "ru": "/s <ник игрока>",
+    "ua": "/s <нік гравця>",
+    "en": "/s <player's nickname>"
+  },
+  "TELEPORTING_RUNNING": {
+    "ru": "$@MODE_PREFIX$§cПроцесс телепортации уже запущен!",
+    "ua": "§cПроцес телепортації вже запущений!",
+    "en": "§cThe teleportation process has already started!"
+  },
+  "TELEPORT_MOVE_ERROR": {
+    "ru": "$@MODE_PREFIX$§cОшибка, вы двинулись, телепортация отменена",
+    "ua": "§cПомилка, ви рушили, телепортація скасована",
+    "en": "§cError, you moved, teleportation is canceled"
+  },
+  "TELEPORT_TO": {
+    "ru": "$@MODE_PREFIX$Игрок %s §fбыл телепортирован к игроку %s",
+    "ua": "Гравець %s §fбув телепортований до гравця %s",
+    "en": "Player %s §fhas been teleported to player %s"
+  },
+  "TPACCEPT_ERROR": {
+    "ru": "$@MODE_PREFIX$У вас нет ожидающих заявок",
+    "ua": "У вас немає запитів",
+    "en": "You have no pending requests"
+  },
+  "TPACCEPT_ERROR_PLAYER": {
+    "ru": "$@MODE_PREFIX$У вас нет ожидающих заявок от игрока %s",
+    "ua": "У вас немає запитів від гравця %s",
+    "en": "You have no pending requests from a player %s"
+  },
+  "TPACCEPT_SENDER": {
+    "ru": "$@MODE_PREFIX$Вы приняли запрос от игрока %s",
+    "ua": "Ви прийняли запит від гравця %s",
+    "en": "You have accepted a request from a player %s"
+  },
+  "TPACCEPT_WHO": {
+    "ru": "$@MODE_PREFIX$Игрок %s §fпринял ваш запрос на телепортацию",
+    "ua": "Гравець %s §fприйняв ваш запит на телепортацію",
+    "en": "Player %s §faccepted your teleportation request"
+  },
+  "TPDENY_YOU": {
+    "ru": "$@MODE_PREFIX$Игрок %s §fотклонил ваш запрос на телепортарацию",
+    "ua": "Гравець %s §fвідхилив ваш запит на телепортацію",
+    "en": "Player %s §fdeclined your teleportation request"
+  },
+  "TPPOS_ERROR": {
+    "ru": "§cАргументы не верны, должны быть цифры",
+    "ua": "§cАргументи не правильні, повинні бути цифри",
+    "en": "§cArguments are not correct, there must be numbers"
+  },
+  "TPPOS_ERROR_BORDER": {
+    "ru": "$@MODE_PREFIX$§cВы не можете телепортироваться в данную локацию, она находится за пределами границы мира",
+    "ua": "§cВи не можете телепортуватися на цю локацію, вона знаходиться за межами кордону світу",
+    "en": "§cYou cannot teleport to this location, it is beyond the border of the world"
+  },
+  "TPPOS_FORMAT": {
+    "ru": "/tppos <x> <y> <z>",
+    "ua": "/tppos <x> <y> <z>",
+    "en": "/tppos <x> <y> <z>"
+  },
+  "TPTOGGLE_DISABLE": {
+    "ru": "$@MODE_PREFIX$Телепортации - §cотключены",
+    "ua": "Телепортації - §cвимкнені",
+    "en": "Teleports - §cdisabled"
+  },
+  "TPTOGGLE_ENABLE": {
+    "ru": "$@MODE_PREFIX$Телепортации - §aвключены",
+    "ua": "Телепортації - §aувімкнені",
+    "en": "Teleports - §aenabled"
+  },
+  "TPTOGGLE_ITEM_NAME": {
+    "ru": "§aТелепортации §f- §a%s",
+    "ua": "§aТелепортації §f- §a%s",
+    "en": "§aTeleports §f- §a%s"
+  },
+  "TRADE_ERROR": {
+    "ru": "$TRADE_PREFIX$С вами еще никто не хотел поменяться",
+    "ua": "§6Trade §8| §fЗ вами ще ніхто не хотів помінятися",
+    "en": "§6Trade §8| §fNobody wanted to trade with you yet"
+  },
+  "TRADE_ERROR2": {
+    "ru": "$TRADE_PREFIX$У вас нет ожидающих заявок от игрока %s",
+    "ua": "§6Trade §8| §fУ вас немає заявок від гравця %s",
+    "en": "§6Trade §8| §fYou have no pending requests from player %s"
+  },
+  "TRADE_ERROR_YOU": {
+    "ru": "§cВы не можете принимать запросы сами от себя :/",
+    "ua": "§cВи не можете приймати запити самі від себе :/",
+    "en": "§cYou can't accept your own requests :/"
+  },
+  "TRADE_FORMAT": {
+    "ru": "/trade <ник игрока>",
+    "ua": "/trade <нік гравця>",
+    "en": "/trade <player's nickname>"
+  },
+  "TRADE_HELP": {
+    "ru": [
+      "§7/trade <ник> §f- предложить обмен",
+      "§7/trade accept <ник> §f- принять обмен"
+    ],
+    "ua": [
+      "§7/trade <нік> §f- запропонувати обмін",
+      "§7/trade accept <нік> §f- прийняти обмін"
+    ],
+    "en": [
+      "§7/trade <nickname> §f- offer trade",
+      "§7/trade accept <nickname> §f- accept trade"
+    ]
+  },
+  "TRADE_INVITE_1": {
+    "ru": "%s §fпредложил вам обмен",
+    "ua": " %s §fзапропонував вам обмін",
+    "en": " %s §foffered you to trade"
+  },
+  "TRADE_PREFIX": {
+    "ru": "§6Trade §8| §f"
+  },
+  "USER_SETBED": {
+    "ru": "$@MODE_PREFIX$Точка §aдома §fустановлена",
+    "ua": "Точка §aбудинку §fвстановлена",
+    "en": "House §apoint §fis set"
+  },
+  "USER_SETHOME_BED": {
+    "ru": "$@MODE_PREFIX$Чтобы установить §aточку дома§f, кликните §7ПКМ §fпо кровати",
+    "ua": "Щоб встановити §aточку будинку§f, клікніть §7ПКМ §fпо ліжку",
+    "en": "To set a §ahouse point§f, §7RMC §fon the bed"
+  },
+  "WARPINFO_FORMAT": {
+    "ru": "/warpinfo <название варпа>",
+    "ua": "/warpinfo <назва варпа>",
+    "en": "/warpinfo <warp name>"
+  },
+  "WARP_CLOSE": {
+    "ru": "$@MODE_PREFIX$§cВарп %s закрыт, т.к. он является приватным!",
+    "ua": "§cВарп %s закритий, тому що він є приватним!",
+    "en": "§cWarp %s is closed because it is private!"
+  },
+  "WARP_CREATE": {
+    "ru": "$@MODE_PREFIX$Варп §a%s §fуспешно создан",
+    "ua": "Варп §a%s §fуспішно створений",
+    "en": "Warp §a%s §fhas been successfully created!"
+  },
+  "WARP_CREATE_ERROR": {
+    "ru": "$@MODE_PREFIX$§cВарп %s уже существует",
+    "ua": "§cВарп %s вже існує",
+    "en": "§cWarp %s already exists"
+  },
+  "WARP_CREATE_NAME_ERROR": {
+    "ru": "$@MODE_PREFIX$§cОшибка, длина варпа не может превышать 32 символа",
+    "ua": "§cПомилка, довжина варпа не може перевищувати 32 символу",
+    "en": "§cError, Warp length cannot exceed 32 characters"
+  },
+  "WARP_GUI_LORE": {
+    "ru": [
+      "",
+      "§7управление своими",
+      "§7варпами или просмотр публичных",
+      "",
+      "§7Всего варпов: §c%s",
+      "",
+      "§e▸ ЛКМ, чтобы открыть меню публичных варпов",
+      "§e▸ ПКМ, чтобы открыть меню своих варпов"
+    ],
+    "ua": [
+      "",
+      "§7управління своїми",
+      "§7варпами або перегляд публічних",
+      "",
+      "§7Всього варпів: §c%s",
+      "",
+      "§e▸ ЛКМ, щоб відкрити меню публічних варпів",
+      "§e▸ ПКМ, щоб відкрити меню своїх варпів"
+    ],
+    "en": [
+      "",
+      "§7Manage your",
+      "§7Warps or view public",
+      "",
+      "§7Total Warps: §c%s",
+      "",
+      "§e▸ LMC TO open the public warp menu",
+      "§e▸ RMC to open your Warp menu"
+    ]
+  },
+  "WARP_GUI_NAME": {
+    "ru": "Список варпов",
+    "ua": "Список варпів",
+    "en": "Warps list"
+  },
+  "WARP_ITEM_CHANGER_LORE": {
+    "ru": [
+      "",
+      "§7Показать список публичных варпов",
+      "",
+      "§e▸ Нажмите, чтобы переключиться"
+    ],
+    "ua": [
+      "",
+      "§7Показати список публічних варпів",
+      "",
+      "§e▸ Натисніть, щоб переключитися"
+    ],
+    "en": [
+      "",
+      "§7Show list of public Warps",
+      "",
+      "§e▸ Click to switch"
+    ]
+  },
+  "WARP_ITEM_CHANGER_NAME": {
+    "ru": "Публичные варпы",
+    "ua": "Публічні варпи",
+    "en": "Public Warps"
+  },
+  "WARP_ITEM_EMPTY_LORE": {
+    "ru": [
+      "§7В данный момент на сервере",
+      "§7нет доступных публичных варпов"
+    ],
+    "ua": [
+      "§7Зараз на сервері",
+      "§7немає доступних публічних варпів"
+    ],
+    "en": [
+      "§7Currently on the server",
+      "§7there are no availavle public warps"
+    ]
+  },
+  "WARP_ITEM_EMPTY_NAME": {
+    "ru": "§cНа сервере нет активных варпов",
+    "ua": "§cНа сервері немає активних варпів",
+    "en": "§cThere are no active Warps on the server"
+  },
+  "WARP_ITEM_LORE": {
+    "ru": [
+      "",
+      "§7Владелец: %s",
+      "§7Дата создания: §f%s",
+      "§7Координаты варпа:",
+      " §7Мир: §c%s",
+      " §7X: §c%s",
+      " §7Y: §c%s",
+      " §7Z: §c%s",
+      "",
+      "§e▸ Нажмите, чтобы телепортироваться"
+    ],
+    "ua": [
+      "",
+      "§7Власник: %s",
+      "§7Дата створення: §f%s",
+      "§7Координати варпа:",
+      " §7Світ: §c%s",
+      " §7X: §c%s",
+      " §7Y: §c%s",
+      " §7Z: §c%s",
+      "",
+      "§e▸ Натисніть, щоб телепортуватися"
+    ],
+    "en": [
+      "",
+      "§7Owner: %s",
+      "§7Creation date: §f%s",
+      "§7Warp coordinates:",
+      " §7World: §c%s",
+      " §7X: §c%s",
+      " §7Y: §c%s",
+      " §7Z: §c%s",
+      "",
+      "§e▸ Click to teleport"
+    ]
+  },
+  "WARP_NOT_FOUND": {
+    "ru": "$@MODE_PREFIX$§cВарп %s не найден",
+    "ua": "§cВарп %s не знайдений",
+    "en": "§cWarp %s not found"
+  },
+  "WARP_NOT_YOUR": {
+    "ru": "$@MODE_PREFIX$§cДанный варп вам не принадлежит",
+    "ua": "§cЦей варп не принадлежить вам",
+    "en": "§cThis warp doesn't belong to you"
+  },
+  "WARP_REMOVED": {
+    "ru": "$@MODE_PREFIX$Варп §a%s §fудален",
+    "ua": "§fВарп §a%s §fвидалений",
+    "en": "§fWarp §a%s §fis removed"
+  },
+  "WARP_TO": {
+    "ru": "$@MODE_PREFIX$Вы были телепортированы на варп §a%s",
+    "ua": "Ви були телепортовані на варп §a%s",
+    "en": "You have been teleported to Warp §a%s"
+  },
+  "WEB_BUY_ITEMS": {
+    "ru": "§6Сервер §8| §fПоздравляем с покупкой %s §8x%s",
+    "ua": "§6Сервер §8| §fВітаємо вас із покупкою %s §8x%s",
+    "en": "§6Server §8| §fCongratulations on your purchase %s §8x%s"
+  },
+  "TPDENY": {
+    "ru": "$@MODE_PREFIX$Вы отклонили запрос на телепортацию от игрока %s"
+  },
+  "TPPOS": {
+    "ru": "$@MODE_PREFIX$Телепортируем на координаты: %s"
+  },
+  "TPTOGGLE": {
+    "ru": "$@MODE_PREFIX$§cИгрок %s §cотключил все запросы на телепортации"
+  },
+  "TRADE": {
+    "ru": "$@MODE_PREFIX$§fЗапрос на обмен отправлен игроку %s"
+  },
+  "BACK": {
+    "ru": "$@MODE_PREFIX$Телепортируем на предыдущую локацию"
+  },
+  "CALL": {
+    "ru": "$@MODE_PREFIX$Запрос на телепортацию отправлен игроку %s"
+  },
+  "TELEPORT": {
+    "ru": "$@MODE_PREFIX$Вы были телепортированы к игроку %s"
+  },
+  "TELEPORTING": {
+    "ru": "$@MODE_PREFIX$Телепортируем, не двигайтесь §a%s §f%s"
+  },
+  "SPEED": {
+    "ru": "$@MODE_PREFIX$Установлена скорость §a%s"
+  },
+  "SPAWN": {
+    "ru": "$@MODE_PREFIX$Телепортируем на спавн..."
+  },
+  "REPAIR": {
+    "ru": "$@MODE_PREFIX$Предмет отремонтирован"
+  },
+  "PTIME": {
+    "ru": "$@MODE_PREFIX$Время установлено на §a%s"
+  },
+  "HAT": {
+    "ru": "$@MODE_PREFIX$Наслаждайтесь своим головным убором!"
+  },
+  "HEAL": {
+    "ru": "$@MODE_PREFIX$Хп и голод восстановлены"
+  },
+  "FEED": {
+    "ru": "$@MODE_PREFIX$Голод восстановлен"
+  },
+  "EXT": {
+    "ru": "$@MODE_PREFIX$Вы были потушены"
+  }
 }

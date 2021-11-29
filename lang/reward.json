@@ -1,270 +1,270 @@
 {
-    "EXP_LORE_REWARD_LOCALE": {
-        "ru": "§8 • §fОпыт §7(от §a%s §7до §a%s§7)",
-        "ua": "§8 • §fДосід §7(від §a%s §7до §a%s§7)",
-        "en": "§8 • §fXP §7(from §a%s §7to §a%s§7)"
-    },
-    "EXP_REWARD_LOCALE": {
-        "ru": " §7+ §a%s §fопыта",
-        "ua": " §7+ §a%s §fдосвіду",
-        "en": " §7+ §a%s §fXP"
-    },
-    "GET_REWARD": {
-        "ru": "§7Зайдите в профиль, чтобы получить свою награду",
-        "ua": "§7Зайдіть в профіль, щоб отримати свою нагороду",
-        "en": "§7Go to your profile to claim your reward"
-    },
-    "GOLD_LORE_REWARD_LOCALE": {
-        "ru": "§8 • §fЗолото §7(§e%s §7%s)",
-        "ua": "§8 • §fЗолото §7(§e%s §7%s)",
-        "en": "§8 • §fGold §7(§e%s §7%s)"
-    },
-    "GOLD_REWARD_LOCALE": {
-        "ru": " §7+ §e%s §f%s",
-        "ua": " §7+ §e%s §f%s",
-        "en": " §7+ §e%s §f%s"
-    },
-    "KEYS_LORE_REWARD_LOCALE": {
-        "ru": "§8 • §f%s §7(от §d%s§7 до §d%s§7)",
-        "ua": "§8 • §f%s §7(від §d%s§7 до §d%s§7)",
-        "en": "§8 • §f%s §7(from §d%s§7 to §d%s§7)"
-    },
-    "KEYS_REWARD_LOCALE": {
-        "ru": " §7+ §d%s §f%s",
-        "ua": " §7+ §d%s §f%s",
-        "en": " §7+ §d%s §f%s"
-    },
-    "KEY_LORE_REWARD_LOCALE": {
-        "ru": "§8 • §f%s §7(§d%s§7)",
-        "ua": "§8 • §f%s §7(§d%s§7)",
-        "en": "§8 • §f%s §7(§d%s§7)"
-    },
-    "LEVELING_LOAD_LORE": {
-        "ru": [
-            "§7Информация о ваших уровнях загружается",
-            "§7или награды отсутствуют вовсе..."
-        ],
-        "ua": [
-            "§7Інформація про ваши рівні завантажується",
-            "§7або нагороди відсутні зовсім..."
-        ],
-        "en": [
-            "§7Information about your levels is loading",
-            "§7or there are no awards at all..."
-        ]
-    },
-    "LEVELING_LOAD_NAME": {
-        "ru": "§cИнформация загружается...",
-        "ua": "§cІнформація завантажується ...",
-        "en": "§cInformation is loading..."
-    },
-    "LEVELING_WAIT_REWARD": {
-        "ru": "§6Сервер §8| §fУ вас есть §a%s§f наград, которые вы не забрали. Чтобы их забрать, напишите §7/profile§f и перейдите во вкладку §bуровень",
-        "ua": "§6Сервер §8| §fУ вас вже є §a%s§f нагород, які ви не забрали. Щоб їх забрати, напишіть §7/profile§f і перейдіть у вкладку §bрівень",
-        "en": "§6Server §8| §fYou have §a%s§f awards that you did not collect. To pick them up, write §7/profile§f and go to the §blevel tab"
-    },
-    "LEVEL_REWARD_ANTICHEAT": {
-        "ru": "§8+ §7Иммунитет к некоторым проверкам античита!",
-        "ua": "§8+ §7Імунітет до деяких перевірок антічита!",
-        "en": "§8+ §7Immunity to some anticheat checks!"
-    },
-    "LEVEL_REWARD_CASINO": {
-        "ru": "§8+ §7Доступ к казино в группе §9VK §fvk.com/lastcraft",
-        "ua": "§8+ §7Доступ до казино в групі §9VK §fvk.com/lastcraft",
-        "en": "§8+ §7Access to casino in a group §9VK §fvk.com/lastcraft"
-    },
-    "LEVEL_REWARD_COSMETIC": {
-        "ru": "§8+ %s §7игровая косметика",
-        "ua": "§8+ %s §7ігрова косметика",
-        "en": "§8+ %s §7game cosmetics"
-    },
-    "LEVEL_REWARD_GADGET": {
-        "ru": "§8+ %s §7гаджет",
-        "ua": "§8+ %s §7гаджет",
-        "en": "§8+ %s §7gadget"
-    },
-    "LEVEL_REWARD_HOLO": {
-        "ru": "Доступна награда за %s день",
-        "ua": "Доступна нагорода за %s день",
-        "en": "Reward available for %s day"
-    },
-    "LEVEL_REWARD_LORE1": {
-        "ru": [
-            "§7За достижение §f%s §7уровня вы получите:"
-        ],
-        "ua": [
-            "§7За досягнення §f%s §7рівня ви отримаєте:"
-        ],
-        "en": [
-            "§7For reaching §f%s §7level you'll get:"
-        ]
-    },
-    "LEVEL_REWARD_LORE2": {
-        "ru": [
-            " ",
-            "§e▸ Получить награду"
-        ],
-        "ua": [
-            " ",
-            "§e▸ Отримати нагороду"
-        ],
-        "en": [
-            " ",
-            "§e▸ Get an award"
-        ]
-    },
-    "LEVEL_REWARD_NAME": {
-        "ru": "Награда за %s уровень",
-        "ua": "Нагорода за %s рівень",
-        "en": "Reward for %s level"
-    },
-    "LEVEL_REWARD_SENDMONEY": {
-        "ru": "§8+ §7Принимать и отправлять деньги через §f/sendmoney",
-        "ua": "§8+ §7Приймати і відправляти гроші через §f/sendmoney",
-        "en": "§8+ §7Receive and send money through §f/sendmoney"
-    },
-    "LEVEL_REWARD_VK": {
-        "ru": "§8+ §7Писать оффлайн игроку у которого привязан §9VK",
-        "ua": "§8+ §7Писати оффлайн гравцеві у якого прив'язаний §9VK",
-        "en": "§8+ §7Write offline to the player who is tied to §9VK"
-    },
-    "MONEY_LORE_REWARD_LOCALE": {
-        "ru": "§8 • §fМонеты §7(от §6%s §7до §6%s§7)",
-        "ua": "§8 • §fМонети §7(від §6%s §7до §6%s§7)",
-        "en": "§8 • §fCoins §7(from §6%s §7to §6%s§7)"
-    },
-    "MONEY_REWARD_LOCALE": {
-        "ru": " §7+ §6%s §f%s",
-        "ua": " §7+ §6%s §f%s",
-        "en": " §7+ §6%s §f%s"
-    },
-    "REWARD_CLICK_TO_CLAIM": {
-        "ru": [
-            "",
-            " §e▸ Нажмите, чтобы получить награду"
-        ],
-        "ua": [
-            " ",
-            " §e▸ Натисніть, щоб отримати нагороду"
-        ],
-        "en": [
-            " ",
-            " §e▸ Click to get your reward"
-        ]
-    },
-    "REWARD_DONATE_ITEM": {
-        "ru": "§eОнлайн-покупка",
-        "ua": "§eОнлайн-покупка",
-        "en": "§eOnline shopping"
-    },
-    "REWARD_DONATE_ITEM_LORE": {
-        "ru": [
-            " ",
-            "§7Если доступных наград нет,",
-            "§7а монетки или ключи уж очень",
-            "§7нужны, Вы можете посетить наш",
-            "§7онлайн-магазин и приобрести их",
-            "§7по адресу §dlast-craft.net"
-        ],
-        "ua": [
-            " ",
-            "§7Якщо доступних нагород немає,",
-            "§7а монетки або ключі вже дуже",
-            "§7потрібні, ви можете відвідати наш",
-            "§7онлайн-магазин і придбати їх",
-            "§7за адресою §dlast-craft.net"
-        ],
-        "en": [
-            " ",
-            "§7If there are no rewards available,",
-            "§7and the coins or keys are very",
-            "§7needed, you can visit our",
-            "§7online store and purchase them",
-            "§7here §dlast-craft.net"
-        ]
-    },
-    "REWARD_GUI_NAME": {
-        "ru": "Награды",
-        "ua": "Нагороди",
-        "en": "Rewards"
-    },
-    "REWARD_HOLOGRAM_TITLE": {
-        "ru": "§bЕжедневные награды"
-    },
-    "REWARD_HOLOGRAM_SUBTITLE": {
-        "ru": "§7Нажмите, чтобы открыть"
-    },
-    "REWARD_HOLOGRAM": {
-        "ru": [
-            "§bЕжедневные награды",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§bЩоденні нагороди",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§bDaily rewards",
-            "§7Click to open"
-        ]
-    },
-    "REWARD_OTHER_DAY": {
-        "ru": [
-            "",
-            "§cЭтот день еще не наступил",
-            "",
-            "§8Заходите на сервер еще %s %s",
-            "§8подряд для получения этой награды"
-        ],
-        "ua": [
-            " ",
-            "§cЦей день ще не настав",
-            "",
-            "§8Заходьте на сервер ще %s %s",
-            "§8поспіль для отримання цієї нагороди"
-        ],
-        "en": [
-            " ",
-            "§cThis day hasn't come yet",
-            "",
-            "§8Visit the server %s %s",
-            "§8times in a row to earn this reward"
-        ]
-    },
-    "REWARD_YOU_CAN_CLAIM_IN": {
-        "ru": [
-            "",
-            " §c▸ Награда уже получена"
-        ],
-        "ua": [
-            " ",
-            " §c▸ Нагорода вже отримана"
-        ],
-        "en": [
-            " ",
-            " §c▸ The award has already been received"
-        ]
-    },
-    "REWARD_YOU_CAN_CLAIM_IN_TIME": {
-        "ru": [
-            "",
-            "§7Можно будет получить через:",
-            "§e%s"
-        ],
-        "ua": [
-            " ",
-            "§7Можна буде отримати через:",
-            "§e%s"
-        ],
-        "en": [
-            " ",
-            "§7Can be received in:",
-            "§e%s"
-        ]
-    },
-    "REWARD_YOU_GOT_REWARDS": {
-        "ru": "§fВы успешно получили следующие награды:",
-        "ua": "§fВи успішно отримали наступні нагороди:",
-        "en": "§fYou have successfully earned the following awards:"
-    }
+  "EXP_LORE_REWARD_LOCALE": {
+    "ru": "§8 • §fОпыт §7(от §a%s §7до §a%s§7)",
+    "ua": "§8 • §fДосід §7(від §a%s §7до §a%s§7)",
+    "en": "§8 • §fXP §7(from §a%s §7to §a%s§7)"
+  },
+  "EXP_REWARD_LOCALE": {
+    "ru": " §7+ §a%s §fопыта",
+    "ua": " §7+ §a%s §fдосвіду",
+    "en": " §7+ §a%s §fXP"
+  },
+  "GET_REWARD": {
+    "ru": "§7Зайдите в профиль, чтобы получить свою награду",
+    "ua": "§7Зайдіть в профіль, щоб отримати свою нагороду",
+    "en": "§7Go to your profile to claim your reward"
+  },
+  "GOLD_LORE_REWARD_LOCALE": {
+    "ru": "§8 • §fЗолото §7(§e%s §7%s)",
+    "ua": "§8 • §fЗолото §7(§e%s §7%s)",
+    "en": "§8 • §fGold §7(§e%s §7%s)"
+  },
+  "GOLD_REWARD_LOCALE": {
+    "ru": " §7+ §e%s §f%s",
+    "ua": " §7+ §e%s §f%s",
+    "en": " §7+ §e%s §f%s"
+  },
+  "KEYS_LORE_REWARD_LOCALE": {
+    "ru": "§8 • §f%s §7(от §d%s§7 до §d%s§7)",
+    "ua": "§8 • §f%s §7(від §d%s§7 до §d%s§7)",
+    "en": "§8 • §f%s §7(from §d%s§7 to §d%s§7)"
+  },
+  "KEYS_REWARD_LOCALE": {
+    "ru": " §7+ §d%s §f%s",
+    "ua": " §7+ §d%s §f%s",
+    "en": " §7+ §d%s §f%s"
+  },
+  "KEY_LORE_REWARD_LOCALE": {
+    "ru": "§8 • §f%s §7(§d%s§7)",
+    "ua": "§8 • §f%s §7(§d%s§7)",
+    "en": "§8 • §f%s §7(§d%s§7)"
+  },
+  "LEVELING_LOAD_LORE": {
+    "ru": [
+      "§7Информация о ваших уровнях загружается",
+      "§7или награды отсутствуют вовсе..."
+    ],
+    "ua": [
+      "§7Інформація про ваши рівні завантажується",
+      "§7або нагороди відсутні зовсім..."
+    ],
+    "en": [
+      "§7Information about your levels is loading",
+      "§7or there are no awards at all..."
+    ]
+  },
+  "LEVELING_LOAD_NAME": {
+    "ru": "§cИнформация загружается...",
+    "ua": "§cІнформація завантажується ...",
+    "en": "§cInformation is loading..."
+  },
+  "LEVELING_WAIT_REWARD": {
+    "ru": "§6Сервер §8| §fУ вас есть §a%s§f наград, которые вы не забрали. Чтобы их забрать, напишите §7/profile§f и перейдите во вкладку §bуровень",
+    "ua": "§6Сервер §8| §fУ вас вже є §a%s§f нагород, які ви не забрали. Щоб їх забрати, напишіть §7/profile§f і перейдіть у вкладку §bрівень",
+    "en": "§6Server §8| §fYou have §a%s§f awards that you did not collect. To pick them up, write §7/profile§f and go to the §blevel tab"
+  },
+  "LEVEL_REWARD_ANTICHEAT": {
+    "ru": "§8+ §7Иммунитет к некоторым проверкам античита!",
+    "ua": "§8+ §7Імунітет до деяких перевірок антічита!",
+    "en": "§8+ §7Immunity to some anticheat checks!"
+  },
+  "LEVEL_REWARD_CASINO": {
+    "ru": "§8+ §7Доступ к казино в группе §9VK §fvk.com/lastcraft",
+    "ua": "§8+ §7Доступ до казино в групі §9VK §fvk.com/lastcraft",
+    "en": "§8+ §7Access to casino in a group §9VK §fvk.com/lastcraft"
+  },
+  "LEVEL_REWARD_COSMETIC": {
+    "ru": "§8+ %s §7игровая косметика",
+    "ua": "§8+ %s §7ігрова косметика",
+    "en": "§8+ %s §7game cosmetics"
+  },
+  "LEVEL_REWARD_GADGET": {
+    "ru": "§8+ %s §7гаджет",
+    "ua": "§8+ %s §7гаджет",
+    "en": "§8+ %s §7gadget"
+  },
+  "LEVEL_REWARD_HOLO": {
+    "ru": "Доступна награда за %s день",
+    "ua": "Доступна нагорода за %s день",
+    "en": "Reward available for %s day"
+  },
+  "LEVEL_REWARD_LORE1": {
+    "ru": [
+      "§7За достижение §f%s §7уровня вы получите:"
+    ],
+    "ua": [
+      "§7За досягнення §f%s §7рівня ви отримаєте:"
+    ],
+    "en": [
+      "§7For reaching §f%s §7level you'll get:"
+    ]
+  },
+  "LEVEL_REWARD_LORE2": {
+    "ru": [
+      " ",
+      "§e▸ Получить награду"
+    ],
+    "ua": [
+      " ",
+      "§e▸ Отримати нагороду"
+    ],
+    "en": [
+      " ",
+      "§e▸ Get an award"
+    ]
+  },
+  "LEVEL_REWARD_NAME": {
+    "ru": "Награда за %s уровень",
+    "ua": "Нагорода за %s рівень",
+    "en": "Reward for %s level"
+  },
+  "LEVEL_REWARD_SENDMONEY": {
+    "ru": "§8+ §7Принимать и отправлять деньги через §f/sendmoney",
+    "ua": "§8+ §7Приймати і відправляти гроші через §f/sendmoney",
+    "en": "§8+ §7Receive and send money through §f/sendmoney"
+  },
+  "LEVEL_REWARD_VK": {
+    "ru": "§8+ §7Писать оффлайн игроку у которого привязан §9VK",
+    "ua": "§8+ §7Писати оффлайн гравцеві у якого прив'язаний §9VK",
+    "en": "§8+ §7Write offline to the player who is tied to §9VK"
+  },
+  "MONEY_LORE_REWARD_LOCALE": {
+    "ru": "§8 • §fМонеты §7(от §6%s §7до §6%s§7)",
+    "ua": "§8 • §fМонети §7(від §6%s §7до §6%s§7)",
+    "en": "§8 • §fCoins §7(from §6%s §7to §6%s§7)"
+  },
+  "MONEY_REWARD_LOCALE": {
+    "ru": " §7+ §6%s §f%s",
+    "ua": " §7+ §6%s §f%s",
+    "en": " §7+ §6%s §f%s"
+  },
+  "REWARD_CLICK_TO_CLAIM": {
+    "ru": [
+      "",
+      " §e▸ Нажмите, чтобы получить награду"
+    ],
+    "ua": [
+      " ",
+      " §e▸ Натисніть, щоб отримати нагороду"
+    ],
+    "en": [
+      " ",
+      " §e▸ Click to get your reward"
+    ]
+  },
+  "REWARD_DONATE_ITEM": {
+    "ru": "§eОнлайн-покупка",
+    "ua": "§eОнлайн-покупка",
+    "en": "§eOnline shopping"
+  },
+  "REWARD_DONATE_ITEM_LORE": {
+    "ru": [
+      " ",
+      "§7Если доступных наград нет,",
+      "§7а монетки или ключи уж очень",
+      "§7нужны, Вы можете посетить наш",
+      "§7онлайн-магазин и приобрести их",
+      "§7по адресу §dlast-craft.net"
+    ],
+    "ua": [
+      " ",
+      "§7Якщо доступних нагород немає,",
+      "§7а монетки або ключі вже дуже",
+      "§7потрібні, ви можете відвідати наш",
+      "§7онлайн-магазин і придбати їх",
+      "§7за адресою §dlast-craft.net"
+    ],
+    "en": [
+      " ",
+      "§7If there are no rewards available,",
+      "§7and the coins or keys are very",
+      "§7needed, you can visit our",
+      "§7online store and purchase them",
+      "§7here §dlast-craft.net"
+    ]
+  },
+  "REWARD_GUI_NAME": {
+    "ru": "Награды",
+    "ua": "Нагороди",
+    "en": "Rewards"
+  },
+  "REWARD_HOLOGRAM_TITLE": {
+    "ru": "§bЕжедневные награды"
+  },
+  "REWARD_HOLOGRAM_SUBTITLE": {
+    "ru": "§7Нажмите, чтобы открыть"
+  },
+  "REWARD_HOLOGRAM": {
+    "ru": [
+      "§bЕжедневные награды",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§bЩоденні нагороди",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§bDaily rewards",
+      "§7Click to open"
+    ]
+  },
+  "REWARD_OTHER_DAY": {
+    "ru": [
+      "",
+      "§cЭтот день еще не наступил",
+      "",
+      "§8Заходите на сервер еще %s %s",
+      "§8подряд для получения этой награды"
+    ],
+    "ua": [
+      " ",
+      "§cЦей день ще не настав",
+      "",
+      "§8Заходьте на сервер ще %s %s",
+      "§8поспіль для отримання цієї нагороди"
+    ],
+    "en": [
+      " ",
+      "§cThis day hasn't come yet",
+      "",
+      "§8Visit the server %s %s",
+      "§8times in a row to earn this reward"
+    ]
+  },
+  "REWARD_YOU_CAN_CLAIM_IN": {
+    "ru": [
+      "",
+      " §c▸ Награда уже получена"
+    ],
+    "ua": [
+      " ",
+      " §c▸ Нагорода вже отримана"
+    ],
+    "en": [
+      " ",
+      " §c▸ The award has already been received"
+    ]
+  },
+  "REWARD_YOU_CAN_CLAIM_IN_TIME": {
+    "ru": [
+      "",
+      "§7Можно будет получить через:",
+      "§e%s"
+    ],
+    "ua": [
+      " ",
+      "§7Можна буде отримати через:",
+      "§e%s"
+    ],
+    "en": [
+      " ",
+      "§7Can be received in:",
+      "§e%s"
+    ]
+  },
+  "REWARD_YOU_GOT_REWARDS": {
+    "ru": "§fВы успешно получили следующие награды:",
+    "ua": "§fВи успішно отримали наступні нагороди:",
+    "en": "§fYou have successfully earned the following awards:"
+  }
 }

@@ -1,283 +1,283 @@
 {
-    "FRIENDS_ACCEPT_DESCRIPTION": {
-        "ru": "принять запрос игрока в друзья"
-    },
-    "FRIENDS_ADD_DESCRIPTION": {
-        "ru": "добавить игрока в друзья"
-    },
-    "FRIENDS_ALREADY_FRIENDS": {
-        "ru": "§cВы уже являетесь друзьями!",
-        "ua": "§cВи вже є друзями!",
-        "en": "§cYou are already friends!"
-    },
-    "FRIENDS_ALREADY_SENT_REQUEST": {
-        "ru": "§cВы уже отправляли запрос в друзья данному игроку...",
-        "ua": "§cВи вже надіслали запит на дружбу цьому гравцю...",
-        "en": "§cYou have already sent a friend request to this player..."
-    },
-    "FRIENDS_DECLINE_DESCRIPTION": {
-        "ru": "отклонить запрос игрока в друзья"
-    },
-    "FRIENDS_DONT_HAVE_INVITES_FROM": {
-        "ru": "§cУ вас нет запросов в друзья от игрока %s",
-        "ua": "§cУ вас немає запитів в друзі від гравця %s",
-        "en": "§cYou have no friend requests from the player %s"
-    },
-    "FRIENDS_GUI_EQUAL_SERVER": {
-        "ru": " §c▸ Вы уже на одном сервере",
-        "ua": " §c▸ Ви вже на одному сервері",
-        "en": " §c▸ You are already on the same server"
-    },
-    "FRIENDS_GUI_LORE": {
-        "ru": [
-            "§7Уровень: §d%s",
-            "§7Общих друзей: §f%s"
-        ],
-        "ua": [
-            "§7Рівень: §d%s",
-            "§7Спільних друзів: §f%s"
-        ],
-        "en": [
-            "§7Level: §d%s",
-            "§7Common friends: §f%s"
-        ]
-    },
-    "FRIENDS_GUI_NAME": {
-        "ru": "Список друзей",
-        "ua": "Список друзів",
-        "en": "Friends list"
-    },
-    "FRIENDS_GUI_NULL_SERVER_LORE": {
-        "ru": [
-            "§7Последний раз был в сети:",
-            "§e%s назад"
-        ],
-        "ua": [
-            "§7Останній раз був в мережі:",
-            "§e%s тому"
-        ],
-        "en": [
-            "§7Last seen online:",
-            "§e%s ago"
-        ]
-    },
-    "FRIENDS_GUI_NULL_TP_LORE": {
-        "ru": " §c✗ Сейчас оффлайн",
-        "ua": " §c✗ Зараз оффлайн",
-        "en": " §c✗ Now offline"
-    },
-    "FRIENDS_GUI_SERVER_LORE": {
-        "ru": [
-            "§7Сейчас на сервере §e%s"
-        ],
-        "ua": [
-            "§7Зараз на сервері §e%s"
-        ],
-        "en": [
-            "§7Now on the server §e%s"
-        ]
-    },
-    "FRIENDS_GUI_TP_LORE": {
-        "ru": " §e▸ Кликните для телепорта на сервер друга",
-        "ua": " §e▸ Натисніть для телепорту на сервер друга",
-        "en": " §e▸ Click to teleport to friend's server"
-    },
-    "FRIENDS_INVITE_EVENT_CANCELLED": {
-        "ru": "§cДанный игрок запретил отправлять ему запросы в друзья",
-        "ua": "§cЦей гравець заборонив відправляти йому запити в друзі",
-        "en": "§cThis player has forbidden to send him friend requests"
-    },
-    "FRIENDS_INVITE_EXPIRED": {
-        "ru": "§cЗапрос, отправленный игроку %s §fбыл автоматически отклонен",
-        "ua": "§cЗапит, надісланий гравцю %s §fбув автоматично відхилений",
-        "en": "§cRequest sent to player %s §fhas been automatically rejected"
-    },
-    "FRIENDS_INVITE_SENT": {
-        "ru": "§6Друзья §8| §fЗапрос в друзья отправлен игроку %s",
-        "ua": "§6Друзі §8| §fЗапрос в Друзі отправлен Гравецьу %s",
-        "en": "§6Friends §8| §fFriend request sent to player %s"
-    },
-    "FRIENDS_INVITE_TEXT": {
-        "ru": "§6Друзья §8| §fИгрок %s §fотправил Вам запрос в друзья. Он будет автоматически отклонен через 5 минут",
-        "ua": "§6Друзі §8| §fГравець %s §fвідправив вам запит в друзі. Він буде автоматично відхилений через 5 хвилин",
-        "en": "§6Friends §8| §fPlayer %s §fsent you a friend request. It will be automatically declined in 5 minutes"
-    },
-    "FRIENDS_LIMIT": {
-        "ru": "§cВы превысили лимит на количество друзей, ваш лимит - %s",
-        "ua": "§cВи перевищили ліміт на кількість друзів, ваш ліміт - %s",
-        "en": "§cYou have exceeded the limit on the number of friends, your limit is - %s"
-    },
-    "FRIENDS_LIMIT_FRIEND": {
-        "ru": "§cВаш друг превысил лимит на количество друзей!",
-        "ua": "§cВаш друг перевищив ліміт на кількість друзів!",
-        "en": "§cYour friend has exceeded the limit on the number of friends!"
-    },
-    "FRIENDS_LIST_DESCRIPTION": {
-        "ru": "список друзей"
-    },
-    "FRIENDS_NEW_FRIEND": {
-        "ru": "§6Друзья §8| §fПоздравляем! Вы стали друзьями с игроком %s",
-        "ua": "§6Друзі §8| §fВітаємо! Ви стали друзями з гравцем %s",
-        "en": "§6Friends §8| §fCongratulations! You became friends with the player %s"
-    },
-    "FRIENDS_NOT_FRIENDS": {
-        "ru": "§cДанного игрока нет у Вас в друзьях",
-        "ua": "§cЦей гравець не є вашим другом",
-        "en": "§cThis player is not your friend"
-    },
-    "FRIENDS_ONLINE": {
-        "ru": "§6Друзья §8| §fВ онлайне §a%d §f%s",
-        "ua": "§6Друзі §8| §fОнлайн §a%d §f%s",
-        "en": "§6Friends §8| §fOnline §a%d §f%s"
-    },
-    "FRIENDS_PLAYER_REMOVED": {
-        "ru": "§6Друзья §8| §fИгрок %s §fбыл удален из вашего списка друзей",
-        "ua": "§6Друзі §8| §fГравець %s §fбув видалений з вашого списку друзів",
-        "en": "§6Friends §8| §fPlayer %s §fhas been deleted from your friends list"
-    },
-    "FRIENDS_PLAYER_REMOVED_YOU": {
-        "ru": "§6Друзья §8| §fИгрок %s §fудалил Вас из друзей.",
-        "ua": "§6Друзі §8| §fГравець %s §fвидалив вас з друзів.",
-        "en": "§6Friends §8| §fPlayer %s §fhas deleted you from their friends list"
-    },
-    "FRIENDS_REDIRECTING": {
-        "ru": "§6Друзья §8| §fВы были телепортированы на сервер игрока %s §f(§7%s§f)",
-        "ua": "§6Друзі §8| §fВи були телепортовані на сервер гравця %s §f(§7%s§f)",
-        "en": "§6Friends §8| §fYou have been teleported to the server of the player %s §f(§7%s§f)"
-    },
-    "FRIENDS_REMOVE_DESCRIPTION": {
-        "ru": "удалить игрока из друзей"
-    },
-    "FRIENDS_REQUESTS_DESCRIPTION": {
-        "ru": "список запросов в друзья"
-    },
-    "FRIENDS_REQUEST_REJECTED": {
-        "ru": "§6Друзья §8| §fИгрок %s §fотклонил Ваш запрос в друзья",
-        "ua": "§6Друзі §8| §fГравець %s §fвідхилив ваш запит в друзі",
-        "en": "§6Friends §8| §fPlayer %s §fdeclined your friend request"
-    },
-    "FRIENDS_TP_DESCRIPTION": {
-        "ru": "телепортация на сервер друга"
-    },
-    "FRIENDS_YOURSELF_AS_FRIEND": {
-        "ru": "§cВы не можете отправить заявку в друзья самому себе",
-        "ua": "§cВи не можете відправити запит в друзі самому собі",
-        "en": "§cYou cannot send a friend request to yourself"
-    },
-    "FRIENDS_YOU_REJECTED_REQUEST": {
-        "ru": "§6Друзья §8| §fВы отклонили запрос в друзья от игрока %s",
-        "ua": "§6Друзі §8| §fВи відхилили запит в друзі від гравця %s",
-        "en": "§6Friends §8| §fYou declined a friend request from a player %s"
-    },
-    "FRIEND_GUI_MAIN_LORE": {
-        "ru": [
-            "",
-            "§7Всего друзей: §a%s",
-            "§7Онлайн друзей: §a%s"
-        ],
-        "ua": [
-            "",
-            "§7Всього друзів: §a%s",
-            "§7Онлайн друзів: §a%s"
-        ],
-        "en": [
-            "",
-            "§7Total friends: §a%s",
-            "§7Friends online: §a%s"
-        ]
-    },
-    "FRIEND_JOINED": {
-        "ru": "§6Друзья §8| §fВаш друг %s §fзашел в игру §7(нажмите сюда)",
-        "ua": "§6Друзі §8| §fВаш друг %s §fзайшов в гру §7(натисніть сюди)",
-        "en": "§6Friends §8| §fYour friend %s §fentered the game §7(click here)"
-    },
-    "FRIEND_JOINED_HOVER": {
-        "ru": "§fНажмите, чтобы написать игроку %s §fсообщение",
-        "ua": "§fНатисніть, щоб написати гравцю %s §fповідомлення",
-        "en": "§fClick to write to the player %s §fa message"
-    },
-    "FRIEND_LIST_GUILD": {
-        "ru": "§7Гильдия: %s",
-        "ua": "§7Гільдія: %s",
-        "en": "§7Guild: %s"
-    },
-    "FRIEND_NEW_INVITE": {
-        "ru": "%s §fпредлагает вам дружить §7(общих %s)",
-        "ua": "%s §fпропонує вам дружити §7(спільних %s)",
-        "en": "%s §finvites you to be friends §7(common friends %s)"
-    },
-    "FRIEND_NEW_INVITE_ACCEPT_HOVER": {
-        "ru": "§fНажмите, чтобы начать дружить!",
-        "ua": "§fНатисніть, щоб почати дружити!",
-        "en": "§fClick to become friends!"
-    },
-    "FRIEND_NEW_INVITE_DECLINE_HOVER": {
-        "ru": "§fНажмите, отклонить заявку",
-        "ua": "§fНатисніть, щоб відхилити запит",
-        "en": "§fClick to decline the request"
-    },
-    "FRIEND_PVP_DISABLE": {
-        "ru": "§6Anarchy §8| §fВы не можете ударить своего друга",
-        "ua": "§6Anarchy §8| §fВи не можете вдарити свого друга",
-        "en": "§6Anarchy §8| §fYou can't hit your friend"
-    },
-    "FRIEND_REQUEST_GUI_LORE": {
-        "ru": [
-            "",
-            " §e▸ ЛКМ, чтобы принять запрос",
-            " §e▸ ПКМ, чтобы отклонить запрос"
-        ],
-        "ua": [
-            "",
-            " §e▸ ЛКМ, щоб прийняти запит",
-            " §e▸ ПКМ, щоб відхилити запит"
-        ],
-        "en": [
-            "",
-            " §e▸ LMC to accept the request",
-            " §e▸ RMC to decline the request"
-        ]
-    },
-    "FRIEND_REQUEST_GUI_MAIN_LORE": {
-        "ru": [
-            "",
-            "§7Всего запросов:",
-            "§a%s"
-        ],
-        "ua": [
-            "",
-            "§7Всього запитів:",
-            "§a%s"
-        ],
-        "en": [
-            "",
-            "§7Total requests:",
-            "§a%s"
-        ]
-    },
-    "FRIEND_TITLE": {
-        "ru": "ДРУЗЬЯ",
-        "ua": "ДРУЗІ",
-        "en": "FRIENDS"
-    },
-    "TARGET_FRIENDS_LIMIT": {
-        "ru": "§cУказанный Вами игрок не может принимать заявки в друзья, поскольку его лимит превышен",
-        "ua": "§cЗазначений вами гравець не може приймати запитів в друзі, оскільки його ліміт перевищено",
-        "en": "§cThe player you specified cannot accept friend requests, because their limit is exceeded"
-    },
-    "YOU_DONT_HAVE_FRIENDS": {
-        "ru": "§cУ Вас нет друзей",
-        "ua": "§cУ вас немає друзів",
-        "en": "§cYou have no friends"
-    },
-    "YOU_DONT_HAVE_FRIEND_REQUESTS": {
-        "ru": "§cУ Вас нет запросов в друзья",
-        "ua": "§cУ вас немає запитів у друзі",
-        "en": "§cYou have no friend requests"
-    },
-    "YOU_HAVE_NO_ONLINE_FRIENDS": {
-        "ru": "§cОшибка, у Вас нет онлайн друзей",
-        "ua": "§cПомилка, у вас немає онлайн друзів",
-        "en": "§cError, you have no friends"
-    }
+  "FRIENDS_ACCEPT_DESCRIPTION": {
+    "ru": "принять запрос игрока в друзья"
+  },
+  "FRIENDS_ADD_DESCRIPTION": {
+    "ru": "добавить игрока в друзья"
+  },
+  "FRIENDS_ALREADY_FRIENDS": {
+    "ru": "§cВы уже являетесь друзьями!",
+    "ua": "§cВи вже є друзями!",
+    "en": "§cYou are already friends!"
+  },
+  "FRIENDS_ALREADY_SENT_REQUEST": {
+    "ru": "§cВы уже отправляли запрос в друзья данному игроку...",
+    "ua": "§cВи вже надіслали запит на дружбу цьому гравцю...",
+    "en": "§cYou have already sent a friend request to this player..."
+  },
+  "FRIENDS_DECLINE_DESCRIPTION": {
+    "ru": "отклонить запрос игрока в друзья"
+  },
+  "FRIENDS_DONT_HAVE_INVITES_FROM": {
+    "ru": "§cУ вас нет запросов в друзья от игрока %s",
+    "ua": "§cУ вас немає запитів в друзі від гравця %s",
+    "en": "§cYou have no friend requests from the player %s"
+  },
+  "FRIENDS_GUI_EQUAL_SERVER": {
+    "ru": " §c▸ Вы уже на одном сервере",
+    "ua": " §c▸ Ви вже на одному сервері",
+    "en": " §c▸ You are already on the same server"
+  },
+  "FRIENDS_GUI_LORE": {
+    "ru": [
+      "§7Уровень: §d%s",
+      "§7Общих друзей: §f%s"
+    ],
+    "ua": [
+      "§7Рівень: §d%s",
+      "§7Спільних друзів: §f%s"
+    ],
+    "en": [
+      "§7Level: §d%s",
+      "§7Common friends: §f%s"
+    ]
+  },
+  "FRIENDS_GUI_NAME": {
+    "ru": "Список друзей",
+    "ua": "Список друзів",
+    "en": "Friends list"
+  },
+  "FRIENDS_GUI_NULL_SERVER_LORE": {
+    "ru": [
+      "§7Последний раз был в сети:",
+      "§e%s назад"
+    ],
+    "ua": [
+      "§7Останній раз був в мережі:",
+      "§e%s тому"
+    ],
+    "en": [
+      "§7Last seen online:",
+      "§e%s ago"
+    ]
+  },
+  "FRIENDS_GUI_NULL_TP_LORE": {
+    "ru": " §c✗ Сейчас оффлайн",
+    "ua": " §c✗ Зараз оффлайн",
+    "en": " §c✗ Now offline"
+  },
+  "FRIENDS_GUI_SERVER_LORE": {
+    "ru": [
+      "§7Сейчас на сервере §e%s"
+    ],
+    "ua": [
+      "§7Зараз на сервері §e%s"
+    ],
+    "en": [
+      "§7Now on the server §e%s"
+    ]
+  },
+  "FRIENDS_GUI_TP_LORE": {
+    "ru": " §e▸ Кликните для телепорта на сервер друга",
+    "ua": " §e▸ Натисніть для телепорту на сервер друга",
+    "en": " §e▸ Click to teleport to friend's server"
+  },
+  "FRIENDS_INVITE_EVENT_CANCELLED": {
+    "ru": "§cДанный игрок запретил отправлять ему запросы в друзья",
+    "ua": "§cЦей гравець заборонив відправляти йому запити в друзі",
+    "en": "§cThis player has forbidden to send him friend requests"
+  },
+  "FRIENDS_INVITE_EXPIRED": {
+    "ru": "§cЗапрос, отправленный игроку %s §fбыл автоматически отклонен",
+    "ua": "§cЗапит, надісланий гравцю %s §fбув автоматично відхилений",
+    "en": "§cRequest sent to player %s §fhas been automatically rejected"
+  },
+  "FRIENDS_INVITE_SENT": {
+    "ru": "§6Друзья §8| §fЗапрос в друзья отправлен игроку %s",
+    "ua": "§6Друзі §8| §fЗапрос в Друзі отправлен Гравецьу %s",
+    "en": "§6Friends §8| §fFriend request sent to player %s"
+  },
+  "FRIENDS_INVITE_TEXT": {
+    "ru": "§6Друзья §8| §fИгрок %s §fотправил Вам запрос в друзья. Он будет автоматически отклонен через 5 минут",
+    "ua": "§6Друзі §8| §fГравець %s §fвідправив вам запит в друзі. Він буде автоматично відхилений через 5 хвилин",
+    "en": "§6Friends §8| §fPlayer %s §fsent you a friend request. It will be automatically declined in 5 minutes"
+  },
+  "FRIENDS_LIMIT": {
+    "ru": "§cВы превысили лимит на количество друзей, ваш лимит - %s",
+    "ua": "§cВи перевищили ліміт на кількість друзів, ваш ліміт - %s",
+    "en": "§cYou have exceeded the limit on the number of friends, your limit is - %s"
+  },
+  "FRIENDS_LIMIT_FRIEND": {
+    "ru": "§cВаш друг превысил лимит на количество друзей!",
+    "ua": "§cВаш друг перевищив ліміт на кількість друзів!",
+    "en": "§cYour friend has exceeded the limit on the number of friends!"
+  },
+  "FRIENDS_LIST_DESCRIPTION": {
+    "ru": "список друзей"
+  },
+  "FRIENDS_NEW_FRIEND": {
+    "ru": "§6Друзья §8| §fПоздравляем! Вы стали друзьями с игроком %s",
+    "ua": "§6Друзі §8| §fВітаємо! Ви стали друзями з гравцем %s",
+    "en": "§6Friends §8| §fCongratulations! You became friends with the player %s"
+  },
+  "FRIENDS_NOT_FRIENDS": {
+    "ru": "§cДанного игрока нет у Вас в друзьях",
+    "ua": "§cЦей гравець не є вашим другом",
+    "en": "§cThis player is not your friend"
+  },
+  "FRIENDS_ONLINE": {
+    "ru": "§6Друзья §8| §fВ онлайне §a%d §f%s",
+    "ua": "§6Друзі §8| §fОнлайн §a%d §f%s",
+    "en": "§6Friends §8| §fOnline §a%d §f%s"
+  },
+  "FRIENDS_PLAYER_REMOVED": {
+    "ru": "§6Друзья §8| §fИгрок %s §fбыл удален из вашего списка друзей",
+    "ua": "§6Друзі §8| §fГравець %s §fбув видалений з вашого списку друзів",
+    "en": "§6Friends §8| §fPlayer %s §fhas been deleted from your friends list"
+  },
+  "FRIENDS_PLAYER_REMOVED_YOU": {
+    "ru": "§6Друзья §8| §fИгрок %s §fудалил Вас из друзей.",
+    "ua": "§6Друзі §8| §fГравець %s §fвидалив вас з друзів.",
+    "en": "§6Friends §8| §fPlayer %s §fhas deleted you from their friends list"
+  },
+  "FRIENDS_REDIRECTING": {
+    "ru": "§6Друзья §8| §fВы были телепортированы на сервер игрока %s §f(§7%s§f)",
+    "ua": "§6Друзі §8| §fВи були телепортовані на сервер гравця %s §f(§7%s§f)",
+    "en": "§6Friends §8| §fYou have been teleported to the server of the player %s §f(§7%s§f)"
+  },
+  "FRIENDS_REMOVE_DESCRIPTION": {
+    "ru": "удалить игрока из друзей"
+  },
+  "FRIENDS_REQUESTS_DESCRIPTION": {
+    "ru": "список запросов в друзья"
+  },
+  "FRIENDS_REQUEST_REJECTED": {
+    "ru": "§6Друзья §8| §fИгрок %s §fотклонил Ваш запрос в друзья",
+    "ua": "§6Друзі §8| §fГравець %s §fвідхилив ваш запит в друзі",
+    "en": "§6Friends §8| §fPlayer %s §fdeclined your friend request"
+  },
+  "FRIENDS_TP_DESCRIPTION": {
+    "ru": "телепортация на сервер друга"
+  },
+  "FRIENDS_YOURSELF_AS_FRIEND": {
+    "ru": "§cВы не можете отправить заявку в друзья самому себе",
+    "ua": "§cВи не можете відправити запит в друзі самому собі",
+    "en": "§cYou cannot send a friend request to yourself"
+  },
+  "FRIENDS_YOU_REJECTED_REQUEST": {
+    "ru": "§6Друзья §8| §fВы отклонили запрос в друзья от игрока %s",
+    "ua": "§6Друзі §8| §fВи відхилили запит в друзі від гравця %s",
+    "en": "§6Friends §8| §fYou declined a friend request from a player %s"
+  },
+  "FRIEND_GUI_MAIN_LORE": {
+    "ru": [
+      "",
+      "§7Всего друзей: §a%s",
+      "§7Онлайн друзей: §a%s"
+    ],
+    "ua": [
+      "",
+      "§7Всього друзів: §a%s",
+      "§7Онлайн друзів: §a%s"
+    ],
+    "en": [
+      "",
+      "§7Total friends: §a%s",
+      "§7Friends online: §a%s"
+    ]
+  },
+  "FRIEND_JOINED": {
+    "ru": "§6Друзья §8| §fВаш друг %s §fзашел в игру §7(нажмите сюда)",
+    "ua": "§6Друзі §8| §fВаш друг %s §fзайшов в гру §7(натисніть сюди)",
+    "en": "§6Friends §8| §fYour friend %s §fentered the game §7(click here)"
+  },
+  "FRIEND_JOINED_HOVER": {
+    "ru": "§fНажмите, чтобы написать игроку %s §fсообщение",
+    "ua": "§fНатисніть, щоб написати гравцю %s §fповідомлення",
+    "en": "§fClick to write to the player %s §fa message"
+  },
+  "FRIEND_LIST_GUILD": {
+    "ru": "§7Гильдия: %s",
+    "ua": "§7Гільдія: %s",
+    "en": "§7Guild: %s"
+  },
+  "FRIEND_NEW_INVITE": {
+    "ru": "%s §fпредлагает вам дружить §7(общих %s)",
+    "ua": "%s §fпропонує вам дружити §7(спільних %s)",
+    "en": "%s §finvites you to be friends §7(common friends %s)"
+  },
+  "FRIEND_NEW_INVITE_ACCEPT_HOVER": {
+    "ru": "§fНажмите, чтобы начать дружить!",
+    "ua": "§fНатисніть, щоб почати дружити!",
+    "en": "§fClick to become friends!"
+  },
+  "FRIEND_NEW_INVITE_DECLINE_HOVER": {
+    "ru": "§fНажмите, отклонить заявку",
+    "ua": "§fНатисніть, щоб відхилити запит",
+    "en": "§fClick to decline the request"
+  },
+  "FRIEND_PVP_DISABLE": {
+    "ru": "§6Anarchy §8| §fВы не можете ударить своего друга",
+    "ua": "§6Anarchy §8| §fВи не можете вдарити свого друга",
+    "en": "§6Anarchy §8| §fYou can't hit your friend"
+  },
+  "FRIEND_REQUEST_GUI_LORE": {
+    "ru": [
+      "",
+      " §e▸ ЛКМ, чтобы принять запрос",
+      " §e▸ ПКМ, чтобы отклонить запрос"
+    ],
+    "ua": [
+      "",
+      " §e▸ ЛКМ, щоб прийняти запит",
+      " §e▸ ПКМ, щоб відхилити запит"
+    ],
+    "en": [
+      "",
+      " §e▸ LMC to accept the request",
+      " §e▸ RMC to decline the request"
+    ]
+  },
+  "FRIEND_REQUEST_GUI_MAIN_LORE": {
+    "ru": [
+      "",
+      "§7Всего запросов:",
+      "§a%s"
+    ],
+    "ua": [
+      "",
+      "§7Всього запитів:",
+      "§a%s"
+    ],
+    "en": [
+      "",
+      "§7Total requests:",
+      "§a%s"
+    ]
+  },
+  "FRIEND_TITLE": {
+    "ru": "ДРУЗЬЯ",
+    "ua": "ДРУЗІ",
+    "en": "FRIENDS"
+  },
+  "TARGET_FRIENDS_LIMIT": {
+    "ru": "§cУказанный Вами игрок не может принимать заявки в друзья, поскольку его лимит превышен",
+    "ua": "§cЗазначений вами гравець не може приймати запитів в друзі, оскільки його ліміт перевищено",
+    "en": "§cThe player you specified cannot accept friend requests, because their limit is exceeded"
+  },
+  "YOU_DONT_HAVE_FRIENDS": {
+    "ru": "§cУ Вас нет друзей",
+    "ua": "§cУ вас немає друзів",
+    "en": "§cYou have no friends"
+  },
+  "YOU_DONT_HAVE_FRIEND_REQUESTS": {
+    "ru": "§cУ Вас нет запросов в друзья",
+    "ua": "§cУ вас немає запитів у друзі",
+    "en": "§cYou have no friend requests"
+  },
+  "YOU_HAVE_NO_ONLINE_FRIENDS": {
+    "ru": "§cОшибка, у Вас нет онлайн друзей",
+    "ua": "§cПомилка, у вас немає онлайн друзів",
+    "en": "§cError, you have no friends"
+  }
 }

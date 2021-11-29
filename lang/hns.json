@@ -1,1264 +1,1264 @@
 {
-    "HIDER_ROLE_SUBTITLE": {
-        "ru": "§7Маскируйтесь и выживите",
-        "ua": "§7Замаскуйтесь і виживіть",
-        "en": "§7Disguise and survive"
-    },
-    "HIDER_ROLE_TITLE": {
-        "ru": "§bВы прячущийся",
-        "ua": "§bВи ховаєтесь",
-        "en": "§bYou are hiding"
-    },
-    "HIDER_TEAM": {
-        "ru": "Прячущиеся",
-        "ua": "Ховаються",
-        "en": "Hiding"
-    },
-    "HIDE_AND_SEEK_END_NOTIFIER": {
-        "ru": "§fДо победы прячущихся осталась §a1 §fминута. Теперь искатели могут видеть количество игроков, замаскированных под каждый блок",
-        "ua": "§fДо перемоги тих, що ховаються залищилась §a1 §fхвилина. Тепер шукачі можуть бачити кількість гравців, замаскованих під кожен блок",
-        "en": "§fThere's §a1 §fmin left before the hiding players win. Now the seekers can see the number of players disguised for each block"
-    },
-    "HIDE_AND_SEEK_GAME": {
-        "ru": "§eHideAndSeek",
-        "ua": "§eHideAndSeek",
-        "en": "§eHideAndSeek"
-    },
-    "HIDE_AND_SEEK_GAME_END": {
-        "ru": "§fВремя вышло. Искатели не успели найти всех прячущихся игроков",
-        "ua": "§fЧас вийшов. Шукачі не встигли знайти всіх гравців",
-        "en": "§fTime out. The seekers did not manage to find all the hiding players"
-    },
-    "HIDE_AND_SEEK_HIDER_FOUND": {
-        "ru": "§fПрячущийся §b%s §fбыл найден и убит искателем §c%s",
-        "ua": "§fЗамаскований §b%s §fбув знайдений та вбитий шукачем §c%s",
-        "en": "§fHiding player §b%s §fwas found and killed by a seeker §c%s"
-    },
-    "HIDE_AND_SEEK_SEEKER_KILLED": {
-        "ru": "§fИскатель §c%s §fбыл убит прячущимся §b%s",
-        "ua": "§fШукач §c%s §fбув вбитий замаскованим §b%s",
-        "en": "§fSeeker §c%s §fwas killed by a hiding player§b%s"
-    },
-    "HIDE_AND_SEEK_SEEKER_KILLED_FINAL": {
-        "ru": "§fИскатель §c%s §fбыл убит прячущимся §b%s §fи выбыл из игры",
-        "ua": "§fШукач §c%s §fбув убитий замаскованим §b%s §fі покинув гру",
-        "en": "§fSeeker §c%s §fwas killed by a hiding player §b%s §fand dropped out of the game"
-    },
-    "HNS_ALL_SEEING_PERK_ITEM": {
-        "ru": "§bВсевидящий",
-        "ua": "§bВсевидючий",
-        "en": "§bAll-seeing"
-    },
-    "HNS_ALL_SEEING_PERK_ITEM_LORE": {
-        "ru": [
-            "§7После использования все искатели",
-            "§7получат временный эффект свечения",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "ua": [
-            "§7Після використання всі шукачі",
-            "§7отримають тимчасовий ефект світіння",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "en": [
-            "§7After using all seekers",
-            "§7will get a temporary glow effect",
-            "§7Recharging §c%s §7seconds"
-        ]
-    },
-    "HNS_BECOME_SEEKER_DEATH_TITLE": {
-        "ru": "§cВы стали искателем",
-        "ua": "§cВи стали шукачем",
-        "en": "§cYou are now a seeker"
-    },
-    "HNS_BLOCK_DISGUISE_ITEM": {
-        "ru": "§6Выбор новой маскировки",
-        "ua": "§6Вибір нового маскування",
-        "en": "§6Choose new disguise"
-    },
-    "HNS_BLOCK_DISGUISE_ITEM_LORE": {
-        "ru": [
-            "§7Меняет вашу текущую маскировку",
-            "§7на кликнутый Вами блок",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "ua": [
-            "§7Змінює ваше поточне маскування",
-            "§7на клікнутий Вами блок",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "en": [
-            "§7Changes your current disguise",
-            "§7to the block you clicked on",
-            "§7Recharging §c%s §7seconds"
-        ]
-    },
-    "HNS_BLOCK_LIST_ITEM": {
-        "ru": "§bМаскировки прячущихся",
-        "ua": "§bМаскування тих, хто ховається",
-        "en": "§bHiders' disguise"
-    },
-    "HNS_BLOCK_LIST_ITEM_LORE": {
-        "ru": [
-            "§7Открывает список всех возможных на",
-            "§7этой карте маскировок прячущихся.",
-            "§7За минуту до конца игры в меню",
-            "§7появится количество прячущихся",
-            "§7каждым блоком"
-        ],
-        "ua": [
-            "§7Відкриває список всіх можливих на",
-            "§7цій мапі маскувань тих, що ховаються.",
-            "§7За хвилину до кінця гри",
-            "§7з'явиться кількість тих, що ховаються",
-            "§7за кажним блоком"
-        ],
-        "en": [
-            "§7Opens a list of all possible",
-            "§7hiders' disguises on the map.",
-            "§7A minute before the end of the game",
-            "§7the mumber of the hiders",
-            "§7under each block will appear in the menu"
-        ]
-    },
-    "HNS_BOARD_HIDERS": {
-        "ru": "Прячущихся",
-        "ua": "Ховаються",
-        "en": "Hiders"
-    },
-    "HNS_BOARD_MASK": {
-        "ru": "Текущая маскировка",
-        "ua": "Поточне маскування",
-        "en": "Current disguise"
-    },
-    "HNS_BOARD_SEEKERS": {
-        "ru": "Искателей",
-        "ua": "Шукачів",
-        "en": "Seekers"
-    },
-    "HNS_CHORUS_PERK_ITEM": {
-        "ru": "§bЭндерблок",
-        "ua": "§bЕндерблок",
-        "en": "§bEnderblock"
-    },
-    "HNS_CHORUS_PERK_ITEM_LORE": {
-        "ru": [
-            "§7После использования Вы будете телепортированы",
-            "§7к случайному искателю.",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "ua": [
-            "§7После использования Вы будете телепортовані",
-            "§7до випадкового шукача.",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "en": [
-            "§7After using, you will be teleported",
-            "§7to a random seeker.",
-            "§7Recharging §c%s §7seconds"
-        ]
-    },
-    "HNS_GAME_TIME_CHANGE": {
-        "ru": " %s%s %s секунд игрового времени",
-        "ua": " %s%s %s секунд ігрового часу",
-        "en": " %s%s %s seconds of game time"
-    },
-    "HNS_HIDER_GAME_DESC": {
-        "ru": [
-            "Ваша задача прожить до конца игры и не попасться",
-            "искателям, в этом вам поможет ваша хитрость и умения",
-            "Тихо прятаться или заманить в ловушку? Решать только вам!"
-        ],
-        "ua": [
-            "Ваше завдання прожити до кінця гри і не попастися",
-            "шукачам, в цьому вам допоможе ваша хитрість і вміння",
-            "Тихо ховатися або заманити в пастку? Вирішувати тільки вам!"
-        ],
-        "en": [
-            "Your task is to live until the end of the game and not get caught",
-            "by a seeker, your cunning and skills will help you in this",
-            "Hide quietly or lure in a trap? It's up to you to decide!"
-        ]
-    },
-    "HNS_HUNTER_STRING_LORE": {
-        "ru": [
-            "§7Каждый прячущийся, который наступит",
-            "§7на эту нить получит замедление X на",
-            "§75 секунд и застрянет в паутине"
-        ],
-        "ua": [
-            "§7Кожен, хто ховається і наступить",
-            "§7на цю нитку отримає уповільнення X на",
-            "§75 секунд і застрягне в павутині"
-        ],
-        "en": [
-            "§7Every hider who steps",
-            "§7on this thread will receive a deceleration X fro",
-            "§75 seconds and get stuck in the web"
-        ]
-    },
-    "HNS_HUNTER_STRING_NAME": {
-        "ru": "§bНить охотника",
-        "ua": "§bНитка мисливця",
-        "en": "§bHunter's thread"
-    },
-    "HNS_KICK_SPECTATOR": {
-        "ru": "Спектаторы в данной игре отключены!",
-        "ua": "Спектатори в цій грі вимкнені!",
-        "en": "Specters are disabled in this game!"
-    },
-    "HNS_LAST_SEEKER_LEFT": {
-        "ru": "§fПоследний искатель покинул игру. Игрок %s §fбыл выбран новым искателем",
-        "ua": "§fОстанній шукач покинув гру. Гравець %s §fбув обраний новим шукачем",
-        "en": "§fThe last seeker left the game. Player %s §fhas been selected as a new seeker"
-    },
-    "HNS_MASK": {
-        "ru": "маскировка",
-        "ua": "маскування",
-        "en": "disguise"
-    },
-    "HNS_MASK_CHANGE_COOLDOWN": {
-        "ru": "§cВы сможете сменить маскировку через %s секунд",
-        "ua": "§cВи зможете змінити маскування через %s секунд",
-        "en": "§cYou can change the disguise in %s seconds"
-    },
-    "HNS_MASK_DEFAULT": {
-        "ru": "Случайная маскировка",
-        "ua": "Випадкове маскування",
-        "en": "Random disguise"
-    },
-    "HNS_MASK_DEFAULT_LORE": {
-        "ru": [
-            "",
-            "§7Ваша маскировка будет выбрана",
-            "§7случайно из всех возможных"
-        ],
-        "ua": [
-            "",
-            "§7Ваше маскування буде обране",
-            "§7випадково із всіх можливих"
-        ],
-        "en": [
-            "",
-            "§7Your disguise will be selected",
-            "§7randomly out of all possible"
-        ]
-    },
-    "HNS_MASK_NOT_FOUND": {
-        "ru": "§cВы не можете замаскироваться под этот блок",
-        "ua": "§cВи не можете замаскуватися під цей блок",
-        "en": "§cYou can't disguise yourself as this block"
-    },
-    "HNS_MASK_NOT_PURCHASED": {
-        "ru": "§cУ вас не приобретена эта маскировка",
-        "ua": "§cВи не придбали це маскування",
-        "en": "§cYou didn't purchase this disguise"
-    },
-    "HNS_MASK_PURCHASE_MESSAGE": {
-        "ru": "Вы приобрели маскировку §a%s §fза §a%s §f%s",
-        "ua": "Ви придбали маскування §a%s §fза §a%s §f%s",
-        "en": "You have purchased disguise §a%s §ffor §a%s §f%s"
-    },
-    "HNS_MASK_SELECTION_MESSAGE": {
-        "ru": "Вы выбрали маскировку §a%s",
-        "ua": "Ви обрали маскування §a%s",
-        "en": "You chose disguise §a%s"
-    },
-    "HNS_MASK_YOU_ARE_SOLID": {
-        "ru": "§cДля выбора нового блока Вы должны снять маскировку",
-        "ua": "§cДля вибору нового блоку ви повинні зняти маскування",
-        "en": "§cДto select a new block, you must take off the disguise"
-    },
-    "HNS_MESSAGE_YOU_ARE_GLOWING": {
-        "ru": "§cВы попались в ловушку. Превращение немозможно, пока у Вас есть эффект свечения",
-        "ua": "§cВи попалися в пастку. Перетворення неможливо, поки у вас є ефект світіння",
-        "en": "§cYou have fallen into a trap. Transformation is not possible as long as you have the glow effect"
-    },
-    "HNS_MESSAGE_YOU_ARE_SOLID": {
-        "ru": "§fВы замаскировались. Нажмите §eSHIFT§f, чтобы снять маскировку",
-        "ua": "§fВи замаскувались. Натисніть §eSHIFT§f, щоб зняти маскування",
-        "en": "§fYou have disguised yourself. Press §eSHIFT§f take off the disguise"
-    },
-    "HNS_PATH_FINDER_REDSTONE_LORE": {
-        "ru": [
-            "§7Каждый прячущийся, который наступит",
-            "§7на редстоун получит эффект свечения",
-            "§7и слепоты на 20 секунд.",
-            "§7Для прячущихся с эффектом",
-            "§7свечения маскировка невозможна"
-        ],
-        "ua": [
-            "§7Кожен, хто ховається і наступить",
-            "§7на редстоун отримає ефект світіння",
-            "§7і сліпоти на 20 секунд.",
-            "§7Для тих, хто ховається і має ефект світіння,",
-            "§7маскування неможливе"
-        ],
-        "en": [
-            "§7Every hider who steps",
-            "§7on the redstone will get a glow effect",
-            "§7and blindness for 20 seconds.",
-            "§7For those hiding with a glow effect,",
-            "§7disguise is not possible"
-        ]
-    },
-    "HNS_PATH_FINDER_REDSTONE_NAME": {
-        "ru": "§bЛовушка следопыта",
-        "ua": "§bПастка слідопита",
-        "en": "§bPathfinder's Trap"
-    },
-    "HNS_PERK_COOLDOWN": {
-        "ru": "§cВы сможете использовать умение снова через %s секунд",
-        "ua": "§cВи зможете використовувати вміння знову через %s секунд",
-        "en": "§cYou will be able to use the skill again after %s seconds"
-    },
-    "HNS_RANDOM_DISGUISE_ITEM": {
-        "ru": "§aСменить маскировку",
-        "ua": "§aЗмінити маскування",
-        "en": "§aChange disguise"
-    },
-    "HNS_RANDOM_DISGUISE_ITEM_LORE": {
-        "ru": [
-            "§7Меняет вашу текущую маскировку",
-            "§7на любую случайную из всех возможных",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "ua": [
-            "§7Змінює ваше поточне маскування",
-            "§7на будь-яку випадкову з усіх можливих",
-            "§7Перезарядка §c%s §7секунд"
-        ],
-        "en": [
-            "§7Changes your current disguise",
-            "§7with a random one out of all possible",
-            "§7Recharging §c%s §7seconds"
-        ]
-    },
-    "HNS_RESELECTED_SEEKER_DEATH_TITLE": {
-        "ru": "§cВы были выбраны новым искателем",
-        "ua": "§cВи були обрані новим шукачем",
-        "en": "§cYou have been chosen to be a new seeker"
-    },
-    "HNS_SEEKER_GAME_DESC": {
-        "ru": [
-            "Ваша задача найти как можно больше игроков, которые могут",
-            "маскироваться в блоки. Используйте вашу смекалку и наборы.",
-            "Найденные игроки становятся искателями.",
-            "Будьте осторожны, прячущиеся не беззащитны!"
-        ],
-        "ua": [
-            "Ваше завдання знайти якомога більше гравців, які можуть",
-            "маскуватися в блоки.Використовуйте вашу кмітливість і набори.",
-            "Знайдені гравці становляться шукачами.",
-            "Будьте обережні, ті, що ховаються, НЕ беззахисні!"
-        ],
-        "en": [
-            "Your task is to find as many players as possible who can",
-            "disguise themselves in blocks. Use your wits and sets.",
-            "The players found become seekers.",
-            "Be careful, the hiders are not defenseless!"
-        ]
-    },
-    "HNS_SEEKER_GUI_BLOCK_COUNT": {
-        "ru": [
-            "",
-            "§7Количество прячущихся, замаскированных",
-            "§7под данный блок: §a%s"
-        ],
-        "ua": [
-            "",
-            "§7Кількість тих, що ховаються, замаскованих",
-            "§7під цей блок: §a%s"
-        ],
-        "en": [
-            "",
-            "§7The mumber of the hiders disguised",
-            "§7for this block: §a%s"
-        ]
-    },
-    "HNS_SEEKER_GUI_INFO": {
-        "ru": "§eСписок маскировок",
-        "ua": "§eСписок маскувань",
-        "en": "§eDisguise list"
-    },
-    "HNS_SEEKER_GUI_INFO_LORE": {
-        "ru": [
-            "§7В данном меню можно просмотреть",
-            "§7все возможные блоки, которыми",
-            "§7могли стать прячущиеся.",
-            "",
-            "§7За минуту до окончания игры под",
-            "§7каждой из маскировок будет видно",
-            "§7количество игроков, спрятанных за",
-            "§7этот блок"
-        ],
-        "ua": [
-            "§7В цьому меню можна продивитися",
-            "§7всі можливі блоки, якими могли",
-            "§стати ті, що ховаються.",
-            "",
-            "§7За хвилину до закінчення гри під",
-            "§7кожної з маскіровок буде видно",
-            "§7кількість гравців, схованих",
-            "§7за цей блок"
-        ],
-        "en": [
-            "§7In this menu, you can see",
-            "§7all the possible blocks",
-            "§7which hiders could be disguised as.",
-            "",
-            "§7A minute before the end of the game",
-            "§7behind each of the disguises will be seen",
-            "§7the number of players hidden behind",
-            "§7the block"
-        ]
-    },
-    "HNS_SEEKER_GUI_NO_BLOCKS": {
-        "ru": [
-            "",
-            "§cЖивых прячущихся, замаскированных",
-            "§cпод данный блок нет"
-        ],
-        "ua": [
-            "",
-            "§cЖивих шуканих, замаскованих",
-            "§cпід цей блок немає"
-        ],
-        "en": [
-            "",
-            "§cThere are no living hiders",
-            "§cdisguised as this block"
-        ]
-    },
-    "HNS_SEEKER_GUI_TITLE": {
-        "ru": "Маскировки прячущихся",
-        "ua": "Маскування тих, що ховаються",
-        "en": "Hider's disguise"
-    },
-    "HNS_SEEKING_STARTED": {
-        "ru": "§fИскатели вышли на охоту. Будьте осторожны!",
-        "ua": "§fШукачі вийшли на полювання. Будьте уважні!",
-        "en": "§fThe seekers went hunting. Be careful!"
-    },
-    "HNS_SEEKING_STARTING": {
-        "ru": "§fИскатели будут выпущены через §a15 §fсекунд",
-        "ua": "§fШукачі будуть випущені через §a15 §fсекунд",
-        "en": "§Seekers will be released in §a15 §fseconds"
-    },
-    "HNS_STILL_SEEKER_DEATH_TITLE": {
-        "ru": "§cВы были убиты прячущимися",
-        "ua": "§cВи були вбити тими, що ховаються.",
-        "en": "§cou have been killed by the hiding"
-    },
-    "KIT_HNS_BOMBER": {
-        "ru": "Подрывник",
-        "ua": "Підривник",
-        "en": "Bomber"
-    },
-    "KIT_HNS_BOMBER_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:",
-            " §8• §7Алмазный шлем",
-            " §8• §7Алмазный нагрудник",
-            " §8• §7Золотые штаны",
-            " §8• §7Золотые ботинки",
-            " §8• §7Каменный меч",
-            " §8• §7Динамит §8(x2)",
-            "",
-            "§7§oКаждые 20 секунд игры получает",
-            "§7§oеще один динамит при условии,",
-            "§7§oчто в инвентаре игрока сейчас",
-            "§7§oесть не больше двух TNT",
-            "",
-            "§7§oВзрыв динамита разоблачает блоки"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:",
-            " §8• §7Алмазний шолом",
-            " §8• §7Алмазний нагрудник",
-            " §8• §7Золоті штани",
-            " §8• §7Золоті чоботи",
-            " §8• §7Кам'яний меч",
-            " §8• §7Динаміт §8(x2)",
-            "",
-            "§7§oКожні 20 секунд гри отримує",
-            "§7§oще один динаміт за умови,",
-            "§7§oщо в інвентарі гравця зараз",
-            "§7§oє не більше двох TNT",
-            "",
-            "§7§oВибух динаміту викриває блоки"
-        ],
-        "en": [
-            "",
-            "§7Includes:",
-            " §8• §7Diamond helmet",
-            " §8• §7Diamond chestplate",
-            " §8• §7Golden pants",
-            " §8• §7Golden boots",
-            " §8• §7Stone sword",
-            " §8• §7Dynamite §8(x2)",
-            "",
-            "§7§oEvery 20 seconds of the game player gets",
-            "§7§oone more dynamite on condition",
-            "§7§othat there are currently no more than two",
-            "§7§oTNTs in the player's inventory",
-            "",
-            "§7§oDynamite blast exposes blocks"
-        ]
-    },
-    "KIT_HNS_CLASSIC": {
-        "ru": "Стандартный",
-        "ua": "Стандартний",
-        "en": "Standart"
-    },
-    "KIT_HNS_DEADLY_KILLER": {
-        "ru": "Смертоносный убийца",
-        "ua": "Смертоносний вбивця",
-        "en": "Deadly assassin"
-    },
-    "KIT_HNS_EXPERIMENTER": {
-        "ru": "Экспериментатор",
-        "ua": "Експериментатор",
-        "en": "Experimenter"
-    },
-    "KIT_HNS_EXPERIMENTER_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:",
-            " §8• §7Золотой шлем",
-            " §8• §7Золотой нагрудник",
-            " §8• §7Алмазные штаны",
-            " §8• §7Алмазные ботинки",
-            " §8• §7Золотой меч",
-            " §8• §7Взрывное зелье урона II §8(x3)",
-            "",
-            "§7§oКаждые 20 секунд игры получает",
-            "§7§oеще одно взрывное зелье урона II",
-            "§7§oпри условии, что в инвентаре игрока",
-            "§7§oсейчас есть не больше двух зелий"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:",
-            " §8• §7Золотий шолом",
-            " §8• §7Золотий нагрудник",
-            " §8• §7Алмазні штани",
-            " §8• §7Алмазні чоботи",
-            " §8• §7Золотий меч",
-            " §8• §7Вибухове зілля шкоди II §8(x3)",
-            "",
-            "§7§oКожні 20 секунд гри отримує",
-            "§7§oще одне вибухове зілля шкоди II",
-            "§7§oза умови, що в інвентарі гравця",
-            "§7§oзараз не більше двох зіль"
-        ],
-        "en": [
-            "",
-            "§7Includes:",
-            " §8• §7Golden helmet",
-            " §8• §7Golden chestplate",
-            " §8• §7Diamond pants",
-            " §8• §7Diamond boots",
-            " §8• §7Golden sword",
-            " §8• §7Explosive Damage Potion II §8(x3)",
-            "",
-            "§7§oEvery 20 seconds of the game player gets",
-            "§7§oone more Explosive Damage Potion II",
-            "§7§oon condition that there are currently no more than two",
-            "§7§opotions in the player's inventory"
-        ]
-    },
-    "KIT_HNS_HUNTER": {
-        "ru": "Охотник",
-        "ua": "Мисливець",
-        "en": "Hunter"
-    },
-    "KIT_HNS_HUNTER_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:",
-            " §8• §7Кольчужный шлем",
-            " §8• §7Кольчужный нагрудник",
-            " §8• §7Железные штаны",
-            " §8• §7Железные ботинки",
-            " §8• §7Алмазный меч §8(Острота III)",
-            " §8• §7Нить охотника §8(x4)",
-            "",
-            "§7§oКаждые 45 секунд игры получает",
-            "§7§oдополнительную нить охотника",
-            "",
-            "§7§oЕсли прячущийся наступит на нить",
-            "§7§oохотника, он получит медлительность X",
-            "§7§oна 5 секунд, а нить станет паутиной"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:",
-            " §8• §7Кольчужний шолом",
-            " §8• §7Кольчужний нагрудник",
-            " §8• §7Залізні штани",
-            " §8• §7Залізні чоботи",
-            " §8• §7Алмазний меч §8(Гострота III)",
-            " §8• §7Нитка мисливця §8(x4)",
-            "",
-            "§7§oКожні 45 секунд гри отримує",
-            "§7§oдодаткову нитку мисливця",
-            "",
-            "§7§oЯкщо той, що ховається, настане на нить",
-            "§7§oмисливця, то він отримає повільність X",
-            "§7§oна 5 секунд, а нитка стане павутиною"
-        ],
-        "en": [
-            "",
-            "§7Includes:",
-            " §8• §7Chain mail helmet",
-            " §8• §7Chain mail chestplate",
-            " §8• §7Iron pants",
-            " §8• §7Iron boots",
-            " §8• §7Diamond sword §8(Sharpness III)",
-            " §8• §7Hunter's thread §8(x4)",
-            "",
-            "§7§oEvery 45 seconds of the game player gets",
-            "§7§oextra hunter thread",
-            "",
-            "§7§oIf the hiding person steps on the hunter's thread",
-            "§7§he will get slowness X",
-            "§7§ofor 5 seconds, and the thread will become a spider web"
-        ]
-    },
-    "KIT_HNS_PATH_FINDER": {
-        "ru": "Следопыт",
-        "ua": "Слідопит",
-        "en": "Pathfinder"
-    },
-    "KIT_HNS_PATH_FINDER_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:",
-            " §8• §7Кожаный шлем",
-            " §8• §7Железный нагрудник",
-            " §8• §7Железные штаны",
-            " §8• §7Кожаные ботинки",
-            " §8• §7Алмазный меч §8(Острота II)",
-            " §8• §7Ловушка следопыта §8(x5)",
-            "",
-            "§7§oКаждые 30 секунд игры получает",
-            "§7§oеще одну ловушку следопыта",
-            "",
-            "§7§oЕсли прячущийся наступит на ловушку",
-            "§7§oследопыта, он получит эффект свечения",
-            "§7§oи слепоты на 20 секунд, а так же 6 единиц урона",
-            "§7§oВсе это время он не сможет",
-            "§7§oзамаскироваться как блок"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:",
-            " §8• §7Шкіряний шолом",
-            " §8• §7Залізний нагрудник",
-            " §8• §7Залізні штани",
-            " §8• §7Шкіряні чоботи",
-            " §8• §7Алмазний меч §8(Гострота II)",
-            " §8• §7Пастка слідопита §8(x5)",
-            "",
-            "§7§oКожні 30 секунд гри отримує",
-            "§7§oще одну пастку слідопита",
-            "",
-            "§7§oЯкщо той, що ховається настане на пастку",
-            "§7§oслідопита, він отримає ефект світіння",
-            "§7§oі сліпоти на 20 секунд, а так само 6 одиниць шкоди",
-            "§7§oВесь цей час він не зможе",
-            "§7§oзамаскуватися як блок"
-        ],
-        "en": [
-            "",
-            "§7Includes:",
-            " §8• §7Leather helmet",
-            " §8• §7Iron chestplate",
-            " §8• §7Iron pants",
-            " §8• §7Leather boots",
-            " §8• §7Diamond sword §8(Sharpness II)",
-            " §8• §7Pathfinder's trap §8(x5)",
-            "",
-            "§7§oEvery 30 seconds of the game player gets",
-            "§7§oone more pathfinder's trap",
-            "",
-            "§7§oIf the hiding person steps on the pathfinder's trap,",
-            "§7§ohe will get a glow effect",
-            "§7§oand blindness for 20 seconds, as well as 6 damage units",
-            "§7§oAll this time he will not be able to",
-            "§7§odisguise as a block"
-        ]
-    },
-    "KIT_HNS_RATE_OF_FIRE": {
-        "ru": "Скорострел",
-        "ua": "Скоростріли",
-        "en": "Rapid fire"
-    },
-    "KIT_HNS_SECRET_KILLER": {
-        "ru": "Скрытый убийца",
-        "ua": "Прихований вбивця",
-        "en": "Hidden killer"
-    },
-    "KIT_HNS_SNIPER": {
-        "ru": "Снайпер",
-        "ua": "Снайпер",
-        "en": "Sniper"
-    },
-    "KIT_HNS_SNIPER_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:",
-            " §8• §7Кожаный шлем",
-            " §8• §7Железный нагрудник §8(Защита IV)",
-            " §8• §7Кожаные штаны",
-            " §8• §7Кожаные ботинки",
-            " §8• §7Каменный меч §8(Отдача II)",
-            " §8• §7Лук §8(Сила VII)",
-            " §8• §7Стрела §8(x5)",
-            "",
-            "§7§oКаждые 15 секунд игры получает",
-            "§7§oдополнительную стрелу"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:",
-            " §8• §7Шкіряний шолом",
-            " §8• §7Залізний нагрудник §8(Захист IV)",
-            " §8• §7Шкіряні штани",
-            " §8• §7Шкіряні чоботи",
-            " §8• §7Кам'яний меч §8(Віддача II)",
-            " §8• §7Лук §8(Сила VII)",
-            " §8• §7Стріла §8(x5)",
-            "",
-            "§7§oКожні 15 секунд гри отримує",
-            "§7§oдодаткову стрілу"
-        ],
-        "en": [
-            "",
-            "§7Includes:",
-            " §8• §7Leather helmet",
-            " §8• §7Iron chestplate §8(Protection IV)",
-            " §8• §7Leather pants",
-            " §8• §7Leather boots",
-            " §8• §7Stone sword §8(Recoil II)",
-            " §8• §7Bow §8(Strength VII)",
-            " §8• §7Arrow §8(x5)",
-            "",
-            "§7§oEvery 15 seconds of the game player gets",
-            "§7§oan extra arrow"
-        ]
-    },
-    "KIT_HNS_TALKING_TO_FIRE": {
-        "ru": "Говорящий с огнём",
-        "ua": "Той, що говорить з вогнем",
-        "en": "Fire Speaker"
-    },
-    "KIT_HNS_TALKING_TO_FIRE_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:",
-            " §8• §7Золотой шлем",
-            " §8• §7Золотой нагрудник §8(Защита II)",
-            " §8• §7Золотые штаны",
-            " §8• §7Золотые ботинки",
-            " §8• §7Золотой меч §8(Заговор огня III, Острота I)",
-            " §8• §7Лук §8(Сила II)",
-            " §8• §7Стрела §8(x5)",
-            "",
-            "§7§oКаждые 15 секунд игры получает",
-            "§7§oдополнительную стрелу. Каждое",
-            "§7§oпопадание из лука поджигает",
-            "§7§oпротивника на 4 секунды"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:",
-            " §8• §7Золотий шолом",
-            " §8• §7Золотий нагрудник §8(Захист II)",
-            " §8• §7Золоті штани",
-            " §8• §7Золоті чоботи",
-            " §8• §7Золотий меч §8(Заговір вогню III, Гострота I)",
-            " §8• §7Лук §8(Сила II)",
-            " §8• §7Стріла §8(x5)",
-            "",
-            "§7§oКожні 15 секунд гри отримує",
-            "§7§oдодаткову стрілу. Кожне",
-            "§7§oвлучення з лука підпалює",
-            "§7§oсупротивника на 4 секунди"
-        ],
-        "en": [
-            "",
-            "§7Includes:",
-            " §8• §7Golden helmet",
-            " §8• §7Golden chestplate §8(Protection II)",
-            " §8• §7Golden pants",
-            " §8• §7Golden boots",
-            " §8• §7Golden sword §8(The plot of fire III, Sharpness I)",
-            " §8• §7Bow §8(Strength II)",
-            " §8• §7Arrow §8(x5)",
-            "",
-            "§7§oEvery 15 seconds of the game player gets",
-            "§7§oan extra arrow. Each",
-            "§7§ohit from a bow sets",
-            "§7§othe enemy on fire for 4 seconds"
-        ]
-    },
-    "KIT_HNS_TANK": {
-        "ru": "Танк",
-        "ua": "Танк",
-        "en": "Tank"
-    },
-    "KIT_HNS_THE_RAT": {
-        "ru": "Злокрыс",
-        "ua": "Злощур",
-        "en": "Rat"
-    },
-    "KIT_HNS_THE_RAT_LORE": {
-        "ru": [
-            "",
-            "§7Содержит в себе:",
-            " §8• §7Железный шлем",
-            " §8• §7Железный нагрудник",
-            " §8• §7Золотые штаны",
-            " §8• §7Золотые ботинки",
-            " §8• §7Железный меч",
-            " §8• §7Взрывное зелье отравления II §8(x3)",
-            "",
-            "§7§oКаждые 20 секунд игры получает",
-            "§7§oеще одно взрывное зелье отравления II",
-            "§7§oпри условии, что в инвентаре игрока",
-            "§7§oсейчас есть не больше двух зелий"
-        ],
-        "ua": [
-            "",
-            "§7Містить в собі:",
-            " §8• §7Залізний шолом",
-            " §8• §7Залізний нагрудник",
-            " §8• §7Золоті штани",
-            " §8• §7Золоті чоботи",
-            " §8• §7Залізний меч",
-            " §8• §7Вибухове зілля отруєння II §8(x3)",
-            "",
-            "§7§oКожні 20 секунд гри отримує",
-            "§7§oще одне вибухове зілля отруєння II",
-            "§7§oза умрови, що в інвентарі гравця",
-            "§7§oЗараз є не більше двох зіль"
-        ],
-        "en": [
-            "",
-            "§7Includes:",
-            " §8• §7Iron helmet",
-            " §8• §7Iron chestplate",
-            " §8• §7Golden pants",
-            " §8• §7Golden boots",
-            " §8• §7Iron sword",
-            " §8• §7Explosive Potion of Poisoning II §8(x3)",
-            "",
-            "§7§oEvery 20 seconds of the game player gets",
-            "§7§oone more Explosive Potion of Poisoning II",
-            "§7§oon condition that there are currently no more than two",
-            "§7§opotions in the player's inventory"
-        ]
-    },
-    "PERK_HNS_ALL_SEEING": {
-        "ru": "Всевидящий",
-        "ua": "Всевидючий",
-        "en": "All-seeing"
-    },
-    "PERK_HNS_ALL_SEEING_LORE": {
-        "ru": [
-            "",
-            "§7Вы получаете специальный предмет, после",
-            "§7использования которого все искатели",
-            "§7получат эффект свечения на 15 секунд",
-            "§7Перезарядка перка - 1 минута"
-        ],
-        "ua": [
-            "",
-            "§7Ви отримуєте спеціальний предмет, після",
-            "§7використання якого все шукачі",
-            "§7отримають ефект світіння на 15 секунд",
-            "§7Перезарядка перка - 1 хвилина"
-        ],
-        "en": [
-            "",
-            "§7You get a special item after",
-            "§7the use of which all seekers",
-            "§7will get a glow effect for 15 seconds",
-            "§7Perk recharge - 1 minute"
-        ]
-    },
-    "PERK_HNS_CHORUS": {
-        "ru": "Эндерблок",
-        "ua": "Ендерблок",
-        "en": "Enderblock"
-    },
-    "PERK_HNS_CHORUS_LORE": {
-        "ru": [
-            "",
-            "§7Вы получаете специальный предмет,",
-            "§7после использования которого будете",
-            "§7телепортированы к случайному искателю",
-            "§7Перезарядка перка - 2 минуты",
-            "§7А также, после телепортации",
-            "§7вы будете невидимы 1 сек!"
-        ],
-        "ua": [
-            "",
-            "§7Ви отримуєте спеціальний предмет,",
-            "§7після використання якого будете",
-            "§7переміщуватися до випадкового шукача",
-            "§7Перезарядка перка - 2 хвилини",
-            "§7А також, після телепортації",
-            "§7ви будете невидимі 1 сек!"
-        ],
-        "en": [
-            "",
-            "§7You get a special item,",
-            "§7after using which you will",
-            "§7teleported to a random seeker",
-            "§7Perk recharge - 2 minutes",
-            "§7And also, after teleportation",
-            "§7you will be invisible for 1 sec!"
-        ]
-    },
-    "PERK_HNS_ENDURING": {
-        "ru": "Живучий",
-        "ua": "Живучий",
-        "en": "Enduring"
-    },
-    "PERK_HNS_ENDURING_LORE": {
-        "ru": [
-            "",
-            "§7После входа в режим полной маскировки,",
-            "§7Вы полностью восстановите свое здоровье",
-            "§7и получите эффект поглощения II на 25 секунд"
-        ],
-        "ua": [
-            "",
-            "§7Після входу в режим повного маскування,",
-            "§7Ви повністю відновите своє здоров'я",
-            "§7і отримаєте ефект поглинання II на 25 секунд"
-        ],
-        "en": [
-            "",
-            "§7After entering full disguise mode,",
-            "§7you will fully restore your health",
-            "§7and get the absorption effect II for 25 seconds"
-        ]
-    },
-    "PERK_HNS_FLASH": {
-        "ru": "Флеш",
-        "ua": "Флеш",
-        "en": "Flash"
-    },
-    "PERK_HNS_FLASH_LORE": {
-        "ru": [
-            "",
-            "§7После выхода из режима полной маскировки, Вы",
-            "§7получите эффект скорости III на 10 секунд"
-        ],
-        "ua": [
-            "",
-            "§7Після виходу з режиму повного маскування, ви",
-            "§7отримаєте ефект швидкості III на 10 секунд"
-        ],
-        "en": [
-            "",
-            "§7After exiting the full disguise mode, you",
-            "§7will gain Speed III effect for 10 seconds"
-        ]
-    },
-    "PERK_HNS_HEAD_HUNTER": {
-        "ru": "Охотник за головами",
-        "ua": "Мисливець за головами",
-        "en": "Head hunter"
-    },
-    "PERK_HNS_HEAD_HUNTER_LORE": {
-        "ru": [
-            "",
-            "§7Убив искателя, Вы полностью восстановите свое",
-            "§7здоровье и получите эффект сопротивления урону II",
-            "§7длительностью на 60 секунд"
-        ],
-        "ua": [
-            "",
-            "§7Убивши шукача, ви повністю відновите своє",
-            "§7здоров'я і отримаєте ефект опору шкоді II",
-            "§7на 60 секунд"
-        ],
-        "en": [
-            "",
-            "§7By killing the seeker, you will completely restore your",
-            "§7health and get Damage Resistance II",
-            "§7for 60 seconds"
-        ]
-    },
-    "PERK_HNS_IMPATIENT": {
-        "ru": "Нетерпеливый",
-        "ua": "Нетерплячий",
-        "en": "Impatient"
-    },
-    "PERK_HNS_IMPATIENT_LORE": {
-        "ru": [
-            "",
-            "§7Время до полной маскировки",
-            "§7снижено до 2 секунд"
-        ],
-        "ua": [
-            "",
-            "§7Час до повного маскування",
-            "§7понижено до 2 секунд"
-        ],
-        "en": [
-            "",
-            "§7Time till full disguise",
-            "§7is reduced to 2 seconds"
-        ]
-    },
-    "PERK_HNS_LAST_HOPE": {
-        "ru": "Последняя надежда",
-        "ua": "Остання надія",
-        "en": "Last hope"
-    },
-    "PERK_HNS_LAST_HOPE_LORE": {
-        "ru": [
-            "",
-            "§7Если на арене остается 3 или менее прячущихся",
-            "§7Вы получите постоянные эффекты силы, регенерация",
-            "§7и сопротивления урону первого уровня"
-        ],
-        "ua": [
-            "",
-            "§7Якщо на арені залишається троє або менше тих, хто ховається,",
-            "§7ви отримаєте постійні ефекти сили, регенерація",
-            "§7і опору шкоді першого рівня"
-        ],
-        "en": [
-            "",
-            "§7If there are 3 or less hiding players in the arena,",
-            "§7You will get permanent Strength, Regeneration",
-            "§7and Resistance I"
-        ]
-    },
-    "PERK_HNS_MASK_MASTER": {
-        "ru": "Мастер маскировки",
-        "ua": "Майстер маскування",
-        "en": "Disguise master"
-    },
-    "PERK_HNS_MASK_MASTER_LORE": {
-        "ru": [
-            "",
-            "§7Пока Вы будете замаскированы как блок,",
-            "§7Вы получите постоянный эффект силы II"
-        ],
-        "ua": [
-            "",
-            "§7Поки ви будете замасковані як блок,",
-            "§7ви отримаєте постійний ефект сили II"
-        ],
-        "en": [
-            "",
-            "§7As long as you're disguised as a block,",
-            "§7you will gain permanent Strength II"
-        ]
-    },
-    "PERK_HNS_MATRIX": {
-        "ru": "Матрица",
-        "ua": "Матриця",
-        "en": "Matrix"
-    },
-    "PERK_HNS_MATRIX_LORE": {
-        "ru": [
-            "",
-            "§7Вы не получаете урона с шансом 33%"
-        ],
-        "ua": [
-            "",
-            "§7Ви не отримуєте шкоди з шансом 33%"
-        ],
-        "en": [
-            "",
-            "§7With 33% chance you don't get damage"
-        ]
-    },
-    "PERK_HNS_OCTOPUS": {
-        "ru": "Спрут",
-        "ua": "Спрут",
-        "en": "Octopus"
-    },
-    "PERK_HNS_OCTOPUS_LORE": {
-        "ru": [
-            "",
-            "§7При ударе искателя из режима полной маскировки,",
-            "§7тот получит эффект слепоты на 3 секунды",
-            "§7и слабости на 4 секунды"
-        ],
-        "ua": [
-            "",
-            "§7При ударі шукача з режиму повного маскування,",
-            "§7той отримає ефект сліпоти на 3 секунди",
-            "§7і слабкості на 4 секунди"
-        ],
-        "en": [
-            "",
-            "§7When hitting the seeker from full disguise mode,",
-            "§7they will receive Blindness for 3 seconds",
-            "§7and Weakness for 4 seconds"
-        ]
-    },
-    "PERK_HNS_POLTERGEIST": {
-        "ru": "Полтергейст",
-        "ua": "Полтергейст",
-        "en": "Poltergeist"
-    },
-    "PERK_HNS_POLTERGEIST_LORE": {
-        "ru": [
-            "",
-            "§7При выходе из режима маскировки вы получаете",
-            "§7полную невидимость на 2 секунды",
-            "§7Эффект полной невидимости выдается",
-            "§7только когда вас нашёл искатель,",
-            "§7а не при любом выходе из маскировки"
-        ],
-        "ua": [
-            "",
-            "§7При виході з режиму маскування ви отримуєте",
-            "§7повну невидимість на 2 секунди",
-            "§7Ефект повної невидимості видається",
-            "§7тільки коли вас знайшов шукач,",
-            "§7а не при будь-якому виході з маскування"
-        ],
-        "en": [
-            "",
-            "§7When you exit disguise mode, you get",
-            "§7complete invisibility for 2 seconds",
-            "§7Full invisibility effect is issued",
-            "§7only when a seeker found you,",
-            "§7and not at any exit from disguise"
-        ]
-    },
-    "PERK_HNS_SMOKE_SCREEN": {
-        "ru": "Дымовая завеса",
-        "ua": "Димова завіса",
-        "en": "Smoke screen"
-    },
-    "PERK_HNS_SMOKE_SCREEN_LORE": {
-        "ru": [
-            "",
-            "§7Если Вашу маскировку разоблачат, Вы",
-            "§7получите полную невидимость на 3 секунды,",
-            "§7а все искатели в радиусе 7 блоков",
-            "§7от вас получат слепоту"
-        ],
-        "ua": [
-            "",
-            "§7Якщо ваше маскування викриють, ви",
-            "§7отримаєте повну невидимість на 3 секунди,",
-            "§7а всі шукачі в радіусі 7 блоків",
-            "§7від вас отримають сліпоту"
-        ],
-        "en": [
-            "",
-            "§7If your disguise is exposed, you",
-            "§7get full invisibility for 3 seconds,",
-            "§7and all searchers within a radius of 7 blocks",
-            "§7from you will get Blindness"
-        ]
-    },
-    "PERK_HNS_UNDERGROUND_SCIENTIST": {
-        "ru": "Подпольный учёный",
-        "ua": "Підпільний учений",
-        "en": "Underground scientist"
-    },
-    "PERK_HNS_UNDERGROUND_SCIENTIST_LORE": {
-        "ru": [
-            "",
-            "§7В начале игры Вам выдаётся",
-            "§7зелье моментального урона II",
-            "§7После использования зелья,",
-            "§7оно вернётся через минуту",
-            "§7За убийство игрока зелье",
-            "§7возвращается мгновенно"
-        ],
-        "ua": [
-            "",
-            "§7На початку гри вам видається",
-            "§7зелье моментального урона II",
-            "§7Після використання зілля,",
-            "§7воно повернеться через хвилину",
-            "§7За вбивство гравця зілля",
-            "§7повертається миттєво"
-        ],
-        "en": [
-            "",
-            "§7At the beginning of the game you are given",
-            "§7an instant damage Potion II",
-            "§7After using the potion,",
-            "§7it will be back in a minute",
-            "§7Potion for killing a player",
-            "§7returns instantly"
-        ]
-    },
-    "PERK_HNS_VINDICTIVE": {
-        "ru": "Злопамятный",
-        "ua": "Злопам'ятний",
-        "en": "Vindictive"
-    },
-    "PERK_HNS_VINDICTIVE_LORE": {
-        "ru": [
-            "",
-            "§7После смерти очередного прячущегося",
-            "§7Вы получите эффект силы I на 30 секунд",
-            "§7После смерти любого искателя",
-            "§7выдаётся Сила II на 10 секунд"
-        ],
-        "ua": [
-            "",
-            "§7Після смерті того, хто ховається,",
-            "§7ви отримаєте ефект сили I на 30 секунд",
-            "§7Після смерті будь-якого шукача",
-            "§7видається Сила II на 10 секунд"
-        ],
-        "en": [
-            "",
-            "§7After the death of another hiding player,",
-            "§7you'll get Strength I for 30 seconds",
-            "§7After the death of any seeker",
-            "§7you'll het Strength II for 10 seconds"
-        ]
-    },
-    "SEEKER_ROLE_SUBTITLE": {
-        "ru": "§7Найдите и убейте всех прячущихся",
-        "ua": "§7Знайдіть і убийте всіх тих, хто ховаються",
-        "en": "§7Find and kill all the hiding"
-    },
-    "SEEKER_ROLE_TITLE": {
-        "ru": "§cВы искатель",
-        "ua": "§cВи шукач",
-        "en": "§cYou are a seeker"
-    },
-    "WIN_HIDERS_SUB_TITLE": {
-        "ru": "§7Искатели не успели найти всех",
-        "ua": "§7Шукачі не втсигли знайти всіх",
-        "en": "§7Seekers didn't manage to find everybody"
-    },
-    "WIN_HIDERS_TITLE": {
-        "ru": "§bПобедили прячущиеся",
-        "ua": "§bПеремогли ті, що ховаються",
-        "en": "§bThe hiding won"
-    },
-    "WIN_SEEKERS_SUB_TITLE": {
-        "ru": "§7Всех прячущихся нашли",
-        "ua": "§7Знайшли усіх, хто ховається",
-        "en": "§7Every hider was found"
-    },
-    "WIN_SEEKERS_TITLE": {
-        "ru": "§cПобедили искатели",
-        "ua": "§cПеремогли шукачі",
-        "en": "§cThe seekers won"
-    }
+  "HIDER_ROLE_SUBTITLE": {
+    "ru": "§7Маскируйтесь и выживите",
+    "ua": "§7Замаскуйтесь і виживіть",
+    "en": "§7Disguise and survive"
+  },
+  "HIDER_ROLE_TITLE": {
+    "ru": "§bВы прячущийся",
+    "ua": "§bВи ховаєтесь",
+    "en": "§bYou are hiding"
+  },
+  "HIDER_TEAM": {
+    "ru": "Прячущиеся",
+    "ua": "Ховаються",
+    "en": "Hiding"
+  },
+  "HIDE_AND_SEEK_END_NOTIFIER": {
+    "ru": "§fДо победы прячущихся осталась §a1 §fминута. Теперь искатели могут видеть количество игроков, замаскированных под каждый блок",
+    "ua": "§fДо перемоги тих, що ховаються залищилась §a1 §fхвилина. Тепер шукачі можуть бачити кількість гравців, замаскованих під кожен блок",
+    "en": "§fThere's §a1 §fmin left before the hiding players win. Now the seekers can see the number of players disguised for each block"
+  },
+  "HIDE_AND_SEEK_GAME": {
+    "ru": "§eHideAndSeek",
+    "ua": "§eHideAndSeek",
+    "en": "§eHideAndSeek"
+  },
+  "HIDE_AND_SEEK_GAME_END": {
+    "ru": "§fВремя вышло. Искатели не успели найти всех прячущихся игроков",
+    "ua": "§fЧас вийшов. Шукачі не встигли знайти всіх гравців",
+    "en": "§fTime out. The seekers did not manage to find all the hiding players"
+  },
+  "HIDE_AND_SEEK_HIDER_FOUND": {
+    "ru": "§fПрячущийся §b%s §fбыл найден и убит искателем §c%s",
+    "ua": "§fЗамаскований §b%s §fбув знайдений та вбитий шукачем §c%s",
+    "en": "§fHiding player §b%s §fwas found and killed by a seeker §c%s"
+  },
+  "HIDE_AND_SEEK_SEEKER_KILLED": {
+    "ru": "§fИскатель §c%s §fбыл убит прячущимся §b%s",
+    "ua": "§fШукач §c%s §fбув вбитий замаскованим §b%s",
+    "en": "§fSeeker §c%s §fwas killed by a hiding player§b%s"
+  },
+  "HIDE_AND_SEEK_SEEKER_KILLED_FINAL": {
+    "ru": "§fИскатель §c%s §fбыл убит прячущимся §b%s §fи выбыл из игры",
+    "ua": "§fШукач §c%s §fбув убитий замаскованим §b%s §fі покинув гру",
+    "en": "§fSeeker §c%s §fwas killed by a hiding player §b%s §fand dropped out of the game"
+  },
+  "HNS_ALL_SEEING_PERK_ITEM": {
+    "ru": "§bВсевидящий",
+    "ua": "§bВсевидючий",
+    "en": "§bAll-seeing"
+  },
+  "HNS_ALL_SEEING_PERK_ITEM_LORE": {
+    "ru": [
+      "§7После использования все искатели",
+      "§7получат временный эффект свечения",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "ua": [
+      "§7Після використання всі шукачі",
+      "§7отримають тимчасовий ефект світіння",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "en": [
+      "§7After using all seekers",
+      "§7will get a temporary glow effect",
+      "§7Recharging §c%s §7seconds"
+    ]
+  },
+  "HNS_BECOME_SEEKER_DEATH_TITLE": {
+    "ru": "§cВы стали искателем",
+    "ua": "§cВи стали шукачем",
+    "en": "§cYou are now a seeker"
+  },
+  "HNS_BLOCK_DISGUISE_ITEM": {
+    "ru": "§6Выбор новой маскировки",
+    "ua": "§6Вибір нового маскування",
+    "en": "§6Choose new disguise"
+  },
+  "HNS_BLOCK_DISGUISE_ITEM_LORE": {
+    "ru": [
+      "§7Меняет вашу текущую маскировку",
+      "§7на кликнутый Вами блок",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "ua": [
+      "§7Змінює ваше поточне маскування",
+      "§7на клікнутий Вами блок",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "en": [
+      "§7Changes your current disguise",
+      "§7to the block you clicked on",
+      "§7Recharging §c%s §7seconds"
+    ]
+  },
+  "HNS_BLOCK_LIST_ITEM": {
+    "ru": "§bМаскировки прячущихся",
+    "ua": "§bМаскування тих, хто ховається",
+    "en": "§bHiders' disguise"
+  },
+  "HNS_BLOCK_LIST_ITEM_LORE": {
+    "ru": [
+      "§7Открывает список всех возможных на",
+      "§7этой карте маскировок прячущихся.",
+      "§7За минуту до конца игры в меню",
+      "§7появится количество прячущихся",
+      "§7каждым блоком"
+    ],
+    "ua": [
+      "§7Відкриває список всіх можливих на",
+      "§7цій мапі маскувань тих, що ховаються.",
+      "§7За хвилину до кінця гри",
+      "§7з'явиться кількість тих, що ховаються",
+      "§7за кажним блоком"
+    ],
+    "en": [
+      "§7Opens a list of all possible",
+      "§7hiders' disguises on the map.",
+      "§7A minute before the end of the game",
+      "§7the mumber of the hiders",
+      "§7under each block will appear in the menu"
+    ]
+  },
+  "HNS_BOARD_HIDERS": {
+    "ru": "Прячущихся",
+    "ua": "Ховаються",
+    "en": "Hiders"
+  },
+  "HNS_BOARD_MASK": {
+    "ru": "Текущая маскировка",
+    "ua": "Поточне маскування",
+    "en": "Current disguise"
+  },
+  "HNS_BOARD_SEEKERS": {
+    "ru": "Искателей",
+    "ua": "Шукачів",
+    "en": "Seekers"
+  },
+  "HNS_CHORUS_PERK_ITEM": {
+    "ru": "§bЭндерблок",
+    "ua": "§bЕндерблок",
+    "en": "§bEnderblock"
+  },
+  "HNS_CHORUS_PERK_ITEM_LORE": {
+    "ru": [
+      "§7После использования Вы будете телепортированы",
+      "§7к случайному искателю.",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "ua": [
+      "§7После использования Вы будете телепортовані",
+      "§7до випадкового шукача.",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "en": [
+      "§7After using, you will be teleported",
+      "§7to a random seeker.",
+      "§7Recharging §c%s §7seconds"
+    ]
+  },
+  "HNS_GAME_TIME_CHANGE": {
+    "ru": " %s%s %s секунд игрового времени",
+    "ua": " %s%s %s секунд ігрового часу",
+    "en": " %s%s %s seconds of game time"
+  },
+  "HNS_HIDER_GAME_DESC": {
+    "ru": [
+      "Ваша задача прожить до конца игры и не попасться",
+      "искателям, в этом вам поможет ваша хитрость и умения",
+      "Тихо прятаться или заманить в ловушку? Решать только вам!"
+    ],
+    "ua": [
+      "Ваше завдання прожити до кінця гри і не попастися",
+      "шукачам, в цьому вам допоможе ваша хитрість і вміння",
+      "Тихо ховатися або заманити в пастку? Вирішувати тільки вам!"
+    ],
+    "en": [
+      "Your task is to live until the end of the game and not get caught",
+      "by a seeker, your cunning and skills will help you in this",
+      "Hide quietly or lure in a trap? It's up to you to decide!"
+    ]
+  },
+  "HNS_HUNTER_STRING_LORE": {
+    "ru": [
+      "§7Каждый прячущийся, который наступит",
+      "§7на эту нить получит замедление X на",
+      "§75 секунд и застрянет в паутине"
+    ],
+    "ua": [
+      "§7Кожен, хто ховається і наступить",
+      "§7на цю нитку отримає уповільнення X на",
+      "§75 секунд і застрягне в павутині"
+    ],
+    "en": [
+      "§7Every hider who steps",
+      "§7on this thread will receive a deceleration X fro",
+      "§75 seconds and get stuck in the web"
+    ]
+  },
+  "HNS_HUNTER_STRING_NAME": {
+    "ru": "§bНить охотника",
+    "ua": "§bНитка мисливця",
+    "en": "§bHunter's thread"
+  },
+  "HNS_KICK_SPECTATOR": {
+    "ru": "Спектаторы в данной игре отключены!",
+    "ua": "Спектатори в цій грі вимкнені!",
+    "en": "Specters are disabled in this game!"
+  },
+  "HNS_LAST_SEEKER_LEFT": {
+    "ru": "§fПоследний искатель покинул игру. Игрок %s §fбыл выбран новым искателем",
+    "ua": "§fОстанній шукач покинув гру. Гравець %s §fбув обраний новим шукачем",
+    "en": "§fThe last seeker left the game. Player %s §fhas been selected as a new seeker"
+  },
+  "HNS_MASK": {
+    "ru": "маскировка",
+    "ua": "маскування",
+    "en": "disguise"
+  },
+  "HNS_MASK_CHANGE_COOLDOWN": {
+    "ru": "§cВы сможете сменить маскировку через %s секунд",
+    "ua": "§cВи зможете змінити маскування через %s секунд",
+    "en": "§cYou can change the disguise in %s seconds"
+  },
+  "HNS_MASK_DEFAULT": {
+    "ru": "Случайная маскировка",
+    "ua": "Випадкове маскування",
+    "en": "Random disguise"
+  },
+  "HNS_MASK_DEFAULT_LORE": {
+    "ru": [
+      "",
+      "§7Ваша маскировка будет выбрана",
+      "§7случайно из всех возможных"
+    ],
+    "ua": [
+      "",
+      "§7Ваше маскування буде обране",
+      "§7випадково із всіх можливих"
+    ],
+    "en": [
+      "",
+      "§7Your disguise will be selected",
+      "§7randomly out of all possible"
+    ]
+  },
+  "HNS_MASK_NOT_FOUND": {
+    "ru": "§cВы не можете замаскироваться под этот блок",
+    "ua": "§cВи не можете замаскуватися під цей блок",
+    "en": "§cYou can't disguise yourself as this block"
+  },
+  "HNS_MASK_NOT_PURCHASED": {
+    "ru": "§cУ вас не приобретена эта маскировка",
+    "ua": "§cВи не придбали це маскування",
+    "en": "§cYou didn't purchase this disguise"
+  },
+  "HNS_MASK_PURCHASE_MESSAGE": {
+    "ru": "Вы приобрели маскировку §a%s §fза §a%s §f%s",
+    "ua": "Ви придбали маскування §a%s §fза §a%s §f%s",
+    "en": "You have purchased disguise §a%s §ffor §a%s §f%s"
+  },
+  "HNS_MASK_SELECTION_MESSAGE": {
+    "ru": "Вы выбрали маскировку §a%s",
+    "ua": "Ви обрали маскування §a%s",
+    "en": "You chose disguise §a%s"
+  },
+  "HNS_MASK_YOU_ARE_SOLID": {
+    "ru": "§cДля выбора нового блока Вы должны снять маскировку",
+    "ua": "§cДля вибору нового блоку ви повинні зняти маскування",
+    "en": "§cДto select a new block, you must take off the disguise"
+  },
+  "HNS_MESSAGE_YOU_ARE_GLOWING": {
+    "ru": "§cВы попались в ловушку. Превращение немозможно, пока у Вас есть эффект свечения",
+    "ua": "§cВи попалися в пастку. Перетворення неможливо, поки у вас є ефект світіння",
+    "en": "§cYou have fallen into a trap. Transformation is not possible as long as you have the glow effect"
+  },
+  "HNS_MESSAGE_YOU_ARE_SOLID": {
+    "ru": "§fВы замаскировались. Нажмите §eSHIFT§f, чтобы снять маскировку",
+    "ua": "§fВи замаскувались. Натисніть §eSHIFT§f, щоб зняти маскування",
+    "en": "§fYou have disguised yourself. Press §eSHIFT§f take off the disguise"
+  },
+  "HNS_PATH_FINDER_REDSTONE_LORE": {
+    "ru": [
+      "§7Каждый прячущийся, который наступит",
+      "§7на редстоун получит эффект свечения",
+      "§7и слепоты на 20 секунд.",
+      "§7Для прячущихся с эффектом",
+      "§7свечения маскировка невозможна"
+    ],
+    "ua": [
+      "§7Кожен, хто ховається і наступить",
+      "§7на редстоун отримає ефект світіння",
+      "§7і сліпоти на 20 секунд.",
+      "§7Для тих, хто ховається і має ефект світіння,",
+      "§7маскування неможливе"
+    ],
+    "en": [
+      "§7Every hider who steps",
+      "§7on the redstone will get a glow effect",
+      "§7and blindness for 20 seconds.",
+      "§7For those hiding with a glow effect,",
+      "§7disguise is not possible"
+    ]
+  },
+  "HNS_PATH_FINDER_REDSTONE_NAME": {
+    "ru": "§bЛовушка следопыта",
+    "ua": "§bПастка слідопита",
+    "en": "§bPathfinder's Trap"
+  },
+  "HNS_PERK_COOLDOWN": {
+    "ru": "§cВы сможете использовать умение снова через %s секунд",
+    "ua": "§cВи зможете використовувати вміння знову через %s секунд",
+    "en": "§cYou will be able to use the skill again after %s seconds"
+  },
+  "HNS_RANDOM_DISGUISE_ITEM": {
+    "ru": "§aСменить маскировку",
+    "ua": "§aЗмінити маскування",
+    "en": "§aChange disguise"
+  },
+  "HNS_RANDOM_DISGUISE_ITEM_LORE": {
+    "ru": [
+      "§7Меняет вашу текущую маскировку",
+      "§7на любую случайную из всех возможных",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "ua": [
+      "§7Змінює ваше поточне маскування",
+      "§7на будь-яку випадкову з усіх можливих",
+      "§7Перезарядка §c%s §7секунд"
+    ],
+    "en": [
+      "§7Changes your current disguise",
+      "§7with a random one out of all possible",
+      "§7Recharging §c%s §7seconds"
+    ]
+  },
+  "HNS_RESELECTED_SEEKER_DEATH_TITLE": {
+    "ru": "§cВы были выбраны новым искателем",
+    "ua": "§cВи були обрані новим шукачем",
+    "en": "§cYou have been chosen to be a new seeker"
+  },
+  "HNS_SEEKER_GAME_DESC": {
+    "ru": [
+      "Ваша задача найти как можно больше игроков, которые могут",
+      "маскироваться в блоки. Используйте вашу смекалку и наборы.",
+      "Найденные игроки становятся искателями.",
+      "Будьте осторожны, прячущиеся не беззащитны!"
+    ],
+    "ua": [
+      "Ваше завдання знайти якомога більше гравців, які можуть",
+      "маскуватися в блоки.Використовуйте вашу кмітливість і набори.",
+      "Знайдені гравці становляться шукачами.",
+      "Будьте обережні, ті, що ховаються, НЕ беззахисні!"
+    ],
+    "en": [
+      "Your task is to find as many players as possible who can",
+      "disguise themselves in blocks. Use your wits and sets.",
+      "The players found become seekers.",
+      "Be careful, the hiders are not defenseless!"
+    ]
+  },
+  "HNS_SEEKER_GUI_BLOCK_COUNT": {
+    "ru": [
+      "",
+      "§7Количество прячущихся, замаскированных",
+      "§7под данный блок: §a%s"
+    ],
+    "ua": [
+      "",
+      "§7Кількість тих, що ховаються, замаскованих",
+      "§7під цей блок: §a%s"
+    ],
+    "en": [
+      "",
+      "§7The mumber of the hiders disguised",
+      "§7for this block: §a%s"
+    ]
+  },
+  "HNS_SEEKER_GUI_INFO": {
+    "ru": "§eСписок маскировок",
+    "ua": "§eСписок маскувань",
+    "en": "§eDisguise list"
+  },
+  "HNS_SEEKER_GUI_INFO_LORE": {
+    "ru": [
+      "§7В данном меню можно просмотреть",
+      "§7все возможные блоки, которыми",
+      "§7могли стать прячущиеся.",
+      "",
+      "§7За минуту до окончания игры под",
+      "§7каждой из маскировок будет видно",
+      "§7количество игроков, спрятанных за",
+      "§7этот блок"
+    ],
+    "ua": [
+      "§7В цьому меню можна продивитися",
+      "§7всі можливі блоки, якими могли",
+      "§стати ті, що ховаються.",
+      "",
+      "§7За хвилину до закінчення гри під",
+      "§7кожної з маскіровок буде видно",
+      "§7кількість гравців, схованих",
+      "§7за цей блок"
+    ],
+    "en": [
+      "§7In this menu, you can see",
+      "§7all the possible blocks",
+      "§7which hiders could be disguised as.",
+      "",
+      "§7A minute before the end of the game",
+      "§7behind each of the disguises will be seen",
+      "§7the number of players hidden behind",
+      "§7the block"
+    ]
+  },
+  "HNS_SEEKER_GUI_NO_BLOCKS": {
+    "ru": [
+      "",
+      "§cЖивых прячущихся, замаскированных",
+      "§cпод данный блок нет"
+    ],
+    "ua": [
+      "",
+      "§cЖивих шуканих, замаскованих",
+      "§cпід цей блок немає"
+    ],
+    "en": [
+      "",
+      "§cThere are no living hiders",
+      "§cdisguised as this block"
+    ]
+  },
+  "HNS_SEEKER_GUI_TITLE": {
+    "ru": "Маскировки прячущихся",
+    "ua": "Маскування тих, що ховаються",
+    "en": "Hider's disguise"
+  },
+  "HNS_SEEKING_STARTED": {
+    "ru": "§fИскатели вышли на охоту. Будьте осторожны!",
+    "ua": "§fШукачі вийшли на полювання. Будьте уважні!",
+    "en": "§fThe seekers went hunting. Be careful!"
+  },
+  "HNS_SEEKING_STARTING": {
+    "ru": "§fИскатели будут выпущены через §a15 §fсекунд",
+    "ua": "§fШукачі будуть випущені через §a15 §fсекунд",
+    "en": "§Seekers will be released in §a15 §fseconds"
+  },
+  "HNS_STILL_SEEKER_DEATH_TITLE": {
+    "ru": "§cВы были убиты прячущимися",
+    "ua": "§cВи були вбити тими, що ховаються.",
+    "en": "§cou have been killed by the hiding"
+  },
+  "KIT_HNS_BOMBER": {
+    "ru": "Подрывник",
+    "ua": "Підривник",
+    "en": "Bomber"
+  },
+  "KIT_HNS_BOMBER_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:",
+      " §8• §7Алмазный шлем",
+      " §8• §7Алмазный нагрудник",
+      " §8• §7Золотые штаны",
+      " §8• §7Золотые ботинки",
+      " §8• §7Каменный меч",
+      " §8• §7Динамит §8(x2)",
+      "",
+      "§7§oКаждые 20 секунд игры получает",
+      "§7§oеще один динамит при условии,",
+      "§7§oчто в инвентаре игрока сейчас",
+      "§7§oесть не больше двух TNT",
+      "",
+      "§7§oВзрыв динамита разоблачает блоки"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:",
+      " §8• §7Алмазний шолом",
+      " §8• §7Алмазний нагрудник",
+      " §8• §7Золоті штани",
+      " §8• §7Золоті чоботи",
+      " §8• §7Кам'яний меч",
+      " §8• §7Динаміт §8(x2)",
+      "",
+      "§7§oКожні 20 секунд гри отримує",
+      "§7§oще один динаміт за умови,",
+      "§7§oщо в інвентарі гравця зараз",
+      "§7§oє не більше двох TNT",
+      "",
+      "§7§oВибух динаміту викриває блоки"
+    ],
+    "en": [
+      "",
+      "§7Includes:",
+      " §8• §7Diamond helmet",
+      " §8• §7Diamond chestplate",
+      " §8• §7Golden pants",
+      " §8• §7Golden boots",
+      " §8• §7Stone sword",
+      " §8• §7Dynamite §8(x2)",
+      "",
+      "§7§oEvery 20 seconds of the game player gets",
+      "§7§oone more dynamite on condition",
+      "§7§othat there are currently no more than two",
+      "§7§oTNTs in the player's inventory",
+      "",
+      "§7§oDynamite blast exposes blocks"
+    ]
+  },
+  "KIT_HNS_CLASSIC": {
+    "ru": "Стандартный",
+    "ua": "Стандартний",
+    "en": "Standart"
+  },
+  "KIT_HNS_DEADLY_KILLER": {
+    "ru": "Смертоносный убийца",
+    "ua": "Смертоносний вбивця",
+    "en": "Deadly assassin"
+  },
+  "KIT_HNS_EXPERIMENTER": {
+    "ru": "Экспериментатор",
+    "ua": "Експериментатор",
+    "en": "Experimenter"
+  },
+  "KIT_HNS_EXPERIMENTER_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:",
+      " §8• §7Золотой шлем",
+      " §8• §7Золотой нагрудник",
+      " §8• §7Алмазные штаны",
+      " §8• §7Алмазные ботинки",
+      " §8• §7Золотой меч",
+      " §8• §7Взрывное зелье урона II §8(x3)",
+      "",
+      "§7§oКаждые 20 секунд игры получает",
+      "§7§oеще одно взрывное зелье урона II",
+      "§7§oпри условии, что в инвентаре игрока",
+      "§7§oсейчас есть не больше двух зелий"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:",
+      " §8• §7Золотий шолом",
+      " §8• §7Золотий нагрудник",
+      " §8• §7Алмазні штани",
+      " §8• §7Алмазні чоботи",
+      " §8• §7Золотий меч",
+      " §8• §7Вибухове зілля шкоди II §8(x3)",
+      "",
+      "§7§oКожні 20 секунд гри отримує",
+      "§7§oще одне вибухове зілля шкоди II",
+      "§7§oза умови, що в інвентарі гравця",
+      "§7§oзараз не більше двох зіль"
+    ],
+    "en": [
+      "",
+      "§7Includes:",
+      " §8• §7Golden helmet",
+      " §8• §7Golden chestplate",
+      " §8• §7Diamond pants",
+      " §8• §7Diamond boots",
+      " §8• §7Golden sword",
+      " §8• §7Explosive Damage Potion II §8(x3)",
+      "",
+      "§7§oEvery 20 seconds of the game player gets",
+      "§7§oone more Explosive Damage Potion II",
+      "§7§oon condition that there are currently no more than two",
+      "§7§opotions in the player's inventory"
+    ]
+  },
+  "KIT_HNS_HUNTER": {
+    "ru": "Охотник",
+    "ua": "Мисливець",
+    "en": "Hunter"
+  },
+  "KIT_HNS_HUNTER_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:",
+      " §8• §7Кольчужный шлем",
+      " §8• §7Кольчужный нагрудник",
+      " §8• §7Железные штаны",
+      " §8• §7Железные ботинки",
+      " §8• §7Алмазный меч §8(Острота III)",
+      " §8• §7Нить охотника §8(x4)",
+      "",
+      "§7§oКаждые 45 секунд игры получает",
+      "§7§oдополнительную нить охотника",
+      "",
+      "§7§oЕсли прячущийся наступит на нить",
+      "§7§oохотника, он получит медлительность X",
+      "§7§oна 5 секунд, а нить станет паутиной"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:",
+      " §8• §7Кольчужний шолом",
+      " §8• §7Кольчужний нагрудник",
+      " §8• §7Залізні штани",
+      " §8• §7Залізні чоботи",
+      " §8• §7Алмазний меч §8(Гострота III)",
+      " §8• §7Нитка мисливця §8(x4)",
+      "",
+      "§7§oКожні 45 секунд гри отримує",
+      "§7§oдодаткову нитку мисливця",
+      "",
+      "§7§oЯкщо той, що ховається, настане на нить",
+      "§7§oмисливця, то він отримає повільність X",
+      "§7§oна 5 секунд, а нитка стане павутиною"
+    ],
+    "en": [
+      "",
+      "§7Includes:",
+      " §8• §7Chain mail helmet",
+      " §8• §7Chain mail chestplate",
+      " §8• §7Iron pants",
+      " §8• §7Iron boots",
+      " §8• §7Diamond sword §8(Sharpness III)",
+      " §8• §7Hunter's thread §8(x4)",
+      "",
+      "§7§oEvery 45 seconds of the game player gets",
+      "§7§oextra hunter thread",
+      "",
+      "§7§oIf the hiding person steps on the hunter's thread",
+      "§7§he will get slowness X",
+      "§7§ofor 5 seconds, and the thread will become a spider web"
+    ]
+  },
+  "KIT_HNS_PATH_FINDER": {
+    "ru": "Следопыт",
+    "ua": "Слідопит",
+    "en": "Pathfinder"
+  },
+  "KIT_HNS_PATH_FINDER_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:",
+      " §8• §7Кожаный шлем",
+      " §8• §7Железный нагрудник",
+      " §8• §7Железные штаны",
+      " §8• §7Кожаные ботинки",
+      " §8• §7Алмазный меч §8(Острота II)",
+      " §8• §7Ловушка следопыта §8(x5)",
+      "",
+      "§7§oКаждые 30 секунд игры получает",
+      "§7§oеще одну ловушку следопыта",
+      "",
+      "§7§oЕсли прячущийся наступит на ловушку",
+      "§7§oследопыта, он получит эффект свечения",
+      "§7§oи слепоты на 20 секунд, а так же 6 единиц урона",
+      "§7§oВсе это время он не сможет",
+      "§7§oзамаскироваться как блок"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:",
+      " §8• §7Шкіряний шолом",
+      " §8• §7Залізний нагрудник",
+      " §8• §7Залізні штани",
+      " §8• §7Шкіряні чоботи",
+      " §8• §7Алмазний меч §8(Гострота II)",
+      " §8• §7Пастка слідопита §8(x5)",
+      "",
+      "§7§oКожні 30 секунд гри отримує",
+      "§7§oще одну пастку слідопита",
+      "",
+      "§7§oЯкщо той, що ховається настане на пастку",
+      "§7§oслідопита, він отримає ефект світіння",
+      "§7§oі сліпоти на 20 секунд, а так само 6 одиниць шкоди",
+      "§7§oВесь цей час він не зможе",
+      "§7§oзамаскуватися як блок"
+    ],
+    "en": [
+      "",
+      "§7Includes:",
+      " §8• §7Leather helmet",
+      " §8• §7Iron chestplate",
+      " §8• §7Iron pants",
+      " §8• §7Leather boots",
+      " §8• §7Diamond sword §8(Sharpness II)",
+      " §8• §7Pathfinder's trap §8(x5)",
+      "",
+      "§7§oEvery 30 seconds of the game player gets",
+      "§7§oone more pathfinder's trap",
+      "",
+      "§7§oIf the hiding person steps on the pathfinder's trap,",
+      "§7§ohe will get a glow effect",
+      "§7§oand blindness for 20 seconds, as well as 6 damage units",
+      "§7§oAll this time he will not be able to",
+      "§7§odisguise as a block"
+    ]
+  },
+  "KIT_HNS_RATE_OF_FIRE": {
+    "ru": "Скорострел",
+    "ua": "Скоростріли",
+    "en": "Rapid fire"
+  },
+  "KIT_HNS_SECRET_KILLER": {
+    "ru": "Скрытый убийца",
+    "ua": "Прихований вбивця",
+    "en": "Hidden killer"
+  },
+  "KIT_HNS_SNIPER": {
+    "ru": "Снайпер",
+    "ua": "Снайпер",
+    "en": "Sniper"
+  },
+  "KIT_HNS_SNIPER_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:",
+      " §8• §7Кожаный шлем",
+      " §8• §7Железный нагрудник §8(Защита IV)",
+      " §8• §7Кожаные штаны",
+      " §8• §7Кожаные ботинки",
+      " §8• §7Каменный меч §8(Отдача II)",
+      " §8• §7Лук §8(Сила VII)",
+      " §8• §7Стрела §8(x5)",
+      "",
+      "§7§oКаждые 15 секунд игры получает",
+      "§7§oдополнительную стрелу"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:",
+      " §8• §7Шкіряний шолом",
+      " §8• §7Залізний нагрудник §8(Захист IV)",
+      " §8• §7Шкіряні штани",
+      " §8• §7Шкіряні чоботи",
+      " §8• §7Кам'яний меч §8(Віддача II)",
+      " §8• §7Лук §8(Сила VII)",
+      " §8• §7Стріла §8(x5)",
+      "",
+      "§7§oКожні 15 секунд гри отримує",
+      "§7§oдодаткову стрілу"
+    ],
+    "en": [
+      "",
+      "§7Includes:",
+      " §8• §7Leather helmet",
+      " §8• §7Iron chestplate §8(Protection IV)",
+      " §8• §7Leather pants",
+      " §8• §7Leather boots",
+      " §8• §7Stone sword §8(Recoil II)",
+      " §8• §7Bow §8(Strength VII)",
+      " §8• §7Arrow §8(x5)",
+      "",
+      "§7§oEvery 15 seconds of the game player gets",
+      "§7§oan extra arrow"
+    ]
+  },
+  "KIT_HNS_TALKING_TO_FIRE": {
+    "ru": "Говорящий с огнём",
+    "ua": "Той, що говорить з вогнем",
+    "en": "Fire Speaker"
+  },
+  "KIT_HNS_TALKING_TO_FIRE_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:",
+      " §8• §7Золотой шлем",
+      " §8• §7Золотой нагрудник §8(Защита II)",
+      " §8• §7Золотые штаны",
+      " §8• §7Золотые ботинки",
+      " §8• §7Золотой меч §8(Заговор огня III, Острота I)",
+      " §8• §7Лук §8(Сила II)",
+      " §8• §7Стрела §8(x5)",
+      "",
+      "§7§oКаждые 15 секунд игры получает",
+      "§7§oдополнительную стрелу. Каждое",
+      "§7§oпопадание из лука поджигает",
+      "§7§oпротивника на 4 секунды"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:",
+      " §8• §7Золотий шолом",
+      " §8• §7Золотий нагрудник §8(Захист II)",
+      " §8• §7Золоті штани",
+      " §8• §7Золоті чоботи",
+      " §8• §7Золотий меч §8(Заговір вогню III, Гострота I)",
+      " §8• §7Лук §8(Сила II)",
+      " §8• §7Стріла §8(x5)",
+      "",
+      "§7§oКожні 15 секунд гри отримує",
+      "§7§oдодаткову стрілу. Кожне",
+      "§7§oвлучення з лука підпалює",
+      "§7§oсупротивника на 4 секунди"
+    ],
+    "en": [
+      "",
+      "§7Includes:",
+      " §8• §7Golden helmet",
+      " §8• §7Golden chestplate §8(Protection II)",
+      " §8• §7Golden pants",
+      " §8• §7Golden boots",
+      " §8• §7Golden sword §8(The plot of fire III, Sharpness I)",
+      " §8• §7Bow §8(Strength II)",
+      " §8• §7Arrow §8(x5)",
+      "",
+      "§7§oEvery 15 seconds of the game player gets",
+      "§7§oan extra arrow. Each",
+      "§7§ohit from a bow sets",
+      "§7§othe enemy on fire for 4 seconds"
+    ]
+  },
+  "KIT_HNS_TANK": {
+    "ru": "Танк",
+    "ua": "Танк",
+    "en": "Tank"
+  },
+  "KIT_HNS_THE_RAT": {
+    "ru": "Злокрыс",
+    "ua": "Злощур",
+    "en": "Rat"
+  },
+  "KIT_HNS_THE_RAT_LORE": {
+    "ru": [
+      "",
+      "§7Содержит в себе:",
+      " §8• §7Железный шлем",
+      " §8• §7Железный нагрудник",
+      " §8• §7Золотые штаны",
+      " §8• §7Золотые ботинки",
+      " §8• §7Железный меч",
+      " §8• §7Взрывное зелье отравления II §8(x3)",
+      "",
+      "§7§oКаждые 20 секунд игры получает",
+      "§7§oеще одно взрывное зелье отравления II",
+      "§7§oпри условии, что в инвентаре игрока",
+      "§7§oсейчас есть не больше двух зелий"
+    ],
+    "ua": [
+      "",
+      "§7Містить в собі:",
+      " §8• §7Залізний шолом",
+      " §8• §7Залізний нагрудник",
+      " §8• §7Золоті штани",
+      " §8• §7Золоті чоботи",
+      " §8• §7Залізний меч",
+      " §8• §7Вибухове зілля отруєння II §8(x3)",
+      "",
+      "§7§oКожні 20 секунд гри отримує",
+      "§7§oще одне вибухове зілля отруєння II",
+      "§7§oза умрови, що в інвентарі гравця",
+      "§7§oЗараз є не більше двох зіль"
+    ],
+    "en": [
+      "",
+      "§7Includes:",
+      " §8• §7Iron helmet",
+      " §8• §7Iron chestplate",
+      " §8• §7Golden pants",
+      " §8• §7Golden boots",
+      " §8• §7Iron sword",
+      " §8• §7Explosive Potion of Poisoning II §8(x3)",
+      "",
+      "§7§oEvery 20 seconds of the game player gets",
+      "§7§oone more Explosive Potion of Poisoning II",
+      "§7§oon condition that there are currently no more than two",
+      "§7§opotions in the player's inventory"
+    ]
+  },
+  "PERK_HNS_ALL_SEEING": {
+    "ru": "Всевидящий",
+    "ua": "Всевидючий",
+    "en": "All-seeing"
+  },
+  "PERK_HNS_ALL_SEEING_LORE": {
+    "ru": [
+      "",
+      "§7Вы получаете специальный предмет, после",
+      "§7использования которого все искатели",
+      "§7получат эффект свечения на 15 секунд",
+      "§7Перезарядка перка - 1 минута"
+    ],
+    "ua": [
+      "",
+      "§7Ви отримуєте спеціальний предмет, після",
+      "§7використання якого все шукачі",
+      "§7отримають ефект світіння на 15 секунд",
+      "§7Перезарядка перка - 1 хвилина"
+    ],
+    "en": [
+      "",
+      "§7You get a special item after",
+      "§7the use of which all seekers",
+      "§7will get a glow effect for 15 seconds",
+      "§7Perk recharge - 1 minute"
+    ]
+  },
+  "PERK_HNS_CHORUS": {
+    "ru": "Эндерблок",
+    "ua": "Ендерблок",
+    "en": "Enderblock"
+  },
+  "PERK_HNS_CHORUS_LORE": {
+    "ru": [
+      "",
+      "§7Вы получаете специальный предмет,",
+      "§7после использования которого будете",
+      "§7телепортированы к случайному искателю",
+      "§7Перезарядка перка - 2 минуты",
+      "§7А также, после телепортации",
+      "§7вы будете невидимы 1 сек!"
+    ],
+    "ua": [
+      "",
+      "§7Ви отримуєте спеціальний предмет,",
+      "§7після використання якого будете",
+      "§7переміщуватися до випадкового шукача",
+      "§7Перезарядка перка - 2 хвилини",
+      "§7А також, після телепортації",
+      "§7ви будете невидимі 1 сек!"
+    ],
+    "en": [
+      "",
+      "§7You get a special item,",
+      "§7after using which you will",
+      "§7teleported to a random seeker",
+      "§7Perk recharge - 2 minutes",
+      "§7And also, after teleportation",
+      "§7you will be invisible for 1 sec!"
+    ]
+  },
+  "PERK_HNS_ENDURING": {
+    "ru": "Живучий",
+    "ua": "Живучий",
+    "en": "Enduring"
+  },
+  "PERK_HNS_ENDURING_LORE": {
+    "ru": [
+      "",
+      "§7После входа в режим полной маскировки,",
+      "§7Вы полностью восстановите свое здоровье",
+      "§7и получите эффект поглощения II на 25 секунд"
+    ],
+    "ua": [
+      "",
+      "§7Після входу в режим повного маскування,",
+      "§7Ви повністю відновите своє здоров'я",
+      "§7і отримаєте ефект поглинання II на 25 секунд"
+    ],
+    "en": [
+      "",
+      "§7After entering full disguise mode,",
+      "§7you will fully restore your health",
+      "§7and get the absorption effect II for 25 seconds"
+    ]
+  },
+  "PERK_HNS_FLASH": {
+    "ru": "Флеш",
+    "ua": "Флеш",
+    "en": "Flash"
+  },
+  "PERK_HNS_FLASH_LORE": {
+    "ru": [
+      "",
+      "§7После выхода из режима полной маскировки, Вы",
+      "§7получите эффект скорости III на 10 секунд"
+    ],
+    "ua": [
+      "",
+      "§7Після виходу з режиму повного маскування, ви",
+      "§7отримаєте ефект швидкості III на 10 секунд"
+    ],
+    "en": [
+      "",
+      "§7After exiting the full disguise mode, you",
+      "§7will gain Speed III effect for 10 seconds"
+    ]
+  },
+  "PERK_HNS_HEAD_HUNTER": {
+    "ru": "Охотник за головами",
+    "ua": "Мисливець за головами",
+    "en": "Head hunter"
+  },
+  "PERK_HNS_HEAD_HUNTER_LORE": {
+    "ru": [
+      "",
+      "§7Убив искателя, Вы полностью восстановите свое",
+      "§7здоровье и получите эффект сопротивления урону II",
+      "§7длительностью на 60 секунд"
+    ],
+    "ua": [
+      "",
+      "§7Убивши шукача, ви повністю відновите своє",
+      "§7здоров'я і отримаєте ефект опору шкоді II",
+      "§7на 60 секунд"
+    ],
+    "en": [
+      "",
+      "§7By killing the seeker, you will completely restore your",
+      "§7health and get Damage Resistance II",
+      "§7for 60 seconds"
+    ]
+  },
+  "PERK_HNS_IMPATIENT": {
+    "ru": "Нетерпеливый",
+    "ua": "Нетерплячий",
+    "en": "Impatient"
+  },
+  "PERK_HNS_IMPATIENT_LORE": {
+    "ru": [
+      "",
+      "§7Время до полной маскировки",
+      "§7снижено до 2 секунд"
+    ],
+    "ua": [
+      "",
+      "§7Час до повного маскування",
+      "§7понижено до 2 секунд"
+    ],
+    "en": [
+      "",
+      "§7Time till full disguise",
+      "§7is reduced to 2 seconds"
+    ]
+  },
+  "PERK_HNS_LAST_HOPE": {
+    "ru": "Последняя надежда",
+    "ua": "Остання надія",
+    "en": "Last hope"
+  },
+  "PERK_HNS_LAST_HOPE_LORE": {
+    "ru": [
+      "",
+      "§7Если на арене остается 3 или менее прячущихся",
+      "§7Вы получите постоянные эффекты силы, регенерация",
+      "§7и сопротивления урону первого уровня"
+    ],
+    "ua": [
+      "",
+      "§7Якщо на арені залишається троє або менше тих, хто ховається,",
+      "§7ви отримаєте постійні ефекти сили, регенерація",
+      "§7і опору шкоді першого рівня"
+    ],
+    "en": [
+      "",
+      "§7If there are 3 or less hiding players in the arena,",
+      "§7You will get permanent Strength, Regeneration",
+      "§7and Resistance I"
+    ]
+  },
+  "PERK_HNS_MASK_MASTER": {
+    "ru": "Мастер маскировки",
+    "ua": "Майстер маскування",
+    "en": "Disguise master"
+  },
+  "PERK_HNS_MASK_MASTER_LORE": {
+    "ru": [
+      "",
+      "§7Пока Вы будете замаскированы как блок,",
+      "§7Вы получите постоянный эффект силы II"
+    ],
+    "ua": [
+      "",
+      "§7Поки ви будете замасковані як блок,",
+      "§7ви отримаєте постійний ефект сили II"
+    ],
+    "en": [
+      "",
+      "§7As long as you're disguised as a block,",
+      "§7you will gain permanent Strength II"
+    ]
+  },
+  "PERK_HNS_MATRIX": {
+    "ru": "Матрица",
+    "ua": "Матриця",
+    "en": "Matrix"
+  },
+  "PERK_HNS_MATRIX_LORE": {
+    "ru": [
+      "",
+      "§7Вы не получаете урона с шансом 33%"
+    ],
+    "ua": [
+      "",
+      "§7Ви не отримуєте шкоди з шансом 33%"
+    ],
+    "en": [
+      "",
+      "§7With 33% chance you don't get damage"
+    ]
+  },
+  "PERK_HNS_OCTOPUS": {
+    "ru": "Спрут",
+    "ua": "Спрут",
+    "en": "Octopus"
+  },
+  "PERK_HNS_OCTOPUS_LORE": {
+    "ru": [
+      "",
+      "§7При ударе искателя из режима полной маскировки,",
+      "§7тот получит эффект слепоты на 3 секунды",
+      "§7и слабости на 4 секунды"
+    ],
+    "ua": [
+      "",
+      "§7При ударі шукача з режиму повного маскування,",
+      "§7той отримає ефект сліпоти на 3 секунди",
+      "§7і слабкості на 4 секунди"
+    ],
+    "en": [
+      "",
+      "§7When hitting the seeker from full disguise mode,",
+      "§7they will receive Blindness for 3 seconds",
+      "§7and Weakness for 4 seconds"
+    ]
+  },
+  "PERK_HNS_POLTERGEIST": {
+    "ru": "Полтергейст",
+    "ua": "Полтергейст",
+    "en": "Poltergeist"
+  },
+  "PERK_HNS_POLTERGEIST_LORE": {
+    "ru": [
+      "",
+      "§7При выходе из режима маскировки вы получаете",
+      "§7полную невидимость на 2 секунды",
+      "§7Эффект полной невидимости выдается",
+      "§7только когда вас нашёл искатель,",
+      "§7а не при любом выходе из маскировки"
+    ],
+    "ua": [
+      "",
+      "§7При виході з режиму маскування ви отримуєте",
+      "§7повну невидимість на 2 секунди",
+      "§7Ефект повної невидимості видається",
+      "§7тільки коли вас знайшов шукач,",
+      "§7а не при будь-якому виході з маскування"
+    ],
+    "en": [
+      "",
+      "§7When you exit disguise mode, you get",
+      "§7complete invisibility for 2 seconds",
+      "§7Full invisibility effect is issued",
+      "§7only when a seeker found you,",
+      "§7and not at any exit from disguise"
+    ]
+  },
+  "PERK_HNS_SMOKE_SCREEN": {
+    "ru": "Дымовая завеса",
+    "ua": "Димова завіса",
+    "en": "Smoke screen"
+  },
+  "PERK_HNS_SMOKE_SCREEN_LORE": {
+    "ru": [
+      "",
+      "§7Если Вашу маскировку разоблачат, Вы",
+      "§7получите полную невидимость на 3 секунды,",
+      "§7а все искатели в радиусе 7 блоков",
+      "§7от вас получат слепоту"
+    ],
+    "ua": [
+      "",
+      "§7Якщо ваше маскування викриють, ви",
+      "§7отримаєте повну невидимість на 3 секунди,",
+      "§7а всі шукачі в радіусі 7 блоків",
+      "§7від вас отримають сліпоту"
+    ],
+    "en": [
+      "",
+      "§7If your disguise is exposed, you",
+      "§7get full invisibility for 3 seconds,",
+      "§7and all searchers within a radius of 7 blocks",
+      "§7from you will get Blindness"
+    ]
+  },
+  "PERK_HNS_UNDERGROUND_SCIENTIST": {
+    "ru": "Подпольный учёный",
+    "ua": "Підпільний учений",
+    "en": "Underground scientist"
+  },
+  "PERK_HNS_UNDERGROUND_SCIENTIST_LORE": {
+    "ru": [
+      "",
+      "§7В начале игры Вам выдаётся",
+      "§7зелье моментального урона II",
+      "§7После использования зелья,",
+      "§7оно вернётся через минуту",
+      "§7За убийство игрока зелье",
+      "§7возвращается мгновенно"
+    ],
+    "ua": [
+      "",
+      "§7На початку гри вам видається",
+      "§7зелье моментального урона II",
+      "§7Після використання зілля,",
+      "§7воно повернеться через хвилину",
+      "§7За вбивство гравця зілля",
+      "§7повертається миттєво"
+    ],
+    "en": [
+      "",
+      "§7At the beginning of the game you are given",
+      "§7an instant damage Potion II",
+      "§7After using the potion,",
+      "§7it will be back in a minute",
+      "§7Potion for killing a player",
+      "§7returns instantly"
+    ]
+  },
+  "PERK_HNS_VINDICTIVE": {
+    "ru": "Злопамятный",
+    "ua": "Злопам'ятний",
+    "en": "Vindictive"
+  },
+  "PERK_HNS_VINDICTIVE_LORE": {
+    "ru": [
+      "",
+      "§7После смерти очередного прячущегося",
+      "§7Вы получите эффект силы I на 30 секунд",
+      "§7После смерти любого искателя",
+      "§7выдаётся Сила II на 10 секунд"
+    ],
+    "ua": [
+      "",
+      "§7Після смерті того, хто ховається,",
+      "§7ви отримаєте ефект сили I на 30 секунд",
+      "§7Після смерті будь-якого шукача",
+      "§7видається Сила II на 10 секунд"
+    ],
+    "en": [
+      "",
+      "§7After the death of another hiding player,",
+      "§7you'll get Strength I for 30 seconds",
+      "§7After the death of any seeker",
+      "§7you'll het Strength II for 10 seconds"
+    ]
+  },
+  "SEEKER_ROLE_SUBTITLE": {
+    "ru": "§7Найдите и убейте всех прячущихся",
+    "ua": "§7Знайдіть і убийте всіх тих, хто ховаються",
+    "en": "§7Find and kill all the hiding"
+  },
+  "SEEKER_ROLE_TITLE": {
+    "ru": "§cВы искатель",
+    "ua": "§cВи шукач",
+    "en": "§cYou are a seeker"
+  },
+  "WIN_HIDERS_SUB_TITLE": {
+    "ru": "§7Искатели не успели найти всех",
+    "ua": "§7Шукачі не втсигли знайти всіх",
+    "en": "§7Seekers didn't manage to find everybody"
+  },
+  "WIN_HIDERS_TITLE": {
+    "ru": "§bПобедили прячущиеся",
+    "ua": "§bПеремогли ті, що ховаються",
+    "en": "§bThe hiding won"
+  },
+  "WIN_SEEKERS_SUB_TITLE": {
+    "ru": "§7Всех прячущихся нашли",
+    "ua": "§7Знайшли усіх, хто ховається",
+    "en": "§7Every hider was found"
+  },
+  "WIN_SEEKERS_TITLE": {
+    "ru": "§cПобедили искатели",
+    "ua": "§cПеремогли шукачі",
+    "en": "§cThe seekers won"
+  }
 }

@@ -1,27 +1,27 @@
 {
-    "SG_GAME_STARTED_SUBTITLE": {
-        "ru": "§7Станьте последним выжившим!",
-        "ua": "§7Залиштесь останнім, хто вижив!",
-        "en": "§7Be the last survivor!"
-    },
-    "SG_YOUR_TEAMMATE_IS_AT_LOW_HP": {
-        "ru": "§cУ вашего тиммейта очень мало здоровья!",
-        "ua": "§cУ вашого тіммейта дуже мало здоров'я!",
-        "en": "§cYour teammate has very little health!"
-    },
-    "SG_YOUR_TEAMMATE_IS_DEAD": {
-        "ru": "§cВаш тиммейт погиб",
-        "ua": "§cВаш тіммейт загинув",
-        "en": "§cYour teammate is dead"
-    },
-    "SG_YOU_CAN_REVIVE_SUBTITLE": {
-        "ru": "§7Ваш тиммейт может возродить Вас в течении 30 секунд",
-        "ua": "§7Ваш тіммейт може відродити вас протягом 30 секунд",
-        "en": "§7Your teammate can revive you within 30 seconds"
-    },
-    "SG_YOU_CAN_REVIVE_TITLE": {
-        "ru": "§cВы мертвы",
-        "ua": "§cВи мертві",
-        "en": "§cYou are dead"
-    }
+  "SG_GAME_STARTED_SUBTITLE": {
+    "ru": "§7Станьте последним выжившим!",
+    "ua": "§7Залиштесь останнім, хто вижив!",
+    "en": "§7Be the last survivor!"
+  },
+  "SG_YOUR_TEAMMATE_IS_AT_LOW_HP": {
+    "ru": "§cУ вашего тиммейта очень мало здоровья!",
+    "ua": "§cУ вашого тіммейта дуже мало здоров'я!",
+    "en": "§cYour teammate has very little health!"
+  },
+  "SG_YOUR_TEAMMATE_IS_DEAD": {
+    "ru": "§cВаш тиммейт погиб",
+    "ua": "§cВаш тіммейт загинув",
+    "en": "§cYour teammate is dead"
+  },
+  "SG_YOU_CAN_REVIVE_SUBTITLE": {
+    "ru": "§7Ваш тиммейт может возродить Вас в течении 30 секунд",
+    "ua": "§7Ваш тіммейт може відродити вас протягом 30 секунд",
+    "en": "§7Your teammate can revive you within 30 seconds"
+  },
+  "SG_YOU_CAN_REVIVE_TITLE": {
+    "ru": "§cВы мертвы",
+    "ua": "§cВи мертві",
+    "en": "§cYou are dead"
+  }
 }

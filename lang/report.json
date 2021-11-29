@@ -1,285 +1,285 @@
 {
-    "REPORT_ACCEPT_FORMAT": {
-        "ru": "/report accept <ник> <id причины>",
-        "ua": "/report accept <нік> <id причини>",
-        "en": "/report accept <nickname> <reasons id>"
-    },
-    "REPORT_ALLOW_USAGE": {
-        "ru": "/report allow <минимальная группа>",
-        "ua": "/report allow <мінімальна група>",
-        "en": "/report allow <minimal group>"
-    },
-    "REPORT_ALREADY_SENT": {
-        "ru": "§cВы уже отправляли жалобу на этого игрока",
-        "ua": "§cВи вже відправляли скаргу на цього гравця",
-        "en": "§cYou have already submitted a complaint about this player."
-    },
-    "REPORT_BROADCAST_PLAYER_GUILTY": {
-        "ru": "§cМодерация §8| §7%s §7посчитал, что §e%s §f- §cвиновен",
-        "ua": "§cМодерація §8| §7%s §7думає, що §e%s §f- §cвинен",
-        "en": "§cModeration §8| §7%s §7supposed that §e%s §f- §cis guilty"
-    },
-    "REPORT_BROADCAST_PLAYER_INNOCENT": {
-        "ru": "§cМодерация §8| §7%s §7посчитал, что §e%s §f- §aневиновен",
-        "ua": "§cМодерація §8| §7%s §7думає, що §e%s §f- §aневинний",
-        "en": "§cModeration §8| §7%s §7supposed that §e%s §f- §ais innocent"
-    },
-    "REPORT_GUI_ACTION": {
-        "ru": "Выбор действия",
-        "ua": "Вибір дії",
-        "en": "Choose action"
-    },
-    "REPORT_GUI_ACTION_GUILTY": {
-        "ru": "§cИгрок виновен",
-        "ua": "§cГравець винен",
-        "en": "§cPlayer is guilty"
-    },
-    "REPORT_GUI_ACTION_GUILTY_LORE": {
-        "ru": [
-            "",
-            "§7Игрок не получит наказания. Все",
-            "§7отправители жалоб получат оповещение",
-            "§7о том, что он виновен.",
-            "",
-            "§e▸ Нажмите, чтобы одобрить жалобу"
-        ],
-        "ua": [
-            "",
-            "§7Гравець не отримає покарання. Усі",
-            "§7відправніки скарг отримають сповіщення",
-            "§7про те, що він винен.",
-            "",
-            "§e▸ Натисніть, щоб схвалити скаргу"
-        ],
-        "en": [
-            "",
-            "§7The player will not receive a penalty. All",
-            "§7submitters of complaints will be notified",
-            "§7that the player is guilty.",
-            "",
-            "§e▸ Click to approve the complaint"
-        ]
-    },
-    "REPORT_GUI_ACTION_INNOCENT": {
-        "ru": "§aИгрок невиновен",
-        "ua": "§aГравець невинний",
-        "en": "§aPlayer is innocent"
-    },
-    "REPORT_GUI_ACTION_INNOCENT_LORE": {
-        "ru": [
-            "",
-            "§e▸ Нажмите, чтобы отклонить жалобу"
-        ],
-        "ua": [
-            "",
-            "§e▸ Натисніть, щоб відхилити скаргу"
-        ],
-        "en": [
-            "",
-            "§e▸ Click to dismiss the complaint"
-        ]
-    },
-    "REPORT_GUI_ITEM_GAME_STATE": {
-        "ru": "§7Стадия игры: §a%s",
-        "ua": "§7Стадія гри: §a%s",
-        "en": "§7Game stage: §a%s"
-    },
-    "REPORT_GUI_ITEM_NAME": {
-        "ru": "§eЖалоба на %s",
-        "ua": "§eСкарга на %s",
-        "en": "§eComplaint against %s"
-    },
-    "REPORT_GUI_ITEM_SERVER": {
-        "ru": "§7Сервер: §a%s",
-        "ua": "§7Сервер: §a%s",
-        "en": "§7Server: §a%s"
-    },
-    "REPORT_GUI_ITEM_VERSION": {
-        "ru": "§7Версия: §a%s",
-        "ua": "§7Версія: §a%s",
-        "en": "§7Version: §a%s"
-    },
-    "REPORT_GUI_LAST_REPORT": {
-        "ru": "§e%s назад",
-        "ua": "§e%s тому",
-        "en": "§e%s ago"
-    },
-    "REPORT_GUI_LAST_REPORT_TITLE": {
-        "ru": "§7Последняя жалоба:",
-        "ua": "§7Остання скарга:",
-        "en": "§7Last complaint:"
-    },
-    "REPORT_GUI_MAIN": {
-        "ru": "Список жалоб",
-        "ua": "Список скарг",
-        "en": "Complaint list"
-    },
-    "REPORT_GUI_MAIN_LORE": {
-        "ru": [
-            "",
-            "§fВсего жалоб: §e%s"
-        ],
-        "ua": [
-            "",
-            "§fВсього скарг: §e%s"
-        ],
-        "en": [
-            "",
-            "§fTotal complaints: §e%s"
-        ]
-    },
-    "REPORT_GUI_SENDERS_TITLE": {
-        "ru": "§7Список пожаловавшихся:",
-        "ua": "§7Список тих, що поскаржилися:",
-        "en": "§7List of Complainants:"
-    },
-    "REPORT_GUI_SPECTATORS_TITLE": {
-        "ru": "§7Список следящих:",
-        "ua": "§7Список тих, що стежать:",
-        "en": "§7Spectators list:"
-    },
-    "REPORT_GUI_TOTAL_REPORTS": {
-        "ru": "§7Всего жалоб: §c%s",
-        "ua": "§7Всього скарг: §c%s",
-        "en": "§7Total complaints: §c%s"
-    },
-    "REPORT_GUI_TP_TITLE": {
-        "ru": [
-            "§e▸ ЛКМ, чтобы начать следить за игроком",
-            "§e▸ ПКМ, чтобы отклонить жалобу"
-        ],
-        "ua": [
-            "§e▸ ЛКМ, щоб почати стежити за гравцем",
-            "§e▸ ПКМ, щоб відхилити скаргу"
-        ],
-        "en": [
-            "§e▸ LMC to start observing the player",
-            "§e▸ RMC to dismiss the complaint"
-        ]
-    },
-    "REPORT_HELP": {
-        "ru": [
-            "§7/report list §f- список жалоб",
-            "§7/report info <ник> §f- информация о жалобе",
-            "§7/report accept <ник> <id причины> §f- принятие жалобы и бан игрока",
-            "§7/report decline <ник> §f- отказ в жалобе"
-        ],
-        "ua": [
-            "§7/report list §f- список скарг",
-            "§7/report info <нік> §f- інформація про скаргу",
-            "§7/report accept <нік> <id причини> §f-прийняття скарги і бан гравця",
-            "§7/report decline <нік> §f- відмова в скарзі"
-        ],
-        "en": [
-            "§7/report list §f- complaints list",
-            "§7/report info <nickname> §f- information about the complaint",
-            "§7/report accept <nickname> <id reasons> §f- acceptance of the complaint and the player's ban",
-            "§7/report decline <nickname> §f- complaint dismissal"
-        ]
-    },
-    "REPORT_INFO_MESSAGES": {
-        "ru": [
-            "§6Жалобы §8| §fИнформация об игроке §e%s:",
-            " - §fЖаловались: §a%s",
-            " - §fСейчас следят: §a%s",
-            " - §fПоследняя жалоба: §a%s назад"
-        ],
-        "ua": [
-            "§6Скарги §8| §fІнформація про гравця §e%s:",
-            " - §fСкаржились: §a%s",
-            " - §fЗараз слідкують: §a%s",
-            " - §fОстання скарга: §a%s тому"
-        ],
-        "en": [
-            "§6Complaints §8| §fPlayer information §e%s:",
-            " - §fComplained: §a%s",
-            " - §fNow observing: §a%s",
-            " - §fLast complain: §a%s ago"
-        ]
-    },
-    "REPORT_INVALID_GROUP_TO_USE": {
-        "ru": "§cОшибка, минимальная группа для использования не может быть ниже, чем §2§lJUNIOR",
-        "ua": "§cПомилка, мінімальна група для використання не може бути нижче, ніж §2§lJUNIOR",
-        "en": "§cError, the minimum group to use cannot be lower than §2§lJUNIOR"
-    },
-    "REPORT_INVALID_REASON": {
-        "ru": "§cНеверный id причины",
-        "ua": "§cНеправильний id причини",
-        "en": "§cInvalid reason id"
-    },
-    "REPORT_ITS_YOU": {
-        "ru": "§cВы не можете отправить жалобу на самого себя",
-        "ua": "§cВи не можете відправити скаргу на самого себе",
-        "en": "§cYou cannot file a complaint against yourself"
-    },
-    "REPORT_MINIMAL_GROUP_CHANGED": {
-        "ru": "§aВы изменили минимальную группу для просмотра жалоб на %s",
-        "ua": "§aВи змінили мінімальну групу для перегляду скарг на %s",
-        "en": "§aYou have changed the minimum group for viewing complaints to %s"
-    },
-    "REPORT_NO_PERM_FOR_ACTIONS": {
-        "ru": "§cЖалобы §8| §fПринимать решения по жалобам могут только модераторы и выше.",
-        "ua": "§cСкарги §8| §fПриймати рішення по скаргах можуть тільки модератори і вище.",
-        "en": "§cComplaints §8| §fOnly moderators and higher can make decisions on complaints."
-    },
-    "REPORT_NO_REPORT": {
-        "ru": "§cЖалоб нет",
-        "ua": "§cСкарг немає",
-        "en": "§cNo complaints"
-    },
-    "REPORT_NO_REPORT_PLAYER": {
-        "ru": "§cНа этого игрока не поступало жалоб",
-        "ua": "§cНа цього гравця не надходило скарг",
-        "en": "§cThere have been no complaints about this player."
-    },
-    "REPORT_PLAYER_GUILTY": {
-        "ru": "§cЖалобы §8| §e%s §fрассмотрел Вашу жалобу на игрока §e%s §fи одобрил её. Спасибо за содействие в поимке!",
-        "ua": "§cСкарги §8| §e%s §fрозглянув вашу скаргу на гравця §e%s §fі схвалив її. Дякуємо за сприяння в затриманні!",
-        "en": "§cComplaints §8| §e%s §freviewed your complaint about the player §e%s §fand approved it. Thank you for your assistance in capturing!"
-    },
-    "REPORT_PLAYER_INNOCENT": {
-        "ru": "§cЖалобы §8| §e%s §fотклонил Вашу жалобу на игрока §e%s",
-        "ua": "§cСкарги §8| §e%s §fвідхилив вашу скаргу на гравця §e%s",
-        "en": "§cComplaints §8| §e%s §frejected your player complaint §e%s"
-    },
-    "REPORT_PLAYER_IS_STAFF": {
-        "ru": "§cВы не можете отправить жалобу на персонал проекта",
-        "ua": "§cВи не можете відправити скаргу на персонал проекту",
-        "en": "§cYou cannot send a complaint against the project staff"
-    },
-    "REPORT_PLAYER_PUNISHED": {
-        "ru": "§cЖалобы §8| §fИгрок %s§f, на которого Вы подавали жалобу был наказан. Спасибо за содействие в поимке!",
-        "ua": "§cСкарги §8| §fГравець %s§f, на якого Ви подавали скаргу був покараний. Дякуємо за сприяння в затриманні!",
-        "en": "§cComplaints §8| §fPlayer %s§f you filed a complaint against has been punished. Thank you for your assistance in capturing!"
-    },
-    "REPORT_PLAYER_STARTED_SPECTATE": {
-        "ru": "§cМодерация §8| §7%s §7отправился следить за §7%s",
-        "ua": "§cМодерація §8| §7%s §7відправився стежити за §7%s",
-        "en": "§cModeration §8| §7%s §7went to observe §7%s"
-    },
-    "REPORT_SENT_FIRST": {
-        "ru": "§cЖалобы §8| §fЖалоба отправлена. Чтобы ее рассмотрели модераторы необходимо, чтобы еще один человек подал жалобу на игрока",
-        "ua": "§cСкарги §8| §fСкарга відправлена. Щоб її розглянули модератори необхідно, щоб ще одна людина подала скаргу на гравця",
-        "en": "§cComplaints §8| §fThe complaint has been sent. To be reviewed by moderators it is necessary for another person to file a complaint against the player"
-    },
-    "REPORT_SENT_NOT_FIRST": {
-        "ru": "§cЖалобы §8| §fЖалоба отправлена. Вы не первый, кто жаловался на этого игрока, наши §9модераторы§f были оповещены",
-        "ua": "§cСкарги §8| §fСкаргу надіслано. Ви не перший, хто скаржився на цього гравця, наші §9модератори§f були оповіщені",
-        "en": "§cComplaints §8| §fThe complaint has been sent. You are not the first one to complain on this player, our §9moderators§f have been notified"
-    },
-    "REPORT_UNKNOWN_REASON": {
-        "ru": "Неизвестная причина",
-        "ua": "Невідома причина",
-        "en": "Reason unknown"
-    },
-    "REPORT_USAGE": {
-        "ru": "/report <ник> <причина>",
-        "ua": "/report <нік> <причина>",
-        "en": "/report <nickname> <reason>"
-    },
-    "TOO_MANY_REPORTS": {
-        "ru": "§cЖалобы §8| §fНа игрока %s §fпоступило уже §c%s §fжалоб(ы)",
-        "ua": "§cСкарги §8| §fНа гравця %s §fнадійшло вже §c%s §fскарг(и)",
-        "en": "§cComplaints §8| §fPlayer %s §fhas already received §c%s §fcomplain(s)"
-    }
+  "REPORT_ACCEPT_FORMAT": {
+    "ru": "/report accept <ник> <id причины>",
+    "ua": "/report accept <нік> <id причини>",
+    "en": "/report accept <nickname> <reasons id>"
+  },
+  "REPORT_ALLOW_USAGE": {
+    "ru": "/report allow <минимальная группа>",
+    "ua": "/report allow <мінімальна група>",
+    "en": "/report allow <minimal group>"
+  },
+  "REPORT_ALREADY_SENT": {
+    "ru": "§cВы уже отправляли жалобу на этого игрока",
+    "ua": "§cВи вже відправляли скаргу на цього гравця",
+    "en": "§cYou have already submitted a complaint about this player."
+  },
+  "REPORT_BROADCAST_PLAYER_GUILTY": {
+    "ru": "§cМодерация §8| §7%s §7посчитал, что §e%s §f- §cвиновен",
+    "ua": "§cМодерація §8| §7%s §7думає, що §e%s §f- §cвинен",
+    "en": "§cModeration §8| §7%s §7supposed that §e%s §f- §cis guilty"
+  },
+  "REPORT_BROADCAST_PLAYER_INNOCENT": {
+    "ru": "§cМодерация §8| §7%s §7посчитал, что §e%s §f- §aневиновен",
+    "ua": "§cМодерація §8| §7%s §7думає, що §e%s §f- §aневинний",
+    "en": "§cModeration §8| §7%s §7supposed that §e%s §f- §ais innocent"
+  },
+  "REPORT_GUI_ACTION": {
+    "ru": "Выбор действия",
+    "ua": "Вибір дії",
+    "en": "Choose action"
+  },
+  "REPORT_GUI_ACTION_GUILTY": {
+    "ru": "§cИгрок виновен",
+    "ua": "§cГравець винен",
+    "en": "§cPlayer is guilty"
+  },
+  "REPORT_GUI_ACTION_GUILTY_LORE": {
+    "ru": [
+      "",
+      "§7Игрок не получит наказания. Все",
+      "§7отправители жалоб получат оповещение",
+      "§7о том, что он виновен.",
+      "",
+      "§e▸ Нажмите, чтобы одобрить жалобу"
+    ],
+    "ua": [
+      "",
+      "§7Гравець не отримає покарання. Усі",
+      "§7відправніки скарг отримають сповіщення",
+      "§7про те, що він винен.",
+      "",
+      "§e▸ Натисніть, щоб схвалити скаргу"
+    ],
+    "en": [
+      "",
+      "§7The player will not receive a penalty. All",
+      "§7submitters of complaints will be notified",
+      "§7that the player is guilty.",
+      "",
+      "§e▸ Click to approve the complaint"
+    ]
+  },
+  "REPORT_GUI_ACTION_INNOCENT": {
+    "ru": "§aИгрок невиновен",
+    "ua": "§aГравець невинний",
+    "en": "§aPlayer is innocent"
+  },
+  "REPORT_GUI_ACTION_INNOCENT_LORE": {
+    "ru": [
+      "",
+      "§e▸ Нажмите, чтобы отклонить жалобу"
+    ],
+    "ua": [
+      "",
+      "§e▸ Натисніть, щоб відхилити скаргу"
+    ],
+    "en": [
+      "",
+      "§e▸ Click to dismiss the complaint"
+    ]
+  },
+  "REPORT_GUI_ITEM_GAME_STATE": {
+    "ru": "§7Стадия игры: §a%s",
+    "ua": "§7Стадія гри: §a%s",
+    "en": "§7Game stage: §a%s"
+  },
+  "REPORT_GUI_ITEM_NAME": {
+    "ru": "§eЖалоба на %s",
+    "ua": "§eСкарга на %s",
+    "en": "§eComplaint against %s"
+  },
+  "REPORT_GUI_ITEM_SERVER": {
+    "ru": "§7Сервер: §a%s",
+    "ua": "§7Сервер: §a%s",
+    "en": "§7Server: §a%s"
+  },
+  "REPORT_GUI_ITEM_VERSION": {
+    "ru": "§7Версия: §a%s",
+    "ua": "§7Версія: §a%s",
+    "en": "§7Version: §a%s"
+  },
+  "REPORT_GUI_LAST_REPORT": {
+    "ru": "§e%s назад",
+    "ua": "§e%s тому",
+    "en": "§e%s ago"
+  },
+  "REPORT_GUI_LAST_REPORT_TITLE": {
+    "ru": "§7Последняя жалоба:",
+    "ua": "§7Остання скарга:",
+    "en": "§7Last complaint:"
+  },
+  "REPORT_GUI_MAIN": {
+    "ru": "Список жалоб",
+    "ua": "Список скарг",
+    "en": "Complaint list"
+  },
+  "REPORT_GUI_MAIN_LORE": {
+    "ru": [
+      "",
+      "§fВсего жалоб: §e%s"
+    ],
+    "ua": [
+      "",
+      "§fВсього скарг: §e%s"
+    ],
+    "en": [
+      "",
+      "§fTotal complaints: §e%s"
+    ]
+  },
+  "REPORT_GUI_SENDERS_TITLE": {
+    "ru": "§7Список пожаловавшихся:",
+    "ua": "§7Список тих, що поскаржилися:",
+    "en": "§7List of Complainants:"
+  },
+  "REPORT_GUI_SPECTATORS_TITLE": {
+    "ru": "§7Список следящих:",
+    "ua": "§7Список тих, що стежать:",
+    "en": "§7Spectators list:"
+  },
+  "REPORT_GUI_TOTAL_REPORTS": {
+    "ru": "§7Всего жалоб: §c%s",
+    "ua": "§7Всього скарг: §c%s",
+    "en": "§7Total complaints: §c%s"
+  },
+  "REPORT_GUI_TP_TITLE": {
+    "ru": [
+      "§e▸ ЛКМ, чтобы начать следить за игроком",
+      "§e▸ ПКМ, чтобы отклонить жалобу"
+    ],
+    "ua": [
+      "§e▸ ЛКМ, щоб почати стежити за гравцем",
+      "§e▸ ПКМ, щоб відхилити скаргу"
+    ],
+    "en": [
+      "§e▸ LMC to start observing the player",
+      "§e▸ RMC to dismiss the complaint"
+    ]
+  },
+  "REPORT_HELP": {
+    "ru": [
+      "§7/report list §f- список жалоб",
+      "§7/report info <ник> §f- информация о жалобе",
+      "§7/report accept <ник> <id причины> §f- принятие жалобы и бан игрока",
+      "§7/report decline <ник> §f- отказ в жалобе"
+    ],
+    "ua": [
+      "§7/report list §f- список скарг",
+      "§7/report info <нік> §f- інформація про скаргу",
+      "§7/report accept <нік> <id причини> §f-прийняття скарги і бан гравця",
+      "§7/report decline <нік> §f- відмова в скарзі"
+    ],
+    "en": [
+      "§7/report list §f- complaints list",
+      "§7/report info <nickname> §f- information about the complaint",
+      "§7/report accept <nickname> <id reasons> §f- acceptance of the complaint and the player's ban",
+      "§7/report decline <nickname> §f- complaint dismissal"
+    ]
+  },
+  "REPORT_INFO_MESSAGES": {
+    "ru": [
+      "§6Жалобы §8| §fИнформация об игроке §e%s:",
+      " - §fЖаловались: §a%s",
+      " - §fСейчас следят: §a%s",
+      " - §fПоследняя жалоба: §a%s назад"
+    ],
+    "ua": [
+      "§6Скарги §8| §fІнформація про гравця §e%s:",
+      " - §fСкаржились: §a%s",
+      " - §fЗараз слідкують: §a%s",
+      " - §fОстання скарга: §a%s тому"
+    ],
+    "en": [
+      "§6Complaints §8| §fPlayer information §e%s:",
+      " - §fComplained: §a%s",
+      " - §fNow observing: §a%s",
+      " - §fLast complain: §a%s ago"
+    ]
+  },
+  "REPORT_INVALID_GROUP_TO_USE": {
+    "ru": "§cОшибка, минимальная группа для использования не может быть ниже, чем §2§lJUNIOR",
+    "ua": "§cПомилка, мінімальна група для використання не може бути нижче, ніж §2§lJUNIOR",
+    "en": "§cError, the minimum group to use cannot be lower than §2§lJUNIOR"
+  },
+  "REPORT_INVALID_REASON": {
+    "ru": "§cНеверный id причины",
+    "ua": "§cНеправильний id причини",
+    "en": "§cInvalid reason id"
+  },
+  "REPORT_ITS_YOU": {
+    "ru": "§cВы не можете отправить жалобу на самого себя",
+    "ua": "§cВи не можете відправити скаргу на самого себе",
+    "en": "§cYou cannot file a complaint against yourself"
+  },
+  "REPORT_MINIMAL_GROUP_CHANGED": {
+    "ru": "§aВы изменили минимальную группу для просмотра жалоб на %s",
+    "ua": "§aВи змінили мінімальну групу для перегляду скарг на %s",
+    "en": "§aYou have changed the minimum group for viewing complaints to %s"
+  },
+  "REPORT_NO_PERM_FOR_ACTIONS": {
+    "ru": "§cЖалобы §8| §fПринимать решения по жалобам могут только модераторы и выше.",
+    "ua": "§cСкарги §8| §fПриймати рішення по скаргах можуть тільки модератори і вище.",
+    "en": "§cComplaints §8| §fOnly moderators and higher can make decisions on complaints."
+  },
+  "REPORT_NO_REPORT": {
+    "ru": "§cЖалоб нет",
+    "ua": "§cСкарг немає",
+    "en": "§cNo complaints"
+  },
+  "REPORT_NO_REPORT_PLAYER": {
+    "ru": "§cНа этого игрока не поступало жалоб",
+    "ua": "§cНа цього гравця не надходило скарг",
+    "en": "§cThere have been no complaints about this player."
+  },
+  "REPORT_PLAYER_GUILTY": {
+    "ru": "§cЖалобы §8| §e%s §fрассмотрел Вашу жалобу на игрока §e%s §fи одобрил её. Спасибо за содействие в поимке!",
+    "ua": "§cСкарги §8| §e%s §fрозглянув вашу скаргу на гравця §e%s §fі схвалив її. Дякуємо за сприяння в затриманні!",
+    "en": "§cComplaints §8| §e%s §freviewed your complaint about the player §e%s §fand approved it. Thank you for your assistance in capturing!"
+  },
+  "REPORT_PLAYER_INNOCENT": {
+    "ru": "§cЖалобы §8| §e%s §fотклонил Вашу жалобу на игрока §e%s",
+    "ua": "§cСкарги §8| §e%s §fвідхилив вашу скаргу на гравця §e%s",
+    "en": "§cComplaints §8| §e%s §frejected your player complaint §e%s"
+  },
+  "REPORT_PLAYER_IS_STAFF": {
+    "ru": "§cВы не можете отправить жалобу на персонал проекта",
+    "ua": "§cВи не можете відправити скаргу на персонал проекту",
+    "en": "§cYou cannot send a complaint against the project staff"
+  },
+  "REPORT_PLAYER_PUNISHED": {
+    "ru": "§cЖалобы §8| §fИгрок %s§f, на которого Вы подавали жалобу был наказан. Спасибо за содействие в поимке!",
+    "ua": "§cСкарги §8| §fГравець %s§f, на якого Ви подавали скаргу був покараний. Дякуємо за сприяння в затриманні!",
+    "en": "§cComplaints §8| §fPlayer %s§f you filed a complaint against has been punished. Thank you for your assistance in capturing!"
+  },
+  "REPORT_PLAYER_STARTED_SPECTATE": {
+    "ru": "§cМодерация §8| §7%s §7отправился следить за §7%s",
+    "ua": "§cМодерація §8| §7%s §7відправився стежити за §7%s",
+    "en": "§cModeration §8| §7%s §7went to observe §7%s"
+  },
+  "REPORT_SENT_FIRST": {
+    "ru": "§cЖалобы §8| §fЖалоба отправлена. Чтобы ее рассмотрели модераторы необходимо, чтобы еще один человек подал жалобу на игрока",
+    "ua": "§cСкарги §8| §fСкарга відправлена. Щоб її розглянули модератори необхідно, щоб ще одна людина подала скаргу на гравця",
+    "en": "§cComplaints §8| §fThe complaint has been sent. To be reviewed by moderators it is necessary for another person to file a complaint against the player"
+  },
+  "REPORT_SENT_NOT_FIRST": {
+    "ru": "§cЖалобы §8| §fЖалоба отправлена. Вы не первый, кто жаловался на этого игрока, наши §9модераторы§f были оповещены",
+    "ua": "§cСкарги §8| §fСкаргу надіслано. Ви не перший, хто скаржився на цього гравця, наші §9модератори§f були оповіщені",
+    "en": "§cComplaints §8| §fThe complaint has been sent. You are not the first one to complain on this player, our §9moderators§f have been notified"
+  },
+  "REPORT_UNKNOWN_REASON": {
+    "ru": "Неизвестная причина",
+    "ua": "Невідома причина",
+    "en": "Reason unknown"
+  },
+  "REPORT_USAGE": {
+    "ru": "/report <ник> <причина>",
+    "ua": "/report <нік> <причина>",
+    "en": "/report <nickname> <reason>"
+  },
+  "TOO_MANY_REPORTS": {
+    "ru": "§cЖалобы §8| §fНа игрока %s §fпоступило уже §c%s §fжалоб(ы)",
+    "ua": "§cСкарги §8| §fНа гравця %s §fнадійшло вже §c%s §fскарг(и)",
+    "en": "§cComplaints §8| §fPlayer %s §fhas already received §c%s §fcomplain(s)"
+  }
 }

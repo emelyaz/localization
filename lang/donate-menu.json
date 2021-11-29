@@ -1,375 +1,375 @@
 {
-    "DONATE_MENU_FAST_MESSAGE_LORE": {
-        "ru": [
-            "§7Покажи всем какой ты сегодня,",
-            "§7используя эти быстрые сообщения.",
-            "",
-            "§7Доступно для §b§lDIAMOND §7и выше",
-            "",
-            "§7Для быстрого открытия меню используйте",
-            "§7команду §c/fm §7или §c/fastmessage",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "§7Покажи всім який ти сьогодні,",
-            "§7використовуючи ці швидкі повідомлення.",
-            "",
-            "§7Доступно для §b§lDIAMOND §7і вище",
-            "",
-            "§7Для швидкого відкриття меню використовуйте",
-            "§7команду §c/fm §7или §c/fastmessage",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "§7Show everyone how you are today",
-            "§7using these quick messages.",
-            "",
-            "§7Available for §b§lDIAMOND §7and higher",
-            "",
-            "§7To quickly open the menu, use",
-            "§7command §c/fm §7или §c/fastmessage",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "DONATE_MENU_FAST_MESSAGE_NAME": {
-        "ru": "Быстрые сообщения",
-        "ua": "Швидкі повідомлення",
-        "en": "Quick messages"
-    },
-    "DONATE_MENU_GUI": {
-        "ru": "Меню донатера",
-        "ua": "Меню донатера",
-        "en": "Donator's menu"
-    },
-    "DONATE_MENU_GUI_LORE": {
-        "ru": [
-            "§7Дополнительные возможности",
-            "§7для донатеров",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "§7Додаткові можливості",
-            "§7для донатерів",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "§7Additional features",
-            "§7for donators",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "DONATE_MENU_JOIN_MESSAGE_BUY": {
-        "ru": "§6Сообщение при входе §8| §fВы успешно купили §a%s §fсообщение",
-        "ua": "§6Повідомлення при вході §8| §fВи успішно купили §a%s §fповідомлення",
-        "en": "§6Login message §8| §fYou have successfully bought §a%s §fmessage"
-    },
-    "DONATE_MENU_JOIN_MESSAGE_ENABLE": {
-        "ru": "§6Сообщение при входе §8| §fСообщение под номером §a%s §fактивировано",
-        "ua": "§6Повідомлення при вході §8| §fПовідомлення під номером §a%s §fактивовано",
-        "en": "§6Login message §8| §fMessage number §a%s §fis activated"
-    },
-    "DONATE_MENU_JOIN_MESSAGE_LORE": {
-        "ru": [
-            "§7Установить кастомное сообщения",
-            "§7вашего входа на сервер",
-            "",
-            "§7Доступно для §e§lGOLD §7и выше!",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "§7Встановити кастомне повідомлення",
-            "§7вашого входу на сервер",
-            "",
-            "§7Доступно для §e§lGOLD §7і вище!",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "§7Install custom messages",
-            "§7for your server login",
-            "",
-            "§7Available for §e§lGOLD §7and higher!",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "DONATE_MENU_JOIN_MESSAGE_NAME": {
-        "ru": "Сообщения при входе",
-        "ua": "Повідомлення при вході",
-        "en": "Login message"
-    },
-    "DONATE_MENU_PREFIX_LORE": {
-        "ru": [
-            "§7Смена цвета префикса",
-            "",
-            "§7Доступно только для §7§lSHULKER",
-            "",
-            "§7Текущий префикс: %s",
-            "",
-            "§e▸ Нажмите, чтобы открыть меню"
-        ],
-        "ua": [
-            "§7Зміна кольору префікса",
-            "",
-            "§7Доступно тілько для §7§lSHULKER",
-            "",
-            "§7Поточний префікс: %s",
-            "",
-            "§e▸ Натисніть, щоб відкрити меню"
-        ],
-        "en": [
-            "§7Change prefix color",
-            "",
-            "§7Available only for §7§lSHULKER",
-            "",
-            "§7Current prefix: %s",
-            "",
-            "§e▸ Click to open the menu"
-        ]
-    },
-    "DONATE_MENU_PREFIX_NAME": {
-        "ru": "Смена префикса",
-        "ua": "Зміна префікса",
-        "en": "Change prefix"
-    },
-    "DONATE_STATS_PERMISSION": {
-        "ru": "Просмотр доната игроков",
-        "ua": "Переглад донату гравців",
-        "en": "Viewing player's donations"
-    },
-    "DONATE_STATS_PERMISSION_LORE": {
-        "ru": [
-            " ",
-            "§7Все участники ранга %s",
-            "§7смогут просматривать информацию",
-            "§7о донате игроков в гильдию",
-            "§7(доступ к /guild donateinfo)",
-            " "
-        ],
-        "ua": [
-            " ",
-            "§7Всі учасники рангу %s",
-            "§7зможуть переглядати інформацію",
-            "§7про донати гравців в гільдію",
-            "§7(доступ до /guild donateinfo)",
-            " "
-        ],
-        "en": [
-            " ",
-            "§7All members of the rank %s",
-            "§7will be able to view information",
-            "§7about players' donations to the guild",
-            "§7(доступ к /guild donateinfo)",
-            " "
-        ]
-    },
-    "FAST_MESSAGE_ACCESSIBLY": {
-        "ru": "Ясно",
-        "ua": "Ясно",
-        "en": "Clear"
-    },
-    "FAST_MESSAGE_CAPITULATE": {
-        "ru": "Сдаюсь",
-        "ua": "Здаюся",
-        "en": "I give up"
-    },
-    "FAST_MESSAGE_DANCING": {
-        "ru": "Танцую",
-        "ua": "Танцюю",
-        "en": "Dancing"
-    },
-    "FAST_MESSAGE_DONT_STUPID": {
-        "ru": "Не тупи",
-        "ua": "Не тупи",
-        "en": "Don't be stupid"
-    },
-    "FAST_MESSAGE_EASY": {
-        "ru": "ИЗИ",
-        "ua": "ІЗІ",
-        "en": "Easy-peasy"
-    },
-    "FAST_MESSAGE_EATING": {
-        "ru": "Кушаю",
-        "ua": "Їм",
-        "en": "Eating"
-    },
-    "FAST_MESSAGE_ENRAGES": {
-        "ru": "Горит",
-        "ua": "Горить",
-        "en": "It's on fire!"
-    },
-    "FAST_MESSAGE_FUCK": {
-        "ru": "ФАК Ю",
-        "ua": "ФАК Ю",
-        "en": "fuck you"
-    },
-    "FAST_MESSAGE_GIVE_RESOURCES": {
-        "ru": "Дай ресов",
-        "ua": "Дай ресів",
-        "en": "Share resources"
-    },
-    "FAST_MESSAGE_GO": {
-        "ru": "Гоу",
-        "ua": "Гоу",
-        "en": "Let's go"
-    },
-    "FAST_MESSAGE_GOODBYE": {
-        "ru": "Пока",
-        "ua": "Пока",
-        "en": "Bye"
-    },
-    "FAST_MESSAGE_GO_AWAY": {
-        "ru": "Пошел вон",
-        "ua": "Пішов геть",
-        "en": "Get out"
-    },
-    "FAST_MESSAGE_HELLO": {
-        "ru": "Привет",
-        "ua": "Привіт",
-        "en": "Hi"
-    },
-    "FAST_MESSAGE_HUGGING": {
-        "ru": "Обнимаю",
-        "ua": "Обіймаю",
-        "en": "Hugging"
-    },
-    "FAST_MESSAGE_JEEZ": {
-        "ru": "Огооо",
-        "ua": "Огооо",
-        "en": "Woow"
-    },
-    "FAST_MESSAGE_KILLED": {
-        "ru": "Убит",
-        "ua": "Вбит",
-        "en": "Killed"
-    },
-    "FAST_MESSAGE_LAGS": {
-        "ru": "Лагает",
-        "ua": "Лагає",
-        "en": "Lagging"
-    },
-    "FAST_MESSAGE_LORE1": {
-        "ru": "§7Сообщение: §a%s",
-        "ua": "§7Повідомлення: §a%s",
-        "en": "§7Message: §a%s"
-    },
-    "FAST_MESSAGE_LORE2": {
-        "ru": [
-            "",
-            "§e▸ Нажмите, чтобы отправить сообщение"
-        ],
-        "ua": [
-            "",
-            "§e▸ Натисніть, щоб надіслати повідомлення"
-        ],
-        "en": [
-            "",
-            "§e▸ Click to send a message"
-        ]
-    },
-    "FAST_MESSAGE_LOVE": {
-        "ru": "Люблю",
-        "ua": "Люблю",
-        "en": "Love you"
-    },
-    "FAST_MESSAGE_MAJOR": {
-        "ru": "Мажор",
-        "ua": "Мажор",
-        "en": "Richie Rich"
-    },
-    "FAST_MESSAGE_MUSIC": {
-        "ru": "Слушаю музыку",
-        "ua": "Слухаю музыку",
-        "en": "Listening to music"
-    },
-    "FAST_MESSAGE_NICELY": {
-        "ru": "Мило",
-        "ua": "Мило",
-        "en": "Cute"
-    },
-    "FAST_MESSAGE_OFFENSIVELY": {
-        "ru": "Обидно",
-        "ua": "Прикро",
-        "en": "Offensive"
-    },
-    "FAST_MESSAGE_SAD": {
-        "ru": "Грущу",
-        "ua": "Сумую",
-        "en": "Sad"
-    },
-    "FAST_MESSAGE_SLEEP": {
-        "ru": "Засыпаю",
-        "ua": "Засиню",
-        "en": "Falling asleep"
-    },
-    "FAST_MESSAGE_WHY": {
-        "ru": "Чее?",
-        "ua": "Шоо?",
-        "en": "Whaat?"
-    },
-    "FAST_MESSAGE_WOW": {
-        "ru": "Вау, клёво",
-        "ua": "Вау, круто",
-        "en": "Wow, cool!"
-    },
-    "FAST_MESSAGE_WTF": {
-        "ru": "ВТФ???",
-        "ua": "ВТФ???",
-        "en": "WTF???"
-    },
-    "FAST_MESSAGE_XZ": {
-        "ru": "Хз",
-        "ua": "Хз",
-        "en": "idk"
-    },
-    "JOIN_MESSAGE_LORE": {
-        "ru": [
-            "§7Установить кастомное оповещение",
-            "§7для всех игроков о вашем входе на сервер",
-            "",
-            "§7Оповещение для игроков:",
-            "%s"
-        ],
-        "ua": [
-            "§7Встановити кастомне оповіщення",
-            "§7для всіх гравців про вашому вході на сервер",
-            "",
-            "§7Оповіщення для гравців:",
-            "%s"
-        ],
-        "en": [
-            "§7Set custom alert",
-            "§7for all players about your login to the server",
-            "",
-            "§7Alert for players:",
-            "%s"
-        ]
-    },
-    "JOIN_MESSAGE_LORE_NOT_AVAILABLE": {
-        "ru": "§cДанное сообщение вам не доступно",
-        "ua": "§cЦе повідомлення вам не доступне",
-        "en": "§cThis message is not available to you"
-    },
-    "JOIN_MESSAGE_LORE_NOT_SELECT": {
-        "ru": "§e▸ Нажмите, чтобы выбрать",
-        "ua": "§e▸ Натисніть, щоб обрати",
-        "en": "§e▸ Click to choose"
-    },
-    "JOIN_MESSAGE_LORE_SELECT": {
-        "ru": "§aСообщение выбрано",
-        "ua": "§aПовідомлення обране",
-        "en": "§aMessage chosen"
-    },
-    "JOIN_MESSAGE_NAME": {
-        "ru": "Сообщение %s",
-        "ua": "Повідомлення %s",
-        "en": "Message %s"
-    }
+  "DONATE_MENU_FAST_MESSAGE_LORE": {
+    "ru": [
+      "§7Покажи всем какой ты сегодня,",
+      "§7используя эти быстрые сообщения.",
+      "",
+      "§7Доступно для §b§lDIAMOND §7и выше",
+      "",
+      "§7Для быстрого открытия меню используйте",
+      "§7команду §c/fm §7или §c/fastmessage",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "§7Покажи всім який ти сьогодні,",
+      "§7використовуючи ці швидкі повідомлення.",
+      "",
+      "§7Доступно для §b§lDIAMOND §7і вище",
+      "",
+      "§7Для швидкого відкриття меню використовуйте",
+      "§7команду §c/fm §7или §c/fastmessage",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "§7Show everyone how you are today",
+      "§7using these quick messages.",
+      "",
+      "§7Available for §b§lDIAMOND §7and higher",
+      "",
+      "§7To quickly open the menu, use",
+      "§7command §c/fm §7или §c/fastmessage",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "DONATE_MENU_FAST_MESSAGE_NAME": {
+    "ru": "Быстрые сообщения",
+    "ua": "Швидкі повідомлення",
+    "en": "Quick messages"
+  },
+  "DONATE_MENU_GUI": {
+    "ru": "Меню донатера",
+    "ua": "Меню донатера",
+    "en": "Donator's menu"
+  },
+  "DONATE_MENU_GUI_LORE": {
+    "ru": [
+      "§7Дополнительные возможности",
+      "§7для донатеров",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "§7Додаткові можливості",
+      "§7для донатерів",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "§7Additional features",
+      "§7for donators",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "DONATE_MENU_JOIN_MESSAGE_BUY": {
+    "ru": "§6Сообщение при входе §8| §fВы успешно купили §a%s §fсообщение",
+    "ua": "§6Повідомлення при вході §8| §fВи успішно купили §a%s §fповідомлення",
+    "en": "§6Login message §8| §fYou have successfully bought §a%s §fmessage"
+  },
+  "DONATE_MENU_JOIN_MESSAGE_ENABLE": {
+    "ru": "§6Сообщение при входе §8| §fСообщение под номером §a%s §fактивировано",
+    "ua": "§6Повідомлення при вході §8| §fПовідомлення під номером §a%s §fактивовано",
+    "en": "§6Login message §8| §fMessage number §a%s §fis activated"
+  },
+  "DONATE_MENU_JOIN_MESSAGE_LORE": {
+    "ru": [
+      "§7Установить кастомное сообщения",
+      "§7вашего входа на сервер",
+      "",
+      "§7Доступно для §e§lGOLD §7и выше!",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "§7Встановити кастомне повідомлення",
+      "§7вашого входу на сервер",
+      "",
+      "§7Доступно для §e§lGOLD §7і вище!",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "§7Install custom messages",
+      "§7for your server login",
+      "",
+      "§7Available for §e§lGOLD §7and higher!",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "DONATE_MENU_JOIN_MESSAGE_NAME": {
+    "ru": "Сообщения при входе",
+    "ua": "Повідомлення при вході",
+    "en": "Login message"
+  },
+  "DONATE_MENU_PREFIX_LORE": {
+    "ru": [
+      "§7Смена цвета префикса",
+      "",
+      "§7Доступно только для §7§lSHULKER",
+      "",
+      "§7Текущий префикс: %s",
+      "",
+      "§e▸ Нажмите, чтобы открыть меню"
+    ],
+    "ua": [
+      "§7Зміна кольору префікса",
+      "",
+      "§7Доступно тілько для §7§lSHULKER",
+      "",
+      "§7Поточний префікс: %s",
+      "",
+      "§e▸ Натисніть, щоб відкрити меню"
+    ],
+    "en": [
+      "§7Change prefix color",
+      "",
+      "§7Available only for §7§lSHULKER",
+      "",
+      "§7Current prefix: %s",
+      "",
+      "§e▸ Click to open the menu"
+    ]
+  },
+  "DONATE_MENU_PREFIX_NAME": {
+    "ru": "Смена префикса",
+    "ua": "Зміна префікса",
+    "en": "Change prefix"
+  },
+  "DONATE_STATS_PERMISSION": {
+    "ru": "Просмотр доната игроков",
+    "ua": "Переглад донату гравців",
+    "en": "Viewing player's donations"
+  },
+  "DONATE_STATS_PERMISSION_LORE": {
+    "ru": [
+      " ",
+      "§7Все участники ранга %s",
+      "§7смогут просматривать информацию",
+      "§7о донате игроков в гильдию",
+      "§7(доступ к /guild donateinfo)",
+      " "
+    ],
+    "ua": [
+      " ",
+      "§7Всі учасники рангу %s",
+      "§7зможуть переглядати інформацію",
+      "§7про донати гравців в гільдію",
+      "§7(доступ до /guild donateinfo)",
+      " "
+    ],
+    "en": [
+      " ",
+      "§7All members of the rank %s",
+      "§7will be able to view information",
+      "§7about players' donations to the guild",
+      "§7(доступ к /guild donateinfo)",
+      " "
+    ]
+  },
+  "FAST_MESSAGE_ACCESSIBLY": {
+    "ru": "Ясно",
+    "ua": "Ясно",
+    "en": "Clear"
+  },
+  "FAST_MESSAGE_CAPITULATE": {
+    "ru": "Сдаюсь",
+    "ua": "Здаюся",
+    "en": "I give up"
+  },
+  "FAST_MESSAGE_DANCING": {
+    "ru": "Танцую",
+    "ua": "Танцюю",
+    "en": "Dancing"
+  },
+  "FAST_MESSAGE_DONT_STUPID": {
+    "ru": "Не тупи",
+    "ua": "Не тупи",
+    "en": "Don't be stupid"
+  },
+  "FAST_MESSAGE_EASY": {
+    "ru": "ИЗИ",
+    "ua": "ІЗІ",
+    "en": "Easy-peasy"
+  },
+  "FAST_MESSAGE_EATING": {
+    "ru": "Кушаю",
+    "ua": "Їм",
+    "en": "Eating"
+  },
+  "FAST_MESSAGE_ENRAGES": {
+    "ru": "Горит",
+    "ua": "Горить",
+    "en": "It's on fire!"
+  },
+  "FAST_MESSAGE_FUCK": {
+    "ru": "ФАК Ю",
+    "ua": "ФАК Ю",
+    "en": "fuck you"
+  },
+  "FAST_MESSAGE_GIVE_RESOURCES": {
+    "ru": "Дай ресов",
+    "ua": "Дай ресів",
+    "en": "Share resources"
+  },
+  "FAST_MESSAGE_GO": {
+    "ru": "Гоу",
+    "ua": "Гоу",
+    "en": "Let's go"
+  },
+  "FAST_MESSAGE_GOODBYE": {
+    "ru": "Пока",
+    "ua": "Пока",
+    "en": "Bye"
+  },
+  "FAST_MESSAGE_GO_AWAY": {
+    "ru": "Пошел вон",
+    "ua": "Пішов геть",
+    "en": "Get out"
+  },
+  "FAST_MESSAGE_HELLO": {
+    "ru": "Привет",
+    "ua": "Привіт",
+    "en": "Hi"
+  },
+  "FAST_MESSAGE_HUGGING": {
+    "ru": "Обнимаю",
+    "ua": "Обіймаю",
+    "en": "Hugging"
+  },
+  "FAST_MESSAGE_JEEZ": {
+    "ru": "Огооо",
+    "ua": "Огооо",
+    "en": "Woow"
+  },
+  "FAST_MESSAGE_KILLED": {
+    "ru": "Убит",
+    "ua": "Вбит",
+    "en": "Killed"
+  },
+  "FAST_MESSAGE_LAGS": {
+    "ru": "Лагает",
+    "ua": "Лагає",
+    "en": "Lagging"
+  },
+  "FAST_MESSAGE_LORE1": {
+    "ru": "§7Сообщение: §a%s",
+    "ua": "§7Повідомлення: §a%s",
+    "en": "§7Message: §a%s"
+  },
+  "FAST_MESSAGE_LORE2": {
+    "ru": [
+      "",
+      "§e▸ Нажмите, чтобы отправить сообщение"
+    ],
+    "ua": [
+      "",
+      "§e▸ Натисніть, щоб надіслати повідомлення"
+    ],
+    "en": [
+      "",
+      "§e▸ Click to send a message"
+    ]
+  },
+  "FAST_MESSAGE_LOVE": {
+    "ru": "Люблю",
+    "ua": "Люблю",
+    "en": "Love you"
+  },
+  "FAST_MESSAGE_MAJOR": {
+    "ru": "Мажор",
+    "ua": "Мажор",
+    "en": "Richie Rich"
+  },
+  "FAST_MESSAGE_MUSIC": {
+    "ru": "Слушаю музыку",
+    "ua": "Слухаю музыку",
+    "en": "Listening to music"
+  },
+  "FAST_MESSAGE_NICELY": {
+    "ru": "Мило",
+    "ua": "Мило",
+    "en": "Cute"
+  },
+  "FAST_MESSAGE_OFFENSIVELY": {
+    "ru": "Обидно",
+    "ua": "Прикро",
+    "en": "Offensive"
+  },
+  "FAST_MESSAGE_SAD": {
+    "ru": "Грущу",
+    "ua": "Сумую",
+    "en": "Sad"
+  },
+  "FAST_MESSAGE_SLEEP": {
+    "ru": "Засыпаю",
+    "ua": "Засиню",
+    "en": "Falling asleep"
+  },
+  "FAST_MESSAGE_WHY": {
+    "ru": "Чее?",
+    "ua": "Шоо?",
+    "en": "Whaat?"
+  },
+  "FAST_MESSAGE_WOW": {
+    "ru": "Вау, клёво",
+    "ua": "Вау, круто",
+    "en": "Wow, cool!"
+  },
+  "FAST_MESSAGE_WTF": {
+    "ru": "ВТФ???",
+    "ua": "ВТФ???",
+    "en": "WTF???"
+  },
+  "FAST_MESSAGE_XZ": {
+    "ru": "Хз",
+    "ua": "Хз",
+    "en": "idk"
+  },
+  "JOIN_MESSAGE_LORE": {
+    "ru": [
+      "§7Установить кастомное оповещение",
+      "§7для всех игроков о вашем входе на сервер",
+      "",
+      "§7Оповещение для игроков:",
+      "%s"
+    ],
+    "ua": [
+      "§7Встановити кастомне оповіщення",
+      "§7для всіх гравців про вашому вході на сервер",
+      "",
+      "§7Оповіщення для гравців:",
+      "%s"
+    ],
+    "en": [
+      "§7Set custom alert",
+      "§7for all players about your login to the server",
+      "",
+      "§7Alert for players:",
+      "%s"
+    ]
+  },
+  "JOIN_MESSAGE_LORE_NOT_AVAILABLE": {
+    "ru": "§cДанное сообщение вам не доступно",
+    "ua": "§cЦе повідомлення вам не доступне",
+    "en": "§cThis message is not available to you"
+  },
+  "JOIN_MESSAGE_LORE_NOT_SELECT": {
+    "ru": "§e▸ Нажмите, чтобы выбрать",
+    "ua": "§e▸ Натисніть, щоб обрати",
+    "en": "§e▸ Click to choose"
+  },
+  "JOIN_MESSAGE_LORE_SELECT": {
+    "ru": "§aСообщение выбрано",
+    "ua": "§aПовідомлення обране",
+    "en": "§aMessage chosen"
+  },
+  "JOIN_MESSAGE_NAME": {
+    "ru": "Сообщение %s",
+    "ua": "Повідомлення %s",
+    "en": "Message %s"
+  }
 }

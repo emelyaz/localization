@@ -1,82 +1,82 @@
 {
-    "DO_NOT_SEND_SIMILAR_MESSAGES": {
-        "ru": " §cℹ Не повторяйте одинаковые сообщения",
-        "ua": " §cℹ Не повторюйте однакові повідомлення",
-        "en": " §cℹ Don't repeat the same messages"
-    },
-    "DO_NOT_SPAM": {
-        "ru": " §cℹ Не флудите",
-        "ua": " §cℹ Не флудіть",
-        "en": " §cℹ Don't flood"
-    },
-    "ERROR_CONNECT": {
-        "ru": "§cОшибка, вы не смогли подключиться к серверу %s. Вы были перенаправлены на %s",
-        "ua": "§cПомилка, ви не змогли підключитися до сервера %s. Ви були перенаправлені на %s",
-        "en": "§cError, you could not connect to the server %s. You have been redirected to %s"
-    },
-    "ERROR_START_GAMER_ARENA": {
-        "ru": "§cОшибка, не хватает игроков для старта",
-        "ua": "§cПомилка, недостатньо гравців для старту",
-        "en": "§cError, не хватает игроков для старта"
-    },
-    "ERROR_TELEPORT": {
-        "ru": "§cОшибка телепортации в лобби",
-        "ua": "§cПомилка телепортації в лобі",
-        "en": "§cError has occurred while teleporting to the lobby"
-    },
-    "ERROR_TO_LOBBY": {
-        "ru": "§cОшибка при телепортации в лобби",
-        "ua": "§cПомилка при телепортації в лобі",
-        "en": "§cError has occurred while teleporting to the lobby"
-    },
-    "ERROR_WITH_YOUR_BUKKIT": {
-        "ru": "§cС Вашим аккаунтом произошла ошибка. Перезайдите на сервер и попробуйте ввести команду снова",
-        "ua": "§cЗ Вашим акаунтом сталася помилка. Перезайдіть на сервер і спробуйте ввести команду знову",
-        "en": "§cAn error has occurred with your account. Go back to the server and try typing the command again"
-    },
-    "NOT_BEST_SERVER": {
-        "ru": "§cНет подходящей арены",
-        "ua": "§cНемає відповідної арени",
-        "en": "§cNo suitable arena"
-    },
-    "NOT_DOMAIN_PIAR": {
-        "ru": "; §cℹ У нас запрещено рекламировать сайты и сторонние ресурсы; ",
-        "ua": "; §cℹ У нас заборонено рекламувати сайти і сторонні ресурси; ",
-        "en": "; §cℹ It is prohibited to advertise sites and third-party resources here; "
-    },
-    "NOT_PIAR": {
-        "ru": "; §cℹ Рекламировать каналы могут только игроки с привилегией §f[§6YouTube§f]; ",
-        "ua": "; §cℹ Рекламувати канали можуть тільки гравці з привілеєм §f[§6YouTube§f]; ",
-        "en": "; §cℹ Only players with privilege can advertise channels §f[§6YouTube§f]; "
-    },
-    "NO_FOUND_PLAYER": {
-        "ru": "§cИгрок %s§c не найден или он оффлайн",
-        "ua": "§cГравець %s§c не знайдений або він оффлайн",
-        "en": "§cPlayer %s§c not found or offline"
-    },
-    "NO_LOBBY_FOUND": {
-        "ru": "§cХаб не найден",
-        "ua": "§cХаб не знайдений",
-        "en": "§cHub not found"
-    },
-    "NO_PERMS": {
-        "ru": "§cУ вас нет прав",
-        "ua": "§cУ вас немає прав",
-        "en": "§cYou have no rights"
-    },
-    "NO_PERMS_GROUP": {
-        "ru": "§cУ вас нет прав, купите %s§c или выше",
-        "ua": "§cУ вас немає прав, купіть %s§c або вище",
-        "en": "§cYou have no rights, purchase %s§c or higher"
-    },
-    "NO_PERMS_SHULKER_ONLY": {
-        "ru": "§cУ вас нет прав, данная функция только для §7§lSHULKER",
-        "ua": "§cУ вас немає прав, ця функція лише для §7§lSHULKER",
-        "en": "§cYou have no rights, this function is only for §7§lSHULKER"
-    },
-    "SERVER_ERROR": {
-        "ru": "§cВозникла внутренняя ошибка сервера",
-        "ua": "§cВиникла внутрішня помилка сервера",
-        "en": "§cAn internal server error has occurred"
-    }
+  "DO_NOT_SEND_SIMILAR_MESSAGES": {
+    "ru": " §cℹ Не повторяйте одинаковые сообщения",
+    "ua": " §cℹ Не повторюйте однакові повідомлення",
+    "en": " §cℹ Don't repeat the same messages"
+  },
+  "DO_NOT_SPAM": {
+    "ru": " §cℹ Не флудите",
+    "ua": " §cℹ Не флудіть",
+    "en": " §cℹ Don't flood"
+  },
+  "ERROR_CONNECT": {
+    "ru": "§cОшибка, вы не смогли подключиться к серверу %s. Вы были перенаправлены на %s",
+    "ua": "§cПомилка, ви не змогли підключитися до сервера %s. Ви були перенаправлені на %s",
+    "en": "§cError, you could not connect to the server %s. You have been redirected to %s"
+  },
+  "ERROR_START_GAMER_ARENA": {
+    "ru": "§cОшибка, не хватает игроков для старта",
+    "ua": "§cПомилка, недостатньо гравців для старту",
+    "en": "§cError, не хватает игроков для старта"
+  },
+  "ERROR_TELEPORT": {
+    "ru": "§cОшибка телепортации в лобби",
+    "ua": "§cПомилка телепортації в лобі",
+    "en": "§cError has occurred while teleporting to the lobby"
+  },
+  "ERROR_TO_LOBBY": {
+    "ru": "§cОшибка при телепортации в лобби",
+    "ua": "§cПомилка при телепортації в лобі",
+    "en": "§cError has occurred while teleporting to the lobby"
+  },
+  "ERROR_WITH_YOUR_BUKKIT": {
+    "ru": "§cС Вашим аккаунтом произошла ошибка. Перезайдите на сервер и попробуйте ввести команду снова",
+    "ua": "§cЗ Вашим акаунтом сталася помилка. Перезайдіть на сервер і спробуйте ввести команду знову",
+    "en": "§cAn error has occurred with your account. Go back to the server and try typing the command again"
+  },
+  "NOT_BEST_SERVER": {
+    "ru": "§cНет подходящей арены",
+    "ua": "§cНемає відповідної арени",
+    "en": "§cNo suitable arena"
+  },
+  "NOT_DOMAIN_PIAR": {
+    "ru": "; §cℹ У нас запрещено рекламировать сайты и сторонние ресурсы; ",
+    "ua": "; §cℹ У нас заборонено рекламувати сайти і сторонні ресурси; ",
+    "en": "; §cℹ It is prohibited to advertise sites and third-party resources here; "
+  },
+  "NOT_PIAR": {
+    "ru": "; §cℹ Рекламировать каналы могут только игроки с привилегией §f[§6YouTube§f]; ",
+    "ua": "; §cℹ Рекламувати канали можуть тільки гравці з привілеєм §f[§6YouTube§f]; ",
+    "en": "; §cℹ Only players with privilege can advertise channels §f[§6YouTube§f]; "
+  },
+  "NO_FOUND_PLAYER": {
+    "ru": "§cИгрок %s§c не найден или он оффлайн",
+    "ua": "§cГравець %s§c не знайдений або він оффлайн",
+    "en": "§cPlayer %s§c not found or offline"
+  },
+  "NO_LOBBY_FOUND": {
+    "ru": "§cХаб не найден",
+    "ua": "§cХаб не знайдений",
+    "en": "§cHub not found"
+  },
+  "NO_PERMS": {
+    "ru": "§cУ вас нет прав",
+    "ua": "§cУ вас немає прав",
+    "en": "§cYou have no rights"
+  },
+  "NO_PERMS_GROUP": {
+    "ru": "§cУ вас нет прав, купите %s§c или выше",
+    "ua": "§cУ вас немає прав, купіть %s§c або вище",
+    "en": "§cYou have no rights, purchase %s§c or higher"
+  },
+  "NO_PERMS_SHULKER_ONLY": {
+    "ru": "§cУ вас нет прав, данная функция только для §7§lSHULKER",
+    "ua": "§cУ вас немає прав, ця функція лише для §7§lSHULKER",
+    "en": "§cYou have no rights, this function is only for §7§lSHULKER"
+  },
+  "SERVER_ERROR": {
+    "ru": "§cВозникла внутренняя ошибка сервера",
+    "ua": "§cВиникла внутрішня помилка сервера",
+    "en": "§cAn internal server error has occurred"
+  }
 }

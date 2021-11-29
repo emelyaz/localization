@@ -1,680 +1,680 @@
 {
-    "HOLO_ANARCHY_EMERALD": {
-        "ru": [
-            "§aБлоки для привата территории",
-            "§fПоставьте любой из них на местность",
-            "§fи нажмите ПКМ для улучшения их радиуса"
-        ],
-        "ua": [
-            "§aБлоки для привату території",
-            "§fПоставте будь-який з них на місцевість",
-            "§fі натисніть ПКМ для поліпшення їхнього радіусу"
-        ],
-        "en": [
-            "§aBlocks for private territory",
-            "§fPut any of them on the terrain",
-            "§fand click RMC to improve their radius"
-        ]
-    },
-    "HOLO_ANARCHY_HELP": {
-        "ru": [
-            "§cПомощник по режиму",
-            "§fОбщая информация об игре",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§cПомічник по режиму",
-            "§fЗагальна інформація про гру",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§cMode helper",
-            "§fGeneral information about the game",
-            "§7Click to view"
-        ]
-    },
-    "HOLO_ANARCHY_START": {
-        "ru": [
-            "§cРандомный телепорт",
-            "§fТелепортирует вас в случайную точку на карте",
-            "§7Нажмите, для активации"
-        ],
-        "ua": [
-            "§cРандомний телепорт",
-            "§fТелепортує вас до випадкового місця на мапі",
-            "§7Натисніть для активації"
-        ],
-        "en": [
-            "§cRandom teleport",
-            "§fWill teleport you to any random point on the map",
-            "§7Click to activate"
-        ]
-    },
-    "HOLO_BOOSTER_NPC": {
-        "ru": [
-            "§a§lБустеры",
-            "§fАктивация доступных бустеров"
-        ],
-        "ua": [
-            "§a§lБустери",
-            "§fАктивація доступных бустерів"
-        ],
-        "en": [
-            "§a§lBoosters",
-            "§fAvailable boosters activation"
-        ]
-    },
-    "HOLO_BOOSTER_TITLE": {
-        "ru": "§a§lБустеры"
-    },
-    "HOLO_BOOSTER_SUBTITLE": {
-        "ru": "§fАктивация доступных бустеров"
-    },
-    "HOLO_CHEST_EMPTY": {
-        "ru": "Пустой",
-        "ua": "Порожній",
-        "en": "Empty"
-    },
-    "HOLO_CREATIVE_WORLD200": {
-        "ru": [
-            "§fМир с участками §a200x200",
-            "§fУчастки от §c§lMAGMA §fи выше",
-            "§7Нажмите, чтобы телепортироваться!"
-        ],
-        "ua": [
-            "§fСвіт з ділянками §a200x200",
-            "§fДілянки від §c§lMAGMA §fі вище",
-            "§7Натисніть, щоб телепортуватися!"
-        ],
-        "en": [
-            "§fWorld with sites §a200x200",
-            "§fSites from §c§lMAGMA §fand higher",
-            "§7Click to teleport!"
-        ]
-    },
-    "HOLO_CREATIVE_WORLD55": {
-        "ru": [
-            "§fМир с участками §a55x55",
-            "§fДоступен для всех игроков",
-            "§7Нажмите, чтобы телепортироваться!"
-        ],
-        "ua": [
-            "§fСвіт з ділянками §a55x55",
-            "§fДоступний для всіх гравців",
-            "§7Натисніть, щоб телепортуватися!"
-        ],
-        "en": [
-            "§fWorld with sites §a55x55",
-            "§fAvailable to all players",
-            "§7Click to teleport!"
-        ]
-    },
-    "HOLO_CREATIVE_WORLD95": {
-        "ru": [
-            "§fМир с участками §a95x95",
-            "§fУчастки от §b§lDIAMOND §fи выше",
-            "§7Нажмите, чтобы телепортироваться!"
-        ],
-        "ua": [
-            "§fСвіт з ділянками §a95x95",
-            "§fДілянки від §b§lDIAMOND §fі вище",
-            "§7Натисніть, щоб телепортуватися!"
-        ],
-        "en": [
-            "§fWorld with sites §a95x95",
-            "§fSites from §b§lDIAMOND §fand higher",
-            "§7Click to teleport!"
-        ]
-    },
-    "HOLO_DONATE": {
-        "ru": [
-            "Обвал цен! Все цены снижены на §a10%",
-            "§e§lGOLD §f- §7§m120§f §6100 §fРублей",
-            "§b§lDIAMOND §f- §7§m350§f §6300 §fРублей",
-            "§a§lEMERALD §f- §7§m620§f §6590 §fРублей",
-            "§c§lMAGMA §f- §7§m1000§f §6900 §fРублей",
-            "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fРублей",
-            "§fПокупка на сайте:",
-            "§clast-craft.com"
-        ],
-        "ua": [
-            "Обвал цін! Всі ціни знижені на §a10%",
-            "§e§lGOLD §f- §7§m120§f §6100 §fРублів",
-            "§b§lDIAMOND §f- §7§m350§f §6300 §fРублів",
-            "§a§lEMERALD §f- §7§m620§f §6590 §fРублів",
-            "§c§lMAGMA §f- §7§m1000§f §6900 §fРублів",
-            "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fРублів",
-            "§fКупівля на сайті:",
-            "§clast-craft.com"
-        ],
-        "en": [
-            "The collapse of prices! All prices are reduced by §a10%",
-            "§e§lGOLD §f- §7§m120§f §6100 §fRubles",
-            "§b§lDIAMOND §f- §7§m350§f §6300 §fRubles",
-            "§a§lEMERALD §f- §7§m620§f §6590 §fRubles",
-            "§c§lMAGMA §f- §7§m1000§f §6900 §fRubles",
-            "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fRubles",
-            "§fBuy online:",
-            "§clast-craft.com"
-        ]
-    },
-    "HOLO_INFO_LOBBY": {
-        "ru": [
-            "§fКликните по §6NPC§f,",
-            "§fчтобы начать игру"
-        ],
-        "ua": [
-            "§fКлацніть по §6NPC§f,",
-            "§fщоб розпочати гру"
-        ],
-        "en": [
-            "§fClick on §6NPC§f,",
-            "§fto start the game"
-        ]
-    },
-    "HOLO_ONLINE_UPDATER": {
-        "ru": "§fНа режиме играет §a%s §f%s",
-        "ua": "§fНа режимі грає §a%s §f%s",
-        "en": "§fPlaying the mode §a%s §f%s"
-    },
-    "HOLO_REPLACER_CHANNEL": {
-        "ru": "§fНа режиме играет §a%s §f%s",
-        "ua": "§fНа режимі грає §a%s §f%s",
-        "en": "§fplaying the mode §a%s §f%s"
-    },
-    "HOLO_REPLACER_CHANNEL_ERROR": {
-        "ru": "§cСервера не найдены!",
-        "ua": "§cСервера не знайдені!",
-        "en": "§cServers not found!"
-    },
-    "HOLO_REWARD_MONEY": {
-        "ru": "Заработано монет",
-        "ua": "Зароблено монет",
-        "en": "Coins gained"
-    },
-    "HOLO_REWARD_MULTIPLAY": {
-        "ru": "Множитель монет",
-        "ua": "Множник монет",
-        "en": "Coin multiplier"
-    },
-    "HOLO_REWARD_STATS": {
-        "ru": "Статистика за игру",
-        "ua": "Статистика за гру",
-        "en": "Game statistics"
-    },
-    "HOLO_SELECTOR_GAME_CHANNEL": {
-        "ru": "§7Нажмите, чтобы подключиться",
-        "ua": "§7Натисніть, щоб під'єднатися",
-        "en": "§7Click to connect"
-    },
-    "HOLO_SHOP_NPC": {
-        "ru": [
-            "§a§lМагазин",
-            "§fПозволяет купить или улучшить",
-            "§fнаборы на данном режиме"
-        ],
-        "ua": [
-            "§a§lМагазин",
-            "§fДозволяє купити або поліпшити",
-            "§fнабори на цьому режимі"
-        ],
-        "en": [
-            "§a§lStore",
-            "§fAllows you to buy or upgrade",
-            "§fsets in this mode"
-        ]
-    },
-    "HOLO_SHOP_NPC_TITLE": {
-        "ru": "§a§lМагазин"
-    },
-    "HOLO_SHOP_NPC_TEXT_1": {
-        "ru": "§fПозволяет купить или улучшить"
-    },
-    "HOLO_SHOP_NPC_TEXT_2": {
-        "ru": "§fнаборы на данном режиме"
-    },
-    "HOLO_SITESHOP": {
-        "ru": [
-            "§eПредметы из онлайн магазина",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eПредмети з онлайн магазину",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eItems from the online store",
-            "§7Click to view"
-        ]
-    },
-    "HOLO_SKYBLOCK_AH": {
-        "ru": [
-            "§6Аукционер",
-            "§fПозволяет продать/выставлять предметы на аукцион",
-            "§fПодробнее можно узнать, написав: §a/ah help",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§6Аукціонер",
-            "§fДозволяє продати / виставляти предмети на аукціон",
-            "§fДетальніше можна дізнатися, написавши: §a/ah help",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§6Auctioneer",
-            "§fAllows you to sell / put up items for auction",
-            "§fMore details can be found by writing to: §a/ah help",
-            "§7Click to view"
-        ]
-    },
-    "HOLO_SKYBLOCK_BATYT": {
-        "ru": [
-            "§fВы можете создавать §6батуты, §fпоставив",
-            "§fна один из этих блоков §eнажимную плиту!"
-        ],
-        "ua": [
-            "§fВи можете створювати §6батуті, §fпоставивши",
-            "§fна один з цих блоків §eнатискну плиту!"
-        ],
-        "en": [
-            "§fYou can create §6trampolines §fby placing",
-            "§fa pressure plate on one of these blocks!"
-        ]
-    },
-    "HOLO_SKYBLOCK_GENERATOR": {
-        "ru": [
-            "§fОдин из вариантов генератора булыжника",
-            "§fСамое главное, это чтобы §9вода §fсоприкасалась с",
-            "§fтекущей §cлавой §f(НЕ ИСТОЧНИКОМ)"
-        ],
-        "ua": [
-            "§fОдин з варіантів генератора кругляка",
-            "§fНайголовніше, щоб ця §9вода §fстикалася з",
-            "§fпоточною §cлавою §f(НЕ ДЖЕРЕЛОМ)"
-        ],
-        "en": [
-            "§fOne of the variants of the cobblestone generator",
-            "§fThe most important thing is for the §9water §fcome into contact",
-            "§fcurrent §glory §f(NOT SPRINGWELL)"
-        ]
-    },
-    "HOLO_SKYBLOCK_INFO": {
-        "ru": [
-            "§fНа острове дальше вы сможете",
-            "§fнайти всю нужную информацию, которая",
-            "§fпоможет начать игру на §bSkyBlock"
-        ],
-        "ua": [
-            "§fНа острові далі ви зможете",
-            "§fзнайти всю необхідну інформацію, яка",
-            "§fдопоможе розпочати гру на §bSkyBlock"
-        ],
-        "en": [
-            "§fOn the island further you can find",
-            "§fall the necessary information",
-            "§fwhich will help you begin the game using §bSkyBlock"
-        ]
-    },
-    "HOLO_SKYBLOCK_JOBS": {
-        "ru": [
-            "§6Вы можете устроиться на одну из",
-            "§6предложенных работ, чтобы зарабатывать деньги!",
-            "§aУстроиться - /jobs browse",
-            "§cПокинуть - /jobs leave <название работы>"
-        ],
-        "ua": [
-            "§6Ви можете влаштуватися на одну з",
-            "§6запропонованих робіт, щоб заробляти гроші!",
-            "§aВлаштуватися - /jobs browse",
-            "§cПокинути - /jobs leave <назва роботи>"
-        ],
-        "en": [
-            "§6You can get one of",
-            "§6the offered jobs to earn money!",
-            "§aGet a job - /jobs browse",
-            "§cLeave - /jobs leave <job title>"
-        ]
-    },
-    "HOLO_SKYBLOCK_MRL": {
-        "ru": [
-            "§fИдите вперед, чтобы попасть к §eавтошахте",
-            "§fВ ней вы сможете добыть §aполезные ресурсы"
-        ],
-        "ua": [
-            "§fІдіть вперед, щоб потрапити до §eавтошахти",
-            "§fУ ній ви зможете добути §aкорисні ресурси"
-        ],
-        "en": [
-            "§fGo forward to get to §eautomine",
-            "§fIn it you can get §auseful resources"
-        ]
-    },
-    "HOLO_SKYBLOCK_MRL2": {
-        "ru": [
-            "§fШахта обновляется каждые §a5 §fминут"
-        ],
-        "ua": [
-            "§fШахта оновлюється кожні §a5 §fхвилин"
-        ],
-        "en": [
-            "§fMine updates every §a5 §fminutes"
-        ]
-    },
-    "HOLO_SKYBLOCK_PVP": {
-        "ru": [
-            "§fЗаступая за красную черту",
-            "§fвы входите в §cPvP Зону!"
-        ],
-        "ua": [
-            "§fЗаступаючи за червону риску",
-            "§fви входите в §cPvP Зону!"
-        ],
-        "en": [
-            "§fCrossing over the red line,",
-            "§fyou enter the §cPvP zone!"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP": {
-        "ru": [
-            "§fТут вы можете §aкупить §fили §cпродать",
-            "§fнеобходимые в быту вещи!"
-        ],
-        "ua": [
-            "§fТут ви можете §aкупити §fабо §cпродати",
-            "§fнеобхідні в побуті речі!"
-        ],
-        "en": [
-            "§fHere you can §abuy §for §csell",
-            "§fthings necessary in everyday life!"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_BLOCKS": {
-        "ru": [
-            "§eБлоки",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eБлоки",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eBlocks",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_CUSTOM": {
-        "ru": [
-            "§eРедкости",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eРідкості",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eRarities",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_EXCHANGER": {
-        "ru": [
-            "§eОбменник",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eОбмінник",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eExchanger",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_FARMING": {
-        "ru": [
-            "§eФермерство",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eФермерство",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eFarming",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_FOOD": {
-        "ru": [
-            "§eЕда",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eЇжа",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eFood",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_LOOT": {
-        "ru": [
-            "§eРазличный лут",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eРізний лут",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eVarious loot",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_ORES": {
-        "ru": [
-            "§eРуды",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eРуди",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eOres",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_SHOP_OTHER": {
-        "ru": [
-            "§eРазное",
-            "§7Нажмите, чтобы открыть"
-        ],
-        "ua": [
-            "§eРізне",
-            "§7Натисніть, щоб відкрити"
-        ],
-        "en": [
-            "§eDifferent",
-            "§7Click to open"
-        ]
-    },
-    "HOLO_SKYBLOCK_START": {
-        "ru": [
-            "§fДля начала игры на режиме \"§3СкайБлок§f\"",
-            "§fбеги прямо в §dпортал§f, после входа в него",
-            "§fУ тебя появится §aсвой собственный остров!"
-        ],
-        "ua": [
-            "§fДля початку гри на режимі \"§3СкайБлок§f\"",
-            "§fбіжи прямо в §dпортал§f, після входу в нього",
-            "§fу тебе з'явиться §aвласний острів!"
-        ],
-        "en": [
-            "§fTo start the game in the mode \"§3SkyBlock§f\"",
-            "§frun straight to §dportal§f, and after entering it",
-            "§fYou'll get §ayour own island!"
-        ]
-    },
-    "HOLO_SKYBLOCK_START2": {
-        "ru": [
-            "§fДля начала игры на режиме \"§3СкайБлок§f\"",
-            "§fнажми прямо на §dNPC§f, после чего",
-            "§fу тебя появится §aсвой собственный остров!"
-        ],
-        "ua": [
-            "§fДля початку гри на режимі \"§3СкайБлок§f\"",
-            "§fнатисни прямо на §dNPC§f, після цього",
-            "§fу тебе з'явиться §aвласний острів!"
-        ],
-        "en": [
-            "§fTo start the game in the mode \"§3SkyBlock§f\"",
-            "§fclick right on §dNPC§f and after that",
-            "§fyou'll get §ayour own islands!"
-        ]
-    },
-    "HOLO_SKYBLOCK_WARP": {
-        "ru": [
-            "§fВы можете создать варп для своего магазина",
-            "§fКомандой §a/setwarp <название>",
-            "§fУдалить варп можно командой §c/delwarp <название>",
-            "§fСтоимость создания варпа зависит от вашей привилегии",
-            "§fНапример, у игрока §a$2500§f, а у §b§lDIAMOND §a$1500"
-        ],
-        "ua": [
-            "§fВи можете створити варп для свого магазину",
-            "§fКомандою §a/setwarp <назва>",
-            "§fВидалити варп можна командою §c/delwarp <назва>",
-            "§fВартість створення варпа залежить від вашої привілеї",
-            "§fНаприклад, у гравця §a$2500§f, а у §b§lDIAMOND §a$1500"
-        ],
-        "en": [
-            "§fYou can create a warp for your store",
-            "§fBy using command §a/setwarp <name>",
-            "§fYou can remove the warp with the command §c/delwarp <name>",
-            "§fThe cost of creating a warp depends on your privilege",
-            "§fFor example, player's §a$2500§f, and player's §b§lDIAMOND §a$1500"
-        ]
-    },
-    "HOLO_SPECTATOR_NPC": {
-        "ru": [
-            "§e§lНаблюдатель",
-            "§fПозволяет посмотреть",
-            "§fигру на уже начатых аренах",
-            "§fДоступ от §a§lEMERALD §fи выше"
-        ],
-        "ua": [
-            "§e§lСпостерігач",
-            "§fДозволяє подивитися",
-            "§fгру на вже розпочатих аренах",
-            "§fДоступ від §a§lEMERALD §fі вище"
-        ],
-        "en": [
-            "§e§lObserver",
-            "§fAllows to watch",
-            "§fplaying on already started arenas",
-            "§fAccess to §a§lEMERALD §fand higher"
-        ]
-    },
-    "HOLO_SPECTATOR_NPC_TITLE": {
-        "ru": "Наблюдатель"
-    },
-    "HOLO_SPECTATOR_NPC_TEXT_1": {
-        "ru": "§fПозволяет посмотреть"
-    },
-    "HOLO_SPECTATOR_NPC_TEXT_2": {
-        "ru": "§fигру на уже начатых аренах"
-    },
-    "HOLO_SPECTATOR_NPC_TEXT_3": {
-        "ru": "§fДоступ от §a§lEMERALD §fи выше"
-    },
-    "HOLO_STATS_TITLE": {
-        "ru": "§eСтатистика за игру",
-        "ua": "§eСтатистика за гру",
-        "en": "§eGame statistics"
-    },
-    "HOLO_TOP_ALL": {
-        "ru": [
-            "§6§l%s",
-            "§fТоп игроков по победам",
-            "§fза §eВСЕ ВРЕМЯ"
-        ],
-        "ua": [
-            "§6§l%s",
-            "§fТоп гравців ао перемогах",
-            "§fза §eВЕСЬ ЧАС"
-        ],
-        "en": [
-            "§6§l%s",
-            "§fTop players by wins",
-            "§fза §eALL TIME"
-        ]
-    },
-    "HOLO_TOP_MAIN": {
-        "ru": "§7Нажмите, чтобы сменить топ",
-        "ua": "§7Натисніть, щоб змінити топ",
-        "en": "§7Click to change top"
-    },
-    "HOLO_TOP_MONTHLY": {
-        "ru": [
-            "§6§l%s",
-            "§fТоп игроков по победам",
-            "§fза §e%s"
-        ],
-        "ua": [
-            "§6§l%s",
-            "§fТоп гравців по перемогах",
-            "§fза §e%s"
-        ],
-        "en": [
-            "§6§l%s",
-            "§fTop players by wins",
-            "§fза §e%s"
-        ]
-    },
-    "HOLO_TOP_RAITING_ALL": {
-        "ru": [
-            "§6§l%s",
-            "§fТоп игроков по рейтингу",
-            "§fза §eВСЕ ВРЕМЯ"
-        ],
-        "ua": [
-            "§6§l%s",
-            "§fТоп гравців по рейтингу",
-            "§fза §eВЕСЬ ЧАС"
-        ],
-        "en": [
-            "§6§l%s",
-            "§fTop players by rank",
-            "§fза §eВСЕ ВРЕМЯ"
-        ]
-    },
-    "HOLO_TOP_RAITING_MONTHLY": {
-        "ru": [
-            "§6§l%s",
-            "§fТоп игроков по рейтингу",
-            "§fза §e%s"
-        ],
-        "ua": [
-            "§6§l%s",
-            "§fТоп гравців по рейтингу",
-            "§fза §e%s"
-        ],
-        "en": [
-            "§6§l%s",
-            "§fTop players by rank",
-            "§fза §e%s"
-        ]
-    },
-    "HOLO_TOP_UPDATE": {
-        "ru": "§cДо обновления: §c%s",
-        "ua": "§cДо оновлення: §c%s",
-        "en": "§cUntil update: §c%s"
-    },
-    "HOLO_TOP_UPDATE_NOW": {
-        "ru": "Обновлено!",
-        "ua": "Оновлено!",
-        "en": "Updated!"
-    }
+  "HOLO_ANARCHY_EMERALD": {
+    "ru": [
+      "§aБлоки для привата территории",
+      "§fПоставьте любой из них на местность",
+      "§fи нажмите ПКМ для улучшения их радиуса"
+    ],
+    "ua": [
+      "§aБлоки для привату території",
+      "§fПоставте будь-який з них на місцевість",
+      "§fі натисніть ПКМ для поліпшення їхнього радіусу"
+    ],
+    "en": [
+      "§aBlocks for private territory",
+      "§fPut any of them on the terrain",
+      "§fand click RMC to improve their radius"
+    ]
+  },
+  "HOLO_ANARCHY_HELP": {
+    "ru": [
+      "§cПомощник по режиму",
+      "§fОбщая информация об игре",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§cПомічник по режиму",
+      "§fЗагальна інформація про гру",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§cMode helper",
+      "§fGeneral information about the game",
+      "§7Click to view"
+    ]
+  },
+  "HOLO_ANARCHY_START": {
+    "ru": [
+      "§cРандомный телепорт",
+      "§fТелепортирует вас в случайную точку на карте",
+      "§7Нажмите, для активации"
+    ],
+    "ua": [
+      "§cРандомний телепорт",
+      "§fТелепортує вас до випадкового місця на мапі",
+      "§7Натисніть для активації"
+    ],
+    "en": [
+      "§cRandom teleport",
+      "§fWill teleport you to any random point on the map",
+      "§7Click to activate"
+    ]
+  },
+  "HOLO_BOOSTER_NPC": {
+    "ru": [
+      "§a§lБустеры",
+      "§fАктивация доступных бустеров"
+    ],
+    "ua": [
+      "§a§lБустери",
+      "§fАктивація доступных бустерів"
+    ],
+    "en": [
+      "§a§lBoosters",
+      "§fAvailable boosters activation"
+    ]
+  },
+  "HOLO_BOOSTER_TITLE": {
+    "ru": "§a§lБустеры"
+  },
+  "HOLO_BOOSTER_SUBTITLE": {
+    "ru": "§fАктивация доступных бустеров"
+  },
+  "HOLO_CHEST_EMPTY": {
+    "ru": "Пустой",
+    "ua": "Порожній",
+    "en": "Empty"
+  },
+  "HOLO_CREATIVE_WORLD200": {
+    "ru": [
+      "§fМир с участками §a200x200",
+      "§fУчастки от §c§lMAGMA §fи выше",
+      "§7Нажмите, чтобы телепортироваться!"
+    ],
+    "ua": [
+      "§fСвіт з ділянками §a200x200",
+      "§fДілянки від §c§lMAGMA §fі вище",
+      "§7Натисніть, щоб телепортуватися!"
+    ],
+    "en": [
+      "§fWorld with sites §a200x200",
+      "§fSites from §c§lMAGMA §fand higher",
+      "§7Click to teleport!"
+    ]
+  },
+  "HOLO_CREATIVE_WORLD55": {
+    "ru": [
+      "§fМир с участками §a55x55",
+      "§fДоступен для всех игроков",
+      "§7Нажмите, чтобы телепортироваться!"
+    ],
+    "ua": [
+      "§fСвіт з ділянками §a55x55",
+      "§fДоступний для всіх гравців",
+      "§7Натисніть, щоб телепортуватися!"
+    ],
+    "en": [
+      "§fWorld with sites §a55x55",
+      "§fAvailable to all players",
+      "§7Click to teleport!"
+    ]
+  },
+  "HOLO_CREATIVE_WORLD95": {
+    "ru": [
+      "§fМир с участками §a95x95",
+      "§fУчастки от §b§lDIAMOND §fи выше",
+      "§7Нажмите, чтобы телепортироваться!"
+    ],
+    "ua": [
+      "§fСвіт з ділянками §a95x95",
+      "§fДілянки від §b§lDIAMOND §fі вище",
+      "§7Натисніть, щоб телепортуватися!"
+    ],
+    "en": [
+      "§fWorld with sites §a95x95",
+      "§fSites from §b§lDIAMOND §fand higher",
+      "§7Click to teleport!"
+    ]
+  },
+  "HOLO_DONATE": {
+    "ru": [
+      "Обвал цен! Все цены снижены на §a10%",
+      "§e§lGOLD §f- §7§m120§f §6100 §fРублей",
+      "§b§lDIAMOND §f- §7§m350§f §6300 §fРублей",
+      "§a§lEMERALD §f- §7§m620§f §6590 §fРублей",
+      "§c§lMAGMA §f- §7§m1000§f §6900 §fРублей",
+      "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fРублей",
+      "§fПокупка на сайте:",
+      "§clast-craft.com"
+    ],
+    "ua": [
+      "Обвал цін! Всі ціни знижені на §a10%",
+      "§e§lGOLD §f- §7§m120§f §6100 §fРублів",
+      "§b§lDIAMOND §f- §7§m350§f §6300 §fРублів",
+      "§a§lEMERALD §f- §7§m620§f §6590 §fРублів",
+      "§c§lMAGMA §f- §7§m1000§f §6900 §fРублів",
+      "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fРублів",
+      "§fКупівля на сайті:",
+      "§clast-craft.com"
+    ],
+    "en": [
+      "The collapse of prices! All prices are reduced by §a10%",
+      "§e§lGOLD §f- §7§m120§f §6100 §fRubles",
+      "§b§lDIAMOND §f- §7§m350§f §6300 §fRubles",
+      "§a§lEMERALD §f- §7§m620§f §6590 §fRubles",
+      "§c§lMAGMA §f- §7§m1000§f §6900 §fRubles",
+      "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fRubles",
+      "§fBuy online:",
+      "§clast-craft.com"
+    ]
+  },
+  "HOLO_INFO_LOBBY": {
+    "ru": [
+      "§fКликните по §6NPC§f,",
+      "§fчтобы начать игру"
+    ],
+    "ua": [
+      "§fКлацніть по §6NPC§f,",
+      "§fщоб розпочати гру"
+    ],
+    "en": [
+      "§fClick on §6NPC§f,",
+      "§fto start the game"
+    ]
+  },
+  "HOLO_ONLINE_UPDATER": {
+    "ru": "§fНа режиме играет §a%s §f%s",
+    "ua": "§fНа режимі грає §a%s §f%s",
+    "en": "§fPlaying the mode §a%s §f%s"
+  },
+  "HOLO_REPLACER_CHANNEL": {
+    "ru": "§fНа режиме играет §a%s §f%s",
+    "ua": "§fНа режимі грає §a%s §f%s",
+    "en": "§fplaying the mode §a%s §f%s"
+  },
+  "HOLO_REPLACER_CHANNEL_ERROR": {
+    "ru": "§cСервера не найдены!",
+    "ua": "§cСервера не знайдені!",
+    "en": "§cServers not found!"
+  },
+  "HOLO_REWARD_MONEY": {
+    "ru": "Заработано монет",
+    "ua": "Зароблено монет",
+    "en": "Coins gained"
+  },
+  "HOLO_REWARD_MULTIPLAY": {
+    "ru": "Множитель монет",
+    "ua": "Множник монет",
+    "en": "Coin multiplier"
+  },
+  "HOLO_REWARD_STATS": {
+    "ru": "Статистика за игру",
+    "ua": "Статистика за гру",
+    "en": "Game statistics"
+  },
+  "HOLO_SELECTOR_GAME_CHANNEL": {
+    "ru": "§7Нажмите, чтобы подключиться",
+    "ua": "§7Натисніть, щоб під'єднатися",
+    "en": "§7Click to connect"
+  },
+  "HOLO_SHOP_NPC": {
+    "ru": [
+      "§a§lМагазин",
+      "§fПозволяет купить или улучшить",
+      "§fнаборы на данном режиме"
+    ],
+    "ua": [
+      "§a§lМагазин",
+      "§fДозволяє купити або поліпшити",
+      "§fнабори на цьому режимі"
+    ],
+    "en": [
+      "§a§lStore",
+      "§fAllows you to buy or upgrade",
+      "§fsets in this mode"
+    ]
+  },
+  "HOLO_SHOP_NPC_TITLE": {
+    "ru": "§a§lМагазин"
+  },
+  "HOLO_SHOP_NPC_TEXT_1": {
+    "ru": "§fПозволяет купить или улучшить"
+  },
+  "HOLO_SHOP_NPC_TEXT_2": {
+    "ru": "§fнаборы на данном режиме"
+  },
+  "HOLO_SITESHOP": {
+    "ru": [
+      "§eПредметы из онлайн магазина",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eПредмети з онлайн магазину",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eItems from the online store",
+      "§7Click to view"
+    ]
+  },
+  "HOLO_SKYBLOCK_AH": {
+    "ru": [
+      "§6Аукционер",
+      "§fПозволяет продать/выставлять предметы на аукцион",
+      "§fПодробнее можно узнать, написав: §a/ah help",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§6Аукціонер",
+      "§fДозволяє продати / виставляти предмети на аукціон",
+      "§fДетальніше можна дізнатися, написавши: §a/ah help",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§6Auctioneer",
+      "§fAllows you to sell / put up items for auction",
+      "§fMore details can be found by writing to: §a/ah help",
+      "§7Click to view"
+    ]
+  },
+  "HOLO_SKYBLOCK_BATYT": {
+    "ru": [
+      "§fВы можете создавать §6батуты, §fпоставив",
+      "§fна один из этих блоков §eнажимную плиту!"
+    ],
+    "ua": [
+      "§fВи можете створювати §6батуті, §fпоставивши",
+      "§fна один з цих блоків §eнатискну плиту!"
+    ],
+    "en": [
+      "§fYou can create §6trampolines §fby placing",
+      "§fa pressure plate on one of these blocks!"
+    ]
+  },
+  "HOLO_SKYBLOCK_GENERATOR": {
+    "ru": [
+      "§fОдин из вариантов генератора булыжника",
+      "§fСамое главное, это чтобы §9вода §fсоприкасалась с",
+      "§fтекущей §cлавой §f(НЕ ИСТОЧНИКОМ)"
+    ],
+    "ua": [
+      "§fОдин з варіантів генератора кругляка",
+      "§fНайголовніше, щоб ця §9вода §fстикалася з",
+      "§fпоточною §cлавою §f(НЕ ДЖЕРЕЛОМ)"
+    ],
+    "en": [
+      "§fOne of the variants of the cobblestone generator",
+      "§fThe most important thing is for the §9water §fcome into contact",
+      "§fcurrent §glory §f(NOT SPRINGWELL)"
+    ]
+  },
+  "HOLO_SKYBLOCK_INFO": {
+    "ru": [
+      "§fНа острове дальше вы сможете",
+      "§fнайти всю нужную информацию, которая",
+      "§fпоможет начать игру на §bSkyBlock"
+    ],
+    "ua": [
+      "§fНа острові далі ви зможете",
+      "§fзнайти всю необхідну інформацію, яка",
+      "§fдопоможе розпочати гру на §bSkyBlock"
+    ],
+    "en": [
+      "§fOn the island further you can find",
+      "§fall the necessary information",
+      "§fwhich will help you begin the game using §bSkyBlock"
+    ]
+  },
+  "HOLO_SKYBLOCK_JOBS": {
+    "ru": [
+      "§6Вы можете устроиться на одну из",
+      "§6предложенных работ, чтобы зарабатывать деньги!",
+      "§aУстроиться - /jobs browse",
+      "§cПокинуть - /jobs leave <название работы>"
+    ],
+    "ua": [
+      "§6Ви можете влаштуватися на одну з",
+      "§6запропонованих робіт, щоб заробляти гроші!",
+      "§aВлаштуватися - /jobs browse",
+      "§cПокинути - /jobs leave <назва роботи>"
+    ],
+    "en": [
+      "§6You can get one of",
+      "§6the offered jobs to earn money!",
+      "§aGet a job - /jobs browse",
+      "§cLeave - /jobs leave <job title>"
+    ]
+  },
+  "HOLO_SKYBLOCK_MRL": {
+    "ru": [
+      "§fИдите вперед, чтобы попасть к §eавтошахте",
+      "§fВ ней вы сможете добыть §aполезные ресурсы"
+    ],
+    "ua": [
+      "§fІдіть вперед, щоб потрапити до §eавтошахти",
+      "§fУ ній ви зможете добути §aкорисні ресурси"
+    ],
+    "en": [
+      "§fGo forward to get to §eautomine",
+      "§fIn it you can get §auseful resources"
+    ]
+  },
+  "HOLO_SKYBLOCK_MRL2": {
+    "ru": [
+      "§fШахта обновляется каждые §a5 §fминут"
+    ],
+    "ua": [
+      "§fШахта оновлюється кожні §a5 §fхвилин"
+    ],
+    "en": [
+      "§fMine updates every §a5 §fminutes"
+    ]
+  },
+  "HOLO_SKYBLOCK_PVP": {
+    "ru": [
+      "§fЗаступая за красную черту",
+      "§fвы входите в §cPvP Зону!"
+    ],
+    "ua": [
+      "§fЗаступаючи за червону риску",
+      "§fви входите в §cPvP Зону!"
+    ],
+    "en": [
+      "§fCrossing over the red line,",
+      "§fyou enter the §cPvP zone!"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP": {
+    "ru": [
+      "§fТут вы можете §aкупить §fили §cпродать",
+      "§fнеобходимые в быту вещи!"
+    ],
+    "ua": [
+      "§fТут ви можете §aкупити §fабо §cпродати",
+      "§fнеобхідні в побуті речі!"
+    ],
+    "en": [
+      "§fHere you can §abuy §for §csell",
+      "§fthings necessary in everyday life!"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_BLOCKS": {
+    "ru": [
+      "§eБлоки",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eБлоки",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eBlocks",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_CUSTOM": {
+    "ru": [
+      "§eРедкости",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eРідкості",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eRarities",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_EXCHANGER": {
+    "ru": [
+      "§eОбменник",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eОбмінник",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eExchanger",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_FARMING": {
+    "ru": [
+      "§eФермерство",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eФермерство",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eFarming",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_FOOD": {
+    "ru": [
+      "§eЕда",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eЇжа",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eFood",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_LOOT": {
+    "ru": [
+      "§eРазличный лут",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eРізний лут",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eVarious loot",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_ORES": {
+    "ru": [
+      "§eРуды",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eРуди",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eOres",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_SHOP_OTHER": {
+    "ru": [
+      "§eРазное",
+      "§7Нажмите, чтобы открыть"
+    ],
+    "ua": [
+      "§eРізне",
+      "§7Натисніть, щоб відкрити"
+    ],
+    "en": [
+      "§eDifferent",
+      "§7Click to open"
+    ]
+  },
+  "HOLO_SKYBLOCK_START": {
+    "ru": [
+      "§fДля начала игры на режиме \"§3СкайБлок§f\"",
+      "§fбеги прямо в §dпортал§f, после входа в него",
+      "§fУ тебя появится §aсвой собственный остров!"
+    ],
+    "ua": [
+      "§fДля початку гри на режимі \"§3СкайБлок§f\"",
+      "§fбіжи прямо в §dпортал§f, після входу в нього",
+      "§fу тебе з'явиться §aвласний острів!"
+    ],
+    "en": [
+      "§fTo start the game in the mode \"§3SkyBlock§f\"",
+      "§frun straight to §dportal§f, and after entering it",
+      "§fYou'll get §ayour own island!"
+    ]
+  },
+  "HOLO_SKYBLOCK_START2": {
+    "ru": [
+      "§fДля начала игры на режиме \"§3СкайБлок§f\"",
+      "§fнажми прямо на §dNPC§f, после чего",
+      "§fу тебя появится §aсвой собственный остров!"
+    ],
+    "ua": [
+      "§fДля початку гри на режимі \"§3СкайБлок§f\"",
+      "§fнатисни прямо на §dNPC§f, після цього",
+      "§fу тебе з'явиться §aвласний острів!"
+    ],
+    "en": [
+      "§fTo start the game in the mode \"§3SkyBlock§f\"",
+      "§fclick right on §dNPC§f and after that",
+      "§fyou'll get §ayour own islands!"
+    ]
+  },
+  "HOLO_SKYBLOCK_WARP": {
+    "ru": [
+      "§fВы можете создать варп для своего магазина",
+      "§fКомандой §a/setwarp <название>",
+      "§fУдалить варп можно командой §c/delwarp <название>",
+      "§fСтоимость создания варпа зависит от вашей привилегии",
+      "§fНапример, у игрока §a$2500§f, а у §b§lDIAMOND §a$1500"
+    ],
+    "ua": [
+      "§fВи можете створити варп для свого магазину",
+      "§fКомандою §a/setwarp <назва>",
+      "§fВидалити варп можна командою §c/delwarp <назва>",
+      "§fВартість створення варпа залежить від вашої привілеї",
+      "§fНаприклад, у гравця §a$2500§f, а у §b§lDIAMOND §a$1500"
+    ],
+    "en": [
+      "§fYou can create a warp for your store",
+      "§fBy using command §a/setwarp <name>",
+      "§fYou can remove the warp with the command §c/delwarp <name>",
+      "§fThe cost of creating a warp depends on your privilege",
+      "§fFor example, player's §a$2500§f, and player's §b§lDIAMOND §a$1500"
+    ]
+  },
+  "HOLO_SPECTATOR_NPC": {
+    "ru": [
+      "§e§lНаблюдатель",
+      "§fПозволяет посмотреть",
+      "§fигру на уже начатых аренах",
+      "§fДоступ от §a§lEMERALD §fи выше"
+    ],
+    "ua": [
+      "§e§lСпостерігач",
+      "§fДозволяє подивитися",
+      "§fгру на вже розпочатих аренах",
+      "§fДоступ від §a§lEMERALD §fі вище"
+    ],
+    "en": [
+      "§e§lObserver",
+      "§fAllows to watch",
+      "§fplaying on already started arenas",
+      "§fAccess to §a§lEMERALD §fand higher"
+    ]
+  },
+  "HOLO_SPECTATOR_NPC_TITLE": {
+    "ru": "Наблюдатель"
+  },
+  "HOLO_SPECTATOR_NPC_TEXT_1": {
+    "ru": "§fПозволяет посмотреть"
+  },
+  "HOLO_SPECTATOR_NPC_TEXT_2": {
+    "ru": "§fигру на уже начатых аренах"
+  },
+  "HOLO_SPECTATOR_NPC_TEXT_3": {
+    "ru": "§fДоступ от §a§lEMERALD §fи выше"
+  },
+  "HOLO_STATS_TITLE": {
+    "ru": "§eСтатистика за игру",
+    "ua": "§eСтатистика за гру",
+    "en": "§eGame statistics"
+  },
+  "HOLO_TOP_ALL": {
+    "ru": [
+      "§6§l%s",
+      "§fТоп игроков по победам",
+      "§fза §eВСЕ ВРЕМЯ"
+    ],
+    "ua": [
+      "§6§l%s",
+      "§fТоп гравців ао перемогах",
+      "§fза §eВЕСЬ ЧАС"
+    ],
+    "en": [
+      "§6§l%s",
+      "§fTop players by wins",
+      "§fза §eALL TIME"
+    ]
+  },
+  "HOLO_TOP_MAIN": {
+    "ru": "§7Нажмите, чтобы сменить топ",
+    "ua": "§7Натисніть, щоб змінити топ",
+    "en": "§7Click to change top"
+  },
+  "HOLO_TOP_MONTHLY": {
+    "ru": [
+      "§6§l%s",
+      "§fТоп игроков по победам",
+      "§fза §e%s"
+    ],
+    "ua": [
+      "§6§l%s",
+      "§fТоп гравців по перемогах",
+      "§fза §e%s"
+    ],
+    "en": [
+      "§6§l%s",
+      "§fTop players by wins",
+      "§fза §e%s"
+    ]
+  },
+  "HOLO_TOP_RAITING_ALL": {
+    "ru": [
+      "§6§l%s",
+      "§fТоп игроков по рейтингу",
+      "§fза §eВСЕ ВРЕМЯ"
+    ],
+    "ua": [
+      "§6§l%s",
+      "§fТоп гравців по рейтингу",
+      "§fза §eВЕСЬ ЧАС"
+    ],
+    "en": [
+      "§6§l%s",
+      "§fTop players by rank",
+      "§fза §eВСЕ ВРЕМЯ"
+    ]
+  },
+  "HOLO_TOP_RAITING_MONTHLY": {
+    "ru": [
+      "§6§l%s",
+      "§fТоп игроков по рейтингу",
+      "§fза §e%s"
+    ],
+    "ua": [
+      "§6§l%s",
+      "§fТоп гравців по рейтингу",
+      "§fза §e%s"
+    ],
+    "en": [
+      "§6§l%s",
+      "§fTop players by rank",
+      "§fза §e%s"
+    ]
+  },
+  "HOLO_TOP_UPDATE": {
+    "ru": "§cДо обновления: §c%s",
+    "ua": "§cДо оновлення: §c%s",
+    "en": "§cUntil update: §c%s"
+  },
+  "HOLO_TOP_UPDATE_NOW": {
+    "ru": "Обновлено!",
+    "ua": "Оновлено!",
+    "en": "Updated!"
+  }
 }

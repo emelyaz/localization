@@ -1,25 +1,25 @@
 {
-    "CREATIVE_PREFIX": {
-        "ru": "§6Creative §8| §f"
-    },
-    "DO_FORMAT": {
-        "ru": "/do <сообщение>",
-        "ua": "/do <повідомлення>",
-        "en": "/do <message>"
-    },
-    "ME_FORMAT": {
-        "ru": "/me <сообщение>",
-        "ua": "/me <повідомлення>",
-        "en": "/me <message>"
-    },
-    "ROLL_BROADCAST": {
-        "ru": "$CREATIVE_PREFIX$Игроку %s §fвыпало число §a%s §fиз §e%s",
-        "ua": "$CREATIVE_PREFIX$Гравцю %s §fвипало число §a%s §fз §e%s",
-        "en": "$CREATIVE_PREFIX$Player %s §fhas received number §a%s §ffrom §e%s"
-    },
-    "TRY_FORMAT": {
-        "ru": "/try <сообщение>",
-        "ua": "/try <повідомлення>",
-        "en": "/try <message>"
-    }
+  "CREATIVE_PREFIX": {
+    "ru": "§6Creative §8| §f"
+  },
+  "DO_FORMAT": {
+    "ru": "/do <сообщение>",
+    "ua": "/do <повідомлення>",
+    "en": "/do <message>"
+  },
+  "ME_FORMAT": {
+    "ru": "/me <сообщение>",
+    "ua": "/me <повідомлення>",
+    "en": "/me <message>"
+  },
+  "ROLL_BROADCAST": {
+    "ru": "$CREATIVE_PREFIX$Игроку %s §fвыпало число §a%s §fиз §e%s",
+    "ua": "$CREATIVE_PREFIX$Гравцю %s §fвипало число §a%s §fз §e%s",
+    "en": "$CREATIVE_PREFIX$Player %s §fhas received number §a%s §ffrom §e%s"
+  },
+  "TRY_FORMAT": {
+    "ru": "/try <сообщение>",
+    "ua": "/try <повідомлення>",
+    "en": "/try <message>"
+  }
 }

@@ -1,32 +1,32 @@
 {
-    "BUNGEE_ALREADY_ONLINE": {
-        "ru": "§cДанный игрок уже на сервере!",
-        "ua": "§cЦей гравець уже на сервері!",
-        "en": "§cThis player is already on the server!"
-    },
-    "BUNGEE_INVALID_ADDRESS": {
-        "ru": "§cВаш IP адрес содержит некорректные данные",
-        "ua": "§cВаша IP адреса містить некоректні дані",
-        "en": "§cYour IP address contains incorrect data"
-    },
-    "BUNGEE_JOIN_SERVER_UNAVAILABLE": {
-        "ru": "§cНе удалось найти подходящий сервер входа",
-        "ua": "§cНе вдалося знайти відповідний сервер входу",
-        "en": "§cCould not find an available login server"
-    },
-    "BUNGEE_LOGGED_FROM_ANOTHER_LOCATION": {
-        "ru": "§cВы были авторизованы с другого места",
-        "ua": "§cВи були авторизовані з іншого місця",
-        "en": "§cYou have been logged in from another location"
-    },
-    "BUNGEE_NO_REASON_SPECIFIED": {
-        "ru": "§cПричина не указана",
-        "ua": "§cПричина не вказана",
-        "en": "§cNo reason specified"
-    },
-    "BUNGEE_SQL_ERROR": {
-        "ru": "§cНе удалось загрузить данные авторизации",
-        "ua": "§cНе вдалося завантажити дані авторизації",
-        "en": "§cFailed to load authorization data"
-    }
+  "BUNGEE_ALREADY_ONLINE": {
+    "ru": "§cДанный игрок уже на сервере!",
+    "ua": "§cЦей гравець уже на сервері!",
+    "en": "§cThis player is already on the server!"
+  },
+  "BUNGEE_INVALID_ADDRESS": {
+    "ru": "§cВаш IP адрес содержит некорректные данные",
+    "ua": "§cВаша IP адреса містить некоректні дані",
+    "en": "§cYour IP address contains incorrect data"
+  },
+  "BUNGEE_JOIN_SERVER_UNAVAILABLE": {
+    "ru": "§cНе удалось найти подходящий сервер входа",
+    "ua": "§cНе вдалося знайти відповідний сервер входу",
+    "en": "§cCould not find an available login server"
+  },
+  "BUNGEE_LOGGED_FROM_ANOTHER_LOCATION": {
+    "ru": "§cВы были авторизованы с другого места",
+    "ua": "§cВи були авторизовані з іншого місця",
+    "en": "§cYou have been logged in from another location"
+  },
+  "BUNGEE_NO_REASON_SPECIFIED": {
+    "ru": "§cПричина не указана",
+    "ua": "§cПричина не вказана",
+    "en": "§cNo reason specified"
+  },
+  "BUNGEE_SQL_ERROR": {
+    "ru": "§cНе удалось загрузить данные авторизации",
+    "ua": "§cНе вдалося завантажити дані авторизації",
+    "en": "§cFailed to load authorization data"
+  }
 }
