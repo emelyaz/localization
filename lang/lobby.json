@@ -243,22 +243,22 @@
     "ua": [
       " ",
       "§7Ви впевнені, що хочете",
-      "§7купити цей бустер ?",
+      "§7купити цей бустер?",
       " ",
       "§cЦя дія незворотня"
     ],
     "en": [
       " ",
       "§7Are you sure you want to",
-      "§7purchase this booster ?",
+      "§7purchase this booster?",
       " ",
       "§cThis action is irreversible"
     ]
   },
   "BOOSTER_BUY_CONFIRM_GUI": {
     "ru": "Подтверждение покупки",
-    "ua": "Купити Бустер ?",
-    "en": "Purchase booster ?"
+    "ua": "Купити Бустер?",
+    "en": "Purchase booster?"
   },
   "BOOSTER_BUY_ITEM_LORE": {
     "ru": [
@@ -4403,8 +4403,8 @@
     "en": "§fYou already have this title, you have received §e+%s %s"
   },
   "TITLE_BUY_CONFIRM_GUI": {
-    "ru": "Подтверждение покупки",
-    "ua": "Придбати титул ?",
+    "ru": "Приобрести титул?",
+    "ua": "Придбати титул?",
     "en": "Do you want to purchase the title?"
   },
   "TITLE_DEACTIVE_LORE": {
