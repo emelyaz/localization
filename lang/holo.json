@@ -135,7 +135,7 @@
       "§c§lMAGMA §f- §7§m1000§f §6900 §fРублей",
       "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fРублей",
       "§fПокупка на сайте:",
-      "§clast-craft.com"
+      "§c$WEBSITE$"
     ],
     "ua": [
       "Обвал цін! Всі ціни знижені на §a10%",
@@ -145,7 +145,7 @@
       "§c§lMAGMA §f- §7§m1000§f §6900 §fРублів",
       "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fРублів",
       "§fКупівля на сайті:",
-      "§clast-craft.com"
+      "§c$WEBSITE$"
     ],
     "en": [
       "The collapse of prices! All prices are reduced by §a10%",
@@ -155,7 +155,7 @@
       "§c§lMAGMA §f- §7§m1000§f §6900 §fRubles",
       "§%animation%§lSHULKER §f- §7§m2250§f §62100 §fRubles",
       "§fBuy online:",
-      "§clast-craft.com"
+      "§c$WEBSITE$"
     ]
   },
   "HOLO_INFO_LOBBY": {

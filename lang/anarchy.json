@@ -42,8 +42,8 @@
   },
   "AIRDROP_NEXT_SPAWN": {
     "ru": "$AIRDROP_PREFIX$Следующий §7Ящик с припасами §fупадет в обычном мире через §7%s",
-    "ua": "$AIRDROP_PREFIX$§fНаступна §7Скриня з припасами §fвпаде в звичайному світі через §7%s",
-    "en": "$AIRDROP_PREFIX$§fNext §7Supply Chest §fwill fall in the normal world in §7%s"
+    "ua": "$AIRDROP_PREFIX$Наступна §7Скриня з припасами §fвпаде в звичайному світі через §7%s",
+    "en": "$AIRDROP_PREFIX$Next §7Supply Chest §fwill fall in the normal world in §7%s"
   },
   "AIRDROP_SPAWN": {
     "ru": "$AIRDROP_PREFIX$§7Ящик с припасами §fупал в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s",
@@ -74,13 +74,13 @@
   },
   "AIRDROP_WAIT": {
     "ru": "$AIRDROP_PREFIX$§7Ящик с припасами §fлежит в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s",
-    "ua": "§6AirDrop §8| §7Скриня з припасами §fлежить в звичайному світі на координатах X: §a%s §fY: §a%s §fZ: §a%s",
-    "en": "§6AirDrop §8| §7Supply Chest §fis in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s"
+    "ua": "$AIRDROP_PREFIX$§7Скриня з припасами §fлежить в звичайному світі на координатах X: §a%s §fY: §a%s §fZ: §a%s",
+    "en": "$AIRDROP_PREFIX$§7Supply Chest §fis in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s"
   },
   "AIRDROP_WAIT_SPAWN": {
-    "ru": "$AIRDROP_PREFIX$§7ящик с припасами §fупадет в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s",
-    "ua": "§6AirDrop §8| §7Скриня з припасами §fвпаде в звичайному світі на координах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s",
-    "en": "§6AirDrop §8| §7Supply Chest §fwill fall in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s"
+    "ru": "$AIRDROP_PREFIX$Ящик с припасами §fупадет в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s",
+    "ua": "$AIRDROP_PREFIX$Скриня з припасами §fвпаде в звичайному світі на координах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s",
+    "en": "$AIRDROP_PREFIX$Supply Chest §fwill fall in the normal world at the coordinates X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s"
   },
   "ANARCHY_BOX_GUI_NAME": {
     "ru": "Покупка ключей",
@@ -89,8 +89,8 @@
   },
   "ANARCHY_DEATH_FRIEND": {
     "ru": "$ANARCHY_PREFIX$Ваш друг %s §fпогиб в мире §7%s",
-    "ua": "§6Anarchy §8| §fВаш друг %s §fзагиб у світі §7%s",
-    "en": "§6Anarchy §8| §fYour friend %s §fdied in the world §7%s"
+    "ua": "$ANARCHY_PREFIX$Ваш друг %s §fзагиб у світі §7%s",
+    "en": "$ANARCHY_PREFIX$Your friend %s §fdied in the world §7%s"
   },
   "ANARCHY_HELP_GUI_NAME": {
     "ru": "Анархия",
@@ -167,8 +167,8 @@
   },
   "ANARCHY_NO_MONEY": {
     "ru": "$ANARCHY_PREFIX$У вас недостаточно §aмонет§f для покупки",
-    "ua": "§6Anarchy §8| §fУ вас недостатньо §aмонет§f для покупки",
-    "en": "§6Anarchy §8| §fYou don't have enough §acoins§f for the purchase"
+    "ua": "$ANARCHY_PREFIX$У вас недостатньо §aмонет§f для покупки",
+    "en": "$ANARCHY_PREFIX$You don't have enough §acoins§f for the purchase"
   },
   "ANARCHY_SHULKER_BOX": {
     "ru": "§cОшибка, вы не можете продавать или перекладывать шалкербокс с вещами",
@@ -177,8 +177,8 @@
   },
   "ANARCHY_TPA": {
     "ru": "$ANARCHY_PREFIX$На режиме §cнет телепортаций §fк игроку. Найти друга можно по координатам, а также с помощью §7/compass <координата x> <координата z> §f(если у вас есть компас)",
-    "ua": "§6Anarchy §8| §fНа режимі §cнемає телепортацій §fк гравцю. Знайти друга можно по координатах, а також за допомогою §7/compass <координата x> <координата z> §f(якщо у вас є компас)",
-    "en": "§6Anarchy §8| §fOn the mode §cthere are no teleportations §fto the player. You can find a friend using coordinates, and also using §7/compass <coordinate x> <coordinate z> §f(if you own a compass)"
+    "ua": "$ANARCHY_PREFIX$На режимі §cнемає телепортацій §fк гравцю. Знайти друга можно по координатах, а також за допомогою §7/compass <координата x> <координата z> §f(якщо у вас є компас)",
+    "en": "$ANARCHY_PREFIX$On the mode §cthere are no teleportations §fto the player. You can find a friend using coordinates, and also using §7/compass <coordinate x> <coordinate z> §f(if you own a compass)"
   },
   "ANARCHY_TPPOS_LOBBY": {
     "ru": "$ANARCHY_PREFIX$§cДанная команда не доступна в мире спавна",

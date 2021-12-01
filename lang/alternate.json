@@ -488,7 +488,7 @@
     "ru": [
       "",
       "§7Открыть список моих товаров,",
-      "§7которые выставленны на торги",
+      "§7которые выставлены на торги",
       "",
       "§e▸ Нажмите, чтобы открыть список"
     ],
@@ -2307,15 +2307,15 @@
   "SITE_SHOP_ITEM_EMPTY_LORE": {
     "ru": [
       "§7У вас нет доступных предметов",
-      "§7Покупка на сайте §dlast-craft.com"
+      "§7Покупка на сайте §d$WEBSITE$"
     ],
     "ua": [
       "§7У вас немає доступних предметів",
-      "§7Покупка на сайті §dlast-craft.com"
+      "§7Покупка на сайті §d$WEBSITE$"
     ],
     "en": [
       "§7You have no items available",
-      "§7Purchase online §dlast-craft.com"
+      "§7Purchase online §d$WEBSITE$"
     ]
   },
   "SITE_SHOP_ITEM_EMPTY_NAME": {

@@ -491,7 +491,7 @@
       "§7Если же вам не хватает ключей,",
       "§7то вы всегда их можете купить за монеты",
       "§7нажав §cПКМ §7по нужному ключу или",
-      "§7на нашей сайте §flast-craft.com"
+      "§7на нашем сайте §f$WEBSITE$"
     ],
     "ua": [
       "§7Ключі видаються за перемогу на аренах:",
@@ -502,7 +502,7 @@
       "§7Якщо ж вам не вистачає ключів,",
       "§7то ви завжди їх можете купити за монети",
       "§7натиснув §cПКМ §7по потрібному ключу або",
-      "§7на нашому сайті §flast-craft.com"
+      "§7на нашому сайті §f$WEBSITE$"
     ],
     "en": [
       "§7Keys are awarded for winning on the arenas:",
@@ -513,7 +513,7 @@
       "§7If you are missing the keys,",
       "§7then you can always buy them for coins",
       "§7clicking §cRMC §7on the necessary key or",
-      "§7on our website §flast-craft.com"
+      "§7on our website §f$WEBSITE$"
     ]
   },
   "BOX_GUI_HELP2_NAME": {
@@ -1140,19 +1140,19 @@
     "en": "§6Server §8| §fError! You don't have enough §bdust§f for the purchase!"
   },
   "GAMER_NO_GOLD": {
-    "ru": "§6Сервер §8| §fОшибка! У вас недостаточно §6золота§f для покупки! Покупка золота осуществляется только на сайте §dlast-craft.com §7(жми)",
-    "ua": "§6Сервер §8| §fПомилка! У вас недостатньо §6золота§f для покупки! Покупка золота здійснюється тільки на сайті §dlast-craft.com §7(тисни)",
-    "en": "§6Server §8| §fError! You don't have enough §6gold§f for the purchase! The purchase of gold is carried out only on the site §dlast-craft.com §7(click)"
+    "ru": "§6Сервер §8| §fОшибка! У вас недостаточно §6золота§f для покупки! Покупка золота осуществляется только на сайте §d$WEBSITE$ §7(жми)",
+    "ua": "§6Сервер §8| §fПомилка! У вас недостатньо §6золота§f для покупки! Покупка золота здійснюється тільки на сайті §d$WEBSITE$ §7(тисни)",
+    "en": "§6Server §8| §fError! You don't have enough §6gold§f for the purchase! The purchase of gold is carried out only on the site §d$WEBSITE$ §7(click)"
   },
   "GAMER_NO_KEYS": {
-    "ru": "§6Сервер §8| §fОшибка! У вас недостаточно §aключей§f для открытия кейсов! Купить немного ключей можно на нашем сайте §dlast-craft.com §7(жми)",
-    "ua": "§6Сервер §8| §fПомилка! У вас недостатньо §aключів§f для відкриття кейсів! Купити багато ключів можна на нашому сайті §dlast-craft.com §7(тисни)",
-    "en": "§6Server §8| §fError! You don't have enough §akeys§f to open cases! You can buy some keys on our website §dlast-craft.com §7(click)"
+    "ru": "§6Сервер §8| §fОшибка! У вас недостаточно §aключей§f для открытия кейсов! Купить немного ключей можно на нашем сайте §d$WEBSITE$ §7(жми)",
+    "ua": "§6Сервер §8| §fПомилка! У вас недостатньо §aключів§f для відкриття кейсів! Купити багато ключів можна на нашому сайті §d$WEBSITE$ §7(тисни)",
+    "en": "§6Server §8| §fError! You don't have enough §akeys§f to open cases! You can buy some keys on our website §d$WEBSITE$ §7(click)"
   },
   "GAMER_NO_MYSTERY_DUST": {
-    "ru": "§6Сервер §8| §fОшибка! У вас недостаточно §aмонет§f для покупки! Купить еще монеток можно на нашем сайте §dlast-craft.com §7(жми)",
-    "ua": "§6Сервер §8| §fПомилка! У вас недостатньо §aмонет§f для покупки! Купити ще монеток можна на нашому сайті §dlast-craft.com §7(тисни)",
-    "en": "§6Server §8| §fError! You don't have enough §acoins§f for the purchase! You can buy more coins on our website §dlast-craft.com §7(click)"
+    "ru": "§6Сервер §8| §fОшибка! У вас недостаточно §aмонет§f для покупки! Купить еще монеток можно на нашем сайте §d$WEBSITE$ §7(жми)",
+    "ua": "§6Сервер §8| §fПомилка! У вас недостатньо §aмонет§f для покупки! Купити ще монеток можна на нашому сайті §d$WEBSITE$ §7(тисни)",
+    "en": "§6Server §8| §fError! You don't have enough §acoins§f for the purchase! You can buy more coins on our website §d$WEBSITE$ §7(click)"
   },
   "GROUP_ALREADY_HAVE": {
     "ru": "§fУ вас уже есть данная группа, вы получили §e+%s %s",
@@ -3992,7 +3992,6 @@
   },
   "PROFILE_MAIN_ITEM_BOOSTER_BUY_LORE": {
     "ru": [
-      "§7Покупка бустеров",
       "",
       "§7Доступно для активации: §f%s §7%s",
       "",

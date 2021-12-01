@@ -6551,9 +6551,9 @@
     "en": "§7Price: §6%s coins"
   },
   "GADGETS_GIVE_SITE": {
-    "ru": "§7Купить на сайте §blast-craft.com",
-    "ua": "§7Купить на сайте §blast-craft.com",
-    "en": "§7Buy online §blast-craft.com"
+    "ru": "§7Купить на сайте §b$WEBSITE$",
+    "ua": "§7Купить на сайте §b$WEBSITE$",
+    "en": "§7Buy online §b$WEBSITE$"
   },
   "GADGETS_GUI_BANNERS_LORE": {
     "ru": [

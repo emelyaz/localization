@@ -1,4 +1,7 @@
 {
+  "WEBSITE": {
+    "ru": "last-craft.com"
+  },
   "GOLD_DATA": {
     "ru": "Золото",
     "en": "Gold"
@@ -2917,21 +2920,21 @@
       "§6§lLastCraft",
       "",
       "§fОнлайн-магазин:",
-      "§elast-craft.com",
+      "§e$WEBSITE$",
       ""
     ],
     "ua": [
       "§6§lLastCraft",
       "",
       "§fОнлайн-магазин:",
-      "§elast-craft.com",
+      "§e$WEBSITE$",
       ""
     ],
     "en": [
       "§6§lLastCraft",
       "",
       "§fOnline store:",
-      "§elast-craft.com",
+      "§e$WEBSITE$",
       ""
     ]
   },
