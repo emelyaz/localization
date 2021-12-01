@@ -151,10 +151,13 @@
     "ua": "§fРегіон успішно створено. Пишіть §7/rg add %s <нік>§f, щоб додати друга або §7/rg list §fдля управління регіоном",
     "en": "§fRegion successfully created. Type §7/rg add %s <nickname>§f to add a friend or §7/rg list §fto manage the region"
   },
+  "PROTECTION_CREATE_DENIED_HERE_ERROR": {
+    "ru": "§cОшибка, вы не можете создать здесь регион"
+  },
   "PROTECTION_CREATE_BLOCK_LIMIT_ERROR": {
-    "ru": "§fОшибка, вы не можете создать регион, в котором более §a%s§f блоков (У вас §c%s§f)",
-    "ua": "§fПомилка, ви не можете створити регіон, в якому більше ніж §a%s§f блоків (У вас §c%s§f)",
-    "en": "§fError, you cannot create a region where there are more than §a%s§f blocks (You have §c%s§f)"
+    "ru": "§cОшибка, вы не можете создать регион, в котором более §a%s§f блоков (У вас §c%s§f)",
+    "ua": "§cПомилка, ви не можете створити регіон, в якому більше ніж §a%s§f блоків (У вас §c%s§f)",
+    "en": "§cError, you cannot create a region where there are more than §a%s§f blocks (You have §c%s§f)"
   },
   "PROTECTION_CREATE_INTERSECTS_ERROR": {
     "ru": "§cОшибка, ваш регион пересекается с другими регионами, попробуйте в другом месте",
