@@ -1,7 +1,0 @@
-ECONOMY_PREFIX: '§6Экономика §8| §f'
-ECONOMY_DEPOSIT: '$ECONOMY_PREFIX$Вы изменили баланс игрока %s §fна §a+%s$§f, его текущий баланс равен §e%s$'
-ECONOMY_WITHDRAW: '$ECONOMY_PREFIX$Вы изменили баланс игрока %s §fна §c-%s$§f, его текущий баланс равен §e%s$'
-ECONOMY_BALANCE: '$ECONOMY_PREFIX$Баланс %s§f: §e%s$'
-ECONOMY_WITHDRAW_DESCRIPTION: 'Снять с баланса игрока'
-ECONOMY_DEPOSIT_DESCRIPTION: 'Пополнить баланс игрока'
-ECONOMY_BALANCE_DESCRIPTION: 'Получить баланс игрока'
