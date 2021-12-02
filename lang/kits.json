@@ -24,6 +24,105 @@
     "ua": "Фермер",
     "en": "Farmer"
   },
+  "ARCTIC_ITEM_BOX_KIT": {
+    "ru": "Заполярье"
+  },
+  "AVIARIST_ITEM_BOX_KIT": {
+    "ru": "Птицевод"
+  },
+  "BEE_ITEM_BOX_KIT": {
+    "ru": "Пчелобав"
+  },
+  "BOW_ITEM_BOX_KIT": {
+    "ru": "Лучник"
+  },
+  "CALLER_ITEM_BOX_KIT": {
+    "ru": "Призыватель"
+  },
+  "CATTLEMAN_ITEM_BOX_KIT": {
+    "ru": "Молодой скотовод"
+  },
+  "CHARMER_ITEM_BOX_KIT": {
+    "ru": "Чарователь"
+  },
+  "COAL_ITEM_BOX_KIT": {
+    "ru": "Угольное чудо"
+  },
+  "COOK_ITEM_BOX_KIT": {
+    "ru": "Повар"
+  },
+  "EMERALD_ITEM_BOX_KIT": {
+    "ru": "Изумрудное чудо"
+  },
+  "END_ITEM_BOX_KIT": {
+    "ru": "Край"
+  },
+  "GARDENER_ITEM_BOX_KIT": {
+    "ru": "Садовник"
+  },
+  "HARMONY_ITEM_BOX_KIT": {
+    "ru": "Душевная гармония"
+  },
+  "LOG_ITEM_BOX_KIT": {
+    "ru": "Древесное чудо"
+  },
+  "NEMOR_ITEM_BOX_KIT": {
+    "ru": "Подводный долгожитель"
+  },
+  "NETHER_ITEM_BOX_KIT": {
+    "ru": "Адский"
+  },
+  "OBSIDIAN_ITEM_BOX_KIT": {
+    "ru": "Обсидиановое чудо"
+  },
+  "OTHER_ITEM_BOX_KIT": {
+    "ru": "Разное"
+  },
+  "PIGLETS_ITEM_BOX_KIT": {
+    "ru": "2 поросенка и сытый волк"
+  },
+  "RAICING_ITEM_BOX_KIT": {
+    "ru": "Мастер скачек"
+  },
+  "REPEAT_ITEM_BOX_KIT": {
+    "ru": "Повторяй за мной"
+  },
+  "RIDER_ITEM_BOX_KIT": {
+    "ru": "Наездник"
+  },
+  "ROGUE_ITEM_BOX_KIT": {
+    "ru": "Разбойник"
+  },
+  "SHEPHERD_ITEM_BOX_KIT": {
+    "ru": "Начинающий пастух"
+  },
+  "SMITH_ITEM_BOX_KIT": {
+    "ru": "Кузнец"
+  },
+  "SOULD_SAND_ITEM_BOX_KIT": {
+    "ru": "Набор песка душ"
+  },
+  "TANK_ITEM_BOX_KIT": {
+    "ru": "Танк"
+  },
+  "TUMBLE_ITEM_BOX_KIT": {
+    "ru": "Кувыркнись"
+  },
+  "UNDED_ITEM_BOX_KIT": {
+    "ru": "Повелитель нежити"
+  },
+  "VILLAGE_ITEM_BOX_KIT": {
+    "ru": "Поселок городского типа"
+  },
+  "WARRIOR_ITEM_BOX_KIT": {
+    "ru": "Воин"
+  },
+  "WITHER_ITEM_BOX_KIT": {
+    "ru": "Иссушитель"
+  },
+  "WOODCUTTER_ITEM_BOX_KIT": {
+    "ru": "Дровосек"
+  },
   "KIT_BOX": {
     "ru": "набор вещей",
     "ua": "набір речей",
