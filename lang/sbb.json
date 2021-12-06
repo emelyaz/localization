@@ -1,0 +1,19 @@
+{
+  "SBB": {
+    "PREFIX": {
+      "ru": "§6Snowbattle §8| §f"
+    },
+    "SNOW_PILE_TITLE": {
+      "ru": "§6Нажмите, чтобы набрать снежков"
+    },
+    "SNOW_PILE_MAX_SNOWBALLS": {
+      "ru": "$SBB_TITLE$§cУ вас уже имеется более 15 снежков!"
+    },
+    "SNOW_PILE_SNOWBALL_GIVEN": {
+      "ru": "$SBB_TITLE$Вы пополнили снежки"
+    },
+    "PLAYER_INVULNERABLE": {
+      "ru": "$SBB_TITLE$§cЭтот игрок появился недавно, вы не можете наносить ему урон"
+    }
+  }
+}

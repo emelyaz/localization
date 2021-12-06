@@ -690,6 +690,9 @@
     "ua": "§fКоманди",
     "en": "§fTeams"
   },
+  "BOARD_REMAINING_TIME": {
+      "ru": "§fДо конца: §a%s"
+  },
   "BOARD_TIME": {
     "ru": "§fВремя",
     "ua": "§fЧас",
