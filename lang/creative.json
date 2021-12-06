@@ -8,7 +8,7 @@
   "CREATIVE_PLOT_55_ICON_NAME": {
     "ru": "§bСоздать участок в мире 55x55"
   },
-  "CREATIVE_PLOT_55_ICON_LORE": {
+  "CREATIVE_PLOT_55_ICON_DESCRIPTION": {
     "ru": [
       "§7Доступен обычным игрокам",
       "§7Чтобы попасть в этот мир",
@@ -20,7 +20,7 @@
   "CREATIVE_PLOT_95_ICON_NAME": {
     "ru": "§bСоздать участок в мире 95x95"
   },
-  "CREATIVE_PLOT_95_ICON_LORE": {
+  "CREATIVE_PLOT_95_ICON_DESCRIPTION": {
     "ru": [
       "§7Доступен от §b§lDIAMOND§7 и выше",
       "§7Чтобы попасть в этот мир",
@@ -32,7 +32,7 @@
   "CREATIVE_PLOT_200_ICON_NAME": {
     "ru": "§bСоздать участок в мире 200x200"
   },
-  "CREATIVE_PLOT_200_ICON_LORE": {
+  "CREATIVE_PLOT_200_ICON_DESCRIPTION": {
     "ru": [
       "§7Доступен от §c§lMAGMA§7 и выше",
       "§7Чтобы попасть в этот мир",
@@ -44,7 +44,7 @@
   "CREATIVE_ALTERNATE_MENU_ICON_NAME": {
     "ru": "§bВарпы, запросы на тп, смена погоды и времени"
   },
-  "CREATIVE_ALTERNATE_MENU_ICON_LORE": {
+  "CREATIVE_ALTERNATE_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7В этом меню вы сможете посмотреть список",
       "§7доступных варпов, установить себе время и",
@@ -56,7 +56,7 @@
   "CREATIVE_BU_MENU_ICON_NAME": {
     "ru": "§bМеню плагина Builders Utilities"
   },
-  "CREATIVE_BU_MENU_ICON_LORE": {
+  "CREATIVE_BU_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7Многие полезные функции для строительства",
       "§7Доступно для всех игроков",
@@ -68,7 +68,7 @@
   "CREATIVE_BLOCKS_MENU_ICON_NAME": {
     "ru": "§bСекретные блоки"
   },
-  "CREATIVE_BLOCKS_MENU_ICON_LORE": {
+  "CREATIVE_BLOCKS_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7В это меню вы сможете найти",
       "§7специальные блоки, которые не получить",
@@ -81,7 +81,7 @@
   "CREATIVE_HEADS_MENU_ICON_NAME": {
     "ru": "§bГоловы для декораций"
   },
-  "CREATIVE_HEADS_MENU_ICON_LORE": {
+  "CREATIVE_HEADS_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7Более 17-ти тысяч различных голов для строительства",
       "§7Команда: §f/heads",
@@ -92,7 +92,7 @@
   "CREATIVE_ASE_MENU_ICON_NAME": {
     "ru": "§bАрмор стенды"
   },
-  "CREATIVE_ASE_MENU_ICON_LORE": {
+  "CREATIVE_ASE_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7Огромный функционал по созданию",
       "§7различных фигур и обьектов из стендов",
@@ -104,7 +104,7 @@
   "CREATIVE_DONATE_INFO_MENU_ICON_NAME": {
     "ru": "§bПлоты и права плагинов"
   },
-  "CREATIVE_DONATE_INFO_MENU_ICON_LORE": {
+  "CREATIVE_DONATE_INFO_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7Обычный игрок может иметь §f3§7 плота в мире",
       "§aplot55§7, а начиная от §b§lDIAMOND",
@@ -117,7 +117,7 @@
   "CREATIVE_HELP_ITEM_NAME": {
     "ru": "§eПомощь по режиму"
   },
-  "CREATIVE_HELP_ITEM_LORE": {
+  "CREATIVE_HELP_ITEM_DESCRIPTION": {
     "ru": [
       "",
       "§7Полезная информация",
@@ -127,7 +127,7 @@
   "CREATIVE_INFO_MENU_ICON_NAME": {
     "ru": "§bОбщая информация об игре"
   },
-  "CREATIVE_INFO_MENU_ICON_LORE": {
+  "CREATIVE_INFO_MENU_ICON_DESCRIPTION": {
     "ru": [
       " §8▪ §7Чтобы занять нужный - §f/plot auto",
       " §8▪ §7Чтобы занять участок на котором вы стоите - §f/plot claim",
@@ -147,7 +147,7 @@
   "CREATIVE_BANNERS_MENU_ICON_NAME": {
     "ru": "§bБаннеры"
   },
-  "CREATIVE_BANNERS_MENU_ICON_LORE": {
+  "CREATIVE_BANNERS_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7Создавайте свои уникальные банеры",
       "§7Команда: §f/banner",
@@ -158,7 +158,7 @@
   "CREATIVE_COLORED_ARMOR_MENU_ICON_NAME": {
     "ru": "§bЦветная броня"
   },
-  "CREATIVE_COLORED_ARMOR_MENU_ICON_LORE": {
+  "CREATIVE_COLORED_ARMOR_MENU_ICON_DESCRIPTION": {
     "ru": [
       "§7Быстрый способ подобрать и покрасить",
       "§7броню в нужный вам цвет",
