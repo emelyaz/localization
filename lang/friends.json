@@ -126,9 +126,9 @@
     "en": "§cThis player is not your friend"
   },
   "FRIENDS_ONLINE": {
-    "ru": "§6Друзья §8| §fВ онлайне §a%d §f%s",
-    "ua": "§6Друзі §8| §fОнлайн §a%d §f%s",
-    "en": "§6Friends §8| §fOnline §a%d §f%s"
+    "ru": "§6Друзья §8| §fВ онлайне §a%s §f%s",
+    "ua": "§6Друзі §8| §fОнлайн §a%s §f%s",
+    "en": "§6Friends §8| §fOnline §a%s §f%s"
   },
   "FRIENDS_PLAYER_REMOVED": {
     "ru": "§6Друзья §8| §fИгрок %s §fбыл удален из вашего списка друзей",
