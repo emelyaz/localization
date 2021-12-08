@@ -18,8 +18,14 @@
     "SNOW_PILE_COOLDOWN": {
       "ru": "$SBB_PREFIX$§cПодождите, прежде чем заново набрать снежки отсюда"
     },
-    "BOOSTER_PICKUP": {
-      "ru": "$SBB_PREFIX$Вы получили усиление - %0"
+    "ACTIVE_BOOSTER": {
+      "ru": "$SBB_PREFIX$Вы активировали усиление %0"
+    },
+    "ACTIVE_EXPIRING_BOOSTER": {
+      "ru": "$SBB_PREFIX$Вы активировали усиление %0 §fна §a%1 §fсек."
+    },
+    "INACTIVE_BOOSTER": {
+      "ru": "$SBB_PREFIX$Усиление %0 §fдеактивировано"
     },
     "BOOSTER": {
       "INFINITY_SNOWBALLS": {
