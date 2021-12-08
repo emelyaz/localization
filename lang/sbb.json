@@ -21,6 +21,12 @@
     "ACTIVE_BOOSTER": {
       "ru": "$SBB_PREFIX$Вы активировали усиление %0"
     },
+    "ULTIMATE_BOOSTER_REMAINING": {
+      "ru": "§7До появления центрального усиления осталось §e%0 §7сек."
+    },
+    "ULTIMATE_BOOSTER_SPAWNED": {
+      "ru": "§7Центральный усилитель появился!"
+    },
     "ACTIVE_EXPIRING_BOOSTER": {
       "ru": "$SBB_PREFIX$Вы активировали усиление %0 §fна §a%1 §fсек."
     },
@@ -51,6 +57,9 @@
       },
       "SNOWBALL": {
         "ru": "§bСнежный ком"
+      },
+      "SNOWMAN": {
+        "ru": "§6Снеговик"
       }
     }
   }
