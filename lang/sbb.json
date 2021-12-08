@@ -18,6 +18,9 @@
     "SNOW_PILE_COOLDOWN": {
       "ru": "$SBB_PREFIX$§cПодождите, прежде чем заново набрать снежки отсюда"
     },
+    "BOOSTER_PICKUP": {
+      "ru": "$SBB_PREFIX$Вы получили усиление - %0"
+    },
     "BOOSTER": {
       "INFINITY_SNOWBALLS": {
         "ru": "§9Бесконечные снежки"
