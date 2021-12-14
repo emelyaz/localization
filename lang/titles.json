@@ -2,6 +2,69 @@
   "TITLE_CATEGORY": {
     "BASE": {
       "ru": "§fБазовые"
+    },
+    "MARVEL": {
+      "ru": "§cMarvel §fStudio"
+    },
+    "STAR_WARS": {
+      "ru": "§fStarWars"
+    },
+    "PROFESSION": {
+      "ru": "§7Профессии"
+    },
+    "DOTA": {
+      "ru": "§7Dota 2"
+    },
+    "GAME_OF_THRONES": {
+      "ru": "§7Игра престолов"
+    },
+    "MIDDLE_AGES": {
+      "ru": "Средние века"
+    },
+    "STAR_CRAFT": {
+      "ru": "§fStar Craft"
+    },
+    "LORD_OF_THE_RINGS": {
+      "ru": "§eВластелин Колец"
+    },
+    "ANIME": {
+      "ru": "§cАниме"
+    },
+    "ANIMALS": {
+      "ru": "§9Животные"
+    },
+    "PIRATES_OF_THE_CARIBBEAN": {
+      "ru": "§9Пираты Карибского моря"
+    },
+    "SHREK": {
+      "ru": "§2Шрек"
+    },
+    "CHRISTMAS": {
+      "ru": "§9Новый Год"
+    },
+    "LUST": {
+      "ru": "§cПохотливые"
+    },
+    "THE_WITCHER": {
+      "ru": "§7The §4Witcher"
+    },
+    "CYBER_SPORT": {
+      "ru": "§7Киберспорт"
+    },
+    "MILITARY": {
+      "ru": "§7Военнослужащие"
+    },
+    "MEMES": {
+      "ru": "§cМемы"
+    },
+    "SUBCULTURES": {
+      "ru": "§eСубкультуры"
+    },
+    "HALLOWEEN": {
+      "ru": "§eМонстры"
+    },
+    "MUSIC": {
+      "ru": "§bМузыка"
     }
   }
 }
