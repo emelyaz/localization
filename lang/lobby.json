@@ -353,9 +353,9 @@
     ]
   },
   "BOOSTER_HELP_ITEM_NAME": {
-    "ru": "§bПомощь по бустерам",
-    "ua": "§bДопомога по бустерах",
-    "en": "§bBooster help"
+    "ru": "Помощь по бустерам",
+    "ua": "Допомога по бустерах",
+    "en": "Booster help"
   },
   "BOOSTER_LORE": {
     "ru": [
@@ -4013,9 +4013,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_BOOSTER_BUY_NAME": {
-    "ru": "§bПокупка бустеров",
-    "ua": "§bКупівля бустерів",
-    "en": "§bBuying boosters"
+    "ru": "Покупка бустеров",
+    "ua": "Купівля бустерів",
+    "en": "Buying boosters"
   },
   "PROFILE_MAIN_ITEM_BOOSTER_NAME": {
     "ru": "Бустеры",
@@ -4058,9 +4058,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_COSMETIC_NAME": {
-    "ru": "§bМагазин эффектов",
-    "ua": "§bМагазин ефектів",
-    "en": "§bEffects store"
+    "ru": "Магазин эффектов",
+    "ua": "Магазин ефектів",
+    "en": "Effects store"
   },
   "PROFILE_MAIN_ITEM_DONATE_LORE": {
     "ru": [
@@ -4083,9 +4083,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_DONATE_NAME": {
-    "ru": "§bПривилегии",
-    "ua": "§bПривілеї",
-    "en": "§bPrivilege"
+    "ru": "Привилегии",
+    "ua": "Привілеї",
+    "en": "Privilege"
   },
   "PROFILE_MAIN_ITEM_INFO_LORE": {
     "ru": [
@@ -4108,9 +4108,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_INFO_NAME": {
-    "ru": "§bИнформация",
-    "ua": "§bІнформація",
-    "en": "§bInformation"
+    "ru": "Информация",
+    "ua": "Інформація",
+    "en": "Information"
   },
   "PROFILE_MAIN_ITEM_LANG_LORE1": {
     "ru": [
@@ -4159,9 +4159,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_LANG_NAME": {
-    "ru": "§bСмена языка",
-    "ua": "§bЗміна мов",
-    "en": "§bSwitch language"
+    "ru": "Смена языка",
+    "ua": "Зміна мов",
+    "en": "Switch language"
   },
   "PROFILE_MAIN_ITEM_LEVEL_LORE": {
     "ru": [
@@ -4202,9 +4202,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_LEVEL_NAME": {
-    "ru": "§bУровень",
-    "ua": "§bРівень",
-    "en": "§bLevel"
+    "ru": "Уровень",
+    "ua": "Рівень",
+    "en": "Level"
   },
   "PROFILE_MAIN_ITEM_PLAYER_LORE": {
     "ru": [
@@ -4254,9 +4254,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_PLAYER_NAME": {
-    "ru": "§bОбщая информация",
-    "ua": "§bЗагальна інформація",
-    "en": "§bGeneral information"
+    "ru": "Общая информация",
+    "ua": "Загальна інформація",
+    "en": "General information"
   },
   "PROFILE_MAIN_ITEM_SETTINGS_LORE": {
     "ru": [
@@ -4276,9 +4276,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_SETTINGS_NAME": {
-    "ru": "§bНастройки",
-    "ua": "§bНалаштування",
-    "en": "§bSettings"
+    "ru": "Настройки",
+    "ua": "Налаштування",
+    "en": "Settings"
   },
   "PROFILE_MAIN_ITEM_STATS_LORE": {
     "ru": [
@@ -4310,9 +4310,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_STATS_NAME": {
-    "ru": "§bСтатистика",
-    "ua": "§bСтатистика",
-    "en": "§bStatistics"
+    "ru": "Статистика",
+    "ua": "Статистика",
+    "en": "Statistics"
   },
   "PROFILE_MAIN_ITEM_TITLE_LORE": {
     "ru": [
@@ -4350,9 +4350,9 @@
     ]
   },
   "PROFILE_MAIN_ITEM_TITLE_NAME": {
-    "ru": "§bТитулы",
-    "ua": "§bТитули",
-    "en": "§bTitles"
+    "ru": "Титулы",
+    "ua": "Титули",
+    "en": "Titles"
   },
   "PROFILE_STATS_GUI_NAME": {
     "ru": "Статистика",
