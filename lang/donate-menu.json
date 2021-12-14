@@ -40,9 +40,9 @@
     "en": "Quick messages"
   },
   "DONATE_MENU_GUI": {
-    "ru": "Меню донатера",
-    "ua": "Меню донатера",
-    "en": "Donator's menu"
+    "ru": "§bМеню донатера",
+    "ua": "§bМеню донатера",
+    "en": "§bDonator's menu"
   },
   "DONATE_MENU_GUI_LORE": {
     "ru": [

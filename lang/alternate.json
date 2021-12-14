@@ -4,6 +4,12 @@
     "ua": "Меню",
     "en": "Menu"
   },
+  "STACKER_ERROR_ITEM": {
+    "ru": "§cУ вас недостаточно еды для кормления"
+  },
+  "STACKER_ERROR_LIMIT": {
+    "ru": "§cЖивотные не голодные, следующие кормление возможно через %s"
+  },
   "AUCTION_ACCEPT_ALL_LORE": {
     "ru": [
       "",
