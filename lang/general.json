@@ -3228,6 +3228,9 @@
     "ua": "%s§f вирішив покинути наш світ",
     "en": "%s§f decided to leave our world"
   },
+  "DAMAGE_CAUSE_KILLED_BY_SNOWMAN": {
+    "ru": "%s§f был убит снеговиком"
+  },
   "DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD": {
     "ru": "%s§f был убит туманным зельем",
     "ua": "%s§f був убитий туманним зіллям",
@@ -3522,11 +3525,6 @@
     "ru": "%s§f застрелен игроком %s",
     "ua": "%s§f застрелений гравцем %s",
     "en": "%s§f has been shot by player %s"
-  },
-  "DAMAGE_CAUSE_SUCIDE": {
-    "ru": "%s§f решил покончить жизнь самоубийством",
-    "ua": "%s§f вирішив покінчити життя самогубством",
-    "en": "%s§f decided to commit suicide"
   },
   "DAMAGE_CAUSE_SUICIDE": {
     "ru": "%s§f решил покончить жизнь самоубийством",
