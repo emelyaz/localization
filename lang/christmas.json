@@ -55,5 +55,23 @@
   },
   "CHRISTMAS_PHRASE_PLAYER_WITHOUT_SKATES": {
     "ru": "§fХорошей езды!" 
+  },
+  "CHRISTMAS_PHRASE_HORSEMAN_ALREADY_HAS_WITH_SKATES": {
+    "ru": "§c$!%#?" 
+  },
+  "CHRISTMAS_PHRASE_HORSEMAN_PLAYER_WITH_SKATES": {
+    "ru": "§fКлассные коньки, но не вздумай надевать их на коня!" 
+  },
+  "CHRISTMAS_PHRASE_HORSEMAN_ALREADY_HAS": {
+    "ru": "§fКакой красивый конь, кто тебе его дал?" 
+  },
+  "CHRISTMAS_PHRASE_HORSEMAN_PLAYER_WITHOUT_SKATES": {
+    "ru": "§fБери коня, не пожалеешь!" 
+  },
+  "CHRISTMAS_HORSEMAN_NPC_HOLOGRAM_1": {
+    "ru": "§eКонюх Фёдор" 
+  },
+  "CHRISTMAS_HORSEMAN_NPC_HOLOGRAM_2": {
+    "ru": "§fНажмите, чтобы взять лошадь напрокат" 
   }
 }
