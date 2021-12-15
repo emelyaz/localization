@@ -44,16 +44,16 @@
   "CHRISTMAS_SKATE_NPC_HOLOGRAM": {
     "ru": "§fВзять коньки" 
   },
-  "CHRISTMAS_PHRASE_HORSE_WITH_SKATES": {
+  "CHRISTMAS_PHRASE_SKATE_HORSE_WITH_SKATES": {
     "ru": "§fНу вот, другое дело!" 
   },
-  "CHRISTMAS_PHRASE_HORSE_WITHOUT_SKATES": {
+  "CHRISTMAS_PHRASE_SKATE_HORSE_WITHOUT_SKATES": {
     "ru": "§fКрасивая лошадь, давай нацепим на нее коньки!" 
   },
-  "CHRISTMAS_PHRASE_PLAYER_WITH_SKATES": {
+  "CHRISTMAS_PHRASE_SKATE_PLAYER_WITH_SKATES": {
     "ru": "§fУ тебя уже есть коньки!" 
   },
-  "CHRISTMAS_PHRASE_PLAYER_WITHOUT_SKATES": {
+  "CHRISTMAS_PHRASE_SKATE_PLAYER_WITHOUT_SKATES": {
     "ru": "§fХорошей езды!" 
   },
   "CHRISTMAS_PHRASE_HORSEMAN_ALREADY_HAS_WITH_SKATES": {
