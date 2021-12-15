@@ -31,5 +31,29 @@
   },
   "CHRISTMAS_SNOWBALLS_NO_FLY": {
     "ru": "§cОшибка, Вы не можете кидать снежки в режиме полёта" 
+  },
+  "CHRISTMAS_SKATE_NPC_1": {
+    "ru": "§eПупа" 
+  },
+  "CHRISTMAS_SKATE_NPC_2": {
+    "ru": "§eЗахар" 
+  },
+  "CHRISTMAS_SKATE_NPC_3": {
+    "ru": "§eЛупа" 
+  },
+  "CHRISTMAS_SKATE_NPC_HOLOGRAM": {
+    "ru": "§fВзять коньки" 
+  },
+  "CHRISTMAS_PHRASE_HORSE_WITH_SKATES": {
+    "ru": "§fНу вот, другое дело!" 
+  },
+  "CHRISTMAS_PHRASE_HORSE_WITHOUT_SKATES": {
+    "ru": "§fКрасивая лошадь, давай нацепим на нее коньки!" 
+  },
+  "CHRISTMAS_PHRASE_PLAYER_WITH_SKATES": {
+    "ru": "§fУ тебя уже есть коньки!" 
+  },
+  "CHRISTMAS_PHRASE_PLAYER_WITHOUT_SKATES": {
+    "ru": "§fХорошей езды!" 
   }
 }
