@@ -1,5 +1,35 @@
 {
+  "CHRISTMAS_PREFIX": {
+    "ru": "§cNew§2Year §8| §f"
+  },
   "BOARD_CHRISTMAS_PRESENTS_FOUND": {
     "ru": "§fНайдено подарков: §b%s/%s"
+  },
+  "CHRISTMAS_TOGGLESNOW_ENABLED": {
+    "ru": "$CHRISTMAS_PREFIX$Вы включили отображение снега"
+  },
+  "CHRISTMAS_TOGGLESNOW_DISABLED": {
+    "ru": "$CHRISTMAS_PREFIX$Вы отключили отображение снега"
+  },
+  "CHRISTMAS_TOGGLESNOWBALLS_ENABLED": {
+    "ru": "$CHRISTMAS_PREFIX$Снежки включены!"
+  },
+  "CHRISTMAS_TOGGLESNOWBALLS_DISABLED": {
+    "ru": "$CHRISTMAS_PREFIX$Снежки выключены!"
+  },
+  "CHRISTMAS_TOGGLESNOW_NOTIFY": {
+    "ru": "$CHRISTMAS_PREFIX$Чтобы отключить отображение снега, используйте §a/togglesnow"
+  },
+  "CHRISTMAS_SNOWBALLS_TARGET_DISABLED": {
+    "ru": "§cОшибка, данный игрок не хочет играть в снежки!"
+  },
+  "CHRISTMAS_ALREADY_HAVE_SNOWBALLS": {
+    "ru": "§cОшибка, у Вас уже есть снежки!" 
+  },
+  "CHRISTMAS_OUT_OF_SNOWBALLS": {
+    "ru": "$CHRISTMAS_PREFIX$У вас закончились снежки. Чтобы пополнить запасы, нажмите ПКМ на любой блок снега"
+  },
+  "CHRISTMAS_SNOWBALLS_NO_FLY": {
+    "ru": "§cОшибка, Вы не можете кидать снежки в режиме полёта" 
   }
 }
