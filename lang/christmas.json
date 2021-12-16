@@ -73,5 +73,14 @@
   },
   "CHRISTMAS_HORSEMAN_NPC_HOLOGRAM_2": {
     "ru": "§fНажмите, чтобы взять лошадь" 
-  }
+  },
+  "CHRISTMAS_SKATES_ITEM_NAME": {
+    "ru": "§bКоньки" 
+  },
+  "CHRISTMAS_SKATES_ITEM_LORE": {
+    "ru": [
+      "§7Используй их, чтобы быстрее",
+      "§7передвигаться по льду"
+    ]
+  },
 }
