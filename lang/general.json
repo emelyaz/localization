@@ -3229,7 +3229,10 @@
     "en": "%s§f decided to leave our world"
   },
   "DAMAGE_CAUSE_KILLED_BY_SNOWMAN": {
-    "ru": "%s§f был убит снеговиком"
+    "ru": "%0§f был убит снеговиком"
+  },
+  "DAMAGE_CAUSE_KILLED_BY_SNOWMAN_OF": {
+    "ru": "%0§f был убит снеговиком игрока %1"
   },
   "DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD": {
     "ru": "%s§f был убит туманным зельем",
