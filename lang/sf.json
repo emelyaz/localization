@@ -1,25 +1,25 @@
 {
-  "SBB": {
+  "SF": {
     "PREFIX": {
-      "ru": "§6Snowball Battle §8| §f"
+      "ru": "§6Snowfight §8| §f"
     },
     "SNOW_PILE_TITLE": {
       "ru": "§6Набрать снег"
     },
     "SNOW_PILE_MAX_SNOWBALLS": {
-      "ru": "$SBB_PREFIX$§cУ вас уже имеется более 15 снежков!"
+      "ru": "$SF_PREFIX$§cУ вас уже имеется более 15 снежков!"
     },
     "SNOW_PILE_SNOWBALL_GIVEN": {
-      "ru": "$SBB_PREFIX$Вы пополнили снежки"
+      "ru": "$SF_PREFIX$Вы пополнили снежки"
     },
     "PLAYER_INVULNERABLE": {
-      "ru": "$SBB_PREFIX$§cЭтот игрок появился недавно, вы не можете наносить ему урон"
+      "ru": "$SF_PREFIX$§cЭтот игрок появился недавно, вы не можете наносить ему урон"
     },
     "SNOW_PILE_COOLDOWN": {
-      "ru": "$SBB_PREFIX$§cПодождите, прежде чем заново набрать снежки отсюда"
+      "ru": "$SF_PREFIX$§cПодождите, прежде чем заново набрать снежки отсюда"
     },
     "ACTIVE_BOOSTER": {
-      "ru": "$SBB_PREFIX$Вы активировали усиление %0"
+      "ru": "$SF_PREFIX$Вы активировали усиление %0"
     },
     "ULTIMATE_BOOSTER_REMAINING": {
       "ru": "§7До появления центрального усиления осталось §e%0 §7сек."
@@ -28,10 +28,10 @@
       "ru": "§7Центральный усилитель появился!"
     },
     "ACTIVE_EXPIRING_BOOSTER": {
-      "ru": "$SBB_PREFIX$Вы активировали усиление %0 §fна §a%1 §fсек."
+      "ru": "$SF_PREFIX$Вы активировали усиление %0 §fна §a%1 §fсек."
     },
     "INACTIVE_BOOSTER": {
-      "ru": "$SBB_PREFIX$Усиление %0 §fдеактивировано"
+      "ru": "$SF_PREFIX$Усиление %0 §fдеактивировано"
     },
     "BOOSTER": {
       "RAPID_FIRE": {
