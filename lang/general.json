@@ -1119,59 +1119,70 @@
     "ua": " §8• §b%s §7%s (ваш баланс §b%s §7%s)",
     "en": " §8• §b%s §7%s (your balance is §b%s §7%s)"
   },
-  "COMMAND_ARGUMENT_FRIEND": {
-    "ru": "ник друга"
-  },
-  "COMMAND_ARGUMENT_GUILD": {
-    "ru": "имя гильдии"
-  },
-  "COMMAND_ARGUMENT_ID": {
-    "ru": "ID"
-  },
-  "COMMAND_ARGUMENT_LINE": {
-    "ru": "строка"
-  },
-  "COMMAND_ARGUMENT_MESSAGE": {
-    "ru": "сообщение"
-  },
-  "COMMAND_ARGUMENT_MONEY": {
-    "ru": "сумма"
-  },
-  "COMMAND_ARGUMENT_NEW_PLAYER": {
-    "ru": "новый игрок"
-  },
-  "COMMAND_ARGUMENT_OLD_PLAYER": {
-    "ru": "старый игрок"
-  },
-  "COMMAND_ARGUMENT_PLAYER": {
-    "ru": "ник игрока"
-  },
-  "COMMAND_ARGUMENT_RANK": {
-    "ru": "ранг"
-  },
-  "COMMAND_ARGUMENT_REASON": {
-    "ru": "причина"
-  },
-  "COMMAND_ARGUMENT_SERVER": {
-    "ru": "сервер"
-  },
-  "COMMAND_ARGUMENT_SETTING": {
-    "ru": "настройка"
-  },
-  "COMMAND_ARGUMENT_TAG": {
-    "ru": "тэг"
-  },
-  "COMMAND_ARGUMENT_VALUE": {
-    "ru": "значение"
-  },
-  "COMMAND_ARGUMENT_DOMAIN": {
-    "ru": "домен"
-  },
-  "COMMAND_ARGUMENT_START_DATE": {
-    "ru": "стартовая дата"
-  },
-  "COMMAND_ARGUMENT_END_DATE": {
-    "ru": "конечная дата"
+  "COMMAND_ARGUMENT": {
+    "FRIEND": {
+      "ru": "ник друга"
+    },
+    "GUILD": {
+      "ru": "имя гильдии"
+    },
+    "ID": {
+      "ru": "ID"
+    },
+    "LINE": {
+      "ru": "строка"
+    },
+    "MESSAGE": {
+      "ru": "сообщение"
+    },
+    "MONEY": {
+      "ru": "сумма"
+    },
+    "RARITY": {
+      "ru": "редкость"
+    },
+    "NEW_PLAYER": {
+      "ru": "новый игрок"
+    },
+    "OLD_PLAYER": {
+      "ru": "старый игрок"
+    },
+    "PLAYER": {
+      "ru": "ник игрока"
+    },
+    "NAME": {
+      "ru": "имя"
+    },
+    "TITLE_CATEGORY_ID": {
+      "ru": "ID категории"
+    },
+    "RANK": {
+      "ru": "ранг"
+    },
+    "REASON": {
+      "ru": "причина"
+    },
+    "SERVER": {
+      "ru": "сервер"
+    },
+    "SETTING": {
+      "ru": "настройка"
+    },
+    "TAG": {
+      "ru": "тэг"
+    },
+    "VALUE": {
+      "ru": "значение"
+    },
+    "DOMAIN": {
+      "ru": "домен"
+    },
+    "START_DATE": {
+      "ru": "стартовая дата"
+    },
+    "END_DATE": {
+      "ru": "конечная дата"
+    }
   },
   "COMMAND_CONSOLE_ONLY": {
     "ru": "§cДанную команду можно использовать только от имени консоли!"
