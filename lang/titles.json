@@ -14,8 +14,11 @@
   "TITLE_ADD_DESCRIPTION": {
     "ru": "добавить титул"
   },
-  "TITLE_ADD_CATEGORY_DESCRIPTION": {
+  "TITLE_ADDCATEGORY_DESCRIPTION": {
     "ru": "добавить категорию"
+  },
+  "TITLE_LIST_DESCRIPTION": {
+    "ru": "список категорий / титулов"
   },
   "TITLE_FLUSH_DESCRIPTION": {
     "ru": "обновить титулы на всех серверах"
