@@ -1159,6 +1159,9 @@
     "TITLE_CATEGORY_ID": {
       "ru": "ID категории"
     },
+    "TITLE_ID": {
+      "ru": "ID титула"
+    },
     "RANK": {
       "ru": "ранг"
     },
