@@ -20,6 +20,9 @@
   "TITLE_LIST_DESCRIPTION": {
     "ru": "список категорий / титулов"
   },
+  "TITLE_CATEGORY_ADD_SUCCESSFUL": {
+    "ru": "$TITLE_PREFIX$Категория титулов создана"
+  },
   "TITLE_FLUSH_DESCRIPTION": {
     "ru": "обновить титулы на всех серверах"
   },
