@@ -11,6 +11,15 @@
   "TITLE_CATEGORY_LIST_ENTRY": {
     "ru": " §7[§6%0§7] §f%1"
   },
+  "TITLE_ADD_DESCRIPTION": {
+    "ru": "добавить титул"
+  },
+  "TITLE_ADD_CATEGORY_DESCRIPTION": {
+    "ru": "добавить категорию"
+  },
+  "TITLE_FLUSH_DESCRIPTION": {
+    "ru": "обновить титулы на всех серверах"
+  },
   "TITLE_LIST_ENTRY": {
     "ru": " §7[§6%0§7] §f%1 §7(редкость: §e%2§7)"
   },
