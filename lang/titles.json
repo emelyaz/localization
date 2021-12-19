@@ -38,7 +38,7 @@
   "TITLE_LIST_ENTRY": {
     "ru": " §7[§6%0§7] §f%1 §7(редкость: §e%2§7)"
   },
-  "TITLE_LIST_ENTRY_PURCHASABLE": {
+  "TITLE_LIST_PURCHASABLE_ENTRY": {
     "ru": " §7[§6%0§7] §f%1 §7(редкость: §e%2§7, цена §6%3§7 золота)"
   },
   "TITLE_CATEGORY_ADD_BAD_ICON": {
