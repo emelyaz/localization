@@ -57,11 +57,11 @@
     "NAMES": {
       "ru": "§aИмена"
     },
+    "CUSTOM": {
+      "ru": "§9Индивидуальные"
+    },
     "BRAWL_STARS": {
       "ru": "§еBrawl Stars"
-    },
-    "GACHI": {
-      "ru": "§fGachi"
     },
     "BASE": {
       "ru": "§fБазовые"
