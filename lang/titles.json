@@ -5,7 +5,7 @@
   "TITLE_GIVE": {
     "ru": "$TITLE_PREFIX$Титул §7%1 §fбыл выдан игроку %0"
   },
-  "TITLE_GIVE_NOT_FOUND": {
+  "TITLE_NOT_FOUND": {
     "ru": "$TITLE_PREFIX$Титул с ID §e%0 §fне найден"
   },
   "TITLE_CATEGORY_LIST": {
@@ -52,6 +52,18 @@
   },
   "TITLE_FLUSH": {
     "ru": "$TITLE_PREFIX$Титулы были обновлены на всех серверах"
+  },
+  "TITLE_REMOVE_DESCRIPTION": {
+    "ru": "удалить титул"
+  },
+  "TITLE_REMOVED": {
+    "ru": "$TITLE_PREFIX$Титул %0§f удалён"
+  },
+  "TITLE_TAKE_DESCRIPTION": {
+    "ru": "забрать титул у игрока"
+  },
+  "TITLE_TAKEN": {
+    "ru": "$TITLE_PREFIX$Вы забрали титул %0§f у игрока %1"
   },
   "TITLE_CATEGORY": {
     "NAMES": {
