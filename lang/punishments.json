@@ -219,6 +219,17 @@
     "ua": "/mute <нік> <час> <причина>",
     "en": "/mute <nickname> <time> <reason>"
   },
+  "MASSBAN_FORMAT": {
+    "ru": "/massban <регулярное выражение> <время/e> <причина>",
+    "ua": "/massban <регулярний вираз> <час> <причина>",
+    "en": "/massban <regular expression> <time> <reason>"
+  },
+  "MASSBAN_NO_MATCHES": {
+    "ru": "§cОшибка, игроков, чьи ники подходят по указанному выражению не найдено"
+  },
+  "MASSBAN_TOO_MANY_MATCHES": {
+    "ru": "§cОшибка, Вы не можете заблокировать одновременно более 10 игроков" 
+  },
   "NOT_BANNED": {
     "ru": "%s §cне заблокирован",
     "ua": "%s §cне заблокований",
