@@ -69,6 +69,21 @@
     "NAMES": {
       "ru": "§aИмена"
     },
+    "ZODIAC": {
+      "ru": "§bЗнаки Зодиака"
+    },
+    "MONEY": {
+      "ru": "§eДеньги"
+    },
+    "FOOD": {
+      "ru": "§aЕда"
+    },
+    "GACHI": {
+      "ru": "§fGachi"
+    },
+    "GENSHIN": {
+      "ru": "§fGenshin Impact"
+    },
     "SPONGE_BOB": {
       "ru": "§eГубка Боб"
     },
