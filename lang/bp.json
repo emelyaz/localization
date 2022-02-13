@@ -1,0 +1,29 @@
+{
+  "BLOCKPARTY": {
+    "ROUND_ITEM_NAME": {
+      "ru": "§f§lЦвет раунда"
+    },
+    "ROUND_ITEM_LORE": {
+      "ru": [
+        "§7Встаньте на этот блок вовремя",
+        "§7чтобы не упасть. У вас есть всего",
+        "§7несколько секунд"
+      ]
+    },
+    "BOARD_PERIOD_LENGTH": {
+      "ru": "§fИнтервал: §a%sс."
+    },
+    "BOARD_PERIOD_INDEX": {
+      "ru": "§fРаунд: §6№%s"
+    },
+    "BLOCK_CHANGING_ACTIONBAR": {
+      "ru": "§6§lИдёт выбор блока..."
+    },
+    "BLOCK_DANCING": {
+      "ru": "%0%1 %2 %1"
+    },
+    "BLOCK_STOP_ACTIONBAR": {
+      "ru": "§c§lСТОП!"
+    }
+  }
+}
