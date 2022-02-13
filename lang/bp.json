@@ -24,6 +24,54 @@
     },
     "BLOCK_STOP_ACTIONBAR": {
       "ru": "§c§lСТОП!"
+    },
+    "COLOR_NAME_0": {
+      "ru": "§fБелый"
+    },
+    "COLOR_NAME_1": {
+      "ru": "§6Оранжевый"
+    },
+    "COLOR_NAME_2": {
+      "ru": "§5Пурпурный"
+    },
+    "COLOR_NAME_3": {
+      "ru": "§bГолубой"
+    },
+    "COLOR_NAME_4": {
+      "ru": "§eЖёлтый"
+    },
+    "COLOR_NAME_5": {
+      "ru": "§aЛаймовый"
+    },
+    "COLOR_NAME_6": {
+      "ru": "§dРозовый"
+    },
+    "COLOR_NAME_7": {
+      "ru": "§8Тёмно-серый"
+    },
+    "COLOR_NAME_8": {
+      "ru": "§7Серый"
+    },
+    "COLOR_NAME_9": {
+      "ru": "§3Бирюзовый"
+    },
+    "COLOR_NAME_10": {
+      "ru": "§5Фиолетовый"
+    },
+    "COLOR_NAME_11": {
+      "ru": "§1Синий"
+    },
+    "COLOR_NAME_12": {
+      "ru": "§8Коричневый"
+    },
+    "COLOR_NAME_13": {
+      "ru": "§2Зелёный"
+    },
+    "COLOR_NAME_14": {
+      "ru": "§cКрасный"
+    },
+    "COLOR_NAME_15": {
+      "ru": "§0Чёрный"
     }
   }
 }
