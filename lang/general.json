@@ -435,6 +435,9 @@
     "ua": "§eОдиночный режим",
     "en": "§eSingle mode"
   },
+  "ARCADE_GAME_TYPE": {
+    "ru": "Аркадные игры"
+  },
   "BEDWARS_TEAM_TYPE": {
     "ru": "§eКомандный режим",
     "ua": "§eКомандний режим",

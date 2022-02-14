@@ -92,6 +92,9 @@
     },
     "DEATH_CAUSE_ELIMINATED": {
       "ru": "%s §fвыбыл из игры!"
+    },
+    "ROUNDS_SURVIVED_STAT": {
+      "ru": "Раундов пережито на BlockParty"
     }
   }
 }
