@@ -89,6 +89,9 @@
     },
     "GAME_START_SUBTITLE": {
       "ru": "§7Встаньте на нужный блок!"
+    },
+    "DEATH_CAUSE_ELIMINATED": {
+      "ru": "%s §fвыбыл из игры!"
     }
   }
 }
