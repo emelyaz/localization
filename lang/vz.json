@@ -1,9 +1,4 @@
 {
-  "VZ_ZOMBIE_KILLS_STAT": {
-    "ru": "Убито зомби",
-    "ua": "Вбито зомбі",
-    "en": "Zombies killed"
-  },
   "VZ_WIN_VAMPIRES_TITLE": {
     "ru": "§cПобедили вампиры",
     "ua": "§cПеремогли вампіри",
@@ -536,5 +531,11 @@
     "ru": "Выбранные вампиры в этой игре - %s",
     "ua": "Вибрані вампіри у цій грі - %s",
     "en": "Vampires chosen in this game - %s"
+  },
+  "VZ_KILLS_STAT": {
+    "ru": "Убийств игроков в VampireZ"
+  },
+  "VZ_ZOMBIE_KILLS_STAT": {
+    "ru": "Убийств зомби в VampireZ"
   }
 }
