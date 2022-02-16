@@ -3496,40 +3496,80 @@
     "ua": "Вибір острова",
     "en": "Choose island"
   },
-  "SKYBLOCK_SHOP_BLOCKS": {
+  "SKYBLOCK_MARKET_BLOCKS": {
     "ru": "Магазин блоков",
     "ua": "Магазин блоків",
     "en": "Blocks shop"
   },
-  "SKYBLOCK_SHOP_CUSTOM": {
+  "SKYBLOCK_MARKET_CUSTOM": {
     "ru": "Магазин редкостей",
     "ua": "Магазин рідкостей",
     "en": "Rarity shop"
   },
-  "SKYBLOCK_SHOP_EXCHANGER": {
+  "SKYBLOCK_MARKET_EXCHANGER": {
     "ru": "Магазин обменник",
     "ua": "Магазин обмінник",
     "en": "Exchanger shop"
   },
-  "SKYBLOCK_SHOP_FARMING": {
+  "SKYBLOCK_MARKET_FARMING": {
     "ru": "Магазин фермерства",
     "ua": "Магазин фермерства",
     "en": "Farming shop"
   },
-  "SKYBLOCK_SHOP_LOOT": {
+  "SKYBLOCK_MARKET_LOOT": {
     "ru": "Магазин дропа",
     "ua": "Магазин дропа",
     "en": "Drop shop"
   },
-  "SKYBLOCK_SHOP_OTHER": {
+  "SKYBLOCK_MARKET_OTHER": {
     "ru": "Магазин разного",
     "ua": "Магазин різного",
     "en": "Other shop"
   },
-  "SKYBLOCK_SHOP_RES": {
+  "SKYBLOCK_MARKET_RES": {
     "ru": "Магазин ресурсов",
     "ua": "Магазин ресурсів",
     "en": "Resources shop"
+  },
+  "SKYBLOCK_MARKET_RARITIES_NPC": {
+    "ru": "§eРедкости",
+    "ua": "§eРідкості",
+    "en": "§eRarities"
+  },
+  "SKYBLOCK_MARKET_BLOCKS_NPC": {
+    "ru": "§eБлоки",
+    "ua": "§eБлоки",
+    "en": "§eBlocks"
+  },
+  "SKYBLOCK_MARKET_EXCHANGER_NPC": {
+    "ru": "§eОбменник",
+    "ua": "§eОбмінник",
+    "en": "§eExchanger"
+  },
+  "SKYBLOCK_MARKET_FARMING_NPC": {
+    "ru": "§eФермерство",
+    "ua": "§eФермерство",
+    "en": "§eFarming"
+  },
+  "SKYBLOCK_MARKET_FOOD_NPC": {
+    "ru": "§eЕда",
+    "ua": "§eЇжа",
+    "en": "§eFood"
+  },
+  "SKYBLOCK_MARKET_LOOT_NPC": {
+    "ru": "§eРазличный лут",
+    "ua": "§eРізний лут",
+    "en": "§eVarious loot"
+  },
+  "SKYBLOCK_MARKET_ORES_NPC": {
+    "ru": "§eРуды",
+    "ua": "§eРуди",
+    "en": "§eOres"
+  },
+  "SKYBLOCK_MARKET_OTHER_NPC": {
+    "ru": "§eРазное",
+    "ua": "§eРізне",
+    "en": "§eDifferent"
   },
   "SKYBLOCK_UPGRADE_GUI_NAME": {
     "ru": "Улучшения",
