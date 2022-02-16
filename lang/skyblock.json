@@ -3531,7 +3531,7 @@
     "ua": "Магазин ресурсів",
     "en": "Resources shop"
   },
-  "SKYBLOCK_MARKET_RARITIES_NPC": {
+  "SKYBLOCK_MARKET_CUSTOM_NPC": {
     "ru": "§eРедкости",
     "ua": "§eРідкості",
     "en": "§eRarities"
@@ -3561,7 +3561,7 @@
     "ua": "§eРізний лут",
     "en": "§eVarious loot"
   },
-  "SKYBLOCK_MARKET_ORES_NPC": {
+  "SKYBLOCK_MARKET_RES_NPC": {
     "ru": "§eРуды",
     "ua": "§eРуди",
     "en": "§eOres"
