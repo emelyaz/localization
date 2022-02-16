@@ -2079,7 +2079,7 @@
       "",
       "§7Получите после продажи: §a%s",
       "",
-      "§7Нажмите, зажав §fShift§7,",
+      "§7Зажмите §fShift§7,",
       "§7чтобы продать все %s",
       "",
       "§e▸ Нажмите, чтобы продать"
@@ -2097,7 +2097,7 @@
       "",
       "§7Receive after sale: §a%s",
       "",
-      "§7Click with §fShift",
+      "§7Press §fShift",
       "§7to sell everything %s",
       "",
       "§e▸ Click to sell"
