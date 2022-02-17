@@ -1,4 +1,7 @@
 {
+  "ANTICHEAT_PREFIX": {
+    "ru": "§6Античит §8| §f"
+  },
   "ANTICHEAT_VERBOSE": {
     "ru": "§cАнтичит §8| §7%s §fнарушил проверку §e%s §7(сервер - %s, VL - §c%s§7)"
   },
@@ -16,9 +19,9 @@
     ]
   },
   "ANTICHEAT_KICK_PLAYER": {
-    "ru": "§6Античит §8| §fИгрок %s §fбыл кикнут по подозрению в использовании читов",
-    "ua": "§6Антічит §8| §fГравця %s §fкікнули через підозру у використанні стороннього ПО",
-    "en": "§6Anticheat §8| §fPlayer %s §fwas kicked on suspicion of use third-party software"
+    "ru": "$ANTICHEAT_PREFIX$Игрок %s §fбыл кикнут по подозрению в использовании читов",
+    "ua": "$ANTICHEAT_PREFIX$Гравця %s §fкікнули через підозру у використанні стороннього ПО",
+    "en": "$ANTICHEAT_PREFIX$Player %s §fwas kicked on suspicion of use third-party software"
   },
   "ANTICHEAT_BAN_PLAYER": {
     "ru": [
@@ -30,7 +33,7 @@
   },
   "ANTICHEAT_KICK": {
     "ru": [
-      "§6Античит §8| §fВы были отключены от вашей игры по подозрению в использовании стороннего ПО",
+      "$ANTICHEAT_PREFIX$Вы были отключены от вашей игры по подозрению в использовании стороннего ПО",
       " ",
       " §cЕсли Вы считаете это ложным срабатыванием,",
       " §cпожалуйста, сделайте скриншот данного сообщения",
@@ -40,5 +43,11 @@
   },
   "ANTICHEAT_KICK_VERBOSE": {
     "ru": " §8%s"
+  },
+  "ANTICHEAT_VERBOSE_ENABLED": {
+    "ru": "$ANTICHEAT_PREFIX$Вы включили глобальные оповещения о возможных читерах"
+  },
+  "ANTICHEAT_VERBOSE_DISABLED": {
+    "ru": "$ANTICHEAT_PREFIX$Вы отключили глобальные оповещения о возможных читерах. Чтобы включить их снова, напишите эту команду еще раз"
   }
 }
