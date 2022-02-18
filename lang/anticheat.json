@@ -8,7 +8,8 @@
   "ANTICHEAT_VERBOSE_HOVER": {
     "ru": [
       "§7Нажмите для телепортации на",
-      "§7сервер игрока %s"
+      "§7сервер игрока %s",
+      "%s"
     ]
   },
   "ANTICHEAT_VERBOSE_HOVER_DATA": {
