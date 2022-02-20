@@ -27,7 +27,7 @@
     "WAIT_FOR_NEW_ROUND": {
       "ru": "§aОжидайте следующий раунд!"
     },
-    "SPLEEF_BOARD_ROUND_TIME": {
+    "BOARD_ROUND_TIME": {
       "ru": "§fКонец раунда: §a%s"
     }
   }
