@@ -2029,30 +2029,55 @@
     "ua": "Поява снігу",
     "en": "Snow formation"
   },
-  "ISLAND_FLAG_SPAWN_MOB_LORE": {
+  "ISLAND_FLAG_SPAWN_ANIMAL_LORE": {
     "ru": [
       "",
       "§7Позволяет включить или",
       "§7отключить спавн",
-      "§7мобов на территории острова"
+      "§7животных на территории острова"
     ],
     "ua": [
       "",
       "§7Дозволяє увімкнути або",
       "§7відімкнути спавн",
-      "§7мобів на території острова"
+      "§7животных на території острова"
     ],
     "en": [
       "",
       "§7Allows you to enable or",
-      "§7disable mobes spawn",
+      "§7disable animal spawn",
       "§7on the island"
     ]
   },
-  "ISLAND_FLAG_SPAWN_MOB_NAME": {
-    "ru": "Спавн мобов",
-    "ua": "Спавн мобів",
-    "en": "Mobes spawn"
+  "ISLAND_FLAG_SPAWN_ANIMAL_NAME": {
+    "ru": "Спавн животных",
+    "ua": "Спавн животных",
+    "en": "Animal spawn"
+  },
+  "ISLAND_FLAG_SPAWN_MONSTER_LORE": {
+    "ru": [
+      "",
+      "§7Позволяет включить или",
+      "§7отключить спавн",
+      "§7монстров на территории острова"
+    ],
+    "ua": [
+      "",
+      "§7Дозволяє увімкнути або",
+      "§7відімкнути спавн",
+      "§7монстров на території острова"
+    ],
+    "en": [
+      "",
+      "§7Allows you to enable or",
+      "§7disable monsters spawn",
+      "§7on the island"
+    ]
+  },
+  "ISLAND_FLAG_SPAWN_MONSTER_NAME": {
+    "ru": "Спавн монстров",
+    "ua": "Спавн монстров",
+    "en": "Monster spawn"
   },
   "ISLAND_FLAG_TRANSPORT_LORE": {
     "ru": [
