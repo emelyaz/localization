@@ -1,6 +1,6 @@
 {
   "SB_PREFIX": {
-    "ru": "$SB_PREFIX$"
+    "ru": "§6SkyBlock §8| §f"
   },
   "ISLAND_ACCEPT": {
     "ru": "$SB_PREFIX$Вы приняли запрос от игрока %s §fи стали участником острова %s",
