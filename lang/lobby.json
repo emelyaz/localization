@@ -3335,9 +3335,9 @@
     "en": "§eStore"
   },
   "JOIN_PLAYER_LO_LOBBY": {
-    "ru": "%s§f зашел на сервер",
-    "ua": "%s§f зайшов на сервер",
-    "en": "%s§f entered the server"
+    "ru": " §a‣ %0§f зашел на сервер",
+    "ua": " §a‣ %0§f зайшов на сервер",
+    "en": " §a‣ %0§f entered the server"
   },
   "LOBBY_CHANNEL_BEST_SERVER_LORE": {
     "ru": [
