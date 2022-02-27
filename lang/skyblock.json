@@ -689,29 +689,29 @@
     "en": "Drag blocks to this slot"
   },
   "ISLAND_ADDLEVEL_SUCCES": {
-    "ru": "Игрок %s§f поднял очки опыта вашего острова на §a%s §fпунктов",
-    "ua": "Гравець %s§f підняв окуляри досвіду вашого острова на §a%s §fпунктів",
-    "en": "Player %s§f raised the experience points of your island to §a%s §fpoints"
+    "ru": "$SB_PREFIX$Игрок %s§f поднял очки опыта вашего острова на §a%s §fпунктов",
+    "ua": "$SB_PREFIX$Гравець %s§f підняв окуляри досвіду вашого острова на §a%s §fпунктів",
+    "en": "$SB_PREFIX$Player %s§f raised the experience points of your island to §a%s §fpoints"
   },
   "ISLAND_ADDMEMBER_ERROR": {
     "ru": "$SB_PREFIX$§cОшибка, данный игрок уже является участником или владельцем какого-то острова",
-    "ua": "§6SkyBlock §8| §cПомилка, цей гравець вже є учасником або власником якогось острова",
-    "en": "§6SkyBlock §8| §cError, this player is already a member or the owner of some island"
+    "ua": "$SB_PREFIX$§cПомилка, цей гравець вже є учасником або власником якогось острова",
+    "en": "$SB_PREFIX$§cError, this player is already a member or the owner of some island"
   },
   "ISLAND_ADDMEMBER_LIMIT": {
     "ru": "$SB_PREFIX$§cОшибка, вы привысили лимит на кол-во участников вашего острова, кол-во участников не должно превышать %s",
-    "ua": "§6SkyBlock §8| §cПомилка, ви перевищити ліміт на кількість учасників вашого острова, кількість учасників не повинна перевищувати %s",
-    "en": "§6SkyBlock §8| §cError, you have exceeded the limit on the number of members your island, the number of members should not exceed %s"
+    "ua": "$SB_PREFIX$§cПомилка, ви перевищити ліміт на кількість учасників вашого острова, кількість учасників не повинна перевищувати %s",
+    "en": "$SB_PREFIX$§cError, you have exceeded the limit on the number of members your island, the number of members should not exceed %s"
   },
   "ISLAND_ADDMEMBER_YOU": {
     "ru": "$SB_PREFIX$§cОшибка, вы не можете кинуть приглашение сами себе",
-    "ua": "§6SkyBlock §8| §cПомилка, ви не можете кинути запрошення самі собі",
-    "en": "§6SkyBlock §8| §cError, you cannot drop the invitation to yourself"
+    "ua": "$SB_PREFIX$§cПомилка, ви не можете кинути запрошення самі собі",
+    "en": "$SB_PREFIX$§cError, you cannot drop the invitation to yourself"
   },
   "ISLAND_ADD_IGNORE_PLAYER": {
     "ru": "$SB_PREFIX$%s §fбыл добавлен участником %s§f в список нежелательных игроков острова",
-    "ua": "§6SkyBlock §8| %s §fбув доданий учасником %s§f в список небажаних гравців острова",
-    "en": "§6SkyBlock §8| %s §fhas been added by the player %s§f to the list of unwanted island players"
+    "ua": "$SB_PREFIX$%s §fбув доданий учасником %s§f в список небажаних гравців острова",
+    "en": "$SB_PREFIX$%s §fhas been added by the player %s§f to the list of unwanted island players"
   },
   "ISLAND_ADD_PLAYER_REQUEST_1": {
     "ru": " %s §fпредлагает вам играть вместе на своем острове",
@@ -740,8 +740,8 @@
   },
   "ISLAND_ALREADY_CREATE": {
     "ru": "$SB_PREFIX$Ошибка, у вас уже есть остров. Чтобы попасть на свой остров напишите §7/island home",
-    "ua": "§6SkyBlock §8| §fПомилка, у вас вже є острів. Щоб потрапити на свій острів, напишіть §7/island home",
-    "en": "§6SkyBlock §8| §fError, you already have an island. To get in write to your island §7/island home"
+    "ua": "$SB_PREFIX$Помилка, у вас вже є острів. Щоб потрапити на свій острів, напишіть §7/island home",
+    "en": "$SB_PREFIX$Error, you already have an island. To get in write to your island §7/island home"
   },
   "ISLAND_BASALT_GENERATOR_UPGRADE": {
     "ru": "Улучшение генератора базальта",
@@ -764,13 +764,13 @@
   },
   "ISLAND_BEACON_BUY_ALREADY": {
     "ru": "$SB_PREFIX$Вы уже владеете данным эффектом",
-    "ua": "§6SkyBlock §8| §fВи вже володієте даними ефектом",
-    "en": "§6SkyBlock §8| §fYou already own this effect"
+    "ua": "$SB_PREFIX$Ви вже володієте даними ефектом",
+    "en": "$SB_PREFIX$You already own this effect"
   },
   "ISLAND_BEACON_ENABLE_ERROR": {
     "ru": "$SB_PREFIX$Простите, но вы не можете активировать данный эффект, лимит вашего острова на кол-во эффектов §7%s",
-    "ua": "§6SkyBlock §8| §fВибачте, але ви не можете активувати цей ефект, ліміт вашого острова на к-ть ефектів §7%s",
-    "en": "§6SkyBlock §8| §fSorry, but you cannot activate this effect, the limit of your island on the number of effects is §7%s"
+    "ua": "$SB_PREFIX$Вибачте, але ви не можете активувати цей ефект, ліміт вашого острова на к-ть ефектів §7%s",
+    "en": "$SB_PREFIX$Sorry, but you cannot activate this effect, the limit of your island on the number of effects is §7%s"
   },
   "ISLAND_BEACON_GUI_NAME": {
     "ru": "Эффекты",
@@ -779,8 +779,8 @@
   },
   "ISLAND_BEACON_NOT_OPEN": {
     "ru": "$SB_PREFIX$Данный эффект вам недоступен, купите его!",
-    "ua": "§6SkyBlock §8| §fЦей ефект вам недоступний, купіть його!",
-    "en": "§6SkyBlock §8| §fThis effect is not available to you, buy it!"
+    "ua": "$SB_PREFIX$Цей ефект вам недоступний, купіть його!",
+    "en": "$SB_PREFIX$This effect is not available to you, buy it!"
   },
   "ISLAND_BIOME_BASALT_DELTAS_LORE": {
     "ru": [
@@ -800,18 +800,18 @@
   },
   "ISLAND_BIOME_BUY": {
     "ru": "$SB_PREFIX$Вы успешно купили биом §c%s",
-    "ua": "§6SkyBlock §8| §fВи успішно купили біом §c%s",
-    "en": "§6SkyBlock §8| §fYou have successfully purchased a biome §c%s"
+    "ua": "$SB_PREFIX$Ви успішно купили біом §c%s",
+    "en": "$SB_PREFIX$You have successfully purchased a biome §c%s"
   },
   "ISLAND_BIOME_BUY_ALREADY": {
     "ru": "$SB_PREFIX$Вы уже владеете данным биомом",
-    "ua": "§6SkyBlock §8| §fВи вже володієте цим біомом",
-    "en": "§6SkyBlock §8| §fYou already own this biome"
+    "ua": "$SB_PREFIX$Ви вже володієте цим біомом",
+    "en": "$SB_PREFIX$You already own this biome"
   },
   "ISLAND_BIOME_BUY_TO": {
     "ru": "$SB_PREFIX$Игрок %s §fкупил биом §c%s §fза §a%s изумрудных блока",
-    "ua": "§6SkyBlock §8| §fГравець %s §fкупив біом §c%s §fза §a%s смарагдових блоків",
-    "en": "§6SkyBlock §8| §fPlayer %s §fbought biome §c%s §ffor §a%s emerald blocks"
+    "ua": "$SB_PREFIX$Гравець %s §fкупив біом §c%s §fза §a%s смарагдових блоків",
+    "en": "$SB_PREFIX$Player %s §fbought biome §c%s §ffor §a%s emerald blocks"
   },
   "ISLAND_BIOME_CRIMSON_FOREST_LORE": {
     "ru": [
@@ -972,8 +972,8 @@
   },
   "ISLAND_BIOME_NOT_OPEN": {
     "ru": "$SB_PREFIX$Данный биом вам недоступен, купите его!",
-    "ua": "§6SkyBlock §8| §fЦей біом вам недоступний, купіть його!",
-    "en": "§6SkyBlock §8| §fThis biome is not available to you, buy it!"
+    "ua": "$SB_PREFIX$Цей біом вам недоступний, купіть його!",
+    "en": "$SB_PREFIX$This biome is not available to you, buy it!"
   },
   "ISLAND_BIOME_OCEAN_LORE": {
     "ru": [
@@ -1052,13 +1052,13 @@
   },
   "ISLAND_BIOME_SET": {
     "ru": "$SB_PREFIX$Установлен биом §a%s",
-    "ua": "§6SkyBlock §8| §fВстановлений біом §a%s",
-    "en": "§6SkyBlock §8| §fBiome installed §a%s"
+    "ua": "$SB_PREFIX$Встановлений біом §a%s",
+    "en": "$SB_PREFIX$Biome installed §a%s"
   },
   "ISLAND_BIOME_SET_ERROR": {
     "ru": "$SB_PREFIX$Этот биом уже установлен на вашем острове",
-    "ua": "§6SkyBlock §8| §fЦей біом вже встановлений на вашому острові",
-    "en": "§6SkyBlock §8| §fThis biome is already installed on your island"
+    "ua": "$SB_PREFIX$Цей біом вже встановлений на вашому острові",
+    "en": "$SB_PREFIX$This biome is already installed on your island"
   },
   "ISLAND_BIOME_SOUL_SAND_VALLEY_LORE": {
     "ru": [
@@ -1157,13 +1157,13 @@
   },
   "ISLAND_BUY_BASALT_GENERATOR": {
     "ru": "$SB_PREFIX$Игрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня",
-    "ua": "§6SkyBlock §8| §fГравець %s §fполіпшив базальтовий генератор для вашого острова до §a%s §fрівня",
-    "en": "§6SkyBlock §8| §fPlayer %s §fimproved basalt generator for your island to §a%s §flevel"
+    "ua": "$SB_PREFIX$Гравець %s §fполіпшив базальтовий генератор для вашого острова до §a%s §fрівня",
+    "en": "$SB_PREFIX$Player %s §fimproved basalt generator for your island to §a%s §flevel"
   },
   "ISLAND_BUY_BEACON_ALERT": {
     "ru": "$SB_PREFIX$Игрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s",
-    "ua": "§6SkyBlock §8| §fГравець %s §fкупив ефект маяка §7%s §fза §e%s §f%s",
-    "en": "§6SkyBlock §8| §fPlayer %s §fbought lighthouse effect §7%s §ffor §e%s §f%s"
+    "ua": "$SB_PREFIX$Гравець %s §fкупив ефект маяка §7%s §fза §e%s §f%s",
+    "en": "$SB_PREFIX$Player %s §fbought lighthouse effect §7%s §ffor §e%s §f%s"
   },
   "ISLAND_BUY_BEACON_GUI_LORE": {
     "ru": [
@@ -1217,13 +1217,13 @@
   },
   "ISLAND_BUY_GENERATOR": {
     "ru": "$SB_PREFIX$Игрок %s §fулучшил генератор для вашего острова до §a%s §fуровня",
-    "ua": "§6SkyBlock §8| §fГравець %s §fполіпшив генератор для вашого острова до §a%s §fрівня",
-    "en": "§6SkyBlock §8| §fPlayer %s §fimproved generator for your island to §a%s §flevel"
+    "ua": "$SB_PREFIX$Гравець %s §fполіпшив генератор для вашого острова до §a%s §fрівня",
+    "en": "$SB_PREFIX$Player %s §fimproved generator for your island to §a%s §flevel"
   },
   "ISLAND_BUY_UPGRADE": {
     "ru": "$SB_PREFIX$Игрок %s §fкупил улучшение §a%s",
-    "ua": "§6SkyBlock §8| §fГравець %s §fпридбав покращення §a%s",
-    "en": "§6SkyBlock §8| §fPlayer %s §fbought improvement §a%s"
+    "ua": "$SB_PREFIX$Гравець %s §fпридбав покращення §a%s",
+    "en": "$SB_PREFIX$Player %s §fbought improvement §a%s"
   },
   "ISLAND_BUY_UPGRADE_GOLD_LORE": {
     "ru": [
@@ -1295,8 +1295,8 @@
   },
   "ISLAND_BUY_UPGRADE_TERRITORY": {
     "ru": "$SB_PREFIX$Игрок %s §fкупил расширение территории острова",
-    "ua": "§6SkyBlock §8| §fГравець %s §fкупив розширення території острова",
-    "en": "§6SkyBlock §8| §fPlayer %s §fbought an extension of the territory islands"
+    "ua": "$SB_PREFIX$Гравець %s §fкупив розширення території острова",
+    "en": "$SB_PREFIX$Player %s §fbought an extension of the territory islands"
   },
   "ISLAND_CANCEL": {
     "ru": "$SB_PREFIX$Вы отклонили запрос на совместное сожительство от игрока %s",
@@ -1335,13 +1335,13 @@
   },
   "ISLAND_CLEAR_STATS_APPLY": {
     "ru": "$SB_PREFIX$Статистика очищена",
-    "ua": "§6SkyBlock §8| §fСтатистика очищена",
-    "en": "§6SkyBlock §8| §fStatistics cleared"
+    "ua": "$SB_PREFIX$Статистика очищена",
+    "en": "$SB_PREFIX$Statistics cleared"
   },
   "ISLAND_CLEAR_STATS_ERROR": {
     "ru": "$SB_PREFIX$Вы не можете очистить пустую статистику :/",
-    "ua": "§6SkyBlock §8| §fВи не можете очистити порожню статистику :/",
-    "en": "§6SkyBlock §8| §fYou cannot clear empty statistics :/"
+    "ua": "$SB_PREFIX$Ви не можете очистити порожню статистику :/",
+    "en": "$SB_PREFIX$You cannot clear empty statistics :/"
   },
   "ISLAND_CLEAR_STATS_LORE": {
     "ru": [
@@ -1463,8 +1463,8 @@
   },
   "ISLAND_CLOSED": {
     "ru": "$SB_PREFIX$Данный остров закрыт и телепортация на него не возможна! Попросите владельца отключить флаг §cприватность",
-    "ua": "§6SkyBlock §8| §fЦей острів закритий і телепортація на нього неможлива! Попросіть власника відключити прапор §cприватність",
-    "en": "§6SkyBlock §8| §fThis island is closed and teleportation to it is not possible! Ask the owner to turn off the flag §cprivacy"
+    "ua": "$SB_PREFIX$Цей острів закритий і телепортація на нього неможлива! Попросіть власника відключити прапор §cприватність",
+    "en": "$SB_PREFIX$This island is closed and teleportation to it is not possible! Ask the owner to turn off the flag §cprivacy"
   },
   "ISLAND_CREATE_DESCRIPTION": {
     "ru": "создать остров"
@@ -1600,8 +1600,8 @@
   },
   "ISLAND_DELETE": {
     "ru": "$SB_PREFIX$Игрок %s §fбыл успешно удален с вашего острова",
-    "ua": "§6SkyBlock §8| §fГравець %s §fбув успішно видалений з вашого острова",
-    "en": "§6SkyBlock §8| §fPlayer %s §fhas been successfully removed from your island"
+    "ua": "$SB_PREFIX$Гравець %s §fбув успішно видалений з вашого острова",
+    "en": "$SB_PREFIX$Player %s §fhas been successfully removed from your island"
   },
   "ISLAND_DELETE_GUI_NAME": {
     "ru": "Удалить остров?",
@@ -1642,28 +1642,28 @@
   },
   "ISLAND_DELETE_MEMBER_ERROR": {
     "ru": "$SB_PREFIX$§cОшибка, данный игрок не является участником вашего острова",
-    "ua": "§6SkyBlock §8| §cПомилка, цей гравець не є учасником вашого острова",
-    "en": "§6SkyBlock §8| §cError, this player is not a member of your island"
+    "ua": "$SB_PREFIX$§cПомилка, цей гравець не є учасником вашого острова",
+    "en": "$SB_PREFIX$§cError, this player is not a member of your island"
   },
   "ISLAND_DELETE_MEMBER_ERROR2": {
     "ru": "$SB_PREFIX$§cОшибка, данный игрок владелец острова",
-    "ua": "§6SkyBlock §8| §cПомилка, цей гравець власник острова",
-    "en": "§6SkyBlock §8| §cError, this the player is the owner of the island"
+    "ua": "$SB_PREFIX$§cПомилка, цей гравець власник острова",
+    "en": "$SB_PREFIX$§cError, this the player is the owner of the island"
   },
   "ISLAND_DELETE_MEMBER_OWNER": {
     "ru": "$SB_PREFIX$§cОшибка, вы не можете удалить сами себя со своего острова",
-    "ua": "§6SkyBlock §8| §cПомилка, ви не можете видалити самі себе зі свого острова",
-    "en": "§6SkyBlock §8| §cError, you cannot delete yourself from your island"
+    "ua": "$SB_PREFIX$§cПомилка, ви не можете видалити самі себе зі свого острова",
+    "en": "$SB_PREFIX$§cError, you cannot delete yourself from your island"
   },
   "ISLAND_DELETE_TO": {
     "ru": "$SB_PREFIX$Игрок %s §fудалил вас с острова %s §fи вы были отправлены на спавн",
-    "ua": "§6SkyBlock §8| §fГравець %s §fвидалив вас з острова %s §fі ви були відправлені на спавн",
-    "en": "§6SkyBlock §8| §fPlayer %s §fremoved you from the island %s §fand you were spawned"
+    "ua": "$SB_PREFIX$Гравець %s §fвидалив вас з острова %s §fі ви були відправлені на спавн",
+    "en": "$SB_PREFIX$Player %s §fremoved you from the island %s §fand you were spawned"
   },
   "ISLAND_DESTROY_COOLDOWN": {
     "ru": "$SB_PREFIX$§cВы не можете так часто делать рестарт острова, вам придется подождать %s",
-    "ua": "§6SkyBlock §8| §cВи не можете так часто робити рестарт острова, вам прийдеться зачекати %s",
-    "en": "§6SkyBlock §8| §cYou cannot restart the island so often, you will have to wait %s"
+    "ua": "$SB_PREFIX$§cВи не можете так часто робити рестарт острова, вам прийдеться зачекати %s",
+    "en": "$SB_PREFIX$§cYou cannot restart the island so often, you will have to wait %s"
   },
   "ISLAND_END_LORE": {
     "ru": [
@@ -2029,30 +2029,55 @@
     "ua": "Поява снігу",
     "en": "Snow formation"
   },
-  "ISLAND_FLAG_SPAWN_MOB_LORE": {
+  "ISLAND_FLAG_SPAWN_ANIMAL_LORE": {
     "ru": [
       "",
       "§7Позволяет включить или",
       "§7отключить спавн",
-      "§7мобов на территории острова"
+      "§7животных на территории острова"
     ],
     "ua": [
       "",
       "§7Дозволяє увімкнути або",
       "§7відімкнути спавн",
-      "§7мобів на території острова"
+      "§7животных на території острова"
     ],
     "en": [
       "",
       "§7Allows you to enable or",
-      "§7disable mobes spawn",
+      "§7disable animal spawn",
       "§7on the island"
     ]
   },
-  "ISLAND_FLAG_SPAWN_MOB_NAME": {
-    "ru": "Спавн мобов",
-    "ua": "Спавн мобів",
-    "en": "Mobes spawn"
+  "ISLAND_FLAG_SPAWN_ANIMAL_NAME": {
+    "ru": "Спавн животных",
+    "ua": "Спавн животных",
+    "en": "Animal spawn"
+  },
+  "ISLAND_FLAG_SPAWN_MONSTER_LORE": {
+    "ru": [
+      "",
+      "§7Позволяет включить или",
+      "§7отключить спавн",
+      "§7монстров на территории острова"
+    ],
+    "ua": [
+      "",
+      "§7Дозволяє увімкнути або",
+      "§7відімкнути спавн",
+      "§7монстров на території острова"
+    ],
+    "en": [
+      "",
+      "§7Allows you to enable or",
+      "§7disable monsters spawn",
+      "§7on the island"
+    ]
+  },
+  "ISLAND_FLAG_SPAWN_MONSTER_NAME": {
+    "ru": "Спавн монстров",
+    "ua": "Спавн монстров",
+    "en": "Monster spawn"
   },
   "ISLAND_FLAG_TRANSPORT_LORE": {
     "ru": [
@@ -2301,8 +2326,8 @@
   },
   "ISLAND_LEAVE": {
     "ru": "$SB_PREFIX$Вы покинули остров игрока %s",
-    "ua": "§6SkyBlock §8| §fВи покинули острів гравця %s",
-    "en": "§6SkyBlock §8| §fYou left the island of the player %s"
+    "ua": "$SB_PREFIX$Ви покинули острів гравця %s",
+    "en": "$SB_PREFIX$You left the island of the player %s"
   },
   "ISLAND_LEAVE_GUI_NAME": {
     "ru": "Покинуть остров?",
@@ -2334,13 +2359,13 @@
   },
   "ISLAND_LEAVE_OWNER": {
     "ru": "$SB_PREFIX$§cОшибка, вы не можете покинуть свой же остров",
-    "ua": "§6SkyBlock §8| §cПомилка, ви не можете залишити свій же острів",
-    "en": "§6SkyBlock §8| §cError, you cannot leave your own island"
+    "ua": "$SB_PREFIX$§cПомилка, ви не можете залишити свій же острів",
+    "en": "$SB_PREFIX$§cError, you cannot leave your own island"
   },
   "ISLAND_MAX_UPGRADE": {
     "ru": "$SB_PREFIX$§cОшибка! У вас уже максимальный уровень данного апгрейда",
-    "ua": "§6SkyBlock §8| §cПомилка! У вас вже максимальний рівень цього апгрейда",
-    "en": "§6SkyBlock §8| §cError! You already have the maximum level of this upgrade"
+    "ua": "$SB_PREFIX$§cПомилка! У вас вже максимальний рівень цього апгрейда",
+    "en": "$SB_PREFIX$§cError! You already have the maximum level of this upgrade"
   },
   "ISLAND_MEMBER": {
     "ru": "Участник",
@@ -2354,8 +2379,8 @@
   },
   "ISLAND_MEMBER_BLOCKED": {
     "ru": "$SB_PREFIX$Простите, но вы были внесеты в §cсписок нежелательных игроков §fэтого острова (владелец - %s§f)",
-    "ua": "§6SkyBlock §8| §fВибачте, але ви були внесені в §cсписок небажаних гравців §fцього острова (власник - %s§f)",
-    "en": "§6SkyBlock §8| §fSorry, but you have been listed §cas an unwanted player §fof this island (owner - %s§f)"
+    "ua": "$SB_PREFIX$Вибачте, але ви були внесені в §cсписок небажаних гравців §fцього острова (власник - %s§f)",
+    "en": "$SB_PREFIX$Sorry, but you have been listed §cas an unwanted player §fof this island (owner - %s§f)"
   },
   "ISLAND_MEMBER_LORE": {
     "ru": [
@@ -2426,8 +2451,8 @@
   },
   "ISLAND_MEMBER_SETTINGS_OWNER": {
     "ru": "$SB_PREFIX$§cОшибка, вы не можете настраивать права владельца острова!",
-    "ua": "§6SkyBlock §8| §cПомилка, ви не можете налаштовувати права власника острова!",
-    "en": "§6SkyBlock §8| §cError, you cannot configure rights of the owner of the island!"
+    "ua": "$SB_PREFIX$§cПомилка, ви не можете налаштовувати права власника острова!",
+    "en": "$SB_PREFIX$§cError, you cannot configure rights of the owner of the island!"
   },
   "ISLAND_MEMBER_SET_RANK_ALERT": {
     "ru": "$SB_PREFIX$§fИгроку %s §fбыли назначены новые права управления островом",
@@ -2482,9 +2507,9 @@
     "en": "Updated!"
   },
   "ISLAND_MINE_UPDATE_NETHER": {
-    "ru": "§fАвтошахта обновлена §7/warp minenether",
-    "ua": "§fАвтошахта оновлена §7/warp minenether",
-    "en": "§fAutomine updated §7/warp minenether"
+    "ru": "$SB_PREFIX$§fАвтошахта обновлена §7/warp minenether",
+    "ua": "$SB_PREFIX$§fАвтошахта оновлена §7/warp minenether",
+    "en": "$SB_PREFIX$§fAutomine updated §7/warp minenether"
   },
   "ISLAND_MOB_COMMAND": {
     "ru": [
@@ -2514,8 +2539,8 @@
   },
   "ISLAND_MOB_COMMAND_ERROR": {
     "ru": "$SB_PREFIX$Вы должны находится на территории своего острова",
-    "ua": "§6SkyBlock §8| §fВи повинні знаходиться на території свого острова",
-    "en": "§6SkyBlock §8| §fYou must be on the territory of your island"
+    "ua": "$SB_PREFIX$Ви повинні знаходиться на території свого острова",
+    "en": "$SB_PREFIX$You must be on the territory of your island"
   },
   "ISLAND_NETHER_MINE_ERROR": {
     "ru": "§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение \"АД\"",
@@ -2529,8 +2554,8 @@
   },
   "ISLAND_NOT_FOUND": {
     "ru": "$SB_PREFIX$Остров игрока %s §fне найден",
-    "ua": "§6SkyBlock §8| §fОстрів гравця %s §fне знайдений",
-    "en": "§6SkyBlock §8| §fPlayer's island %s §fnot found"
+    "ua": "$SB_PREFIX$Острів гравця %s §fне знайдений",
+    "en": "$SB_PREFIX$Player's island %s §fnot found"
   },
   "ISLAND_NOT_OWNER": {
     "ru": "§cОшибка, вы не владелец или со-владелец острова!",
@@ -2554,8 +2579,8 @@
   },
   "ISLAND_NO_ISLAND": {
     "ru": "$SB_PREFIX$Ошибка, кажется у вас нет острова... Чтобы создать свой остров напишите §7/island create",
-    "ua": "§6SkyBlock §8| §fПомилка, здається у вас немає острова ... Щоб створити свій острів, напишіть §7/island create",
-    "en": "§6SkyBlock §8| §fError, it seems you don't have an island ... To create an island, write §7/island create"
+    "ua": "$SB_PREFIX$Помилка, здається у вас немає острова ... Щоб створити свій острів, напишіть §7/island create",
+    "en": "$SB_PREFIX$Error, it seems you don't have an island ... To create an island, write §7/island create"
   },
   "ISLAND_NO_PVP": {
     "ru": "§cОшибка, ПВП на этом острове отключено",
@@ -3047,13 +3072,13 @@
   },
   "ISLAND_REMOVED": {
     "ru": "$SB_PREFIX$Остров успешно удален, вы были перемещены на спавн",
-    "ua": "§6SkyBlock §8| §fОстрів успішно видалений, ви були переміщені на спавн",
-    "en": "§6SkyBlock §8| §fIsland successfully removed, you have been spawned"
+    "ua": "$SB_PREFIX$Острів успішно видалений, ви були переміщені на спавн",
+    "en": "$SB_PREFIX$Island successfully removed, you have been spawned"
   },
   "ISLAND_REMOVED_MEMBER": {
     "ru": "$SB_PREFIX$Владелец острова удалил свой остров, вы были перемещены на спавн",
-    "ua": "§6SkyBlock §8| §fВласник острова видалив свій острів, ви були переміщені на спавн",
-    "en": "§6SkyBlock §8| §fThe owner of the island has deleted their island, you were moved to spawn"
+    "ua": "$SB_PREFIX$Власник острова видалив свій острів, ви були переміщені на спавн",
+    "en": "$SB_PREFIX$The owner of the island has deleted their island, you were moved to spawn"
   },
   "ISLAND_REMOVE_IGNORE_PLAYER": {
     "ru": "$SB_PREFIX$%s §fбыл удален участником %s§f из списка нежелательных игроков острова",
@@ -3090,8 +3115,8 @@
   },
   "ISLAND_REQUESTS_ERROR": {
     "ru": "$SB_PREFIX$§cОшибка, у вас уже есть остров, приглашения вам не нужны",
-    "ua": "§6SkyBlock §8| §cПомилка, у вас вже є острів, запрошення вам не потрібні",
-    "en": "§6SkyBlock §8| §cError, you already have an island, you don't need invitations"
+    "ua": "$SB_PREFIX$§cПомилка, у вас вже є острів, запрошення вам не потрібні",
+    "en": "$SB_PREFIX$§cError, you already have an island, you don't need invitations"
   },
   "ISLAND_REQUESTS_ITEM_HEAD_LORE": {
     "ru": [
@@ -3130,8 +3155,8 @@
   },
   "ISLAND_RESET": {
     "ru": "$SB_PREFIX$Ваш остров был очищен и пересоздан",
-    "ua": "§6SkyBlock §8| §fВаш острів був очищений і перебудований",
-    "en": "§6SkyBlock §8| §fYour island has been cleared and removed"
+    "ua": "$SB_PREFIX$Ваш острів був очищений і перебудований",
+    "en": "$SB_PREFIX$Your island has been cleared and removed"
   },
   "ISLAND_RESET_GUI_NAME": {
     "ru": "Пересоздать остров?",
@@ -3228,13 +3253,13 @@
   },
   "ISLAND_SETHOME": {
     "ru": "$SB_PREFIX$Точка дома установлена (§7%s§f)",
-    "ua": "§6SkyBlock §8| §fТочка будинку встановлена (§7%s§f)",
-    "en": "§6SkyBlock §8| §fHouse point is set (§7%s§f)"
+    "ua": "$SB_PREFIX$Точка будинку встановлена (§7%s§f)",
+    "en": "$SB_PREFIX$House point is set (§7%s§f)"
   },
   "ISLAND_SETHOME_ERROR": {
     "ru": "$SB_PREFIX$§cВы не можете установить точку дома в этой локации",
-    "ua": "§6SkyBlock §8| §cВи не можете встановити точку будинку в цій локації",
-    "en": "§6SkyBlock §8| §cYou cannot set a house point in this location."
+    "ua": "$SB_PREFIX$§cВи не можете встановити точку будинку в цій локації",
+    "en": "$SB_PREFIX$§cYou cannot set a house point in this location."
   },
   "ISLAND_TAIGA_LORE": {
     "ru": [
@@ -3272,8 +3297,8 @@
   },
   "ISLAND_TELEPORT_HOME": {
     "ru": "$SB_PREFIX$Вы были телепортированы на остров (владелец - %s§f)",
-    "ua": "§6SkyBlock §8| §fВи були телепортовані на острів (власник - %s§f)",
-    "en": "§6SkyBlock §8| §fYou have been teleported to island (owner - %s§f)"
+    "ua": "$SB_PREFIX$Ви були телепортовані на острів (власник - %s§f)",
+    "en": "$SB_PREFIX$You have been teleported to island (owner - %s§f)"
   },
   "ISLAND_TOP_KILLS_HOLO": {
     "ru": [
@@ -3342,13 +3367,13 @@
   },
   "ISLAND_UPGRADE_BUY_ERROR": {
     "ru": "$SB_PREFIX$У вас недостаточно §aизумрудных блоков§f для этой покупки (необходимо §7x%s§f)",
-    "ua": "§6SkyBlock §8| §fУ вас недостатньо §aсмарагдових блоків§f для цієї покупки (необхідно §7x%s§f)",
-    "en": "§6SkyBlock §8| §fYou don't have enough §aemerald blocks§f for this purchase (needed §7x%s§f)"
+    "ua": "$SB_PREFIX$У вас недостатньо §aсмарагдових блоків§f для цієї покупки (необхідно §7x%s§f)",
+    "en": "$SB_PREFIX$You don't have enough §aemerald blocks§f for this purchase (needed §7x%s§f)"
   },
   "ISLAND_UPGRADE_BUY_GOLD_ERROR": {
     "ru": "$SB_PREFIX$У вас недостаточно §eзолота §f для этой покупки (необходимо §e%s§f)",
-    "ua": "§6SkyBlock §8| §fУ вас недостатньо §eзолота §f для цієї покупки (необхідно §e%s§f)",
-    "en": "§6SkyBlock §8| §fYou don't have enough §egold §f for this purchase (needed §e%s§f)"
+    "ua": "$SB_PREFIX$У вас недостатньо §eзолота §f для цієї покупки (необхідно §e%s§f)",
+    "en": "$SB_PREFIX$You don't have enough §egold §f for this purchase (needed §e%s§f)"
   },
   "ISLAND_UPGRADE_EFFICIENCY_FURNACE_LORE": {
     "ru": [
@@ -3496,44 +3521,97 @@
     "ua": "Вибір острова",
     "en": "Choose island"
   },
-  "SKYBLOCK_SHOP_BLOCKS": {
+  "SKYBLOCK_MARKET_BLOCKS": {
     "ru": "Магазин блоков",
     "ua": "Магазин блоків",
     "en": "Blocks shop"
   },
-  "SKYBLOCK_SHOP_CUSTOM": {
+  "SKYBLOCK_MARKET_CUSTOM": {
     "ru": "Магазин редкостей",
     "ua": "Магазин рідкостей",
     "en": "Rarity shop"
   },
-  "SKYBLOCK_SHOP_EXCHANGER": {
+  "SKYBLOCK_MARKET_EXCHANGER": {
     "ru": "Магазин обменник",
     "ua": "Магазин обмінник",
     "en": "Exchanger shop"
   },
-  "SKYBLOCK_SHOP_FARMING": {
+  "SKYBLOCK_MARKET_FARMING": {
     "ru": "Магазин фермерства",
     "ua": "Магазин фермерства",
     "en": "Farming shop"
   },
-  "SKYBLOCK_SHOP_LOOT": {
+  "SKYBLOCK_MARKET_LOOT": {
     "ru": "Магазин дропа",
     "ua": "Магазин дропа",
     "en": "Drop shop"
   },
-  "SKYBLOCK_SHOP_OTHER": {
+  "SKYBLOCK_MARKET_OTHER": {
     "ru": "Магазин разного",
     "ua": "Магазин різного",
     "en": "Other shop"
   },
-  "SKYBLOCK_SHOP_RES": {
+  "SKYBLOCK_MARKET_RES": {
     "ru": "Магазин ресурсов",
     "ua": "Магазин ресурсів",
     "en": "Resources shop"
+  },
+  "SKYBLOCK_MARKET_CUSTOM_NPC": {
+    "ru": "§eРедкости",
+    "ua": "§eРідкості",
+    "en": "§eRarities"
+  },
+  "SKYBLOCK_MARKET_BLOCKS_NPC": {
+    "ru": "§eБлоки",
+    "ua": "§eБлоки",
+    "en": "§eBlocks"
+  },
+  "SKYBLOCK_MARKET_EXCHANGER_NPC": {
+    "ru": "§eОбменник",
+    "ua": "§eОбмінник",
+    "en": "§eExchanger"
+  },
+  "SKYBLOCK_MARKET_FARMING_NPC": {
+    "ru": "§eФермерство",
+    "ua": "§eФермерство",
+    "en": "§eFarming"
+  },
+  "SKYBLOCK_MARKET_FOOD_NPC": {
+    "ru": "§eЕда",
+    "ua": "§eЇжа",
+    "en": "§eFood"
+  },
+  "SKYBLOCK_MARKET_LOOT_NPC": {
+    "ru": "§eРазличный лут",
+    "ua": "§eРізний лут",
+    "en": "§eVarious loot"
+  },
+  "SKYBLOCK_MARKET_RES_NPC": {
+    "ru": "§eРуды",
+    "ua": "§eРуди",
+    "en": "§eOres"
+  },
+  "SKYBLOCK_MARKET_OTHER_NPC": {
+    "ru": "§eРазное",
+    "ua": "§eРізне",
+    "en": "§eDifferent"
   },
   "SKYBLOCK_UPGRADE_GUI_NAME": {
     "ru": "Улучшения",
     "ua": "Покращення",
     "en": "Upgrades"
+  },
+  "ISLAND_ADDLEVEL_ALL_ERROR": {
+    "ru": "$SB_PREFIX$У вас нет предметов, которыми можно поднять уровень острова"
+  },
+  "ISLAND_ADDLEVEL_ALL": {
+    "ru": "§aМоментально повысить уровень"
+  },
+  "ISLAND_ADDLEVEL_ALL_DESCRIPTION": {
+    "ru": [
+      "",
+      "§eНажмите сюда, чтобы все драгоценные блоки",
+      "§eв вашем инвентаре перешли в уровень острова"
+    ]
   }
 }

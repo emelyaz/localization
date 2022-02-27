@@ -1,0 +1,37 @@
+{
+  "SPLEEF": {
+    "TEAM_ELIMINATED": {
+      "ru": "§fКоманда %s §fпроиграла раунд!"
+    },
+    "PLAYER_ELIMINATED": {
+      "ru": "§4§l✖ %s"
+    },
+    "TOGGLESNOW_DISABLED": {
+      "ru": "Снег выключен"
+    },
+    "TOGGLESNOW_ENABLED": {
+      "ru": "Снег включен"
+    },
+    "TEAM_WIN": {
+      "ru": "§fКоманда %s §fпобедила в этом раунде!"
+    },
+    "ROUND_TIME": {
+      "ru": "§fДо конца раунда осталось §a%s"
+    },
+    "ROUND_MOST_PLAYER_WINNER": {
+      "ru": "§fПобедителем выбрана команда с наибольшим количеством живых игроков"
+    },
+    "SNOWGUN_BROADCAST": {
+      "ru": "§fВсе игроки получили снежную лопату!"
+    },
+    "WAIT_FOR_NEW_ROUND": {
+      "ru": "§aОжидайте следующий раунд!"
+    },
+    "BOARD_ROUND_END": {
+      "ru": "§fКонец раунда: §a%s"
+    },
+    "BOARD_ROUND_START": {
+      "ru": "§fНачало раунда..."
+    }
+  }
+}

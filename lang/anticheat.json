@@ -1,22 +1,54 @@
 {
-  "PLAYER_CHECK_NOT_PASSED": {
-    "ru": "§6Античит §8| §fИгрок %s §fнарушил проверку §c%s§f, его новый VL - §c%s",
-    "ua": "§6Антічит §8| §fГравець %s §fпорушив перевірку §c%s§f, його новий VL - §c%s",
-    "en": "§6Anticheat §8| §fPlayer %s §fviolated verification §c%s§f, his new VL - §c%s"
+  "ANTICHEAT_PREFIX": {
+    "ru": "§6Античит §8| §f"
   },
-  "PLAYER_GOT_BANNED": {
-    "ru": "§6Античит §8| §fИгрок %s §fбыл заблокирован за использование стороннего ПО",
-    "ua": "§6Антічит §8| §fГравець %s §fбув заблокований за використання стороннього ПО",
-    "en": "§6Anticheat §8| §fPlay %s §fhas been banned for using a third party software"
+  "ANTICHEAT_VERBOSE": {
+    "ru": "§cАнтичит §8| §7%s §7нарушил проверку §e%s §7(сервер - §f%s§7, VL - §f%s§7)"
   },
-  "PLAYER_WAS_KICKED": {
-    "ru": "§6Античит §8| §fИгрок %s §fбыл кикнут по подозрению в использовании стороннего ПО",
-    "ua": "§6Антічит §8| §fГравця %s §fкікнули через підозру у використанні стороннього ПО",
-    "en": "§6Anticheat §8| §fPlayer %s §fwas kicked on suspicion of use third-party software"
+  "ANTICHEAT_VERBOSE_KICK": {
+    "ru": "§cМодерация §8| §7%s §7был кикнут античитом по подозрению в читерстве §7(§f%s§7)"
   },
-  "YOU_GOT_KICKED": {
-    "ru": "§6Античит §8| §fВы были кикнуты за использование стороннего ПО",
-    "ua": "§6Антічит §8| §fВас кікнули за використання сторонього ПО",
-    "en": "§6Anticheat §8| §fYou have been kicked for using third-party software"
+  "ANTICHEAT_VERBOSE_HOVER": {
+    "ru": [
+      "§7Нажмите для телепортации на",
+      "§7сервер игрока %s",
+      "%s"
+    ]
+  },
+  "ANTICHEAT_VERBOSE_HOVER_DATA": {
+    "ru": [
+      " ",
+      "§7Дополнительная информация, собранная античитом:",
+      "§f%s"
+    ]
+  },
+  "ANTICHEAT_KICK_PLAYER": {
+    "ru": "$ANTICHEAT_PREFIX$Игрок %s §fбыл кикнут по подозрению в использовании читов",
+    "ua": "$ANTICHEAT_PREFIX$Гравця %s §fкікнули через підозру у використанні стороннього ПО",
+    "en": "$ANTICHEAT_PREFIX$Player %s §fwas kicked on suspicion of use third-party software"
+  },
+  "ANTICHEAT_BAN_PLAYER": {
+    "ru": [
+      " ",
+      " §c%s §cбыл заблокирован за использование стороннего ПО",
+      " §cИспользуйте /report, чтобы сообщать о нарушителях!",
+      " "
+    ]
+  },
+  "ANTICHEAT_KICK": {
+    "ru": [
+      "$ANTICHEAT_PREFIX$Вы были отключены от вашей игры по подозрению в использовании стороннего ПО",
+      " ",
+      " §cЕсли Вы считаете это ложным срабатыванием,",
+      " §cпожалуйста, сделайте скриншот данного сообщения",
+      " §cи отправьте в ЛС официальной группы ВКонтакте:",
+      " §8%s %s"
+    ]
+  },
+  "ANTICHEAT_VERBOSE_ENABLED": {
+    "ru": "$ANTICHEAT_PREFIX$Вы включили глобальные оповещения о возможных читерах"
+  },
+  "ANTICHEAT_VERBOSE_DISABLED": {
+    "ru": "$ANTICHEAT_PREFIX$Вы отключили глобальные оповещения о возможных читерах. Чтобы включить их снова, напишите эту команду еще раз"
   }
 }
