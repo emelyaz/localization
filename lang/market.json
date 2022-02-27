@@ -1,5 +1,5 @@
 {
   "MARKET_KEY_PURCHASED": {
-    "ru": "$@MODE_PREFIX$Вы приобрели ключ §b%0 x%1"
+    "ru": "$@MODE_PREFIX$Вы получили §b%0 x%1"
   }
 }
