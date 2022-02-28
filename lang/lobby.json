@@ -3487,6 +3487,34 @@
       "§e§e▸ Click to watch the game"
     ]
   },
+  "LOBBY_SETTINGS_NO_SOUND_MENTION_LORE": {
+    "ru": [
+      "§7Отключить или включить звук от",
+      "§7упоминаний"
+    ],
+    "en": [
+      "§7Disable or enable sound of",
+      "§7mentions"
+    ]
+  },
+  "LOBBY_SETTINGS_NO_SOUND_MENTION_NAME": {
+    "ru": "Звук упоминаний",
+    "en": "Mentions sound"
+  },
+  "LOBBY_SETTINGS_NO_SOUND_AUTO_MESSAGE_LORE": {
+    "ru": [
+      "§7Отключить или включить звук от",
+      "§7автосообщений"
+    ],
+    "en": [
+      "§7Disable or enable sound of",
+      "§7automessages"
+    ]
+  },
+  "LOBBY_SETTINGS_NO_SOUND_AUTO_MESSAGE_NAME": {
+    "ru": "Звук автосообщений",
+    "en": "Automessages sound"
+  },
   "LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_LORE": {
     "ru": [
       "§7Позволяет включить или выключить",
