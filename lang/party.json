@@ -259,11 +259,6 @@
     "ua": "§cПомилка, відправник запрошення зараз офлайн",
     "en": "§cError, the sender of the invitation is offline"
   },
-  "PARTY_PLAYERS_WARPED": {
-    "ru": "§6Party §8| §fВсе онлайн-участники были телепортированы на Ваш сервер",
-    "ua": "§6Party §8| §fВсі онлайн-учасники були телепортовані на ваш сервер",
-    "en": "§6Party §8| §fAll online members have been teleported to your server"
-  },
   "PARTY_PLAYER_KICKED": {
     "ru": "§6Party §8| §fВы удалили игрока %s §fиз группы",
     "ua": "§6Party §8| §fВи видалили гравця %s §fіз групи",
@@ -407,15 +402,26 @@
     "ua": "§6Party §8| %s §fпередав вам права на управління групою",
     "en": "§6Party §8| %s §fgave you the rights to manage the group"
   },
-  "PARTY_YOU_WARPED": {
-    "ru": "§6Party §8| §fЛидер группы %s §fтелепортировал Вас на его сервер",
-    "ua": "§6Party §8| §fЛідер групи %s §fтелепортував вас на його сервер",
-    "en": "§6Party §8| §fGroup leader %s §fteleported you to his server"
+  "PARTY_WARP": {
+    "ru": "§6Party §8| §fЛидер группы %s §fтелепортировал всех игроков на свой сервер",
+    "en": "§6Party §8| §fGroup leader %s §fteleported all party members to his server"
+  },
+  "PARTY_WARP_CONFIRMATION": {
+    "ru": "§6Party §8| §fОдин из участников вашей группы сейчас §cв игре§f. Если Вы уверены, что хотите телепортировать Party на свой сервер, напишите команду еще раз."
+  },
+  "PARTY_TELEPORT_CONFIRMATION": {
+    "ru": "§6Party §8| §fОдин из участников вашей группы сейчас §cиграет§f. Для подтверждения попробуйте войти в новую игру еще раз."
   },
   "PLAYER_JOINED_PUBLIC_PARTY": {
     "ru": "§6Party §8| %s §fприсоединился к публичной группе",
     "ua": "§6Party §8| %s §fприєднався до публічної групи",
     "en": "§6Party §8| %s §fjoined a public group"
+  },
+  "GAME_TELEPORTATION_SETTING": {
+    "ru": "защита от телепортаций"
+  },
+  "GAME_TELEPORTATION_SETTING_DESCRIPTION": {
+    "ru": "добавляет подтверждение на любые телепортации лидером группы, если хотя бы один из участников находится в игре"
   },
   "PUBLIC_PARTY_SETTING": {
     "ru": "публичность",
