@@ -1418,6 +1418,24 @@
     "ua": "$@MODE_PREFIX$Приват §7%s §fрозширено на §a%s §fблоків по координаті §7Y §fгравцем %s",
     "en": "$@MODE_PREFIX$Private §7%s §fexpanded by §a%s §fblocks by coordinate §7Y §fby player %s"
   },
+  "SURVIVAL": {
+    "BOSS": {
+      "SPIDER_QUEEN": {
+        "NAME": {
+          "ru": "Королева пауков"
+        },
+        "DESCRIPTION": {
+          "ru": "§eTODO"
+        }
+      },
+      "MENU": {
+        "ru": "Боссы"
+      },
+      "ICON_NAME": {
+        "ru": "§e"
+      }
+    }
+  },
   "SURVIVAL_ALCHEMIST_MENU": {
     "ru": "Алхимик",
     "ua": "Алхімік",
