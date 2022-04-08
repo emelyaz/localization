@@ -3604,7 +3604,8 @@
     "en": "Upgrades"
   },
   "ISLAND_ADDLEVEL_ALL_ERROR": {
-    "ru": "$SB_PREFIX$У вас нет предметов, которыми можно поднять уровень острова"
+    "ru": "$SB_PREFIX$У вас нет предметов, которыми можно поднять уровень острова",
+    "en": "$SB_PREFIX$You don't have items you can raise island level with"
   },
   "ISLAND_ADDLEVEL_ALL": {
     "ru": "§aМоментально повысить уровень"
