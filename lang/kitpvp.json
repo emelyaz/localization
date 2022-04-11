@@ -133,6 +133,15 @@
     },
     "KIT_SELECTED": {
       "ru": "$KITPVP_PREFIX$Вы выбрали набор §a%s"
+    },
+    "KIT_SELECTION_ITEM": {
+      "ru": "§eМеню наборов"
+    },
+    "KIT_SELECTION_ITEM_LORE": {
+      "ru": [
+        "§7Нажмите, чтобы открыть меню",
+        "§7покупки и выбора наборов"
+      ]
     }
   }
 }
