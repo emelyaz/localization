@@ -116,6 +116,50 @@
     "ua": "§cОбчислюємо час до падіння...",
     "en": "§cCalculating the time before the fall..."
   },
+  "ANARCHY": {
+    "WANDERING": {
+      "MENU": {
+        "TITLE": {
+          "ru": "Странствующий торговец"
+        },
+        "NO_SUFFICIENT_BALANCE": {
+          "ru": "$ANARCHY_PREFIX$Недостаточно монеток на балансе"
+        },
+        "PURCHASE": {
+          "ru": "$ANARCHY_PREFIX$Вы приобрели §e%s §fза §6%s монеток"
+        }
+      },
+      "REMAINING_ITEM": {
+        "NAME": {
+          "ru": "§bТаймер"
+        },
+        "DESCRIPTION": {
+          "ru": [
+            "§7Торговец уйдет в полночь (по МСК)!",
+            "§7Осталось времени: %0"
+          ]
+        }
+      },
+      "INFO_ITEM": {
+        "NAME": {
+          "ru": "§aИнформация"
+        },
+        "DESCRIPTION": {
+          "ru": [
+            "§7Стас сказал скинет.."
+          ]
+        }
+      },
+      "ITEM": {
+        "NAME": {
+          "ru": "§e%0"
+        },
+        "DESCRIPTION": {
+          "ru": "§7Стоит %0 монет!!! Кликни типа"
+        }
+      }
+    }
+  },
   "ANARCHY_HOLOGRAM_REGIONS": {
     "ru": [
       "§cВНИМАНИЕ! §fРегионы, чьи владельцы",
