@@ -50,5 +50,14 @@
   },
   "ANTICHEAT_VERBOSE_DISABLED": {
     "ru": "$ANTICHEAT_PREFIX$Вы отключили глобальные оповещения о возможных читерах. Чтобы включить их снова, напишите эту команду еще раз"
+  },
+  "ANTICHEAT_AURA_CHECK_START": {
+    "ru": "$ANTICHEAT_PREFIX$Вы начали проверку на игрока %s" 
+  },
+  "ANTICHEAT_AURA_CHECK_RESULT": {
+    "ru": "$ANTICHEAT_PREFIX$Игрок ударил бота §a%s §fраз" 
+  },
+  "ANTICHEAT_PLAYER_CPS_COMMAND": {
+    "ru": "$ANTICHEAT_PREFIX$CPS игрока %s§f: §a%s" 
   }
 }
