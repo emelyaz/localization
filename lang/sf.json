@@ -1,5 +1,8 @@
 {
   "SF": {
+    "KILLS_STAT": {
+      "ru": "Убийств игроков в Snowfight"
+    },
     "PREFIX": {
       "ru": "§6Snowfight §8| §f"
     },

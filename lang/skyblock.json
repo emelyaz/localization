@@ -1,6 +1,8 @@
 {
   "SB_PREFIX": {
-    "ru": "§6SkyBlock §8| §f"
+    "ru": "§6SkyBlock §8| §f",
+    "ua": "§6SkyBlock §8| §f",
+    "en": "§6SkyBlock §8| §f"
   },
   "ISLAND_ACCEPT": {
     "ru": "$SB_PREFIX$Вы приняли запрос от игрока %s §fи стали участником острова %s",
@@ -2497,9 +2499,9 @@
     "en": "Until update"
   },
   "ISLAND_MINE_UPDATE": {
-    "ru": "§fАвтошахта обновлена §7/warp mine",
-    "ua": "§fАвтошахта оновлена §7/warp mine",
-    "en": "§fAutomine updated §7/warp mine"
+    "ru": "$SB_PREFIX$§fАвтошахта обновлена §7/warp mine",
+    "ua": "$SB_PREFIX$§fАвтошахта оновлена §7/warp mine",
+    "en": "$SB_PREFIX$§fAutomine updated §7/warp mine"
   },
   "ISLAND_MINE_UPDATE_HOLO": {
     "ru": "Обновлено!",
@@ -3602,7 +3604,8 @@
     "en": "Upgrades"
   },
   "ISLAND_ADDLEVEL_ALL_ERROR": {
-    "ru": "$SB_PREFIX$У вас нет предметов, которыми можно поднять уровень острова"
+    "ru": "$SB_PREFIX$У вас нет предметов, которыми можно поднять уровень острова",
+    "en": "$SB_PREFIX$You don't have items you can raise island level with"
   },
   "ISLAND_ADDLEVEL_ALL": {
     "ru": "§aМоментально повысить уровень"
